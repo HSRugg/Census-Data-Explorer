@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Censues Data Exploer</title>
+    <script>
+	    var path_to_data = "https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/data/census_data/"
+	    var path_to_js = "https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/census_page/"
+    </script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/census_page/d3.legend.js"></script>
+
+<style>
+    body {
+        background-color: azure;
+    }
+    div#tooltip {   
+ 	position: absolute;           
+	text-align: center;           
+	width: 100px;                  
+	height: auto;                 
+	padding: 2px;             
+	font: 18px sans-serif;        
+	background: white;   
+	border: 0px;      
+	border-radius: 8px;           
+	pointer-events: none; 
+    }
+    
+    .legend rect {
+          fill:white;
+          stroke:black;
+          opacity:0.8;
+    }
+    .container {
+        overflow: hidden;
+        background-color: #333;
+        font-family: Arial;
+    }
+    #main_view {
+        background-color: #333;
+        font-size: 16px;
+        height: 1000px;
+        width: 70%;
+        }
+    .container a {
+        float: left;
+        font-size: 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .dropdown {
+        float: left;
+        overflow: hidden;
+    }
+
+    .dropdown .dropbtn {
+        cursor: pointer;
+        font-size: 16px;    
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+    }
+
+    .container a:hover, .dropdown:hover .dropbtn {
+        background-color: red;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #ddd;
+    }
+
+    .show {
+        display: block;
+    }
+    
+    #mypie1 {
+        position: relative;
+
+    }
+    #mypie2 {
+        position: relative;
+        
+    }
+    #line_plot_one {
+        
+        padding-right: 2px;
+        padding-top: 8%;
+        
+        
+    }
+    .chart {
+        height: 700px;
+        position: relative;
+        float: left;
+        padding-left: 1px;
+        padding-right: 5px;
+        width: 700px;
+        
+        
+    }
+    #pie_container { 
+        margin-top: 70px;
+        margin-left: 80px;
+        position: relative;
+        float: left;
+        width: 48%;
+    }
+    #mypie1{
+        position: relative;
+        top: 35px;
+        left: 200px;
+    }
+    #label9 {
+        margin: 20px;
+        transform:translate(-65px,-240px);
+        -webkit-transition: transform 2s; /* For Safari 3.1 to 6.0 */
+        transition: transform 2s;
+    }
+    #label6 {
+        margin: 20px;
+        transform:translate(-250px,200px);
+        -webkit-transition: transform 2s; /* For Safari 3.1 to 6.0 */
+        transition: transform 2s;
+    }
+    #label4 {
+        margin: 20px;
+        transform:translate(65px,260px);
+        -webkit-transition: transform 2s; /* For Safari 3.1 to 6.0 */
+        transition: transform 2s;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+  <a href="https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/census_page/home.html">Home</a>
+<!--
+  <a href="#news">Maps</a>
+  <div class="dropdown">
+    <button class="dropbtn" onclick="myFunction()">By State</button>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="/d3_testing/inds_gender_line_plot_ca.html">Californa</a>
+      <a onClick="make_bars('Utah');">Utah</a>
+      <a onClick="make_bars('NewYork');">New York</a>
+      
+    </div>
+  </div> 
+-->
+</div>
+<!--
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+</script>
+    
+    
+-->
+<center>
+<h3>Welcome To A Census Industry Data Explore</h3>
+    <h3> Data Is From The <a href="https://www.census.gov/data/developers/data-sets/qwi.html#industry">US Census Bureau</a></h3>
+<h2 id = "my_p">Click A State To Explore It's Gender Wage Equlity</h2>
+<script src="https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/census_page/home_page_map.js"></script>
+
+    
+    <div id="map"></div>
+</center>
+    <script src='https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/census_page/ed_line_by_state.js'></script>
+    <div class="chart">
+    <svg id="line_plot_one" width="1000" height="700"></svg>
+    </div>
+        <div id="pie_container">
+        <div id="mypie1" ></div>
+        </div>
+        <script src="https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/census_page/genderPie.js"></script>
+        <script src="https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/census_page/change_title.js"></script>
+    
+</body>
+</html>
