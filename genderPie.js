@@ -1,4 +1,4 @@
-var path_to_folder = "https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/data/census_data/""
+var path_to_folder = "https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/data/census_data/"
 console.log('im here two')
 var make_pie_for_state = function(state) {
     var year = "2012";
