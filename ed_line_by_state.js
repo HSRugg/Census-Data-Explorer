@@ -28,7 +28,7 @@ var make_line_for_state = function(state) {
     return data.education == "Less Than High School";
     };
     function filter_for_high_school(data) {
-    return data.education == "High School Gradute";
+    return data.education == "High School Graduate";
     };
     function filter_for_some_college(data) {
     return data.education == "Some College";
