@@ -59,6 +59,7 @@ var make_line_for_state = function(state) {
 
     vis.append("svg:g")
         .attr("class", "x axis")
+        .attr("fill","#333")
         .attr("transform", "translate(0," + (HEIGHT - MARGINS.bottom) + ")")
         .call(xAxis)
         .selectAll("text")
