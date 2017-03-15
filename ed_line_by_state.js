@@ -71,7 +71,8 @@ var make_line_for_state = function(state) {
     
     vis.append("svg:g")
         .attr("class", "y axis")
-        .attr("fill","#333333")
+        .attr("stroke", "#333")
+        .attr("fill","none")
         .attr("transform", "translate(" + (MARGINS.left) + ",0)")
         .call(yAxis);
 
