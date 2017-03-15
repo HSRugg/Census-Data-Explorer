@@ -58,8 +58,7 @@ var make_line_for_state = function(state) {
         yAxis = d3.svg.axis().scale(yScale).orient("left");
 
     vis.append("svg:g")
-        .attr("class", "x_axis")
-        .attr("fill","#333333")
+        .attr("class", "axis")
         .attr("transform", "translate(0," + (HEIGHT - MARGINS.bottom) + ")")
         .call(xAxis)
         .selectAll("text")
@@ -70,7 +69,7 @@ var make_line_for_state = function(state) {
         .style("text-anchor", "end");
     
     vis.append("svg:g")
-        .attr("class", "y_axis")
+        .attr("class", "axis")
         .attr("transform", "translate(" + (MARGINS.left) + ",0)")
         .call(yAxis);
 
