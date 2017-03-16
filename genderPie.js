@@ -1,4 +1,4 @@
-var path_to_folder = "/Census-Data-Explorer/data_by_state"
+var path_to_folder = "/Census-Data-Explorer/data_by_state/"
 console.log('im here two')
 var make_pie_for_state = function(state) {
     var year = "2012";
