@@ -15,4 +15,4 @@ var make_inds_map_with_counties function() {
 }
 
 
-make_inds_map_with_counties()
+//make_inds_map_with_counties()
