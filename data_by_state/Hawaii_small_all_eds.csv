@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,All Education Categories,00,2392718020,243679,2004,Male,Hawaii,9819.14
+1,1,1,1,Less Than High School,00,160316669,24775,2004,Male,Hawaii,6470.9
+2,2,2,2,High School Graduate,00,393206990,48040,2004,Male,Hawaii,8184.99
+3,3,3,3,Some College,00,667405815,67374,2004,Male,Hawaii,9905.98
+4,4,4,4,Advanced Degree,00,1038570039,70529,2004,Male,Hawaii,14725.43
+5,5,5,5,Unavalble,00,133218506,32961,2004,Male,Hawaii,4041.7
+6,6,6,6,All Education Categories,00,1569230314,230126,2004,Female,Hawaii,6819.0
+7,7,7,7,Less Than High School,00,114544122,24108,2004,Female,Hawaii,4751.29
+8,8,8,8,High School Graduate,00,262444529,44566,2004,Female,Hawaii,5888.9
+9,9,9,9,Some College,00,465417856,64973,2004,Female,Hawaii,7163.25
+10,10,10,10,Advanced Degree,00,615900186,62401,2004,Female,Hawaii,9870.04
+11,11,11,11,Unavalble,00,110923621,34078,2004,Female,Hawaii,3254.99
+12,12,60,60,All Education Categories,Manufacturing,90659474,9522,2004,Male,Hawaii,9521.05
+13,13,61,61,Less Than High School,Manufacturing,7950384,1192,2004,Male,Hawaii,6669.79
+14,14,62,62,High School Graduate,Manufacturing,18508537,2150,2004,Male,Hawaii,8608.62
+15,15,63,63,Some College,Manufacturing,27986871,2810,2004,Male,Hawaii,9959.74
+16,16,64,64,Advanced Degree,Manufacturing,31693561,2412,2004,Male,Hawaii,13139.95
+17,17,65,65,Unavalble,Manufacturing,4520122,957,2004,Male,Hawaii,4723.22
+18,18,66,66,All Education Categories,Manufacturing,33786673,6215,2004,Female,Hawaii,5436.31
+19,19,67,67,Less Than High School,Manufacturing,5513571,1370,2004,Female,Hawaii,4024.5
+20,20,68,68,High School Graduate,Manufacturing,7584544,1477,2004,Female,Hawaii,5135.1
+21,21,69,69,Some College,Manufacturing,9856900,1592,2004,Female,Hawaii,6191.52
+22,22,70,70,Advanced Degree,Manufacturing,9037078,1202,2004,Female,Hawaii,7518.37
+23,23,71,71,Unavalble,Manufacturing,1794579,574,2004,Female,Hawaii,3126.44
+24,24,84,84,All Education Categories,Retail Trade,223523640,29426,2004,Male,Hawaii,7596.13
+25,25,85,85,Less Than High School,Retail Trade,15698619,2612,2004,Male,Hawaii,6010.19
+26,26,86,86,High School Graduate,Retail Trade,42562407,5757,2004,Male,Hawaii,7393.16
+27,27,87,87,Some College,Retail Trade,67420285,7757,2004,Male,Hawaii,8691.54
+28,28,88,88,Advanced Degree,Retail Trade,73759121,6161,2004,Male,Hawaii,11971.94
+29,29,89,89,Unavalble,Retail Trade,24083208,7140,2004,Male,Hawaii,3373.0
+30,30,90,90,All Education Categories,Retail Trade,181446715,36357,2004,Female,Hawaii,4990.7
+31,31,91,91,Less Than High School,Retail Trade,17503809,4041,2004,Female,Hawaii,4331.55
+32,32,92,92,High School Graduate,Retail Trade,40224723,7958,2004,Female,Hawaii,5054.63
+33,33,93,93,Some College,Retail Trade,53948383,9367,2004,Female,Hawaii,5759.41
+34,34,94,94,Advanced Degree,Retail Trade,46384004,6225,2004,Female,Hawaii,7451.25
+35,35,95,95,Unavalble,Retail Trade,23385795,8766,2004,Female,Hawaii,2667.78
+36,36,120,120,All Education Categories,Finance and Insurance,113813735,5144,2004,Male,Hawaii,22125.53
+37,37,121,121,Less Than High School,Finance and Insurance,1489190,157,2004,Male,Hawaii,9485.29
+38,38,122,122,High School Graduate,Finance and Insurance,5948613,498,2004,Male,Hawaii,11945.01
+39,39,123,123,Some College,Finance and Insurance,18630897,1181,2004,Male,Hawaii,15775.53
+40,40,124,124,Advanced Degree,Finance and Insurance,86040813,3032,2004,Male,Hawaii,28377.58
+41,41,125,125,Unavalble,Finance and Insurance,1704222,275,2004,Male,Hawaii,6197.17
+42,42,126,126,All Education Categories,Finance and Insurance,118605344,11130,2004,Female,Hawaii,10656.37
+43,43,127,127,Less Than High School,Finance and Insurance,2850710,413,2004,Female,Hawaii,6902.45
+44,44,128,128,High School Graduate,Finance and Insurance,13484658,1576,2004,Female,Hawaii,8556.26
+45,45,129,129,Some College,Finance and Insurance,31461186,3249,2004,Female,Hawaii,9683.34
+46,46,130,130,Advanced Degree,Finance and Insurance,65908207,4910,2004,Female,Hawaii,13423.26
+47,47,131,131,Unavalble,Finance and Insurance,4900583,982,2004,Female,Hawaii,4990.41
+48,48,180,180,All Education Categories,Educational Services,36441598,4163,2004,Male,Hawaii,8753.69
+49,49,181,181,Less Than High School,Educational Services,1153486,211,2004,Male,Hawaii,5466.76
+50,50,182,182,High School Graduate,Educational Services,3869636,561,2004,Male,Hawaii,6897.75
+51,51,183,183,Some College,Educational Services,8278669,1020,2004,Male,Hawaii,8116.34
+52,52,184,184,Advanced Degree,Educational Services,22329467,2013,2004,Male,Hawaii,11092.63
+53,53,185,185,Unavalble,Educational Services,810340,358,2004,Male,Hawaii,2263.52
+54,54,186,186,All Education Categories,Educational Services,46396872,6687,2004,Female,Hawaii,6938.37
+55,55,187,187,Less Than High School,Educational Services,1659818,369,2004,Female,Hawaii,4498.15
+56,56,188,188,High School Graduate,Educational Services,5881891,1025,2004,Female,Hawaii,5738.43
+57,57,189,189,Some College,Educational Services,12196403,1809,2004,Female,Hawaii,6742.07
+58,58,190,190,Advanced Degree,Educational Services,25159384,2831,2004,Female,Hawaii,8887.1
+59,59,191,191,Unavalble,Educational Services,1499377,652,2004,Female,Hawaii,2299.66
+60,60,192,192,All Education Categories,Health Care and Social Assistance,173662366,13220,2004,Male,Hawaii,13136.34
+61,61,193,193,Less Than High School,Health Care and Social Assistance,5460445,866,2004,Male,Hawaii,6305.36
+62,62,194,194,High School Graduate,Health Care and Social Assistance,15297018,1948,2004,Male,Hawaii,7852.68
+63,63,195,195,Some College,Health Care and Social Assistance,39793846,3669,2004,Male,Hawaii,10845.97
+64,64,196,196,Advanced Degree,Health Care and Social Assistance,109386095,5766,2004,Male,Hawaii,18970.88
+65,65,197,197,Unavalble,Health Care and Social Assistance,3724963,971,2004,Male,Hawaii,3836.21
+66,66,198,198,All Education Categories,Health Care and Social Assistance,311452472,39516,2004,Female,Hawaii,7881.68
+67,67,199,199,Less Than High School,Health Care and Social Assistance,13978830,2734,2004,Female,Hawaii,5112.96
+68,68,200,200,High School Graduate,Health Care and Social Assistance,38190352,6300,2004,Female,Hawaii,6061.96
+69,69,201,201,Some College,Health Care and Social Assistance,99232556,12997,2004,Female,Hawaii,7635.04
+70,70,202,202,Advanced Degree,Health Care and Social Assistance,146292148,14252,2004,Female,Hawaii,10264.67
+71,71,203,203,Unavalble,Health Care and Social Assistance,13758585,3234,2004,Female,Hawaii,4254.36
+72,72,216,216,All Education Categories,Accommodation and Food Services,287611824,43443,2004,Male,Hawaii,6620.44
+73,73,217,217,Less Than High School,Accommodation and Food Services,37705076,6594,2004,Male,Hawaii,5718.09
+74,74,218,218,High School Graduate,Accommodation and Food Services,61485525,9145,2004,Male,Hawaii,6723.4
+75,75,219,219,Some College,Accommodation and Food Services,79891692,10570,2004,Male,Hawaii,7558.34
+76,76,220,220,Advanced Degree,Accommodation and Food Services,76603170,7877,2004,Male,Hawaii,9724.92
+77,77,221,221,Unavalble,Accommodation and Food Services,31926360,9256,2004,Male,Hawaii,3449.26
+78,78,222,222,All Education Categories,Accommodation and Food Services,244606331,45639,2004,Female,Hawaii,5359.59
+79,79,223,223,Less Than High School,Accommodation and Food Services,33699299,6950,2004,Female,Hawaii,4848.82
+80,80,224,224,High School Graduate,Accommodation and Food Services,53205373,9562,2004,Female,Hawaii,5564.25
+81,81,225,225,Some College,Accommodation and Food Services,67763233,10828,2004,Female,Hawaii,6258.15
+82,82,226,226,Advanced Degree,Accommodation and Food Services,58878846,7874,2004,Female,Hawaii,7477.63
+83,83,227,227,Unavalble,Accommodation and Food Services,31059580,10426,2004,Female,Hawaii,2979.05
+84,84,252,252,All Education Categories,00,2560123137,252032,2005,Male,Hawaii,10157.93
+85,85,253,253,Less Than High School,00,176304556,26007,2005,Male,Hawaii,6779.12
+86,86,254,254,High School Graduate,00,425383449,49768,2005,Male,Hawaii,8547.33
+87,87,255,255,Some College,00,710978391,69416,2005,Male,Hawaii,10242.28
+88,88,256,256,Advanced Degree,00,1101706735,72176,2005,Male,Hawaii,15264.17
+89,89,257,257,Unavalble,00,145750006,34665,2005,Male,Hawaii,4204.53
+90,90,258,258,All Education Categories,00,1670749047,239057,2005,Female,Hawaii,6988.91
+91,91,259,259,Less Than High School,00,123503174,25215,2005,Female,Hawaii,4898.0
+92,92,260,260,High School Graduate,00,279465120,46084,2005,Female,Hawaii,6064.25
+93,93,261,261,Some College,00,493478554,66937,2005,Female,Hawaii,7372.28
+94,94,262,262,Advanced Degree,00,652898374,64185,2005,Female,Hawaii,10172.13
+95,95,263,263,Unavalble,00,121403824,36637,2005,Female,Hawaii,3313.69
+96,96,312,312,All Education Categories,Manufacturing,96198883,9435,2005,Male,Hawaii,10195.96
+97,97,313,313,Less Than High School,Manufacturing,8093954,1170,2005,Male,Hawaii,6917.91
+98,98,314,314,High School Graduate,Manufacturing,19205623,2138,2005,Male,Hawaii,8982.99
+99,99,315,315,Some College,Manufacturing,29618782,2803,2005,Male,Hawaii,10566.81
+100,100,316,316,Advanced Degree,Manufacturing,34593655,2410,2005,Male,Hawaii,14354.21
+101,101,317,317,Unavalble,Manufacturing,4686869,914,2005,Male,Hawaii,5127.87
+102,102,318,318,All Education Categories,Manufacturing,34815944,6175,2005,Female,Hawaii,5638.21
+103,103,319,319,Less Than High School,Manufacturing,5431991,1343,2005,Female,Hawaii,4044.67
+104,104,320,320,High School Graduate,Manufacturing,7757048,1466,2005,Female,Hawaii,5291.3
+105,105,321,321,Some College,Manufacturing,10385692,1603,2005,Female,Hawaii,6478.91
+106,106,322,322,Advanced Degree,Manufacturing,9522562,1208,2005,Female,Hawaii,7882.92
+107,107,323,323,Unavalble,Manufacturing,1718650,555,2005,Female,Hawaii,3096.67
+108,108,336,336,All Education Categories,Retail Trade,235924509,30549,2005,Male,Hawaii,7722.82
+109,109,337,337,Less Than High School,Retail Trade,17066317,2778,2005,Male,Hawaii,6143.38
+110,110,338,338,High School Graduate,Retail Trade,44551578,5875,2005,Male,Hawaii,7583.25
+111,111,339,339,Some College,Retail Trade,70336369,7901,2005,Male,Hawaii,8902.21
+112,112,340,340,Advanced Degree,Retail Trade,77614786,6255,2005,Male,Hawaii,12408.44
+113,113,341,341,Unavalble,Retail Trade,26355460,7741,2005,Male,Hawaii,3404.66
+114,114,342,342,All Education Categories,Retail Trade,197631909,38755,2005,Female,Hawaii,5099.52
+115,115,343,343,Less Than High School,Retail Trade,19445902,4362,2005,Female,Hawaii,4458.02
+116,116,344,344,High School Graduate,Retail Trade,43136442,8319,2005,Female,Hawaii,5185.29
+117,117,345,345,Some College,Retail Trade,58428570,9875,2005,Female,Hawaii,5916.82
+118,118,346,346,Advanced Degree,Retail Trade,50833260,6633,2005,Female,Hawaii,7663.69
+119,119,347,347,Unavalble,Retail Trade,25787735,9565,2005,Female,Hawaii,2696.05
+120,120,372,372,All Education Categories,Finance and Insurance,119189480,5154,2005,Male,Hawaii,23125.63
+121,121,373,373,Less Than High School,Finance and Insurance,1775627,168,2005,Male,Hawaii,10569.21
+122,122,374,374,High School Graduate,Finance and Insurance,6527194,512,2005,Male,Hawaii,12748.43
+123,123,375,375,Some College,Finance and Insurance,19690431,1185,2005,Male,Hawaii,16616.4
+124,124,376,376,Advanced Degree,Finance and Insurance,89422910,3018,2005,Male,Hawaii,29629.86
+125,125,377,377,Unavalble,Finance and Insurance,1773318,271,2005,Male,Hawaii,6543.61
+126,126,378,378,All Education Categories,Finance and Insurance,128147671,11272,2005,Female,Hawaii,11368.67
+127,127,379,379,Less Than High School,Finance and Insurance,3084868,422,2005,Female,Hawaii,7310.11
+128,128,380,380,High School Graduate,Finance and Insurance,14256961,1594,2005,Female,Hawaii,8944.14
+129,129,381,381,Some College,Finance and Insurance,33763747,3274,2005,Female,Hawaii,10312.69
+130,130,382,382,Advanced Degree,Finance and Insurance,71455864,4956,2005,Female,Hawaii,14418.05
+131,131,383,383,Unavalble,Finance and Insurance,5586230,1025,2005,Female,Hawaii,5449.98
+132,132,432,432,All Education Categories,Educational Services,39231948,4418,2005,Male,Hawaii,8880.02
+133,133,433,433,Less Than High School,Educational Services,1391822,239,2005,Male,Hawaii,5823.52
+134,134,434,434,High School Graduate,Educational Services,4218575,591,2005,Male,Hawaii,7138.03
+135,135,435,435,Some College,Educational Services,9083838,1098,2005,Male,Hawaii,8273.08
+136,136,436,436,Advanced Degree,Educational Services,23676888,2106,2005,Male,Hawaii,11242.59
+137,137,437,437,Unavalble,Educational Services,860826,385,2005,Male,Hawaii,2235.91
+138,138,438,438,All Education Categories,Educational Services,49859233,7139,2005,Female,Hawaii,6984.06
+139,139,439,439,Less Than High School,Educational Services,1827800,392,2005,Female,Hawaii,4662.76
+140,140,440,440,High School Graduate,Educational Services,6423608,1082,2005,Female,Hawaii,5936.79
+141,141,441,441,Some College,Educational Services,13345238,1909,2005,Female,Hawaii,6990.7
+142,142,442,442,Advanced Degree,Educational Services,26712118,2985,2005,Female,Hawaii,8948.78
+143,143,443,443,Unavalble,Educational Services,1550469,770,2005,Female,Hawaii,2013.6
+144,144,444,444,All Education Categories,Health Care and Social Assistance,183123687,13437,2005,Male,Hawaii,13628.32
+145,145,445,445,Less Than High School,Health Care and Social Assistance,5945572,921,2005,Male,Hawaii,6455.56
+146,146,446,446,High School Graduate,Health Care and Social Assistance,16045671,2003,2005,Male,Hawaii,8010.82
+147,147,447,447,Some College,Health Care and Social Assistance,41730704,3720,2005,Male,Hawaii,11217.93
+148,148,448,448,Advanced Degree,Health Care and Social Assistance,115445851,5808,2005,Male,Hawaii,19877.04
+149,149,449,449,Unavalble,Health Care and Social Assistance,3955888,985,2005,Male,Hawaii,4016.13
+150,150,450,450,All Education Categories,Health Care and Social Assistance,331463731,41193,2005,Female,Hawaii,8046.6
+151,151,451,451,Less Than High School,Health Care and Social Assistance,15066063,2922,2005,Female,Hawaii,5156.08
+152,152,452,452,High School Graduate,Health Care and Social Assistance,41350334,6699,2005,Female,Hawaii,6172.61
+153,153,453,453,Some College,Health Care and Social Assistance,105014444,13491,2005,Female,Hawaii,7784.04
+154,154,454,454,Advanced Degree,Health Care and Social Assistance,155475098,14642,2005,Female,Hawaii,10618.43
+155,155,455,455,Unavalble,Health Care and Social Assistance,14557791,3438,2005,Female,Hawaii,4234.38
+156,156,468,468,All Education Categories,Accommodation and Food Services,309172372,44757,2005,Male,Hawaii,6907.8
+157,157,469,469,Less Than High School,Accommodation and Food Services,40199690,6764,2005,Male,Hawaii,5943.18
+158,158,470,470,High School Graduate,Accommodation and Food Services,65716737,9426,2005,Male,Hawaii,6971.86
+159,159,471,471,Some College,Accommodation and Food Services,85975053,10870,2005,Male,Hawaii,7909.39
+160,160,472,472,Advanced Degree,Accommodation and Food Services,84006601,8180,2005,Male,Hawaii,10269.76
+161,161,473,473,Unavalble,Accommodation and Food Services,33274290,9517,2005,Male,Hawaii,3496.3
+162,162,474,474,All Education Categories,Accommodation and Food Services,266837184,47893,2005,Female,Hawaii,5571.53
+163,163,475,475,Less Than High School,Accommodation and Food Services,36239891,7249,2005,Female,Hawaii,4999.3
+164,164,476,476,High School Graduate,Accommodation and Food Services,57085054,9857,2005,Female,Hawaii,5791.32
+165,165,477,477,Some College,Accommodation and Food Services,73790405,11221,2005,Female,Hawaii,6576.1
+166,166,478,478,Advanced Degree,Accommodation and Food Services,65576218,8317,2005,Female,Hawaii,7884.6
+167,167,479,479,Unavalble,Accommodation and Food Services,34145616,11249,2005,Female,Hawaii,3035.44
+168,168,504,504,All Education Categories,00,2860389246,260727,2006,Male,Hawaii,10970.82
+169,169,505,505,Less Than High School,00,201480858,27092,2006,Male,Hawaii,7436.91
+170,170,506,506,High School Graduate,00,480198828,51735,2006,Male,Hawaii,9281.89
+171,171,507,507,Some College,00,797254636,71795,2006,Male,Hawaii,11104.6
+172,172,508,508,Advanced Degree,00,1208405044,73893,2006,Male,Hawaii,16353.44
+173,173,509,509,Unavalble,00,173049880,36211,2006,Male,Hawaii,4778.93
+174,174,510,510,All Education Categories,00,1853498237,245757,2006,Female,Hawaii,7542.0
+175,175,511,511,Less Than High School,00,138408269,26107,2006,Female,Hawaii,5301.58
+176,176,512,512,High School Graduate,00,309113888,47309,2006,Female,Hawaii,6533.93
+177,177,513,513,Some College,00,544932306,68586,2006,Female,Hawaii,7945.24
+178,178,514,514,Advanced Degree,00,721113346,65913,2006,Female,Hawaii,10940.38
+179,179,515,515,Unavalble,00,139930428,37842,2006,Female,Hawaii,3697.75
+180,180,564,564,All Education Categories,Manufacturing,102414555,9464,2006,Male,Hawaii,10821.49
+181,181,565,565,Less Than High School,Manufacturing,8744630,1159,2006,Male,Hawaii,7544.98
+182,182,566,566,High School Graduate,Manufacturing,20606756,2126,2006,Male,Hawaii,9692.74
+183,183,567,567,Some College,Manufacturing,31944663,2813,2006,Male,Hawaii,11356.08
+184,184,568,568,Advanced Degree,Manufacturing,35828301,2382,2006,Male,Hawaii,15041.27
+185,185,569,569,Unavalble,Manufacturing,5290205,984,2006,Male,Hawaii,5376.22
+186,186,570,570,All Education Categories,Manufacturing,37203261,6085,2006,Female,Hawaii,6113.93
+187,187,571,571,Less Than High School,Manufacturing,5803553,1314,2006,Female,Hawaii,4416.71
+188,188,572,572,High School Graduate,Manufacturing,8323926,1453,2006,Female,Hawaii,5728.79
+189,189,573,573,Some College,Manufacturing,11127232,1604,2006,Female,Hawaii,6937.18
+190,190,574,574,Advanced Degree,Manufacturing,10150072,1205,2006,Female,Hawaii,8423.3
+191,191,575,575,Unavalble,Manufacturing,1798478,509,2006,Female,Hawaii,3533.36
+192,192,588,588,All Education Categories,Retail Trade,256799447,30826,2006,Male,Hawaii,8330.61
+193,193,589,589,Less Than High School,Retail Trade,18926995,2854,2006,Male,Hawaii,6631.74
+194,194,590,590,High School Graduate,Retail Trade,48373921,5952,2006,Male,Hawaii,8127.34
+195,195,591,591,Some College,Retail Trade,76477698,7945,2006,Male,Hawaii,9625.89
+196,196,592,592,Advanced Degree,Retail Trade,84000250,6281,2006,Male,Hawaii,13373.71
+197,197,593,593,Unavalble,Retail Trade,29020584,7794,2006,Male,Hawaii,3723.45
+198,198,594,594,All Education Categories,Retail Trade,217444298,39791,2006,Female,Hawaii,5464.66
+199,199,595,595,Less Than High School,Retail Trade,21652269,4510,2006,Female,Hawaii,4800.95
+200,200,596,596,High School Graduate,Retail Trade,47080864,8470,2006,Female,Hawaii,5558.54
+201,201,597,597,Some College,Retail Trade,64217101,10110,2006,Female,Hawaii,6351.84
+202,202,598,598,Advanced Degree,Retail Trade,55334054,6853,2006,Female,Hawaii,8074.43
+203,203,599,599,Unavalble,Retail Trade,29160009,9847,2006,Female,Hawaii,2961.31
+204,204,624,624,All Education Categories,Finance and Insurance,130563668,5106,2006,Male,Hawaii,25570.64
+205,205,625,625,Less Than High School,Finance and Insurance,2007337,176,2006,Male,Hawaii,11405.32
+206,206,626,626,High School Graduate,Finance and Insurance,7555248,526,2006,Male,Hawaii,14363.59
+207,207,627,627,Some College,Finance and Insurance,22060431,1183,2006,Male,Hawaii,18647.87
+208,208,628,628,Advanced Degree,Finance and Insurance,96998805,2958,2006,Male,Hawaii,32792.02
+209,209,629,629,Unavalble,Finance and Insurance,1941847,264,2006,Male,Hawaii,7355.48
+210,210,630,630,All Education Categories,Finance and Insurance,135475106,11409,2006,Female,Hawaii,11874.41
+211,211,631,631,Less Than High School,Finance and Insurance,3475167,442,2006,Female,Hawaii,7862.37
+212,212,632,632,High School Graduate,Finance and Insurance,15066483,1605,2006,Female,Hawaii,9387.22
+213,213,633,633,Some College,Finance and Insurance,35414379,3291,2006,Female,Hawaii,10760.98
+214,214,634,634,Advanced Degree,Finance and Insurance,74894150,4935,2006,Female,Hawaii,15176.12
+215,215,635,635,Unavalble,Finance and Insurance,6624927,1137,2006,Female,Hawaii,5826.67
+216,216,684,684,All Education Categories,Educational Services,40756053,4555,2006,Male,Hawaii,8947.54
+217,217,685,685,Less Than High School,Educational Services,1476713,250,2006,Male,Hawaii,5906.85
+218,218,686,686,High School Graduate,Educational Services,4510119,617,2006,Male,Hawaii,7309.76
+219,219,687,687,Some College,Educational Services,9520446,1122,2006,Male,Hawaii,8485.25
+220,220,688,688,Advanced Degree,Educational Services,24235001,2132,2006,Male,Hawaii,11367.26
+221,221,689,689,Unavalble,Educational Services,1013774,434,2006,Male,Hawaii,2335.88
+222,222,690,690,All Education Categories,Educational Services,53097726,7389,2006,Female,Hawaii,7186.05
+223,223,691,691,Less Than High School,Educational Services,2038650,415,2006,Female,Hawaii,4912.41
+224,224,692,692,High School Graduate,Educational Services,6873621,1130,2006,Female,Hawaii,6082.85
+225,225,693,693,Some College,Educational Services,14121647,1965,2006,Female,Hawaii,7186.59
+226,226,694,694,Advanced Degree,Educational Services,28138555,3040,2006,Female,Hawaii,9256.1
+227,227,695,695,Unavalble,Educational Services,1925254,840,2006,Female,Hawaii,2291.97
+228,228,696,696,All Education Categories,Health Care and Social Assistance,197734664,13535,2006,Male,Hawaii,14609.14
+229,229,697,697,Less Than High School,Health Care and Social Assistance,6643441,940,2006,Male,Hawaii,7067.49
+230,230,698,698,High School Graduate,Health Care and Social Assistance,17860150,2060,2006,Male,Hawaii,8669.98
+231,231,699,699,Some College,Health Care and Social Assistance,45556198,3761,2006,Male,Hawaii,12112.79
+232,232,700,700,Advanced Degree,Health Care and Social Assistance,123258151,5809,2006,Male,Hawaii,21218.48
+233,233,701,701,Unavalble,Health Care and Social Assistance,4416724,966,2006,Male,Hawaii,4572.18
+234,234,702,702,All Education Categories,Health Care and Social Assistance,376950234,42220,2006,Female,Hawaii,8928.24
+235,235,703,703,Less Than High School,Health Care and Social Assistance,17139152,3078,2006,Female,Hawaii,5568.28
+236,236,704,704,High School Graduate,Health Care and Social Assistance,46818375,6908,2006,Female,Hawaii,6777.41
+237,237,705,705,Some College,Health Care and Social Assistance,119276012,13755,2006,Female,Hawaii,8671.47
+238,238,706,706,Advanced Degree,Health Care and Social Assistance,177889087,15052,2006,Female,Hawaii,11818.3
+239,239,707,707,Unavalble,Health Care and Social Assistance,15827608,3427,2006,Female,Hawaii,4618.5
+240,240,720,720,All Education Categories,Accommodation and Food Services,338614402,44954,2006,Male,Hawaii,7532.46
+241,241,721,721,Less Than High School,Accommodation and Food Services,43581097,6835,2006,Male,Hawaii,6376.17
+242,242,722,722,High School Graduate,Accommodation and Food Services,71249159,9439,2006,Male,Hawaii,7548.38
+243,243,723,723,Some College,Accommodation and Food Services,94043796,10944,2006,Male,Hawaii,8593.18
+244,244,724,724,Advanced Degree,Accommodation and Food Services,92409845,8263,2006,Male,Hawaii,11183.57
+245,245,725,725,Unavalble,Accommodation and Food Services,37330505,9473,2006,Male,Hawaii,3940.73
+246,246,726,726,All Education Categories,Accommodation and Food Services,292923068,48504,2006,Female,Hawaii,6039.15
+247,247,727,727,Less Than High School,Accommodation and Food Services,39442564,7351,2006,Female,Hawaii,5365.61
+248,248,728,728,High School Graduate,Accommodation and Food Services,61631301,9920,2006,Female,Hawaii,6212.83
+249,249,729,729,Some College,Accommodation and Food Services,80086879,11358,2006,Female,Hawaii,7051.14
+250,250,730,730,Advanced Degree,Accommodation and Food Services,73278377,8534,2006,Female,Hawaii,8586.64
+251,251,731,731,Unavalble,Accommodation and Food Services,38483948,11341,2006,Female,Hawaii,3393.35
+252,252,756,756,All Education Categories,00,3059068300,267704,2007,Male,Hawaii,11427.05
+253,253,757,757,Less Than High School,00,221053298,28211,2007,Male,Hawaii,7835.71
+254,254,758,758,High School Graduate,00,523228003,53563,2007,Male,Hawaii,9768.46
+255,255,759,759,Some College,00,859226936,73765,2007,Male,Hawaii,11648.17
+256,256,760,760,Advanced Degree,00,1271331891,75480,2007,Male,Hawaii,16843.29
+257,257,761,761,Unavalble,00,184228171,36685,2007,Male,Hawaii,5021.89
+258,258,762,762,All Education Categories,00,1983283194,251732,2007,Female,Hawaii,7878.55
+259,259,763,763,Less Than High School,00,151145236,27028,2007,Female,Hawaii,5592.17
+260,260,764,764,High School Graduate,00,333081106,48545,2007,Female,Hawaii,6861.29
+261,261,765,765,Some College,00,583707294,70307,2007,Female,Hawaii,8302.26
+262,262,766,766,Advanced Degree,00,767383260,67889,2007,Female,Hawaii,11303.5
+263,263,767,767,Unavalble,00,147966297,37963,2007,Female,Hawaii,3897.64
+264,264,816,816,All Education Categories,Manufacturing,114337858,9950,2007,Male,Hawaii,11491.24
+265,265,817,817,Less Than High School,Manufacturing,9896360,1229,2007,Male,Hawaii,8052.37
+266,266,818,818,High School Graduate,Manufacturing,23130497,2261,2007,Male,Hawaii,10230.21
+267,267,819,819,Some College,Manufacturing,35519976,2965,2007,Male,Hawaii,11979.76
+268,268,820,820,Advanced Degree,Manufacturing,39995645,2498,2007,Male,Hawaii,16011.07
+269,269,821,821,Unavalble,Manufacturing,5795380,997,2007,Male,Hawaii,5812.82
+270,270,822,822,All Education Categories,Manufacturing,40129429,6133,2007,Female,Hawaii,6543.2
+271,271,823,823,Less Than High School,Manufacturing,5991275,1266,2007,Female,Hawaii,4732.44
+272,272,824,824,High School Graduate,Manufacturing,8925463,1470,2007,Female,Hawaii,6071.74
+273,273,825,825,Some College,Manufacturing,11727198,1600,2007,Female,Hawaii,7329.5
+274,274,826,826,Advanced Degree,Manufacturing,11363558,1232,2007,Female,Hawaii,9223.67
+275,275,827,827,Unavalble,Manufacturing,2121934,565,2007,Female,Hawaii,3755.64
+276,276,840,840,All Education Categories,Retail Trade,264439801,30910,2007,Male,Hawaii,8555.15
+277,277,841,841,Less Than High School,Retail Trade,20281562,2962,2007,Male,Hawaii,6847.25
+278,278,842,842,High School Graduate,Retail Trade,50601809,6064,2007,Male,Hawaii,8344.63
+279,279,843,843,Some College,Retail Trade,79292165,8048,2007,Male,Hawaii,9852.41
+280,280,844,844,Advanced Degree,Retail Trade,84985187,6346,2007,Male,Hawaii,13391.93
+281,281,845,845,Unavalble,Retail Trade,29279078,7491,2007,Male,Hawaii,3908.57
+282,282,846,846,All Education Categories,Retail Trade,228445077,40124,2007,Female,Hawaii,5693.48
+283,283,847,847,Less Than High School,Retail Trade,23639609,4667,2007,Female,Hawaii,5065.27
+284,284,848,848,High School Graduate,Retail Trade,49786809,8580,2007,Female,Hawaii,5802.66
+285,285,849,849,Some College,Retail Trade,67202390,10271,2007,Female,Hawaii,6542.93
+286,286,850,850,Advanced Degree,Retail Trade,57844771,6990,2007,Female,Hawaii,8275.36
+287,287,851,851,Unavalble,Retail Trade,29971497,9616,2007,Female,Hawaii,3116.84
+288,288,876,876,All Education Categories,Finance and Insurance,127632660,5312,2007,Male,Hawaii,24027.23
+289,289,877,877,Less Than High School,Finance and Insurance,2251379,200,2007,Male,Hawaii,11256.9
+290,290,878,878,High School Graduate,Finance and Insurance,8056082,561,2007,Male,Hawaii,14360.22
+291,291,879,879,Some College,Finance and Insurance,22716862,1228,2007,Male,Hawaii,18499.07
+292,292,880,880,Advanced Degree,Finance and Insurance,92448349,3023,2007,Male,Hawaii,30581.66
+293,293,881,881,Unavalble,Finance and Insurance,2159987,299,2007,Male,Hawaii,7224.04
+294,294,882,882,All Education Categories,Finance and Insurance,140082521,11713,2007,Female,Hawaii,11959.58
+295,295,883,883,Less Than High School,Finance and Insurance,3847521,489,2007,Female,Hawaii,7868.14
+296,296,884,884,High School Graduate,Finance and Insurance,16009019,1688,2007,Female,Hawaii,9484.02
+297,297,885,885,Some College,Finance and Insurance,37462744,3387,2007,Female,Hawaii,11060.75
+298,298,886,886,Advanced Degree,Finance and Insurance,76032014,4981,2007,Female,Hawaii,15264.41
+299,299,887,887,Unavalble,Finance and Insurance,6731223,1169,2007,Female,Hawaii,5758.1
+300,300,936,936,All Education Categories,Educational Services,45385914,4810,2007,Male,Hawaii,9435.74
+301,301,937,937,Less Than High School,Educational Services,1847886,280,2007,Male,Hawaii,6599.59
+302,302,938,938,High School Graduate,Educational Services,5376998,692,2007,Male,Hawaii,7770.23
+303,303,939,939,Some College,Educational Services,10847303,1195,2007,Male,Hawaii,9077.24
+304,304,940,940,Advanced Degree,Educational Services,26178205,2139,2007,Male,Hawaii,12238.53
+305,305,941,941,Unavalble,Educational Services,1135522,505,2007,Male,Hawaii,2248.56
+306,306,942,942,All Education Categories,Educational Services,58273214,7624,2007,Female,Hawaii,7643.39
+307,307,943,943,Less Than High School,Educational Services,2330691,447,2007,Female,Hawaii,5214.07
+308,308,944,944,High School Graduate,Educational Services,7789576,1185,2007,Female,Hawaii,6573.48
+309,309,945,945,Some College,Educational Services,15503620,2045,2007,Female,Hawaii,7581.23
+310,310,946,946,Advanced Degree,Educational Services,30644445,3114,2007,Female,Hawaii,9840.86
+311,311,947,947,Unavalble,Educational Services,2004882,833,2007,Female,Hawaii,2406.82
+312,312,948,948,All Education Categories,Health Care and Social Assistance,213580433,14147,2007,Male,Hawaii,15097.22
+313,313,949,949,Less Than High School,Health Care and Social Assistance,7644962,1040,2007,Male,Hawaii,7350.93
+314,314,950,950,High School Graduate,Health Care and Social Assistance,20132941,2195,2007,Male,Hawaii,9172.18
+315,315,951,951,Some College,Health Care and Social Assistance,49523859,3908,2007,Male,Hawaii,12672.43
+316,316,952,952,Advanced Degree,Health Care and Social Assistance,131019519,5939,2007,Male,Hawaii,22060.87
+317,317,953,953,Unavalble,Health Care and Social Assistance,5259152,1065,2007,Male,Hawaii,4938.17
+318,318,954,954,All Education Categories,Health Care and Social Assistance,412567746,43691,2007,Female,Hawaii,9442.85
+319,319,955,955,Less Than High School,Health Care and Social Assistance,19617912,3294,2007,Female,Hawaii,5955.65
+320,320,956,956,High School Graduate,Health Care and Social Assistance,51962585,7182,2007,Female,Hawaii,7235.11
+321,321,957,957,Some College,Health Care and Social Assistance,129651647,14097,2007,Female,Hawaii,9197.11
+322,322,958,958,Advanced Degree,Health Care and Social Assistance,193484194,15523,2007,Female,Hawaii,12464.36
+323,323,959,959,Unavalble,Health Care and Social Assistance,17851408,3595,2007,Female,Hawaii,4965.62
+324,324,972,972,All Education Categories,Accommodation and Food Services,362925157,45750,2007,Male,Hawaii,7932.79
+325,325,973,973,Less Than High School,Accommodation and Food Services,46707103,6962,2007,Male,Hawaii,6708.86
+326,326,974,974,High School Graduate,Accommodation and Food Services,76603888,9612,2007,Male,Hawaii,7969.61
+327,327,975,975,Some College,Accommodation and Food Services,100947447,11061,2007,Male,Hawaii,9126.43
+328,328,976,976,Advanced Degree,Accommodation and Food Services,99155108,8432,2007,Male,Hawaii,11759.38
+329,329,977,977,Unavalble,Accommodation and Food Services,39511612,9683,2007,Male,Hawaii,4080.51
+330,330,978,978,All Education Categories,Accommodation and Food Services,310738193,49539,2007,Female,Hawaii,6272.6
+331,331,979,979,Less Than High School,Accommodation and Food Services,42032915,7543,2007,Female,Hawaii,5572.44
+332,332,980,980,High School Graduate,Accommodation and Food Services,64997084,10046,2007,Female,Hawaii,6469.95
+333,333,981,981,Some College,Accommodation and Food Services,85121399,11570,2007,Female,Hawaii,7357.08
+334,334,982,982,Advanced Degree,Accommodation and Food Services,77981522,8845,2007,Female,Hawaii,8816.45
+335,335,983,983,Unavalble,Accommodation and Food Services,40605273,11535,2007,Female,Hawaii,3520.18
+336,336,1008,1008,All Education Categories,00,3140219343,270388,2008,Male,Hawaii,11613.75
+337,337,1009,1009,Less Than High School,00,235622596,29202,2008,Male,Hawaii,8068.71
+338,338,1010,1010,High School Graduate,00,547880147,54528,2008,Male,Hawaii,10047.68
+339,339,1011,1011,Some College,00,885182847,74657,2008,Male,Hawaii,11856.66
+340,340,1012,1012,Advanced Degree,00,1286361950,75879,2008,Male,Hawaii,16952.81
+341,341,1013,1013,Unavalble,00,185171803,36122,2008,Male,Hawaii,5126.29
+342,342,1014,1014,All Education Categories,00,2045215191,252534,2008,Female,Hawaii,8098.77
+343,343,1015,1015,Less Than High School,00,160909074,27734,2008,Female,Hawaii,5801.87
+344,344,1016,1016,High School Graduate,00,348046554,49145,2008,Female,Hawaii,7082.03
+345,345,1017,1017,Some College,00,603512603,70806,2008,Female,Hawaii,8523.47
+346,346,1018,1018,Advanced Degree,00,785111897,68262,2008,Female,Hawaii,11501.45
+347,347,1019,1019,Unavalble,00,147635063,36588,2008,Female,Hawaii,4035.07
+348,348,1068,1068,All Education Categories,Manufacturing,108547090,9498,2008,Male,Hawaii,11428.42
+349,349,1069,1069,Less Than High School,Manufacturing,9999381,1230,2008,Male,Hawaii,8129.58
+350,350,1070,1070,High School Graduate,Manufacturing,22152602,2174,2008,Male,Hawaii,10189.79
+351,351,1071,1071,Some College,Manufacturing,33724448,2793,2008,Male,Hawaii,12074.63
+352,352,1072,1072,Advanced Degree,Manufacturing,36992750,2349,2008,Male,Hawaii,15748.3
+353,353,1073,1073,Unavalble,Manufacturing,5677909,952,2008,Male,Hawaii,5964.19
+354,354,1074,1074,All Education Categories,Manufacturing,39558275,6020,2008,Female,Hawaii,6571.14
+355,355,1075,1075,Less Than High School,Manufacturing,5831870,1210,2008,Female,Hawaii,4819.73
+356,356,1076,1076,High School Graduate,Manufacturing,8691108,1412,2008,Female,Hawaii,6155.18
+357,357,1077,1077,Some College,Manufacturing,11505763,1545,2008,Female,Hawaii,7447.1
+358,358,1078,1078,Advanced Degree,Manufacturing,11233115,1238,2008,Female,Hawaii,9073.6
+359,359,1079,1079,Unavalble,Manufacturing,2296419,615,2008,Female,Hawaii,3734.01
+360,360,1092,1092,All Education Categories,Retail Trade,267889970,30524,2008,Male,Hawaii,8776.37
+361,361,1093,1093,Less Than High School,Retail Trade,20884148,3031,2008,Male,Hawaii,6890.18
+362,362,1094,1094,High School Graduate,Retail Trade,51005212,6035,2008,Male,Hawaii,8451.57
+363,363,1095,1095,Some College,Retail Trade,79784518,7980,2008,Male,Hawaii,9998.06
+364,364,1096,1096,Advanced Degree,Retail Trade,87574988,6306,2008,Male,Hawaii,13887.57
+365,365,1097,1097,Unavalble,Retail Trade,28641105,7172,2008,Male,Hawaii,3993.46
+366,366,1098,1098,All Education Categories,Retail Trade,236806743,40091,2008,Female,Hawaii,5906.73
+367,367,1099,1099,Less Than High School,Retail Trade,25129212,4839,2008,Female,Hawaii,5193.06
+368,368,1100,1100,High School Graduate,Retail Trade,51435603,8595,2008,Female,Hawaii,5984.36
+369,369,1101,1101,Some College,Retail Trade,69659056,10317,2008,Female,Hawaii,6751.87
+370,370,1102,1102,Advanced Degree,Retail Trade,60508018,7115,2008,Female,Hawaii,8504.29
+371,371,1103,1103,Unavalble,Retail Trade,30074855,9225,2008,Female,Hawaii,3260.15
+372,372,1128,1128,All Education Categories,Finance and Insurance,120649009,5165,2008,Male,Hawaii,23358.96
+373,373,1129,1129,Less Than High School,Finance and Insurance,2222072,194,2008,Male,Hawaii,11453.98
+374,374,1130,1130,High School Graduate,Finance and Insurance,7898055,552,2008,Male,Hawaii,14308.07
+375,375,1131,1131,Some College,Finance and Insurance,22077211,1212,2008,Male,Hawaii,18215.52
+376,376,1132,1132,Advanced Degree,Finance and Insurance,86457539,2930,2008,Male,Hawaii,29507.69
+377,377,1133,1133,Unavalble,Finance and Insurance,1994133,277,2008,Male,Hawaii,7199.04
+378,378,1134,1134,All Education Categories,Finance and Insurance,137949228,11376,2008,Female,Hawaii,12126.34
+379,379,1135,1135,Less Than High School,Finance and Insurance,4004100,508,2008,Female,Hawaii,7882.09
+380,380,1136,1136,High School Graduate,Finance and Insurance,15949681,1658,2008,Female,Hawaii,9619.83
+381,381,1137,1137,Some College,Finance and Insurance,37316072,3322,2008,Female,Hawaii,11233.01
+382,382,1138,1138,Advanced Degree,Finance and Insurance,74360425,4833,2008,Female,Hawaii,15385.98
+383,383,1139,1139,Unavalble,Finance and Insurance,6318950,1054,2008,Female,Hawaii,5995.21
+384,384,1188,1188,All Education Categories,Educational Services,44793778,4876,2008,Male,Hawaii,9186.58
+385,385,1189,1189,Less Than High School,Educational Services,1924771,302,2008,Male,Hawaii,6373.41
+386,386,1190,1190,High School Graduate,Educational Services,5598790,717,2008,Male,Hawaii,7808.63
+387,387,1191,1191,Some College,Educational Services,11032809,1225,2008,Male,Hawaii,9006.37
+388,388,1192,1192,Advanced Degree,Educational Services,24971377,2065,2008,Male,Hawaii,12092.68
+389,389,1193,1193,Unavalble,Educational Services,1266031,568,2008,Male,Hawaii,2228.93
+390,390,1194,1194,All Education Categories,Educational Services,61658634,8132,2008,Female,Hawaii,7582.22
+391,391,1195,1195,Less Than High School,Educational Services,2623016,494,2008,Female,Hawaii,5309.75
+392,392,1196,1196,High School Graduate,Educational Services,8384860,1277,2008,Female,Hawaii,6566.06
+393,393,1197,1197,Some College,Educational Services,16633142,2158,2008,Female,Hawaii,7707.67
+394,394,1198,1198,Advanced Degree,Educational Services,31549630,3180,2008,Female,Hawaii,9921.27
+395,395,1199,1199,Unavalble,Educational Services,2467985,1024,2008,Female,Hawaii,2410.14
+396,396,1200,1200,All Education Categories,Health Care and Social Assistance,221942517,14315,2008,Male,Hawaii,15504.19
+397,397,1201,1201,Less Than High School,Health Care and Social Assistance,8344498,1078,2008,Male,Hawaii,7740.72
+398,398,1202,1202,High School Graduate,Health Care and Social Assistance,21802833,2257,2008,Male,Hawaii,9660.09
+399,399,1203,1203,Some College,Health Care and Social Assistance,52264735,3974,2008,Male,Hawaii,13151.67
+400,400,1204,1204,Advanced Degree,Health Care and Social Assistance,134251995,5942,2008,Male,Hawaii,22593.74
+401,401,1205,1205,Unavalble,Health Care and Social Assistance,5278456,1064,2008,Male,Hawaii,4960.95
+402,402,1206,1206,All Education Categories,Health Care and Social Assistance,424762940,44062,2008,Female,Hawaii,9640.12
+403,403,1207,1207,Less Than High School,Health Care and Social Assistance,21099498,3407,2008,Female,Hawaii,6192.98
+404,404,1208,1208,High School Graduate,Health Care and Social Assistance,54354639,7314,2008,Female,Hawaii,7431.59
+405,405,1209,1209,Some College,Health Care and Social Assistance,132951899,14119,2008,Female,Hawaii,9416.52
+406,406,1210,1210,Advanced Degree,Health Care and Social Assistance,197946314,15515,2008,Female,Hawaii,12758.38
+407,407,1211,1211,Unavalble,Health Care and Social Assistance,18410590,3706,2008,Female,Hawaii,4967.78
+408,408,1224,1224,All Education Categories,Accommodation and Food Services,369971510,46369,2008,Male,Hawaii,7978.85
+409,409,1225,1225,Less Than High School,Accommodation and Food Services,48659958,7105,2008,Male,Hawaii,6848.69
+410,410,1226,1226,High School Graduate,Accommodation and Food Services,78754128,9824,2008,Male,Hawaii,8016.5
+411,411,1227,1227,Some College,Accommodation and Food Services,103200703,11299,2008,Male,Hawaii,9133.61
+412,412,1228,1228,Advanced Degree,Accommodation and Food Services,99841705,8689,2008,Male,Hawaii,11490.59
+413,413,1229,1229,Unavalble,Accommodation and Food Services,39515016,9451,2008,Male,Hawaii,4181.04
+414,414,1230,1230,All Education Categories,Accommodation and Food Services,323489514,49320,2008,Female,Hawaii,6558.99
+415,415,1231,1231,Less Than High School,Accommodation and Food Services,44148116,7721,2008,Female,Hawaii,5717.93
+416,416,1232,1232,High School Graduate,Accommodation and Food Services,67917626,10213,2008,Female,Hawaii,6650.12
+417,417,1233,1233,Some College,Accommodation and Food Services,89416782,11741,2008,Female,Hawaii,7615.77
+418,418,1234,1234,Advanced Degree,Accommodation and Food Services,81335230,9087,2008,Female,Hawaii,8950.72
+419,419,1235,1235,Unavalble,Accommodation and Food Services,40671761,10559,2008,Female,Hawaii,3851.86
+420,420,1260,1260,All Education Categories,00,2867010379,253658,2009,Male,Hawaii,11302.66
+421,421,1261,1261,Less Than High School,00,213857550,27769,2009,Male,Hawaii,7701.31
+422,422,1262,1262,High School Graduate,00,494893807,51418,2009,Male,Hawaii,9624.91
+423,423,1263,1263,Some College,00,811989880,70831,2009,Male,Hawaii,11463.76
+424,424,1264,1264,Advanced Degree,00,1192435087,72554,2009,Male,Hawaii,16435.14
+425,425,1265,1265,Unavalble,00,153834055,31086,2009,Male,Hawaii,4948.66
+426,426,1266,1266,All Education Categories,00,1949794084,242579,2009,Female,Hawaii,8037.77
+427,427,1267,1267,Less Than High School,00,152722758,27020,2009,Female,Hawaii,5652.21
+428,428,1268,1268,High School Graduate,00,331090436,47539,2009,Female,Hawaii,6964.61
+429,429,1269,1269,Some College,00,580525085,68801,2009,Female,Hawaii,8437.74
+430,430,1270,1270,Advanced Degree,00,764098476,66736,2009,Female,Hawaii,11449.57
+431,431,1271,1271,Unavalble,00,121357330,32483,2009,Female,Hawaii,3736.03
+432,432,1320,1320,All Education Categories,Manufacturing,100458323,9151,2009,Male,Hawaii,10977.85
+433,433,1321,1321,Less Than High School,Manufacturing,9213056,1175,2009,Male,Hawaii,7840.9
+434,434,1322,1322,High School Graduate,Manufacturing,20978869,2107,2009,Male,Hawaii,9956.75
+435,435,1323,1323,Some College,Manufacturing,31572604,2752,2009,Male,Hawaii,11472.6
+436,436,1324,1324,Advanced Degree,Manufacturing,34309325,2349,2009,Male,Hawaii,14605.93
+437,437,1325,1325,Unavalble,Manufacturing,4384468,769,2009,Male,Hawaii,5701.52
+438,438,1326,1326,All Education Categories,Manufacturing,35493847,5545,2009,Female,Hawaii,6401.05
+439,439,1327,1327,Less Than High School,Manufacturing,5090684,1090,2009,Female,Hawaii,4670.35
+440,440,1328,1328,High School Graduate,Manufacturing,7746249,1301,2009,Female,Hawaii,5954.07
+441,441,1329,1329,Some College,Manufacturing,10490453,1465,2009,Female,Hawaii,7160.72
+442,442,1330,1330,Advanced Degree,Manufacturing,10415007,1194,2009,Female,Hawaii,8722.79
+443,443,1331,1331,Unavalble,Manufacturing,1751454,494,2009,Female,Hawaii,3545.45
+444,444,1344,1344,All Education Categories,Retail Trade,241876997,29062,2009,Male,Hawaii,8322.79
+445,445,1345,1345,Less Than High School,Retail Trade,19751002,2973,2009,Male,Hawaii,6643.46
+446,446,1346,1346,High School Graduate,Retail Trade,47765093,5864,2009,Male,Hawaii,8145.48
+447,447,1347,1347,Some College,Retail Trade,73156944,7777,2009,Male,Hawaii,9406.83
+448,448,1348,1348,Advanced Degree,Retail Trade,77046324,6161,2009,Male,Hawaii,12505.49
+449,449,1349,1349,Unavalble,Retail Trade,24157633,6287,2009,Male,Hawaii,3842.47
+450,450,1350,1350,All Education Categories,Retail Trade,223206253,38408,2009,Female,Hawaii,5811.45
+451,451,1351,1351,Less Than High School,Retail Trade,24371889,4765,2009,Female,Hawaii,5114.77
+452,452,1352,1352,High School Graduate,Retail Trade,49506450,8364,2009,Female,Hawaii,5918.99
+453,453,1353,1353,Some College,Retail Trade,66887962,10065,2009,Female,Hawaii,6645.6
+454,454,1354,1354,Advanced Degree,Retail Trade,57011320,6994,2009,Female,Hawaii,8151.46
+455,455,1355,1355,Unavalble,Retail Trade,25428632,8220,2009,Female,Hawaii,3093.51
+456,456,1380,1380,All Education Categories,Finance and Insurance,116525625,4984,2009,Male,Hawaii,23379.94
+457,457,1381,1381,Less Than High School,Finance and Insurance,2350271,203,2009,Male,Hawaii,11577.69
+458,458,1382,1382,High School Graduate,Finance and Insurance,8153897,548,2009,Male,Hawaii,14879.37
+459,459,1383,1383,Some College,Finance and Insurance,21576152,1189,2009,Male,Hawaii,18146.47
+460,460,1384,1384,Advanced Degree,Finance and Insurance,82762002,2799,2009,Male,Hawaii,29568.42
+461,461,1385,1385,Unavalble,Finance and Insurance,1683304,245,2009,Male,Hawaii,6870.63
+462,462,1386,1386,All Education Categories,Finance and Insurance,141461893,11252,2009,Female,Hawaii,12572.16
+463,463,1387,1387,Less Than High School,Finance and Insurance,4435445,529,2009,Female,Hawaii,8384.58
+464,464,1388,1388,High School Graduate,Finance and Insurance,16724079,1670,2009,Female,Hawaii,10014.42
+465,465,1389,1389,Some College,Finance and Insurance,38383182,3313,2009,Female,Hawaii,11585.63
+466,466,1390,1390,Advanced Degree,Finance and Insurance,75986951,4771,2009,Female,Hawaii,15926.84
+467,467,1391,1391,Unavalble,Finance and Insurance,5932237,968,2009,Female,Hawaii,6128.34
+468,468,1440,1440,All Education Categories,Educational Services,46930553,4752,2009,Male,Hawaii,9875.96
+469,469,1441,1441,Less Than High School,Educational Services,2054588,307,2009,Male,Hawaii,6692.47
+470,470,1442,1442,High School Graduate,Educational Services,5915140,713,2009,Male,Hawaii,8296.13
+471,471,1443,1443,Some College,Educational Services,11466478,1201,2009,Male,Hawaii,9547.44
+472,472,1444,1444,Advanced Degree,Educational Services,26244716,1972,2009,Male,Hawaii,13308.68
+473,473,1445,1445,Unavalble,Educational Services,1249632,559,2009,Male,Hawaii,2235.48
+474,474,1446,1446,All Education Categories,Educational Services,64012543,8149,2009,Female,Hawaii,7855.26
+475,475,1447,1447,Less Than High School,Educational Services,3033125,528,2009,Female,Hawaii,5744.55
+476,476,1448,1448,High School Graduate,Educational Services,9006355,1298,2009,Female,Hawaii,6938.64
+477,477,1449,1449,Some College,Educational Services,17517639,2174,2009,Female,Hawaii,8057.79
+478,478,1450,1450,Advanced Degree,Educational Services,32079879,3082,2009,Female,Hawaii,10408.79
+479,479,1451,1451,Unavalble,Educational Services,2375543,1067,2009,Female,Hawaii,2226.38
+480,480,1452,1452,All Education Categories,Health Care and Social Assistance,231126498,14679,2009,Male,Hawaii,15745.38
+481,481,1453,1453,Less Than High School,Health Care and Social Assistance,9230240,1172,2009,Male,Hawaii,7875.63
+482,482,1454,1454,High School Graduate,Health Care and Social Assistance,23043659,2343,2009,Male,Hawaii,9835.11
+483,483,1455,1455,Some College,Health Care and Social Assistance,55612426,4079,2009,Male,Hawaii,13633.84
+484,484,1456,1456,Advanced Degree,Health Care and Social Assistance,138181065,6035,2009,Male,Hawaii,22896.61
+485,485,1457,1457,Unavalble,Health Care and Social Assistance,5059107,1050,2009,Male,Hawaii,4818.2
+486,486,1458,1458,All Education Categories,Health Care and Social Assistance,444631966,44848,2009,Female,Hawaii,9914.2
+487,487,1459,1459,Less Than High School,Health Care and Social Assistance,23100413,3613,2009,Female,Hawaii,6393.69
+488,488,1460,1460,High School Graduate,Health Care and Social Assistance,58056872,7571,2009,Female,Hawaii,7668.32
+489,489,1461,1461,Some College,Health Care and Social Assistance,139112322,14354,2009,Female,Hawaii,9691.54
+490,490,1462,1462,Advanced Degree,Health Care and Social Assistance,206670176,15776,2009,Female,Hawaii,13100.29
+491,491,1463,1463,Unavalble,Health Care and Social Assistance,17692182,3534,2009,Female,Hawaii,5006.28
+492,492,1476,1476,All Education Categories,Accommodation and Food Services,308504294,43768,2009,Male,Hawaii,7048.63
+493,493,1477,1477,Less Than High School,Accommodation and Food Services,42472814,6821,2009,Male,Hawaii,6226.77
+494,494,1478,1478,High School Graduate,Accommodation and Food Services,67279532,9317,2009,Male,Hawaii,7221.16
+495,495,1479,1479,Some College,Accommodation and Food Services,86918192,10741,2009,Male,Hawaii,8092.19
+496,496,1480,1480,Advanced Degree,Accommodation and Food Services,80790381,8302,2009,Male,Hawaii,9731.44
+497,497,1481,1481,Unavalble,Accommodation and Food Services,31043374,8587,2009,Male,Hawaii,3615.16
+498,498,1482,1482,All Education Categories,Accommodation and Food Services,275515508,46833,2009,Female,Hawaii,5882.94
+499,499,1483,1483,Less Than High School,Accommodation and Food Services,38962194,7422,2009,Female,Hawaii,5249.55
+500,500,1484,1484,High School Graduate,Accommodation and Food Services,59230877,9757,2009,Female,Hawaii,6070.6
+501,501,1485,1485,Some College,Accommodation and Food Services,77019945,11276,2009,Female,Hawaii,6830.43
+502,502,1486,1486,Advanced Degree,Accommodation and Food Services,69224629,8760,2009,Female,Hawaii,7902.35
+503,503,1487,1487,Unavalble,Accommodation and Food Services,31077863,9618,2009,Female,Hawaii,3231.22
+504,504,1512,1512,All Education Categories,00,2728225656,243824,2010,Male,Hawaii,11189.32
+505,505,1513,1513,Less Than High School,00,206174794,26908,2010,Male,Hawaii,7662.21
+506,506,1514,1514,High School Graduate,00,475615315,49893,2010,Male,Hawaii,9532.71
+507,507,1515,1515,Some College,00,777679206,68555,2010,Male,Hawaii,11343.87
+508,508,1516,1516,Advanced Degree,00,1142392079,70157,2010,Male,Hawaii,16283.37
+509,509,1517,1517,Unavalble,00,126364261,28311,2010,Male,Hawaii,4463.43
+510,510,1518,1518,All Education Categories,00,1868647181,235105,2010,Female,Hawaii,7948.14
+511,511,1519,1519,Less Than High School,00,150481056,26450,2010,Female,Hawaii,5689.26
+512,512,1520,1520,High School Graduate,00,321586552,46459,2010,Female,Hawaii,6921.94
+513,513,1521,1521,Some College,00,560185159,67087,2010,Female,Hawaii,8350.13
+514,514,1522,1522,Advanced Degree,00,730611128,65257,2010,Female,Hawaii,11195.9
+515,515,1523,1523,Unavalble,00,105783286,29853,2010,Female,Hawaii,3543.47
+516,516,1572,1572,All Education Categories,Manufacturing,94521714,8436,2010,Male,Hawaii,11204.57
+517,517,1573,1573,Less Than High School,Manufacturing,8464285,1078,2010,Male,Hawaii,7851.84
+518,518,1574,1574,High School Graduate,Manufacturing,19445378,1960,2010,Male,Hawaii,9921.11
+519,519,1575,1575,Some College,Manufacturing,29430991,2552,2010,Male,Hawaii,11532.52
+520,520,1576,1576,Advanced Degree,Manufacturing,33990523,2217,2010,Male,Hawaii,15331.76
+521,521,1577,1577,Unavalble,Manufacturing,3190538,629,2010,Male,Hawaii,5072.4
+522,522,1578,1578,All Education Categories,Manufacturing,33640787,5255,2010,Female,Hawaii,6401.67
+523,523,1579,1579,Less Than High School,Manufacturing,4782013,1025,2010,Female,Hawaii,4665.38
+524,524,1580,1580,High School Graduate,Manufacturing,7307051,1227,2010,Female,Hawaii,5955.22
+525,525,1581,1581,Some College,Manufacturing,10104406,1402,2010,Female,Hawaii,7207.14
+526,526,1582,1582,Advanced Degree,Manufacturing,9999281,1170,2010,Female,Hawaii,8546.39
+527,527,1583,1583,Unavalble,Manufacturing,1448035,430,2010,Female,Hawaii,3367.52
+528,528,1596,1596,All Education Categories,Retail Trade,232668735,28617,2010,Male,Hawaii,8130.44
+529,529,1597,1597,Less Than High School,Retail Trade,19387325,2989,2010,Male,Hawaii,6486.22
+530,530,1598,1598,High School Graduate,Retail Trade,46090086,5805,2010,Male,Hawaii,7939.72
+531,531,1599,1599,Some College,Retail Trade,70679942,7669,2010,Male,Hawaii,9216.32
+532,532,1600,1600,Advanced Degree,Retail Trade,74857340,6101,2010,Male,Hawaii,12269.68
+533,533,1601,1601,Unavalble,Retail Trade,21654043,6053,2010,Male,Hawaii,3577.41
+534,534,1602,1602,All Education Categories,Retail Trade,211686217,37724,2010,Female,Hawaii,5611.45
+535,535,1603,1603,Less Than High School,Retail Trade,23109847,4680,2010,Female,Hawaii,4938.0
+536,536,1604,1604,High School Graduate,Retail Trade,46987397,8248,2010,Female,Hawaii,5696.82
+537,537,1605,1605,Some College,Retail Trade,63633903,9984,2010,Female,Hawaii,6373.59
+538,538,1606,1606,Advanced Degree,Retail Trade,55524562,7018,2010,Female,Hawaii,7911.74
+539,539,1607,1607,Unavalble,Retail Trade,22430508,7794,2010,Female,Hawaii,2877.92
+540,540,1632,1632,All Education Categories,Finance and Insurance,103250868,4761,2010,Male,Hawaii,21686.8
+541,541,1633,1633,Less Than High School,Finance and Insurance,2362095,210,2010,Male,Hawaii,11248.07
+542,542,1634,1634,High School Graduate,Finance and Insurance,7413500,542,2010,Male,Hawaii,13678.04
+543,543,1635,1635,Some College,Finance and Insurance,19862188,1151,2010,Male,Hawaii,17256.46
+544,544,1636,1636,Advanced Degree,Finance and Insurance,72373860,2649,2010,Male,Hawaii,27321.2
+545,545,1637,1637,Unavalble,Finance and Insurance,1239225,209,2010,Male,Hawaii,5929.31
+546,546,1638,1638,All Education Categories,Finance and Insurance,133422818,10756,2010,Female,Hawaii,12404.5
+547,547,1639,1639,Less Than High School,Finance and Insurance,4327564,526,2010,Female,Hawaii,8227.31
+548,548,1640,1640,High School Graduate,Finance and Insurance,16071216,1636,2010,Female,Hawaii,9823.48
+549,549,1641,1641,Some College,Finance and Insurance,37731493,3194,2010,Female,Hawaii,11813.24
+550,550,1642,1642,Advanced Degree,Finance and Insurance,71036965,4614,2010,Female,Hawaii,15395.96
+551,551,1643,1643,Unavalble,Finance and Insurance,4255580,786,2010,Female,Hawaii,5414.22
+552,552,1692,1692,All Education Categories,Educational Services,46922062,4919,2010,Male,Hawaii,9538.94
+553,553,1693,1693,Less Than High School,Educational Services,2364075,349,2010,Male,Hawaii,6773.85
+554,554,1694,1694,High School Graduate,Educational Services,6352310,773,2010,Male,Hawaii,8217.74
+555,555,1695,1695,Some College,Educational Services,11782500,1247,2010,Male,Hawaii,9448.68
+556,556,1696,1696,Advanced Degree,Educational Services,25093773,1989,2010,Male,Hawaii,12616.28
+557,557,1697,1697,Unavalble,Educational Services,1329404,560,2010,Male,Hawaii,2373.94
+558,558,1698,1698,All Education Categories,Educational Services,66019690,8157,2010,Female,Hawaii,8093.62
+559,559,1699,1699,Less Than High School,Educational Services,3472875,569,2010,Female,Hawaii,6103.47
+560,560,1700,1700,High School Graduate,Educational Services,9726290,1342,2010,Female,Hawaii,7247.61
+561,561,1701,1701,Some College,Educational Services,18292445,2203,2010,Female,Hawaii,8303.42
+562,562,1702,1702,Advanced Degree,Educational Services,32327990,3078,2010,Female,Hawaii,10502.92
+563,563,1703,1703,Unavalble,Educational Services,2200090,964,2010,Female,Hawaii,2282.25
+564,564,1704,1704,All Education Categories,Health Care and Social Assistance,223735331,14919,2010,Male,Hawaii,14996.67
+565,565,1705,1705,Less Than High School,Health Care and Social Assistance,9707194,1265,2010,Male,Hawaii,7673.67
+566,566,1706,1706,High School Graduate,Health Care and Social Assistance,23345896,2460,2010,Male,Hawaii,9490.2
+567,567,1707,1707,Some College,Health Care and Social Assistance,53671960,4163,2010,Male,Hawaii,12892.62
+568,568,1708,1708,Advanced Degree,Health Care and Social Assistance,132314980,5959,2010,Male,Hawaii,22204.23
+569,569,1709,1709,Unavalble,Health Care and Social Assistance,4695301,1072,2010,Male,Hawaii,4379.94
+570,570,1710,1710,All Education Categories,Health Care and Social Assistance,416821743,43840,2010,Female,Hawaii,9507.8
+571,571,1711,1711,Less Than High School,Health Care and Social Assistance,23399313,3689,2010,Female,Hawaii,6343.0
+572,572,1712,1712,High School Graduate,Health Care and Social Assistance,56470082,7510,2010,Female,Hawaii,7519.32
+573,573,1713,1713,Some College,Health Care and Social Assistance,130913617,13979,2010,Female,Hawaii,9365.02
+574,574,1714,1714,Advanced Degree,Health Care and Social Assistance,190830407,15325,2010,Female,Hawaii,12452.23
+575,575,1715,1715,Unavalble,Health Care and Social Assistance,15208324,3337,2010,Female,Hawaii,4557.48
+576,576,1728,1728,All Education Categories,Accommodation and Food Services,304536987,42018,2010,Male,Hawaii,7247.77
+577,577,1729,1729,Less Than High School,Accommodation and Food Services,42164825,6584,2010,Male,Hawaii,6404.14
+578,578,1730,1730,High School Graduate,Accommodation and Food Services,67230503,9093,2010,Male,Hawaii,7393.65
+579,579,1731,1731,Some College,Accommodation and Food Services,86403878,10466,2010,Male,Hawaii,8255.67
+580,580,1732,1732,Advanced Degree,Accommodation and Food Services,80147991,8049,2010,Male,Hawaii,9957.51
+581,581,1733,1733,Unavalble,Accommodation and Food Services,28589790,7826,2010,Male,Hawaii,3653.18
+582,582,1734,1734,All Education Categories,Accommodation and Food Services,272729084,45255,2010,Female,Hawaii,6026.5
+583,583,1735,1735,Less Than High School,Accommodation and Food Services,38999410,7217,2010,Female,Hawaii,5403.83
+584,584,1736,1736,High School Graduate,Accommodation and Food Services,59134611,9519,2010,Female,Hawaii,6212.27
+585,585,1737,1737,Some College,Accommodation and Food Services,76671100,11041,2010,Female,Hawaii,6944.22
+586,586,1738,1738,Advanced Degree,Accommodation and Food Services,68713019,8579,2010,Female,Hawaii,8009.44
+587,587,1739,1739,Unavalble,Accommodation and Food Services,29210945,8899,2010,Female,Hawaii,3282.5
+588,588,1764,1764,All Education Categories,00,2857142042,246793,2011,Male,Hawaii,11577.08
+589,589,1765,1765,Less Than High School,00,223229321,27793,2011,Male,Hawaii,8031.85
+590,590,1766,1766,High School Graduate,00,503721478,51129,2011,Male,Hawaii,9851.97
+591,591,1767,1767,Some College,00,813706449,69612,2011,Male,Hawaii,11689.17
+592,592,1768,1768,Advanced Degree,00,1186279828,70361,2011,Male,Hawaii,16859.91
+593,593,1769,1769,Unavalble,00,130204967,27899,2011,Male,Hawaii,4667.01
+594,594,1770,1770,All Education Categories,00,1958081181,236304,2011,Female,Hawaii,8286.28
+595,595,1771,1771,Less Than High School,00,163254187,26959,2011,Female,Hawaii,6055.65
+596,596,1772,1772,High School Graduate,00,342721278,47135,2011,Female,Hawaii,7271.06
+597,597,1773,1773,Some College,00,582084851,67353,2011,Female,Hawaii,8642.3
+598,598,1774,1774,Advanced Degree,00,757923512,65188,2011,Female,Hawaii,11626.73
+599,599,1775,1775,Unavalble,00,112097353,29670,2011,Female,Hawaii,3778.14
+600,600,1824,1824,All Education Categories,Manufacturing,101544369,8406,2011,Male,Hawaii,12079.99
+601,601,1825,1825,Less Than High School,Manufacturing,9151207,1098,2011,Male,Hawaii,8334.43
+602,602,1826,1826,High School Graduate,Manufacturing,21123854,1968,2011,Male,Hawaii,10733.67
+603,603,1827,1827,Some College,Manufacturing,31811799,2535,2011,Male,Hawaii,12549.03
+604,604,1828,1828,Advanced Degree,Manufacturing,36154521,2172,2011,Male,Hawaii,16645.73
+605,605,1829,1829,Unavalble,Manufacturing,3302988,633,2011,Male,Hawaii,5217.99
+606,606,1830,1830,All Education Categories,Manufacturing,33934330,5118,2011,Female,Hawaii,6630.39
+607,607,1831,1831,Less Than High School,Manufacturing,4832285,988,2011,Female,Hawaii,4890.98
+608,608,1832,1832,High School Graduate,Manufacturing,7283613,1172,2011,Female,Hawaii,6214.69
+609,609,1833,1833,Some College,Manufacturing,10143010,1376,2011,Female,Hawaii,7371.37
+610,610,1834,1834,Advanced Degree,Manufacturing,10243350,1163,2011,Female,Hawaii,8807.7
+611,611,1835,1835,Unavalble,Manufacturing,1432073,419,2011,Female,Hawaii,3417.84
+612,612,1848,1848,All Education Categories,Retail Trade,240503510,28866,2011,Male,Hawaii,8331.72
+613,613,1849,1849,Less Than High School,Retail Trade,20925990,3096,2011,Male,Hawaii,6759.04
+614,614,1850,1850,High School Graduate,Retail Trade,48005231,5899,2011,Male,Hawaii,8137.86
+615,615,1851,1851,Some College,Retail Trade,72986605,7691,2011,Male,Hawaii,9489.87
+616,616,1852,1852,Advanced Degree,Retail Trade,76532026,6137,2011,Male,Hawaii,12470.59
+617,617,1853,1853,Unavalble,Retail Trade,22053657,6043,2011,Male,Hawaii,3649.46
+618,618,1854,1854,All Education Categories,Retail Trade,225944137,37781,2011,Female,Hawaii,5980.36
+619,619,1855,1855,Less Than High School,Retail Trade,24868597,4666,2011,Female,Hawaii,5329.75
+620,620,1856,1856,High School Graduate,Retail Trade,49731309,8212,2011,Female,Hawaii,6055.93
+621,621,1857,1857,Some College,Retail Trade,67849423,9974,2011,Female,Hawaii,6802.63
+622,622,1858,1858,Advanced Degree,Retail Trade,60590469,7128,2011,Female,Hawaii,8500.35
+623,623,1859,1859,Unavalble,Retail Trade,22904340,7801,2011,Female,Hawaii,2936.08
+624,624,1884,1884,All Education Categories,Finance and Insurance,117786675,4728,2011,Male,Hawaii,24912.58
+625,625,1885,1885,Less Than High School,Finance and Insurance,2773850,223,2011,Male,Hawaii,12438.79
+626,626,1886,1886,High School Graduate,Finance and Insurance,8203596,554,2011,Male,Hawaii,14807.94
+627,627,1887,1887,Some College,Finance and Insurance,22242373,1160,2011,Male,Hawaii,19174.46
+628,628,1888,1888,Advanced Degree,Finance and Insurance,83420409,2605,2011,Male,Hawaii,32023.19
+629,629,1889,1889,Unavalble,Finance and Insurance,1146446,185,2011,Male,Hawaii,6197.01
+630,630,1890,1890,All Education Categories,Finance and Insurance,137627451,10502,2011,Female,Hawaii,13104.88
+631,631,1891,1891,Less Than High School,Finance and Insurance,4718787,541,2011,Female,Hawaii,8722.34
+632,632,1892,1892,High School Graduate,Finance and Insurance,16711303,1619,2011,Female,Hawaii,10321.99
+633,633,1893,1893,Some College,Finance and Insurance,37758102,3162,2011,Female,Hawaii,11941.21
+634,634,1894,1894,Advanced Degree,Finance and Insurance,74596405,4504,2011,Female,Hawaii,16562.26
+635,635,1895,1895,Unavalble,Finance and Insurance,3842854,677,2011,Female,Hawaii,5676.3
+636,636,1944,1944,All Education Categories,Educational Services,47245420,4966,2011,Male,Hawaii,9513.78
+637,637,1945,1945,Less Than High School,Educational Services,2668760,376,2011,Male,Hawaii,7097.77
+638,638,1946,1946,High School Graduate,Educational Services,6731261,808,2011,Male,Hawaii,8330.77
+639,639,1947,1947,Some College,Educational Services,11984569,1278,2011,Male,Hawaii,9377.6
+640,640,1948,1948,Advanced Degree,Educational Services,24486196,1973,2011,Male,Hawaii,12410.64
+641,641,1949,1949,Unavalble,Educational Services,1374634,531,2011,Male,Hawaii,2588.76
+642,642,1950,1950,All Education Categories,Educational Services,64145971,7958,2011,Female,Hawaii,8060.56
+643,643,1951,1951,Less Than High School,Educational Services,3532883,580,2011,Female,Hawaii,6091.18
+644,644,1952,1952,High School Graduate,Educational Services,9678368,1357,2011,Female,Hawaii,7132.18
+645,645,1953,1953,Some College,Educational Services,17869338,2161,2011,Female,Hawaii,8269.01
+646,646,1954,1954,Advanced Degree,Educational Services,30998735,2960,2011,Female,Hawaii,10472.55
+647,647,1955,1955,Unavalble,Educational Services,2066647,900,2011,Female,Hawaii,2296.27
+648,648,1956,1956,All Education Categories,Health Care and Social Assistance,242564622,14976,2011,Male,Hawaii,16196.89
+649,649,1957,1957,Less Than High School,Health Care and Social Assistance,11959417,1350,2011,Male,Hawaii,8858.83
+650,650,1958,1958,High School Graduate,Health Care and Social Assistance,27101365,2535,2011,Male,Hawaii,10690.87
+651,651,1959,1959,Some College,Health Care and Social Assistance,57693014,4198,2011,Male,Hawaii,13742.98
+652,652,1960,1960,Advanced Degree,Health Care and Social Assistance,136416720,5893,2011,Male,Hawaii,23148.94
+653,653,1961,1961,Unavalble,Health Care and Social Assistance,9394106,999,2011,Male,Hawaii,9403.51
+654,654,1962,1962,All Education Categories,Health Care and Social Assistance,431569844,43563,2011,Female,Hawaii,9906.8
+655,655,1963,1963,Less Than High School,Health Care and Social Assistance,26724204,3864,2011,Female,Hawaii,6916.2
+656,656,1964,1964,High School Graduate,Health Care and Social Assistance,61485064,7665,2011,Female,Hawaii,8021.53
+657,657,1965,1965,Some College,Health Care and Social Assistance,133525592,13841,2011,Female,Hawaii,9647.11
+658,658,1966,1966,Advanced Degree,Health Care and Social Assistance,190345737,15025,2011,Female,Hawaii,12668.6
+659,659,1967,1967,Unavalble,Health Care and Social Assistance,19489247,3168,2011,Female,Hawaii,6151.91
+660,660,1980,1980,All Education Categories,Accommodation and Food Services,335154367,43767,2011,Male,Hawaii,7657.7
+661,661,1981,1981,Less Than High School,Accommodation and Food Services,46544425,6837,2011,Male,Hawaii,6807.73
+662,662,1982,1982,High School Graduate,Accommodation and Food Services,74569028,9585,2011,Male,Hawaii,7779.76
+663,663,1983,1983,Some College,Accommodation and Food Services,95657841,11015,2011,Male,Hawaii,8684.33
+664,664,1984,1984,Advanced Degree,Accommodation and Food Services,88198748,8454,2011,Male,Hawaii,10432.78
+665,665,1985,1985,Unavalble,Accommodation and Food Services,30184325,7876,2011,Male,Hawaii,3832.44
+666,666,1986,1986,All Education Categories,Accommodation and Food Services,298067913,46527,2011,Female,Hawaii,6406.34
+667,667,1987,1987,Less Than High School,Accommodation and Food Services,42129145,7311,2011,Female,Hawaii,5762.43
+668,668,1988,1988,High School Graduate,Accommodation and Food Services,64848987,9840,2011,Female,Hawaii,6590.34
+669,669,1989,1989,Some College,Accommodation and Food Services,84294457,11373,2011,Female,Hawaii,7411.8
+670,670,1990,1990,Advanced Degree,Accommodation and Food Services,75873933,8913,2011,Female,Hawaii,8512.73
+671,671,1991,1991,Unavalble,Accommodation and Food Services,30921391,9091,2011,Female,Hawaii,3401.32
+672,672,2016,2016,All Education Categories,00,3013604747,250543,2012,Male,Hawaii,12028.29
+673,673,2017,2017,Less Than High School,00,245506706,28697,2012,Male,Hawaii,8555.13
+674,674,2018,2018,High School Graduate,00,545684823,52505,2012,Male,Hawaii,10393.01
+675,675,2019,2019,Some College,00,865295530,70580,2012,Male,Hawaii,12259.78
+676,676,2020,2020,Advanced Degree,00,1222730221,70502,2012,Male,Hawaii,17343.2
+677,677,2021,2021,Unavalble,00,134387467,28259,2012,Male,Hawaii,4755.56
+678,678,2022,2022,All Education Categories,00,2080537738,240379,2012,Female,Hawaii,8655.24
+679,679,2023,2023,Less Than High School,00,178927288,27754,2012,Female,Hawaii,6446.9
+680,680,2024,2024,High School Graduate,00,368216977,48158,2012,Female,Hawaii,7646.02
+681,681,2025,2025,Some College,00,620952288,68441,2012,Female,Hawaii,9072.81
+682,682,2026,2026,Advanced Degree,00,797701729,66015,2012,Female,Hawaii,12083.64
+683,683,2027,2027,Unavalble,00,114739457,30013,2012,Female,Hawaii,3822.99
+684,684,2076,2076,All Education Categories,Manufacturing,100994918,8360,2012,Male,Hawaii,12080.73
+685,685,2077,2077,Less Than High School,Manufacturing,9401522,1088,2012,Male,Hawaii,8641.1
+686,686,2078,2078,High School Graduate,Manufacturing,21138593,1940,2012,Male,Hawaii,10896.18
+687,687,2079,2079,Some College,Manufacturing,31844590,2501,2012,Male,Hawaii,12732.74
+688,688,2080,2080,Advanced Degree,Manufacturing,35160287,2138,2012,Male,Hawaii,16445.41
+689,689,2081,2081,Unavalble,Manufacturing,3449926,693,2012,Male,Hawaii,4978.25
+690,690,2082,2082,All Education Categories,Manufacturing,36080769,5174,2012,Female,Hawaii,6973.48
+691,691,2083,2083,Less Than High School,Manufacturing,5124432,983,2012,Female,Hawaii,5213.05
+692,692,2084,2084,High School Graduate,Manufacturing,7869041,1200,2012,Female,Hawaii,6557.53
+693,693,2085,2085,Some College,Manufacturing,10685798,1384,2012,Female,Hawaii,7720.95
+694,694,2086,2086,Advanced Degree,Manufacturing,10734353,1162,2012,Female,Hawaii,9237.83
+695,695,2087,2087,Unavalble,Manufacturing,1667145,445,2012,Female,Hawaii,3746.39
+696,696,2100,2100,All Education Categories,Retail Trade,265023349,29345,2012,Male,Hawaii,9031.29
+697,697,2101,2101,Less Than High School,Retail Trade,23305050,3190,2012,Male,Hawaii,7305.66
+698,698,2102,2102,High School Graduate,Retail Trade,53303376,5987,2012,Male,Hawaii,8903.19
+699,699,2103,2103,Some College,Retail Trade,80575779,7760,2012,Male,Hawaii,10383.48
+700,700,2104,2104,Advanced Degree,Retail Trade,83523619,6222,2012,Male,Hawaii,13423.92
+701,701,2105,2105,Unavalble,Retail Trade,24315524,6186,2012,Male,Hawaii,3930.73
+702,702,2106,2106,All Education Categories,Retail Trade,246475058,38280,2012,Female,Hawaii,6438.74
+703,703,2107,2107,Less Than High School,Retail Trade,27188660,4737,2012,Female,Hawaii,5739.64
+704,704,2108,2108,High School Graduate,Retail Trade,53552681,8200,2012,Female,Hawaii,6530.81
+705,705,2109,2109,Some College,Retail Trade,73695219,9988,2012,Female,Hawaii,7378.38
+706,706,2110,2110,Advanced Degree,Retail Trade,66966207,7210,2012,Female,Hawaii,9287.96
+707,707,2111,2111,Unavalble,Retail Trade,25072291,8145,2012,Female,Hawaii,3078.24
+708,708,2136,2136,All Education Categories,Finance and Insurance,122635729,4733,2012,Male,Hawaii,25910.78
+709,709,2137,2137,Less Than High School,Finance and Insurance,3370049,252,2012,Male,Hawaii,13373.21
+710,710,2138,2138,High School Graduate,Finance and Insurance,9343946,584,2012,Male,Hawaii,15999.91
+711,711,2139,2139,Some College,Finance and Insurance,23695983,1171,2012,Male,Hawaii,20235.68
+712,712,2140,2140,Advanced Degree,Finance and Insurance,85078182,2565,2012,Male,Hawaii,33168.88
+713,713,2141,2141,Unavalble,Finance and Insurance,1147569,160,2012,Male,Hawaii,7172.31
+714,714,2142,2142,All Education Categories,Finance and Insurance,142836560,10348,2012,Female,Hawaii,13803.3
+715,715,2143,2143,Less Than High School,Finance and Insurance,5180478,570,2012,Female,Hawaii,9088.56
+716,716,2144,2144,High School Graduate,Finance and Insurance,17423773,1610,2012,Female,Hawaii,10822.22
+717,717,2145,2145,Some College,Finance and Insurance,39359821,3122,2012,Female,Hawaii,12607.25
+718,718,2146,2146,Advanced Degree,Finance and Insurance,77183273,4449,2012,Female,Hawaii,17348.45
+719,719,2147,2147,Unavalble,Finance and Insurance,3689216,597,2012,Female,Hawaii,6179.59
+720,720,2196,2196,All Education Categories,Educational Services,49163044,5076,2012,Male,Hawaii,9685.39
+721,721,2197,2197,Less Than High School,Educational Services,3054339,410,2012,Male,Hawaii,7449.61
+722,722,2198,2198,High School Graduate,Educational Services,7355605,873,2012,Male,Hawaii,8425.66
+723,723,2199,2199,Some College,Educational Services,12526069,1316,2012,Male,Hawaii,9518.29
+724,724,2200,2200,Advanced Degree,Educational Services,25057045,1983,2012,Male,Hawaii,12635.93
+725,725,2201,2201,Unavalble,Educational Services,1169986,494,2012,Male,Hawaii,2368.39
+726,726,2202,2202,All Education Categories,Educational Services,67412844,8001,2012,Female,Hawaii,8425.55
+727,727,2203,2203,Less Than High School,Educational Services,4079417,627,2012,Female,Hawaii,6506.25
+728,728,2204,2204,High School Graduate,Educational Services,10576894,1391,2012,Female,Hawaii,7603.81
+729,729,2205,2205,Some College,Educational Services,18889498,2178,2012,Female,Hawaii,8672.86
+730,730,2206,2206,Advanced Degree,Educational Services,31892669,2939,2012,Female,Hawaii,10851.54
+731,731,2207,2207,Unavalble,Educational Services,1974367,865,2012,Female,Hawaii,2282.51
+732,732,2208,2208,All Education Categories,Health Care and Social Assistance,248702285,15767,2012,Male,Hawaii,15773.6
+733,733,2209,2209,Less Than High School,Health Care and Social Assistance,12488102,1459,2012,Male,Hawaii,8559.36
+734,734,2210,2210,High School Graduate,Health Care and Social Assistance,28514529,2740,2012,Male,Hawaii,10406.76
+735,735,2211,2211,Some College,Health Care and Social Assistance,61118033,4433,2012,Male,Hawaii,13787.06
+736,736,2212,2212,Advanced Degree,Health Care and Social Assistance,141955440,6150,2012,Male,Hawaii,23082.19
+737,737,2213,2213,Unavalble,Health Care and Social Assistance,4626181,985,2012,Male,Hawaii,4696.63
+738,738,2214,2214,All Education Categories,Health Care and Social Assistance,454011637,45033,2012,Female,Hawaii,10081.75
+739,739,2215,2215,Less Than High School,Health Care and Social Assistance,28847799,4100,2012,Female,Hawaii,7036.05
+740,740,2216,2216,High School Graduate,Health Care and Social Assistance,65318359,8049,2012,Female,Hawaii,8115.09
+741,741,2217,2217,Some College,Health Care and Social Assistance,142134094,14276,2012,Female,Hawaii,9956.16
+742,742,2218,2218,Advanced Degree,Health Care and Social Assistance,202865952,15494,2012,Female,Hawaii,13093.19
+743,743,2219,2219,Unavalble,Health Care and Social Assistance,14845433,3114,2012,Female,Hawaii,4767.32
+744,744,2232,2232,All Education Categories,Accommodation and Food Services,371041178,45016,2012,Male,Hawaii,8242.43
+745,745,2233,2233,Less Than High School,Accommodation and Food Services,51373683,7020,2012,Male,Hawaii,7318.19
+746,746,2234,2234,High School Graduate,Accommodation and Food Services,82620297,9918,2012,Male,Hawaii,8330.34
+747,747,2235,2235,Some College,Accommodation and Food Services,105682856,11354,2012,Male,Hawaii,9307.98
+748,748,2236,2236,Advanced Degree,Accommodation and Food Services,97443233,8716,2012,Male,Hawaii,11179.81
+749,749,2237,2237,Unavalble,Accommodation and Food Services,33921109,8008,2012,Male,Hawaii,4235.9
+750,750,2238,2238,All Education Categories,Accommodation and Food Services,330753541,47466,2012,Female,Hawaii,6968.22
+751,751,2239,2239,Less Than High School,Accommodation and Food Services,46574107,7432,2012,Female,Hawaii,6266.7
+752,752,2240,2240,High School Graduate,Accommodation and Food Services,72037727,10069,2012,Female,Hawaii,7154.41
+753,753,2241,2241,Some College,Accommodation and Food Services,93524317,11707,2012,Female,Hawaii,7988.75
+754,754,2242,2242,Advanced Degree,Accommodation and Food Services,84099189,9164,2012,Female,Hawaii,9177.13
+755,755,2243,2243,Unavalble,Accommodation and Food Services,34518201,9095,2012,Female,Hawaii,3795.29
+756,756,3156,3156,All Education Categories,Educational Services,36441598,4163,2004,Male,Hawaii,8753.69
+757,757,3157,3157,Less Than High School,Educational Services,1153486,211,2004,Male,Hawaii,5466.76
+758,758,3158,3158,High School Graduate,Educational Services,3869636,561,2004,Male,Hawaii,6897.75
+759,759,3159,3159,Some College,Educational Services,8278669,1020,2004,Male,Hawaii,8116.34
+760,760,3160,3160,Advanced Degree,Educational Services,22329467,2013,2004,Male,Hawaii,11092.63
+761,761,3161,3161,Unavalble,Educational Services,810340,358,2004,Male,Hawaii,2263.52
+762,762,3162,3162,All Education Categories,Educational Services,46396872,6687,2004,Female,Hawaii,6938.37
+763,763,3163,3163,Less Than High School,Educational Services,1659818,369,2004,Female,Hawaii,4498.15
+764,764,3164,3164,High School Graduate,Educational Services,5881891,1025,2004,Female,Hawaii,5738.43
+765,765,3165,3165,Some College,Educational Services,12196403,1809,2004,Female,Hawaii,6742.07
+766,766,3166,3166,Advanced Degree,Educational Services,25159384,2831,2004,Female,Hawaii,8887.1
+767,767,3167,3167,Unavalble,Educational Services,1499377,652,2004,Female,Hawaii,2299.66
+768,768,3252,3252,All Education Categories,Accommodation,171085503,18528,2004,Male,Hawaii,9233.89
+769,769,3253,3253,Less Than High School,Accommodation,20867397,2830,2004,Male,Hawaii,7373.64
+770,770,3254,3254,High School Graduate,Accommodation,37817986,4529,2004,Male,Hawaii,8350.18
+771,771,3255,3255,Some College,Accommodation,51640323,5550,2004,Male,Hawaii,9304.56
+772,772,3256,3256,Advanced Degree,Accommodation,52861314,4226,2004,Male,Hawaii,12508.59
+773,773,3257,3257,Unavalble,Accommodation,7898483,1393,2004,Male,Hawaii,5670.12
+774,774,3258,3258,All Education Categories,Accommodation,148068795,19108,2004,Female,Hawaii,7749.05
+775,775,3259,3259,Less Than High School,Accommodation,19726787,2964,2004,Female,Hawaii,6655.46
+776,776,3260,3260,High School Graduate,Accommodation,33382039,4556,2004,Female,Hawaii,7327.05
+777,777,3261,3261,Some College,Accommodation,45333751,5727,2004,Female,Hawaii,7915.79
+778,778,3262,3262,Advanced Degree,Accommodation,41707869,4454,2004,Female,Hawaii,9364.14
+779,779,3263,3263,Unavalble,Accommodation,7918349,1408,2004,Female,Hawaii,5623.83
+780,780,4308,4308,All Education Categories,Educational Services,39231948,4418,2005,Male,Hawaii,8880.02
+781,781,4309,4309,Less Than High School,Educational Services,1391822,239,2005,Male,Hawaii,5823.52
+782,782,4310,4310,High School Graduate,Educational Services,4218575,591,2005,Male,Hawaii,7138.03
+783,783,4311,4311,Some College,Educational Services,9083838,1098,2005,Male,Hawaii,8273.08
+784,784,4312,4312,Advanced Degree,Educational Services,23676888,2106,2005,Male,Hawaii,11242.59
+785,785,4313,4313,Unavalble,Educational Services,860826,385,2005,Male,Hawaii,2235.91
+786,786,4314,4314,All Education Categories,Educational Services,49859233,7139,2005,Female,Hawaii,6984.06
+787,787,4315,4315,Less Than High School,Educational Services,1827800,392,2005,Female,Hawaii,4662.76
+788,788,4316,4316,High School Graduate,Educational Services,6423608,1082,2005,Female,Hawaii,5936.79
+789,789,4317,4317,Some College,Educational Services,13345238,1909,2005,Female,Hawaii,6990.7
+790,790,4318,4318,Advanced Degree,Educational Services,26712118,2985,2005,Female,Hawaii,8948.78
+791,791,4319,4319,Unavalble,Educational Services,1550469,770,2005,Female,Hawaii,2013.6
+792,792,4404,4404,All Education Categories,Accommodation,188732499,19123,2005,Male,Hawaii,9869.4
+793,793,4405,4405,Less Than High School,Accommodation,22716890,2901,2005,Male,Hawaii,7830.71
+794,794,4406,4406,High School Graduate,Accommodation,41181578,4631,2005,Male,Hawaii,8892.59
+795,795,4407,4407,Some College,Accommodation,56595264,5705,2005,Male,Hawaii,9920.29
+796,796,4408,4408,Advanced Degree,Accommodation,59262974,4385,2005,Male,Hawaii,13514.93
+797,797,4409,4409,Unavalble,Accommodation,8975792,1501,2005,Male,Hawaii,5979.87
+798,798,4410,4410,All Education Categories,Accommodation,163755010,19842,2005,Female,Hawaii,8252.95
+799,799,4411,4411,Less Than High School,Accommodation,21175564,3002,2005,Female,Hawaii,7053.82
+800,800,4412,4412,High School Graduate,Accommodation,36078976,4640,2005,Female,Hawaii,7775.64
+801,801,4413,4413,Some College,Accommodation,49801213,5901,2005,Female,Hawaii,8439.45
+802,802,4414,4414,Advanced Degree,Accommodation,47238036,4687,2005,Female,Hawaii,10078.52
+803,803,4415,4415,Unavalble,Accommodation,9461220,1613,2005,Female,Hawaii,5865.6
+804,804,5436,5436,All Education Categories,Educational Services,40756053,4555,2006,Male,Hawaii,8947.54
+805,805,5437,5437,Less Than High School,Educational Services,1476713,250,2006,Male,Hawaii,5906.85
+806,806,5438,5438,High School Graduate,Educational Services,4510119,617,2006,Male,Hawaii,7309.76
+807,807,5439,5439,Some College,Educational Services,9520446,1122,2006,Male,Hawaii,8485.25
+808,808,5440,5440,Advanced Degree,Educational Services,24235001,2132,2006,Male,Hawaii,11367.26
+809,809,5441,5441,Unavalble,Educational Services,1013774,434,2006,Male,Hawaii,2335.88
+810,810,5442,5442,All Education Categories,Educational Services,53097726,7389,2006,Female,Hawaii,7186.05
+811,811,5443,5443,Less Than High School,Educational Services,2038650,415,2006,Female,Hawaii,4912.41
+812,812,5444,5444,High School Graduate,Educational Services,6873621,1130,2006,Female,Hawaii,6082.85
+813,813,5445,5445,Some College,Educational Services,14121647,1965,2006,Female,Hawaii,7186.59
+814,814,5446,5446,Advanced Degree,Educational Services,28138555,3040,2006,Female,Hawaii,9256.1
+815,815,5447,5447,Unavalble,Educational Services,1925254,840,2006,Female,Hawaii,2291.97
+816,816,5532,5532,All Education Categories,Accommodation,206492669,19391,2006,Male,Hawaii,10648.89
+817,817,5533,5533,Less Than High School,Accommodation,24511705,2925,2006,Male,Hawaii,8380.07
+818,818,5534,5534,High School Graduate,Accommodation,44267289,4638,2006,Male,Hawaii,9544.48
+819,819,5535,5535,Some College,Accommodation,61799364,5740,2006,Male,Hawaii,10766.44
+820,820,5536,5536,Advanced Degree,Accommodation,65204895,4439,2006,Male,Hawaii,14689.1
+821,821,5537,5537,Unavalble,Accommodation,10709416,1650,2006,Male,Hawaii,6490.56
+822,822,5538,5538,All Education Categories,Accommodation,177811780,20097,2006,Female,Hawaii,8847.68
+823,823,5539,5539,Less Than High School,Accommodation,22455869,3014,2006,Female,Hawaii,7450.52
+824,824,5540,5540,High School Graduate,Accommodation,38298906,4654,2006,Female,Hawaii,8229.24
+825,825,5541,5541,Some College,Accommodation,53775827,5947,2006,Female,Hawaii,9042.51
+826,826,5542,5542,Advanced Degree,Accommodation,52776234,4797,2006,Female,Hawaii,11001.92
+827,827,5543,5543,Unavalble,Accommodation,10504944,1686,2006,Female,Hawaii,6230.69
+828,828,6588,6588,All Education Categories,Educational Services,45385914,4810,2007,Male,Hawaii,9435.74
+829,829,6589,6589,Less Than High School,Educational Services,1847886,280,2007,Male,Hawaii,6599.59
+830,830,6590,6590,High School Graduate,Educational Services,5376998,692,2007,Male,Hawaii,7770.23
+831,831,6591,6591,Some College,Educational Services,10847303,1195,2007,Male,Hawaii,9077.24
+832,832,6592,6592,Advanced Degree,Educational Services,26178205,2139,2007,Male,Hawaii,12238.53
+833,833,6593,6593,Unavalble,Educational Services,1135522,505,2007,Male,Hawaii,2248.56
+834,834,6594,6594,All Education Categories,Educational Services,58273214,7624,2007,Female,Hawaii,7643.39
+835,835,6595,6595,Less Than High School,Educational Services,2330691,447,2007,Female,Hawaii,5214.07
+836,836,6596,6596,High School Graduate,Educational Services,7789576,1185,2007,Female,Hawaii,6573.48
+837,837,6597,6597,Some College,Educational Services,15503620,2045,2007,Female,Hawaii,7581.23
+838,838,6598,6598,Advanced Degree,Educational Services,30644445,3114,2007,Female,Hawaii,9840.86
+839,839,6599,6599,Unavalble,Educational Services,2004882,833,2007,Female,Hawaii,2406.82
+840,840,6684,6684,All Education Categories,Accommodation,219563101,19139,2007,Male,Hawaii,11472.03
+841,841,6685,6685,Less Than High School,Accommodation,26093979,2910,2007,Male,Hawaii,8967.0
+842,842,6686,6686,High School Graduate,Accommodation,47085578,4584,2007,Male,Hawaii,10271.72
+843,843,6687,6687,Some College,Accommodation,65891902,5674,2007,Male,Hawaii,11612.95
+844,844,6688,6688,Advanced Degree,Accommodation,69819896,4430,2007,Male,Hawaii,15760.7
+845,845,6689,6689,Unavalble,Accommodation,10671747,1541,2007,Male,Hawaii,6925.21
+846,846,6690,6690,All Education Categories,Accommodation,186098634,19891,2007,Female,Hawaii,9355.92
+847,847,6691,6691,Less Than High School,Accommodation,23555595,3000,2007,Female,Hawaii,7851.86
+848,848,6692,6692,High School Graduate,Accommodation,39895060,4581,2007,Female,Hawaii,8708.81
+849,849,6693,6693,Some College,Accommodation,56396460,5872,2007,Female,Hawaii,9604.3
+850,850,6694,6694,Advanced Degree,Accommodation,55175474,4816,2007,Female,Hawaii,11456.7
+851,851,6695,6695,Unavalble,Accommodation,11076045,1623,2007,Female,Hawaii,6824.43
+852,852,7728,7728,All Education Categories,Educational Services,44793778,4876,2008,Male,Hawaii,9186.58
+853,853,7729,7729,Less Than High School,Educational Services,1924771,302,2008,Male,Hawaii,6373.41
+854,854,7730,7730,High School Graduate,Educational Services,5598790,717,2008,Male,Hawaii,7808.63
+855,855,7731,7731,Some College,Educational Services,11032809,1225,2008,Male,Hawaii,9006.37
+856,856,7732,7732,Advanced Degree,Educational Services,24971377,2065,2008,Male,Hawaii,12092.68
+857,857,7733,7733,Unavalble,Educational Services,1266031,568,2008,Male,Hawaii,2228.93
+858,858,7734,7734,All Education Categories,Educational Services,61658634,8132,2008,Female,Hawaii,7582.22
+859,859,7735,7735,Less Than High School,Educational Services,2623016,494,2008,Female,Hawaii,5309.75
+860,860,7736,7736,High School Graduate,Educational Services,8384860,1277,2008,Female,Hawaii,6566.06
+861,861,7737,7737,Some College,Educational Services,16633142,2158,2008,Female,Hawaii,7707.67
+862,862,7738,7738,Advanced Degree,Educational Services,31549630,3180,2008,Female,Hawaii,9921.27
+863,863,7739,7739,Unavalble,Educational Services,2467985,1024,2008,Female,Hawaii,2410.14
+864,864,7824,7824,All Education Categories,Accommodation,219445203,19704,2008,Male,Hawaii,11137.09
+865,865,7825,7825,Less Than High School,Accommodation,26887542,3008,2008,Male,Hawaii,8938.68
+866,866,7826,7826,High School Graduate,Accommodation,47389131,4724,2008,Male,Hawaii,10031.57
+867,867,7827,7827,Some College,Accommodation,66165099,5845,2008,Male,Hawaii,11319.95
+868,868,7828,7828,Advanced Degree,Accommodation,67962427,4575,2008,Male,Hawaii,14855.18
+869,869,7829,7829,Unavalble,Accommodation,11041004,1552,2008,Male,Hawaii,7114.05
+870,870,7830,7830,All Education Categories,Accommodation,192752417,20448,2008,Female,Hawaii,9426.47
+871,871,7831,7831,Less Than High School,Accommodation,24586239,3099,2008,Female,Hawaii,7933.6
+872,872,7832,7832,High School Graduate,Accommodation,41307136,4707,2008,Female,Hawaii,8775.68
+873,873,7833,7833,Some College,Accommodation,58983860,6065,2008,Female,Hawaii,9725.29
+874,874,7834,7834,Advanced Degree,Accommodation,56775801,4982,2008,Female,Hawaii,11396.19
+875,875,7835,7835,Unavalble,Accommodation,11099382,1593,2008,Female,Hawaii,6967.6
+876,876,8868,8868,All Education Categories,Educational Services,46930553,4752,2009,Male,Hawaii,9875.96
+877,877,8869,8869,Less Than High School,Educational Services,2054588,307,2009,Male,Hawaii,6692.47
+878,878,8870,8870,High School Graduate,Educational Services,5915140,713,2009,Male,Hawaii,8296.13
+879,879,8871,8871,Some College,Educational Services,11466478,1201,2009,Male,Hawaii,9547.44
+880,880,8872,8872,Advanced Degree,Educational Services,26244716,1972,2009,Male,Hawaii,13308.68
+881,881,8873,8873,Unavalble,Educational Services,1249632,559,2009,Male,Hawaii,2235.48
+882,882,8874,8874,All Education Categories,Educational Services,64012543,8149,2009,Female,Hawaii,7855.26
+883,883,8875,8875,Less Than High School,Educational Services,3033125,528,2009,Female,Hawaii,5744.55
+884,884,8876,8876,High School Graduate,Educational Services,9006355,1298,2009,Female,Hawaii,6938.64
+885,885,8877,8877,Some College,Educational Services,17517639,2174,2009,Female,Hawaii,8057.79
+886,886,8878,8878,Advanced Degree,Educational Services,32079879,3082,2009,Female,Hawaii,10408.79
+887,887,8879,8879,Unavalble,Educational Services,2375543,1067,2009,Female,Hawaii,2226.38
+888,888,8964,8964,All Education Categories,Accommodation,173111447,17771,2009,Male,Hawaii,9741.23
+889,889,8965,8965,Less Than High School,Accommodation,22409050,2760,2009,Male,Hawaii,8119.22
+890,890,8966,8966,High School Graduate,Accommodation,38899560,4303,2009,Male,Hawaii,9040.1
+891,891,8967,8967,Some College,Accommodation,53344838,5346,2009,Male,Hawaii,9978.46
+892,892,8968,8968,Advanced Degree,Accommodation,51308211,4204,2009,Male,Hawaii,12204.62
+893,893,8969,8969,Unavalble,Accommodation,7149788,1159,2009,Male,Hawaii,6168.93
+894,894,8970,8970,All Education Categories,Accommodation,157980557,18514,2009,Female,Hawaii,8533.03
+895,895,8971,8971,Less Than High School,Accommodation,20795650,2851,2009,Female,Hawaii,7294.16
+896,896,8972,8972,High School Graduate,Accommodation,34734451,4311,2009,Female,Hawaii,8057.17
+897,897,8973,8973,Some College,Accommodation,48953019,5584,2009,Female,Hawaii,8766.66
+898,898,8974,8974,Advanced Degree,Accommodation,46437886,4623,2009,Female,Hawaii,10044.97
+899,899,8975,8975,Unavalble,Accommodation,7059551,1144,2009,Female,Hawaii,6170.94
+900,900,9996,9996,All Education Categories,Educational Services,46922062,4919,2010,Male,Hawaii,9538.94
+901,901,9997,9997,Less Than High School,Educational Services,2364075,349,2010,Male,Hawaii,6773.85
+902,902,9998,9998,High School Graduate,Educational Services,6352310,773,2010,Male,Hawaii,8217.74
+903,903,9999,9999,Some College,Educational Services,11782500,1247,2010,Male,Hawaii,9448.68
+904,904,10000,10000,Advanced Degree,Educational Services,25093773,1989,2010,Male,Hawaii,12616.28
+905,905,10001,10001,Unavalble,Educational Services,1329404,560,2010,Male,Hawaii,2373.94
+906,906,10002,10002,All Education Categories,Educational Services,66019690,8157,2010,Female,Hawaii,8093.62
+907,907,10003,10003,Less Than High School,Educational Services,3472875,569,2010,Female,Hawaii,6103.47
+908,908,10004,10004,High School Graduate,Educational Services,9726290,1342,2010,Female,Hawaii,7247.61
+909,909,10005,10005,Some College,Educational Services,18292445,2203,2010,Female,Hawaii,8303.42
+910,910,10006,10006,Advanced Degree,Educational Services,32327990,3078,2010,Female,Hawaii,10502.92
+911,911,10007,10007,Unavalble,Educational Services,2200090,964,2010,Female,Hawaii,2282.25
+912,912,10092,10092,All Education Categories,Accommodation,169261831,16363,2010,Male,Hawaii,10344.18
+913,913,10093,10093,Less Than High School,Accommodation,21891199,2547,2010,Male,Hawaii,8594.9
+914,914,10094,10094,High School Graduate,Accommodation,38490207,4009,2010,Male,Hawaii,9600.95
+915,915,10095,10095,Some College,Accommodation,52319299,5003,2010,Male,Hawaii,10457.59
+916,916,10096,10096,Advanced Degree,Accommodation,50588191,3930,2010,Male,Hawaii,12872.31
+917,917,10097,10097,Unavalble,Accommodation,5972936,874,2010,Male,Hawaii,6834.02
+918,918,10098,10098,All Education Categories,Accommodation,152950140,17005,2010,Female,Hawaii,8994.42
+919,919,10099,10099,Less Than High School,Accommodation,20791532,2679,2010,Female,Hawaii,7760.93
+920,920,10100,10100,High School Graduate,Accommodation,33998599,4003,2010,Female,Hawaii,8493.28
+921,921,10101,10101,Some College,Accommodation,47638686,5204,2010,Female,Hawaii,9154.24
+922,922,10102,10102,Advanced Degree,Accommodation,45156021,4298,2010,Female,Hawaii,10506.29
+923,923,10103,10103,Unavalble,Accommodation,5365302,823,2010,Female,Hawaii,6519.2
+924,924,11124,11124,All Education Categories,Educational Services,47245420,4966,2011,Male,Hawaii,9513.78
+925,925,11125,11125,Less Than High School,Educational Services,2668760,376,2011,Male,Hawaii,7097.77
+926,926,11126,11126,High School Graduate,Educational Services,6731261,808,2011,Male,Hawaii,8330.77
+927,927,11127,11127,Some College,Educational Services,11984569,1278,2011,Male,Hawaii,9377.6
+928,928,11128,11128,Advanced Degree,Educational Services,24486196,1973,2011,Male,Hawaii,12410.64
+929,929,11129,11129,Unavalble,Educational Services,1374634,531,2011,Male,Hawaii,2588.76
+930,930,11130,11130,All Education Categories,Educational Services,64145971,7958,2011,Female,Hawaii,8060.56
+931,931,11131,11131,Less Than High School,Educational Services,3532883,580,2011,Female,Hawaii,6091.18
+932,932,11132,11132,High School Graduate,Educational Services,9678368,1357,2011,Female,Hawaii,7132.18
+933,933,11133,11133,Some College,Educational Services,17869338,2161,2011,Female,Hawaii,8269.01
+934,934,11134,11134,Advanced Degree,Educational Services,30998735,2960,2011,Female,Hawaii,10472.55
+935,935,11135,11135,Unavalble,Educational Services,2066647,900,2011,Female,Hawaii,2296.27
+936,936,11220,11220,All Education Categories,Accommodation,192095484,17330,2011,Male,Hawaii,11084.56
+937,937,11221,11221,Less Than High School,Accommodation,24968436,2714,2011,Male,Hawaii,9199.87
+938,938,11222,11222,High School Graduate,Accommodation,43499842,4271,2011,Male,Hawaii,10184.93
+939,939,11223,11223,Some College,Accommodation,59385684,5312,2011,Male,Hawaii,11179.53
+940,940,11224,11224,Advanced Degree,Accommodation,57947781,4156,2011,Male,Hawaii,13943.16
+941,941,11225,11225,Unavalble,Accommodation,6293741,876,2011,Male,Hawaii,7184.64
+942,942,11226,11226,All Education Categories,Accommodation,172646929,17785,2011,Female,Hawaii,9707.45
+943,943,11227,11227,Less Than High School,Accommodation,23141179,2784,2011,Female,Hawaii,8312.21
+944,944,11228,11228,High School Graduate,Accommodation,38278633,4201,2011,Female,Hawaii,9111.79
+945,945,11229,11229,Some College,Accommodation,53812789,5448,2011,Female,Hawaii,9877.53
+946,946,11230,11230,Advanced Degree,Accommodation,51521392,4520,2011,Female,Hawaii,11398.54
+947,947,11231,11231,Unavalble,Accommodation,5892936,832,2011,Female,Hawaii,7082.86
+948,948,12264,12264,All Education Categories,Educational Services,49163044,5076,2012,Male,Hawaii,9685.39
+949,949,12265,12265,Less Than High School,Educational Services,3054339,410,2012,Male,Hawaii,7449.61
+950,950,12266,12266,High School Graduate,Educational Services,7355605,873,2012,Male,Hawaii,8425.66
+951,951,12267,12267,Some College,Educational Services,12526069,1316,2012,Male,Hawaii,9518.29
+952,952,12268,12268,Advanced Degree,Educational Services,25057045,1983,2012,Male,Hawaii,12635.93
+953,953,12269,12269,Unavalble,Educational Services,1169986,494,2012,Male,Hawaii,2368.39
+954,954,12270,12270,All Education Categories,Educational Services,67412844,8001,2012,Female,Hawaii,8425.55
+955,955,12271,12271,Less Than High School,Educational Services,4079417,627,2012,Female,Hawaii,6506.25
+956,956,12272,12272,High School Graduate,Educational Services,10576894,1391,2012,Female,Hawaii,7603.81
+957,957,12273,12273,Some College,Educational Services,18889498,2178,2012,Female,Hawaii,8672.86
+958,958,12274,12274,Advanced Degree,Educational Services,31892669,2939,2012,Female,Hawaii,10851.54
+959,959,12275,12275,Unavalble,Educational Services,1974367,865,2012,Female,Hawaii,2282.51
+960,960,12360,12360,All Education Categories,Accommodation,219039915,18245,2012,Male,Hawaii,12005.48
+961,961,12361,12361,Less Than High School,Accommodation,28453999,2852,2012,Male,Hawaii,9976.86
+962,962,12362,12362,High School Graduate,Accommodation,49374368,4488,2012,Male,Hawaii,11001.42
+963,963,12363,12363,Some College,Accommodation,67290511,5566,2012,Male,Hawaii,12089.56
+964,964,12364,12364,Advanced Degree,Accommodation,66066621,4347,2012,Male,Hawaii,15198.21
+965,965,12365,12365,Unavalble,Accommodation,7854417,992,2012,Male,Hawaii,7917.76
+966,966,12366,12366,All Education Categories,Accommodation,195867491,18738,2012,Female,Hawaii,10452.96
+967,967,12367,12367,Less Than High School,Accommodation,26454023,2915,2012,Female,Hawaii,9075.14
+968,968,12368,12368,High School Graduate,Accommodation,43536290,4415,2012,Female,Hawaii,9860.99
+969,969,12369,12369,Some College,Accommodation,60560749,5693,2012,Female,Hawaii,10637.76
+970,970,12370,12370,Advanced Degree,Accommodation,57754477,4726,2012,Female,Hawaii,12220.58
+971,971,12371,12371,Unavalble,Accommodation,7561952,989,2012,Female,Hawaii,7646.06
+972,972,15036,15036,All Education Categories,"Colleges, Universities, and Professional Schools",10609587,1109,2004,Male,Hawaii,9566.81
+973,973,15037,15037,Less Than High School,"Colleges, Universities, and Professional Schools",264762,48,2004,Male,Hawaii,5515.88
+974,974,15038,15038,High School Graduate,"Colleges, Universities, and Professional Schools",933351,140,2004,Male,Hawaii,6666.79
+975,975,15039,15039,Some College,"Colleges, Universities, and Professional Schools",1972085,257,2004,Male,Hawaii,7673.48
+976,976,15040,15040,Advanced Degree,"Colleges, Universities, and Professional Schools",7318169,631,2004,Male,Hawaii,11597.73
+977,977,15041,15041,Unavalble,"Colleges, Universities, and Professional Schools",121221,34,2004,Male,Hawaii,3565.32
+978,978,15042,15042,All Education Categories,"Colleges, Universities, and Professional Schools",8191403,1057,2004,Female,Hawaii,7749.67
+979,979,15043,15043,Less Than High School,"Colleges, Universities, and Professional Schools",245277,49,2004,Female,Hawaii,5005.65
+980,980,15044,15044,High School Graduate,"Colleges, Universities, and Professional Schools",850215,143,2004,Female,Hawaii,5945.56
+981,981,15045,15045,Some College,"Colleges, Universities, and Professional Schools",1961298,281,2004,Female,Hawaii,6979.71
+982,982,15046,15046,Advanced Degree,"Colleges, Universities, and Professional Schools",4889869,526,2004,Female,Hawaii,9296.33
+983,983,15047,15047,Unavalble,"Colleges, Universities, and Professional Schools",244745,57,2004,Female,Hawaii,4293.77
+984,984,18288,18288,All Education Categories,"Colleges, Universities, and Professional Schools",12247504,1244,2005,Male,Hawaii,9845.26
+985,985,18289,18289,Less Than High School,"Colleges, Universities, and Professional Schools",350928,58,2005,Male,Hawaii,6050.48
+986,986,18290,18290,High School Graduate,"Colleges, Universities, and Professional Schools",1092121,155,2005,Male,Hawaii,7045.94
+987,987,18291,18291,Some College,"Colleges, Universities, and Professional Schools",2427222,292,2005,Male,Hawaii,8312.4
+988,988,18292,18292,Advanced Degree,"Colleges, Universities, and Professional Schools",8201678,696,2005,Male,Hawaii,11784.02
+989,989,18293,18293,Unavalble,"Colleges, Universities, and Professional Schools",175555,42,2005,Male,Hawaii,4179.88
+990,990,18294,18294,All Education Categories,"Colleges, Universities, and Professional Schools",9812387,1264,2005,Female,Hawaii,7762.96
+991,991,18295,18295,Less Than High School,"Colleges, Universities, and Professional Schools",320721,60,2005,Female,Hawaii,5345.35
+992,992,18296,18296,High School Graduate,"Colleges, Universities, and Professional Schools",1108719,171,2005,Female,Hawaii,6483.74
+993,993,18297,18297,Some College,"Colleges, Universities, and Professional Schools",2411254,334,2005,Female,Hawaii,7219.32
+994,994,18298,18298,Advanced Degree,"Colleges, Universities, and Professional Schools",5623694,613,2005,Female,Hawaii,9174.05
+995,995,18299,18299,Unavalble,"Colleges, Universities, and Professional Schools",347998,86,2005,Female,Hawaii,4046.49
+996,996,21528,21528,All Education Categories,"Colleges, Universities, and Professional Schools",12611342,1271,2006,Male,Hawaii,9922.38
+997,997,21529,21529,Less Than High School,"Colleges, Universities, and Professional Schools",357051,62,2006,Male,Hawaii,5758.89
+998,998,21530,21530,High School Graduate,"Colleges, Universities, and Professional Schools",1131995,160,2006,Male,Hawaii,7074.97
+999,999,21531,21531,Some College,"Colleges, Universities, and Professional Schools",2538369,298,2006,Male,Hawaii,8518.02
+1000,1000,21532,21532,Advanced Degree,"Colleges, Universities, and Professional Schools",8342710,693,2006,Male,Hawaii,12038.54
+1001,1001,21533,21533,Unavalble,"Colleges, Universities, and Professional Schools",241217,57,2006,Male,Hawaii,4231.88
+1002,1002,21534,21534,All Education Categories,"Colleges, Universities, and Professional Schools",10151872,1312,2006,Female,Hawaii,7737.71
+1003,1003,21535,21535,Less Than High School,"Colleges, Universities, and Professional Schools",345274,62,2006,Female,Hawaii,5568.94
+1004,1004,21536,21536,High School Graduate,"Colleges, Universities, and Professional Schools",1140537,181,2006,Female,Hawaii,6301.31
+1005,1005,21537,21537,Some College,"Colleges, Universities, and Professional Schools",2511407,343,2006,Female,Hawaii,7321.89
+1006,1006,21538,21538,Advanced Degree,"Colleges, Universities, and Professional Schools",5760912,619,2006,Female,Hawaii,9306.8
+1007,1007,21539,21539,Unavalble,"Colleges, Universities, and Professional Schools",393743,107,2006,Female,Hawaii,3679.84
+1008,1008,24840,24840,All Education Categories,"Colleges, Universities, and Professional Schools",13500062,1275,2007,Male,Hawaii,10588.28
+1009,1009,24841,24841,Less Than High School,"Colleges, Universities, and Professional Schools",407463,63,2007,Male,Hawaii,6467.67
+1010,1010,24842,24842,High School Graduate,"Colleges, Universities, and Professional Schools",1281010,165,2007,Male,Hawaii,7763.7
+1011,1011,24843,24843,Some College,"Colleges, Universities, and Professional Schools",2820934,310,2007,Male,Hawaii,9099.79
+1012,1012,24844,24844,Advanced Degree,"Colleges, Universities, and Professional Schools",8797059,694,2007,Male,Hawaii,12675.88
+1013,1013,24845,24845,Unavalble,"Colleges, Universities, and Professional Schools",193595,43,2007,Male,Hawaii,4502.21
+1014,1014,24846,24846,All Education Categories,"Colleges, Universities, and Professional Schools",10856925,1329,2007,Female,Hawaii,8169.24
+1015,1015,24847,24847,Less Than High School,"Colleges, Universities, and Professional Schools",393867,70,2007,Female,Hawaii,5626.67
+1016,1016,24848,24848,High School Graduate,"Colleges, Universities, and Professional Schools",1274466,191,2007,Female,Hawaii,6672.6
+1017,1017,24849,24849,Some College,"Colleges, Universities, and Professional Schools",2675559,353,2007,Female,Hawaii,7579.49
+1018,1018,24850,24850,Advanced Degree,"Colleges, Universities, and Professional Schools",6058264,624,2007,Female,Hawaii,9708.76
+1019,1019,24851,24851,Unavalble,"Colleges, Universities, and Professional Schools",454770,92,2007,Female,Hawaii,4943.15
+1020,1020,28152,28152,All Education Categories,"Colleges, Universities, and Professional Schools",11588307,1269,2008,Male,Hawaii,9131.84
+1021,1021,28153,28153,Less Than High School,"Colleges, Universities, and Professional Schools",395814,74,2008,Male,Hawaii,5348.84
+1022,1022,28154,28154,High School Graduate,"Colleges, Universities, and Professional Schools",1162923,164,2008,Male,Hawaii,7090.99
+1023,1023,28155,28155,Some College,"Colleges, Universities, and Professional Schools",2373305,283,2008,Male,Hawaii,8386.24
+1024,1024,28156,28156,Advanced Degree,"Colleges, Universities, and Professional Schools",7244490,593,2008,Male,Hawaii,12216.68
+1025,1025,28157,28157,Unavalble,"Colleges, Universities, and Professional Schools",411775,155,2008,Male,Hawaii,2656.61
+1026,1026,28158,28158,All Education Categories,"Colleges, Universities, and Professional Schools",10449362,1401,2008,Female,Hawaii,7458.5
+1027,1027,28159,28159,Less Than High School,"Colleges, Universities, and Professional Schools",406742,79,2008,Female,Hawaii,5148.63
+1028,1028,28160,28160,High School Graduate,"Colleges, Universities, and Professional Schools",1222247,186,2008,Female,Hawaii,6571.22
+1029,1029,28161,28161,Some College,"Colleges, Universities, and Professional Schools",2521358,326,2008,Female,Hawaii,7734.23
+1030,1030,28162,28162,Advanced Degree,"Colleges, Universities, and Professional Schools",5559543,560,2008,Female,Hawaii,9927.76
+1031,1031,28163,28163,Unavalble,"Colleges, Universities, and Professional Schools",739473,251,2008,Female,Hawaii,2946.11
+1032,1032,31428,31428,All Education Categories,"Colleges, Universities, and Professional Schools",12617847,1172,2009,Male,Hawaii,10766.08
+1033,1033,31429,31429,Less Than High School,"Colleges, Universities, and Professional Schools",423451,73,2009,Male,Hawaii,5800.7
+1034,1034,31430,31430,High School Graduate,"Colleges, Universities, and Professional Schools",1173485,154,2009,Male,Hawaii,7620.03
+1035,1035,31431,31431,Some College,"Colleges, Universities, and Professional Schools",2518514,267,2009,Male,Hawaii,9432.64
+1036,1036,31432,31432,Advanced Degree,"Colleges, Universities, and Professional Schools",8150238,532,2009,Male,Hawaii,15320.0
+1037,1037,31433,31433,Unavalble,"Colleges, Universities, and Professional Schools",352158,146,2009,Male,Hawaii,2412.04
+1038,1038,31434,31434,All Education Categories,"Colleges, Universities, and Professional Schools",10481578,1336,2009,Female,Hawaii,7845.49
+1039,1039,31435,31435,Less Than High School,"Colleges, Universities, and Professional Schools",452375,77,2009,Female,Hawaii,5875.0
+1040,1040,31436,31436,High School Graduate,"Colleges, Universities, and Professional Schools",1279846,179,2009,Female,Hawaii,7149.98
+1041,1041,31437,31437,Some College,"Colleges, Universities, and Professional Schools",2633883,324,2009,Female,Hawaii,8129.27
+1042,1042,31438,31438,Advanced Degree,"Colleges, Universities, and Professional Schools",5559649,531,2009,Female,Hawaii,10470.15
+1043,1043,31439,31439,Unavalble,"Colleges, Universities, and Professional Schools",555824,227,2009,Female,Hawaii,2448.56
+1044,1044,34668,34668,All Education Categories,"Colleges, Universities, and Professional Schools",10757326,1130,2010,Male,Hawaii,9519.76
+1045,1045,34669,34669,Less Than High School,"Colleges, Universities, and Professional Schools",441491,72,2010,Male,Hawaii,6131.82
+1046,1046,34670,34670,High School Graduate,"Colleges, Universities, and Professional Schools",1143228,151,2010,Male,Hawaii,7571.05
+1047,1047,34671,34671,Some College,"Colleges, Universities, and Professional Schools",2353038,262,2010,Male,Hawaii,8981.06
+1048,1048,34672,34672,Advanced Degree,"Colleges, Universities, and Professional Schools",6584821,534,2010,Male,Hawaii,12331.13
+1049,1049,34673,34673,Unavalble,"Colleges, Universities, and Professional Schools",234747,110,2010,Male,Hawaii,2134.06
+1050,1050,34674,34674,All Education Categories,"Colleges, Universities, and Professional Schools",10160563,1243,2010,Female,Hawaii,8174.23
+1051,1051,34675,34675,Less Than High School,"Colleges, Universities, and Professional Schools",471483,78,2010,Female,Hawaii,6044.65
+1052,1052,34676,34676,High School Graduate,"Colleges, Universities, and Professional Schools",1333048,183,2010,Female,Hawaii,7284.42
+1053,1053,34677,34677,Some College,"Colleges, Universities, and Professional Schools",2633033,319,2010,Female,Hawaii,8254.02
+1054,1054,34678,34678,Advanced Degree,"Colleges, Universities, and Professional Schools",5282103,504,2010,Female,Hawaii,10480.36
+1055,1055,34679,34679,Unavalble,"Colleges, Universities, and Professional Schools",440896,160,2010,Female,Hawaii,2755.6
+1056,1056,37920,37920,All Education Categories,"Colleges, Universities, and Professional Schools",11321682,1156,2011,Male,Hawaii,9793.84
+1057,1057,37921,37921,Less Than High School,"Colleges, Universities, and Professional Schools",509950,82,2011,Male,Hawaii,6218.9
+1058,1058,37922,37922,High School Graduate,"Colleges, Universities, and Professional Schools",1249828,168,2011,Male,Hawaii,7439.45
+1059,1059,37923,37923,Some College,"Colleges, Universities, and Professional Schools",2502618,280,2011,Male,Hawaii,8937.92
+1060,1060,37924,37924,Advanced Degree,"Colleges, Universities, and Professional Schools",6850332,542,2011,Male,Hawaii,12638.99
+1061,1061,37925,37925,Unavalble,"Colleges, Universities, and Professional Schools",208954,85,2011,Male,Hawaii,2458.28
+1062,1062,37926,37926,All Education Categories,"Colleges, Universities, and Professional Schools",10411504,1276,2011,Female,Hawaii,8159.49
+1063,1063,37927,37927,Less Than High School,"Colleges, Universities, and Professional Schools",551353,90,2011,Female,Hawaii,6126.14
+1064,1064,37928,37928,High School Graduate,"Colleges, Universities, and Professional Schools",1421048,202,2011,Female,Hawaii,7034.89
+1065,1065,37929,37929,Some College,"Colleges, Universities, and Professional Schools",2774503,338,2011,Female,Hawaii,8208.59
+1066,1066,37930,37930,Advanced Degree,"Colleges, Universities, and Professional Schools",5290294,523,2011,Female,Hawaii,10115.28
+1067,1067,37931,37931,Unavalble,"Colleges, Universities, and Professional Schools",374306,123,2011,Female,Hawaii,3043.14
+1068,1068,41160,41160,All Education Categories,"Colleges, Universities, and Professional Schools",11822812,1143,2012,Male,Hawaii,10343.67
+1069,1069,41161,41161,Less Than High School,"Colleges, Universities, and Professional Schools",580414,82,2012,Male,Hawaii,7078.22
+1070,1070,41162,41162,High School Graduate,"Colleges, Universities, and Professional Schools",1420186,181,2012,Male,Hawaii,7846.33
+1071,1071,41163,41163,Some College,"Colleges, Universities, and Professional Schools",2663989,281,2012,Male,Hawaii,9480.39
+1072,1072,41164,41164,Advanced Degree,"Colleges, Universities, and Professional Schools",6979722,533,2012,Male,Hawaii,13095.16
+1073,1073,41165,41165,Unavalble,"Colleges, Universities, and Professional Schools",178502,66,2012,Male,Hawaii,2704.58
+1074,1074,41166,41166,All Education Categories,"Colleges, Universities, and Professional Schools",11516852,1309,2012,Female,Hawaii,8798.21
+1075,1075,41167,41167,Less Than High School,"Colleges, Universities, and Professional Schools",642333,99,2012,Female,Hawaii,6488.21
+1076,1076,41168,41168,High School Graduate,"Colleges, Universities, and Professional Schools",1645504,219,2012,Female,Hawaii,7513.72
+1077,1077,41169,41169,Some College,"Colleges, Universities, and Professional Schools",3053434,355,2012,Female,Hawaii,8601.22
+1078,1078,41170,41170,Advanced Degree,"Colleges, Universities, and Professional Schools",5793320,537,2012,Female,Hawaii,10788.31
+1079,1079,41171,41171,Unavalble,"Colleges, Universities, and Professional Schools",382259,98,2012,Female,Hawaii,3900.6

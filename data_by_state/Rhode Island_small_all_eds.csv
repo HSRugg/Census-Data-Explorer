@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,All Education Categories,00,2484833907,216512,2004,Male,Rhode Island,11476.66
+1,1,1,1,Less Than High School,00,139111728,20354,2004,Male,Rhode Island,6834.61
+2,2,2,2,High School Graduate,00,461002150,50296,2004,Male,Rhode Island,9165.78
+3,3,3,3,Some College,00,621220410,54034,2004,Male,Rhode Island,11496.84
+4,4,4,4,Advanced Degree,00,1145341427,60676,2004,Male,Rhode Island,18876.35
+5,5,5,5,Unavalble,00,118158191,31151,2004,Male,Rhode Island,3793.08
+6,6,6,6,All Education Categories,00,1761990754,238485,2004,Female,Rhode Island,7388.27
+7,7,7,7,Less Than High School,00,71998823,16301,2004,Female,Rhode Island,4416.83
+8,8,8,8,High School Graduate,00,309503010,53086,2004,Female,Rhode Island,5830.22
+9,9,9,9,Some College,00,498841082,66720,2004,Female,Rhode Island,7476.63
+10,10,10,10,Advanced Degree,00,766301806,65762,2004,Female,Rhode Island,11652.65
+11,11,11,11,Unavalble,00,115346033,36617,2004,Female,Rhode Island,3150.07
+12,12,60,60,All Education Categories,Manufacturing,419257572,36890,2004,Male,Rhode Island,11365.07
+13,13,61,61,Less Than High School,Manufacturing,38967001,5261,2004,Male,Rhode Island,7406.77
+14,14,62,62,High School Graduate,Manufacturing,109879261,11136,2004,Male,Rhode Island,9867.03
+15,15,63,63,Some College,Manufacturing,124629465,10619,2004,Male,Rhode Island,11736.46
+16,16,64,64,Advanced Degree,Manufacturing,132676815,7568,2004,Male,Rhode Island,17531.29
+17,17,65,65,Unavalble,Manufacturing,13105031,2306,2004,Male,Rhode Island,5683.01
+18,18,66,66,All Education Categories,Manufacturing,138615854,20439,2004,Female,Rhode Island,6781.93
+19,19,67,67,Less Than High School,Manufacturing,15892945,3559,2004,Female,Rhode Island,4465.56
+20,20,68,68,High School Graduate,Manufacturing,38711151,6537,2004,Female,Rhode Island,5921.85
+21,21,69,69,Some College,Manufacturing,41238499,5650,2004,Female,Rhode Island,7298.85
+22,22,70,70,Advanced Degree,Manufacturing,36522249,3255,2004,Female,Rhode Island,11220.35
+23,23,71,71,Unavalble,Manufacturing,6251011,1438,2004,Female,Rhode Island,4347.02
+24,24,84,84,All Education Categories,Retail Trade,199497613,26724,2004,Male,Rhode Island,7465.11
+25,25,85,85,Less Than High School,Retail Trade,15867534,2521,2004,Male,Rhode Island,6294.14
+26,26,86,86,High School Graduate,Retail Trade,54588902,6738,2004,Male,Rhode Island,8101.65
+27,27,87,87,Some College,Retail Trade,55296136,5934,2004,Male,Rhode Island,9318.53
+28,28,88,88,Advanced Degree,Retail Trade,48219280,3668,2004,Male,Rhode Island,13145.93
+29,29,89,89,Unavalble,Retail Trade,25525761,7863,2004,Male,Rhode Island,3246.31
+30,30,90,90,All Education Categories,Retail Trade,112813190,26006,2004,Female,Rhode Island,4337.97
+31,31,91,91,Less Than High School,Retail Trade,7432666,1970,2004,Female,Rhode Island,3772.93
+32,32,92,92,High School Graduate,Retail Trade,30211299,6651,2004,Female,Rhode Island,4542.37
+33,33,93,93,Some College,Retail Trade,30033545,5620,2004,Female,Rhode Island,5344.05
+34,34,94,94,Advanced Degree,Retail Trade,24324997,3122,2004,Female,Rhode Island,7791.48
+35,35,95,95,Unavalble,Retail Trade,20810683,8643,2004,Female,Rhode Island,2407.81
+36,36,120,120,All Education Categories,Finance and Insurance,233316534,9148,2004,Male,Rhode Island,25504.65
+37,37,121,121,Less Than High School,Finance and Insurance,2584327,255,2004,Male,Rhode Island,10134.62
+38,38,122,122,High School Graduate,Finance and Insurance,15963668,1071,2004,Male,Rhode Island,14905.39
+39,39,123,123,Some College,Finance and Insurance,38637114,1947,2004,Male,Rhode Island,19844.43
+40,40,124,124,Advanced Degree,Finance and Insurance,170835384,5095,2004,Male,Rhode Island,33530.01
+41,41,125,125,Unavalble,Finance and Insurance,5296041,782,2004,Male,Rhode Island,6772.43
+42,42,126,126,All Education Categories,Finance and Insurance,180082043,15756,2004,Female,Rhode Island,11429.43
+43,43,127,127,Less Than High School,Finance and Insurance,2835997,434,2004,Female,Rhode Island,6534.56
+44,44,128,128,High School Graduate,Finance and Insurance,22640812,2781,2004,Female,Rhode Island,8141.25
+45,45,129,129,Some College,Finance and Insurance,42210680,4317,2004,Female,Rhode Island,9777.78
+46,46,130,130,Advanced Degree,Finance and Insurance,103273115,6655,2004,Female,Rhode Island,15518.12
+47,47,131,131,Unavalble,Finance and Insurance,9121438,1570,2004,Female,Rhode Island,5809.83
+48,48,180,180,All Education Categories,Educational Services,250882297,21150,2004,Male,Rhode Island,11862.05
+49,49,181,181,Less Than High School,Educational Services,6729986,829,2004,Male,Rhode Island,8118.2
+50,50,182,182,High School Graduate,Educational Services,35109480,3482,2004,Male,Rhode Island,10083.14
+51,51,183,183,Some College,Educational Services,61074325,5212,2004,Male,Rhode Island,11718.02
+52,52,184,184,Advanced Degree,Educational Services,143161503,10009,2004,Male,Rhode Island,14303.28
+53,53,185,185,Unavalble,Educational Services,4807004,1618,2004,Male,Rhode Island,2970.95
+54,54,186,186,All Education Categories,Educational Services,312058564,32986,2004,Female,Rhode Island,9460.33
+55,55,187,187,Less Than High School,Educational Services,5192448,991,2004,Female,Rhode Island,5239.6
+56,56,188,188,High School Graduate,Educational Services,40275177,5901,2004,Female,Rhode Island,6825.14
+57,57,189,189,Some College,Educational Services,75096567,8588,2004,Female,Rhode Island,8744.36
+58,58,190,190,Advanced Degree,Educational Services,184105271,14928,2004,Female,Rhode Island,12332.88
+59,59,191,191,Unavalble,Educational Services,7389101,2578,2004,Female,Rhode Island,2866.21
+60,60,192,192,All Education Categories,Health Care and Social Assistance,192994829,15325,2004,Male,Rhode Island,12593.46
+61,61,193,193,Less Than High School,Health Care and Social Assistance,6884634,1038,2004,Male,Rhode Island,6632.6
+62,62,194,194,High School Graduate,Health Care and Social Assistance,24291667,2798,2004,Male,Rhode Island,8681.8
+63,63,195,195,Some College,Health Care and Social Assistance,45275705,4012,2004,Male,Rhode Island,11285.07
+64,64,196,196,Advanced Degree,Health Care and Social Assistance,109679423,5741,2004,Male,Rhode Island,19104.59
+65,65,197,197,Unavalble,Health Care and Social Assistance,6863400,1736,2004,Male,Rhode Island,3953.57
+66,66,198,198,All Education Categories,Health Care and Social Assistance,425270406,56309,2004,Female,Rhode Island,7552.44
+67,67,199,199,Less Than High School,Health Care and Social Assistance,15262959,2977,2004,Female,Rhode Island,5126.96
+68,68,200,200,High School Graduate,Health Care and Social Assistance,72269982,11748,2004,Female,Rhode Island,6151.68
+69,69,201,201,Some College,Health Care and Social Assistance,149113931,19753,2004,Female,Rhode Island,7548.93
+70,70,202,202,Advanced Degree,Health Care and Social Assistance,165142043,16107,2004,Female,Rhode Island,10252.81
+71,71,203,203,Unavalble,Health Care and Social Assistance,23481492,5723,2004,Female,Rhode Island,4103.0
+72,72,216,216,All Education Categories,Accommodation and Food Services,68924440,17057,2004,Male,Rhode Island,4040.83
+73,73,217,217,Less Than High School,Accommodation and Food Services,8891002,2032,2004,Male,Rhode Island,4375.49
+74,74,218,218,High School Graduate,Accommodation and Food Services,17275785,3446,2004,Male,Rhode Island,5013.29
+75,75,219,219,Some College,Accommodation and Food Services,15359762,2810,2004,Male,Rhode Island,5466.11
+76,76,220,220,Advanced Degree,Accommodation and Food Services,10086069,1583,2004,Male,Rhode Island,6371.49
+77,77,221,221,Unavalble,Accommodation and Food Services,17311822,7186,2004,Male,Rhode Island,2409.1
+78,78,222,222,All Education Categories,Accommodation and Food Services,62384084,21437,2004,Female,Rhode Island,2910.11
+79,79,223,223,Less Than High School,Accommodation and Food Services,6058957,1997,2004,Female,Rhode Island,3034.03
+80,80,224,224,High School Graduate,Accommodation and Food Services,14780240,4545,2004,Female,Rhode Island,3251.98
+81,81,225,225,Some College,Accommodation and Food Services,13874286,3829,2004,Female,Rhode Island,3623.48
+82,82,226,226,Advanced Degree,Accommodation and Food Services,8142935,1942,2004,Female,Rhode Island,4193.07
+83,83,227,227,Unavalble,Accommodation and Food Services,19527666,9124,2004,Female,Rhode Island,2140.25
+84,84,252,252,All Education Categories,00,2524941776,216184,2005,Male,Rhode Island,11679.6
+85,85,253,253,Less Than High School,00,140800857,20168,2005,Male,Rhode Island,6981.4
+86,86,254,254,High School Graduate,00,466478492,50008,2005,Male,Rhode Island,9328.08
+87,87,255,255,Some College,00,628089666,53910,2005,Male,Rhode Island,11650.71
+88,88,256,256,Advanced Degree,00,1170859715,60798,2005,Male,Rhode Island,19258.19
+89,89,257,257,Unavalble,00,118713045,31299,2005,Male,Rhode Island,3792.87
+90,90,258,258,All Education Categories,00,1767779798,238325,2005,Female,Rhode Island,7417.52
+91,91,259,259,Less Than High School,00,74213676,16481,2005,Female,Rhode Island,4502.98
+92,92,260,260,High School Graduate,00,310826854,52747,2005,Female,Rhode Island,5892.79
+93,93,261,261,Some College,00,503134208,66863,2005,Female,Rhode Island,7524.85
+94,94,262,262,Advanced Degree,00,764983183,65771,2005,Female,Rhode Island,11631.01
+95,95,263,263,Unavalble,00,114621877,36463,2005,Female,Rhode Island,3143.51
+96,96,312,312,All Education Categories,Manufacturing,433651257,36373,2005,Male,Rhode Island,11922.34
+97,97,313,313,Less Than High School,Manufacturing,39705405,5111,2005,Male,Rhode Island,7768.62
+98,98,314,314,High School Graduate,Manufacturing,112208292,10881,2005,Male,Rhode Island,10312.31
+99,99,315,315,Some College,Manufacturing,128947840,10430,2005,Male,Rhode Island,12363.17
+100,100,316,316,Advanced Degree,Manufacturing,138907657,7503,2005,Male,Rhode Island,18513.62
+101,101,317,317,Unavalble,Manufacturing,13882062,2446,2005,Male,Rhode Island,5675.41
+102,102,318,318,All Education Categories,Manufacturing,139861160,19785,2005,Female,Rhode Island,7069.05
+103,103,319,319,Less Than High School,Manufacturing,16084171,3449,2005,Female,Rhode Island,4663.43
+104,104,320,320,High School Graduate,Manufacturing,39028351,6224,2005,Female,Rhode Island,6270.62
+105,105,321,321,Some College,Manufacturing,41961503,5501,2005,Female,Rhode Island,7627.98
+106,106,322,322,Advanced Degree,Manufacturing,36759141,3226,2005,Female,Rhode Island,11394.65
+107,107,323,323,Unavalble,Manufacturing,6027993,1384,2005,Female,Rhode Island,4355.49
+108,108,336,336,All Education Categories,Retail Trade,197337199,25999,2005,Male,Rhode Island,7590.18
+109,109,337,337,Less Than High School,Retail Trade,15515293,2469,2005,Male,Rhode Island,6284.04
+110,110,338,338,High School Graduate,Retail Trade,53231465,6558,2005,Male,Rhode Island,8117.03
+111,111,339,339,Some College,Retail Trade,54664238,5725,2005,Male,Rhode Island,9548.34
+112,112,340,340,Advanced Degree,Retail Trade,49004913,3561,2005,Male,Rhode Island,13761.56
+113,113,341,341,Unavalble,Retail Trade,24921290,7687,2005,Male,Rhode Island,3242.0
+114,114,342,342,All Education Categories,Retail Trade,113240493,24932,2005,Female,Rhode Island,4541.97
+115,115,343,343,Less Than High School,Retail Trade,7409569,1903,2005,Female,Rhode Island,3893.63
+116,116,344,344,High School Graduate,Retail Trade,29867550,6363,2005,Female,Rhode Island,4693.94
+117,117,345,345,Some College,Retail Trade,30117098,5366,2005,Female,Rhode Island,5612.58
+118,118,346,346,Advanced Degree,Retail Trade,25521535,2975,2005,Female,Rhode Island,8578.67
+119,119,347,347,Unavalble,Retail Trade,20324741,8326,2005,Female,Rhode Island,2441.12
+120,120,372,372,All Education Categories,Finance and Insurance,238422994,9397,2005,Male,Rhode Island,25372.25
+121,121,373,373,Less Than High School,Finance and Insurance,2903743,274,2005,Male,Rhode Island,10597.6
+122,122,374,374,High School Graduate,Finance and Insurance,16244222,1093,2005,Male,Rhode Island,14862.05
+123,123,375,375,Some College,Finance and Insurance,38674273,2024,2005,Male,Rhode Island,19107.84
+124,124,376,376,Advanced Degree,Finance and Insurance,175010995,5259,2005,Male,Rhode Island,33278.38
+125,125,377,377,Unavalble,Finance and Insurance,5589762,748,2005,Male,Rhode Island,7472.94
+126,126,378,378,All Education Categories,Finance and Insurance,175838904,15931,2005,Female,Rhode Island,11037.53
+127,127,379,379,Less Than High School,Finance and Insurance,2866122,448,2005,Female,Rhode Island,6397.59
+128,128,380,380,High School Graduate,Finance and Insurance,22216905,2799,2005,Female,Rhode Island,7937.44
+129,129,381,381,Some College,Finance and Insurance,41874782,4410,2005,Female,Rhode Island,9495.42
+130,130,382,382,Advanced Degree,Finance and Insurance,100440990,6803,2005,Female,Rhode Island,14764.22
+131,131,383,383,Unavalble,Finance and Insurance,8440104,1470,2005,Female,Rhode Island,5741.57
+132,132,432,432,All Education Categories,Educational Services,246562292,21156,2005,Male,Rhode Island,11654.49
+133,133,433,433,Less Than High School,Educational Services,6748154,844,2005,Male,Rhode Island,7995.44
+134,134,434,434,High School Graduate,Educational Services,34953479,3509,2005,Male,Rhode Island,9961.09
+135,135,435,435,Some College,Educational Services,60348201,5242,2005,Male,Rhode Island,11512.44
+136,136,436,436,Advanced Degree,Educational Services,139774013,9915,2005,Male,Rhode Island,14097.23
+137,137,437,437,Unavalble,Educational Services,4738445,1646,2005,Male,Rhode Island,2878.76
+138,138,438,438,All Education Categories,Educational Services,309171498,32224,2005,Female,Rhode Island,9594.45
+139,139,439,439,Less Than High School,Educational Services,5351846,997,2005,Female,Rhode Island,5367.95
+140,140,440,440,High School Graduate,Educational Services,40064824,5798,2005,Female,Rhode Island,6910.11
+141,141,441,441,Some College,Educational Services,75377365,8554,2005,Female,Rhode Island,8811.94
+142,142,442,442,Advanced Degree,Educational Services,181274602,14389,2005,Female,Rhode Island,12598.14
+143,143,443,443,Unavalble,Educational Services,7102861,2486,2005,Female,Rhode Island,2857.14
+144,144,444,444,All Education Categories,Health Care and Social Assistance,196162806,15700,2005,Male,Rhode Island,12494.45
+145,145,445,445,Less Than High School,Health Care and Social Assistance,6974112,1069,2005,Male,Rhode Island,6523.96
+146,146,446,446,High School Graduate,Health Care and Social Assistance,24513682,2883,2005,Male,Rhode Island,8502.84
+147,147,447,447,Some College,Health Care and Social Assistance,45567980,4127,2005,Male,Rhode Island,11041.43
+148,148,448,448,Advanced Degree,Health Care and Social Assistance,112354736,5847,2005,Male,Rhode Island,19215.79
+149,149,449,449,Unavalble,Health Care and Social Assistance,6752296,1775,2005,Male,Rhode Island,3804.11
+150,150,450,450,All Education Categories,Health Care and Social Assistance,432316739,57331,2005,Female,Rhode Island,7540.72
+151,151,451,451,Less Than High School,Health Care and Social Assistance,15944834,3099,2005,Female,Rhode Island,5145.15
+152,152,452,452,High School Graduate,Health Care and Social Assistance,73474874,11944,2005,Female,Rhode Island,6151.61
+153,153,453,453,Some College,Health Care and Social Assistance,151600236,20046,2005,Female,Rhode Island,7562.62
+154,154,454,454,Advanced Degree,Health Care and Social Assistance,168056137,16478,2005,Female,Rhode Island,10198.82
+155,155,455,455,Unavalble,Health Care and Social Assistance,23240659,5764,2005,Female,Rhode Island,4032.04
+156,156,468,468,All Education Categories,Accommodation and Food Services,69926779,17427,2005,Male,Rhode Island,4012.55
+157,157,469,469,Less Than High School,Accommodation and Food Services,9142377,2088,2005,Male,Rhode Island,4378.53
+158,158,470,470,High School Graduate,Accommodation and Food Services,17755302,3580,2005,Male,Rhode Island,4959.58
+159,159,471,471,Some College,Accommodation and Food Services,15845689,2912,2005,Male,Rhode Island,5441.51
+160,160,472,472,Advanced Degree,Accommodation and Food Services,10510050,1614,2005,Male,Rhode Island,6511.8
+161,161,473,473,Unavalble,Accommodation and Food Services,16673362,7233,2005,Male,Rhode Island,2305.18
+162,162,474,474,All Education Categories,Accommodation and Food Services,64216014,22235,2005,Female,Rhode Island,2888.06
+163,163,475,475,Less Than High School,Accommodation and Food Services,6253465,2093,2005,Female,Rhode Island,2987.8
+164,164,476,476,High School Graduate,Accommodation and Food Services,15218907,4663,2005,Female,Rhode Island,3263.76
+165,165,477,477,Some College,Accommodation and Food Services,14324065,3990,2005,Female,Rhode Island,3589.99
+166,166,478,478,Advanced Degree,Accommodation and Food Services,8391027,1988,2005,Female,Rhode Island,4220.84
+167,167,479,479,Unavalble,Accommodation and Food Services,20028550,9502,2005,Female,Rhode Island,2107.82
+168,168,504,504,All Education Categories,00,2657389980,216337,2006,Male,Rhode Island,12283.57
+169,169,505,505,Less Than High School,00,152617112,20361,2006,Male,Rhode Island,7495.56
+170,170,506,506,High School Graduate,00,495970894,49871,2006,Male,Rhode Island,9945.08
+171,171,507,507,Some College,00,663349168,54114,2006,Male,Rhode Island,12258.37
+172,172,508,508,Advanced Degree,00,1217796159,60751,2006,Male,Rhode Island,20045.7
+173,173,509,509,Unavalble,00,127656646,31240,2006,Male,Rhode Island,4086.32
+174,174,510,510,All Education Categories,00,1900241910,239861,2006,Female,Rhode Island,7922.26
+175,175,511,511,Less Than High School,00,81011679,16554,2006,Female,Rhode Island,4893.78
+176,176,512,512,High School Graduate,00,332295062,52588,2006,Female,Rhode Island,6318.84
+177,177,513,513,Some College,00,541333128,67177,2006,Female,Rhode Island,8058.31
+178,178,514,514,Advanced Degree,00,822522089,66796,2006,Female,Rhode Island,12313.94
+179,179,515,515,Unavalble,00,123079953,36745,2006,Female,Rhode Island,3349.57
+180,180,564,564,All Education Categories,Manufacturing,436539762,34120,2006,Male,Rhode Island,12794.25
+181,181,565,565,Less Than High School,Manufacturing,40224051,4754,2006,Male,Rhode Island,8461.1
+182,182,566,566,High School Graduate,Manufacturing,113508645,10168,2006,Male,Rhode Island,11163.32
+183,183,567,567,Some College,Manufacturing,130623073,9849,2006,Male,Rhode Island,13262.57
+184,184,568,568,Advanced Degree,Manufacturing,137883874,7123,2006,Male,Rhode Island,19357.56
+185,185,569,569,Unavalble,Manufacturing,14300119,2226,2006,Male,Rhode Island,6424.13
+186,186,570,570,All Education Categories,Manufacturing,142627833,18384,2006,Female,Rhode Island,7758.26
+187,187,571,571,Less Than High School,Manufacturing,16514252,3241,2006,Female,Rhode Island,5095.42
+188,188,572,572,High School Graduate,Manufacturing,38918239,5732,2006,Female,Rhode Island,6789.64
+189,189,573,573,Some College,Manufacturing,42640963,5078,2006,Female,Rhode Island,8397.2
+190,190,574,574,Advanced Degree,Manufacturing,38538032,3035,2006,Female,Rhode Island,12697.87
+191,191,575,575,Unavalble,Manufacturing,6016346,1299,2006,Female,Rhode Island,4631.52
+192,192,588,588,All Education Categories,Retail Trade,206543530,26159,2006,Male,Rhode Island,7895.7
+193,193,589,589,Less Than High School,Retail Trade,16540819,2473,2006,Male,Rhode Island,6688.56
+194,194,590,590,High School Graduate,Retail Trade,55210873,6518,2006,Male,Rhode Island,8470.52
+195,195,591,591,Some College,Retail Trade,56998562,5780,2006,Male,Rhode Island,9861.34
+196,196,592,592,Advanced Degree,Retail Trade,51750911,3607,2006,Male,Rhode Island,14347.36
+197,197,593,593,Unavalble,Retail Trade,26042367,7781,2006,Male,Rhode Island,3346.92
+198,198,594,594,All Education Categories,Retail Trade,117959108,25528,2006,Female,Rhode Island,4620.77
+199,199,595,595,Less Than High School,Retail Trade,7887020,1946,2006,Female,Rhode Island,4052.94
+200,200,596,596,High School Graduate,Retail Trade,30971741,6441,2006,Female,Rhode Island,4808.53
+201,201,597,597,Some College,Retail Trade,31606105,5569,2006,Female,Rhode Island,5675.36
+202,202,598,598,Advanced Degree,Retail Trade,26407092,3168,2006,Female,Rhode Island,8335.57
+203,203,599,599,Unavalble,Retail Trade,21087150,8403,2006,Female,Rhode Island,2509.48
+204,204,624,624,All Education Categories,Finance and Insurance,256950697,9630,2006,Male,Rhode Island,26682.32
+205,205,625,625,Less Than High School,Finance and Insurance,3204320,295,2006,Male,Rhode Island,10862.1
+206,206,626,626,High School Graduate,Finance and Insurance,18086000,1143,2006,Male,Rhode Island,15823.27
+207,207,627,627,Some College,Finance and Insurance,42075182,2098,2006,Male,Rhode Island,20054.9
+208,208,628,628,Advanced Degree,Finance and Insurance,187456933,5276,2006,Male,Rhode Island,35530.12
+209,209,629,629,Unavalble,Finance and Insurance,6128262,818,2006,Male,Rhode Island,7491.76
+210,210,630,630,All Education Categories,Finance and Insurance,191046128,15805,2006,Female,Rhode Island,12087.7
+211,211,631,631,Less Than High School,Finance and Insurance,3226832,457,2006,Female,Rhode Island,7060.9
+212,212,632,632,High School Graduate,Finance and Insurance,24181038,2765,2006,Female,Rhode Island,8745.4
+213,213,633,633,Some College,Finance and Insurance,45590952,4368,2006,Female,Rhode Island,10437.49
+214,214,634,634,Advanced Degree,Finance and Insurance,108599210,6702,2006,Female,Rhode Island,16204.0
+215,215,635,635,Unavalble,Finance and Insurance,9448096,1515,2006,Female,Rhode Island,6236.37
+216,216,684,684,All Education Categories,Educational Services,265010826,21487,2006,Male,Rhode Island,12333.54
+217,217,685,685,Less Than High School,Educational Services,7488312,870,2006,Male,Rhode Island,8607.26
+218,218,686,686,High School Graduate,Educational Services,37816946,3568,2006,Male,Rhode Island,10598.92
+219,219,687,687,Some College,Educational Services,65081332,5339,2006,Male,Rhode Island,12189.8
+220,220,688,688,Advanced Degree,Educational Services,149127932,10004,2006,Male,Rhode Island,14906.83
+221,221,689,689,Unavalble,Educational Services,5496305,1705,2006,Male,Rhode Island,3223.64
+222,222,690,690,All Education Categories,Educational Services,333567660,33475,2006,Female,Rhode Island,9964.68
+223,223,691,691,Less Than High School,Educational Services,6100242,1039,2006,Female,Rhode Island,5871.26
+224,224,692,692,High School Graduate,Educational Services,43291773,5964,2006,Female,Rhode Island,7258.85
+225,225,693,693,Some College,Educational Services,81966634,8882,2006,Female,Rhode Island,9228.4
+226,226,694,694,Advanced Degree,Educational Services,195313565,15175,2006,Female,Rhode Island,12870.75
+227,227,695,695,Unavalble,Educational Services,6895446,2415,2006,Female,Rhode Island,2855.26
+228,228,696,696,All Education Categories,Health Care and Social Assistance,209091147,15738,2006,Male,Rhode Island,13285.75
+229,229,697,697,Less Than High School,Health Care and Social Assistance,7857426,1099,2006,Male,Rhode Island,7149.61
+230,230,698,698,High School Graduate,Health Care and Social Assistance,26772232,2888,2006,Male,Rhode Island,9270.16
+231,231,699,699,Some College,Health Care and Social Assistance,49082416,4142,2006,Male,Rhode Island,11849.93
+232,232,700,700,Advanced Degree,Health Care and Social Assistance,118007993,5836,2006,Male,Rhode Island,20220.7
+233,233,701,701,Unavalble,Health Care and Social Assistance,7371080,1773,2006,Male,Rhode Island,4157.41
+234,234,702,702,All Education Categories,Health Care and Social Assistance,470568655,58174,2006,Female,Rhode Island,8088.99
+235,235,703,703,Less Than High School,Health Care and Social Assistance,18033648,3242,2006,Female,Rhode Island,5562.51
+236,236,704,704,High School Graduate,Health Care and Social Assistance,80574514,12142,2006,Female,Rhode Island,6636.02
+237,237,705,705,Some College,Health Care and Social Assistance,164787253,20201,2006,Female,Rhode Island,8157.38
+238,238,706,706,Advanced Degree,Health Care and Social Assistance,181365903,16601,2006,Female,Rhode Island,10925.0
+239,239,707,707,Unavalble,Health Care and Social Assistance,25807337,5988,2006,Female,Rhode Island,4309.84
+240,240,720,720,All Education Categories,Accommodation and Food Services,73721603,17095,2006,Male,Rhode Island,4312.47
+241,241,721,721,Less Than High School,Accommodation and Food Services,9862785,2134,2006,Male,Rhode Island,4621.74
+242,242,722,722,High School Graduate,Accommodation and Food Services,18892952,3553,2006,Male,Rhode Island,5317.46
+243,243,723,723,Some College,Accommodation and Food Services,16852615,2897,2006,Male,Rhode Island,5817.26
+244,244,724,724,Advanced Degree,Accommodation and Food Services,10883324,1606,2006,Male,Rhode Island,6776.67
+245,245,725,725,Unavalble,Accommodation and Food Services,17229928,6906,2006,Male,Rhode Island,2494.92
+246,246,726,726,All Education Categories,Accommodation and Food Services,70069060,22321,2006,Female,Rhode Island,3139.15
+247,247,727,727,Less Than High School,Accommodation and Food Services,6995426,2130,2006,Female,Rhode Island,3284.24
+248,248,728,728,High School Graduate,Accommodation and Food Services,16489716,4632,2006,Female,Rhode Island,3559.96
+249,249,729,729,Some College,Accommodation and Food Services,15496926,3994,2006,Female,Rhode Island,3880.05
+250,250,730,730,Advanced Degree,Accommodation and Food Services,9101125,2036,2006,Female,Rhode Island,4470.1
+251,251,731,731,Unavalble,Accommodation and Food Services,21985867,9529,2006,Female,Rhode Island,2307.26
+252,252,756,756,All Education Categories,00,2895774980,219749,2007,Male,Rhode Island,13177.65
+253,253,757,757,Less Than High School,00,160571753,20986,2007,Male,Rhode Island,7651.37
+254,254,758,758,High School Graduate,00,530627970,50844,2007,Male,Rhode Island,10436.39
+255,255,759,759,Some College,00,715236658,55327,2007,Male,Rhode Island,12927.44
+256,256,760,760,Advanced Degree,00,1359516822,61921,2007,Male,Rhode Island,21955.67
+257,257,761,761,Unavalble,00,129821778,30672,2007,Male,Rhode Island,4232.58
+258,258,762,762,All Education Categories,00,2011980088,244307,2007,Female,Rhode Island,8235.46
+259,259,763,763,Less Than High School,00,86671672,17186,2007,Female,Rhode Island,5043.16
+260,260,764,764,High School Graduate,00,349862900,53504,2007,Female,Rhode Island,6539.0
+261,261,765,765,Some College,00,570762222,68613,2007,Female,Rhode Island,8318.57
+262,262,766,766,Advanced Degree,00,877615734,68324,2007,Female,Rhode Island,12844.91
+263,263,767,767,Unavalble,00,127067561,36681,2007,Female,Rhode Island,3464.12
+264,264,816,816,All Education Categories,Manufacturing,466566260,33985,2007,Male,Rhode Island,13728.59
+265,265,817,817,Less Than High School,Manufacturing,40327794,4742,2007,Male,Rhode Island,8504.39
+266,266,818,818,High School Graduate,Manufacturing,116098792,10099,2007,Male,Rhode Island,11496.07
+267,267,819,819,Some College,Manufacturing,137520077,9821,2007,Male,Rhode Island,14002.66
+268,268,820,820,Advanced Degree,Manufacturing,158753843,7176,2007,Male,Rhode Island,22122.89
+269,269,821,821,Unavalble,Manufacturing,13865755,2147,2007,Male,Rhode Island,6458.2
+270,270,822,822,All Education Categories,Manufacturing,147003095,18066,2007,Female,Rhode Island,8137.0
+271,271,823,823,Less Than High School,Manufacturing,15912921,3118,2007,Female,Rhode Island,5103.57
+272,272,824,824,High School Graduate,Manufacturing,38446485,5540,2007,Female,Rhode Island,6939.8
+273,273,825,825,Some College,Manufacturing,43865800,5041,2007,Female,Rhode Island,8701.81
+274,274,826,826,Advanced Degree,Manufacturing,42748632,3094,2007,Female,Rhode Island,13816.62
+275,275,827,827,Unavalble,Manufacturing,6029257,1274,2007,Female,Rhode Island,4732.54
+276,276,840,840,All Education Categories,Retail Trade,242463812,25889,2007,Male,Rhode Island,9365.51
+277,277,841,841,Less Than High School,Retail Trade,17227391,2501,2007,Male,Rhode Island,6888.2
+278,278,842,842,High School Graduate,Retail Trade,64567900,6451,2007,Male,Rhode Island,10008.98
+279,279,843,843,Some College,Retail Trade,64240023,5753,2007,Male,Rhode Island,11166.35
+280,280,844,844,Advanced Degree,Retail Trade,70170268,3620,2007,Male,Rhode Island,19384.05
+281,281,845,845,Unavalble,Retail Trade,26258231,7564,2007,Male,Rhode Island,3471.47
+282,282,846,846,All Education Categories,Retail Trade,126187707,25518,2007,Female,Rhode Island,4945.05
+283,283,847,847,Less Than High School,Retail Trade,8591825,1994,2007,Female,Rhode Island,4308.84
+284,284,848,848,High School Graduate,Retail Trade,32721804,6391,2007,Female,Rhode Island,5119.98
+285,285,849,849,Some College,Retail Trade,33694918,5579,2007,Female,Rhode Island,6039.6
+286,286,850,850,Advanced Degree,Retail Trade,28933787,3200,2007,Female,Rhode Island,9041.81
+287,287,851,851,Unavalble,Retail Trade,22245373,8354,2007,Female,Rhode Island,2662.84
+288,288,876,876,All Education Categories,Finance and Insurance,280784205,10155,2007,Male,Rhode Island,27649.85
+289,289,877,877,Less Than High School,Finance and Insurance,3851968,358,2007,Male,Rhode Island,10759.69
+290,290,878,878,High School Graduate,Finance and Insurance,19849316,1243,2007,Male,Rhode Island,15968.88
+291,291,879,879,Some College,Finance and Insurance,44790446,2206,2007,Male,Rhode Island,20303.92
+292,292,880,880,Advanced Degree,Finance and Insurance,205568426,5462,2007,Male,Rhode Island,37636.11
+293,293,881,881,Unavalble,Finance and Insurance,6724050,887,2007,Male,Rhode Island,7580.67
+294,294,882,882,All Education Categories,Finance and Insurance,215831260,16905,2007,Female,Rhode Island,12767.3
+295,295,883,883,Less Than High School,Finance and Insurance,3952294,542,2007,Female,Rhode Island,7292.06
+296,296,884,884,High School Graduate,Finance and Insurance,27135072,2978,2007,Female,Rhode Island,9111.84
+297,297,885,885,Some College,Finance and Insurance,50737198,4656,2007,Female,Rhode Island,10897.16
+298,298,886,886,Advanced Degree,Finance and Insurance,123249404,7052,2007,Female,Rhode Island,17477.23
+299,299,887,887,Unavalble,Finance and Insurance,10757293,1676,2007,Female,Rhode Island,6418.43
+300,300,936,936,All Education Categories,Educational Services,279553499,22282,2007,Male,Rhode Island,12546.16
+301,301,937,937,Less Than High School,Educational Services,8229177,955,2007,Male,Rhode Island,8616.94
+302,302,938,938,High School Graduate,Educational Services,40646091,3753,2007,Male,Rhode Island,10830.29
+303,303,939,939,Some College,Educational Services,69617500,5570,2007,Male,Rhode Island,12498.65
+304,304,940,940,Advanced Degree,Educational Services,155193674,10227,2007,Male,Rhode Island,15174.9
+305,305,941,941,Unavalble,Educational Services,5867057,1776,2007,Male,Rhode Island,3303.52
+306,306,942,942,All Education Categories,Educational Services,345997953,34360,2007,Female,Rhode Island,10069.79
+307,307,943,943,Less Than High School,Educational Services,6696239,1113,2007,Female,Rhode Island,6016.39
+308,308,944,944,High School Graduate,Educational Services,45871316,6145,2007,Female,Rhode Island,7464.82
+309,309,945,945,Some College,Educational Services,86477940,9196,2007,Female,Rhode Island,9403.86
+310,310,946,946,Advanced Degree,Educational Services,200011448,15448,2007,Female,Rhode Island,12947.4
+311,311,947,947,Unavalble,Educational Services,6941010,2458,2007,Female,Rhode Island,2823.84
+312,312,948,948,All Education Categories,Health Care and Social Assistance,213732198,15995,2007,Male,Rhode Island,13362.44
+313,313,949,949,Less Than High School,Health Care and Social Assistance,8460424,1166,2007,Male,Rhode Island,7255.94
+314,314,950,950,High School Graduate,Health Care and Social Assistance,27933825,3007,2007,Male,Rhode Island,9289.6
+315,315,951,951,Some College,Health Care and Social Assistance,50316785,4241,2007,Male,Rhode Island,11864.37
+316,316,952,952,Advanced Degree,Health Care and Social Assistance,119797763,5852,2007,Male,Rhode Island,20471.25
+317,317,953,953,Unavalble,Health Care and Social Assistance,7223401,1729,2007,Male,Rhode Island,4177.79
+318,318,954,954,All Education Categories,Health Care and Social Assistance,487691513,59055,2007,Female,Rhode Island,8258.26
+319,319,955,955,Less Than High School,Health Care and Social Assistance,19622189,3406,2007,Female,Rhode Island,5761.07
+320,320,956,956,High School Graduate,Health Care and Social Assistance,84089401,12404,2007,Female,Rhode Island,6779.22
+321,321,957,957,Some College,Health Care and Social Assistance,170113949,20483,2007,Female,Rhode Island,8305.13
+322,322,958,958,Advanced Degree,Health Care and Social Assistance,187905828,16823,2007,Female,Rhode Island,11169.58
+323,323,959,959,Unavalble,Health Care and Social Assistance,25960147,5939,2007,Female,Rhode Island,4371.13
+324,324,972,972,All Education Categories,Accommodation and Food Services,75109302,16802,2007,Male,Rhode Island,4470.26
+325,325,973,973,Less Than High School,Accommodation and Food Services,10300656,2162,2007,Male,Rhode Island,4764.41
+326,326,974,974,High School Graduate,Accommodation and Food Services,19303798,3548,2007,Male,Rhode Island,5440.75
+327,327,975,975,Some College,Accommodation and Food Services,17073831,2880,2007,Male,Rhode Island,5928.41
+328,328,976,976,Advanced Degree,Accommodation and Food Services,10901414,1573,2007,Male,Rhode Island,6930.33
+329,329,977,977,Unavalble,Accommodation and Food Services,17529603,6639,2007,Male,Rhode Island,2640.4
+330,330,978,978,All Education Categories,Accommodation and Food Services,73282732,22347,2007,Female,Rhode Island,3279.31
+331,331,979,979,Less Than High School,Accommodation and Food Services,7569036,2211,2007,Female,Rhode Island,3423.35
+332,332,980,980,High School Graduate,Accommodation and Food Services,17212729,4653,2007,Female,Rhode Island,3699.28
+333,333,981,981,Some College,Accommodation and Food Services,16226280,4047,2007,Female,Rhode Island,4009.46
+334,334,982,982,Advanced Degree,Accommodation and Food Services,9604945,2083,2007,Female,Rhode Island,4611.11
+335,335,983,983,Unavalble,Accommodation and Food Services,22669742,9354,2007,Female,Rhode Island,2423.53
+336,336,1008,1008,All Education Categories,00,2838100390,211712,2008,Male,Rhode Island,13405.48
+337,337,1009,1009,Less Than High School,00,162025672,20533,2008,Male,Rhode Island,7890.99
+338,338,1010,1010,High School Graduate,00,518586396,49399,2008,Male,Rhode Island,10497.91
+339,339,1011,1011,Some College,00,701775527,53603,2008,Male,Rhode Island,13092.09
+340,340,1012,1012,Advanced Degree,00,1334098062,59247,2008,Male,Rhode Island,22517.56
+341,341,1013,1013,Unavalble,00,121614732,28930,2008,Male,Rhode Island,4203.76
+342,342,1014,1014,All Education Categories,00,2041620330,238911,2008,Female,Rhode Island,8545.53
+343,343,1015,1015,Less Than High School,00,89892070,17310,2008,Female,Rhode Island,5193.07
+344,344,1016,1016,High School Graduate,00,356620424,52605,2008,Female,Rhode Island,6779.21
+345,345,1017,1017,Some College,00,585054288,67856,2008,Female,Rhode Island,8622.0
+346,346,1018,1018,Advanced Degree,00,890738982,66835,2008,Female,Rhode Island,13327.43
+347,347,1019,1019,Unavalble,00,119314566,34306,2008,Female,Rhode Island,3477.95
+348,348,1068,1068,All Education Categories,Manufacturing,437579089,33024,2008,Male,Rhode Island,13250.34
+349,349,1069,1069,Less Than High School,Manufacturing,40193312,4607,2008,Male,Rhode Island,8724.4
+350,350,1070,1070,High School Graduate,Manufacturing,113632122,9889,2008,Male,Rhode Island,11490.76
+351,351,1071,1071,Some College,Manufacturing,131014484,9554,2008,Male,Rhode Island,13713.05
+352,352,1072,1072,Advanced Degree,Manufacturing,140107166,6932,2008,Male,Rhode Island,20211.65
+353,353,1073,1073,Unavalble,Manufacturing,12632005,2043,2008,Male,Rhode Island,6183.07
+354,354,1074,1074,All Education Categories,Manufacturing,138583051,17279,2008,Female,Rhode Island,8020.32
+355,355,1075,1075,Less Than High School,Manufacturing,15490153,3015,2008,Female,Rhode Island,5137.7
+356,356,1076,1076,High School Graduate,Manufacturing,36872477,5270,2008,Female,Rhode Island,6996.67
+357,357,1077,1077,Some College,Manufacturing,41610965,4826,2008,Female,Rhode Island,8622.25
+358,358,1078,1078,Advanced Degree,Manufacturing,39247022,2977,2008,Female,Rhode Island,13183.41
+359,359,1079,1079,Unavalble,Manufacturing,5362435,1191,2008,Female,Rhode Island,4502.46
+360,360,1092,1092,All Education Categories,Retail Trade,214781853,24855,2008,Male,Rhode Island,8641.39
+361,361,1093,1093,Less Than High School,Retail Trade,17346206,2434,2008,Male,Rhode Island,7126.63
+362,362,1094,1094,High School Graduate,Retail Trade,55877922,6262,2008,Male,Rhode Island,8923.33
+363,363,1095,1095,Some College,Retail Trade,58968392,5652,2008,Male,Rhode Island,10433.19
+364,364,1096,1096,Advanced Degree,Retail Trade,57657069,3545,2008,Male,Rhode Island,16264.34
+365,365,1097,1097,Unavalble,Retail Trade,24932264,6963,2008,Male,Rhode Island,3580.68
+366,366,1098,1098,All Education Categories,Retail Trade,128779128,24180,2008,Female,Rhode Island,5325.85
+367,367,1099,1099,Less Than High School,Retail Trade,8724457,1913,2008,Female,Rhode Island,4560.62
+368,368,1100,1100,High School Graduate,Retail Trade,32976539,6121,2008,Female,Rhode Island,5387.44
+369,369,1101,1101,Some College,Retail Trade,34852003,5426,2008,Female,Rhode Island,6423.15
+370,370,1102,1102,Advanced Degree,Retail Trade,30895888,3144,2008,Female,Rhode Island,9826.94
+371,371,1103,1103,Unavalble,Retail Trade,21330242,7575,2008,Female,Rhode Island,2815.87
+372,372,1128,1128,All Education Categories,Finance and Insurance,272166424,8993,2008,Male,Rhode Island,30264.25
+373,373,1129,1129,Less Than High School,Finance and Insurance,3491266,311,2008,Male,Rhode Island,11225.94
+374,374,1130,1130,High School Graduate,Finance and Insurance,17954231,1104,2008,Male,Rhode Island,16262.89
+375,375,1131,1131,Some College,Finance and Insurance,41082131,1966,2008,Male,Rhode Island,20896.3
+376,376,1132,1132,Advanced Degree,Finance and Insurance,204939622,4966,2008,Male,Rhode Island,41268.55
+377,377,1133,1133,Unavalble,Finance and Insurance,4699174,646,2008,Male,Rhode Island,7274.26
+378,378,1134,1134,All Education Categories,Finance and Insurance,197372069,15281,2008,Female,Rhode Island,12916.17
+379,379,1135,1135,Less Than High School,Finance and Insurance,3703231,507,2008,Female,Rhode Island,7304.2
+380,380,1136,1136,High School Graduate,Finance and Insurance,25070493,2735,2008,Female,Rhode Island,9166.54
+381,381,1137,1137,Some College,Finance and Insurance,46836920,4278,2008,Female,Rhode Island,10948.32
+382,382,1138,1138,Advanced Degree,Finance and Insurance,113680633,6417,2008,Female,Rhode Island,17715.54
+383,383,1139,1139,Unavalble,Finance and Insurance,8080792,1344,2008,Female,Rhode Island,6012.49
+384,384,1188,1188,All Education Categories,Educational Services,206861887,15918,2008,Male,Rhode Island,12995.47
+385,385,1189,1189,Less Than High School,Educational Services,6541504,727,2008,Male,Rhode Island,8997.94
+386,386,1190,1190,High School Graduate,Educational Services,29494919,2634,2008,Male,Rhode Island,11197.77
+387,387,1191,1191,Some College,Educational Services,49158762,3821,2008,Male,Rhode Island,12865.42
+388,388,1192,1192,Advanced Degree,Educational Services,117614468,7284,2008,Male,Rhode Island,16146.96
+389,389,1193,1193,Unavalble,Educational Services,4052234,1453,2008,Male,Rhode Island,2788.87
+390,390,1194,1194,All Education Categories,Educational Services,340612864,30218,2008,Female,Rhode Island,11271.85
+391,391,1195,1195,Less Than High School,Educational Services,6782019,1031,2008,Female,Rhode Island,6578.1
+392,392,1196,1196,High School Graduate,Educational Services,44703952,5353,2008,Female,Rhode Island,8351.2
+393,393,1197,1197,Some College,Educational Services,85141893,8099,2008,Female,Rhode Island,10512.64
+394,394,1198,1198,Advanced Degree,Educational Services,197948743,13677,2008,Female,Rhode Island,14473.11
+395,395,1199,1199,Unavalble,Educational Services,6036257,2058,2008,Female,Rhode Island,2933.07
+396,396,1200,1200,All Education Categories,Health Care and Social Assistance,224198235,16398,2008,Male,Rhode Island,13672.29
+397,397,1201,1201,Less Than High School,Health Care and Social Assistance,9395693,1250,2008,Male,Rhode Island,7516.55
+398,398,1202,1202,High School Graduate,Health Care and Social Assistance,29875348,3125,2008,Male,Rhode Island,9560.11
+399,399,1203,1203,Some College,Health Care and Social Assistance,52711586,4358,2008,Male,Rhode Island,12095.36
+400,400,1204,1204,Advanced Degree,Health Care and Social Assistance,124479192,5871,2008,Male,Rhode Island,21202.38
+401,401,1205,1205,Unavalble,Health Care and Social Assistance,7736415,1795,2008,Male,Rhode Island,4309.98
+402,402,1206,1206,All Education Categories,Health Care and Social Assistance,520860080,60840,2008,Female,Rhode Island,8561.15
+403,403,1207,1207,Less Than High School,Health Care and Social Assistance,21633084,3638,2008,Female,Rhode Island,5946.42
+404,404,1208,1208,High School Graduate,Health Care and Social Assistance,90406153,12884,2008,Female,Rhode Island,7016.93
+405,405,1209,1209,Some College,Health Care and Social Assistance,181417335,21104,2008,Female,Rhode Island,8596.35
+406,406,1210,1210,Advanced Degree,Health Care and Social Assistance,201491578,17378,2008,Female,Rhode Island,11594.64
+407,407,1211,1211,Unavalble,Health Care and Social Assistance,25911929,5835,2008,Female,Rhode Island,4440.78
+408,408,1224,1224,All Education Categories,Accommodation and Food Services,75327498,17028,2008,Male,Rhode Island,4423.74
+409,409,1225,1225,Less Than High School,Accommodation and Food Services,10649155,2220,2008,Male,Rhode Island,4796.92
+410,410,1226,1226,High School Graduate,Accommodation and Food Services,19347547,3604,2008,Male,Rhode Island,5368.35
+411,411,1227,1227,Some College,Accommodation and Food Services,17243960,2965,2008,Male,Rhode Island,5815.84
+412,412,1228,1228,Advanced Degree,Accommodation and Food Services,10756049,1625,2008,Male,Rhode Island,6619.11
+413,413,1229,1229,Unavalble,Accommodation and Food Services,17330787,6613,2008,Male,Rhode Island,2620.71
+414,414,1230,1230,All Education Categories,Accommodation and Food Services,74222968,22176,2008,Female,Rhode Island,3347.0
+415,415,1231,1231,Less Than High School,Accommodation and Food Services,7825697,2242,2008,Female,Rhode Island,3490.5
+416,416,1232,1232,High School Graduate,Accommodation and Food Services,17305119,4616,2008,Female,Rhode Island,3748.94
+417,417,1233,1233,Some College,Accommodation and Food Services,16714711,4099,2008,Female,Rhode Island,4077.75
+418,418,1234,1234,Advanced Degree,Accommodation and Food Services,10025512,2136,2008,Female,Rhode Island,4693.59
+419,419,1235,1235,Unavalble,Accommodation and Food Services,22351929,9083,2008,Female,Rhode Island,2460.85
+420,420,1260,1260,All Education Categories,00,2559665978,200770,2009,Male,Rhode Island,12749.25
+421,421,1261,1261,Less Than High School,00,146450578,19378,2009,Male,Rhode Island,7557.57
+422,422,1262,1262,High School Graduate,00,470050549,46812,2009,Male,Rhode Island,10041.24
+423,423,1263,1263,Some College,00,638416614,51225,2009,Male,Rhode Island,12462.99
+424,424,1264,1264,Advanced Degree,00,1204200143,57138,2009,Male,Rhode Island,21075.29
+425,425,1265,1265,Unavalble,00,100548095,26217,2009,Male,Rhode Island,3835.23
+426,426,1266,1266,All Education Categories,00,1938362704,231727,2009,Female,Rhode Island,8364.85
+427,427,1267,1267,Less Than High School,00,85242887,16770,2009,Female,Rhode Island,5083.06
+428,428,1268,1268,High School Graduate,00,337504481,50878,2009,Female,Rhode Island,6633.6
+429,429,1269,1269,Some College,00,558954212,66150,2009,Female,Rhode Island,8449.8
+430,430,1270,1270,Advanced Degree,00,852266470,65675,2009,Female,Rhode Island,12977.03
+431,431,1271,1271,Unavalble,00,104394653,32254,2009,Female,Rhode Island,3236.64
+432,432,1320,1320,All Education Categories,Manufacturing,370203285,29781,2009,Male,Rhode Island,12430.85
+433,433,1321,1321,Less Than High School,Manufacturing,32460412,4082,2009,Male,Rhode Island,7952.09
+434,434,1322,1322,High School Graduate,Manufacturing,95546250,8937,2009,Male,Rhode Island,10691.09
+435,435,1323,1323,Some College,Manufacturing,111473928,8746,2009,Male,Rhode Island,12745.7
+436,436,1324,1324,Advanced Degree,Manufacturing,121407195,6383,2009,Male,Rhode Island,19020.4
+437,437,1325,1325,Unavalble,Manufacturing,9315501,1633,2009,Male,Rhode Island,5704.53
+438,438,1326,1326,All Education Categories,Manufacturing,117535003,15123,2009,Female,Rhode Island,7771.94
+439,439,1327,1327,Less Than High School,Manufacturing,11961669,2560,2009,Female,Rhode Island,4672.53
+440,440,1328,1328,High School Graduate,Manufacturing,30094386,4571,2009,Female,Rhode Island,6583.76
+441,441,1329,1329,Some College,Manufacturing,35476799,4310,2009,Female,Rhode Island,8231.28
+442,442,1330,1330,Advanced Degree,Manufacturing,35169295,2738,2009,Female,Rhode Island,12844.88
+443,443,1331,1331,Unavalble,Manufacturing,4832854,944,2009,Female,Rhode Island,5119.55
+444,444,1344,1344,All Education Categories,Retail Trade,183541097,24073,2009,Male,Rhode Island,7624.35
+445,445,1345,1345,Less Than High School,Retail Trade,15642518,2368,2009,Male,Rhode Island,6605.79
+446,446,1346,1346,High School Graduate,Retail Trade,49642347,6086,2009,Male,Rhode Island,8156.81
+447,447,1347,1347,Some College,Retail Trade,51019509,5510,2009,Male,Rhode Island,9259.44
+448,448,1348,1348,Advanced Degree,Retail Trade,46724025,3479,2009,Male,Rhode Island,13430.3
+449,449,1349,1349,Unavalble,Retail Trade,20512697,6631,2009,Male,Rhode Island,3093.45
+450,450,1350,1350,All Education Categories,Retail Trade,115270977,24460,2009,Female,Rhode Island,4712.63
+451,451,1351,1351,Less Than High School,Retail Trade,8183495,1959,2009,Female,Rhode Island,4177.38
+452,452,1352,1352,High School Graduate,Retail Trade,30223419,6123,2009,Female,Rhode Island,4936.05
+453,453,1353,1353,Some College,Retail Trade,32009955,5528,2009,Female,Rhode Island,5790.51
+454,454,1354,1354,Advanced Degree,Retail Trade,26732853,3205,2009,Female,Rhode Island,8340.98
+455,455,1355,1355,Unavalble,Retail Trade,18121255,7645,2009,Female,Rhode Island,2370.34
+456,456,1380,1380,All Education Categories,Finance and Insurance,254380635,8592,2009,Male,Rhode Island,29606.68
+457,457,1381,1381,Less Than High School,Finance and Insurance,3562200,303,2009,Male,Rhode Island,11756.44
+458,458,1382,1382,High School Graduate,Finance and Insurance,17480222,1059,2009,Male,Rhode Island,16506.35
+459,459,1383,1383,Some College,Finance and Insurance,40164959,1868,2009,Male,Rhode Island,21501.58
+460,460,1384,1384,Advanced Degree,Finance and Insurance,188996894,4840,2009,Male,Rhode Island,39048.95
+461,461,1385,1385,Unavalble,Finance and Insurance,4176361,524,2009,Male,Rhode Island,7970.15
+462,462,1386,1386,All Education Categories,Finance and Insurance,190631974,14572,2009,Female,Rhode Island,13082.07
+463,463,1387,1387,Less Than High School,Finance and Insurance,3740355,501,2009,Female,Rhode Island,7465.78
+464,464,1388,1388,High School Graduate,Finance and Insurance,24002795,2609,2009,Female,Rhode Island,9200.0
+465,465,1389,1389,Some College,Finance and Insurance,45512628,4113,2009,Female,Rhode Island,11065.56
+466,466,1390,1390,Advanced Degree,Finance and Insurance,110774907,6242,2009,Female,Rhode Island,17746.7
+467,467,1391,1391,Unavalble,Finance and Insurance,6601288,1108,2009,Female,Rhode Island,5957.84
+468,468,1440,1440,All Education Categories,Educational Services,222402386,16860,2009,Male,Rhode Island,13191.13
+469,469,1441,1441,Less Than High School,Educational Services,7313145,797,2009,Male,Rhode Island,9175.84
+470,470,1442,1442,High School Graduate,Educational Services,32536178,2875,2009,Male,Rhode Island,11316.93
+471,471,1443,1443,Some College,Educational Services,54225909,4124,2009,Male,Rhode Island,13148.86
+472,472,1444,1444,Advanced Degree,Educational Services,124037055,7603,2009,Male,Rhode Island,16314.23
+473,473,1445,1445,Unavalble,Educational Services,4290099,1461,2009,Male,Rhode Island,2936.41
+474,474,1446,1446,All Education Categories,Educational Services,345235457,31589,2009,Female,Rhode Island,10928.98
+475,475,1447,1447,Less Than High School,Educational Services,7377718,1127,2009,Female,Rhode Island,6546.33
+476,476,1448,1448,High School Graduate,Educational Services,46518508,5617,2009,Female,Rhode Island,8281.74
+477,477,1449,1449,Some College,Educational Services,87367408,8499,2009,Female,Rhode Island,10279.73
+478,478,1450,1450,Advanced Degree,Educational Services,197673886,14143,2009,Female,Rhode Island,13976.8
+479,479,1451,1451,Unavalble,Educational Services,6297938,2204,2009,Female,Rhode Island,2857.5
+480,480,1452,1452,All Education Categories,Health Care and Social Assistance,215732973,16108,2009,Male,Rhode Island,13392.91
+481,481,1453,1453,Less Than High School,Health Care and Social Assistance,9484916,1251,2009,Male,Rhode Island,7581.87
+482,482,1454,1454,High School Graduate,Health Care and Social Assistance,29729999,3139,2009,Male,Rhode Island,9471.17
+483,483,1455,1455,Some College,Health Care and Social Assistance,50922719,4259,2009,Male,Rhode Island,11956.5
+484,484,1456,1456,Advanced Degree,Health Care and Social Assistance,118516969,5654,2009,Male,Rhode Island,20961.61
+485,485,1457,1457,Unavalble,Health Care and Social Assistance,7078370,1805,2009,Male,Rhode Island,3921.53
+486,486,1458,1458,All Education Categories,Health Care and Social Assistance,502593765,59824,2009,Female,Rhode Island,8401.21
+487,487,1459,1459,Less Than High School,Health Care and Social Assistance,22106136,3770,2009,Female,Rhode Island,5863.7
+488,488,1460,1460,High School Graduate,Health Care and Social Assistance,88329088,12768,2009,Female,Rhode Island,6918.01
+489,489,1461,1461,Some College,Health Care and Social Assistance,175151961,20730,2009,Female,Rhode Island,8449.2
+490,490,1462,1462,Advanced Degree,Health Care and Social Assistance,193409809,17031,2009,Female,Rhode Island,11356.34
+491,491,1463,1463,Unavalble,Health Care and Social Assistance,23596771,5526,2009,Female,Rhode Island,4270.14
+492,492,1476,1476,All Education Categories,Accommodation and Food Services,69958530,16305,2009,Male,Rhode Island,4290.62
+493,493,1477,1477,Less Than High School,Accommodation and Food Services,9845358,2170,2009,Male,Rhode Island,4537.03
+494,494,1478,1478,High School Graduate,Accommodation and Food Services,18157414,3520,2009,Male,Rhode Island,5158.36
+495,495,1479,1479,Some College,Accommodation and Food Services,16458643,2933,2009,Male,Rhode Island,5611.54
+496,496,1480,1480,Advanced Degree,Accommodation and Food Services,10467944,1617,2009,Male,Rhode Island,6473.68
+497,497,1481,1481,Unavalble,Accommodation and Food Services,15029171,6066,2009,Male,Rhode Island,2477.61
+498,498,1482,1482,All Education Categories,Accommodation and Food Services,68217423,21363,2009,Female,Rhode Island,3193.25
+499,499,1483,1483,Less Than High School,Accommodation and Food Services,7485534,2214,2009,Female,Rhode Island,3381.0
+500,500,1484,1484,High School Graduate,Accommodation and Food Services,16008273,4486,2009,Female,Rhode Island,3568.5
+501,501,1485,1485,Some College,Accommodation and Food Services,15670028,4055,2009,Female,Rhode Island,3864.37
+502,502,1486,1486,Advanced Degree,Accommodation and Food Services,9494541,2147,2009,Female,Rhode Island,4422.24
+503,503,1487,1487,Unavalble,Accommodation and Food Services,19559047,8461,2009,Female,Rhode Island,2311.67
+504,504,1512,1512,All Education Categories,00,2541582394,194300,2010,Male,Rhode Island,13080.71
+505,505,1513,1513,Less Than High School,00,146562001,18938,2010,Male,Rhode Island,7739.04
+506,506,1514,1514,High School Graduate,00,456755708,45158,2010,Male,Rhode Island,10114.61
+507,507,1515,1515,Some College,00,628799514,49751,2010,Male,Rhode Island,12638.93
+508,508,1516,1516,Advanced Degree,00,1217922143,55989,2010,Male,Rhode Island,21752.88
+509,509,1517,1517,Unavalble,00,91543028,24464,2010,Male,Rhode Island,3741.95
+510,510,1518,1518,All Education Categories,00,1915102470,228231,2010,Female,Rhode Island,8391.07
+511,511,1519,1519,Less Than High School,00,89108965,16823,2010,Female,Rhode Island,5296.85
+512,512,1520,1520,High School Graduate,00,337648528,50265,2010,Female,Rhode Island,6717.37
+513,513,1521,1521,Some College,00,555111202,65549,2010,Female,Rhode Island,8468.64
+514,514,1522,1522,Advanced Degree,00,836970680,65163,2010,Female,Rhode Island,12844.26
+515,515,1523,1523,Unavalble,00,96263095,30431,2010,Female,Rhode Island,3163.32
+516,516,1572,1572,All Education Categories,Manufacturing,354729959,26854,2010,Male,Rhode Island,13209.58
+517,517,1573,1573,Less Than High School,Manufacturing,31866407,3665,2010,Male,Rhode Island,8694.79
+518,518,1574,1574,High School Graduate,Manufacturing,90727962,8041,2010,Male,Rhode Island,11283.17
+519,519,1575,1575,Some College,Manufacturing,107640506,7970,2010,Male,Rhode Island,13505.71
+520,520,1576,1576,Advanced Degree,Manufacturing,117262544,5888,2010,Male,Rhode Island,19915.51
+521,521,1577,1577,Unavalble,Manufacturing,7232539,1289,2010,Male,Rhode Island,5610.97
+522,522,1578,1578,All Education Categories,Manufacturing,111065796,13586,2010,Female,Rhode Island,8175.02
+523,523,1579,1579,Less Than High School,Manufacturing,11717307,2275,2010,Female,Rhode Island,5150.46
+524,524,1580,1580,High School Graduate,Manufacturing,28517809,4068,2010,Female,Rhode Island,7010.28
+525,525,1581,1581,Some College,Manufacturing,33752205,3886,2010,Female,Rhode Island,8685.59
+526,526,1582,1582,Advanced Degree,Manufacturing,33977589,2552,2010,Female,Rhode Island,13314.1
+527,527,1583,1583,Unavalble,Manufacturing,3100886,805,2010,Female,Rhode Island,3852.03
+528,528,1596,1596,All Education Categories,Retail Trade,181528715,23199,2010,Male,Rhode Island,7824.85
+529,529,1597,1597,Less Than High School,Retail Trade,15633771,2321,2010,Male,Rhode Island,6735.79
+530,530,1598,1598,High School Graduate,Retail Trade,48754850,5887,2010,Male,Rhode Island,8281.78
+531,531,1599,1599,Some College,Retail Trade,50375908,5353,2010,Male,Rhode Island,9410.78
+532,532,1600,1600,Advanced Degree,Retail Trade,47752022,3457,2010,Male,Rhode Island,13813.14
+533,533,1601,1601,Unavalble,Retail Trade,19012164,6181,2010,Male,Rhode Island,3075.9
+534,534,1602,1602,All Education Categories,Retail Trade,114655556,23185,2010,Female,Rhode Island,4945.25
+535,535,1603,1603,Less Than High School,Retail Trade,8312645,1899,2010,Female,Rhode Island,4377.38
+536,536,1604,1604,High School Graduate,Retail Trade,29724690,5833,2010,Female,Rhode Island,5095.95
+537,537,1605,1605,Some College,Retail Trade,32126154,5332,2010,Female,Rhode Island,6025.16
+538,538,1606,1606,Advanced Degree,Retail Trade,27744384,3198,2010,Female,Rhode Island,8675.54
+539,539,1607,1607,Unavalble,Retail Trade,16747683,6923,2010,Female,Rhode Island,2419.14
+540,540,1632,1632,All Education Categories,Finance and Insurance,277701116,8572,2010,Male,Rhode Island,32396.3
+541,541,1633,1633,Less Than High School,Finance and Insurance,4431869,328,2010,Male,Rhode Island,13511.8
+542,542,1634,1634,High School Graduate,Finance and Insurance,19414355,1090,2010,Male,Rhode Island,17811.33
+543,543,1635,1635,Some College,Finance and Insurance,43498669,1884,2010,Male,Rhode Island,23088.47
+544,544,1636,1636,Advanced Degree,Finance and Insurance,206713716,4812,2010,Male,Rhode Island,42957.96
+545,545,1637,1637,Unavalble,Finance and Insurance,3642508,458,2010,Male,Rhode Island,7953.07
+546,546,1638,1638,All Education Categories,Finance and Insurance,194837854,13908,2010,Female,Rhode Island,14009.05
+547,547,1639,1639,Less Than High School,Finance and Insurance,4130913,493,2010,Female,Rhode Island,8379.13
+548,548,1640,1640,High School Graduate,Finance and Insurance,24838223,2519,2010,Female,Rhode Island,9860.35
+549,549,1641,1641,Some College,Finance and Insurance,46889173,3990,2010,Female,Rhode Island,11751.67
+550,550,1642,1642,Advanced Degree,Finance and Insurance,113341282,6029,2010,Female,Rhode Island,18799.35
+551,551,1643,1643,Unavalble,Finance and Insurance,5638263,876,2010,Female,Rhode Island,6436.37
+552,552,1692,1692,All Education Categories,Educational Services,211319337,17044,2010,Male,Rhode Island,12398.46
+553,553,1693,1693,Less Than High School,Educational Services,7579251,867,2010,Male,Rhode Island,8741.93
+554,554,1694,1694,High School Graduate,Educational Services,31810984,3000,2010,Male,Rhode Island,10603.66
+555,555,1695,1695,Some College,Educational Services,51633281,4201,2010,Male,Rhode Island,12290.71
+556,556,1696,1696,Advanced Degree,Educational Services,116495221,7555,2010,Male,Rhode Island,15419.62
+557,557,1697,1697,Unavalble,Educational Services,3800600,1421,2010,Male,Rhode Island,2674.6
+558,558,1698,1698,All Education Categories,Educational Services,323940811,31394,2010,Female,Rhode Island,10318.56
+559,559,1699,1699,Less Than High School,Educational Services,7868218,1217,2010,Female,Rhode Island,6465.26
+560,560,1700,1700,High School Graduate,Educational Services,44968370,5663,2010,Female,Rhode Island,7940.73
+561,561,1701,1701,Some College,Educational Services,83424091,8509,2010,Female,Rhode Island,9804.22
+562,562,1702,1702,Advanced Degree,Educational Services,182051682,13802,2010,Female,Rhode Island,13190.24
+563,563,1703,1703,Unavalble,Educational Services,5628449,2204,2010,Female,Rhode Island,2553.74
+564,564,1704,1704,All Education Categories,Health Care and Social Assistance,219074330,16683,2010,Male,Rhode Island,13131.59
+565,565,1705,1705,Less Than High School,Health Care and Social Assistance,10280783,1360,2010,Male,Rhode Island,7559.4
+566,566,1706,1706,High School Graduate,Health Care and Social Assistance,30748054,3314,2010,Male,Rhode Island,9278.23
+567,567,1707,1707,Some College,Health Care and Social Assistance,51591627,4412,2010,Male,Rhode Island,11693.48
+568,568,1708,1708,Advanced Degree,Health Care and Social Assistance,119588661,5790,2010,Male,Rhode Island,20654.35
+569,569,1709,1709,Unavalble,Health Care and Social Assistance,6865204,1806,2010,Male,Rhode Island,3801.33
+570,570,1710,1710,All Education Categories,Health Care and Social Assistance,512938709,61525,2010,Female,Rhode Island,8337.08
+571,571,1711,1711,Less Than High School,Health Care and Social Assistance,23888689,4023,2010,Female,Rhode Island,5938.03
+572,572,1712,1712,High School Graduate,Health Care and Social Assistance,91473481,13216,2010,Female,Rhode Island,6921.42
+573,573,1713,1713,Some College,Health Care and Social Assistance,177596304,21162,2010,Female,Rhode Island,8392.23
+574,574,1714,1714,Advanced Degree,Health Care and Social Assistance,196853399,17497,2010,Female,Rhode Island,11250.69
+575,575,1715,1715,Unavalble,Health Care and Social Assistance,23126836,5626,2010,Female,Rhode Island,4110.71
+576,576,1728,1728,All Education Categories,Accommodation and Food Services,69922420,16426,2010,Male,Rhode Island,4256.81
+577,577,1729,1729,Less Than High School,Accommodation and Food Services,9988062,2192,2010,Male,Rhode Island,4556.6
+578,578,1730,1730,High School Graduate,Accommodation and Food Services,18056218,3530,2010,Male,Rhode Island,5115.08
+579,579,1731,1731,Some College,Accommodation and Food Services,16341750,2973,2010,Male,Rhode Island,5496.72
+580,580,1732,1732,Advanced Degree,Accommodation and Food Services,10570002,1704,2010,Male,Rhode Island,6203.05
+581,581,1733,1733,Unavalble,Accommodation and Food Services,14966388,6028,2010,Male,Rhode Island,2482.81
+582,582,1734,1734,All Education Categories,Accommodation and Food Services,68450332,21243,2010,Female,Rhode Island,3222.25
+583,583,1735,1735,Less Than High School,Accommodation and Food Services,7679592,2251,2010,Female,Rhode Island,3411.64
+584,584,1736,1736,High School Graduate,Accommodation and Food Services,16252831,4503,2010,Female,Rhode Island,3609.33
+585,585,1737,1737,Some College,Accommodation and Food Services,15770568,4097,2010,Female,Rhode Island,3849.3
+586,586,1738,1738,Advanced Degree,Accommodation and Food Services,9612239,2253,2010,Female,Rhode Island,4266.42
+587,587,1739,1739,Unavalble,Accommodation and Food Services,19135102,8140,2010,Female,Rhode Island,2350.75
+588,588,1764,1764,All Education Categories,00,2614550297,195458,2011,Male,Rhode Island,13376.53
+589,589,1765,1765,Less Than High School,00,159626366,19542,2011,Male,Rhode Island,8168.37
+590,590,1766,1766,High School Graduate,00,489508428,45827,2011,Male,Rhode Island,10681.66
+591,591,1767,1767,Some College,00,657734917,50205,2011,Male,Rhode Island,13100.98
+592,592,1768,1768,Advanced Degree,00,1215101433,55533,2011,Male,Rhode Island,21880.71
+593,593,1769,1769,Unavalble,00,92579153,24350,2011,Male,Rhode Island,3802.02
+594,594,1770,1770,All Education Categories,00,1988277566,227228,2011,Female,Rhode Island,8750.14
+595,595,1771,1771,Less Than High School,00,97368459,17419,2011,Female,Rhode Island,5589.78
+596,596,1772,1772,High School Graduate,00,355674883,50223,2011,Female,Rhode Island,7081.91
+597,597,1773,1773,Some College,00,579624117,65262,2011,Female,Rhode Island,8881.49
+598,598,1774,1774,Advanced Degree,00,859578145,64335,2011,Female,Rhode Island,13360.97
+599,599,1775,1775,Unavalble,00,96031961,29988,2011,Female,Rhode Island,3202.35
+600,600,1824,1824,All Education Categories,Manufacturing,383804126,27152,2011,Male,Rhode Island,14135.39
+601,601,1825,1825,Less Than High School,Manufacturing,34716112,3742,2011,Male,Rhode Island,9277.42
+602,602,1826,1826,High School Graduate,Manufacturing,98116722,8125,2011,Male,Rhode Island,12075.9
+603,603,1827,1827,Some College,Manufacturing,115611947,8044,2011,Male,Rhode Island,14372.44
+604,604,1828,1828,Advanced Degree,Manufacturing,127405652,5926,2011,Male,Rhode Island,21499.44
+605,605,1829,1829,Unavalble,Manufacturing,7953693,1316,2011,Male,Rhode Island,6043.84
+606,606,1830,1830,All Education Categories,Manufacturing,115670171,13390,2011,Female,Rhode Island,8638.55
+607,607,1831,1831,Less Than High School,Manufacturing,12592687,2237,2011,Female,Rhode Island,5629.27
+608,608,1832,1832,High School Graduate,Manufacturing,29817079,3987,2011,Female,Rhode Island,7478.58
+609,609,1833,1833,Some College,Manufacturing,35277045,3827,2011,Female,Rhode Island,9217.94
+610,610,1834,1834,Advanced Degree,Manufacturing,34771955,2526,2011,Female,Rhode Island,13765.62
+611,611,1835,1835,Unavalble,Manufacturing,3211405,813,2011,Female,Rhode Island,3950.07
+612,612,1848,1848,All Education Categories,Retail Trade,176066028,23276,2011,Male,Rhode Island,7564.27
+613,613,1849,1849,Less Than High School,Retail Trade,16398386,2374,2011,Male,Rhode Island,6907.49
+614,614,1850,1850,High School Graduate,Retail Trade,49666688,5898,2011,Male,Rhode Island,8420.94
+615,615,1851,1851,Some College,Retail Trade,50137667,5365,2011,Male,Rhode Island,9345.32
+616,616,1852,1852,Advanced Degree,Retail Trade,40660117,3411,2011,Male,Rhode Island,11920.29
+617,617,1853,1853,Unavalble,Retail Trade,19203169,6228,2011,Male,Rhode Island,3083.36
+618,618,1854,1854,All Education Categories,Retail Trade,109820731,23046,2011,Female,Rhode Island,4765.28
+619,619,1855,1855,Less Than High School,Retail Trade,8398839,1896,2011,Female,Rhode Island,4429.77
+620,620,1856,1856,High School Graduate,Retail Trade,29266764,5723,2011,Female,Rhode Island,5113.89
+621,621,1857,1857,Some College,Retail Trade,31090250,5277,2011,Female,Rhode Island,5891.65
+622,622,1858,1858,Advanced Degree,Retail Trade,24363061,3144,2011,Female,Rhode Island,7749.07
+623,623,1859,1859,Unavalble,Retail Trade,16701817,7006,2011,Female,Rhode Island,2383.93
+624,624,1884,1884,All Education Categories,Finance and Insurance,281682408,8690,2011,Male,Rhode Island,32414.55
+625,625,1885,1885,Less Than High School,Finance and Insurance,5384003,378,2011,Male,Rhode Island,14243.39
+626,626,1886,1886,High School Graduate,Finance and Insurance,22214495,1173,2011,Male,Rhode Island,18938.19
+627,627,1887,1887,Some College,Finance and Insurance,46642823,1941,2011,Male,Rhode Island,24030.31
+628,628,1888,1888,Advanced Degree,Finance and Insurance,203920279,4774,2011,Male,Rhode Island,42714.76
+629,629,1889,1889,Unavalble,Finance and Insurance,3520809,425,2011,Male,Rhode Island,8284.26
+630,630,1890,1890,All Education Categories,Finance and Insurance,205472938,14133,2011,Female,Rhode Island,14538.52
+631,631,1891,1891,Less Than High School,Finance and Insurance,4891709,550,2011,Female,Rhode Island,8894.02
+632,632,1892,1892,High School Graduate,Finance and Insurance,26661062,2583,2011,Female,Rhode Island,10321.74
+633,633,1893,1893,Some College,Finance and Insurance,50744350,4094,2011,Female,Rhode Island,12394.81
+634,634,1894,1894,Advanced Degree,Finance and Insurance,118002937,6106,2011,Female,Rhode Island,19325.73
+635,635,1895,1895,Unavalble,Finance and Insurance,5172880,801,2011,Female,Rhode Island,6458.03
+636,636,1944,1944,All Education Categories,Educational Services,220971689,16761,2011,Male,Rhode Island,13183.68
+637,637,1945,1945,Less Than High School,Educational Services,8427906,888,2011,Male,Rhode Island,9490.89
+638,638,1946,1946,High School Graduate,Educational Services,34419322,3007,2011,Male,Rhode Island,11446.4
+639,639,1947,1947,Some College,Educational Services,54650824,4155,2011,Male,Rhode Island,13153.03
+640,640,1948,1948,Advanced Degree,Educational Services,119340116,7317,2011,Male,Rhode Island,16309.98
+641,641,1949,1949,Unavalble,Educational Services,4133521,1394,2011,Male,Rhode Island,2965.22
+642,642,1950,1950,All Education Categories,Educational Services,341057781,30444,2011,Female,Rhode Island,11202.79
+643,643,1951,1951,Less Than High School,Educational Services,8830646,1260,2011,Female,Rhode Island,7008.45
+644,644,1952,1952,High School Graduate,Educational Services,47896846,5530,2011,Female,Rhode Island,8661.27
+645,645,1953,1953,Some College,Educational Services,88208096,8257,2011,Female,Rhode Island,10682.83
+646,646,1954,1954,Advanced Degree,Educational Services,190132839,13255,2011,Female,Rhode Island,14344.24
+647,647,1955,1955,Unavalble,Educational Services,5989354,2141,2011,Female,Rhode Island,2797.46
+648,648,1956,1956,All Education Categories,Health Care and Social Assistance,227037435,16844,2011,Male,Rhode Island,13478.83
+649,649,1957,1957,Less Than High School,Health Care and Social Assistance,11296492,1428,2011,Male,Rhode Island,7910.71
+650,650,1958,1958,High School Graduate,Health Care and Social Assistance,33297503,3413,2011,Male,Rhode Island,9756.08
+651,651,1959,1959,Some College,Health Care and Social Assistance,54684900,4475,2011,Male,Rhode Island,12220.09
+652,652,1960,1960,Advanced Degree,Health Care and Social Assistance,120639420,5719,2011,Male,Rhode Island,21094.5
+653,653,1961,1961,Unavalble,Health Care and Social Assistance,7119121,1808,2011,Male,Rhode Island,3937.57
+654,654,1962,1962,All Education Categories,Health Care and Social Assistance,535352986,61563,2011,Female,Rhode Island,8696.02
+655,655,1963,1963,Less Than High School,Health Care and Social Assistance,26746590,4305,2011,Female,Rhode Island,6212.91
+656,656,1964,1964,High School Graduate,Health Care and Social Assistance,97315805,13380,2011,Female,Rhode Island,7273.23
+657,657,1965,1965,Some College,Health Care and Social Assistance,185416494,21043,2011,Female,Rhode Island,8811.31
+658,658,1966,1966,Advanced Degree,Health Care and Social Assistance,202312393,17299,2011,Female,Rhode Island,11695.03
+659,659,1967,1967,Unavalble,Health Care and Social Assistance,23561704,5536,2011,Female,Rhode Island,4256.09
+660,660,1980,1980,All Education Categories,Accommodation and Food Services,72754930,16814,2011,Male,Rhode Island,4327.04
+661,661,1981,1981,Less Than High School,Accommodation and Food Services,10481847,2245,2011,Male,Rhode Island,4668.97
+662,662,1982,1982,High School Graduate,Accommodation and Food Services,18916761,3636,2011,Male,Rhode Island,5202.63
+663,663,1983,1983,Some College,Accommodation and Food Services,17247213,3106,2011,Male,Rhode Island,5552.87
+664,664,1984,1984,Advanced Degree,Accommodation and Food Services,11306260,1817,2011,Male,Rhode Island,6222.49
+665,665,1985,1985,Unavalble,Accommodation and Food Services,14802850,6011,2011,Male,Rhode Island,2462.63
+666,666,1986,1986,All Education Categories,Accommodation and Food Services,70077744,21334,2011,Female,Rhode Island,3284.79
+667,667,1987,1987,Less Than High School,Accommodation and Food Services,7883592,2278,2011,Female,Rhode Island,3460.75
+668,668,1988,1988,High School Graduate,Accommodation and Food Services,16767248,4550,2011,Female,Rhode Island,3685.11
+669,669,1989,1989,Some College,Accommodation and Food Services,16283151,4134,2011,Female,Rhode Island,3938.84
+670,670,1990,1990,Advanced Degree,Accommodation and Food Services,10186412,2305,2011,Female,Rhode Island,4419.27
+671,671,1991,1991,Unavalble,Accommodation and Food Services,18957341,8067,2011,Female,Rhode Island,2349.99
+672,672,2016,2016,All Education Categories,00,2812823442,197196,2012,Male,Rhode Island,14264.1
+673,673,2017,2017,Less Than High School,00,178047072,20162,2012,Male,Rhode Island,8830.82
+674,674,2018,2018,High School Graduate,00,526151570,46561,2012,Male,Rhode Island,11300.26
+675,675,2019,2019,Some College,00,704584144,50753,2012,Male,Rhode Island,13882.61
+676,676,2020,2020,Advanced Degree,00,1304260737,55317,2012,Male,Rhode Island,23577.94
+677,677,2021,2021,Unavalble,00,99779919,24402,2012,Male,Rhode Island,4089.01
+678,678,2022,2022,All Education Categories,00,2097230536,226502,2012,Female,Rhode Island,9259.21
+679,679,2023,2023,Less Than High School,00,108661718,17769,2012,Female,Rhode Island,6115.24
+680,680,2024,2024,High School Graduate,00,380274447,50128,2012,Female,Rhode Island,7586.07
+681,681,2025,2025,Some College,00,611488951,64890,2012,Female,Rhode Island,9423.47
+682,682,2026,2026,Advanced Degree,00,896083729,63563,2012,Female,Rhode Island,14097.57
+683,683,2027,2027,Unavalble,00,100721690,30152,2012,Female,Rhode Island,3340.46
+684,684,2076,2076,All Education Categories,Manufacturing,396899118,26296,2012,Male,Rhode Island,15093.52
+685,685,2077,2077,Less Than High School,Manufacturing,36539586,3641,2012,Male,Rhode Island,10035.59
+686,686,2078,2078,High School Graduate,Manufacturing,102012837,7866,2012,Male,Rhode Island,12968.83
+687,687,2079,2079,Some College,Manufacturing,119938045,7787,2012,Male,Rhode Island,15402.34
+688,688,2080,2080,Advanced Degree,Manufacturing,129580150,5720,2012,Male,Rhode Island,22653.87
+689,689,2081,2081,Unavalble,Manufacturing,8828500,1283,2012,Male,Rhode Island,6881.14
+690,690,2082,2082,All Education Categories,Manufacturing,119957318,12843,2012,Female,Rhode Island,9340.29
+691,691,2083,2083,Less Than High School,Manufacturing,12779980,2135,2012,Female,Rhode Island,5985.94
+692,692,2084,2084,High School Graduate,Manufacturing,30688755,3807,2012,Female,Rhode Island,8061.14
+693,693,2085,2085,Some College,Manufacturing,35653212,3690,2012,Female,Rhode Island,9662.12
+694,694,2086,2086,Advanced Degree,Manufacturing,37421308,2464,2012,Female,Rhode Island,15187.22
+695,695,2087,2087,Unavalble,Manufacturing,3414063,747,2012,Female,Rhode Island,4570.37
+696,696,2100,2100,All Education Categories,Retail Trade,179561914,22836,2012,Male,Rhode Island,7863.11
+697,697,2101,2101,Less Than High School,Retail Trade,17296308,2392,2012,Male,Rhode Island,7230.9
+698,698,2102,2102,High School Graduate,Retail Trade,50760949,5790,2012,Male,Rhode Island,8767.0
+699,699,2103,2103,Some College,Retail Trade,51189902,5302,2012,Male,Rhode Island,9654.83
+700,700,2104,2104,Advanced Degree,Retail Trade,40945222,3379,2012,Male,Rhode Island,12117.56
+701,701,2105,2105,Unavalble,Retail Trade,19369533,5973,2012,Male,Rhode Island,3242.85
+702,702,2106,2106,All Education Categories,Retail Trade,113701464,22666,2012,Female,Rhode Island,5016.39
+703,703,2107,2107,Less Than High School,Retail Trade,9168288,1921,2012,Female,Rhode Island,4772.66
+704,704,2108,2108,High School Graduate,Retail Trade,30341911,5570,2012,Female,Rhode Island,5447.38
+705,705,2109,2109,Some College,Retail Trade,32159359,5215,2012,Female,Rhode Island,6166.7
+706,706,2110,2110,Advanced Degree,Retail Trade,24716119,3148,2012,Female,Rhode Island,7851.37
+707,707,2111,2111,Unavalble,Retail Trade,17315787,6812,2012,Female,Rhode Island,2541.95
+708,708,2136,2136,All Education Categories,Finance and Insurance,297715765,8896,2012,Male,Rhode Island,33466.25
+709,709,2137,2137,Less Than High School,Finance and Insurance,6581881,409,2012,Male,Rhode Island,16092.62
+710,710,2138,2138,High School Graduate,Finance and Insurance,24822688,1226,2012,Male,Rhode Island,20246.89
+711,711,2139,2139,Some College,Finance and Insurance,50973761,1998,2012,Male,Rhode Island,25512.39
+712,712,2140,2140,Advanced Degree,Finance and Insurance,211620755,4860,2012,Male,Rhode Island,43543.37
+713,713,2141,2141,Unavalble,Finance and Insurance,3716681,404,2012,Male,Rhode Island,9199.71
+714,714,2142,2142,All Education Categories,Finance and Insurance,220149251,13579,2012,Female,Rhode Island,16212.48
+715,715,2143,2143,Less Than High School,Finance and Insurance,5702988,542,2012,Female,Rhode Island,10522.12
+716,716,2144,2144,High School Graduate,Finance and Insurance,28455467,2490,2012,Female,Rhode Island,11427.9
+717,717,2145,2145,Some College,Finance and Insurance,54237728,3942,2012,Female,Rhode Island,13758.94
+718,718,2146,2146,Advanced Degree,Finance and Insurance,126881570,5909,2012,Female,Rhode Island,21472.6
+719,719,2147,2147,Unavalble,Finance and Insurance,4871497,696,2012,Female,Rhode Island,6999.28
+720,720,2196,2196,All Education Categories,Educational Services,224127447,16705,2012,Male,Rhode Island,13416.79
+721,721,2197,2197,Less Than High School,Educational Services,9147548,928,2012,Male,Rhode Island,9857.27
+722,722,2198,2198,High School Graduate,Educational Services,36005990,3016,2012,Male,Rhode Island,11938.33
+723,723,2199,2199,Some College,Educational Services,55930805,4086,2012,Male,Rhode Island,13688.4
+724,724,2200,2200,Advanced Degree,Educational Services,118740942,6989,2012,Male,Rhode Island,16989.69
+725,725,2201,2201,Unavalble,Educational Services,4302163,1687,2012,Male,Rhode Island,2550.19
+726,726,2202,2202,All Education Categories,Educational Services,342488228,30700,2012,Female,Rhode Island,11155.97
+727,727,2203,2203,Less Than High School,Educational Services,9917995,1317,2012,Female,Rhode Island,7530.75
+728,728,2204,2204,High School Graduate,Educational Services,49900556,5552,2012,Female,Rhode Island,8987.85
+729,729,2205,2205,Some College,Educational Services,90393022,8289,2012,Female,Rhode Island,10905.18
+730,730,2206,2206,Advanced Degree,Educational Services,186091837,12968,2012,Female,Rhode Island,14350.08
+731,731,2207,2207,Unavalble,Educational Services,6184818,2575,2012,Female,Rhode Island,2401.87
+732,732,2208,2208,All Education Categories,Health Care and Social Assistance,233421395,16576,2012,Male,Rhode Island,14081.89
+733,733,2209,2209,Less Than High School,Health Care and Social Assistance,12300747,1462,2012,Male,Rhode Island,8413.64
+734,734,2210,2210,High School Graduate,Health Care and Social Assistance,35194593,3397,2012,Male,Rhode Island,10360.49
+735,735,2211,2211,Some College,Health Care and Social Assistance,56471849,4400,2012,Male,Rhode Island,12834.51
+736,736,2212,2212,Advanced Degree,Health Care and Social Assistance,122277792,5599,2012,Male,Rhode Island,21839.22
+737,737,2213,2213,Unavalble,Health Care and Social Assistance,7176414,1717,2012,Male,Rhode Island,4179.62
+738,738,2214,2214,All Education Categories,Health Care and Social Assistance,559223579,60844,2012,Female,Rhode Island,9191.1
+739,739,2215,2215,Less Than High School,Health Care and Social Assistance,29965401,4479,2012,Female,Rhode Island,6690.2
+740,740,2216,2216,High School Graduate,Health Care and Social Assistance,103893560,13366,2012,Female,Rhode Island,7772.97
+741,741,2217,2217,Some College,Health Care and Social Assistance,192607175,20684,2012,Female,Rhode Island,9311.89
+742,742,2218,2218,Advanced Degree,Health Care and Social Assistance,208394556,16916,2012,Female,Rhode Island,12319.38
+743,743,2219,2219,Unavalble,Health Care and Social Assistance,24362887,5399,2012,Female,Rhode Island,4512.48
+744,744,2232,2232,All Education Categories,Accommodation and Food Services,79943714,17266,2012,Male,Rhode Island,4630.12
+745,745,2233,2233,Less Than High School,Accommodation and Food Services,11653982,2342,2012,Male,Rhode Island,4976.08
+746,746,2234,2234,High School Graduate,Accommodation and Food Services,20765562,3746,2012,Male,Rhode Island,5543.4
+747,747,2235,2235,Some College,Accommodation and Food Services,18893239,3209,2012,Male,Rhode Island,5887.58
+748,748,2236,2236,Advanced Degree,Accommodation and Food Services,12376189,1924,2012,Male,Rhode Island,6432.53
+749,749,2237,2237,Unavalble,Accommodation and Food Services,16254741,6045,2012,Male,Rhode Island,2688.96
+750,750,2238,2238,All Education Categories,Accommodation and Food Services,78609380,22383,2012,Female,Rhode Island,3512.01
+751,751,2239,2239,Less Than High School,Accommodation and Food Services,8924913,2398,2012,Female,Rhode Island,3721.82
+752,752,2240,2240,High School Graduate,Accommodation and Food Services,18643398,4752,2012,Female,Rhode Island,3923.27
+753,753,2241,2241,Some College,Accommodation and Food Services,18313611,4349,2012,Female,Rhode Island,4210.99
+754,754,2242,2242,Advanced Degree,Accommodation and Food Services,11516451,2471,2012,Female,Rhode Island,4660.64
+755,755,2243,2243,Unavalble,Accommodation and Food Services,21211007,8414,2012,Female,Rhode Island,2520.92
+756,756,5004,5004,All Education Categories,"Colleges, Universities, and Professional Schools",84808296,6837,2004,Male,Rhode Island,12404.31
+757,757,5005,5005,Less Than High School,"Colleges, Universities, and Professional Schools",1953748,208,2004,Male,Rhode Island,9393.02
+758,758,5006,5006,High School Graduate,"Colleges, Universities, and Professional Schools",10135905,909,2004,Male,Rhode Island,11150.61
+759,759,5007,5007,Some College,"Colleges, Universities, and Professional Schools",18143973,1444,2004,Male,Rhode Island,12565.08
+760,760,5008,5008,Advanced Degree,"Colleges, Universities, and Professional Schools",52756795,3308,2004,Male,Rhode Island,15948.25
+761,761,5009,5009,Unavalble,"Colleges, Universities, and Professional Schools",1817875,967,2004,Male,Rhode Island,1879.91
+762,762,5010,5010,All Education Categories,"Colleges, Universities, and Professional Schools",71062567,7424,2004,Female,Rhode Island,9572.01
+763,763,5011,5011,Less Than High School,"Colleges, Universities, and Professional Schools",1186171,155,2004,Female,Rhode Island,7652.72
+764,764,5012,5012,High School Graduate,"Colleges, Universities, and Professional Schools",9195321,1042,2004,Female,Rhode Island,8824.68
+765,765,5013,5013,Some College,"Colleges, Universities, and Professional Schools",17747948,1738,2004,Female,Rhode Island,10211.71
+766,766,5014,5014,Advanced Degree,"Colleges, Universities, and Professional Schools",40842359,3130,2004,Female,Rhode Island,13048.68
+767,767,5015,5015,Unavalble,"Colleges, Universities, and Professional Schools",2090768,1359,2004,Female,Rhode Island,1538.46
+768,768,8436,8436,All Education Categories,"Colleges, Universities, and Professional Schools",81839810,7263,2005,Male,Rhode Island,11268.04
+769,769,8437,8437,Less Than High School,"Colleges, Universities, and Professional Schools",1902632,234,2005,Male,Rhode Island,8130.91
+770,770,8438,8438,High School Graduate,"Colleges, Universities, and Professional Schools",9608812,968,2005,Male,Rhode Island,9926.46
+771,771,8439,8439,Some College,"Colleges, Universities, and Professional Schools",17294986,1543,2005,Male,Rhode Island,11208.68
+772,772,8440,8440,Advanced Degree,"Colleges, Universities, and Professional Schools",51199719,3505,2005,Male,Rhode Island,14607.62
+773,773,8441,8441,Unavalble,"Colleges, Universities, and Professional Schools",1833662,1012,2005,Male,Rhode Island,1811.92
+774,774,8442,8442,All Education Categories,"Colleges, Universities, and Professional Schools",68387535,7883,2005,Female,Rhode Island,8675.32
+775,775,8443,8443,Less Than High School,"Colleges, Universities, and Professional Schools",1191160,187,2005,Female,Rhode Island,6369.84
+776,776,8444,8444,High School Graduate,"Colleges, Universities, and Professional Schools",8741837,1128,2005,Female,Rhode Island,7749.86
+777,777,8445,8445,Some College,"Colleges, Universities, and Professional Schools",16958688,1887,2005,Female,Rhode Island,8987.12
+778,778,8446,8446,Advanced Degree,"Colleges, Universities, and Professional Schools",39503328,3376,2005,Female,Rhode Island,11701.22
+779,779,8447,8447,Unavalble,"Colleges, Universities, and Professional Schools",1992522,1305,2005,Female,Rhode Island,1526.84
+780,780,11868,11868,All Education Categories,"Colleges, Universities, and Professional Schools",87431773,7326,2006,Male,Rhode Island,11934.45
+781,781,11869,11869,Less Than High School,"Colleges, Universities, and Professional Schools",2047530,236,2006,Male,Rhode Island,8675.97
+782,782,11870,11870,High School Graduate,"Colleges, Universities, and Professional Schools",10417835,985,2006,Male,Rhode Island,10576.48
+783,783,11871,11871,Some College,"Colleges, Universities, and Professional Schools",18638547,1560,2006,Male,Rhode Island,11947.79
+784,784,11872,11872,Advanced Degree,"Colleges, Universities, and Professional Schools",53996006,3487,2006,Male,Rhode Island,15484.95
+785,785,11873,11873,Unavalble,"Colleges, Universities, and Professional Schools",2331854,1057,2006,Male,Rhode Island,2206.11
+786,786,11874,11874,All Education Categories,"Colleges, Universities, and Professional Schools",74914374,8085,2006,Female,Rhode Island,9265.85
+787,787,11875,11875,Less Than High School,"Colleges, Universities, and Professional Schools",1357724,199,2006,Female,Rhode Island,6822.73
+788,788,11876,11876,High School Graduate,"Colleges, Universities, and Professional Schools",9587950,1152,2006,Female,Rhode Island,8322.87
+789,789,11877,11877,Some College,"Colleges, Universities, and Professional Schools",18724256,1931,2006,Female,Rhode Island,9696.66
+790,790,11878,11878,Advanced Degree,"Colleges, Universities, and Professional Schools",42897968,3436,2006,Female,Rhode Island,12484.86
+791,791,11879,11879,Unavalble,"Colleges, Universities, and Professional Schools",2346476,1367,2006,Female,Rhode Island,1716.51
+792,792,15324,15324,All Education Categories,"Colleges, Universities, and Professional Schools",92650005,7689,2007,Male,Rhode Island,12049.68
+793,793,15325,15325,Less Than High School,"Colleges, Universities, and Professional Schools",2208239,259,2007,Male,Rhode Island,8526.02
+794,794,15326,15326,High School Graduate,"Colleges, Universities, and Professional Schools",11095252,1041,2007,Male,Rhode Island,10658.26
+795,795,15327,15327,Some College,"Colleges, Universities, and Professional Schools",19982692,1650,2007,Male,Rhode Island,12110.72
+796,796,15328,15328,Advanced Degree,"Colleges, Universities, and Professional Schools",57035237,3648,2007,Male,Rhode Island,15634.66
+797,797,15329,15329,Unavalble,"Colleges, Universities, and Professional Schools",2328585,1091,2007,Male,Rhode Island,2134.36
+798,798,15330,15330,All Education Categories,"Colleges, Universities, and Professional Schools",80028564,8420,2007,Female,Rhode Island,9504.58
+799,799,15331,15331,Less Than High School,"Colleges, Universities, and Professional Schools",1546739,223,2007,Female,Rhode Island,6936.05
+800,800,15332,15332,High School Graduate,"Colleges, Universities, and Professional Schools",10198691,1213,2007,Female,Rhode Island,8407.82
+801,801,15333,15333,Some College,"Colleges, Universities, and Professional Schools",19982834,2037,2007,Female,Rhode Island,9809.93
+802,802,15334,15334,Advanced Degree,"Colleges, Universities, and Professional Schools",45811925,3598,2007,Female,Rhode Island,12732.61
+803,803,15335,15335,Unavalble,"Colleges, Universities, and Professional Schools",2488375,1349,2007,Female,Rhode Island,1844.61
+804,804,18792,18792,All Education Categories,"Colleges, Universities, and Professional Schools",97007338,7669,2008,Male,Rhode Island,12649.28
+805,805,18793,18793,Less Than High School,"Colleges, Universities, and Professional Schools",2497007,281,2008,Male,Rhode Island,8886.15
+806,806,18794,18794,High School Graduate,"Colleges, Universities, and Professional Schools",11765136,1060,2008,Male,Rhode Island,11099.18
+807,807,18795,18795,Some College,"Colleges, Universities, and Professional Schools",21036753,1663,2008,Male,Rhode Island,12649.88
+808,808,18796,18796,Advanced Degree,"Colleges, Universities, and Professional Schools",59353575,3583,2008,Male,Rhode Island,16565.33
+809,809,18797,18797,Unavalble,"Colleges, Universities, and Professional Schools",2354867,1081,2008,Male,Rhode Island,2178.42
+810,810,18798,18798,All Education Categories,"Colleges, Universities, and Professional Schools",84673121,8384,2008,Female,Rhode Island,10099.37
+811,811,18799,18799,Less Than High School,"Colleges, Universities, and Professional Schools",1703517,231,2008,Female,Rhode Island,7374.53
+812,812,18800,18800,High School Graduate,"Colleges, Universities, and Professional Schools",11036034,1229,2008,Female,Rhode Island,8979.69
+813,813,18801,18801,Some College,"Colleges, Universities, and Professional Schools",21386188,2042,2008,Female,Rhode Island,10473.16
+814,814,18802,18802,Advanced Degree,"Colleges, Universities, and Professional Schools",48153264,3595,2008,Female,Rhode Island,13394.51
+815,815,18803,18803,Unavalble,"Colleges, Universities, and Professional Schools",2394117,1288,2008,Female,Rhode Island,1858.79
+816,816,22272,22272,All Education Categories,"Colleges, Universities, and Professional Schools",97903371,7542,2009,Male,Rhode Island,12981.09
+817,817,22273,22273,Less Than High School,"Colleges, Universities, and Professional Schools",2713975,294,2009,Male,Rhode Island,9231.21
+818,818,22274,22274,High School Graduate,"Colleges, Universities, and Professional Schools",12111684,1073,2009,Male,Rhode Island,11287.68
+819,819,22275,22275,Some College,"Colleges, Universities, and Professional Schools",21381914,1654,2009,Male,Rhode Island,12927.4
+820,820,22276,22276,Advanced Degree,"Colleges, Universities, and Professional Schools",59508802,3472,2009,Male,Rhode Island,17139.63
+821,821,22277,22277,Unavalble,"Colleges, Universities, and Professional Schools",2186996,1048,2009,Male,Rhode Island,2086.83
+822,822,22278,22278,All Education Categories,"Colleges, Universities, and Professional Schools",86681029,8415,2009,Female,Rhode Island,10300.78
+823,823,22279,22279,Less Than High School,"Colleges, Universities, and Professional Schools",1927982,249,2009,Female,Rhode Island,7742.9
+824,824,22280,22280,High School Graduate,"Colleges, Universities, and Professional Schools",11478953,1234,2009,Female,Rhode Island,9302.23
+825,825,22281,22281,Some College,"Colleges, Universities, and Professional Schools",21971680,2040,2009,Female,Rhode Island,10770.43
+826,826,22282,22282,Advanced Degree,"Colleges, Universities, and Professional Schools",48739888,3545,2009,Female,Rhode Island,13748.91
+827,827,22283,22283,Unavalble,"Colleges, Universities, and Professional Schools",2562526,1346,2009,Female,Rhode Island,1903.81
+828,828,25728,25728,All Education Categories,"Colleges, Universities, and Professional Schools",96227541,7576,2010,Male,Rhode Island,12701.63
+829,829,25729,25729,Less Than High School,"Colleges, Universities, and Professional Schools",2971832,320,2010,Male,Rhode Island,9286.98
+830,830,25730,25730,High School Graduate,"Colleges, Universities, and Professional Schools",12382501,1112,2010,Male,Rhode Island,11135.34
+831,831,25731,25731,Some College,"Colleges, Universities, and Professional Schools",21319046,1676,2010,Male,Rhode Island,12720.19
+832,832,25732,25732,Advanced Degree,"Colleges, Universities, and Professional Schools",57407873,3461,2010,Male,Rhode Island,16587.08
+833,833,25733,25733,Unavalble,"Colleges, Universities, and Professional Schools",2146290,1006,2010,Male,Rhode Island,2133.49
+834,834,25734,25734,All Education Categories,"Colleges, Universities, and Professional Schools",87107854,8612,2010,Female,Rhode Island,10114.71
+835,835,25735,25735,Less Than High School,"Colleges, Universities, and Professional Schools",2193349,285,2010,Female,Rhode Island,7695.96
+836,836,25736,25736,High School Graduate,"Colleges, Universities, and Professional Schools",11900763,1300,2010,Female,Rhode Island,9154.43
+837,837,25737,25737,Some College,"Colleges, Universities, and Professional Schools",22299484,2107,2010,Female,Rhode Island,10583.52
+838,838,25738,25738,Advanced Degree,"Colleges, Universities, and Professional Schools",48324286,3575,2010,Female,Rhode Island,13517.28
+839,839,25739,25739,Unavalble,"Colleges, Universities, and Professional Schools",2389971,1346,2010,Female,Rhode Island,1775.61
+840,840,29184,29184,All Education Categories,"Colleges, Universities, and Professional Schools",99509873,7594,2011,Male,Rhode Island,13103.75
+841,841,29185,29185,Less Than High School,"Colleges, Universities, and Professional Schools",3326030,346,2011,Male,Rhode Island,9612.8
+842,842,29186,29186,High School Graduate,"Colleges, Universities, and Professional Schools",13301996,1152,2011,Male,Rhode Island,11546.87
+843,843,29187,29187,Some College,"Colleges, Universities, and Professional Schools",22243488,1702,2011,Male,Rhode Island,13069.03
+844,844,29188,29188,Advanced Degree,"Colleges, Universities, and Professional Schools",58187892,3432,2011,Male,Rhode Island,16954.51
+845,845,29189,29189,Unavalble,"Colleges, Universities, and Professional Schools",2450467,961,2011,Male,Rhode Island,2549.91
+846,846,29190,29190,All Education Categories,"Colleges, Universities, and Professional Schools",89947115,8647,2011,Female,Rhode Island,10402.12
+847,847,29191,29191,Less Than High School,"Colleges, Universities, and Professional Schools",2454801,313,2011,Female,Rhode Island,7842.81
+848,848,29192,29192,High School Graduate,"Colleges, Universities, and Professional Schools",12549900,1339,2011,Female,Rhode Island,9372.59
+849,849,29193,29193,Some College,"Colleges, Universities, and Professional Schools",23104164,2140,2011,Female,Rhode Island,10796.34
+850,850,29194,29194,Advanced Degree,"Colleges, Universities, and Professional Schools",49191904,3576,2011,Female,Rhode Island,13756.13
+851,851,29195,29195,Unavalble,"Colleges, Universities, and Professional Schools",2646346,1279,2011,Female,Rhode Island,2069.07
+852,852,32640,32640,All Education Categories,"Colleges, Universities, and Professional Schools",100797434,7536,2012,Male,Rhode Island,13375.46
+853,853,32641,32641,Less Than High School,"Colleges, Universities, and Professional Schools",3612742,356,2012,Male,Rhode Island,10148.15
+854,854,32642,32642,High School Graduate,"Colleges, Universities, and Professional Schools",13799531,1127,2012,Male,Rhode Island,12244.48
+855,855,32643,32643,Some College,"Colleges, Universities, and Professional Schools",22457761,1615,2012,Male,Rhode Island,13905.73
+856,856,32644,32644,Advanced Degree,"Colleges, Universities, and Professional Schools",58493670,3188,2012,Male,Rhode Island,18348.08
+857,857,32645,32645,Unavalble,"Colleges, Universities, and Professional Schools",2433732,1250,2012,Male,Rhode Island,1946.99
+858,858,32646,32646,All Education Categories,"Colleges, Universities, and Professional Schools",90483878,8679,2012,Female,Rhode Island,10425.61
+859,859,32647,32647,Less Than High School,"Colleges, Universities, and Professional Schools",2804747,324,2012,Female,Rhode Island,8656.63
+860,860,32648,32648,High School Graduate,"Colleges, Universities, and Professional Schools",12899687,1275,2012,Female,Rhode Island,10117.4
+861,861,32649,32649,Some College,"Colleges, Universities, and Professional Schools",23662334,2042,2012,Female,Rhode Island,11587.82
+862,862,32650,32650,Advanced Degree,"Colleges, Universities, and Professional Schools",48549791,3300,2012,Female,Rhode Island,14712.06
+863,863,32651,32651,Unavalble,"Colleges, Universities, and Professional Schools",2567319,1738,2012,Female,Rhode Island,1477.17
+864,864,34236,34236,All Education Categories,Educational Services,250882297,21150,2004,Male,Rhode Island,11862.05
+865,865,34237,34237,Less Than High School,Educational Services,6729986,829,2004,Male,Rhode Island,8118.2
+866,866,34238,34238,High School Graduate,Educational Services,35109480,3482,2004,Male,Rhode Island,10083.14
+867,867,34239,34239,Some College,Educational Services,61074325,5212,2004,Male,Rhode Island,11718.02
+868,868,34240,34240,Advanced Degree,Educational Services,143161503,10009,2004,Male,Rhode Island,14303.28
+869,869,34241,34241,Unavalble,Educational Services,4807004,1618,2004,Male,Rhode Island,2970.95
+870,870,34242,34242,All Education Categories,Educational Services,312058564,32986,2004,Female,Rhode Island,9460.33
+871,871,34243,34243,Less Than High School,Educational Services,5192448,991,2004,Female,Rhode Island,5239.6
+872,872,34244,34244,High School Graduate,Educational Services,40275177,5901,2004,Female,Rhode Island,6825.14
+873,873,34245,34245,Some College,Educational Services,75096567,8588,2004,Female,Rhode Island,8744.36
+874,874,34246,34246,Advanced Degree,Educational Services,184105271,14928,2004,Female,Rhode Island,12332.88
+875,875,34247,34247,Unavalble,Educational Services,7389101,2578,2004,Female,Rhode Island,2866.21
+876,876,34332,34332,All Education Categories,Accommodation,7899013,1453,2004,Male,Rhode Island,5436.35
+877,877,34333,34333,Less Than High School,Accommodation,1097672,234,2004,Male,Rhode Island,4690.91
+878,878,34334,34334,High School Graduate,Accommodation,2126396,379,2004,Male,Rhode Island,5610.54
+879,879,34335,34335,Some College,Accommodation,1963154,309,2004,Male,Rhode Island,6353.25
+880,880,34336,34336,Advanced Degree,Accommodation,1620256,191,2004,Male,Rhode Island,8483.02
+881,881,34337,34337,Unavalble,Accommodation,1091535,339,2004,Male,Rhode Island,3219.87
+882,882,34338,34338,All Education Categories,Accommodation,7616719,1752,2004,Female,Rhode Island,4347.44
+883,883,34339,34339,Less Than High School,Accommodation,958265,269,2004,Female,Rhode Island,3562.32
+884,884,34340,34340,High School Graduate,Accommodation,1958852,480,2004,Female,Rhode Island,4080.94
+885,885,34341,34341,Some College,Accommodation,2125047,422,2004,Female,Rhode Island,5035.66
+886,886,34342,34342,Advanced Degree,Accommodation,1472014,222,2004,Female,Rhode Island,6630.69
+887,887,34343,34343,Unavalble,Accommodation,1102540,360,2004,Female,Rhode Island,3062.61
+888,888,35376,35376,All Education Categories,Educational Services,246562292,21156,2005,Male,Rhode Island,11654.49
+889,889,35377,35377,Less Than High School,Educational Services,6748154,844,2005,Male,Rhode Island,7995.44
+890,890,35378,35378,High School Graduate,Educational Services,34953479,3509,2005,Male,Rhode Island,9961.09
+891,891,35379,35379,Some College,Educational Services,60348201,5242,2005,Male,Rhode Island,11512.44
+892,892,35380,35380,Advanced Degree,Educational Services,139774013,9915,2005,Male,Rhode Island,14097.23
+893,893,35381,35381,Unavalble,Educational Services,4738445,1646,2005,Male,Rhode Island,2878.76
+894,894,35382,35382,All Education Categories,Educational Services,309171498,32224,2005,Female,Rhode Island,9594.45
+895,895,35383,35383,Less Than High School,Educational Services,5351846,997,2005,Female,Rhode Island,5367.95
+896,896,35384,35384,High School Graduate,Educational Services,40064824,5798,2005,Female,Rhode Island,6910.11
+897,897,35385,35385,Some College,Educational Services,75377365,8554,2005,Female,Rhode Island,8811.94
+898,898,35386,35386,Advanced Degree,Educational Services,181274602,14389,2005,Female,Rhode Island,12598.14
+899,899,35387,35387,Unavalble,Educational Services,7102861,2486,2005,Female,Rhode Island,2857.14
+900,900,35472,35472,All Education Categories,Accommodation,7806074,1364,2005,Male,Rhode Island,5722.93
+901,901,35473,35473,Less Than High School,Accommodation,1052175,219,2005,Male,Rhode Island,4804.45
+902,902,35474,35474,High School Graduate,Accommodation,2076136,356,2005,Male,Rhode Island,5831.84
+903,903,35475,35475,Some College,Accommodation,1938298,287,2005,Male,Rhode Island,6753.65
+904,904,35476,35476,Advanced Degree,Accommodation,1670030,176,2005,Male,Rhode Island,9488.81
+905,905,35477,35477,Unavalble,Accommodation,1069435,326,2005,Male,Rhode Island,3280.48
+906,906,35478,35478,All Education Categories,Accommodation,7672496,1793,2005,Female,Rhode Island,4279.14
+907,907,35479,35479,Less Than High School,Accommodation,963663,277,2005,Female,Rhode Island,3478.93
+908,908,35480,35480,High School Graduate,Accommodation,1990625,486,2005,Female,Rhode Island,4095.94
+909,909,35481,35481,Some College,Accommodation,2102932,428,2005,Female,Rhode Island,4913.39
+910,910,35482,35482,Advanced Degree,Accommodation,1475996,227,2005,Female,Rhode Island,6502.19
+911,911,35483,35483,Unavalble,Accommodation,1139280,375,2005,Female,Rhode Island,3038.08
+912,912,36528,36528,All Education Categories,Educational Services,265010826,21487,2006,Male,Rhode Island,12333.54
+913,913,36529,36529,Less Than High School,Educational Services,7488312,870,2006,Male,Rhode Island,8607.26
+914,914,36530,36530,High School Graduate,Educational Services,37816946,3568,2006,Male,Rhode Island,10598.92
+915,915,36531,36531,Some College,Educational Services,65081332,5339,2006,Male,Rhode Island,12189.8
+916,916,36532,36532,Advanced Degree,Educational Services,149127932,10004,2006,Male,Rhode Island,14906.83
+917,917,36533,36533,Unavalble,Educational Services,5496305,1705,2006,Male,Rhode Island,3223.64
+918,918,36534,36534,All Education Categories,Educational Services,333567660,33475,2006,Female,Rhode Island,9964.68
+919,919,36535,36535,Less Than High School,Educational Services,6100242,1039,2006,Female,Rhode Island,5871.26
+920,920,36536,36536,High School Graduate,Educational Services,43291773,5964,2006,Female,Rhode Island,7258.85
+921,921,36537,36537,Some College,Educational Services,81966634,8882,2006,Female,Rhode Island,9228.4
+922,922,36538,36538,Advanced Degree,Educational Services,195313565,15175,2006,Female,Rhode Island,12870.75
+923,923,36539,36539,Unavalble,Educational Services,6895446,2415,2006,Female,Rhode Island,2855.26
+924,924,36624,36624,All Education Categories,Accommodation,8267851,1362,2006,Male,Rhode Island,6070.38
+925,925,36625,36625,Less Than High School,Accommodation,1217193,229,2006,Male,Rhode Island,5315.25
+926,926,36626,36626,High School Graduate,Accommodation,2297679,363,2006,Male,Rhode Island,6329.69
+927,927,36627,36627,Some College,Accommodation,2103069,289,2006,Male,Rhode Island,7277.06
+928,928,36628,36628,Advanced Degree,Accommodation,1610209,179,2006,Male,Rhode Island,8995.58
+929,929,36629,36629,Unavalble,Accommodation,1039702,301,2006,Male,Rhode Island,3454.16
+930,930,36630,36630,All Education Categories,Accommodation,8717491,1834,2006,Female,Rhode Island,4753.27
+931,931,36631,36631,Less Than High School,Accommodation,1121918,279,2006,Female,Rhode Island,4021.21
+932,932,36632,36632,High School Graduate,Accommodation,2212685,484,2006,Female,Rhode Island,4571.66
+933,933,36633,36633,Some College,Accommodation,2379904,443,2006,Female,Rhode Island,5372.24
+934,934,36634,36634,Advanced Degree,Accommodation,1606895,236,2006,Female,Rhode Island,6808.88
+935,935,36635,36635,Unavalble,Accommodation,1396091,393,2006,Female,Rhode Island,3552.39
+936,936,37680,37680,All Education Categories,Educational Services,279553499,22282,2007,Male,Rhode Island,12546.16
+937,937,37681,37681,Less Than High School,Educational Services,8229177,955,2007,Male,Rhode Island,8616.94
+938,938,37682,37682,High School Graduate,Educational Services,40646091,3753,2007,Male,Rhode Island,10830.29
+939,939,37683,37683,Some College,Educational Services,69617500,5570,2007,Male,Rhode Island,12498.65
+940,940,37684,37684,Advanced Degree,Educational Services,155193674,10227,2007,Male,Rhode Island,15174.9
+941,941,37685,37685,Unavalble,Educational Services,5867057,1776,2007,Male,Rhode Island,3303.52
+942,942,37686,37686,All Education Categories,Educational Services,345997953,34360,2007,Female,Rhode Island,10069.79
+943,943,37687,37687,Less Than High School,Educational Services,6696239,1113,2007,Female,Rhode Island,6016.39
+944,944,37688,37688,High School Graduate,Educational Services,45871316,6145,2007,Female,Rhode Island,7464.82
+945,945,37689,37689,Some College,Educational Services,86477940,9196,2007,Female,Rhode Island,9403.86
+946,946,37690,37690,Advanced Degree,Educational Services,200011448,15448,2007,Female,Rhode Island,12947.4
+947,947,37691,37691,Unavalble,Educational Services,6941010,2458,2007,Female,Rhode Island,2823.84
+948,948,37776,37776,All Education Categories,Accommodation,8976074,1375,2007,Male,Rhode Island,6528.05
+949,949,37777,37777,Less Than High School,Accommodation,1292750,229,2007,Male,Rhode Island,5645.2
+950,950,37778,37778,High School Graduate,Accommodation,2398351,361,2007,Male,Rhode Island,6643.63
+951,951,37779,37779,Some College,Accommodation,2193981,291,2007,Male,Rhode Island,7539.45
+952,952,37780,37780,Advanced Degree,Accommodation,1803210,175,2007,Male,Rhode Island,10304.06
+953,953,37781,37781,Unavalble,Accommodation,1287783,319,2007,Male,Rhode Island,4036.94
+954,954,37782,37782,All Education Categories,Accommodation,9642071,1819,2007,Female,Rhode Island,5300.75
+955,955,37783,37783,Less Than High School,Accommodation,1303871,294,2007,Female,Rhode Island,4434.94
+956,956,37784,37784,High School Graduate,Accommodation,2390322,478,2007,Female,Rhode Island,5000.67
+957,957,37785,37785,Some College,Accommodation,2502123,434,2007,Female,Rhode Island,5765.26
+958,958,37786,37786,Advanced Degree,Accommodation,1747601,239,2007,Female,Rhode Island,7312.14
+959,959,37787,37787,Unavalble,Accommodation,1698153,374,2007,Female,Rhode Island,4540.52
+960,960,38832,38832,All Education Categories,Educational Services,206861887,15918,2008,Male,Rhode Island,12995.47
+961,961,38833,38833,Less Than High School,Educational Services,6541504,727,2008,Male,Rhode Island,8997.94
+962,962,38834,38834,High School Graduate,Educational Services,29494919,2634,2008,Male,Rhode Island,11197.77
+963,963,38835,38835,Some College,Educational Services,49158762,3821,2008,Male,Rhode Island,12865.42
+964,964,38836,38836,Advanced Degree,Educational Services,117614468,7284,2008,Male,Rhode Island,16146.96
+965,965,38837,38837,Unavalble,Educational Services,4052234,1453,2008,Male,Rhode Island,2788.87
+966,966,38838,38838,All Education Categories,Educational Services,340612864,30218,2008,Female,Rhode Island,11271.85
+967,967,38839,38839,Less Than High School,Educational Services,6782019,1031,2008,Female,Rhode Island,6578.1
+968,968,38840,38840,High School Graduate,Educational Services,44703952,5353,2008,Female,Rhode Island,8351.2
+969,969,38841,38841,Some College,Educational Services,85141893,8099,2008,Female,Rhode Island,10512.64
+970,970,38842,38842,Advanced Degree,Educational Services,197948743,13677,2008,Female,Rhode Island,14473.11
+971,971,38843,38843,Unavalble,Educational Services,6036257,2058,2008,Female,Rhode Island,2933.07
+972,972,38928,38928,All Education Categories,Accommodation,9404204,1467,2008,Male,Rhode Island,6410.5
+973,973,38929,38929,Less Than High School,Accommodation,1421061,247,2008,Male,Rhode Island,5753.28
+974,974,38930,38930,High School Graduate,Accommodation,2447928,374,2008,Male,Rhode Island,6545.26
+975,975,38931,38931,Some College,Accommodation,2357658,311,2008,Male,Rhode Island,7580.89
+976,976,38932,38932,Advanced Degree,Accommodation,1849145,184,2008,Male,Rhode Island,10049.7
+977,977,38933,38933,Unavalble,Accommodation,1328413,351,2008,Male,Rhode Island,3784.65
+978,978,38934,38934,All Education Categories,Accommodation,9785469,1956,2008,Female,Rhode Island,5002.8
+979,979,38935,38935,Less Than High School,Accommodation,1349672,322,2008,Female,Rhode Island,4191.53
+980,980,38936,38936,High School Graduate,Accommodation,2427393,497,2008,Female,Rhode Island,4884.09
+981,981,38937,38937,Some College,Accommodation,2547703,452,2008,Female,Rhode Island,5636.51
+982,982,38938,38938,Advanced Degree,Accommodation,1844255,261,2008,Female,Rhode Island,7066.11
+983,983,38939,38939,Unavalble,Accommodation,1616446,424,2008,Female,Rhode Island,3812.37
+984,984,39984,39984,All Education Categories,Educational Services,222402386,16860,2009,Male,Rhode Island,13191.13
+985,985,39985,39985,Less Than High School,Educational Services,7313145,797,2009,Male,Rhode Island,9175.84
+986,986,39986,39986,High School Graduate,Educational Services,32536178,2875,2009,Male,Rhode Island,11316.93
+987,987,39987,39987,Some College,Educational Services,54225909,4124,2009,Male,Rhode Island,13148.86
+988,988,39988,39988,Advanced Degree,Educational Services,124037055,7603,2009,Male,Rhode Island,16314.23
+989,989,39989,39989,Unavalble,Educational Services,4290099,1461,2009,Male,Rhode Island,2936.41
+990,990,39990,39990,All Education Categories,Educational Services,345235457,31589,2009,Female,Rhode Island,10928.98
+991,991,39991,39991,Less Than High School,Educational Services,7377718,1127,2009,Female,Rhode Island,6546.33
+992,992,39992,39992,High School Graduate,Educational Services,46518508,5617,2009,Female,Rhode Island,8281.74
+993,993,39993,39993,Some College,Educational Services,87367408,8499,2009,Female,Rhode Island,10279.73
+994,994,39994,39994,Advanced Degree,Educational Services,197673886,14143,2009,Female,Rhode Island,13976.8
+995,995,39995,39995,Unavalble,Educational Services,6297938,2204,2009,Female,Rhode Island,2857.5
+996,996,40080,40080,All Education Categories,Accommodation,8409237,1436,2009,Male,Rhode Island,5856.01
+997,997,40081,40081,Less Than High School,Accommodation,1215050,248,2009,Male,Rhode Island,4899.4
+998,998,40082,40082,High School Graduate,Accommodation,2265396,371,2009,Male,Rhode Island,6106.19
+999,999,40083,40083,Some College,Accommodation,2301390,330,2009,Male,Rhode Island,6973.91
+1000,1000,40084,40084,Advanced Degree,Accommodation,1661917,186,2009,Male,Rhode Island,8935.04
+1001,1001,40085,40085,Unavalble,Accommodation,965484,301,2009,Male,Rhode Island,3207.59
+1002,1002,40086,40086,All Education Categories,Accommodation,9095443,1949,2009,Female,Rhode Island,4666.72
+1003,1003,40087,40087,Less Than High School,Accommodation,1345160,327,2009,Female,Rhode Island,4113.64
+1004,1004,40088,40088,High School Graduate,Accommodation,2277498,492,2009,Female,Rhode Island,4629.06
+1005,1005,40089,40089,Some College,Accommodation,2487725,462,2009,Female,Rhode Island,5384.69
+1006,1006,40090,40090,Advanced Degree,Accommodation,1763938,269,2009,Female,Rhode Island,6557.39
+1007,1007,40091,40091,Unavalble,Accommodation,1221121,399,2009,Female,Rhode Island,3060.45
+1008,1008,41124,41124,All Education Categories,Educational Services,211319337,17044,2010,Male,Rhode Island,12398.46
+1009,1009,41125,41125,Less Than High School,Educational Services,7579251,867,2010,Male,Rhode Island,8741.93
+1010,1010,41126,41126,High School Graduate,Educational Services,31810984,3000,2010,Male,Rhode Island,10603.66
+1011,1011,41127,41127,Some College,Educational Services,51633281,4201,2010,Male,Rhode Island,12290.71
+1012,1012,41128,41128,Advanced Degree,Educational Services,116495221,7555,2010,Male,Rhode Island,15419.62
+1013,1013,41129,41129,Unavalble,Educational Services,3800600,1421,2010,Male,Rhode Island,2674.6
+1014,1014,41130,41130,All Education Categories,Educational Services,323940811,31394,2010,Female,Rhode Island,10318.56
+1015,1015,41131,41131,Less Than High School,Educational Services,7868218,1217,2010,Female,Rhode Island,6465.26
+1016,1016,41132,41132,High School Graduate,Educational Services,44968370,5663,2010,Female,Rhode Island,7940.73
+1017,1017,41133,41133,Some College,Educational Services,83424091,8509,2010,Female,Rhode Island,9804.22
+1018,1018,41134,41134,Advanced Degree,Educational Services,182051682,13802,2010,Female,Rhode Island,13190.24
+1019,1019,41135,41135,Unavalble,Educational Services,5628449,2204,2010,Female,Rhode Island,2553.74
+1020,1020,41220,41220,All Education Categories,Accommodation,8020185,1409,2010,Male,Rhode Island,5692.11
+1021,1021,41221,41221,Less Than High School,Accommodation,1162188,239,2010,Male,Rhode Island,4862.71
+1022,1022,41222,41222,High School Graduate,Accommodation,2151411,362,2010,Male,Rhode Island,5943.12
+1023,1023,41223,41223,Some College,Accommodation,2217145,325,2010,Male,Rhode Island,6821.98
+1024,1024,41224,41224,Advanced Degree,Accommodation,1595077,198,2010,Male,Rhode Island,8055.94
+1025,1025,41225,41225,Unavalble,Accommodation,894365,285,2010,Male,Rhode Island,3138.12
+1026,1026,41226,41226,All Education Categories,Accommodation,8551192,1845,2010,Female,Rhode Island,4634.79
+1027,1027,41227,41227,Less Than High School,Accommodation,1267806,316,2010,Female,Rhode Island,4012.04
+1028,1028,41228,41228,High School Graduate,Accommodation,2207000,478,2010,Female,Rhode Island,4617.15
+1029,1029,41229,41229,Some College,Accommodation,2342758,452,2010,Female,Rhode Island,5183.09
+1030,1030,41230,41230,Advanced Degree,Accommodation,1599730,257,2010,Female,Rhode Island,6224.63
+1031,1031,41231,41231,Unavalble,Accommodation,1133899,341,2010,Female,Rhode Island,3325.22
+1032,1032,42276,42276,All Education Categories,Educational Services,220971689,16761,2011,Male,Rhode Island,13183.68
+1033,1033,42277,42277,Less Than High School,Educational Services,8427906,888,2011,Male,Rhode Island,9490.89
+1034,1034,42278,42278,High School Graduate,Educational Services,34419322,3007,2011,Male,Rhode Island,11446.4
+1035,1035,42279,42279,Some College,Educational Services,54650824,4155,2011,Male,Rhode Island,13153.03
+1036,1036,42280,42280,Advanced Degree,Educational Services,119340116,7317,2011,Male,Rhode Island,16309.98
+1037,1037,42281,42281,Unavalble,Educational Services,4133521,1394,2011,Male,Rhode Island,2965.22
+1038,1038,42282,42282,All Education Categories,Educational Services,341057781,30444,2011,Female,Rhode Island,11202.79
+1039,1039,42283,42283,Less Than High School,Educational Services,8830646,1260,2011,Female,Rhode Island,7008.45
+1040,1040,42284,42284,High School Graduate,Educational Services,47896846,5530,2011,Female,Rhode Island,8661.27
+1041,1041,42285,42285,Some College,Educational Services,88208096,8257,2011,Female,Rhode Island,10682.83
+1042,1042,42286,42286,Advanced Degree,Educational Services,190132839,13255,2011,Female,Rhode Island,14344.24
+1043,1043,42287,42287,Unavalble,Educational Services,5989354,2141,2011,Female,Rhode Island,2797.46
+1044,1044,42372,42372,All Education Categories,Accommodation,8899012,1431,2011,Male,Rhode Island,6218.74
+1045,1045,42373,42373,Less Than High School,Accommodation,1248528,234,2011,Male,Rhode Island,5335.59
+1046,1046,42374,42374,High School Graduate,Accommodation,2409643,378,2011,Male,Rhode Island,6374.72
+1047,1047,42375,42375,Some College,Accommodation,2450885,330,2011,Male,Rhode Island,7426.92
+1048,1048,42376,42376,Advanced Degree,Accommodation,1888103,205,2011,Male,Rhode Island,9210.26
+1049,1049,42377,42377,Unavalble,Accommodation,901853,283,2011,Male,Rhode Island,3186.76
+1050,1050,42378,42378,All Education Categories,Accommodation,9362840,1901,2011,Female,Rhode Island,4925.22
+1051,1051,42379,42379,Less Than High School,Accommodation,1351187,324,2011,Female,Rhode Island,4170.33
+1052,1052,42380,42380,High School Graduate,Accommodation,2409471,486,2011,Female,Rhode Island,4957.76
+1053,1053,42381,42381,Some College,Accommodation,2584348,467,2011,Female,Rhode Island,5533.94
+1054,1054,42382,42382,Advanced Degree,Accommodation,1881526,275,2011,Female,Rhode Island,6841.91
+1055,1055,42383,42383,Unavalble,Accommodation,1136307,348,2011,Female,Rhode Island,3265.25
+1056,1056,43416,43416,All Education Categories,Educational Services,224127447,16705,2012,Male,Rhode Island,13416.79
+1057,1057,43417,43417,Less Than High School,Educational Services,9147548,928,2012,Male,Rhode Island,9857.27
+1058,1058,43418,43418,High School Graduate,Educational Services,36005990,3016,2012,Male,Rhode Island,11938.33
+1059,1059,43419,43419,Some College,Educational Services,55930805,4086,2012,Male,Rhode Island,13688.4
+1060,1060,43420,43420,Advanced Degree,Educational Services,118740942,6989,2012,Male,Rhode Island,16989.69
+1061,1061,43421,43421,Unavalble,Educational Services,4302163,1687,2012,Male,Rhode Island,2550.19
+1062,1062,43422,43422,All Education Categories,Educational Services,342488228,30700,2012,Female,Rhode Island,11155.97
+1063,1063,43423,43423,Less Than High School,Educational Services,9917995,1317,2012,Female,Rhode Island,7530.75
+1064,1064,43424,43424,High School Graduate,Educational Services,49900556,5552,2012,Female,Rhode Island,8987.85
+1065,1065,43425,43425,Some College,Educational Services,90393022,8289,2012,Female,Rhode Island,10905.18
+1066,1066,43426,43426,Advanced Degree,Educational Services,186091837,12968,2012,Female,Rhode Island,14350.08
+1067,1067,43427,43427,Unavalble,Educational Services,6184818,2575,2012,Female,Rhode Island,2401.87
+1068,1068,43512,43512,All Education Categories,Accommodation,9430292,1454,2012,Male,Rhode Island,6485.76
+1069,1069,43513,43513,Less Than High School,Accommodation,1374076,244,2012,Male,Rhode Island,5631.46
+1070,1070,43514,43514,High School Graduate,Accommodation,2508259,374,2012,Male,Rhode Island,6706.57
+1071,1071,43515,43515,Some College,Accommodation,2544515,339,2012,Male,Rhode Island,7505.94
+1072,1072,43516,43516,Advanced Degree,Accommodation,1931090,210,2012,Male,Rhode Island,9195.67
+1073,1073,43517,43517,Unavalble,Accommodation,1072352,287,2012,Male,Rhode Island,3736.42
+1074,1074,43518,43518,All Education Categories,Accommodation,9945237,1950,2012,Female,Rhode Island,5100.12
+1075,1075,43519,43519,Less Than High School,Accommodation,1470203,327,2012,Female,Rhode Island,4496.03
+1076,1076,43520,43520,High School Graduate,Accommodation,2564251,504,2012,Female,Rhode Island,5087.8
+1077,1077,43521,43521,Some College,Accommodation,2762688,490,2012,Female,Rhode Island,5638.14
+1078,1078,43522,43522,Advanced Degree,Accommodation,1966860,293,2012,Female,Rhode Island,6712.83
+1079,1079,43523,43523,Unavalble,Accommodation,1181235,336,2012,Female,Rhode Island,3515.58

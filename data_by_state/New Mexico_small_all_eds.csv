@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,2904,2904,All Education Categories,"Colleges, Universities, and Professional Schools",81839538,7533,2004,Male,New Mexico,10864.14
+1,1,2905,2905,Less Than High School,"Colleges, Universities, and Professional Schools",3652276,556,2004,Male,New Mexico,6568.84
+2,2,2906,2906,High School Graduate,"Colleges, Universities, and Professional Schools",11440052,1410,2004,Male,New Mexico,8113.51
+3,3,2907,2907,Some College,"Colleges, Universities, and Professional Schools",22557717,2232,2004,Male,New Mexico,10106.5
+4,4,2908,2908,Advanced Degree,"Colleges, Universities, and Professional Schools",43222066,3049,2004,Male,New Mexico,14175.82
+5,5,2909,2909,Unavalble,"Colleges, Universities, and Professional Schools",967427,287,2004,Male,New Mexico,3370.83
+6,6,2910,2910,All Education Categories,"Colleges, Universities, and Professional Schools",71268088,8958,2004,Female,New Mexico,7955.8
+7,7,2911,2911,Less Than High School,"Colleges, Universities, and Professional Schools",2682544,512,2004,Female,New Mexico,5239.34
+8,8,2912,2912,High School Graduate,"Colleges, Universities, and Professional Schools",11260596,1764,2004,Female,New Mexico,6383.56
+9,9,2913,2913,Some College,"Colleges, Universities, and Professional Schools",22516115,3042,2004,Female,New Mexico,7401.75
+10,10,2914,2914,Advanced Degree,"Colleges, Universities, and Professional Schools",33493785,3282,2004,Female,New Mexico,10205.3
+11,11,2915,2915,Unavalble,"Colleges, Universities, and Professional Schools",1315048,358,2004,Female,New Mexico,3673.32
+12,12,6504,6504,All Education Categories,"Colleges, Universities, and Professional Schools",88643858,7420,2005,Male,New Mexico,11946.61
+13,13,6505,6505,Less Than High School,"Colleges, Universities, and Professional Schools",4022121,573,2005,Male,New Mexico,7019.41
+14,14,6506,6506,High School Graduate,"Colleges, Universities, and Professional Schools",12545869,1408,2005,Male,New Mexico,8910.42
+15,15,6507,6507,Some College,"Colleges, Universities, and Professional Schools",24646477,2225,2005,Male,New Mexico,11077.07
+16,16,6508,6508,Advanced Degree,"Colleges, Universities, and Professional Schools",46378827,2957,2005,Male,New Mexico,15684.42
+17,17,6509,6509,Unavalble,"Colleges, Universities, and Professional Schools",1050564,258,2005,Male,New Mexico,4071.95
+18,18,6510,6510,All Education Categories,"Colleges, Universities, and Professional Schools",75068777,8644,2005,Female,New Mexico,8684.5
+19,19,6511,6511,Less Than High School,"Colleges, Universities, and Professional Schools",2918734,514,2005,Female,New Mexico,5678.47
+20,20,6512,6512,High School Graduate,"Colleges, Universities, and Professional Schools",11905864,1720,2005,Female,New Mexico,6922.01
+21,21,6513,6513,Some College,"Colleges, Universities, and Professional Schools",23826412,2951,2005,Female,New Mexico,8074.01
+22,22,6514,6514,Advanced Degree,"Colleges, Universities, and Professional Schools",35070642,3161,2005,Female,New Mexico,11094.79
+23,23,6515,6515,Unavalble,"Colleges, Universities, and Professional Schools",1347124,299,2005,Female,New Mexico,4505.43
+24,24,10080,10080,All Education Categories,"Colleges, Universities, and Professional Schools",92461770,7954,2006,Male,New Mexico,11624.56
+25,25,10081,10081,Less Than High School,"Colleges, Universities, and Professional Schools",4276376,618,2006,Male,New Mexico,6919.7
+26,26,10082,10082,High School Graduate,"Colleges, Universities, and Professional Schools",13204727,1530,2006,Male,New Mexico,8630.54
+27,27,10083,10083,Some College,"Colleges, Universities, and Professional Schools",25546511,2381,2006,Male,New Mexico,10729.32
+28,28,10084,10084,Advanced Degree,"Colleges, Universities, and Professional Schools",48147041,3136,2006,Male,New Mexico,15353.01
+29,29,10085,10085,Unavalble,"Colleges, Universities, and Professional Schools",1287116,289,2006,Male,New Mexico,4453.69
+30,30,10086,10086,All Education Categories,"Colleges, Universities, and Professional Schools",78324309,9211,2006,Female,New Mexico,8503.34
+31,31,10087,10087,Less Than High School,"Colleges, Universities, and Professional Schools",3144955,573,2006,Female,New Mexico,5488.58
+32,32,10088,10088,High School Graduate,"Colleges, Universities, and Professional Schools",12507096,1837,2006,Female,New Mexico,6808.44
+33,33,10089,10089,Some College,"Colleges, Universities, and Professional Schools",24971850,3147,2006,Female,New Mexico,7935.13
+34,34,10090,10090,Advanced Degree,"Colleges, Universities, and Professional Schools",36266690,3309,2006,Female,New Mexico,10960.02
+35,35,10091,10091,Unavalble,"Colleges, Universities, and Professional Schools",1433717,345,2006,Female,New Mexico,4155.7
+36,36,13656,13656,All Education Categories,"Colleges, Universities, and Professional Schools",60528822,4966,2007,Male,New Mexico,12188.65
+37,37,13657,13657,Less Than High School,"Colleges, Universities, and Professional Schools",2756593,381,2007,Male,New Mexico,7235.15
+38,38,13658,13658,High School Graduate,"Colleges, Universities, and Professional Schools",8523113,969,2007,Male,New Mexico,8795.78
+39,39,13659,13659,Some College,"Colleges, Universities, and Professional Schools",16565563,1487,2007,Male,New Mexico,11140.26
+40,40,13660,13660,Advanced Degree,"Colleges, Universities, and Professional Schools",31456728,1973,2007,Male,New Mexico,15943.6
+41,41,13661,13661,Unavalble,"Colleges, Universities, and Professional Schools",1226824,156,2007,Male,New Mexico,7864.26
+42,42,13662,13662,All Education Categories,"Colleges, Universities, and Professional Schools",55517611,6025,2007,Female,New Mexico,9214.54
+43,43,13663,13663,Less Than High School,"Colleges, Universities, and Professional Schools",2120209,356,2007,Female,New Mexico,5955.64
+44,44,13664,13664,High School Graduate,"Colleges, Universities, and Professional Schools",8546766,1176,2007,Female,New Mexico,7267.66
+45,45,13665,13665,Some College,"Colleges, Universities, and Professional Schools",17529809,2048,2007,Female,New Mexico,8559.48
+46,46,13666,13666,Advanced Degree,"Colleges, Universities, and Professional Schools",26209231,2242,2007,Female,New Mexico,11690.11
+47,47,13667,13667,Unavalble,"Colleges, Universities, and Professional Schools",1111595,203,2007,Female,New Mexico,5475.84
+48,48,17244,17244,All Education Categories,"Colleges, Universities, and Professional Schools",99601214,7310,2008,Male,New Mexico,13625.34
+49,49,17245,17245,Less Than High School,"Colleges, Universities, and Professional Schools",5048071,599,2008,Male,New Mexico,8427.5
+50,50,17246,17246,High School Graduate,"Colleges, Universities, and Professional Schools",14992542,1425,2008,Male,New Mexico,10521.08
+51,51,17247,17247,Some College,"Colleges, Universities, and Professional Schools",27683608,2195,2008,Male,New Mexico,12612.12
+52,52,17248,17248,Advanced Degree,"Colleges, Universities, and Professional Schools",50803023,2844,2008,Male,New Mexico,17863.23
+53,53,17249,17249,Unavalble,"Colleges, Universities, and Professional Schools",1073969,247,2008,Male,New Mexico,4348.05
+54,54,17250,17250,All Education Categories,"Colleges, Universities, and Professional Schools",91653221,9048,2008,Female,New Mexico,10129.67
+55,55,17251,17251,Less Than High School,"Colleges, Universities, and Professional Schools",4161572,625,2008,Female,New Mexico,6658.52
+56,56,17252,17252,High School Graduate,"Colleges, Universities, and Professional Schools",15017768,1829,2008,Female,New Mexico,8210.92
+57,57,17253,17253,Some College,"Colleges, Universities, and Professional Schools",29629802,3101,2008,Female,New Mexico,9554.92
+58,58,17254,17254,Advanced Degree,"Colleges, Universities, and Professional Schools",41472698,3191,2008,Female,New Mexico,12996.77
+59,59,17255,17255,Unavalble,"Colleges, Universities, and Professional Schools",1371382,303,2008,Female,New Mexico,4526.01
+60,60,20808,20808,All Education Categories,"Colleges, Universities, and Professional Schools",102604111,7022,2009,Male,New Mexico,14611.81
+61,61,20809,20809,Less Than High School,"Colleges, Universities, and Professional Schools",5549441,590,2009,Male,New Mexico,9405.83
+62,62,20810,20810,High School Graduate,"Colleges, Universities, and Professional Schools",15725145,1388,2009,Male,New Mexico,11329.36
+63,63,20811,20811,Some College,"Colleges, Universities, and Professional Schools",28708125,2107,2009,Male,New Mexico,13625.12
+64,64,20812,20812,Advanced Degree,"Colleges, Universities, and Professional Schools",51464137,2717,2009,Male,New Mexico,18941.53
+65,65,20813,20813,Unavalble,"Colleges, Universities, and Professional Schools",1157263,220,2009,Male,New Mexico,5260.29
+66,66,20814,20814,All Education Categories,"Colleges, Universities, and Professional Schools",95167925,8766,2009,Female,New Mexico,10856.48
+67,67,20815,20815,Less Than High School,"Colleges, Universities, and Professional Schools",4575653,638,2009,Female,New Mexico,7171.87
+68,68,20816,20816,High School Graduate,"Colleges, Universities, and Professional Schools",15841961,1789,2009,Female,New Mexico,8855.2
+69,69,20817,20817,Some College,"Colleges, Universities, and Professional Schools",30778539,3000,2009,Female,New Mexico,10259.51
+70,70,20818,20818,Advanced Degree,"Colleges, Universities, and Professional Schools",42500976,3048,2009,Female,New Mexico,13943.89
+71,71,20819,20819,Unavalble,"Colleges, Universities, and Professional Schools",1470797,291,2009,Female,New Mexico,5054.29
+72,72,24360,24360,All Education Categories,"Colleges, Universities, and Professional Schools",96451769,7172,2010,Male,New Mexico,13448.38
+73,73,24361,24361,Less Than High School,"Colleges, Universities, and Professional Schools",5516121,655,2010,Male,New Mexico,8421.56
+74,74,24362,24362,High School Graduate,"Colleges, Universities, and Professional Schools",14922426,1450,2010,Male,New Mexico,10291.33
+75,75,24363,24363,Some College,"Colleges, Universities, and Professional Schools",26778035,2159,2010,Male,New Mexico,12402.98
+76,76,24364,24364,Advanced Degree,"Colleges, Universities, and Professional Schools",48335874,2709,2010,Male,New Mexico,17842.7
+77,77,24365,24365,Unavalble,"Colleges, Universities, and Professional Schools",899314,199,2010,Male,New Mexico,4519.17
+78,78,24366,24366,All Education Categories,"Colleges, Universities, and Professional Schools",90926694,9011,2010,Female,New Mexico,10090.63
+79,79,24367,24367,Less Than High School,"Colleges, Universities, and Professional Schools",4652732,689,2010,Female,New Mexico,6752.88
+80,80,24368,24368,High School Graduate,"Colleges, Universities, and Professional Schools",15394776,1874,2010,Female,New Mexico,8214.93
+81,81,24369,24369,Some College,"Colleges, Universities, and Professional Schools",29266694,3094,2010,Female,New Mexico,9459.18
+82,82,24370,24370,Advanced Degree,"Colleges, Universities, and Professional Schools",40358761,3091,2010,Female,New Mexico,13056.86
+83,83,24371,24371,Unavalble,"Colleges, Universities, and Professional Schools",1253731,262,2010,Female,New Mexico,4785.23
+84,84,27924,27924,All Education Categories,"Colleges, Universities, and Professional Schools",89566593,6690,2011,Male,New Mexico,13388.13
+85,85,27925,27925,Less Than High School,"Colleges, Universities, and Professional Schools",5365819,643,2011,Male,New Mexico,8344.98
+86,86,27926,27926,High School Graduate,"Colleges, Universities, and Professional Schools",14313140,1394,2011,Male,New Mexico,10267.68
+87,87,27927,27927,Some College,"Colleges, Universities, and Professional Schools",24714150,2007,2011,Male,New Mexico,12313.98
+88,88,27928,27928,Advanced Degree,"Colleges, Universities, and Professional Schools",44426089,2488,2011,Male,New Mexico,17856.15
+89,89,27929,27929,Unavalble,"Colleges, Universities, and Professional Schools",747396,158,2011,Male,New Mexico,4730.35
+90,90,27930,27930,All Education Categories,"Colleges, Universities, and Professional Schools",89177492,8642,2011,Female,New Mexico,10319.08
+91,91,27931,27931,Less Than High School,"Colleges, Universities, and Professional Schools",4975849,698,2011,Female,New Mexico,7128.72
+92,92,27932,27932,High School Graduate,"Colleges, Universities, and Professional Schools",15220867,1797,2011,Female,New Mexico,8470.15
+93,93,27933,27933,Some College,"Colleges, Universities, and Professional Schools",28847606,2986,2011,Female,New Mexico,9660.95
+94,94,27934,27934,Advanced Degree,"Colleges, Universities, and Professional Schools",39134580,2976,2011,Female,New Mexico,13150.06
+95,95,27935,27935,Unavalble,"Colleges, Universities, and Professional Schools",998591,185,2011,Female,New Mexico,5397.79
+96,96,31512,31512,All Education Categories,"Colleges, Universities, and Professional Schools",97656329,6818,2012,Male,New Mexico,14323.31
+97,97,31513,31513,Less Than High School,"Colleges, Universities, and Professional Schools",6354512,686,2012,Male,New Mexico,9263.14
+98,98,31514,31514,High School Graduate,"Colleges, Universities, and Professional Schools",15874851,1439,2012,Male,New Mexico,11031.86
+99,99,31515,31515,Some College,"Colleges, Universities, and Professional Schools",27135130,2048,2012,Male,New Mexico,13249.58
+100,100,31516,31516,Advanced Degree,"Colleges, Universities, and Professional Schools",47453736,2479,2012,Male,New Mexico,19142.29
+101,101,31517,31517,Unavalble,"Colleges, Universities, and Professional Schools",838099,166,2012,Male,New Mexico,5048.79
+102,102,31518,31518,All Education Categories,"Colleges, Universities, and Professional Schools",94361076,8494,2012,Female,New Mexico,11109.14
+103,103,31519,31519,Less Than High School,"Colleges, Universities, and Professional Schools",5728578,721,2012,Female,New Mexico,7945.32
+104,104,31520,31520,High School Graduate,"Colleges, Universities, and Professional Schools",16529312,1779,2012,Female,New Mexico,9291.35
+105,105,31521,31521,Some College,"Colleges, Universities, and Professional Schools",30856517,2930,2012,Female,New Mexico,10531.23
+106,106,31522,31522,Advanced Degree,"Colleges, Universities, and Professional Schools",40201538,2869,2012,Female,New Mexico,14012.39
+107,107,31523,31523,Unavalble,"Colleges, Universities, and Professional Schools",1045131,196,2012,Female,New Mexico,5332.3
+108,108,33132,33132,All Education Categories,Educational Services,222123362,25097,2004,Male,New Mexico,8850.59
+109,109,33133,33133,Less Than High School,Educational Services,14325242,2279,2004,Male,New Mexico,6285.76
+110,110,33134,33134,High School Graduate,Educational Services,41817335,5581,2004,Male,New Mexico,7492.8
+111,111,33135,33135,Some College,Educational Services,67283187,7708,2004,Male,New Mexico,8729.01
+112,112,33136,33136,Advanced Degree,Educational Services,94852861,8200,2004,Male,New Mexico,11567.42
+113,113,33137,33137,Unavalble,Educational Services,3844737,1329,2004,Male,New Mexico,2892.95
+114,114,33138,33138,All Education Categories,Educational Services,382338979,54711,2004,Female,New Mexico,6988.34
+115,115,33139,33139,Less Than High School,Educational Services,17312356,4086,2004,Female,New Mexico,4236.99
+116,116,33140,33140,High School Graduate,Educational Services,68859377,12227,2004,Female,New Mexico,5631.75
+117,117,33141,33141,Some College,Educational Services,125732420,18366,2004,Female,New Mexico,6845.93
+118,118,33142,33142,Advanced Degree,Educational Services,163117650,17759,2004,Female,New Mexico,9185.07
+119,119,33143,33143,Unavalble,Educational Services,7317176,2274,2004,Female,New Mexico,3217.76
+120,120,33228,33228,All Education Categories,Accommodation,28134897,5331,2004,Male,New Mexico,5277.6
+121,121,33229,33229,Less Than High School,Accommodation,5366431,1068,2004,Male,New Mexico,5024.75
+122,122,33230,33230,High School Graduate,Accommodation,7428459,1321,2004,Male,New Mexico,5623.36
+123,123,33231,33231,Some College,Accommodation,7326690,1163,2004,Male,New Mexico,6299.82
+124,124,33232,33232,Advanced Degree,Accommodation,3814843,499,2004,Male,New Mexico,7644.98
+125,125,33233,33233,Unavalble,Accommodation,4198474,1279,2004,Male,New Mexico,3282.62
+126,126,33234,33234,All Education Categories,Accommodation,29771827,7704,2004,Female,New Mexico,3864.46
+127,127,33235,33235,Less Than High School,Accommodation,6274822,1880,2004,Female,New Mexico,3337.67
+128,128,33236,33236,High School Graduate,Accommodation,7823275,1918,2004,Female,New Mexico,4078.87
+129,129,33237,33237,Some College,Accommodation,7883419,1733,2004,Female,New Mexico,4549.0
+130,130,33238,33238,Advanced Degree,Accommodation,3330670,618,2004,Female,New Mexico,5389.43
+131,131,33239,33239,Unavalble,Accommodation,4459641,1556,2004,Female,New Mexico,2866.09
+132,132,34296,34296,All Education Categories,Educational Services,218283820,23087,2005,Male,New Mexico,9454.84
+133,133,34297,34297,Less Than High School,Educational Services,14104663,2140,2005,Male,New Mexico,6590.96
+134,134,34298,34298,High School Graduate,Educational Services,41063037,5157,2005,Male,New Mexico,7962.58
+135,135,34299,34299,Some College,Educational Services,66281376,7143,2005,Male,New Mexico,9279.21
+136,136,34300,34300,Advanced Degree,Educational Services,93173686,7483,2005,Male,New Mexico,12451.38
+137,137,34301,34301,Unavalble,Educational Services,3661058,1164,2005,Male,New Mexico,3145.24
+138,138,34302,34302,All Education Categories,Educational Services,362464830,49445,2005,Female,New Mexico,7330.67
+139,139,34303,34303,Less Than High School,Educational Services,16821913,3718,2005,Female,New Mexico,4524.45
+140,140,34304,34304,High School Graduate,Educational Services,66092601,11008,2005,Female,New Mexico,6004.05
+141,141,34305,34305,Some College,Educational Services,120173932,16748,2005,Female,New Mexico,7175.42
+142,142,34306,34306,Advanced Degree,Educational Services,152732515,15968,2005,Female,New Mexico,9564.91
+143,143,34307,34307,Unavalble,Educational Services,6643869,2002,2005,Female,New Mexico,3318.62
+144,144,34392,34392,All Education Categories,Accommodation,27416353,5832,2005,Male,New Mexico,4701.02
+145,145,34393,34393,Less Than High School,Accommodation,5238213,1191,2005,Male,New Mexico,4398.16
+146,146,34394,34394,High School Graduate,Accommodation,7194831,1443,2005,Male,New Mexico,4986.02
+147,147,34395,34395,Some College,Accommodation,7084103,1286,2005,Male,New Mexico,5508.63
+148,148,34396,34396,Advanced Degree,Accommodation,3784715,553,2005,Male,New Mexico,6843.97
+149,149,34397,34397,Unavalble,Accommodation,4114492,1359,2005,Male,New Mexico,3027.59
+150,150,34398,34398,All Education Categories,Accommodation,30451207,8218,2005,Female,New Mexico,3705.43
+151,151,34399,34399,Less Than High School,Accommodation,6452105,1994,2005,Female,New Mexico,3235.76
+152,152,34400,34400,High School Graduate,Accommodation,7843677,2064,2005,Female,New Mexico,3800.23
+153,153,34401,34401,Some College,Accommodation,8092745,1894,2005,Female,New Mexico,4272.83
+154,154,34402,34402,Advanced Degree,Accommodation,3512864,704,2005,Female,New Mexico,4989.86
+155,155,34403,34403,Unavalble,Accommodation,4549815,1562,2005,Female,New Mexico,2912.81
+156,156,35472,35472,All Education Categories,Educational Services,248362619,25842,2006,Male,New Mexico,9610.81
+157,157,35473,35473,Less Than High School,Educational Services,16765956,2460,2006,Male,New Mexico,6815.43
+158,158,35474,35474,High School Graduate,Educational Services,47797635,5874,2006,Male,New Mexico,8137.15
+159,159,35475,35475,Some College,Educational Services,75606824,8018,2006,Male,New Mexico,9429.64
+160,160,35476,35476,Advanced Degree,Educational Services,103816408,8303,2006,Male,New Mexico,12503.48
+161,161,35477,35477,Unavalble,Educational Services,4375796,1187,2006,Male,New Mexico,3686.43
+162,162,35478,35478,All Education Categories,Educational Services,433325654,56285,2006,Female,New Mexico,7698.78
+163,163,35479,35479,Less Than High School,Educational Services,21006258,4347,2006,Female,New Mexico,4832.36
+164,164,35480,35480,High School Graduate,Educational Services,80188966,12673,2006,Female,New Mexico,6327.54
+165,165,35481,35481,Some College,Educational Services,144691606,19134,2006,Female,New Mexico,7562.02
+166,166,35482,35482,Advanced Degree,Educational Services,179343775,17956,2006,Female,New Mexico,9987.96
+167,167,35483,35483,Unavalble,Educational Services,8095048,2175,2006,Female,New Mexico,3721.86
+168,168,35568,35568,All Education Categories,Accommodation,33785707,6449,2006,Male,New Mexico,5238.91
+169,169,35569,35569,Less Than High School,Accommodation,6692860,1324,2006,Male,New Mexico,5055.03
+170,170,35570,35570,High School Graduate,Accommodation,9116565,1664,2006,Male,New Mexico,5478.7
+171,171,35571,35571,Some College,Accommodation,8563115,1437,2006,Male,New Mexico,5959.02
+172,172,35572,35572,Advanced Degree,Accommodation,4263269,589,2006,Male,New Mexico,7238.15
+173,173,35573,35573,Unavalble,Accommodation,5149899,1435,2006,Male,New Mexico,3588.78
+174,174,35574,35574,All Education Categories,Accommodation,36985935,9095,2006,Female,New Mexico,4066.62
+175,175,35575,35575,Less Than High School,Accommodation,7762405,2166,2006,Female,New Mexico,3583.75
+176,176,35576,35576,High School Graduate,Accommodation,9842487,2296,2006,Female,New Mexico,4286.8
+177,177,35577,35577,Some College,Accommodation,9826615,2125,2006,Female,New Mexico,4624.29
+178,178,35578,35578,Advanced Degree,Accommodation,4134858,761,2006,Female,New Mexico,5433.45
+179,179,35579,35579,Unavalble,Accommodation,5419570,1747,2006,Female,New Mexico,3102.22
+180,180,36636,36636,All Education Categories,Educational Services,211327633,22332,2007,Male,New Mexico,9463.0
+181,181,36637,36637,Less Than High School,Educational Services,14842126,2162,2007,Male,New Mexico,6865.0
+182,182,36638,36638,High School Graduate,Educational Services,42763058,5249,2007,Male,New Mexico,8146.9
+183,183,36639,36639,Some College,Educational Services,65055893,6948,2007,Male,New Mexico,9363.25
+184,184,36640,36640,Advanced Degree,Educational Services,84027839,6884,2007,Male,New Mexico,12206.25
+185,185,36641,36641,Unavalble,Educational Services,4638717,1090,2007,Male,New Mexico,4255.7
+186,186,36642,36642,All Education Categories,Educational Services,402187218,50973,2007,Female,New Mexico,7890.2
+187,187,36643,36643,Less Than High School,Educational Services,20249232,4049,2007,Female,New Mexico,5001.05
+188,188,36644,36644,High School Graduate,Educational Services,76306759,11675,2007,Female,New Mexico,6535.91
+189,189,36645,36645,Some College,Educational Services,135247487,17367,2007,Female,New Mexico,7787.61
+190,190,36646,36646,Advanced Degree,Educational Services,162284848,15882,2007,Female,New Mexico,10218.16
+191,191,36647,36647,Unavalble,Educational Services,8098894,2000,2007,Female,New Mexico,4049.45
+192,192,36732,36732,All Education Categories,Accommodation,32406797,6123,2007,Male,New Mexico,5292.63
+193,193,36733,36733,Less Than High School,Accommodation,6529257,1302,2007,Male,New Mexico,5014.79
+194,194,36734,36734,High School Graduate,Accommodation,8840930,1579,2007,Male,New Mexico,5599.07
+195,195,36735,36735,Some College,Accommodation,8203212,1345,2007,Male,New Mexico,6099.04
+196,196,36736,36736,Advanced Degree,Accommodation,3825938,551,2007,Male,New Mexico,6943.63
+197,197,36737,36737,Unavalble,Accommodation,5007460,1347,2007,Male,New Mexico,3717.49
+198,198,36738,36738,All Education Categories,Accommodation,36312283,8596,2007,Female,New Mexico,4224.32
+199,199,36739,36739,Less Than High School,Accommodation,7735738,2072,2007,Female,New Mexico,3733.46
+200,200,36740,36740,High School Graduate,Accommodation,9716008,2197,2007,Female,New Mexico,4422.4
+201,201,36741,36741,Some College,Accommodation,9593781,1961,2007,Female,New Mexico,4892.29
+202,202,36742,36742,Advanced Degree,Accommodation,4035725,710,2007,Female,New Mexico,5684.12
+203,203,36743,36743,Unavalble,Accommodation,5231031,1657,2007,Female,New Mexico,3156.93
+204,204,37812,37812,All Education Categories,Educational Services,271220070,24818,2008,Male,New Mexico,10928.36
+205,205,37813,37813,Less Than High School,Educational Services,19730491,2513,2008,Male,New Mexico,7851.37
+206,206,37814,37814,High School Graduate,Educational Services,54114337,5762,2008,Male,New Mexico,9391.59
+207,207,37815,37815,Some College,Educational Services,83436067,7763,2008,Male,New Mexico,10747.92
+208,208,37816,37816,Advanced Degree,Educational Services,109913130,7719,2008,Male,New Mexico,14239.3
+209,209,37817,37817,Unavalble,Educational Services,4026044,1061,2008,Male,New Mexico,3794.57
+210,210,37818,37818,All Education Categories,Educational Services,485063038,53913,2008,Female,New Mexico,8997.14
+211,211,37819,37819,Less Than High School,Educational Services,26689429,4723,2008,Female,New Mexico,5650.95
+212,212,37820,37820,High School Graduate,Educational Services,92115329,12311,2008,Female,New Mexico,7482.36
+213,213,37821,37821,Some College,Educational Services,164131243,18350,2008,Female,New Mexico,8944.48
+214,214,37822,37822,Advanced Degree,Educational Services,193833385,16494,2008,Female,New Mexico,11751.75
+215,215,37823,37823,Unavalble,Educational Services,8293652,2034,2008,Female,New Mexico,4077.51
+216,216,37908,37908,All Education Categories,Accommodation,38562709,6608,2008,Male,New Mexico,5835.76
+217,217,37909,37909,Less Than High School,Accommodation,7414011,1379,2008,Male,New Mexico,5376.37
+218,218,37910,37910,High School Graduate,Accommodation,10169237,1694,2008,Male,New Mexico,6003.09
+219,219,37911,37911,Some College,Accommodation,9843302,1465,2008,Male,New Mexico,6718.98
+220,220,37912,37912,Advanced Degree,Accommodation,5081900,625,2008,Male,New Mexico,8131.04
+221,221,37913,37913,Unavalble,Accommodation,6054259,1445,2008,Male,New Mexico,4189.8
+222,222,37914,37914,All Education Categories,Accommodation,42192179,9210,2008,Female,New Mexico,4581.13
+223,223,37915,37915,Less Than High School,Accommodation,8813051,2154,2008,Female,New Mexico,4091.48
+224,224,37916,37916,High School Graduate,Accommodation,11174806,2355,2008,Female,New Mexico,4745.14
+225,225,37917,37917,Some College,Accommodation,11357967,2167,2008,Female,New Mexico,5241.33
+226,226,37918,37918,Advanced Degree,Accommodation,4796746,795,2008,Female,New Mexico,6033.64
+227,227,37919,37919,Unavalble,Accommodation,6049609,1739,2008,Female,New Mexico,3478.79
+228,228,38976,38976,All Education Categories,Educational Services,268018777,24655,2009,Male,New Mexico,10870.77
+229,229,38977,38977,Less Than High School,Educational Services,20405693,2613,2009,Male,New Mexico,7809.3
+230,230,38978,38978,High School Graduate,Educational Services,54250399,5848,2009,Male,New Mexico,9276.74
+231,231,38979,38979,Some College,Educational Services,82259776,7678,2009,Male,New Mexico,10713.7
+232,232,38980,38980,Advanced Degree,Educational Services,107299285,7500,2009,Male,New Mexico,14306.57
+233,233,38981,38981,Unavalble,Educational Services,3803624,1016,2009,Male,New Mexico,3743.72
+234,234,38982,38982,All Education Categories,Educational Services,477582089,54902,2009,Female,New Mexico,8698.81
+235,235,38983,38983,Less Than High School,Educational Services,28217029,5019,2009,Female,New Mexico,5622.04
+236,236,38984,38984,High School Graduate,Educational Services,92258589,12634,2009,Female,New Mexico,7302.41
+237,237,38985,38985,Some College,Educational Services,162134907,18690,2009,Female,New Mexico,8674.95
+238,238,38986,38986,Advanced Degree,Educational Services,186985806,16489,2009,Female,New Mexico,11340.03
+239,239,38987,38987,Unavalble,Educational Services,7985758,2069,2009,Female,New Mexico,3859.72
+240,240,39072,39072,All Education Categories,Accommodation,46667296,7583,2009,Male,New Mexico,6154.2
+241,241,39073,39073,Less Than High School,Accommodation,8847176,1575,2009,Male,New Mexico,5617.25
+242,242,39074,39074,High School Graduate,Accommodation,12958491,2018,2009,Male,New Mexico,6421.45
+243,243,39075,39075,Some College,Accommodation,12712341,1801,2009,Male,New Mexico,7058.49
+244,244,39076,39076,Advanced Degree,Accommodation,6433713,744,2009,Male,New Mexico,8647.46
+245,245,39077,39077,Unavalble,Accommodation,5715575,1446,2009,Male,New Mexico,3952.68
+246,246,39078,39078,All Education Categories,Accommodation,50994254,10407,2009,Female,New Mexico,4900.0
+247,247,39079,39079,Less Than High School,Accommodation,10437989,2414,2009,Female,New Mexico,4323.94
+248,248,39080,39080,High School Graduate,Accommodation,13928387,2740,2009,Female,New Mexico,5083.35
+249,249,39081,39081,Some College,Accommodation,14586120,2598,2009,Female,New Mexico,5614.36
+250,250,39082,39082,Advanced Degree,Accommodation,5749231,912,2009,Female,New Mexico,6303.98
+251,251,39083,39083,Unavalble,Accommodation,6292526,1742,2009,Female,New Mexico,3612.24
+252,252,40140,40140,All Education Categories,Educational Services,256433078,24969,2010,Male,New Mexico,10270.06
+253,253,40141,40141,Less Than High School,Educational Services,20794723,2798,2010,Male,New Mexico,7432.0
+254,254,40142,40142,High School Graduate,Educational Services,53004278,6035,2010,Male,New Mexico,8782.81
+255,255,40143,40143,Some College,Educational Services,78136094,7712,2010,Male,New Mexico,10131.75
+256,256,40144,40144,Advanced Degree,Educational Services,100804320,7375,2010,Male,New Mexico,13668.38
+257,257,40145,40145,Unavalble,Educational Services,3693662,1049,2010,Male,New Mexico,3521.13
+258,258,40146,40146,All Education Categories,Educational Services,455719201,54494,2010,Female,New Mexico,8362.74
+259,259,40147,40147,Less Than High School,Educational Services,29011039,5250,2010,Female,New Mexico,5525.91
+260,260,40148,40148,High School Graduate,Educational Services,89584968,12652,2010,Female,New Mexico,7080.7
+261,261,40149,40149,Some College,Educational Services,154527509,18529,2010,Female,New Mexico,8339.77
+262,262,40150,40150,Advanced Degree,Educational Services,175742009,16131,2010,Female,New Mexico,10894.68
+263,263,40151,40151,Unavalble,Educational Services,6853676,1931,2010,Female,New Mexico,3549.29
+264,264,40236,40236,All Education Categories,Accommodation,42005949,7539,2010,Male,New Mexico,5571.82
+265,265,40237,40237,Less Than High School,Accommodation,8187877,1586,2010,Male,New Mexico,5162.6
+266,266,40238,40238,High School Graduate,Accommodation,11720612,2004,2010,Male,New Mexico,5848.61
+267,267,40239,40239,Some College,Accommodation,11602714,1813,2010,Male,New Mexico,6399.73
+268,268,40240,40240,Advanced Degree,Accommodation,5680761,784,2010,Male,New Mexico,7245.87
+269,269,40241,40241,Unavalble,Accommodation,4813986,1352,2010,Male,New Mexico,3560.64
+270,270,40242,40242,All Education Categories,Accommodation,44993447,9974,2010,Female,New Mexico,4511.07
+271,271,40243,40243,Less Than High School,Accommodation,9385068,2336,2010,Female,New Mexico,4017.58
+272,272,40244,40244,High School Graduate,Accommodation,12394141,2635,2010,Female,New Mexico,4703.66
+273,273,40245,40245,Some College,Accommodation,12848243,2503,2010,Female,New Mexico,5133.14
+274,274,40246,40246,Advanced Degree,Accommodation,5283245,924,2010,Female,New Mexico,5717.8
+275,275,40247,40247,Unavalble,Accommodation,5082750,1577,2010,Female,New Mexico,3223.05
+276,276,41316,41316,All Education Categories,Educational Services,250972108,25109,2011,Male,New Mexico,9995.3
+277,277,41317,41317,Less Than High School,Educational Services,21353105,2900,2011,Male,New Mexico,7363.14
+278,278,41318,41318,High School Graduate,Educational Services,53451438,6171,2011,Male,New Mexico,8661.71
+279,279,41319,41319,Some College,Educational Services,76856173,7779,2011,Male,New Mexico,9879.96
+280,280,41320,41320,Advanced Degree,Educational Services,95715471,7200,2011,Male,New Mexico,13293.82
+281,281,41321,41321,Unavalble,Educational Services,3595921,1059,2011,Male,New Mexico,3395.58
+282,282,41322,41322,All Education Categories,Educational Services,460346904,55432,2011,Female,New Mexico,8304.71
+283,283,41323,41323,Less Than High School,Educational Services,31022964,5523,2011,Female,New Mexico,5617.05
+284,284,41324,41324,High School Graduate,Educational Services,92128112,12952,2011,Female,New Mexico,7113.04
+285,285,41325,41325,Some College,Educational Services,157551814,18952,2011,Female,New Mexico,8313.2
+286,286,41326,41326,Advanced Degree,Educational Services,173181735,16191,2011,Female,New Mexico,10696.17
+287,287,41327,41327,Unavalble,Educational Services,6462279,1814,2011,Female,New Mexico,3562.45
+288,288,41412,41412,All Education Categories,Accommodation,43364353,7972,2011,Male,New Mexico,5439.58
+289,289,41413,41413,Less Than High School,Accommodation,8580727,1690,2011,Male,New Mexico,5077.35
+290,290,41414,41414,High School Graduate,Accommodation,12345617,2158,2011,Male,New Mexico,5720.86
+291,291,41415,41415,Some College,Accommodation,12011250,1946,2011,Male,New Mexico,6172.28
+292,292,41416,41416,Advanced Degree,Accommodation,5835362,819,2011,Male,New Mexico,7124.98
+293,293,41417,41417,Unavalble,Accommodation,4591397,1360,2011,Male,New Mexico,3376.03
+294,294,41418,41418,All Education Categories,Accommodation,46453794,10231,2011,Female,New Mexico,4540.49
+295,295,41419,41419,Less Than High School,Accommodation,9642972,2365,2011,Female,New Mexico,4077.37
+296,296,41420,41420,High School Graduate,Accommodation,12724179,2665,2011,Female,New Mexico,4774.55
+297,297,41421,41421,Some College,Accommodation,13362693,2566,2011,Female,New Mexico,5207.6
+298,298,41422,41422,Advanced Degree,Accommodation,5482921,977,2011,Female,New Mexico,5612.0
+299,299,41423,41423,Unavalble,Accommodation,5241029,1658,2011,Female,New Mexico,3161.05
+300,300,42492,42492,All Education Categories,Educational Services,256453561,24377,2012,Male,New Mexico,10520.31
+301,301,42493,42493,Less Than High School,Educational Services,22796656,2941,2012,Male,New Mexico,7751.33
+302,302,42494,42494,High School Graduate,Educational Services,54540261,6022,2012,Male,New Mexico,9056.84
+303,303,42495,42495,Some College,Educational Services,77969587,7548,2012,Male,New Mexico,10329.83
+304,304,42496,42496,Advanced Degree,Educational Services,97545652,6874,2012,Male,New Mexico,14190.52
+305,305,42497,42497,Unavalble,Educational Services,3601407,993,2012,Male,New Mexico,3626.79
+306,306,42498,42498,All Education Categories,Educational Services,451832991,52504,2012,Female,New Mexico,8605.69
+307,307,42499,42499,Less Than High School,Educational Services,32960362,5553,2012,Female,New Mexico,5935.6
+308,308,42500,42500,High School Graduate,Educational Services,92320110,12412,2012,Female,New Mexico,7437.97
+309,309,42501,42501,Some College,Educational Services,154665039,17862,2012,Female,New Mexico,8658.89
+310,310,42502,42502,Advanced Degree,Educational Services,165458887,14972,2012,Female,New Mexico,11051.22
+311,311,42503,42503,Unavalble,Educational Services,6428593,1705,2012,Female,New Mexico,3770.44
+312,312,42588,42588,All Education Categories,Accommodation,42481153,7265,2012,Male,New Mexico,5847.37
+313,313,42589,42589,Less Than High School,Accommodation,8549175,1551,2012,Male,New Mexico,5512.04
+314,314,42590,42590,High School Graduate,Accommodation,11893991,1934,2012,Male,New Mexico,6149.94
+315,315,42591,42591,Some College,Accommodation,11631922,1771,2012,Male,New Mexico,6568.0
+316,316,42592,42592,Advanced Degree,Accommodation,5949433,772,2012,Male,New Mexico,7706.52
+317,317,42593,42593,Unavalble,Accommodation,4456631,1237,2012,Male,New Mexico,3602.77
+318,318,42594,42594,All Education Categories,Accommodation,46402145,9528,2012,Female,New Mexico,4870.08
+319,319,42595,42595,Less Than High School,Accommodation,9675383,2229,2012,Female,New Mexico,4340.68
+320,320,42596,42596,High School Graduate,Accommodation,12515771,2475,2012,Female,New Mexico,5056.88
+321,321,42597,42597,Some College,Accommodation,13263101,2414,2012,Female,New Mexico,5494.24
+322,322,42598,42598,Advanced Degree,Accommodation,5723804,947,2012,Female,New Mexico,6044.14
+323,323,42599,42599,Unavalble,Accommodation,5224086,1463,2012,Female,New Mexico,3570.8
+324,324,42744,42744,All Education Categories,00,3305740545,354101,2004,Male,New Mexico,9335.59
+325,325,42745,42745,Less Than High School,00,343980202,52141,2004,Male,New Mexico,6597.12
+326,326,42746,42746,High School Graduate,00,745352336,87192,2004,Male,New Mexico,8548.4
+327,327,42747,42747,Some College,00,1026979049,98737,2004,Male,New Mexico,10401.16
+328,328,42748,42748,Advanced Degree,00,967957959,60452,2004,Male,New Mexico,16012.01
+329,329,42749,42749,Unavalble,00,221470999,55578,2004,Male,New Mexico,3984.87
+330,330,42750,42750,All Education Categories,00,2207829501,354224,2004,Female,New Mexico,6232.86
+331,331,42751,42751,Less Than High School,00,178347669,41095,2004,Female,New Mexico,4339.89
+332,332,42752,42752,High School Graduate,00,458857071,82600,2004,Female,New Mexico,5555.17
+333,333,42753,42753,Some College,00,754230307,110414,2004,Female,New Mexico,6830.93
+334,334,42754,42754,Advanced Degree,00,640415691,64666,2004,Female,New Mexico,9903.44
+335,335,42755,42755,Unavalble,00,175978764,55450,2004,Female,New Mexico,3173.65
+336,336,42804,42804,All Education Categories,Manufacturing,310989185,25480,2004,Male,New Mexico,12205.23
+337,337,42805,42805,Less Than High School,Manufacturing,33097067,4320,2004,Male,New Mexico,7661.36
+338,338,42806,42806,High School Graduate,Manufacturing,74939194,6866,2004,Male,New Mexico,10914.53
+339,339,42807,42807,Some College,Manufacturing,108919171,8004,2004,Male,New Mexico,13608.09
+340,340,42808,42808,Advanced Degree,Manufacturing,81879277,4081,2004,Male,New Mexico,20063.53
+341,341,42809,42809,Unavalble,Manufacturing,12154476,2210,2004,Male,New Mexico,5499.76
+342,342,42810,42810,All Education Categories,Manufacturing,92909401,11431,2004,Female,New Mexico,8127.85
+343,343,42811,42811,Less Than High School,Manufacturing,11583596,2301,2004,Female,New Mexico,5034.16
+344,344,42812,42812,High School Graduate,Manufacturing,22096894,3009,2004,Female,New Mexico,7343.6
+345,345,42813,42813,Some College,Manufacturing,32019224,3463,2004,Female,New Mexico,9246.09
+346,346,42814,42814,Advanced Degree,Manufacturing,23417102,1693,2004,Female,New Mexico,13831.72
+347,347,42815,42815,Unavalble,Manufacturing,3792583,966,2004,Female,New Mexico,3926.07
+348,348,42828,42828,All Education Categories,Retail Trade,324695968,46346,2004,Male,New Mexico,7005.91
+349,349,42829,42829,Less Than High School,Retail Trade,38926360,6476,2004,Male,New Mexico,6010.86
+350,350,42830,42830,High School Graduate,Retail Trade,88227918,12099,2004,Male,New Mexico,7292.17
+351,351,42831,42831,Some College,Retail Trade,100725987,11503,2004,Male,New Mexico,8756.5
+352,352,42832,42832,Advanced Degree,Retail Trade,54338660,4166,2004,Male,New Mexico,13043.37
+353,353,42833,42833,Unavalble,Retail Trade,42477043,12101,2004,Male,New Mexico,3510.21
+354,354,42834,42834,All Education Categories,Retail Trade,220640684,49084,2004,Female,New Mexico,4495.17
+355,355,42835,42835,Less Than High School,Retail Trade,28064065,6747,2004,Female,New Mexico,4159.49
+356,356,42836,42836,High School Graduate,Retail Trade,62045137,13063,2004,Female,New Mexico,4749.69
+357,357,42837,42837,Some College,Retail Trade,66425589,12556,2004,Female,New Mexico,5290.35
+358,358,42838,42838,Advanced Degree,Retail Trade,30224999,4167,2004,Female,New Mexico,7253.42
+359,359,42839,42839,Unavalble,Retail Trade,33880894,12552,2004,Female,New Mexico,2699.24
+360,360,42864,42864,All Education Categories,Finance and Insurance,99866644,6105,2004,Male,New Mexico,16358.17
+361,361,42865,42865,Less Than High School,Finance and Insurance,3158040,368,2004,Male,New Mexico,8581.63
+362,362,42866,42866,High School Graduate,Finance and Insurance,12549052,1124,2004,Male,New Mexico,11164.64
+363,363,42867,42867,Some College,Finance and Insurance,26276506,1725,2004,Male,New Mexico,15232.76
+364,364,42868,42868,Advanced Degree,Finance and Insurance,53989705,2133,2004,Male,New Mexico,25311.63
+365,365,42869,42869,Unavalble,Finance and Insurance,3893341,755,2004,Male,New Mexico,5156.74
+366,366,42870,42870,All Education Categories,Finance and Insurance,139336548,17167,2004,Female,New Mexico,8116.53
+367,367,42871,42871,Less Than High School,Finance and Insurance,5819228,971,2004,Female,New Mexico,5993.03
+368,368,42872,42872,High School Graduate,Finance and Insurance,26249456,3705,2004,Female,New Mexico,7084.87
+369,369,42873,42873,Some College,Finance and Insurance,47290097,5772,2004,Female,New Mexico,8193.02
+370,370,42874,42874,Advanced Degree,Finance and Insurance,48054822,4135,2004,Female,New Mexico,11621.48
+371,371,42875,42875,Unavalble,Finance and Insurance,11922945,2584,2004,Female,New Mexico,4614.14
+372,372,42924,42924,All Education Categories,Educational Services,222123362,25097,2004,Male,New Mexico,8850.59
+373,373,42925,42925,Less Than High School,Educational Services,14325242,2279,2004,Male,New Mexico,6285.76
+374,374,42926,42926,High School Graduate,Educational Services,41817335,5581,2004,Male,New Mexico,7492.8
+375,375,42927,42927,Some College,Educational Services,67283187,7708,2004,Male,New Mexico,8729.01
+376,376,42928,42928,Advanced Degree,Educational Services,94852861,8200,2004,Male,New Mexico,11567.42
+377,377,42929,42929,Unavalble,Educational Services,3844737,1329,2004,Male,New Mexico,2892.95
+378,378,42930,42930,All Education Categories,Educational Services,382338979,54711,2004,Female,New Mexico,6988.34
+379,379,42931,42931,Less Than High School,Educational Services,17312356,4086,2004,Female,New Mexico,4236.99
+380,380,42932,42932,High School Graduate,Educational Services,68859377,12227,2004,Female,New Mexico,5631.75
+381,381,42933,42933,Some College,Educational Services,125732420,18366,2004,Female,New Mexico,6845.93
+382,382,42934,42934,Advanced Degree,Educational Services,163117650,17759,2004,Female,New Mexico,9185.07
+383,383,42935,42935,Unavalble,Educational Services,7317176,2274,2004,Female,New Mexico,3217.76
+384,384,42936,42936,All Education Categories,Health Care and Social Assistance,250133534,21742,2004,Male,New Mexico,11504.62
+385,385,42937,42937,Less Than High School,Health Care and Social Assistance,14678639,2428,2004,Male,New Mexico,6045.57
+386,386,42938,42938,High School Graduate,Health Care and Social Assistance,39018759,4870,2004,Male,New Mexico,8012.07
+387,387,42939,42939,Some College,Health Care and Social Assistance,75896487,6906,2004,Male,New Mexico,10989.93
+388,388,42940,42940,Advanced Degree,Health Care and Social Assistance,110979344,5075,2004,Male,New Mexico,21867.85
+389,389,42941,42941,Unavalble,Health Care and Social Assistance,9560305,2463,2004,Male,New Mexico,3881.57
+390,390,42942,42942,All Education Categories,Health Care and Social Assistance,496249509,74249,2004,Female,New Mexico,6683.59
+391,391,42943,42943,Less Than High School,Health Care and Social Assistance,37547452,8590,2004,Female,New Mexico,4371.07
+392,392,42944,42944,High School Graduate,Health Care and Social Assistance,94018048,16936,2004,Female,New Mexico,5551.37
+393,393,42945,42945,Some College,Health Care and Social Assistance,191495321,27142,2004,Female,New Mexico,7055.31
+394,394,42946,42946,Advanced Degree,Health Care and Social Assistance,143213925,13769,2004,Female,New Mexico,10401.19
+395,395,42947,42947,Unavalble,Health Care and Social Assistance,29974763,7812,2004,Female,New Mexico,3837.02
+396,396,42960,42960,All Education Categories,Accommodation and Food Services,119773977,31316,2004,Male,New Mexico,3824.69
+397,397,42961,42961,Less Than High School,Accommodation and Food Services,21074128,5075,2004,Male,New Mexico,4152.54
+398,398,42962,42962,High School Graduate,Accommodation and Food Services,27621206,6043,2004,Male,New Mexico,4570.78
+399,399,42963,42963,Some College,Accommodation and Food Services,26680981,5273,2004,Male,New Mexico,5059.92
+400,400,42964,42964,Advanced Degree,Accommodation and Food Services,11965748,2009,2004,Male,New Mexico,5956.07
+401,401,42965,42965,Unavalble,Accommodation and Food Services,32431913,12916,2004,Male,New Mexico,2510.99
+402,402,42966,42966,All Education Categories,Accommodation and Food Services,113351540,37287,2004,Female,New Mexico,3039.97
+403,403,42967,42967,Less Than High School,Accommodation and Food Services,19700249,6342,2004,Female,New Mexico,3106.31
+404,404,42968,42968,High School Graduate,Accommodation and Food Services,25150335,7299,2004,Female,New Mexico,3445.72
+405,405,42969,42969,Some College,Accommodation and Food Services,25635180,6775,2004,Female,New Mexico,3783.79
+406,406,42970,42970,Advanced Degree,Accommodation and Food Services,10534083,2375,2004,Female,New Mexico,4435.4
+407,407,42971,42971,Unavalble,Accommodation and Food Services,32331694,14496,2004,Female,New Mexico,2230.39
+408,408,42996,42996,All Education Categories,00,3467206643,363254,2005,Male,New Mexico,9544.85
+409,409,42997,42997,Less Than High School,00,369868769,54313,2005,Male,New Mexico,6809.95
+410,410,42998,42998,High School Graduate,00,788093290,90106,2005,Male,New Mexico,8746.29
+411,411,42999,42999,Some College,00,1072941281,101357,2005,Male,New Mexico,10585.76
+412,412,43000,43000,Advanced Degree,00,1002283114,60609,2005,Male,New Mexico,16536.87
+413,413,43001,43001,Unavalble,00,234020190,56869,2005,Male,New Mexico,4115.07
+414,414,43002,43002,All Education Categories,00,2264250160,356359,2005,Female,New Mexico,6353.85
+415,415,43003,43003,Less Than High School,00,186708025,42408,2005,Female,New Mexico,4402.66
+416,416,43004,43004,High School Graduate,00,471552375,83248,2005,Female,New Mexico,5664.43
+417,417,43005,43005,Some College,00,775629322,111063,2005,Female,New Mexico,6983.69
+418,418,43006,43006,Advanced Degree,00,648929735,63580,2005,Female,New Mexico,10206.51
+419,419,43007,43007,Unavalble,00,181430703,56061,2005,Female,New Mexico,3236.31
+420,420,43056,43056,All Education Categories,Manufacturing,329823102,28060,2005,Male,New Mexico,11754.21
+421,421,43057,43057,Less Than High School,Manufacturing,36839687,4843,2005,Male,New Mexico,7606.79
+422,422,43058,43058,High School Graduate,Manufacturing,80886952,7599,2005,Male,New Mexico,10644.42
+423,423,43059,43059,Some College,Manufacturing,115213681,8725,2005,Male,New Mexico,13205.01
+424,424,43060,43060,Advanced Degree,Manufacturing,83875112,4270,2005,Male,New Mexico,19642.88
+425,425,43061,43061,Unavalble,Manufacturing,13007670,2623,2005,Male,New Mexico,4959.08
+426,426,43062,43062,All Education Categories,Manufacturing,99830149,12645,2005,Female,New Mexico,7894.83
+427,427,43063,43063,Less Than High School,Manufacturing,12072236,2388,2005,Female,New Mexico,5055.38
+428,428,43064,43064,High School Graduate,Manufacturing,23417505,3328,2005,Female,New Mexico,7036.51
+429,429,43065,43065,Some College,Manufacturing,34243114,3848,2005,Female,New Mexico,8898.94
+430,430,43066,43066,Advanced Degree,Manufacturing,25259072,1863,2005,Female,New Mexico,13558.28
+431,431,43067,43067,Unavalble,Manufacturing,4838222,1218,2005,Female,New Mexico,3972.27
+432,432,43080,43080,All Education Categories,Retail Trade,337538407,46492,2005,Male,New Mexico,7260.14
+433,433,43081,43081,Less Than High School,Retail Trade,40913514,6585,2005,Male,New Mexico,6213.14
+434,434,43082,43082,High School Graduate,Retail Trade,91750285,12228,2005,Male,New Mexico,7503.29
+435,435,43083,43083,Some College,Retail Trade,104766820,11739,2005,Male,New Mexico,8924.68
+436,436,43084,43084,Advanced Degree,Retail Trade,57707630,4203,2005,Male,New Mexico,13730.1
+437,437,43085,43085,Unavalble,Retail Trade,42400157,11737,2005,Male,New Mexico,3612.52
+438,438,43086,43086,All Education Categories,Retail Trade,222919404,48167,2005,Female,New Mexico,4628.05
+439,439,43087,43087,Less Than High School,Retail Trade,29050867,6800,2005,Female,New Mexico,4272.19
+440,440,43088,43088,High School Graduate,Retail Trade,62751950,12911,2005,Female,New Mexico,4860.35
+441,441,43089,43089,Some College,Retail Trade,67746383,12423,2005,Female,New Mexico,5453.3
+442,442,43090,43090,Advanced Degree,Retail Trade,30086417,4035,2005,Female,New Mexico,7456.36
+443,443,43091,43091,Unavalble,Retail Trade,33283788,11999,2005,Female,New Mexico,2773.88
+444,444,43116,43116,All Education Categories,Finance and Insurance,106798488,6184,2005,Male,New Mexico,17270.13
+445,445,43117,43117,Less Than High School,Finance and Insurance,3571604,403,2005,Male,New Mexico,8862.54
+446,446,43118,43118,High School Graduate,Finance and Insurance,13754901,1154,2005,Male,New Mexico,11919.32
+447,447,43119,43119,Some College,Finance and Insurance,27595858,1758,2005,Male,New Mexico,15697.3
+448,448,43120,43120,Advanced Degree,Finance and Insurance,57562909,2096,2005,Male,New Mexico,27463.22
+449,449,43121,43121,Unavalble,Finance and Insurance,4313216,773,2005,Male,New Mexico,5579.84
+450,450,43122,43122,All Education Categories,Finance and Insurance,143428814,16991,2005,Female,New Mexico,8441.46
+451,451,43123,43123,Less Than High School,Finance and Insurance,6280713,1041,2005,Female,New Mexico,6033.35
+452,452,43124,43124,High School Graduate,Finance and Insurance,26924098,3686,2005,Female,New Mexico,7304.42
+453,453,43125,43125,Some College,Finance and Insurance,47820087,5596,2005,Female,New Mexico,8545.41
+454,454,43126,43126,Advanced Degree,Finance and Insurance,49548827,3977,2005,Female,New Mexico,12458.85
+455,455,43127,43127,Unavalble,Finance and Insurance,12855089,2691,2005,Female,New Mexico,4777.07
+456,456,43176,43176,All Education Categories,Educational Services,218283820,23087,2005,Male,New Mexico,9454.84
+457,457,43177,43177,Less Than High School,Educational Services,14104663,2140,2005,Male,New Mexico,6590.96
+458,458,43178,43178,High School Graduate,Educational Services,41063037,5157,2005,Male,New Mexico,7962.58
+459,459,43179,43179,Some College,Educational Services,66281376,7143,2005,Male,New Mexico,9279.21
+460,460,43180,43180,Advanced Degree,Educational Services,93173686,7483,2005,Male,New Mexico,12451.38
+461,461,43181,43181,Unavalble,Educational Services,3661058,1164,2005,Male,New Mexico,3145.24
+462,462,43182,43182,All Education Categories,Educational Services,362464830,49445,2005,Female,New Mexico,7330.67
+463,463,43183,43183,Less Than High School,Educational Services,16821913,3718,2005,Female,New Mexico,4524.45
+464,464,43184,43184,High School Graduate,Educational Services,66092601,11008,2005,Female,New Mexico,6004.05
+465,465,43185,43185,Some College,Educational Services,120173932,16748,2005,Female,New Mexico,7175.42
+466,466,43186,43186,Advanced Degree,Educational Services,152732515,15968,2005,Female,New Mexico,9564.91
+467,467,43187,43187,Unavalble,Educational Services,6643869,2002,2005,Female,New Mexico,3318.62
+468,468,43188,43188,All Education Categories,Health Care and Social Assistance,261782528,22143,2005,Male,New Mexico,11822.36
+469,469,43189,43189,Less Than High School,Health Care and Social Assistance,15436899,2513,2005,Male,New Mexico,6142.82
+470,470,43190,43190,High School Graduate,Health Care and Social Assistance,40651723,5017,2005,Male,New Mexico,8102.8
+471,471,43191,43191,Some College,Health Care and Social Assistance,79189712,7079,2005,Male,New Mexico,11186.57
+472,472,43192,43192,Advanced Degree,Health Care and Social Assistance,117542113,5179,2005,Male,New Mexico,22695.91
+473,473,43193,43193,Unavalble,Health Care and Social Assistance,8962080,2354,2005,Male,New Mexico,3807.17
+474,474,43194,43194,All Education Categories,Health Care and Social Assistance,510643194,76213,2005,Female,New Mexico,6700.21
+475,475,43195,43195,Less Than High School,Health Care and Social Assistance,38551391,9011,2005,Female,New Mexico,4278.26
+476,476,43196,43196,High School Graduate,Health Care and Social Assistance,96569457,17518,2005,Female,New Mexico,5512.58
+477,477,43197,43197,Some College,Health Care and Social Assistance,198386585,27953,2005,Female,New Mexico,7097.15
+478,478,43198,43198,Advanced Degree,Health Care and Social Assistance,147746873,14026,2005,Female,New Mexico,10533.79
+479,479,43199,43199,Unavalble,Health Care and Social Assistance,29388889,7704,2005,Female,New Mexico,3814.76
+480,480,43212,43212,All Education Categories,Accommodation and Food Services,124539042,33092,2005,Male,New Mexico,3763.42
+481,481,43213,43213,Less Than High School,Accommodation and Food Services,22064970,5466,2005,Male,New Mexico,4036.77
+482,482,43214,43214,High School Graduate,Accommodation and Food Services,28427625,6382,2005,Male,New Mexico,4454.34
+483,483,43215,43215,Some College,Accommodation and Food Services,27556374,5601,2005,Male,New Mexico,4919.9
+484,484,43216,43216,Advanced Degree,Accommodation and Food Services,12169061,2094,2005,Male,New Mexico,5811.39
+485,485,43217,43217,Unavalble,Accommodation and Food Services,34321012,13549,2005,Male,New Mexico,2533.1
+486,486,43218,43218,All Education Categories,Accommodation and Food Services,122031894,40184,2005,Female,New Mexico,3036.83
+487,487,43219,43219,Less Than High School,Accommodation and Food Services,21452596,6913,2005,Female,New Mexico,3103.23
+488,488,43220,43220,High School Graduate,Accommodation and Food Services,26755526,7805,2005,Female,New Mexico,3428.0
+489,489,43221,43221,Some College,Accommodation and Food Services,26791275,7171,2005,Female,New Mexico,3736.06
+490,490,43222,43222,Advanced Degree,Accommodation and Food Services,10920221,2537,2005,Female,New Mexico,4304.38
+491,491,43223,43223,Unavalble,Accommodation and Food Services,36112276,15757,2005,Female,New Mexico,2291.82
+492,492,43248,43248,All Education Categories,00,4018558556,381131,2006,Male,New Mexico,10543.77
+493,493,43249,43249,Less Than High School,00,444531934,57859,2006,Male,New Mexico,7683.02
+494,494,43250,43250,High School Graduate,00,922149583,94984,2006,Male,New Mexico,9708.47
+495,495,43251,43251,Some College,00,1237372703,106183,2006,Male,New Mexico,11653.21
+496,496,43252,43252,Advanced Degree,00,1141469233,63537,2006,Male,New Mexico,17965.43
+497,497,43253,43253,Unavalble,00,273035104,58567,2006,Male,New Mexico,4661.93
+498,498,43254,43254,All Education Categories,00,2594635234,371836,2006,Female,New Mexico,6977.9
+499,499,43255,43255,Less Than High School,00,216276427,44475,2006,Female,New Mexico,4862.88
+500,500,43256,43256,High School Graduate,00,543401148,87297,2006,Female,New Mexico,6224.74
+501,501,43257,43257,Some College,00,889367708,116015,2006,Female,New Mexico,7665.97
+502,502,43258,43258,Advanced Degree,00,743753105,67026,2006,Female,New Mexico,11096.49
+503,503,43259,43259,Unavalble,00,201836847,57022,2006,Female,New Mexico,3539.63
+504,504,43308,43308,All Education Categories,Manufacturing,361173161,26890,2006,Male,New Mexico,13431.5
+505,505,43309,43309,Less Than High School,Manufacturing,40656577,4560,2006,Male,New Mexico,8915.92
+506,506,43310,43310,High School Graduate,Manufacturing,89106268,7331,2006,Male,New Mexico,12154.72
+507,507,43311,43311,Some College,Manufacturing,124547032,8400,2006,Male,New Mexico,14827.03
+508,508,43312,43312,Advanced Degree,Manufacturing,92388683,4229,2006,Male,New Mexico,21846.46
+509,509,43313,43313,Unavalble,Manufacturing,14474601,2370,2006,Male,New Mexico,6107.43
+510,510,43314,43314,All Education Categories,Manufacturing,107411363,11566,2006,Female,New Mexico,9286.82
+511,511,43315,43315,Less Than High School,Manufacturing,13505510,2276,2006,Female,New Mexico,5933.88
+512,512,43316,43316,High School Graduate,Manufacturing,25162095,3013,2006,Female,New Mexico,8351.18
+513,513,43317,43317,Some College,Manufacturing,36559771,3509,2006,Female,New Mexico,10418.86
+514,514,43318,43318,Advanced Degree,Manufacturing,27513309,1771,2006,Female,New Mexico,15535.47
+515,515,43319,43319,Unavalble,Manufacturing,4670678,996,2006,Female,New Mexico,4689.44
+516,516,43332,43332,All Education Categories,Retail Trade,371210781,47938,2006,Male,New Mexico,7743.56
+517,517,43333,43333,Less Than High School,Retail Trade,45251345,6988,2006,Male,New Mexico,6475.58
+518,518,43334,43334,High School Graduate,Retail Trade,102034586,12638,2006,Male,New Mexico,8073.63
+519,519,43335,43335,Some College,Retail Trade,115255373,12032,2006,Male,New Mexico,9579.07
+520,520,43336,43336,Advanced Degree,Retail Trade,64051098,4287,2006,Male,New Mexico,14940.77
+521,521,43337,43337,Unavalble,Retail Trade,44618379,11993,2006,Male,New Mexico,3720.37
+522,522,43338,43338,All Education Categories,Retail Trade,236091723,49608,2006,Female,New Mexico,4759.15
+523,523,43339,43339,Less Than High School,Retail Trade,31294072,7164,2006,Female,New Mexico,4368.24
+524,524,43340,43340,High School Graduate,Retail Trade,66355922,13241,2006,Female,New Mexico,5011.4
+525,525,43341,43341,Some College,Retail Trade,70711424,12666,2006,Female,New Mexico,5582.77
+526,526,43342,43342,Advanced Degree,Retail Trade,32185980,4126,2006,Female,New Mexico,7800.77
+527,527,43343,43343,Unavalble,Retail Trade,35544326,12411,2006,Female,New Mexico,2863.94
+528,528,43368,43368,All Education Categories,Finance and Insurance,120651469,6517,2006,Male,New Mexico,18513.34
+529,529,43369,43369,Less Than High School,Finance and Insurance,4120461,454,2006,Male,New Mexico,9075.91
+530,530,43370,43370,High School Graduate,Finance and Insurance,15405183,1246,2006,Male,New Mexico,12363.71
+531,531,43371,43371,Some College,Finance and Insurance,32030193,1870,2006,Male,New Mexico,17128.45
+532,532,43372,43372,Advanced Degree,Finance and Insurance,64798652,2178,2006,Male,New Mexico,29751.45
+533,533,43373,43373,Unavalble,Finance and Insurance,4296980,770,2006,Male,New Mexico,5580.49
+534,534,43374,43374,All Education Categories,Finance and Insurance,159798600,17592,2006,Female,New Mexico,9083.59
+535,535,43375,43375,Less Than High School,Finance and Insurance,7171268,1131,2006,Female,New Mexico,6340.64
+536,536,43376,43376,High School Graduate,Finance and Insurance,30218041,3846,2006,Female,New Mexico,7857.0
+537,537,43377,43377,Some College,Finance and Insurance,53721248,5826,2006,Female,New Mexico,9220.95
+538,538,43378,43378,Advanced Degree,Finance and Insurance,55344045,4121,2006,Female,New Mexico,13429.76
+539,539,43379,43379,Unavalble,Finance and Insurance,13343999,2668,2006,Female,New Mexico,5001.5
+540,540,43428,43428,All Education Categories,Educational Services,248362619,25842,2006,Male,New Mexico,9610.81
+541,541,43429,43429,Less Than High School,Educational Services,16765956,2460,2006,Male,New Mexico,6815.43
+542,542,43430,43430,High School Graduate,Educational Services,47797635,5874,2006,Male,New Mexico,8137.15
+543,543,43431,43431,Some College,Educational Services,75606824,8018,2006,Male,New Mexico,9429.64
+544,544,43432,43432,Advanced Degree,Educational Services,103816408,8303,2006,Male,New Mexico,12503.48
+545,545,43433,43433,Unavalble,Educational Services,4375796,1187,2006,Male,New Mexico,3686.43
+546,546,43434,43434,All Education Categories,Educational Services,433325654,56285,2006,Female,New Mexico,7698.78
+547,547,43435,43435,Less Than High School,Educational Services,21006258,4347,2006,Female,New Mexico,4832.36
+548,548,43436,43436,High School Graduate,Educational Services,80188966,12673,2006,Female,New Mexico,6327.54
+549,549,43437,43437,Some College,Educational Services,144691606,19134,2006,Female,New Mexico,7562.02
+550,550,43438,43438,Advanced Degree,Educational Services,179343775,17956,2006,Female,New Mexico,9987.96
+551,551,43439,43439,Unavalble,Educational Services,8095048,2175,2006,Female,New Mexico,3721.86
+552,552,43440,43440,All Education Categories,Health Care and Social Assistance,295103432,22203,2006,Male,New Mexico,13291.15
+553,553,43441,43441,Less Than High School,Health Care and Social Assistance,17775088,2543,2006,Male,New Mexico,6989.81
+554,554,43442,43442,High School Graduate,Health Care and Social Assistance,46536499,5049,2006,Male,New Mexico,9216.97
+555,555,43443,43443,Some College,Health Care and Social Assistance,90109676,7159,2006,Male,New Mexico,12586.91
+556,556,43444,43444,Advanced Degree,Health Care and Social Assistance,130913781,5246,2006,Male,New Mexico,24954.97
+557,557,43445,43445,Unavalble,Health Care and Social Assistance,9768388,2207,2006,Male,New Mexico,4426.09
+558,558,43446,43446,All Education Categories,Health Care and Social Assistance,579161133,75952,2006,Female,New Mexico,7625.36
+559,559,43447,43447,Less Than High School,Health Care and Social Assistance,43458151,8828,2006,Female,New Mexico,4922.76
+560,560,43448,43448,High School Graduate,Health Care and Social Assistance,109936356,17575,2006,Female,New Mexico,6255.27
+561,561,43449,43449,Some College,Health Care and Social Assistance,225511586,28063,2006,Female,New Mexico,8035.9
+562,562,43450,43450,Advanced Degree,Health Care and Social Assistance,167746408,14009,2006,Female,New Mexico,11974.19
+563,563,43451,43451,Unavalble,Health Care and Social Assistance,32508633,7476,2006,Female,New Mexico,4348.4
+564,564,43464,43464,All Education Categories,Accommodation and Food Services,139711736,33981,2006,Male,New Mexico,4111.47
+565,565,43465,43465,Less Than High School,Accommodation and Food Services,24981684,5720,2006,Male,New Mexico,4367.43
+566,566,43466,43466,High School Graduate,Accommodation and Food Services,32713423,6787,2006,Male,New Mexico,4820.01
+567,567,43467,43467,Some College,Accommodation and Food Services,31015310,5870,2006,Male,New Mexico,5283.7
+568,568,43468,43468,Advanced Degree,Accommodation and Food Services,13561736,2194,2006,Male,New Mexico,6181.28
+569,569,43469,43469,Unavalble,Accommodation and Food Services,37439583,13410,2006,Male,New Mexico,2791.92
+570,570,43470,43470,All Education Categories,Accommodation and Food Services,136107953,40894,2006,Female,New Mexico,3328.31
+571,571,43471,43471,Less Than High School,Accommodation and Food Services,24179075,7088,2006,Female,New Mexico,3411.27
+572,572,43472,43472,High School Graduate,Accommodation and Food Services,30332858,8110,2006,Female,New Mexico,3740.18
+573,573,43473,43473,Some College,Accommodation and Food Services,30143028,7393,2006,Female,New Mexico,4077.24
+574,574,43474,43474,Advanced Degree,Accommodation and Food Services,12572942,2630,2006,Female,New Mexico,4780.59
+575,575,43475,43475,Unavalble,Accommodation and Food Services,38880050,15674,2006,Female,New Mexico,2480.54
+576,576,43500,43500,All Education Categories,00,4228481537,386634,2007,Male,New Mexico,10936.65
+577,577,43501,43501,Less Than High School,00,459460659,59194,2007,Male,New Mexico,7761.95
+578,578,43502,43502,High School Graduate,00,949580745,96403,2007,Male,New Mexico,9850.12
+579,579,43503,43503,Some College,00,1289064655,107085,2007,Male,New Mexico,12037.77
+580,580,43504,43504,Advanced Degree,00,1247161391,64883,2007,Male,New Mexico,19221.7
+581,581,43505,43505,Unavalble,00,283214088,59070,2007,Male,New Mexico,4794.55
+582,582,43506,43506,All Education Categories,00,2754885921,379911,2007,Female,New Mexico,7251.4
+583,583,43507,43507,Less Than High School,00,237345028,47330,2007,Female,New Mexico,5014.68
+584,584,43508,43508,High School Graduate,00,576790519,89586,2007,Female,New Mexico,6438.4
+585,585,43509,43509,Some College,00,939052200,117780,2007,Female,New Mexico,7972.93
+586,586,43510,43510,Advanced Degree,00,790892071,67203,2007,Female,New Mexico,11768.7
+587,587,43511,43511,Unavalble,00,210806104,58013,2007,Female,New Mexico,3633.77
+588,588,43560,43560,All Education Categories,Manufacturing,362821253,28054,2007,Male,New Mexico,12932.96
+589,589,43561,43561,Less Than High School,Manufacturing,41932780,4774,2007,Male,New Mexico,8783.57
+590,590,43562,43562,High School Graduate,Manufacturing,91124583,7690,2007,Male,New Mexico,11849.75
+591,591,43563,43563,Some College,Manufacturing,124254848,8705,2007,Male,New Mexico,14273.96
+592,592,43564,43564,Advanced Degree,Manufacturing,90095045,4368,2007,Male,New Mexico,20626.15
+593,593,43565,43565,Unavalble,Manufacturing,15413997,2517,2007,Male,New Mexico,6123.96
+594,594,43566,43566,All Education Categories,Manufacturing,106856535,11861,2007,Female,New Mexico,9009.07
+595,595,43567,43567,Less Than High School,Manufacturing,14549777,2419,2007,Female,New Mexico,6014.79
+596,596,43568,43568,High School Graduate,Manufacturing,25440946,3082,2007,Female,New Mexico,8254.69
+597,597,43569,43569,Some College,Manufacturing,36070907,3545,2007,Female,New Mexico,10175.15
+598,598,43570,43570,Advanced Degree,Manufacturing,25929255,1779,2007,Female,New Mexico,14575.19
+599,599,43571,43571,Unavalble,Manufacturing,4865651,1037,2007,Female,New Mexico,4692.05
+600,600,43584,43584,All Education Categories,Retail Trade,378431191,47643,2007,Male,New Mexico,7943.06
+601,601,43585,43585,Less Than High School,Retail Trade,48663730,6976,2007,Male,New Mexico,6975.88
+602,602,43586,43586,High School Graduate,Retail Trade,103932466,12621,2007,Male,New Mexico,8234.88
+603,603,43587,43587,Some College,Retail Trade,117471084,11990,2007,Male,New Mexico,9797.42
+604,604,43588,43588,Advanced Degree,Retail Trade,62321918,4261,2007,Male,New Mexico,14626.12
+605,605,43589,43589,Unavalble,Retail Trade,46041993,11795,2007,Male,New Mexico,3903.52
+606,606,43590,43590,All Education Categories,Retail Trade,255831539,50798,2007,Female,New Mexico,5036.25
+607,607,43591,43591,Less Than High School,Retail Trade,35381973,7439,2007,Female,New Mexico,4756.28
+608,608,43592,43592,High School Graduate,Retail Trade,72306364,13612,2007,Female,New Mexico,5311.96
+609,609,43593,43593,Some College,Retail Trade,77039840,13094,2007,Female,New Mexico,5883.6
+610,610,43594,43594,Advanced Degree,Retail Trade,34472200,4292,2007,Female,New Mexico,8031.73
+611,611,43595,43595,Unavalble,Retail Trade,36631162,12362,2007,Female,New Mexico,2963.21
+612,612,43620,43620,All Education Categories,Finance and Insurance,131699845,6297,2007,Male,New Mexico,20914.7
+613,613,43621,43621,Less Than High School,Finance and Insurance,4572696,449,2007,Male,New Mexico,10184.18
+614,614,43622,43622,High School Graduate,Finance and Insurance,16536056,1226,2007,Male,New Mexico,13487.81
+615,615,43623,43623,Some College,Finance and Insurance,34339631,1839,2007,Male,New Mexico,18672.99
+616,616,43624,43624,Advanced Degree,Finance and Insurance,72126377,2105,2007,Male,New Mexico,34264.31
+617,617,43625,43625,Unavalble,Finance and Insurance,4125086,679,2007,Male,New Mexico,6075.24
+618,618,43626,43626,All Education Categories,Finance and Insurance,167880958,17393,2007,Female,New Mexico,9652.21
+619,619,43627,43627,Less Than High School,Finance and Insurance,8112189,1199,2007,Female,New Mexico,6765.8
+620,620,43628,43628,High School Graduate,Finance and Insurance,31837809,3850,2007,Female,New Mexico,8269.56
+621,621,43629,43629,Some College,Finance and Insurance,56351845,5771,2007,Female,New Mexico,9764.66
+622,622,43630,43630,Advanced Degree,Finance and Insurance,58086252,4034,2007,Female,New Mexico,14399.17
+623,623,43631,43631,Unavalble,Finance and Insurance,13492863,2540,2007,Female,New Mexico,5312.15
+624,624,43680,43680,All Education Categories,Educational Services,211327633,22332,2007,Male,New Mexico,9463.0
+625,625,43681,43681,Less Than High School,Educational Services,14842126,2162,2007,Male,New Mexico,6865.0
+626,626,43682,43682,High School Graduate,Educational Services,42763058,5249,2007,Male,New Mexico,8146.9
+627,627,43683,43683,Some College,Educational Services,65055893,6948,2007,Male,New Mexico,9363.25
+628,628,43684,43684,Advanced Degree,Educational Services,84027839,6884,2007,Male,New Mexico,12206.25
+629,629,43685,43685,Unavalble,Educational Services,4638717,1090,2007,Male,New Mexico,4255.7
+630,630,43686,43686,All Education Categories,Educational Services,402187218,50973,2007,Female,New Mexico,7890.2
+631,631,43687,43687,Less Than High School,Educational Services,20249232,4049,2007,Female,New Mexico,5001.05
+632,632,43688,43688,High School Graduate,Educational Services,76306759,11675,2007,Female,New Mexico,6535.91
+633,633,43689,43689,Some College,Educational Services,135247487,17367,2007,Female,New Mexico,7787.61
+634,634,43690,43690,Advanced Degree,Educational Services,162284848,15882,2007,Female,New Mexico,10218.16
+635,635,43691,43691,Unavalble,Educational Services,8098894,2000,2007,Female,New Mexico,4049.45
+636,636,43692,43692,All Education Categories,Health Care and Social Assistance,314972165,22863,2007,Male,New Mexico,13776.5
+637,637,43693,43693,Less Than High School,Health Care and Social Assistance,19680681,2802,2007,Male,New Mexico,7023.8
+638,638,43694,43694,High School Graduate,Health Care and Social Assistance,50665099,5353,2007,Male,New Mexico,9464.8
+639,639,43695,43695,Some College,Health Care and Social Assistance,95614717,7337,2007,Male,New Mexico,13031.85
+640,640,43696,43696,Advanced Degree,Health Care and Social Assistance,139087772,5194,2007,Male,New Mexico,26778.55
+641,641,43697,43697,Unavalble,Health Care and Social Assistance,9923896,2176,2007,Male,New Mexico,4560.61
+642,642,43698,43698,All Education Categories,Health Care and Social Assistance,636634610,81289,2007,Female,New Mexico,7831.74
+643,643,43699,43699,Less Than High School,Health Care and Social Assistance,51050256,10345,2007,Female,New Mexico,4934.78
+644,644,43700,43700,High School Graduate,Health Care and Social Assistance,122404218,18983,2007,Female,New Mexico,6448.1
+645,645,43701,43701,Some College,Health Care and Social Assistance,245695281,29411,2007,Female,New Mexico,8353.86
+646,646,43702,43702,Advanced Degree,Health Care and Social Assistance,182756516,14582,2007,Female,New Mexico,12533.02
+647,647,43703,43703,Unavalble,Health Care and Social Assistance,34728339,7968,2007,Female,New Mexico,4358.48
+648,648,43716,43716,All Education Categories,Accommodation and Food Services,144986088,34427,2007,Male,New Mexico,4211.41
+649,649,43717,43717,Less Than High School,Accommodation and Food Services,26295391,5919,2007,Male,New Mexico,4442.54
+650,650,43718,43718,High School Graduate,Accommodation and Food Services,34191645,6941,2007,Male,New Mexico,4926.04
+651,651,43719,43719,Some College,Accommodation and Food Services,32440982,5963,2007,Male,New Mexico,5440.38
+652,652,43720,43720,Advanced Degree,Accommodation and Food Services,13622549,2223,2007,Male,New Mexico,6128.0
+653,653,43721,43721,Unavalble,Accommodation and Food Services,38435522,13382,2007,Male,New Mexico,2872.18
+654,654,43722,43722,All Education Categories,Accommodation and Food Services,142587708,41977,2007,Female,New Mexico,3396.81
+655,655,43723,43723,Less Than High School,Accommodation and Food Services,26007758,7417,2007,Female,New Mexico,3506.51
+656,656,43724,43724,High School Graduate,Accommodation and Food Services,32029295,8337,2007,Female,New Mexico,3841.82
+657,657,43725,43725,Some College,Accommodation and Food Services,31518321,7568,2007,Female,New Mexico,4164.68
+658,658,43726,43726,Advanced Degree,Accommodation and Food Services,12936410,2716,2007,Female,New Mexico,4763.04
+659,659,43727,43727,Unavalble,Accommodation and Food Services,40095924,15939,2007,Female,New Mexico,2515.59
+660,660,43752,43752,All Education Categories,00,4584858821,395149,2008,Male,New Mexico,11602.86
+661,661,43753,43753,Less Than High School,00,519736107,61957,2008,Male,New Mexico,8388.66
+662,662,43754,43754,High School Graduate,00,1050819463,99624,2008,Male,New Mexico,10547.85
+663,663,43755,43755,Some College,00,1403421652,110026,2008,Male,New Mexico,12755.36
+664,664,43756,43756,Advanced Degree,00,1318638780,65636,2008,Male,New Mexico,20090.18
+665,665,43757,43757,Unavalble,00,292242820,57906,2008,Male,New Mexico,5046.85
+666,666,43758,43758,All Education Categories,00,2991868214,386738,2008,Female,New Mexico,7736.16
+667,667,43759,43759,Less Than High School,00,268705255,50158,2008,Female,New Mexico,5357.18
+668,668,43760,43760,High School Graduate,00,631264488,91783,2008,Female,New Mexico,6877.79
+669,669,43761,43761,Some College,00,1022761952,120065,2008,Female,New Mexico,8518.4
+670,670,43762,43762,Advanced Degree,00,851327945,67824,2008,Female,New Mexico,12552.02
+671,671,43763,43763,Unavalble,00,217808575,56909,2008,Female,New Mexico,3827.31
+672,672,43812,43812,All Education Categories,Manufacturing,364717064,25763,2008,Male,New Mexico,14156.62
+673,673,43813,43813,Less Than High School,Manufacturing,41838871,4436,2008,Male,New Mexico,9431.67
+674,674,43814,43814,High School Graduate,Manufacturing,90328738,7095,2008,Male,New Mexico,12731.32
+675,675,43815,43815,Some College,Manufacturing,124948576,8028,2008,Male,New Mexico,15564.1
+676,676,43816,43816,Advanced Degree,Manufacturing,93523440,4005,2008,Male,New Mexico,23351.67
+677,677,43817,43817,Unavalble,Manufacturing,14077439,2198,2008,Male,New Mexico,6404.66
+678,678,43818,43818,All Education Categories,Manufacturing,108891402,11300,2008,Female,New Mexico,9636.41
+679,679,43819,43819,Less Than High School,Manufacturing,15314520,2386,2008,Female,New Mexico,6418.49
+680,680,43820,43820,High School Graduate,Manufacturing,25804712,2951,2008,Female,New Mexico,8744.4
+681,681,43821,43821,Some College,Manufacturing,36696192,3379,2008,Female,New Mexico,10860.07
+682,682,43822,43822,Advanced Degree,Manufacturing,26847149,1654,2008,Female,New Mexico,16231.65
+683,683,43823,43823,Unavalble,Manufacturing,4228831,929,2008,Female,New Mexico,4552.02
+684,684,43836,43836,All Education Categories,Retail Trade,387775068,49448,2008,Male,New Mexico,7842.08
+685,685,43837,43837,Less Than High School,Retail Trade,51039083,7516,2008,Male,New Mexico,6790.72
+686,686,43838,43838,High School Graduate,Retail Trade,106598383,13056,2008,Male,New Mexico,8164.7
+687,687,43839,43839,Some College,Retail Trade,118821841,12378,2008,Male,New Mexico,9599.44
+688,688,43840,43840,Advanced Degree,Retail Trade,64827422,4413,2008,Male,New Mexico,14690.1
+689,689,43841,43841,Unavalble,Retail Trade,46488339,12086,2008,Male,New Mexico,3846.46
+690,690,43842,43842,All Education Categories,Retail Trade,261302360,51932,2008,Female,New Mexico,5031.63
+691,691,43843,43843,Less Than High School,Retail Trade,37403352,7992,2008,Female,New Mexico,4680.1
+692,692,43844,43844,High School Graduate,Retail Trade,73572100,13927,2008,Female,New Mexico,5282.7
+693,693,43845,43845,Some College,Retail Trade,78371924,13469,2008,Female,New Mexico,5818.69
+694,694,43846,43846,Advanced Degree,Retail Trade,35033414,4439,2008,Female,New Mexico,7892.19
+695,695,43847,43847,Unavalble,Retail Trade,36921571,12105,2008,Female,New Mexico,3050.11
+696,696,43872,43872,All Education Categories,Finance and Insurance,127402159,6088,2008,Male,New Mexico,20926.77
+697,697,43873,43873,Less Than High School,Finance and Insurance,4941007,465,2008,Male,New Mexico,10625.82
+698,698,43874,43874,High School Graduate,Finance and Insurance,16971910,1211,2008,Male,New Mexico,14014.79
+699,699,43875,43875,Some College,Finance and Insurance,33725789,1785,2008,Male,New Mexico,18894.0
+700,700,43876,43876,Advanced Degree,Finance and Insurance,68003722,2019,2008,Male,New Mexico,33681.88
+701,701,43877,43877,Unavalble,Finance and Insurance,3759731,608,2008,Male,New Mexico,6183.77
+702,702,43878,43878,All Education Categories,Finance and Insurance,167837198,16881,2008,Female,New Mexico,9942.37
+703,703,43879,43879,Less Than High School,Finance and Insurance,8706600,1256,2008,Female,New Mexico,6932.01
+704,704,43880,43880,High School Graduate,Finance and Insurance,32318255,3804,2008,Female,New Mexico,8495.86
+705,705,43881,43881,Some College,Finance and Insurance,56444306,5615,2008,Female,New Mexico,10052.41
+706,706,43882,43882,Advanced Degree,Finance and Insurance,57993273,3872,2008,Female,New Mexico,14977.6
+707,707,43883,43883,Unavalble,Finance and Insurance,12374763,2335,2008,Female,New Mexico,5299.68
+708,708,43932,43932,All Education Categories,Educational Services,271220070,24818,2008,Male,New Mexico,10928.36
+709,709,43933,43933,Less Than High School,Educational Services,19730491,2513,2008,Male,New Mexico,7851.37
+710,710,43934,43934,High School Graduate,Educational Services,54114337,5762,2008,Male,New Mexico,9391.59
+711,711,43935,43935,Some College,Educational Services,83436067,7763,2008,Male,New Mexico,10747.92
+712,712,43936,43936,Advanced Degree,Educational Services,109913130,7719,2008,Male,New Mexico,14239.3
+713,713,43937,43937,Unavalble,Educational Services,4026044,1061,2008,Male,New Mexico,3794.57
+714,714,43938,43938,All Education Categories,Educational Services,485063038,53913,2008,Female,New Mexico,8997.14
+715,715,43939,43939,Less Than High School,Educational Services,26689429,4723,2008,Female,New Mexico,5650.95
+716,716,43940,43940,High School Graduate,Educational Services,92115329,12311,2008,Female,New Mexico,7482.36
+717,717,43941,43941,Some College,Educational Services,164131243,18350,2008,Female,New Mexico,8944.48
+718,718,43942,43942,Advanced Degree,Educational Services,193833385,16494,2008,Female,New Mexico,11751.75
+719,719,43943,43943,Unavalble,Educational Services,8293652,2034,2008,Female,New Mexico,4077.51
+720,720,43944,43944,All Education Categories,Health Care and Social Assistance,340822533,23562,2008,Male,New Mexico,14464.92
+721,721,43945,43945,Less Than High School,Health Care and Social Assistance,22814767,2982,2008,Male,New Mexico,7650.83
+722,722,43946,43946,High School Graduate,Health Care and Social Assistance,56163563,5533,2008,Male,New Mexico,10150.65
+723,723,43947,43947,Some College,Health Care and Social Assistance,103883616,7542,2008,Male,New Mexico,13774.01
+724,724,43948,43948,Advanced Degree,Health Care and Social Assistance,147592526,5330,2008,Male,New Mexico,27690.91
+725,725,43949,43949,Unavalble,Health Care and Social Assistance,10368061,2176,2008,Male,New Mexico,4764.73
+726,726,43950,43950,All Education Categories,Health Care and Social Assistance,701605764,82765,2008,Female,New Mexico,8477.08
+727,727,43951,43951,Less Than High School,Health Care and Social Assistance,59271389,10900,2008,Female,New Mexico,5437.74
+728,728,43952,43952,High School Graduate,Health Care and Social Assistance,136445978,19411,2008,Female,New Mexico,7029.31
+729,729,43953,43953,Some College,Health Care and Social Assistance,269080496,29715,2008,Female,New Mexico,9055.38
+730,730,43954,43954,Advanced Degree,Health Care and Social Assistance,198699753,14586,2008,Female,New Mexico,13622.63
+731,731,43955,43955,Unavalble,Health Care and Social Assistance,38108149,8153,2008,Female,New Mexico,4674.13
+732,732,43968,43968,All Education Categories,Accommodation and Food Services,157631661,35329,2008,Male,New Mexico,4461.82
+733,733,43969,43969,Less Than High School,Accommodation and Food Services,29216467,6174,2008,Male,New Mexico,4732.18
+734,734,43970,43970,High School Graduate,Accommodation and Food Services,37326715,7278,2008,Male,New Mexico,5128.71
+735,735,43971,43971,Some College,Accommodation and Food Services,35245713,6236,2008,Male,New Mexico,5651.97
+736,736,43972,43972,Advanced Degree,Accommodation and Food Services,15457638,2351,2008,Male,New Mexico,6574.92
+737,737,43973,43973,Unavalble,Accommodation and Food Services,40385128,13289,2008,Male,New Mexico,3038.99
+738,738,43974,43974,All Education Categories,Accommodation and Food Services,157890748,43022,2008,Female,New Mexico,3670.0
+739,739,43975,43975,Less Than High School,Accommodation and Food Services,29125484,7715,2008,Female,New Mexico,3775.18
+740,740,43976,43976,High School Graduate,Accommodation and Food Services,35692131,8668,2008,Female,New Mexico,4117.69
+741,741,43977,43977,Some College,Accommodation and Food Services,35320428,7868,2008,Female,New Mexico,4489.12
+742,742,43978,43978,Advanced Degree,Accommodation and Food Services,14627932,2807,2008,Female,New Mexico,5211.23
+743,743,43979,43979,Unavalble,Accommodation and Food Services,43124773,15964,2008,Female,New Mexico,2701.38
+744,744,44004,44004,All Education Categories,00,4306098972,380493,2009,Male,New Mexico,11317.16
+745,745,44005,44005,Less Than High School,00,487606737,60701,2009,Male,New Mexico,8032.93
+746,746,44006,44006,High School Graduate,00,995822324,96919,2009,Male,New Mexico,10274.79
+747,747,44007,44007,Some College,00,1325689943,106880,2009,Male,New Mexico,12403.54
+748,748,44008,44008,Advanced Degree,00,1248236972,64126,2009,Male,New Mexico,19465.38
+749,749,44009,44009,Unavalble,00,248742996,51867,2009,Male,New Mexico,4795.79
+750,750,44010,44010,All Education Categories,00,2920993378,382040,2009,Female,New Mexico,7645.78
+751,751,44011,44011,Less Than High School,00,272945231,50948,2009,Female,New Mexico,5357.33
+752,752,44012,44012,High School Graduate,00,625733199,91417,2009,Female,New Mexico,6844.82
+753,753,44013,44013,Some College,00,1001181030,119391,2009,Female,New Mexico,8385.73
+754,754,44014,44014,Advanced Degree,00,820985237,67424,2009,Female,New Mexico,12176.45
+755,755,44015,44015,Unavalble,00,200148681,52860,2009,Female,New Mexico,3786.39
+756,756,44064,44064,All Education Categories,Manufacturing,326998577,23038,2009,Male,New Mexico,14193.88
+757,757,44065,44065,Less Than High School,Manufacturing,36419522,4042,2009,Male,New Mexico,9010.27
+758,758,44066,44066,High School Graduate,Manufacturing,79907397,6340,2009,Male,New Mexico,12603.69
+759,759,44067,44067,Some College,Manufacturing,113122934,7223,2009,Male,New Mexico,15661.49
+760,760,44068,44068,Advanced Degree,Manufacturing,86856191,3610,2009,Male,New Mexico,24059.89
+761,761,44069,44069,Unavalble,Manufacturing,10692532,1822,2009,Male,New Mexico,5868.57
+762,762,44070,44070,All Education Categories,Manufacturing,95708860,9719,2009,Female,New Mexico,9847.6
+763,763,44071,44071,Less Than High School,Manufacturing,12687584,2008,2009,Female,New Mexico,6318.52
+764,764,44072,44072,High School Graduate,Manufacturing,22678978,2568,2009,Female,New Mexico,8831.38
+765,765,44073,44073,Some College,Manufacturing,32820782,2931,2009,Female,New Mexico,11197.81
+766,766,44074,44074,Advanced Degree,Manufacturing,23880591,1434,2009,Female,New Mexico,16653.13
+767,767,44075,44075,Unavalble,Manufacturing,3640924,778,2009,Female,New Mexico,4679.85
+768,768,44088,44088,All Education Categories,Retail Trade,349617174,47278,2009,Male,New Mexico,7394.92
+769,769,44089,44089,Less Than High School,Retail Trade,47260004,7420,2009,Male,New Mexico,6369.27
+770,770,44090,44090,High School Graduate,Retail Trade,97149188,12721,2009,Male,New Mexico,7636.91
+771,771,44091,44091,Some College,Retail Trade,107348739,12008,2009,Male,New Mexico,8939.77
+772,772,44092,44092,Advanced Degree,Retail Trade,58807831,4324,2009,Male,New Mexico,13600.33
+773,773,44093,44093,Unavalble,Retail Trade,39051411,10806,2009,Male,New Mexico,3613.86
+774,774,44094,44094,All Education Categories,Retail Trade,243989240,50183,2009,Female,New Mexico,4861.99
+775,775,44095,44095,Less Than High School,Retail Trade,36130939,7967,2009,Female,New Mexico,4535.07
+776,776,44096,44096,High School Graduate,Retail Trade,69310669,13525,2009,Female,New Mexico,5124.63
+777,777,44097,44097,Some College,Retail Trade,73595956,13160,2009,Female,New Mexico,5592.4
+778,778,44098,44098,Advanced Degree,Retail Trade,32564117,4386,2009,Female,New Mexico,7424.56
+779,779,44099,44099,Unavalble,Retail Trade,32387559,11145,2009,Female,New Mexico,2906.02
+780,780,44124,44124,All Education Categories,Finance and Insurance,115909952,6225,2009,Male,New Mexico,18620.07
+781,781,44125,44125,Less Than High School,Finance and Insurance,5139419,536,2009,Male,New Mexico,9588.47
+782,782,44126,44126,High School Graduate,Finance and Insurance,16484588,1269,2009,Male,New Mexico,12990.22
+783,783,44127,44127,Some College,Finance and Insurance,31674194,1865,2009,Male,New Mexico,16983.48
+784,784,44128,44128,Advanced Degree,Finance and Insurance,59598834,2021,2009,Male,New Mexico,29489.77
+785,785,44129,44129,Unavalble,Finance and Insurance,3012917,534,2009,Male,New Mexico,5642.17
+786,786,44130,44130,All Education Categories,Finance and Insurance,162732273,16682,2009,Female,New Mexico,9754.96
+787,787,44131,44131,Less Than High School,Finance and Insurance,9136065,1314,2009,Female,New Mexico,6952.87
+788,788,44132,44132,High School Graduate,Finance and Insurance,32082832,3790,2009,Female,New Mexico,8465.13
+789,789,44133,44133,Some College,Finance and Insurance,54889960,5578,2009,Female,New Mexico,9840.44
+790,790,44134,44134,Advanced Degree,Finance and Insurance,55519227,3828,2009,Female,New Mexico,14503.46
+791,791,44135,44135,Unavalble,Finance and Insurance,11104189,2172,2009,Female,New Mexico,5112.43
+792,792,44184,44184,All Education Categories,Educational Services,268018777,24655,2009,Male,New Mexico,10870.77
+793,793,44185,44185,Less Than High School,Educational Services,20405693,2613,2009,Male,New Mexico,7809.3
+794,794,44186,44186,High School Graduate,Educational Services,54250399,5848,2009,Male,New Mexico,9276.74
+795,795,44187,44187,Some College,Educational Services,82259776,7678,2009,Male,New Mexico,10713.7
+796,796,44188,44188,Advanced Degree,Educational Services,107299285,7500,2009,Male,New Mexico,14306.57
+797,797,44189,44189,Unavalble,Educational Services,3803624,1016,2009,Male,New Mexico,3743.72
+798,798,44190,44190,All Education Categories,Educational Services,477582089,54902,2009,Female,New Mexico,8698.81
+799,799,44191,44191,Less Than High School,Educational Services,28217029,5019,2009,Female,New Mexico,5622.04
+800,800,44192,44192,High School Graduate,Educational Services,92258589,12634,2009,Female,New Mexico,7302.41
+801,801,44193,44193,Some College,Educational Services,162134907,18690,2009,Female,New Mexico,8674.95
+802,802,44194,44194,Advanced Degree,Educational Services,186985806,16489,2009,Female,New Mexico,11340.03
+803,803,44195,44195,Unavalble,Educational Services,7985758,2069,2009,Female,New Mexico,3859.72
+804,804,44196,44196,All Education Categories,Health Care and Social Assistance,351063307,24920,2009,Male,New Mexico,14087.61
+805,805,44197,44197,Less Than High School,Health Care and Social Assistance,24457452,3282,2009,Male,New Mexico,7452.0
+806,806,44198,44198,High School Graduate,Health Care and Social Assistance,58309321,5938,2009,Male,New Mexico,9819.69
+807,807,44199,44199,Some College,Health Care and Social Assistance,105648628,7841,2009,Male,New Mexico,13473.87
+808,808,44200,44200,Advanced Degree,Health Care and Social Assistance,151988880,5523,2009,Male,New Mexico,27519.26
+809,809,44201,44201,Unavalble,Health Care and Social Assistance,10659026,2336,2009,Male,New Mexico,4562.94
+810,810,44202,44202,All Education Categories,Health Care and Social Assistance,719385156,86841,2009,Female,New Mexico,8283.93
+811,811,44203,44203,Less Than High School,Health Care and Social Assistance,64997535,11757,2009,Female,New Mexico,5528.41
+812,812,44204,44204,High School Graduate,Health Care and Social Assistance,143559065,20583,2009,Female,New Mexico,6974.64
+813,813,44205,44205,Some College,Health Care and Social Assistance,272613790,30921,2009,Female,New Mexico,8816.46
+814,814,44206,44206,Advanced Degree,Health Care and Social Assistance,199857972,15221,2009,Female,New Mexico,13130.41
+815,815,44207,44207,Unavalble,Health Care and Social Assistance,38356795,8359,2009,Female,New Mexico,4588.68
+816,816,44220,44220,All Education Categories,Accommodation and Food Services,161278569,34960,2009,Male,New Mexico,4613.23
+817,817,44221,44221,Less Than High School,Accommodation and Food Services,30497592,6458,2009,Male,New Mexico,4722.45
+818,818,44222,44222,High School Graduate,Accommodation and Food Services,39504745,7526,2009,Male,New Mexico,5249.1
+819,819,44223,44223,Some College,Accommodation and Food Services,37721189,6497,2009,Male,New Mexico,5805.94
+820,820,44224,44224,Advanced Degree,Accommodation and Food Services,16687209,2473,2009,Male,New Mexico,6747.76
+821,821,44225,44225,Unavalble,Accommodation and Food Services,36867834,12007,2009,Male,New Mexico,3070.53
+822,822,44226,44226,All Education Categories,Accommodation and Food Services,161195906,41785,2009,Female,New Mexico,3857.75
+823,823,44227,44227,Less Than High School,Accommodation and Food Services,30597317,7912,2009,Female,New Mexico,3867.2
+824,824,44228,44228,High School Graduate,Accommodation and Food Services,37445991,8755,2009,Female,New Mexico,4277.1
+825,825,44229,44229,Some College,Accommodation and Food Services,37615686,8024,2009,Female,New Mexico,4687.9
+826,826,44230,44230,Advanced Degree,Accommodation and Food Services,15177583,2883,2009,Female,New Mexico,5264.51
+827,827,44231,44231,Unavalble,Accommodation and Food Services,40359328,14212,2009,Female,New Mexico,2839.81
+828,828,44256,44256,All Education Categories,00,4073708213,362462,2010,Male,New Mexico,11238.99
+829,829,44257,44257,Less Than High School,00,462542496,58593,2010,Male,New Mexico,7894.16
+830,830,44258,44258,High School Graduate,00,943660197,93384,2010,Male,New Mexico,10105.16
+831,831,44259,44259,Some College,00,1257745633,102499,2010,Male,New Mexico,12270.81
+832,832,44260,44260,Advanced Degree,00,1200613886,62040,2010,Male,New Mexico,19352.25
+833,833,44261,44261,Unavalble,00,209146002,45946,2010,Male,New Mexico,4552.0
+834,834,44262,44262,All Education Categories,00,2780064550,371147,2010,Female,New Mexico,7490.47
+835,835,44263,44263,Less Than High School,00,271239942,51334,2010,Female,New Mexico,5283.83
+836,836,44264,44264,High School Graduate,00,602917573,89858,2010,Female,New Mexico,6709.67
+837,837,44265,44265,Some College,00,952552613,116516,2010,Female,New Mexico,8175.29
+838,838,44266,44266,Advanced Degree,00,782180930,65866,2010,Female,New Mexico,11875.34
+839,839,44267,44267,Unavalble,00,171173492,47574,2010,Female,New Mexico,3598.05
+840,840,44316,44316,All Education Categories,Manufacturing,297445480,20559,2010,Male,New Mexico,14467.9
+841,841,44317,44317,Less Than High School,Manufacturing,34047607,3730,2010,Male,New Mexico,9128.04
+842,842,44318,44318,High School Graduate,Manufacturing,73033271,5680,2010,Male,New Mexico,12857.97
+843,843,44319,44319,Some College,Manufacturing,102350382,6394,2010,Male,New Mexico,16007.25
+844,844,44320,44320,Advanced Degree,Manufacturing,79202712,3236,2010,Male,New Mexico,24475.5
+845,845,44321,44321,Unavalble,Manufacturing,8811509,1520,2010,Male,New Mexico,5797.05
+846,846,44322,44322,All Education Categories,Manufacturing,88087839,8972,2010,Female,New Mexico,9818.08
+847,847,44323,44323,Less Than High School,Manufacturing,12011989,1894,2010,Female,New Mexico,6342.13
+848,848,44324,44324,High School Graduate,Manufacturing,20849068,2380,2010,Female,New Mexico,8760.11
+849,849,44325,44325,Some College,Manufacturing,29682009,2695,2010,Female,New Mexico,11013.73
+850,850,44326,44326,Advanced Degree,Manufacturing,22341129,1327,2010,Female,New Mexico,16835.82
+851,851,44327,44327,Unavalble,Manufacturing,3203644,676,2010,Female,New Mexico,4739.12
+852,852,44340,44340,All Education Categories,Retail Trade,329469078,45222,2010,Male,New Mexico,7285.59
+853,853,44341,44341,Less Than High School,Retail Trade,45633545,7239,2010,Male,New Mexico,6303.85
+854,854,44342,44342,High School Graduate,Retail Trade,92620763,12341,2010,Male,New Mexico,7505.13
+855,855,44343,44343,Some College,Retail Trade,101793728,11658,2010,Male,New Mexico,8731.66
+856,856,44344,44344,Advanced Degree,Retail Trade,54755518,4267,2010,Male,New Mexico,12832.32
+857,857,44345,44345,Unavalble,Retail Trade,34665524,9716,2010,Male,New Mexico,3567.88
+858,858,44346,44346,All Education Categories,Retail Trade,233218878,45670,2010,Female,New Mexico,5106.61
+859,859,44347,44347,Less Than High School,Retail Trade,35231616,7441,2010,Female,New Mexico,4734.8
+860,860,44348,44348,High School Graduate,Retail Trade,66783316,12495,2010,Female,New Mexico,5344.8
+861,861,44349,44349,Some College,Retail Trade,70826566,12118,2010,Female,New Mexico,5844.74
+862,862,44350,44350,Advanced Degree,Retail Trade,31830970,4147,2010,Female,New Mexico,7675.66
+863,863,44351,44351,Unavalble,Retail Trade,28546410,9469,2010,Female,New Mexico,3014.72
+864,864,44376,44376,All Education Categories,Finance and Insurance,103888487,5403,2010,Male,New Mexico,19227.93
+865,865,44377,44377,Less Than High School,Finance and Insurance,4640269,467,2010,Male,New Mexico,9936.34
+866,866,44378,44378,High School Graduate,Finance and Insurance,15010162,1107,2010,Male,New Mexico,13559.32
+867,867,44379,44379,Some College,Finance and Insurance,28396512,1598,2010,Male,New Mexico,17770.03
+868,868,44380,44380,Advanced Degree,Finance and Insurance,53563837,1806,2010,Male,New Mexico,29658.82
+869,869,44381,44381,Unavalble,Finance and Insurance,2277707,425,2010,Male,New Mexico,5359.31
+870,870,44382,44382,All Education Categories,Finance and Insurance,137274048,14116,2010,Female,New Mexico,9724.71
+871,871,44383,44383,Less Than High School,Finance and Insurance,8359414,1198,2010,Female,New Mexico,6977.81
+872,872,44384,44384,High School Graduate,Finance and Insurance,27691393,3285,2010,Female,New Mexico,8429.65
+873,873,44385,44385,Some College,Finance and Insurance,46567758,4783,2010,Female,New Mexico,9736.1
+874,874,44386,44386,Advanced Degree,Finance and Insurance,46899669,3268,2010,Female,New Mexico,14351.18
+875,875,44387,44387,Unavalble,Finance and Insurance,7755813,1581,2010,Female,New Mexico,4905.64
+876,876,44436,44436,All Education Categories,Educational Services,256433078,24969,2010,Male,New Mexico,10270.06
+877,877,44437,44437,Less Than High School,Educational Services,20794723,2798,2010,Male,New Mexico,7432.0
+878,878,44438,44438,High School Graduate,Educational Services,53004278,6035,2010,Male,New Mexico,8782.81
+879,879,44439,44439,Some College,Educational Services,78136094,7712,2010,Male,New Mexico,10131.75
+880,880,44440,44440,Advanced Degree,Educational Services,100804320,7375,2010,Male,New Mexico,13668.38
+881,881,44441,44441,Unavalble,Educational Services,3693662,1049,2010,Male,New Mexico,3521.13
+882,882,44442,44442,All Education Categories,Educational Services,455719201,54494,2010,Female,New Mexico,8362.74
+883,883,44443,44443,Less Than High School,Educational Services,29011039,5250,2010,Female,New Mexico,5525.91
+884,884,44444,44444,High School Graduate,Educational Services,89584968,12652,2010,Female,New Mexico,7080.7
+885,885,44445,44445,Some College,Educational Services,154527509,18529,2010,Female,New Mexico,8339.77
+886,886,44446,44446,Advanced Degree,Educational Services,175742009,16131,2010,Female,New Mexico,10894.68
+887,887,44447,44447,Unavalble,Educational Services,6853676,1931,2010,Female,New Mexico,3549.29
+888,888,44448,44448,All Education Categories,Health Care and Social Assistance,345146207,25995,2010,Male,New Mexico,13277.41
+889,889,44449,44449,Less Than High School,Health Care and Social Assistance,25314831,3601,2010,Male,New Mexico,7029.94
+890,890,44450,44450,High School Graduate,Health Care and Social Assistance,58544842,6324,2010,Male,New Mexico,9257.57
+891,891,44451,44451,Some College,Health Care and Social Assistance,103219176,8059,2010,Male,New Mexico,12807.94
+892,892,44452,44452,Advanced Degree,Health Care and Social Assistance,147804579,5643,2010,Male,New Mexico,26192.55
+893,893,44453,44453,Unavalble,Health Care and Social Assistance,10262780,2369,2010,Male,New Mexico,4332.11
+894,894,44454,44454,All Education Categories,Health Care and Social Assistance,704899098,89362,2010,Female,New Mexico,7888.13
+895,895,44455,44455,Less Than High School,Health Care and Social Assistance,67879849,12765,2010,Female,New Mexico,5317.65
+896,896,44456,44456,High School Graduate,Health Care and Social Assistance,143754982,21539,2010,Female,New Mexico,6674.17
+897,897,44457,44457,Some College,Health Care and Social Assistance,265173402,31578,2010,Female,New Mexico,8397.41
+898,898,44458,44458,Advanced Degree,Health Care and Social Assistance,193010579,15427,2010,Female,New Mexico,12511.22
+899,899,44459,44459,Unavalble,Health Care and Social Assistance,35080286,8052,2010,Female,New Mexico,4356.72
+900,900,44472,44472,All Education Categories,Accommodation and Food Services,158360739,35805,2010,Male,New Mexico,4422.87
+901,901,44473,44473,Less Than High School,Accommodation and Food Services,30643259,6708,2010,Male,New Mexico,4568.17
+902,902,44474,44474,High School Graduate,Accommodation and Food Services,39340923,7833,2010,Male,New Mexico,5022.46
+903,903,44475,44475,Some College,Accommodation and Food Services,37425485,6824,2010,Male,New Mexico,5484.39
+904,904,44476,44476,Advanced Degree,Accommodation and Food Services,16295151,2714,2010,Male,New Mexico,6004.11
+905,905,44477,44477,Unavalble,Accommodation and Food Services,34655921,11726,2010,Male,New Mexico,2955.48
+906,906,44478,44478,All Education Categories,Accommodation and Food Services,154819539,41768,2010,Female,New Mexico,3706.65
+907,907,44479,44479,Less Than High School,Accommodation and Food Services,29777353,7986,2010,Female,New Mexico,3728.69
+908,908,44480,44480,High School Graduate,Accommodation and Food Services,36342232,8851,2010,Female,New Mexico,4106.0
+909,909,44481,44481,Some College,Accommodation and Food Services,36214408,8133,2010,Female,New Mexico,4452.77
+910,910,44482,44482,Advanced Degree,Accommodation and Food Services,15075569,3060,2010,Female,New Mexico,4926.66
+911,911,44483,44483,Unavalble,Accommodation and Food Services,37409977,13738,2010,Female,New Mexico,2723.1
+912,912,44508,44508,All Education Categories,00,4109643653,363851,2011,Male,New Mexico,11294.85
+913,913,44509,44509,Less Than High School,00,506702076,61183,2011,Male,New Mexico,8281.75
+914,914,44510,44510,High School Graduate,00,988732861,95438,2011,Male,New Mexico,10359.95
+915,915,44511,44511,Some College,00,1278258026,102673,2011,Male,New Mexico,12449.8
+916,916,44512,44512,Advanced Degree,00,1125115712,58655,2011,Male,New Mexico,19181.92
+917,917,44513,44513,Unavalble,00,210834977,45902,2011,Male,New Mexico,4593.15
+918,918,44514,44514,All Education Categories,00,2826222543,374227,2011,Female,New Mexico,7552.16
+919,919,44515,44515,Less Than High School,00,289700632,53091,2011,Female,New Mexico,5456.68
+920,920,44516,44516,High School Graduate,00,626398682,91509,2011,Female,New Mexico,6845.21
+921,921,44517,44517,Some College,00,972139348,117366,2011,Female,New Mexico,8282.97
+922,922,44518,44518,Advanced Degree,00,771406884,65150,2011,Female,New Mexico,11840.47
+923,923,44519,44519,Unavalble,00,166576997,47111,2011,Female,New Mexico,3535.84
+924,924,44568,44568,All Education Categories,Manufacturing,379999974,19193,2011,Male,New Mexico,19798.88
+925,925,44569,44569,Less Than High School,Manufacturing,39855185,3680,2011,Male,New Mexico,10830.21
+926,926,44570,44570,High School Graduate,Manufacturing,88615909,5364,2011,Male,New Mexico,16520.49
+927,927,44571,44571,Some College,Manufacturing,131431514,5759,2011,Male,New Mexico,22821.93
+928,928,44572,44572,Advanced Degree,Manufacturing,111454276,2934,2011,Male,New Mexico,37987.14
+929,929,44573,44573,Unavalble,Manufacturing,8643091,1455,2011,Male,New Mexico,5940.27
+930,930,44574,44574,All Education Categories,Manufacturing,107791341,8553,2011,Female,New Mexico,12602.75
+931,931,44575,44575,Less Than High School,Manufacturing,13183734,1854,2011,Female,New Mexico,7110.97
+932,932,44576,44576,High School Graduate,Manufacturing,24917993,2299,2011,Female,New Mexico,10838.62
+933,933,44577,44577,Some College,Manufacturing,36872103,2530,2011,Female,New Mexico,14573.95
+934,934,44578,44578,Advanced Degree,Manufacturing,29775133,1225,2011,Female,New Mexico,24306.23
+935,935,44579,44579,Unavalble,Manufacturing,3042379,645,2011,Female,New Mexico,4716.87
+936,936,44592,44592,All Education Categories,Retail Trade,350465795,46778,2011,Male,New Mexico,7492.11
+937,937,44593,44593,Less Than High School,Retail Trade,49787880,7567,2011,Male,New Mexico,6579.61
+938,938,44594,44594,High School Graduate,Retail Trade,98052773,12603,2011,Male,New Mexico,7780.11
+939,939,44595,44595,Some College,Retail Trade,107901798,11906,2011,Male,New Mexico,9062.81
+940,940,44596,44596,Advanced Degree,Retail Trade,56952745,4401,2011,Male,New Mexico,12940.86
+941,941,44597,44597,Unavalble,Retail Trade,37770600,10301,2011,Male,New Mexico,3666.69
+942,942,44598,44598,All Education Categories,Retail Trade,244786254,47748,2011,Female,New Mexico,5126.63
+943,943,44599,44599,Less Than High School,Retail Trade,37888204,7763,2011,Female,New Mexico,4880.61
+944,944,44600,44600,High School Graduate,Retail Trade,69721629,12813,2011,Female,New Mexico,5441.48
+945,945,44601,44601,Some College,Retail Trade,73968025,12524,2011,Female,New Mexico,5906.1
+946,946,44602,44602,Advanced Degree,Retail Trade,33187467,4341,2011,Female,New Mexico,7645.12
+947,947,44603,44603,Unavalble,Retail Trade,30020930,10307,2011,Female,New Mexico,2912.67
+948,948,44628,44628,All Education Categories,Finance and Insurance,112313672,5620,2011,Male,New Mexico,19984.64
+949,949,44629,44629,Less Than High School,Finance and Insurance,5240720,509,2011,Male,New Mexico,10296.11
+950,950,44630,44630,High School Graduate,Finance and Insurance,16536103,1199,2011,Male,New Mexico,13791.58
+951,951,44631,44631,Some College,Finance and Insurance,30912960,1683,2011,Male,New Mexico,18367.77
+952,952,44632,44632,Advanced Degree,Finance and Insurance,57329529,1815,2011,Male,New Mexico,31586.52
+953,953,44633,44633,Unavalble,Finance and Insurance,2294360,414,2011,Male,New Mexico,5541.93
+954,954,44634,44634,All Education Categories,Finance and Insurance,152199706,14677,2011,Female,New Mexico,10369.95
+955,955,44635,44635,Less Than High School,Finance and Insurance,9537304,1321,2011,Female,New Mexico,7219.76
+956,956,44636,44636,High School Graduate,Finance and Insurance,30649469,3476,2011,Female,New Mexico,8817.45
+957,957,44637,44637,Some College,Finance and Insurance,51961064,5033,2011,Female,New Mexico,10324.07
+958,958,44638,44638,Advanced Degree,Finance and Insurance,52875384,3415,2011,Female,New Mexico,15483.27
+959,959,44639,44639,Unavalble,Finance and Insurance,7176484,1431,2011,Female,New Mexico,5015.01
+960,960,44688,44688,All Education Categories,Educational Services,250972108,25109,2011,Male,New Mexico,9995.3
+961,961,44689,44689,Less Than High School,Educational Services,21353105,2900,2011,Male,New Mexico,7363.14
+962,962,44690,44690,High School Graduate,Educational Services,53451438,6171,2011,Male,New Mexico,8661.71
+963,963,44691,44691,Some College,Educational Services,76856173,7779,2011,Male,New Mexico,9879.96
+964,964,44692,44692,Advanced Degree,Educational Services,95715471,7200,2011,Male,New Mexico,13293.82
+965,965,44693,44693,Unavalble,Educational Services,3595921,1059,2011,Male,New Mexico,3395.58
+966,966,44694,44694,All Education Categories,Educational Services,460346904,55432,2011,Female,New Mexico,8304.71
+967,967,44695,44695,Less Than High School,Educational Services,31022964,5523,2011,Female,New Mexico,5617.05
+968,968,44696,44696,High School Graduate,Educational Services,92128112,12952,2011,Female,New Mexico,7113.04
+969,969,44697,44697,Some College,Educational Services,157551814,18952,2011,Female,New Mexico,8313.2
+970,970,44698,44698,Advanced Degree,Educational Services,173181735,16191,2011,Female,New Mexico,10696.17
+971,971,44699,44699,Unavalble,Educational Services,6462279,1814,2011,Female,New Mexico,3562.45
+972,972,44700,44700,All Education Categories,Health Care and Social Assistance,363046695,27090,2011,Male,New Mexico,13401.5
+973,973,44701,44701,Less Than High School,Health Care and Social Assistance,28478806,3917,2011,Male,New Mexico,7270.57
+974,974,44702,44702,High School Graduate,Health Care and Social Assistance,63589675,6703,2011,Male,New Mexico,9486.75
+975,975,44703,44703,Some College,Health Care and Social Assistance,108781404,8404,2011,Male,New Mexico,12944.0
+976,976,44704,44704,Advanced Degree,Health Care and Social Assistance,151905373,5755,2011,Male,New Mexico,26395.37
+977,977,44705,44705,Unavalble,Health Care and Social Assistance,10291437,2311,2011,Male,New Mexico,4453.24
+978,978,44706,44706,All Education Categories,Health Care and Social Assistance,743498472,91213,2011,Female,New Mexico,8151.23
+979,979,44707,44707,Less Than High School,Health Care and Social Assistance,74692339,13493,2011,Female,New Mexico,5535.64
+980,980,44708,44708,High School Graduate,Health Care and Social Assistance,154547025,22313,2011,Female,New Mexico,6926.32
+981,981,44709,44709,Some College,Health Care and Social Assistance,278765032,31968,2011,Female,New Mexico,8720.13
+982,982,44710,44710,Advanced Degree,Health Care and Social Assistance,201046220,15663,2011,Female,New Mexico,12835.74
+983,983,44711,44711,Unavalble,Health Care and Social Assistance,34447854,7776,2011,Female,New Mexico,4430.02
+984,984,44724,44724,All Education Categories,Accommodation and Food Services,162470030,37251,2011,Male,New Mexico,4361.49
+985,985,44725,44725,Less Than High School,Accommodation and Food Services,31852045,7043,2011,Male,New Mexico,4522.51
+986,986,44726,44726,High School Graduate,Accommodation and Food Services,40816366,8253,2011,Male,New Mexico,4945.64
+987,987,44727,44727,Some College,Accommodation and Food Services,38162865,7186,2011,Male,New Mexico,5310.72
+988,988,44728,44728,Advanced Degree,Accommodation and Food Services,17063845,2924,2011,Male,New Mexico,5835.79
+989,989,44729,44729,Unavalble,Accommodation and Food Services,34574909,11845,2011,Male,New Mexico,2918.95
+990,990,44730,44730,All Education Categories,Accommodation and Food Services,157785772,42574,2011,Female,New Mexico,3706.15
+991,991,44731,44731,Less Than High School,Accommodation and Food Services,30496580,8069,2011,Female,New Mexico,3779.47
+992,992,44732,44732,High School Graduate,Accommodation and Food Services,37049139,8984,2011,Female,New Mexico,4123.9
+993,993,44733,44733,Some College,Accommodation and Food Services,36937868,8348,2011,Female,New Mexico,4424.76
+994,994,44734,44734,Advanced Degree,Accommodation and Food Services,15373050,3204,2011,Female,New Mexico,4798.08
+995,995,44735,44735,Unavalble,Accommodation and Food Services,37929136,13969,2011,Female,New Mexico,2715.24
+996,996,44760,44760,All Education Categories,00,4540237430,365193,2012,Male,New Mexico,12432.43
+997,997,44761,44761,Less Than High School,00,573149796,61843,2012,Male,New Mexico,9267.82
+998,998,44762,44762,High School Graduate,00,1081648481,95315,2012,Male,New Mexico,11348.15
+999,999,44763,44763,Some College,00,1390167004,102626,2012,Male,New Mexico,13545.95
+1000,1000,44764,44764,Advanced Degree,00,1269096966,60475,2012,Male,New Mexico,20985.48
+1001,1001,44765,44765,Unavalble,00,226175183,44934,2012,Male,New Mexico,5033.5
+1002,1002,44766,44766,All Education Categories,00,2991628249,369063,2012,Female,New Mexico,8106.01
+1003,1003,44767,44767,Less Than High School,00,315545180,53597,2012,Female,New Mexico,5887.37
+1004,1004,44768,44768,High School Graduate,00,664189663,90498,2012,Female,New Mexico,7339.27
+1005,1005,44769,44769,Some College,00,1019846064,115255,2012,Female,New Mexico,8848.61
+1006,1006,44770,44770,Advanced Degree,00,820850281,64515,2012,Female,New Mexico,12723.4
+1007,1007,44771,44771,Unavalble,00,171197060,45198,2012,Female,New Mexico,3787.71
+1008,1008,44820,44820,All Education Categories,Manufacturing,374668429,21620,2012,Male,New Mexico,17329.71
+1009,1009,44821,44821,Less Than High School,Manufacturing,43566482,3935,2012,Male,New Mexico,11071.53
+1010,1010,44822,44822,High School Graduate,Manufacturing,90351997,5967,2012,Male,New Mexico,15141.95
+1011,1011,44823,44823,Some College,Manufacturing,127538739,6730,2012,Male,New Mexico,18950.78
+1012,1012,44824,44824,Advanced Degree,Manufacturing,103407279,3535,2012,Male,New Mexico,29252.41
+1013,1013,44825,44825,Unavalble,Manufacturing,9803932,1453,2012,Male,New Mexico,6747.37
+1014,1014,44826,44826,All Education Categories,Manufacturing,104425713,8928,2012,Female,New Mexico,11696.43
+1015,1015,44827,44827,Less Than High School,Manufacturing,13798566,1853,2012,Female,New Mexico,7446.61
+1016,1016,44828,44828,High School Graduate,Manufacturing,24419690,2332,2012,Female,New Mexico,10471.57
+1017,1017,44829,44829,Some College,Manufacturing,35399551,2699,2012,Female,New Mexico,13115.8
+1018,1018,44830,44830,Advanced Degree,Manufacturing,27692575,1390,2012,Female,New Mexico,19922.72
+1019,1019,44831,44831,Unavalble,Manufacturing,3115330,654,2012,Female,New Mexico,4763.5
+1020,1020,44844,44844,All Education Categories,Retail Trade,373023115,46316,2012,Male,New Mexico,8053.87
+1021,1021,44845,44845,Less Than High School,Retail Trade,54301411,7624,2012,Male,New Mexico,7122.43
+1022,1022,44846,44846,High School Graduate,Retail Trade,104951675,12491,2012,Male,New Mexico,8402.18
+1023,1023,44847,44847,Some College,Retail Trade,115081424,11738,2012,Male,New Mexico,9804.18
+1024,1024,44848,44848,Advanced Degree,Retail Trade,59970315,4375,2012,Male,New Mexico,13707.5
+1025,1025,44849,44849,Unavalble,Retail Trade,38718289,10087,2012,Male,New Mexico,3838.43
+1026,1026,44850,44850,All Education Categories,Retail Trade,258156865,46475,2012,Female,New Mexico,5554.75
+1027,1027,44851,44851,Less Than High School,Retail Trade,40322948,7657,2012,Female,New Mexico,5266.15
+1028,1028,44852,44852,High School Graduate,Retail Trade,73143061,12423,2012,Female,New Mexico,5887.71
+1029,1029,44853,44853,Some College,Retail Trade,77775092,12113,2012,Female,New Mexico,6420.8
+1030,1030,44854,44854,Advanced Degree,Retail Trade,35712494,4266,2012,Female,New Mexico,8371.42
+1031,1031,44855,44855,Unavalble,Retail Trade,31203271,10016,2012,Female,New Mexico,3115.34
+1032,1032,44880,44880,All Education Categories,Finance and Insurance,127506967,6059,2012,Male,New Mexico,21044.23
+1033,1033,44881,44881,Less Than High School,Finance and Insurance,6550596,599,2012,Male,New Mexico,10935.89
+1034,1034,44882,44882,High School Graduate,Finance and Insurance,19036997,1284,2012,Male,New Mexico,14826.32
+1035,1035,44883,44883,Some College,Finance and Insurance,35296845,1800,2012,Male,New Mexico,19609.36
+1036,1036,44884,44884,Advanced Degree,Finance and Insurance,63602130,1877,2012,Male,New Mexico,33884.99
+1037,1037,44885,44885,Unavalble,Finance and Insurance,3020400,498,2012,Male,New Mexico,6065.06
+1038,1038,44886,44886,All Education Categories,Finance and Insurance,168042750,15340,2012,Female,New Mexico,10954.55
+1039,1039,44887,44887,Less Than High School,Finance and Insurance,11356130,1486,2012,Female,New Mexico,7642.08
+1040,1040,44888,44888,High School Graduate,Finance and Insurance,34424883,3680,2012,Female,New Mexico,9354.59
+1041,1041,44889,44889,Some College,Finance and Insurance,57063018,5226,2012,Female,New Mexico,10919.06
+1042,1042,44890,44890,Advanced Degree,Finance and Insurance,56647700,3423,2012,Female,New Mexico,16549.14
+1043,1043,44891,44891,Unavalble,Finance and Insurance,8551018,1526,2012,Female,New Mexico,5603.55
+1044,1044,44940,44940,All Education Categories,Educational Services,256453561,24377,2012,Male,New Mexico,10520.31
+1045,1045,44941,44941,Less Than High School,Educational Services,22796656,2941,2012,Male,New Mexico,7751.33
+1046,1046,44942,44942,High School Graduate,Educational Services,54540261,6022,2012,Male,New Mexico,9056.84
+1047,1047,44943,44943,Some College,Educational Services,77969587,7548,2012,Male,New Mexico,10329.83
+1048,1048,44944,44944,Advanced Degree,Educational Services,97545652,6874,2012,Male,New Mexico,14190.52
+1049,1049,44945,44945,Unavalble,Educational Services,3601407,993,2012,Male,New Mexico,3626.79
+1050,1050,44946,44946,All Education Categories,Educational Services,451832991,52504,2012,Female,New Mexico,8605.69
+1051,1051,44947,44947,Less Than High School,Educational Services,32960362,5553,2012,Female,New Mexico,5935.6
+1052,1052,44948,44948,High School Graduate,Educational Services,92320110,12412,2012,Female,New Mexico,7437.97
+1053,1053,44949,44949,Some College,Educational Services,154665039,17862,2012,Female,New Mexico,8658.89
+1054,1054,44950,44950,Advanced Degree,Educational Services,165458887,14972,2012,Female,New Mexico,11051.22
+1055,1055,44951,44951,Unavalble,Educational Services,6428593,1705,2012,Female,New Mexico,3770.44
+1056,1056,44952,44952,All Education Categories,Health Care and Social Assistance,383956252,27252,2012,Male,New Mexico,14089.1
+1057,1057,44953,44953,Less Than High School,Health Care and Social Assistance,31751374,4063,2012,Male,New Mexico,7814.76
+1058,1058,44954,44954,High School Graduate,Health Care and Social Assistance,68732983,6827,2012,Male,New Mexico,10067.82
+1059,1059,44955,44955,Some College,Health Care and Social Assistance,113874379,8358,2012,Male,New Mexico,13624.6
+1060,1060,44956,44956,Advanced Degree,Health Care and Social Assistance,159161343,5684,2012,Male,New Mexico,28001.64
+1061,1061,44957,44957,Unavalble,Health Care and Social Assistance,10436173,2321,2012,Male,New Mexico,4496.41
+1062,1062,44958,44958,All Education Categories,Health Care and Social Assistance,770802229,90646,2012,Female,New Mexico,8503.43
+1063,1063,44959,44959,Less Than High School,Health Care and Social Assistance,81043743,13919,2012,Female,New Mexico,5822.53
+1064,1064,44960,44960,High School Graduate,Health Care and Social Assistance,162647243,22400,2012,Female,New Mexico,7261.04
+1065,1065,44961,44961,Some College,Health Care and Social Assistance,287124132,31516,2012,Female,New Mexico,9110.42
+1066,1066,44962,44962,Advanced Degree,Health Care and Social Assistance,205550664,15328,2012,Female,New Mexico,13410.14
+1067,1067,44963,44963,Unavalble,Health Care and Social Assistance,34436447,7483,2012,Female,New Mexico,4601.96
+1068,1068,44976,44976,All Education Categories,Accommodation and Food Services,168433771,36457,2012,Male,New Mexico,4620.07
+1069,1069,44977,44977,Less Than High School,Accommodation and Food Services,33126067,6925,2012,Male,New Mexico,4783.55
+1070,1070,44978,44978,High School Graduate,Accommodation and Food Services,42120986,8088,2012,Male,New Mexico,5207.84
+1071,1071,44979,44979,Some College,Accommodation and Food Services,39410446,7079,2012,Male,New Mexico,5567.23
+1072,1072,44980,44980,Advanced Degree,Accommodation and Food Services,18232738,2905,2012,Male,New Mexico,6276.33
+1073,1073,44981,44981,Unavalble,Accommodation and Food Services,35543534,11460,2012,Male,New Mexico,3101.53
+1074,1074,44982,44982,All Education Categories,Accommodation and Food Services,163118279,41329,2012,Female,New Mexico,3946.82
+1075,1075,44983,44983,Less Than High School,Accommodation and Food Services,31501625,7909,2012,Female,New Mexico,3983.01
+1076,1076,44984,44984,High School Graduate,Accommodation and Food Services,38012353,8722,2012,Female,New Mexico,4358.22
+1077,1077,44985,44985,Some College,Accommodation and Food Services,38253844,8151,2012,Female,New Mexico,4693.15
+1078,1078,44986,44986,Advanced Degree,Accommodation and Food Services,16945596,3227,2012,Female,New Mexico,5251.19
+1079,1079,44987,44987,Unavalble,Accommodation and Food Services,38404861,13320,2012,Female,New Mexico,2883.25

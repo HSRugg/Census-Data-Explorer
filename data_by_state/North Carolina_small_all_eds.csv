@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,All Education Categories,00,20254830183,1785798,2004,Male,North Carolina,11342.17
+1,1,1,1,Less Than High School,00,1523760009,215918,2004,Male,North Carolina,7057.12
+2,2,2,2,High School Graduate,00,4505606615,497984,2004,Male,North Carolina,9047.69
+3,3,3,3,Some College,00,5359522268,471785,2004,Male,North Carolina,11360.09
+4,4,4,4,Advanced Degree,00,7964319624,382114,2004,Male,North Carolina,20842.78
+5,5,5,5,Unavalble,00,901621667,217998,2004,Male,North Carolina,4135.92
+6,6,6,6,All Education Categories,00,12818741020,1834394,2004,Female,North Carolina,6988.0
+7,7,7,7,Less Than High School,00,797353427,169683,2004,Female,North Carolina,4699.08
+8,8,8,8,High School Graduate,00,2841718232,485357,2004,Female,North Carolina,5854.9
+9,9,9,9,Some College,00,3901690614,538776,2004,Female,North Carolina,7241.77
+10,10,10,10,Advanced Degree,00,4439942711,392596,2004,Female,North Carolina,11309.19
+11,11,11,11,Unavalble,00,838036037,247981,2004,Female,North Carolina,3379.44
+12,12,60,60,All Education Categories,Manufacturing,4745332217,376503,2004,Male,North Carolina,12603.7
+13,13,61,61,Less Than High School,Manufacturing,437320671,52791,2004,Male,North Carolina,8284.0
+14,14,62,62,High School Graduate,Manufacturing,1349811525,128972,2004,Male,North Carolina,10465.93
+15,15,63,63,Some College,Manufacturing,1414400680,108661,2004,Male,North Carolina,13016.64
+16,16,64,64,Advanced Degree,Manufacturing,1404397418,62966,2004,Male,North Carolina,22304.06
+17,17,65,65,Unavalble,Manufacturing,139401923,23113,2004,Male,North Carolina,6031.32
+18,18,66,66,All Education Categories,Manufacturing,1762834829,213640,2004,Female,North Carolina,8251.43
+19,19,67,67,Less Than High School,Manufacturing,168647131,29667,2004,Female,North Carolina,5684.67
+20,20,68,68,High School Graduate,Manufacturing,564710577,81630,2004,Female,North Carolina,6917.93
+21,21,69,69,Some College,Manufacturing,534451152,61919,2004,Female,North Carolina,8631.46
+22,22,70,70,Advanced Degree,Manufacturing,434550911,28654,2004,Female,North Carolina,15165.45
+23,23,71,71,Unavalble,Manufacturing,60475058,11770,2004,Female,North Carolina,5138.07
+24,24,84,84,All Education Categories,Retail Trade,1553392660,212992,2004,Male,North Carolina,7293.2
+25,25,85,85,Less Than High School,Retail Trade,156140357,25625,2004,Male,North Carolina,6093.28
+26,26,86,86,High School Graduate,Retail Trade,466693088,62053,2004,Male,North Carolina,7520.88
+27,27,87,87,Some College,Retail Trade,449297282,51244,2004,Male,North Carolina,8767.8
+28,28,88,88,Advanced Degree,Retail Trade,327238450,25785,2004,Male,North Carolina,12691.04
+29,29,89,89,Unavalble,Retail Trade,154023484,48285,2004,Male,North Carolina,3189.88
+30,30,90,90,All Education Categories,Retail Trade,934606985,224165,2004,Female,North Carolina,4169.28
+31,31,91,91,Less Than High School,Retail Trade,97430639,25451,2004,Female,North Carolina,3828.17
+32,32,92,92,High School Graduate,Retail Trade,302118063,68308,2004,Female,North Carolina,4422.88
+33,33,93,93,Some College,Retail Trade,256344938,52066,2004,Female,North Carolina,4923.46
+34,34,94,94,Advanced Degree,Retail Trade,143503172,21331,2004,Female,North Carolina,6727.45
+35,35,95,95,Unavalble,Retail Trade,135210172,57009,2004,Female,North Carolina,2371.73
+36,36,120,120,All Education Categories,Finance and Insurance,1810723874,47621,2004,Male,North Carolina,38023.64
+37,37,121,121,Less Than High School,Finance and Insurance,23479324,1750,2004,Male,North Carolina,13416.76
+38,38,122,122,High School Graduate,Finance and Insurance,118595087,6486,2004,Male,North Carolina,18284.78
+39,39,123,123,Some College,Finance and Insurance,299458926,11127,2004,Male,North Carolina,26912.82
+40,40,124,124,Advanced Degree,Finance and Insurance,1348264430,25346,2004,Male,North Carolina,53194.37
+41,41,125,125,Unavalble,Finance and Insurance,20926108,2912,2004,Male,North Carolina,7186.16
+42,42,126,126,All Education Categories,Finance and Insurance,1058754316,91537,2004,Female,North Carolina,11566.41
+43,43,127,127,Less Than High School,Finance and Insurance,23922658,3449,2004,Female,North Carolina,6936.11
+44,44,128,128,High School Graduate,Finance and Insurance,160962930,19776,2004,Female,North Carolina,8139.31
+45,45,129,129,Some College,Finance and Insurance,281818478,28350,2004,Female,North Carolina,9940.69
+46,46,130,130,Advanced Degree,Finance and Insurance,548496054,32289,2004,Female,North Carolina,16987.09
+47,47,131,131,Unavalble,Finance and Insurance,43554196,7674,2004,Female,North Carolina,5675.55
+48,48,180,180,All Education Categories,Educational Services,923576047,94265,2004,Male,North Carolina,9797.66
+49,49,181,181,Less Than High School,Educational Services,38400080,6287,2004,Male,North Carolina,6107.85
+50,50,182,182,High School Graduate,Educational Services,130950164,17917,2004,Male,North Carolina,7308.71
+51,51,183,183,Some College,Educational Services,219739217,25130,2004,Male,North Carolina,8744.1
+52,52,184,184,Advanced Degree,Educational Services,514828846,39986,2004,Male,North Carolina,12875.23
+53,53,185,185,Unavalble,Educational Services,19657740,4945,2004,Male,North Carolina,3975.28
+54,54,186,186,All Education Categories,Educational Services,1794404155,235124,2004,Female,North Carolina,7631.74
+55,55,187,187,Less Than High School,Educational Services,56997084,12066,2004,Female,North Carolina,4723.78
+56,56,188,188,High School Graduate,Educational Services,289395709,49843,2004,Female,North Carolina,5806.15
+57,57,189,189,Some College,Educational Services,493019110,69402,2004,Female,North Carolina,7103.82
+58,58,190,190,Advanced Degree,Educational Services,897169969,90968,2004,Female,North Carolina,9862.48
+59,59,191,191,Unavalble,Educational Services,57822282,12845,2004,Female,North Carolina,4501.54
+60,60,192,192,All Education Categories,Health Care and Social Assistance,1269960087,85500,2004,Male,North Carolina,14853.33
+61,61,193,193,Less Than High School,Health Care and Social Assistance,50459651,7063,2004,Male,North Carolina,7144.22
+62,62,194,194,High School Graduate,Health Care and Social Assistance,167538226,18135,2004,Male,North Carolina,9238.39
+63,63,195,195,Some College,Health Care and Social Assistance,301953172,24107,2004,Male,North Carolina,12525.54
+64,64,196,196,Advanced Degree,Health Care and Social Assistance,720781286,29596,2004,Male,North Carolina,24354.01
+65,65,197,197,Unavalble,Health Care and Social Assistance,29227752,6599,2004,Male,North Carolina,4429.12
+66,66,198,198,All Education Categories,Health Care and Social Assistance,2641208960,369541,2004,Female,North Carolina,7147.27
+67,67,199,199,Less Than High School,Health Care and Social Assistance,146175159,30585,2004,Female,North Carolina,4779.31
+68,68,200,200,High School Graduate,Health Care and Social Assistance,518990824,89082,2004,Female,North Carolina,5825.99
+69,69,201,201,Some College,Health Care and Social Assistance,960423957,132372,2004,Female,North Carolina,7255.49
+70,70,202,202,Advanced Degree,Health Care and Social Assistance,865598354,82262,2004,Female,North Carolina,10522.46
+71,71,203,203,Unavalble,Health Care and Social Assistance,150020667,35240,2004,Female,North Carolina,4257.11
+72,72,216,216,All Education Categories,Accommodation and Food Services,499723327,120944,2004,Male,North Carolina,4131.86
+73,73,217,217,Less Than High School,Accommodation and Food Services,71403690,17243,2004,Male,North Carolina,4141.02
+74,74,218,218,High School Graduate,Accommodation and Food Services,130990130,26907,2004,Male,North Carolina,4868.25
+75,75,219,219,Some College,Accommodation and Food Services,111693953,20588,2004,Male,North Carolina,5425.2
+76,76,220,220,Advanced Degree,Accommodation and Food Services,70383215,9784,2004,Male,North Carolina,7193.71
+77,77,221,221,Unavalble,Accommodation and Food Services,115252339,46422,2004,Male,North Carolina,2482.71
+78,78,222,222,All Education Categories,Accommodation and Food Services,482678759,161058,2004,Female,North Carolina,2996.93
+79,79,223,223,Less Than High School,Accommodation and Food Services,64785750,21287,2004,Female,North Carolina,3043.44
+80,80,224,224,High School Graduate,Accommodation and Food Services,120918520,35894,2004,Female,North Carolina,3368.77
+81,81,225,225,Some College,Accommodation and Food Services,104472177,28174,2004,Female,North Carolina,3708.11
+82,82,226,226,Advanced Degree,Accommodation and Food Services,52160356,11355,2004,Female,North Carolina,4593.6
+83,83,227,227,Unavalble,Accommodation and Food Services,140341957,64349,2004,Female,North Carolina,2180.95
+84,84,252,252,All Education Categories,00,21666223594,1833988,2005,Male,North Carolina,11813.72
+85,85,253,253,Less Than High School,00,1629637596,223926,2005,Male,North Carolina,7277.57
+86,86,254,254,High School Graduate,00,4780396042,510298,2005,Male,North Carolina,9367.85
+87,87,255,255,Some College,00,5719351436,485333,2005,Male,North Carolina,11784.39
+88,88,256,256,Advanced Degree,00,8587246148,391604,2005,Male,North Carolina,21928.39
+89,89,257,257,Unavalble,00,949592371,222827,2005,Male,North Carolina,4261.57
+90,90,258,258,All Education Categories,00,13582233306,1893116,2005,Female,North Carolina,7174.54
+91,91,259,259,Less Than High School,00,859378248,177483,2005,Female,North Carolina,4842.03
+92,92,260,260,High School Graduate,00,2994100769,498116,2005,Female,North Carolina,6010.85
+93,93,261,261,Some College,00,4121741897,556830,2005,Female,North Carolina,7402.15
+94,94,262,262,Advanced Degree,00,4736076813,406845,2005,Female,North Carolina,11640.99
+95,95,263,263,Unavalble,00,870935579,253842,2005,Female,North Carolina,3431.01
+96,96,312,312,All Education Categories,Manufacturing,4815439496,378322,2005,Male,North Carolina,12728.42
+97,97,313,313,Less Than High School,Manufacturing,447793768,53408,2005,Male,North Carolina,8384.39
+98,98,314,314,High School Graduate,Manufacturing,1378206842,128323,2005,Male,North Carolina,10740.14
+99,99,315,315,Some College,Manufacturing,1439817948,109082,2005,Male,North Carolina,13199.41
+100,100,316,316,Advanced Degree,Manufacturing,1400190624,63191,2005,Male,North Carolina,22158.07
+101,101,317,317,Unavalble,Manufacturing,149430314,24318,2005,Male,North Carolina,6144.84
+102,102,318,318,All Education Categories,Manufacturing,1760243373,209398,2005,Female,North Carolina,8406.21
+103,103,319,319,Less Than High School,Manufacturing,171094328,29370,2005,Female,North Carolina,5825.48
+104,104,320,320,High School Graduate,Manufacturing,559494341,78823,2005,Female,North Carolina,7098.11
+105,105,321,321,Some College,Manufacturing,534797305,60814,2005,Female,North Carolina,8793.98
+106,106,322,322,Advanced Degree,Manufacturing,433161839,28769,2005,Female,North Carolina,15056.55
+107,107,323,323,Unavalble,Manufacturing,61695560,11622,2005,Female,North Carolina,5308.51
+108,108,336,336,All Education Categories,Retail Trade,1623360110,215106,2005,Male,North Carolina,7546.79
+109,109,337,337,Less Than High School,Retail Trade,163683033,25945,2005,Male,North Carolina,6308.85
+110,110,338,338,High School Graduate,Retail Trade,484609563,62315,2005,Male,North Carolina,7776.77
+111,111,339,339,Some College,Retail Trade,469781097,51875,2005,Male,North Carolina,9056.02
+112,112,340,340,Advanced Degree,Retail Trade,346267532,26236,2005,Male,North Carolina,13198.18
+113,113,341,341,Unavalble,Retail Trade,159018885,48735,2005,Male,North Carolina,3262.93
+114,114,342,342,All Education Categories,Retail Trade,993975881,230620,2005,Female,North Carolina,4310.02
+115,115,343,343,Less Than High School,Retail Trade,104959401,26302,2005,Female,North Carolina,3990.55
+116,116,344,344,High School Graduate,Retail Trade,318685339,69539,2005,Female,North Carolina,4582.83
+117,117,345,345,Some College,Retail Trade,272576286,53719,2005,Female,North Carolina,5074.11
+118,118,346,346,Advanced Degree,Retail Trade,156129135,22154,2005,Female,North Carolina,7047.45
+119,119,347,347,Unavalble,Retail Trade,141625721,58906,2005,Female,North Carolina,2404.27
+120,120,372,372,All Education Categories,Finance and Insurance,1971706270,47651,2005,Male,North Carolina,41378.07
+121,121,373,373,Less Than High School,Finance and Insurance,24267167,1722,2005,Male,North Carolina,14092.43
+122,122,374,374,High School Graduate,Finance and Insurance,128290668,6495,2005,Male,North Carolina,19752.22
+123,123,375,375,Some College,Finance and Insurance,329536333,11276,2005,Male,North Carolina,29224.58
+124,124,376,376,Advanced Degree,Finance and Insurance,1467600567,25547,2005,Male,North Carolina,57447.08
+125,125,377,377,Unavalble,Finance and Insurance,22011535,2611,2005,Male,North Carolina,8430.31
+126,126,378,378,All Education Categories,Finance and Insurance,1070758207,88112,2005,Female,North Carolina,12152.24
+127,127,379,379,Less Than High School,Finance and Insurance,24942261,3480,2005,Female,North Carolina,7167.32
+128,128,380,380,High School Graduate,Finance and Insurance,161581138,19220,2005,Female,North Carolina,8406.93
+129,129,381,381,Some College,Finance and Insurance,280080286,27365,2005,Female,North Carolina,10234.98
+130,130,382,382,Advanced Degree,Finance and Insurance,563278082,31187,2005,Female,North Carolina,18061.31
+131,131,383,383,Unavalble,Finance and Insurance,40876440,6859,2005,Female,North Carolina,5959.53
+132,132,432,432,All Education Categories,Educational Services,993284779,99821,2005,Male,North Carolina,9950.66
+133,133,433,433,Less Than High School,Educational Services,42800938,6750,2005,Male,North Carolina,6340.88
+134,134,434,434,High School Graduate,Educational Services,144384446,19331,2005,Male,North Carolina,7469.06
+135,135,435,435,Some College,Educational Services,238345567,26813,2005,Male,North Carolina,8889.18
+136,136,436,436,Advanced Degree,Educational Services,547414694,41883,2005,Male,North Carolina,13070.09
+137,137,437,437,Unavalble,Educational Services,20339135,5043,2005,Male,North Carolina,4033.14
+138,138,438,438,All Education Categories,Educational Services,1945983691,253433,2005,Female,North Carolina,7678.49
+139,139,439,439,Less Than High School,Educational Services,64814233,13315,2005,Female,North Carolina,4867.76
+140,140,440,440,High School Graduate,Educational Services,318654155,54034,2005,Female,North Carolina,5897.29
+141,141,441,441,Some College,Educational Services,538939699,75126,2005,Female,North Carolina,7173.81
+142,142,442,442,Advanced Degree,Educational Services,960133667,97410,2005,Female,North Carolina,9856.62
+143,143,443,443,Unavalble,Educational Services,63441936,13548,2005,Female,North Carolina,4682.75
+144,144,444,444,All Education Categories,Health Care and Social Assistance,1346396519,88914,2005,Male,North Carolina,15142.68
+145,145,445,445,Less Than High School,Health Care and Social Assistance,54574086,7547,2005,Male,North Carolina,7231.23
+146,146,446,446,High School Graduate,Health Care and Social Assistance,178199029,19091,2005,Male,North Carolina,9334.19
+147,147,447,447,Some College,Health Care and Social Assistance,320346441,25134,2005,Male,North Carolina,12745.54
+148,148,448,448,Advanced Degree,Health Care and Social Assistance,763705864,30379,2005,Male,North Carolina,25139.27
+149,149,449,449,Unavalble,Health Care and Social Assistance,29571099,6763,2005,Male,North Carolina,4372.48
+150,150,450,450,All Education Categories,Health Care and Social Assistance,2757651874,385484,2005,Female,North Carolina,7153.74
+151,151,451,451,Less Than High School,Health Care and Social Assistance,156967196,32838,2005,Female,North Carolina,4780.05
+152,152,452,452,High School Graduate,Health Care and Social Assistance,545799864,93940,2005,Female,North Carolina,5810.09
+153,153,453,453,Some College,Health Care and Social Assistance,999927577,137842,2005,Female,North Carolina,7254.16
+154,154,454,454,Advanced Degree,Health Care and Social Assistance,904355227,85213,2005,Female,North Carolina,10612.88
+155,155,455,455,Unavalble,Health Care and Social Assistance,150602009,35651,2005,Female,North Carolina,4224.34
+156,156,468,468,All Education Categories,Accommodation and Food Services,528426117,125496,2005,Male,North Carolina,4210.7
+157,157,469,469,Less Than High School,Accommodation and Food Services,77012528,18401,2005,Male,North Carolina,4185.24
+158,158,470,470,High School Graduate,Accommodation and Food Services,138760290,28271,2005,Male,North Carolina,4908.22
+159,159,471,471,Some College,Accommodation and Food Services,119675817,21737,2005,Male,North Carolina,5505.63
+160,160,472,472,Advanced Degree,Accommodation and Food Services,77377124,10272,2005,Male,North Carolina,7532.82
+161,161,473,473,Unavalble,Accommodation and Food Services,115600358,46814,2005,Male,North Carolina,2469.35
+162,162,474,474,All Education Categories,Accommodation and Food Services,511234090,168649,2005,Female,North Carolina,3031.35
+163,163,475,475,Less Than High School,Accommodation and Food Services,68939687,22420,2005,Female,North Carolina,3074.92
+164,164,476,476,High School Graduate,Accommodation and Food Services,127118394,37266,2005,Female,North Carolina,3411.11
+165,165,477,477,Some College,Accommodation and Food Services,110949555,29546,2005,Female,North Carolina,3755.15
+166,166,478,478,Advanced Degree,Accommodation and Food Services,57102768,12089,2005,Female,North Carolina,4723.53
+167,167,479,479,Unavalble,Accommodation and Food Services,147123686,67327,2005,Female,North Carolina,2185.21
+168,168,504,504,All Education Categories,00,24421971543,1871301,2006,Male,North Carolina,13050.8
+169,169,505,505,Less Than High School,00,1839076110,229273,2006,Male,North Carolina,8021.34
+170,170,506,506,High School Graduate,00,5326021410,517705,2006,Male,North Carolina,10287.75
+171,171,507,507,Some College,00,6414112700,495038,2006,Male,North Carolina,12956.81
+172,172,508,508,Advanced Degree,00,9770891890,400994,2006,Male,North Carolina,24366.68
+173,173,509,509,Unavalble,00,1071869432,228291,2006,Male,North Carolina,4695.19
+174,174,510,510,All Education Categories,00,15311495452,1950198,2006,Female,North Carolina,7851.25
+175,175,511,511,Less Than High School,00,982664057,184993,2006,Female,North Carolina,5311.9
+176,176,512,512,High School Graduate,00,3332382223,508714,2006,Female,North Carolina,6550.6
+177,177,513,513,Some College,00,4633630910,573669,2006,Female,North Carolina,8077.19
+178,178,514,514,Advanced Degree,00,5388906700,419651,2006,Female,North Carolina,12841.4
+179,179,515,515,Unavalble,00,973911563,263171,2006,Female,North Carolina,3700.68
+180,180,564,564,All Education Categories,Manufacturing,5202245156,368492,2006,Male,North Carolina,14117.66
+181,181,565,565,Less Than High School,Manufacturing,478822368,51746,2006,Male,North Carolina,9253.32
+182,182,566,566,High School Graduate,Manufacturing,1456427393,124259,2006,Male,North Carolina,11720.9
+183,183,567,567,Some College,Manufacturing,1543118799,106659,2006,Male,North Carolina,14467.78
+184,184,568,568,Advanced Degree,Manufacturing,1564358261,62558,2006,Male,North Carolina,25006.53
+185,185,569,569,Unavalble,Manufacturing,159518335,23269,2006,Male,North Carolina,6855.4
+186,186,570,570,All Education Categories,Manufacturing,1833870055,198252,2006,Female,North Carolina,9250.2
+187,187,571,571,Less Than High School,Manufacturing,178441232,27725,2006,Female,North Carolina,6436.11
+188,188,572,572,High School Graduate,Manufacturing,567555974,73265,2006,Female,North Carolina,7746.62
+189,189,573,573,Some College,Manufacturing,556125151,57901,2006,Female,North Carolina,9604.76
+190,190,574,574,Advanced Degree,Manufacturing,466419137,28306,2006,Female,North Carolina,16477.75
+191,191,575,575,Unavalble,Manufacturing,65328560,11055,2006,Female,North Carolina,5909.41
+192,192,588,588,All Education Categories,Retail Trade,1752115034,220857,2006,Male,North Carolina,7933.26
+193,193,589,589,Less Than High School,Retail Trade,178898557,26792,2006,Male,North Carolina,6677.31
+194,194,590,590,High School Graduate,Retail Trade,521591479,63390,2006,Male,North Carolina,8228.29
+195,195,591,591,Some College,Retail Trade,505730938,52998,2006,Male,North Carolina,9542.45
+196,196,592,592,Advanced Degree,Retail Trade,375963686,27011,2006,Male,North Carolina,13918.91
+197,197,593,593,Unavalble,Retail Trade,169930374,50666,2006,Male,North Carolina,3353.93
+198,198,594,594,All Education Categories,Retail Trade,1103312634,241133,2006,Female,North Carolina,4575.54
+199,199,595,595,Less Than High School,Retail Trade,116794505,27587,2006,Female,North Carolina,4233.68
+200,200,596,596,High School Graduate,Retail Trade,347079587,71417,2006,Female,North Carolina,4859.9
+201,201,597,597,Some College,Retail Trade,304146366,56170,2006,Female,North Carolina,5414.75
+202,202,598,598,Advanced Degree,Retail Trade,178044339,23505,2006,Female,North Carolina,7574.74
+203,203,599,599,Unavalble,Retail Trade,157247838,62454,2006,Female,North Carolina,2517.82
+204,204,624,624,All Education Categories,Finance and Insurance,2495888607,51864,2006,Male,North Carolina,48123.72
+205,205,625,625,Less Than High School,Finance and Insurance,32109215,1987,2006,Male,North Carolina,16159.65
+206,206,626,626,High School Graduate,Finance and Insurance,164920615,7209,2006,Male,North Carolina,22877.04
+207,207,627,627,Some College,Finance and Insurance,415389480,12262,2006,Male,North Carolina,33876.16
+208,208,628,628,Advanced Degree,Finance and Insurance,1853225321,27515,2006,Male,North Carolina,67353.27
+209,209,629,629,Unavalble,Finance and Insurance,30243975,2892,2006,Male,North Carolina,10457.81
+210,210,630,630,All Education Categories,Finance and Insurance,1373444514,93063,2006,Female,North Carolina,14758.22
+211,211,631,631,Less Than High School,Finance and Insurance,32318218,3885,2006,Female,North Carolina,8318.72
+212,212,632,632,High School Graduate,Finance and Insurance,197521499,20166,2006,Female,North Carolina,9794.78
+213,213,633,633,Some College,Finance and Insurance,352126173,28974,2006,Female,North Carolina,12153.18
+214,214,634,634,Advanced Degree,Finance and Insurance,743098063,33172,2006,Female,North Carolina,22401.36
+215,215,635,635,Unavalble,Finance and Insurance,48380561,6866,2006,Female,North Carolina,7046.4
+216,216,684,684,All Education Categories,Educational Services,1080119875,102201,2006,Male,North Carolina,10568.58
+217,217,685,685,Less Than High School,Educational Services,49075450,7139,2006,Male,North Carolina,6874.28
+218,218,686,686,High School Graduate,Educational Services,162489392,20165,2006,Male,North Carolina,8057.99
+219,219,687,687,Some College,Educational Services,262454838,27599,2006,Male,North Carolina,9509.58
+220,220,688,688,Advanced Degree,Educational Services,583600213,42230,2006,Male,North Carolina,13819.56
+221,221,689,689,Unavalble,Educational Services,22499982,5069,2006,Male,North Carolina,4438.74
+222,222,690,690,All Education Categories,Educational Services,2141469881,259723,2006,Female,North Carolina,8245.21
+223,223,691,691,Less Than High School,Educational Services,76654335,14223,2006,Female,North Carolina,5389.46
+224,224,692,692,High School Graduate,Educational Services,359946582,55798,2006,Female,North Carolina,6450.89
+225,225,693,693,Some College,Educational Services,600850016,77445,2006,Female,North Carolina,7758.41
+226,226,694,694,Advanced Degree,Educational Services,1033115978,98491,2006,Female,North Carolina,10489.45
+227,227,695,695,Unavalble,Educational Services,70902970,13765,2006,Female,North Carolina,5150.96
+228,228,696,696,All Education Categories,Health Care and Social Assistance,1473571471,92354,2006,Male,North Carolina,15955.69
+229,229,697,697,Less Than High School,Health Care and Social Assistance,62641605,8078,2006,Male,North Carolina,7754.59
+230,230,698,698,High School Graduate,Health Care and Social Assistance,199341407,20060,2006,Male,North Carolina,9937.26
+231,231,699,699,Some College,Health Care and Social Assistance,350933385,26119,2006,Male,North Carolina,13435.94
+232,232,700,700,Advanced Degree,Health Care and Social Assistance,828113794,31154,2006,Male,North Carolina,26581.3
+233,233,701,701,Unavalble,Health Care and Social Assistance,32541281,6942,2006,Male,North Carolina,4687.59
+234,234,702,702,All Education Categories,Health Care and Social Assistance,3082670411,401183,2006,Female,North Carolina,7683.95
+235,235,703,703,Less Than High School,Health Care and Social Assistance,180328792,35000,2006,Female,North Carolina,5152.25
+236,236,704,704,High School Graduate,Health Care and Social Assistance,615090075,98473,2006,Female,North Carolina,6246.28
+237,237,705,705,Some College,Health Care and Social Assistance,1115468090,143210,2006,Female,North Carolina,7789.04
+238,238,706,706,Advanced Degree,Health Care and Social Assistance,1010406747,88650,2006,Female,North Carolina,11397.71
+239,239,707,707,Unavalble,Health Care and Social Assistance,161376707,35849,2006,Female,North Carolina,4501.57
+240,240,720,720,All Education Categories,Accommodation and Food Services,605008309,130398,2006,Male,North Carolina,4639.71
+241,241,721,721,Less Than High School,Accommodation and Food Services,88872751,19312,2006,Male,North Carolina,4601.94
+242,242,722,722,High School Graduate,Accommodation and Food Services,159690267,29432,2006,Male,North Carolina,5425.74
+243,243,723,723,Some College,Accommodation and Food Services,137166037,22674,2006,Male,North Carolina,6049.49
+244,244,724,724,Advanced Degree,Accommodation and Food Services,90041069,10917,2006,Male,North Carolina,8247.79
+245,245,725,725,Unavalble,Accommodation and Food Services,129238186,48063,2006,Male,North Carolina,2688.93
+246,246,726,726,All Education Categories,Accommodation and Food Services,587752457,175833,2006,Female,North Carolina,3342.67
+247,247,727,727,Less Than High School,Accommodation and Food Services,80159610,23435,2006,Female,North Carolina,3420.51
+248,248,728,728,High School Graduate,Accommodation and Food Services,145395902,38462,2006,Female,North Carolina,3780.25
+249,249,729,729,Some College,Accommodation and Food Services,127840436,30750,2006,Female,North Carolina,4157.41
+250,250,730,730,Advanced Degree,Accommodation and Food Services,67936451,12978,2006,Female,North Carolina,5234.74
+251,251,731,731,Unavalble,Accommodation and Food Services,166420058,70208,2006,Female,North Carolina,2370.39
+252,252,756,756,All Education Categories,00,26029627779,1923552,2007,Male,North Carolina,13532.06
+253,253,757,757,Less Than High School,00,1979909285,238097,2007,Male,North Carolina,8315.56
+254,254,758,758,High School Graduate,00,5666760345,530967,2007,Male,North Carolina,10672.53
+255,255,759,759,Some College,00,6853782939,509317,2007,Male,North Carolina,13456.81
+256,256,760,760,Advanced Degree,00,10407105660,411999,2007,Male,North Carolina,25260.03
+257,257,761,761,Unavalble,00,1122069550,233171,2007,Male,North Carolina,4812.22
+258,258,762,762,All Education Categories,00,16511452254,2006931,2007,Female,North Carolina,8227.21
+259,259,763,763,Less Than High School,00,1088032476,193848,2007,Female,North Carolina,5612.81
+260,260,764,764,High School Graduate,00,3595002863,521319,2007,Female,North Carolina,6895.98
+261,261,765,765,Some College,00,5019886810,591014,2007,Female,North Carolina,8493.69
+262,262,766,766,Advanced Degree,00,5781978210,432439,2007,Female,North Carolina,13370.62
+263,263,767,767,Unavalble,00,1026551895,268312,2007,Female,North Carolina,3825.96
+264,264,816,816,All Education Categories,Manufacturing,5432621231,365403,2007,Male,North Carolina,14867.48
+265,265,817,817,Less Than High School,Manufacturing,490273797,51663,2007,Male,North Carolina,9489.84
+266,266,818,818,High School Graduate,Manufacturing,1490951856,122128,2007,Male,North Carolina,12208.11
+267,267,819,819,Some College,Manufacturing,1605423998,105663,2007,Male,North Carolina,15193.81
+268,268,820,820,Advanced Degree,Manufacturing,1688589901,62756,2007,Male,North Carolina,26907.23
+269,269,821,821,Unavalble,Manufacturing,157381678,23193,2007,Male,North Carolina,6785.74
+270,270,822,822,All Education Categories,Manufacturing,1900902367,194888,2007,Female,North Carolina,9753.82
+271,271,823,823,Less Than High School,Manufacturing,179883028,27539,2007,Female,North Carolina,6531.94
+272,272,824,824,High School Graduate,Manufacturing,571012994,70722,2007,Female,North Carolina,8074.05
+273,273,825,825,Some College,Manufacturing,577345737,57288,2007,Female,North Carolina,10077.95
+274,274,826,826,Advanced Degree,Manufacturing,511086578,28693,2007,Female,North Carolina,17812.24
+275,275,827,827,Unavalble,Manufacturing,61574031,10645,2007,Female,North Carolina,5784.31
+276,276,840,840,All Education Categories,Retail Trade,1872586205,227533,2007,Male,North Carolina,8229.95
+277,277,841,841,Less Than High School,Retail Trade,193004560,27999,2007,Male,North Carolina,6893.27
+278,278,842,842,High School Graduate,Retail Trade,552173594,65210,2007,Male,North Carolina,8467.62
+279,279,843,843,Some College,Retail Trade,540729357,55025,2007,Male,North Carolina,9826.98
+280,280,844,844,Advanced Degree,Retail Trade,406106312,28370,2007,Male,North Carolina,14314.64
+281,281,845,845,Unavalble,Retail Trade,180572383,50929,2007,Male,North Carolina,3545.57
+282,282,846,846,All Education Categories,Retail Trade,1223481777,250616,2007,Female,North Carolina,4881.9
+283,283,847,847,Less Than High School,Retail Trade,130144097,28973,2007,Female,North Carolina,4491.91
+284,284,848,848,High School Graduate,Retail Trade,379814071,73835,2007,Female,North Carolina,5144.09
+285,285,849,849,Some College,Retail Trade,338744667,58809,2007,Female,North Carolina,5760.08
+286,286,850,850,Advanced Degree,Retail Trade,203562095,25170,2007,Female,North Carolina,8087.49
+287,287,851,851,Unavalble,Retail Trade,171216847,63828,2007,Female,North Carolina,2682.47
+288,288,876,876,All Education Categories,Finance and Insurance,2621479864,56407,2007,Male,North Carolina,46474.37
+289,289,877,877,Less Than High School,Finance and Insurance,38493564,2389,2007,Male,North Carolina,16112.84
+290,290,878,878,High School Graduate,Finance and Insurance,183526756,8108,2007,Male,North Carolina,22635.27
+291,291,879,879,Some College,Finance and Insurance,436227707,13473,2007,Male,North Carolina,32377.92
+292,292,880,880,Advanced Degree,Finance and Insurance,1930085427,29266,2007,Male,North Carolina,65949.75
+293,293,881,881,Unavalble,Finance and Insurance,33146410,3170,2007,Male,North Carolina,10456.28
+294,294,882,882,All Education Categories,Finance and Insurance,1450023297,97052,2007,Female,North Carolina,14940.68
+295,295,883,883,Less Than High School,Finance and Insurance,37493713,4343,2007,Female,North Carolina,8633.14
+296,296,884,884,High School Graduate,Finance and Insurance,211213073,21083,2007,Female,North Carolina,10018.17
+297,297,885,885,Some College,Finance and Insurance,373556846,30140,2007,Female,North Carolina,12394.06
+298,298,886,886,Advanced Degree,Finance and Insurance,777423216,34394,2007,Female,North Carolina,22603.45
+299,299,887,887,Unavalble,Finance and Insurance,50336450,7092,2007,Female,North Carolina,7097.64
+300,300,936,936,All Education Categories,Educational Services,1174042385,104648,2007,Male,North Carolina,11218.97
+301,301,937,937,Less Than High School,Educational Services,56033222,7529,2007,Male,North Carolina,7442.32
+302,302,938,938,High School Graduate,Educational Services,181829718,21092,2007,Male,North Carolina,8620.79
+303,303,939,939,Some College,Educational Services,288673161,28380,2007,Male,North Carolina,10171.71
+304,304,940,940,Advanced Degree,Educational Services,623349774,42528,2007,Male,North Carolina,14657.4
+305,305,941,941,Unavalble,Educational Services,24156511,5119,2007,Male,North Carolina,4718.99
+306,306,942,942,All Education Categories,Educational Services,2348499331,266812,2007,Female,North Carolina,8802.08
+307,307,943,943,Less Than High School,Educational Services,89876051,15249,2007,Female,North Carolina,5893.9
+308,308,944,944,High School Graduate,Educational Services,402369192,58004,2007,Female,North Carolina,6936.92
+309,309,945,945,Some College,Educational Services,665453448,80199,2007,Female,North Carolina,8297.53
+310,310,946,946,Advanced Degree,Educational Services,1115518320,99822,2007,Female,North Carolina,11175.07
+311,311,947,947,Unavalble,Educational Services,75282320,13538,2007,Female,North Carolina,5560.82
+312,312,948,948,All Education Categories,Health Care and Social Assistance,1629895171,97788,2007,Male,North Carolina,16667.64
+313,313,949,949,Less Than High School,Health Care and Social Assistance,73752467,8842,2007,Male,North Carolina,8341.15
+314,314,950,950,High School Graduate,Health Care and Social Assistance,226313205,21469,2007,Male,North Carolina,10541.39
+315,315,951,951,Some College,Health Care and Social Assistance,390873862,27617,2007,Male,North Carolina,14153.38
+316,316,952,952,Advanced Degree,Health Care and Social Assistance,902087631,32462,2007,Male,North Carolina,27789.03
+317,317,953,953,Unavalble,Health Care and Social Assistance,36868007,7397,2007,Male,North Carolina,4984.18
+318,318,954,954,All Education Categories,Health Care and Social Assistance,3461413292,418368,2007,Female,North Carolina,8273.61
+319,319,955,955,Less Than High School,Health Care and Social Assistance,211657860,37322,2007,Female,North Carolina,5671.13
+320,320,956,956,High School Graduate,Health Care and Social Assistance,696983633,103125,2007,Female,North Carolina,6758.63
+321,321,957,957,Some College,Health Care and Social Assistance,1246501772,148756,2007,Female,North Carolina,8379.51
+322,322,958,958,Advanced Degree,Health Care and Social Assistance,1128512729,92412,2007,Female,North Carolina,12211.76
+323,323,959,959,Unavalble,Health Care and Social Assistance,177757297,36754,2007,Female,North Carolina,4836.41
+324,324,972,972,All Education Categories,Accommodation and Food Services,652995582,135850,2007,Male,North Carolina,4806.74
+325,325,973,973,Less Than High School,Accommodation and Food Services,96847251,20139,2007,Male,North Carolina,4808.94
+326,326,974,974,High School Graduate,Accommodation and Food Services,171837982,30325,2007,Male,North Carolina,5666.55
+327,327,975,975,Some College,Accommodation and Food Services,147811673,23507,2007,Male,North Carolina,6287.99
+328,328,976,976,Advanced Degree,Accommodation and Food Services,97619809,11497,2007,Male,North Carolina,8490.89
+329,329,977,977,Unavalble,Accommodation and Food Services,138878867,50382,2007,Male,North Carolina,2756.52
+330,330,978,978,All Education Categories,Accommodation and Food Services,633242197,182030,2007,Female,North Carolina,3478.78
+331,331,979,979,Less Than High School,Accommodation and Food Services,87340750,24437,2007,Female,North Carolina,3574.12
+332,332,980,980,High School Graduate,Accommodation and Food Services,155887946,39404,2007,Female,North Carolina,3956.15
+333,333,981,981,Some College,Accommodation and Food Services,137702832,31826,2007,Female,North Carolina,4326.74
+334,334,982,982,Advanced Degree,Accommodation and Food Services,73872179,13706,2007,Female,North Carolina,5389.77
+335,335,983,983,Unavalble,Accommodation and Food Services,178438490,72656,2007,Female,North Carolina,2455.94
+336,336,1008,1008,All Education Categories,00,25648874992,1930609,2008,Male,North Carolina,13285.38
+337,337,1009,1009,Less Than High School,00,2012349177,242889,2008,Male,North Carolina,8285.06
+338,338,1010,1010,High School Graduate,00,5633631384,531953,2008,Male,North Carolina,10590.47
+339,339,1011,1011,Some College,00,6769039818,511074,2008,Male,North Carolina,13244.74
+340,340,1012,1012,Advanced Degree,00,10125578420,413156,2008,Male,North Carolina,24507.88
+341,341,1013,1013,Unavalble,00,1108276192,231537,2008,Male,North Carolina,4786.61
+342,342,1014,1014,All Education Categories,00,16810196956,2005331,2008,Female,North Carolina,8382.75
+343,343,1015,1015,Less Than High School,00,1152337911,200681,2008,Female,North Carolina,5742.14
+344,344,1016,1016,High School Graduate,00,3667758238,520474,2008,Female,North Carolina,7046.96
+345,345,1017,1017,Some College,00,5112185162,591026,2008,Female,North Carolina,8649.68
+346,346,1018,1018,Advanced Degree,00,5859472725,428396,2008,Female,North Carolina,13677.7
+347,347,1019,1019,Unavalble,00,1018442919,264753,2008,Female,North Carolina,3846.77
+348,348,1068,1068,All Education Categories,Manufacturing,5218347564,355116,2008,Male,North Carolina,14694.77
+349,349,1069,1069,Less Than High School,Manufacturing,478118323,50550,2008,Male,North Carolina,9458.32
+350,350,1070,1070,High School Graduate,Manufacturing,1435831803,118297,2008,Male,North Carolina,12137.52
+351,351,1071,1071,Some College,Manufacturing,1544827544,102738,2008,Male,North Carolina,15036.57
+352,352,1072,1072,Advanced Degree,Manufacturing,1607236272,61518,2008,Male,North Carolina,26126.28
+353,353,1073,1073,Unavalble,Manufacturing,152333622,22013,2008,Male,North Carolina,6920.17
+354,354,1074,1074,All Education Categories,Manufacturing,1834943724,185204,2008,Female,North Carolina,9907.69
+355,355,1075,1075,Less Than High School,Manufacturing,174436536,26392,2008,Female,North Carolina,6609.45
+356,356,1076,1076,High School Graduate,Manufacturing,543785470,66393,2008,Female,North Carolina,8190.4
+357,357,1077,1077,Some College,Manufacturing,557794247,54683,2008,Female,North Carolina,10200.51
+358,358,1078,1078,Advanced Degree,Manufacturing,500502587,27930,2008,Female,North Carolina,17919.89
+359,359,1079,1079,Unavalble,Manufacturing,58424885,9806,2008,Female,North Carolina,5958.08
+360,360,1092,1092,All Education Categories,Retail Trade,1848130520,228542,2008,Male,North Carolina,8086.61
+361,361,1093,1093,Less Than High School,Retail Trade,195396421,28445,2008,Male,North Carolina,6869.27
+362,362,1094,1094,High School Graduate,Retail Trade,545106424,64985,2008,Male,North Carolina,8388.19
+363,363,1095,1095,Some College,Retail Trade,531025267,55349,2008,Male,North Carolina,9594.13
+364,364,1096,1096,Advanced Degree,Retail Trade,399528792,28847,2008,Male,North Carolina,13849.93
+365,365,1097,1097,Unavalble,Retail Trade,177073616,50918,2008,Male,North Carolina,3477.62
+366,366,1098,1098,All Education Categories,Retail Trade,1201935117,250566,2008,Female,North Carolina,4796.88
+367,367,1099,1099,Less Than High School,Retail Trade,131814564,29384,2008,Female,North Carolina,4485.93
+368,368,1100,1100,High School Graduate,Retail Trade,373205261,72955,2008,Female,North Carolina,5115.55
+369,369,1101,1101,Some College,Retail Trade,334738485,59335,2008,Female,North Carolina,5641.5
+370,370,1102,1102,Advanced Degree,Retail Trade,199980144,26013,2008,Female,North Carolina,7687.7
+371,371,1103,1103,Unavalble,Retail Trade,162196663,62879,2008,Female,North Carolina,2579.5
+372,372,1128,1128,All Education Categories,Finance and Insurance,2280773064,56469,2008,Male,North Carolina,40389.83
+373,373,1129,1129,Less Than High School,Finance and Insurance,40467484,2614,2008,Male,North Carolina,15481.06
+374,374,1130,1130,High School Graduate,Finance and Insurance,175897761,8371,2008,Male,North Carolina,21012.75
+375,375,1131,1131,Some College,Finance and Insurance,398768605,13579,2008,Male,North Carolina,29366.57
+376,376,1132,1132,Advanced Degree,Finance and Insurance,1635738983,28875,2008,Male,North Carolina,56648.97
+377,377,1133,1133,Unavalble,Finance and Insurance,29900231,3031,2008,Male,North Carolina,9864.81
+378,378,1134,1134,All Education Categories,Finance and Insurance,1411633116,97678,2008,Female,North Carolina,14451.9
+379,379,1135,1135,Less Than High School,Finance and Insurance,41597552,4791,2008,Female,North Carolina,8682.44
+380,380,1136,1136,High School Graduate,Finance and Insurance,213894075,21427,2008,Female,North Carolina,9982.46
+381,381,1137,1137,Some College,Finance and Insurance,372867320,30381,2008,Female,North Carolina,12273.04
+382,382,1138,1138,Advanced Degree,Finance and Insurance,735660124,34085,2008,Female,North Carolina,21583.1
+383,383,1139,1139,Unavalble,Finance and Insurance,47614045,6994,2008,Female,North Carolina,6807.84
+384,384,1188,1188,All Education Categories,Educational Services,1228920373,98793,2008,Male,North Carolina,12439.35
+385,385,1189,1189,Less Than High School,Educational Services,63261677,7439,2008,Male,North Carolina,8504.06
+386,386,1190,1190,High School Graduate,Educational Services,197583791,20215,2008,Male,North Carolina,9774.12
+387,387,1191,1191,Some College,Educational Services,304879856,26869,2008,Male,North Carolina,11346.9
+388,388,1192,1192,Advanced Degree,Educational Services,638315584,39581,2008,Male,North Carolina,16126.82
+389,389,1193,1193,Unavalble,Educational Services,24879465,4689,2008,Male,North Carolina,5305.92
+390,390,1194,1194,All Education Categories,Educational Services,2424812977,241900,2008,Female,North Carolina,10024.03
+391,391,1195,1195,Less Than High School,Educational Services,101458807,14625,2008,Female,North Carolina,6937.35
+392,392,1196,1196,High School Graduate,Educational Services,426404531,52826,2008,Female,North Carolina,8071.87
+393,393,1197,1197,Some College,Educational Services,694550108,72962,2008,Female,North Carolina,9519.34
+394,394,1198,1198,Advanced Degree,Educational Services,1127690813,89144,2008,Female,North Carolina,12650.22
+395,395,1199,1199,Unavalble,Educational Services,74708718,12342,2008,Female,North Carolina,6053.21
+396,396,1200,1200,All Education Categories,Health Care and Social Assistance,1683946180,101115,2008,Male,North Carolina,16653.77
+397,397,1201,1201,Less Than High School,Health Care and Social Assistance,80688216,9707,2008,Male,North Carolina,8312.37
+398,398,1202,1202,High School Graduate,Health Care and Social Assistance,239981953,22837,2008,Male,North Carolina,10508.47
+399,399,1203,1203,Some College,Health Care and Social Assistance,406103858,28565,2008,Male,North Carolina,14216.83
+400,400,1204,1204,Advanced Degree,Health Care and Social Assistance,918716816,32397,2008,Male,North Carolina,28358.08
+401,401,1205,1205,Unavalble,Health Care and Social Assistance,38455336,7608,2008,Male,North Carolina,5054.59
+402,402,1206,1206,All Education Categories,Health Care and Social Assistance,3536240820,431600,2008,Female,North Carolina,8193.33
+403,403,1207,1207,Less Than High School,Health Care and Social Assistance,227952454,40390,2008,Female,North Carolina,5643.78
+404,404,1208,1208,High School Graduate,Health Care and Social Assistance,722406993,107442,2008,Female,North Carolina,6723.69
+405,405,1209,1209,Some College,Health Care and Social Assistance,1267158227,152232,2008,Female,North Carolina,8323.86
+406,406,1210,1210,Advanced Degree,Health Care and Social Assistance,1143555753,94237,2008,Female,North Carolina,12134.89
+407,407,1211,1211,Unavalble,Health Care and Social Assistance,175167393,37298,2008,Female,North Carolina,4696.43
+408,408,1224,1224,All Education Categories,Accommodation and Food Services,679978863,142141,2008,Male,North Carolina,4783.83
+409,409,1225,1225,Less Than High School,Accommodation and Food Services,104457358,21629,2008,Male,North Carolina,4829.5
+410,410,1226,1226,High School Graduate,Accommodation and Food Services,180423776,32084,2008,Male,North Carolina,5623.48
+411,411,1227,1227,Some College,Accommodation and Food Services,154232791,24915,2008,Male,North Carolina,6190.36
+412,412,1228,1228,Advanced Degree,Accommodation and Food Services,101156902,12372,2008,Male,North Carolina,8176.28
+413,413,1229,1229,Unavalble,Accommodation and Food Services,139708037,51141,2008,Male,North Carolina,2731.82
+414,414,1230,1230,All Education Categories,Accommodation and Food Services,659524267,186161,2008,Female,North Carolina,3542.76
+415,415,1231,1231,Less Than High School,Accommodation and Food Services,93918810,25585,2008,Female,North Carolina,3670.85
+416,416,1232,1232,High School Graduate,Accommodation and Food Services,163097418,40488,2008,Female,North Carolina,4028.29
+417,417,1233,1233,Some College,Accommodation and Food Services,145697766,33318,2008,Female,North Carolina,4372.94
+418,418,1234,1234,Advanced Degree,Accommodation and Food Services,81246947,14912,2008,Female,North Carolina,5448.43
+419,419,1235,1235,Unavalble,Accommodation and Food Services,175563326,71858,2008,Female,North Carolina,2443.2
+420,420,1260,1260,All Education Categories,00,23197501928,1837397,2009,Male,North Carolina,12625.2
+421,421,1261,1261,Less Than High School,00,1834258399,230258,2009,Male,North Carolina,7966.1
+422,422,1262,1262,High School Graduate,00,5136835118,507083,2009,Male,North Carolina,10130.17
+423,423,1263,1263,Some College,00,6219852490,492882,2009,Male,North Carolina,12619.35
+424,424,1264,1264,Advanced Degree,00,9122983548,403566,2009,Male,North Carolina,22605.93
+425,425,1265,1265,Unavalble,00,883572374,203608,2009,Male,North Carolina,4339.58
+426,426,1266,1266,All Education Categories,00,16460571138,1982279,2009,Female,North Carolina,8303.86
+427,427,1267,1267,Less Than High School,00,1160589672,199766,2009,Female,North Carolina,5809.75
+428,428,1268,1268,High School Graduate,00,3625991465,514413,2009,Female,North Carolina,7048.79
+429,429,1269,1269,Some College,00,5070181474,590532,2009,Female,North Carolina,8585.79
+430,430,1270,1270,Advanced Degree,00,5708562296,433266,2009,Female,North Carolina,13175.65
+431,431,1271,1271,Unavalble,00,895246230,244303,2009,Female,North Carolina,3664.49
+432,432,1320,1320,All Education Categories,Manufacturing,4460523203,322111,2009,Male,North Carolina,13847.78
+433,433,1321,1321,Less Than High School,Manufacturing,398638072,45281,2009,Male,North Carolina,8803.65
+434,434,1322,1322,High School Graduate,Manufacturing,1217323257,107455,2009,Male,North Carolina,11328.68
+435,435,1323,1323,Some College,Manufacturing,1331876942,94413,2009,Male,North Carolina,14106.92
+436,436,1324,1324,Advanced Degree,Manufacturing,1401657618,57595,2009,Male,North Carolina,24336.45
+437,437,1325,1325,Unavalble,Manufacturing,111027314,17368,2009,Male,North Carolina,6392.64
+438,438,1326,1326,All Education Categories,Manufacturing,1614129115,165047,2009,Female,North Carolina,9779.81
+439,439,1327,1327,Less Than High School,Manufacturing,147880292,23325,2009,Female,North Carolina,6339.99
+440,440,1328,1328,High School Graduate,Manufacturing,463262218,58784,2009,Female,North Carolina,7880.75
+441,441,1329,1329,Some College,Manufacturing,493494352,49376,2009,Female,North Carolina,9994.62
+442,442,1330,1330,Advanced Degree,Manufacturing,465825387,26005,2009,Female,North Carolina,17912.92
+443,443,1331,1331,Unavalble,Manufacturing,43666867,7558,2009,Female,North Carolina,5777.57
+444,444,1344,1344,All Education Categories,Retail Trade,1727073276,214160,2009,Male,North Carolina,8064.41
+445,445,1345,1345,Less Than High School,Retail Trade,189904109,26931,2009,Male,North Carolina,7051.51
+446,446,1346,1346,High School Graduate,Retail Trade,515240448,61191,2009,Male,North Carolina,8420.2
+447,447,1347,1347,Some College,Retail Trade,499651016,52422,2009,Male,North Carolina,9531.32
+448,448,1348,1348,Advanced Degree,Retail Trade,364974737,27801,2009,Male,North Carolina,13128.12
+449,449,1349,1349,Unavalble,Retail Trade,157302966,45815,2009,Male,North Carolina,3433.44
+450,450,1350,1350,All Education Categories,Retail Trade,1282487998,238416,2009,Female,North Carolina,5379.2
+451,451,1351,1351,Less Than High School,Retail Trade,148763404,28353,2009,Female,North Carolina,5246.83
+452,452,1352,1352,High School Graduate,Retail Trade,408211073,69979,2009,Female,North Carolina,5833.34
+453,453,1353,1353,Some College,Retail Trade,361775772,57767,2009,Female,North Carolina,6262.67
+454,454,1354,1354,Advanced Degree,Retail Trade,210448478,26031,2009,Female,North Carolina,8084.53
+455,455,1355,1355,Unavalble,Retail Trade,153289271,56285,2009,Female,North Carolina,2723.45
+456,456,1380,1380,All Education Categories,Finance and Insurance,1854224454,53853,2009,Male,North Carolina,34431.22
+457,457,1381,1381,Less Than High School,Finance and Insurance,41710569,2746,2009,Male,North Carolina,15189.57
+458,458,1382,1382,High School Graduate,Finance and Insurance,165859808,8293,2009,Male,North Carolina,19999.98
+459,459,1383,1383,Some College,Finance and Insurance,346414225,13117,2009,Male,North Carolina,26409.56
+460,460,1384,1384,Advanced Degree,Finance and Insurance,1273236448,26930,2009,Male,North Carolina,47279.48
+461,461,1385,1385,Unavalble,Finance and Insurance,27003404,2767,2009,Male,North Carolina,9759.09
+462,462,1386,1386,All Education Categories,Finance and Insurance,1353890030,94369,2009,Female,North Carolina,14346.77
+463,463,1387,1387,Less Than High School,Finance and Insurance,46020911,5092,2009,Female,North Carolina,9037.89
+464,464,1388,1388,High School Graduate,Finance and Insurance,219217449,21034,2009,Female,North Carolina,10422.05
+465,465,1389,1389,Some College,Finance and Insurance,373893004,29483,2009,Female,North Carolina,12681.65
+466,466,1390,1390,Advanced Degree,Finance and Insurance,670800450,32487,2009,Female,North Carolina,20648.27
+467,467,1391,1391,Unavalble,Finance and Insurance,43958216,6273,2009,Female,North Carolina,7007.53
+468,468,1440,1440,All Education Categories,Educational Services,1298587060,107866,2009,Male,North Carolina,12038.89
+469,469,1441,1441,Less Than High School,Educational Services,71495638,8688,2009,Male,North Carolina,8229.24
+470,470,1442,1442,High School Graduate,Educational Services,213444542,22753,2009,Male,North Carolina,9380.94
+471,471,1443,1443,Some College,Educational Services,325255974,29486,2009,Male,North Carolina,11030.86
+472,472,1444,1444,Advanced Degree,Educational Services,662921680,41641,2009,Male,North Carolina,15919.93
+473,473,1445,1445,Unavalble,Educational Services,25469226,5298,2009,Male,North Carolina,4807.33
+474,474,1446,1446,All Education Categories,Educational Services,2560369682,271469,2009,Female,North Carolina,9431.54
+475,475,1447,1447,Less Than High School,Educational Services,116603021,17598,2009,Female,North Carolina,6625.92
+476,476,1448,1448,High School Graduate,Educational Services,459782220,60449,2009,Female,North Carolina,7606.12
+477,477,1449,1449,Some College,Educational Services,739918075,82331,2009,Female,North Carolina,8987.11
+478,478,1450,1450,Advanced Degree,Educational Services,1169704000,97769,2009,Female,North Carolina,11963.96
+479,479,1451,1451,Unavalble,Educational Services,74362367,13322,2009,Female,North Carolina,5581.92
+480,480,1452,1452,All Education Categories,Health Care and Social Assistance,1724649977,101378,2009,Male,North Carolina,17012.07
+481,481,1453,1453,Less Than High School,Health Care and Social Assistance,84976314,10160,2009,Male,North Carolina,8363.81
+482,482,1454,1454,High School Graduate,Health Care and Social Assistance,246010758,23059,2009,Male,North Carolina,10668.75
+483,483,1455,1455,Some College,Health Care and Social Assistance,413543158,28421,2009,Male,North Carolina,14550.62
+484,484,1456,1456,Advanced Degree,Health Care and Social Assistance,946250749,32244,2009,Male,North Carolina,29346.57
+485,485,1457,1457,Unavalble,Health Care and Social Assistance,33868998,7494,2009,Male,North Carolina,4519.48
+486,486,1458,1458,All Education Categories,Health Care and Social Assistance,3680219356,444142,2009,Female,North Carolina,8286.13
+487,487,1459,1459,Less Than High School,Health Care and Social Assistance,245962446,42588,2009,Female,North Carolina,5775.39
+488,488,1460,1460,High School Graduate,Health Care and Social Assistance,759396058,111455,2009,Female,North Carolina,6813.48
+489,489,1461,1461,Some College,Health Care and Social Assistance,1314032467,155915,2009,Female,North Carolina,8427.88
+490,490,1462,1462,Advanced Degree,Health Care and Social Assistance,1192898913,97420,2009,Female,North Carolina,12244.91
+491,491,1463,1463,Unavalble,Health Care and Social Assistance,167929472,36764,2009,Female,North Carolina,4567.77
+492,492,1476,1476,All Education Categories,Accommodation and Food Services,651649153,142176,2009,Male,North Carolina,4583.4
+493,493,1477,1477,Less Than High School,Accommodation and Food Services,102438857,22179,2009,Male,North Carolina,4618.73
+494,494,1478,1478,High School Graduate,Accommodation and Food Services,176740267,33034,2009,Male,North Carolina,5350.25
+495,495,1479,1479,Some College,Accommodation and Food Services,152201063,25911,2009,Male,North Carolina,5873.99
+496,496,1480,1480,Advanced Degree,Accommodation and Food Services,100105655,13222,2009,Male,North Carolina,7571.14
+497,497,1481,1481,Unavalble,Accommodation and Food Services,120163310,47830,2009,Male,North Carolina,2512.3
+498,498,1482,1482,All Education Categories,Accommodation and Food Services,630545234,184162,2009,Female,North Carolina,3423.86
+499,499,1483,1483,Less Than High School,Accommodation and Food Services,91151386,25515,2009,Female,North Carolina,3572.46
+500,500,1484,1484,High School Graduate,Accommodation and Food Services,159062379,40530,2009,Female,North Carolina,3924.56
+501,501,1485,1485,Some College,Accommodation and Food Services,142878572,33906,2009,Female,North Carolina,4213.96
+502,502,1486,1486,Advanced Degree,Accommodation and Food Services,80446566,15623,2009,Female,North Carolina,5149.24
+503,503,1487,1487,Unavalble,Accommodation and Food Services,157006330,68588,2009,Female,North Carolina,2289.12
+504,504,1512,1512,All Education Categories,00,22846624650,1742820,2010,Male,North Carolina,13109.0
+505,505,1513,1513,Less Than High School,00,1773456847,219040,2010,Male,North Carolina,8096.5
+506,506,1514,1514,High School Graduate,00,4947826516,482212,2010,Male,North Carolina,10260.69
+507,507,1515,1515,Some College,00,6066398665,471587,2010,Male,North Carolina,12863.8
+508,508,1516,1516,Advanced Degree,00,9300296143,389508,2010,Male,North Carolina,23877.03
+509,509,1517,1517,Unavalble,00,758646480,180473,2010,Male,North Carolina,4203.66
+510,510,1518,1518,All Education Categories,00,15659859180,1890635,2010,Female,North Carolina,8282.86
+511,511,1519,1519,Less Than High School,00,1125246673,193678,2010,Female,North Carolina,5809.88
+512,512,1520,1520,High School Graduate,00,3427089047,492521,2010,Female,North Carolina,6958.26
+513,513,1521,1521,Some College,00,4830029158,567355,2010,Female,North Carolina,8513.24
+514,514,1522,1522,Advanced Degree,00,5512522851,416355,2010,Female,North Carolina,13239.96
+515,515,1523,1523,Unavalble,00,764971450,220725,2010,Female,North Carolina,3465.72
+516,516,1572,1572,All Education Categories,Manufacturing,4362228679,290037,2010,Male,North Carolina,15040.25
+517,517,1573,1573,Less Than High School,Manufacturing,392009850,40607,2010,Male,North Carolina,9653.75
+518,518,1574,1574,High School Graduate,Manufacturing,1177197541,96787,2010,Male,North Carolina,12162.77
+519,519,1575,1575,Some College,Manufacturing,1290906931,85963,2010,Male,North Carolina,15017.01
+520,520,1576,1576,Advanced Degree,Manufacturing,1406819363,53310,2010,Male,North Carolina,26389.41
+521,521,1577,1577,Unavalble,Manufacturing,95294995,13369,2010,Male,North Carolina,7128.06
+522,522,1578,1578,All Education Categories,Manufacturing,1552509688,147284,2010,Female,North Carolina,10540.93
+523,523,1579,1579,Less Than High School,Manufacturing,146677580,21021,2010,Female,North Carolina,6977.67
+524,524,1580,1580,High School Graduate,Manufacturing,440454455,52152,2010,Female,North Carolina,8445.59
+525,525,1581,1581,Some College,Manufacturing,471402267,44334,2010,Female,North Carolina,10632.97
+526,526,1582,1582,Advanced Degree,Manufacturing,456641585,23937,2010,Female,North Carolina,19076.81
+527,527,1583,1583,Unavalble,Manufacturing,37333801,5839,2010,Female,North Carolina,6393.87
+528,528,1596,1596,All Education Categories,Retail Trade,1570967522,208525,2010,Male,North Carolina,7533.71
+529,529,1597,1597,Less Than High School,Retail Trade,171286449,26497,2010,Male,North Carolina,6464.37
+530,530,1598,1598,High School Graduate,Retail Trade,467549094,60007,2010,Male,North Carolina,7791.58
+531,531,1599,1599,Some College,Retail Trade,459908160,51778,2010,Male,North Carolina,8882.31
+532,532,1600,1600,Advanced Degree,Retail Trade,343424827,27662,2010,Male,North Carolina,12415.04
+533,533,1601,1601,Unavalble,Retail Trade,128798992,42582,2010,Male,North Carolina,3024.73
+534,534,1602,1602,All Education Categories,Retail Trade,1075631081,229450,2010,Female,North Carolina,4687.87
+535,535,1603,1603,Less Than High School,Retail Trade,121839502,27461,2010,Female,North Carolina,4436.82
+536,536,1604,1604,High School Graduate,Retail Trade,335504708,67553,2010,Female,North Carolina,4966.54
+537,537,1605,1605,Some College,Retail Trade,307157096,56293,2010,Female,North Carolina,5456.4
+538,538,1606,1606,Advanced Degree,Retail Trade,187331271,25901,2010,Female,North Carolina,7232.59
+539,539,1607,1607,Unavalble,Retail Trade,123798503,52242,2010,Female,North Carolina,2369.71
+540,540,1632,1632,All Education Categories,Finance and Insurance,2116568001,52042,2010,Male,North Carolina,40670.38
+541,541,1633,1633,Less Than High School,Finance and Insurance,42809601,2789,2010,Male,North Carolina,15349.44
+542,542,1634,1634,High School Graduate,Finance and Insurance,173169906,8233,2010,Male,North Carolina,21033.63
+543,543,1635,1635,Some College,Finance and Insurance,376943073,12780,2010,Male,North Carolina,29494.76
+544,544,1636,1636,Advanced Degree,Finance and Insurance,1504134622,26162,2010,Male,North Carolina,57493.11
+545,545,1637,1637,Unavalble,Finance and Insurance,19510800,2077,2010,Male,North Carolina,9393.74
+546,546,1638,1638,All Education Categories,Finance and Insurance,1290208813,88337,2010,Female,North Carolina,14605.53
+547,547,1639,1639,Less Than High School,Finance and Insurance,44186223,4990,2010,Female,North Carolina,8854.95
+548,548,1640,1640,High School Graduate,Finance and Insurance,200498544,19909,2010,Female,North Carolina,10070.75
+549,549,1641,1641,Some College,Finance and Insurance,346408223,27916,2010,Female,North Carolina,12408.95
+550,550,1642,1642,Advanced Degree,Finance and Insurance,668087211,30746,2010,Female,North Carolina,21729.24
+551,551,1643,1643,Unavalble,Finance and Insurance,31028612,4776,2010,Female,North Carolina,6496.78
+552,552,1692,1692,All Education Categories,Educational Services,1200514879,103827,2010,Male,North Carolina,11562.65
+553,553,1693,1693,Less Than High School,Educational Services,67690067,8626,2010,Male,North Carolina,7847.21
+554,554,1694,1694,High School Graduate,Educational Services,198418955,22332,2010,Male,North Carolina,8884.96
+555,555,1695,1695,Some College,Educational Services,299261189,28447,2010,Male,North Carolina,10519.96
+556,556,1696,1696,Advanced Degree,Educational Services,615256931,39751,2010,Male,North Carolina,15477.77
+557,557,1697,1697,Unavalble,Educational Services,19887737,4671,2010,Male,North Carolina,4257.7
+558,558,1698,1698,All Education Categories,Educational Services,2236852317,251165,2010,Female,North Carolina,8905.91
+559,559,1699,1699,Less Than High School,Educational Services,106864946,16696,2010,Female,North Carolina,6400.63
+560,560,1700,1700,High School Graduate,Educational Services,411506219,56606,2010,Female,North Carolina,7269.66
+561,561,1701,1701,Some College,Educational Services,653935428,76802,2010,Female,North Carolina,8514.56
+562,562,1702,1702,Advanced Degree,Educational Services,1012162338,89999,2010,Female,North Carolina,11246.37
+563,563,1703,1703,Unavalble,Educational Services,52383386,11062,2010,Female,North Carolina,4735.44
+564,564,1704,1704,All Education Categories,Health Care and Social Assistance,1799714535,102153,2010,Male,North Carolina,17617.83
+565,565,1705,1705,Less Than High School,Health Care and Social Assistance,90624474,10456,2010,Male,North Carolina,8667.22
+566,566,1706,1706,High School Graduate,Health Care and Social Assistance,257720785,23656,2010,Male,North Carolina,10894.52
+567,567,1707,1707,Some College,Health Care and Social Assistance,432520776,28706,2010,Male,North Carolina,15067.26
+568,568,1708,1708,Advanced Degree,Health Care and Social Assistance,987949968,32415,2010,Male,North Carolina,30478.17
+569,569,1709,1709,Unavalble,Health Care and Social Assistance,30898531,6920,2010,Male,North Carolina,4465.11
+570,570,1710,1710,All Education Categories,Health Care and Social Assistance,3737795469,441554,2010,Female,North Carolina,8465.09
+571,571,1711,1711,Less Than High School,Health Care and Social Assistance,256873984,43215,2010,Female,North Carolina,5944.09
+572,572,1712,1712,High School Graduate,Health Care and Social Assistance,775639697,111708,2010,Female,North Carolina,6943.46
+573,573,1713,1713,Some College,Health Care and Social Assistance,1331881817,154935,2010,Female,North Carolina,8596.39
+574,574,1714,1714,Advanced Degree,Health Care and Social Assistance,1217240360,97485,2010,Female,North Carolina,12486.44
+575,575,1715,1715,Unavalble,Health Care and Social Assistance,156159611,34211,2010,Female,North Carolina,4564.6
+576,576,1728,1728,All Education Categories,Accommodation and Food Services,641234542,139209,2010,Male,North Carolina,4606.27
+577,577,1729,1729,Less Than High School,Accommodation and Food Services,101663943,22044,2010,Male,North Carolina,4611.86
+578,578,1730,1730,High School Graduate,Accommodation and Food Services,173741853,32761,2010,Male,North Carolina,5303.31
+579,579,1731,1731,Some College,Accommodation and Food Services,150185042,26212,2010,Male,North Carolina,5729.63
+580,580,1732,1732,Advanced Degree,Accommodation and Food Services,102737483,13646,2010,Male,North Carolina,7528.76
+581,581,1733,1733,Unavalble,Accommodation and Food Services,112906220,44546,2010,Male,North Carolina,2534.6
+582,582,1734,1734,All Education Categories,Accommodation and Food Services,610150609,177680,2010,Female,North Carolina,3433.99
+583,583,1735,1735,Less Than High School,Accommodation and Food Services,88764501,24805,2010,Female,North Carolina,3578.49
+584,584,1736,1736,High School Graduate,Accommodation and Food Services,152980198,39232,2010,Female,North Carolina,3899.37
+585,585,1737,1737,Some College,Accommodation and Food Services,138489934,33229,2010,Female,North Carolina,4167.74
+586,586,1738,1738,Advanced Degree,Accommodation and Food Services,79660720,15784,2010,Female,North Carolina,5046.93
+587,587,1739,1739,Unavalble,Accommodation and Food Services,150255257,64631,2010,Female,North Carolina,2324.82
+588,588,1764,1764,All Education Categories,00,24607906669,1776738,2011,Male,North Carolina,13850.05
+589,589,1765,1765,Less Than High School,00,1925152825,226058,2011,Male,North Carolina,8516.19
+590,590,1766,1766,High School Graduate,00,5320376062,492115,2011,Male,North Carolina,10811.25
+591,591,1767,1767,Some College,00,6526382966,479473,2011,Male,North Carolina,13611.58
+592,592,1768,1768,Advanced Degree,00,10065127697,393562,2011,Male,North Carolina,25574.44
+593,593,1769,1769,Unavalble,00,770867119,185530,2011,Male,North Carolina,4154.95
+594,594,1770,1770,All Education Categories,00,16405996689,1912006,2011,Female,North Carolina,8580.52
+595,595,1771,1771,Less Than High School,00,1201130334,198808,2011,Female,North Carolina,6041.66
+596,596,1772,1772,High School Graduate,00,3583257727,496167,2011,Female,North Carolina,7221.88
+597,597,1773,1773,Some College,00,5028766312,572198,2011,Female,North Carolina,8788.51
+598,598,1774,1774,Advanced Degree,00,5830710913,422189,2011,Female,North Carolina,13810.67
+599,599,1775,1775,Unavalble,00,762131403,222645,2011,Female,North Carolina,3423.08
+600,600,1824,1824,All Education Categories,Manufacturing,4614967463,292209,2011,Male,North Carolina,15793.38
+601,601,1825,1825,Less Than High School,Manufacturing,417763536,41452,2011,Male,North Carolina,10078.25
+602,602,1826,1826,High School Graduate,Manufacturing,1256589185,97249,2011,Male,North Carolina,12921.36
+603,603,1827,1827,Some College,Manufacturing,1373011362,86047,2011,Male,North Carolina,15956.53
+604,604,1828,1828,Advanced Degree,Manufacturing,1470588303,53471,2011,Male,North Carolina,27502.54
+605,605,1829,1829,Unavalble,Manufacturing,97015077,13989,2011,Male,North Carolina,6935.1
+606,606,1830,1830,All Education Categories,Manufacturing,1603068647,145824,2011,Female,North Carolina,10993.17
+607,607,1831,1831,Less Than High School,Manufacturing,151355021,21147,2011,Female,North Carolina,7157.28
+608,608,1832,1832,High School Graduate,Manufacturing,453118786,51094,2011,Female,North Carolina,8868.34
+609,609,1833,1833,Some College,Manufacturing,486596277,43728,2011,Female,North Carolina,11127.8
+610,610,1834,1834,Advanced Degree,Manufacturing,476913843,23845,2011,Female,North Carolina,20000.58
+611,611,1835,1835,Unavalble,Manufacturing,35084721,6010,2011,Female,North Carolina,5837.72
+612,612,1848,1848,All Education Categories,Retail Trade,1621320745,211532,2011,Male,North Carolina,7664.66
+613,613,1849,1849,Less Than High School,Retail Trade,179517899,26934,2011,Male,North Carolina,6665.1
+614,614,1850,1850,High School Graduate,Retail Trade,483365496,60457,2011,Male,North Carolina,7995.19
+615,615,1851,1851,Some College,Retail Trade,472887462,52129,2011,Male,North Carolina,9071.49
+616,616,1852,1852,Advanced Degree,Retail Trade,351586552,28039,2011,Male,North Carolina,12539.2
+617,617,1853,1853,Unavalble,Retail Trade,133963335,43974,2011,Male,North Carolina,3046.42
+618,618,1854,1854,All Education Categories,Retail Trade,1108068008,231513,2011,Female,North Carolina,4786.2
+619,619,1855,1855,Less Than High School,Retail Trade,127680544,27725,2011,Female,North Carolina,4605.25
+620,620,1856,1856,High School Graduate,Retail Trade,343839799,66945,2011,Female,North Carolina,5136.15
+621,621,1857,1857,Some College,Retail Trade,317234934,56593,2011,Female,North Carolina,5605.55
+622,622,1858,1858,Advanced Degree,Retail Trade,191844623,26424,2011,Female,North Carolina,7260.24
+623,623,1859,1859,Unavalble,Retail Trade,127468108,53826,2011,Female,North Carolina,2368.15
+624,624,1884,1884,All Education Categories,Finance and Insurance,2539052402,54737,2011,Male,North Carolina,46386.4
+625,625,1885,1885,Less Than High School,Finance and Insurance,56198517,3195,2011,Male,North Carolina,17589.52
+626,626,1886,1886,High School Graduate,Finance and Insurance,212017753,8963,2011,Male,North Carolina,23654.78
+627,627,1887,1887,Some College,Finance and Insurance,453835102,13536,2011,Male,North Carolina,33528.01
+628,628,1888,1888,Advanced Degree,Finance and Insurance,1793611975,26903,2011,Male,North Carolina,66669.59
+629,629,1889,1889,Unavalble,Finance and Insurance,23389054,2141,2011,Male,North Carolina,10924.36
+630,630,1890,1890,All Education Categories,Finance and Insurance,1479237667,89335,2011,Female,North Carolina,16558.32
+631,631,1891,1891,Less Than High School,Finance and Insurance,53075355,5377,2011,Female,North Carolina,9870.81
+632,632,1892,1892,High School Graduate,Finance and Insurance,224639323,20174,2011,Female,North Carolina,11135.09
+633,633,1893,1893,Some College,Finance and Insurance,390755433,28268,2011,Female,North Carolina,13823.24
+634,634,1894,1894,Advanced Degree,Finance and Insurance,778044741,31103,2011,Female,North Carolina,25015.1
+635,635,1895,1895,Unavalble,Finance and Insurance,32722815,4414,2011,Female,North Carolina,7413.42
+636,636,1944,1944,All Education Categories,Educational Services,1252542569,109089,2011,Male,North Carolina,11481.84
+637,637,1945,1945,Less Than High School,Educational Services,74758216,9409,2011,Male,North Carolina,7945.39
+638,638,1946,1946,High School Graduate,Educational Services,214227028,23870,2011,Male,North Carolina,8974.74
+639,639,1947,1947,Some College,Educational Services,315277866,29893,2011,Male,North Carolina,10546.88
+640,640,1948,1948,Advanced Degree,Educational Services,627106875,40514,2011,Male,North Carolina,15478.77
+641,641,1949,1949,Unavalble,Educational Services,21172584,5403,2011,Male,North Carolina,3918.67
+642,642,1950,1950,All Education Categories,Educational Services,2372210241,265344,2011,Female,North Carolina,8940.13
+643,643,1951,1951,Less Than High School,Educational Services,121620188,18508,2011,Female,North Carolina,6571.22
+644,644,1952,1952,High School Graduate,Educational Services,443699916,59971,2011,Female,North Carolina,7398.57
+645,645,1953,1953,Some College,Educational Services,696114139,80982,2011,Female,North Carolina,8595.91
+646,646,1954,1954,Advanced Degree,Educational Services,1053714373,93774,2011,Female,North Carolina,11236.74
+647,647,1955,1955,Unavalble,Educational Services,57061624,12108,2011,Female,North Carolina,4712.72
+648,648,1956,1956,All Education Categories,Health Care and Social Assistance,1799279840,102086,2011,Male,North Carolina,17625.14
+649,649,1957,1957,Less Than High School,Health Care and Social Assistance,94558600,10602,2011,Male,North Carolina,8918.94
+650,650,1958,1958,High School Graduate,Health Care and Social Assistance,263587990,23834,2011,Male,North Carolina,11059.33
+651,651,1959,1959,Some College,Health Care and Social Assistance,431800342,28650,2011,Male,North Carolina,15071.57
+652,652,1960,1960,Advanced Degree,Health Care and Social Assistance,981275932,32360,2011,Male,North Carolina,30323.73
+653,653,1961,1961,Unavalble,Health Care and Social Assistance,28056975,6640,2011,Male,North Carolina,4225.45
+654,654,1962,1962,All Education Categories,Health Care and Social Assistance,3673964643,432646,2011,Female,North Carolina,8491.85
+655,655,1963,1963,Less Than High School,Health Care and Social Assistance,260650250,42695,2011,Female,North Carolina,6104.94
+656,656,1964,1964,High School Graduate,Health Care and Social Assistance,773539477,109873,2011,Female,North Carolina,7040.31
+657,657,1965,1965,Some College,Health Care and Social Assistance,1307421371,151871,2011,Female,North Carolina,8608.76
+658,658,1966,1966,Advanced Degree,Health Care and Social Assistance,1190433630,96567,2011,Female,North Carolina,12327.54
+659,659,1967,1967,Unavalble,Health Care and Social Assistance,141919915,31640,2011,Female,North Carolina,4485.46
+660,660,1980,1980,All Education Categories,Accommodation and Food Services,667451527,142669,2011,Male,North Carolina,4678.32
+661,661,1981,1981,Less Than High School,Accommodation and Food Services,106213797,22638,2011,Male,North Carolina,4691.84
+662,662,1982,1982,High School Graduate,Accommodation and Food Services,180596656,33482,2011,Male,North Carolina,5393.84
+663,663,1983,1983,Some College,Accommodation and Food Services,156981393,26950,2011,Male,North Carolina,5824.91
+664,664,1984,1984,Advanced Degree,Accommodation and Food Services,109506577,14290,2011,Male,North Carolina,7663.16
+665,665,1985,1985,Unavalble,Accommodation and Food Services,114153103,45308,2011,Male,North Carolina,2519.49
+666,666,1986,1986,All Education Categories,Accommodation and Food Services,633617910,180207,2011,Female,North Carolina,3516.06
+667,667,1987,1987,Less Than High School,Accommodation and Food Services,92948915,25087,2011,Female,North Carolina,3705.06
+668,668,1988,1988,High School Graduate,Accommodation and Food Services,158547137,39397,2011,Female,North Carolina,4024.35
+669,669,1989,1989,Some College,Accommodation and Food Services,144265697,33702,2011,Female,North Carolina,4280.63
+670,670,1990,1990,Advanced Degree,Accommodation and Food Services,84398541,16269,2011,Female,North Carolina,5187.69
+671,671,1991,1991,Unavalble,Accommodation and Food Services,153457620,65752,2011,Female,North Carolina,2333.89
+672,672,2016,2016,All Education Categories,00,26059159642,1820941,2012,Male,North Carolina,14310.82
+673,673,2017,2017,Less Than High School,00,2129656676,235197,2012,Male,North Carolina,9054.78
+674,674,2018,2018,High School Graduate,00,5740493352,505552,2012,Male,North Carolina,11354.9
+675,675,2019,2019,Some College,00,6956291768,491032,2012,Male,North Carolina,14166.68
+676,676,2020,2020,Advanced Degree,00,10386120142,398728,2012,Male,North Carolina,26048.13
+677,677,2021,2021,Unavalble,00,846597704,190431,2012,Male,North Carolina,4445.69
+678,678,2022,2022,All Education Categories,00,17507276485,1941849,2012,Female,North Carolina,9015.78
+679,679,2023,2023,Less Than High School,00,1342657251,206470,2012,Female,North Carolina,6502.92
+680,680,2024,2024,High School Graduate,00,3865993362,503269,2012,Female,North Carolina,7681.76
+681,681,2025,2025,Some College,00,5389511163,579765,2012,Female,North Carolina,9296.03
+682,682,2026,2026,Advanced Degree,00,6076816024,425225,2012,Female,North Carolina,14290.82
+683,683,2027,2027,Unavalble,00,832298685,227121,2012,Female,North Carolina,3664.56
+684,684,2076,2076,All Education Categories,Manufacturing,4855550511,296711,2012,Male,North Carolina,16364.58
+685,685,2077,2077,Less Than High School,Manufacturing,450848976,42597,2012,Male,North Carolina,10584.05
+686,686,2078,2078,High School Graduate,Manufacturing,1321386302,98678,2012,Male,North Carolina,13390.89
+687,687,2079,2079,Some College,Manufacturing,1440411637,87008,2012,Male,North Carolina,16554.93
+688,688,2080,2080,Advanced Degree,Manufacturing,1529679156,53462,2012,Male,North Carolina,28612.46
+689,689,2081,2081,Unavalble,Manufacturing,113224439,14967,2012,Male,North Carolina,7564.94
+690,690,2082,2082,All Education Categories,Manufacturing,1665908369,143164,2012,Female,North Carolina,11636.36
+691,691,2083,2083,Less Than High School,Manufacturing,160654281,20977,2012,Female,North Carolina,7658.59
+692,692,2084,2084,High School Graduate,Manufacturing,468681635,49848,2012,Female,North Carolina,9402.22
+693,693,2085,2085,Some College,Manufacturing,503432343,42996,2012,Female,North Carolina,11708.82
+694,694,2086,2086,Advanced Degree,Manufacturing,493972817,23470,2012,Female,North Carolina,21046.99
+695,695,2087,2087,Unavalble,Manufacturing,39167294,5873,2012,Female,North Carolina,6669.04
+696,696,2100,2100,All Education Categories,Retail Trade,1773839868,216998,2012,Male,North Carolina,8174.45
+697,697,2101,2101,Less Than High School,Retail Trade,198456183,27865,2012,Male,North Carolina,7122.06
+698,698,2102,2102,High School Graduate,Retail Trade,526249351,61577,2012,Male,North Carolina,8546.2
+699,699,2103,2103,Some College,Retail Trade,518266782,53358,2012,Male,North Carolina,9713.01
+700,700,2104,2104,Advanced Degree,Retail Trade,385996300,28988,2012,Male,North Carolina,13315.73
+701,701,2105,2105,Unavalble,Retail Trade,144871252,45209,2012,Male,North Carolina,3204.48
+702,702,2106,2106,All Education Categories,Retail Trade,1200344412,236959,2012,Female,North Carolina,5065.62
+703,703,2107,2107,Less Than High School,Retail Trade,139820454,28531,2012,Female,North Carolina,4900.65
+704,704,2108,2108,High School Graduate,Retail Trade,368527814,67552,2012,Female,North Carolina,5455.47
+705,705,2109,2109,Some College,Retail Trade,342546691,57825,2012,Female,North Carolina,5923.85
+706,706,2110,2110,Advanced Degree,Retail Trade,210460487,27437,2012,Female,North Carolina,7670.68
+707,707,2111,2111,Unavalble,Retail Trade,138988966,55615,2012,Female,North Carolina,2499.13
+708,708,2136,2136,All Education Categories,Finance and Insurance,2168424876,52294,2012,Male,North Carolina,41466.04
+709,709,2137,2137,Less Than High School,Finance and Insurance,57276207,3287,2012,Male,North Carolina,17425.07
+710,710,2138,2138,High School Graduate,Finance and Insurance,201470155,8912,2012,Male,North Carolina,22606.62
+711,711,2139,2139,Some College,Finance and Insurance,404699900,12981,2012,Male,North Carolina,31176.33
+712,712,2140,2140,Advanced Degree,Finance and Insurance,1485248090,25130,2012,Male,North Carolina,59102.59
+713,713,2141,2141,Unavalble,Finance and Insurance,19730524,1984,2012,Male,North Carolina,9944.82
+714,714,2142,2142,All Education Categories,Finance and Insurance,1368457326,84259,2012,Female,North Carolina,16241.08
+715,715,2143,2143,Less Than High School,Finance and Insurance,54971971,5419,2012,Female,North Carolina,10144.3
+716,716,2144,2144,High School Graduate,Finance and Insurance,218399459,19345,2012,Female,North Carolina,11289.71
+717,717,2145,2145,Some College,Finance and Insurance,372342706,26742,2012,Female,North Carolina,13923.52
+718,718,2146,2146,Advanced Degree,Finance and Insurance,694420059,28807,2012,Female,North Carolina,24105.95
+719,719,2147,2147,Unavalble,Finance and Insurance,28323131,3946,2012,Female,North Carolina,7177.68
+720,720,2196,2196,All Education Categories,Educational Services,1280200733,109483,2012,Male,North Carolina,11693.15
+721,721,2197,2197,Less Than High School,Educational Services,80496011,9842,2012,Male,North Carolina,8178.83
+722,722,2198,2198,High School Graduate,Educational Services,224965939,24593,2012,Male,North Carolina,9147.56
+723,723,2199,2199,Some College,Educational Services,323866024,30304,2012,Male,North Carolina,10687.24
+724,724,2200,2200,Advanced Degree,Educational Services,629975170,40086,2012,Male,North Carolina,15715.59
+725,725,2201,2201,Unavalble,Educational Services,20897590,4658,2012,Male,North Carolina,4486.39
+726,726,2202,2202,All Education Categories,Educational Services,2401516202,264597,2012,Female,North Carolina,9076.13
+727,727,2203,2203,Less Than High School,Educational Services,131867916,19222,2012,Female,North Carolina,6860.26
+728,728,2204,2204,High School Graduate,Educational Services,459231861,60436,2012,Female,North Carolina,7598.65
+729,729,2205,2205,Some College,Educational Services,709600602,81214,2012,Female,North Carolina,8737.42
+730,730,2206,2206,Advanced Degree,Educational Services,1040949877,92417,2012,Female,North Carolina,11263.62
+731,731,2207,2207,Unavalble,Educational Services,59865946,11308,2012,Female,North Carolina,5294.12
+732,732,2208,2208,All Education Categories,Health Care and Social Assistance,1980853433,106405,2012,Male,North Carolina,18616.17
+733,733,2209,2209,Less Than High School,Health Care and Social Assistance,111859221,11436,2012,Male,North Carolina,9781.32
+734,734,2210,2210,High School Graduate,Health Care and Social Assistance,301124768,25298,2012,Male,North Carolina,11903.11
+735,735,2211,2211,Some College,Health Care and Social Assistance,481297795,29925,2012,Male,North Carolina,16083.47
+736,736,2212,2212,Advanced Degree,Health Care and Social Assistance,1054720755,33037,2012,Male,North Carolina,31925.44
+737,737,2213,2213,Unavalble,Health Care and Social Assistance,31850894,6709,2012,Male,North Carolina,4747.49
+738,738,2214,2214,All Education Categories,Health Care and Social Assistance,4107857193,445457,2012,Female,North Carolina,9221.67
+739,739,2215,2215,Less Than High School,Health Care and Social Assistance,305889399,45359,2012,Female,North Carolina,6743.74
+740,740,2216,2216,High School Graduate,Health Care and Social Assistance,873592662,113904,2012,Female,North Carolina,7669.55
+741,741,2217,2217,Some College,Health Care and Social Assistance,1453143487,155695,2012,Female,North Carolina,9333.27
+742,742,2218,2218,Advanced Degree,Health Care and Social Assistance,1317902183,98646,2012,Female,North Carolina,13359.92
+743,743,2219,2219,Unavalble,Health Care and Social Assistance,157329463,31853,2012,Female,North Carolina,4939.24
+744,744,2232,2232,All Education Categories,Accommodation and Food Services,738070042,148203,2012,Male,North Carolina,4980.13
+745,745,2233,2233,Less Than High School,Accommodation and Food Services,117007355,23386,2012,Male,North Carolina,5003.31
+746,746,2234,2234,High School Graduate,Accommodation and Food Services,198629944,34695,2012,Male,North Carolina,5725.03
+747,747,2235,2235,Some College,Accommodation and Food Services,173300418,28117,2012,Male,North Carolina,6163.55
+748,748,2236,2236,Advanced Degree,Accommodation and Food Services,120809659,15036,2012,Male,North Carolina,8034.69
+749,749,2237,2237,Unavalble,Accommodation and Food Services,128322667,46970,2012,Male,North Carolina,2732.01
+750,750,2238,2238,All Education Categories,Accommodation and Food Services,702275202,187618,2012,Female,North Carolina,3743.11
+751,751,2239,2239,Less Than High School,Accommodation and Food Services,102281228,25970,2012,Female,North Carolina,3938.44
+752,752,2240,2240,High School Graduate,Accommodation and Food Services,172720732,40377,2012,Female,North Carolina,4277.7
+753,753,2241,2241,Some College,Accommodation and Food Services,158763135,34983,2012,Female,North Carolina,4538.29
+754,754,2242,2242,Advanced Degree,Accommodation and Food Services,93989412,17226,2012,Female,North Carolina,5456.25
+755,755,2243,2243,Unavalble,Accommodation and Food Services,174520696,69062,2012,Female,North Carolina,2527.01
+756,756,3192,3192,All Education Categories,Educational Services,923576047,94265,2004,Male,North Carolina,9797.66
+757,757,3193,3193,Less Than High School,Educational Services,38400080,6287,2004,Male,North Carolina,6107.85
+758,758,3194,3194,High School Graduate,Educational Services,130950164,17917,2004,Male,North Carolina,7308.71
+759,759,3195,3195,Some College,Educational Services,219739217,25130,2004,Male,North Carolina,8744.1
+760,760,3196,3196,Advanced Degree,Educational Services,514828846,39986,2004,Male,North Carolina,12875.23
+761,761,3197,3197,Unavalble,Educational Services,19657740,4945,2004,Male,North Carolina,3975.28
+762,762,3198,3198,All Education Categories,Educational Services,1794404155,235124,2004,Female,North Carolina,7631.74
+763,763,3199,3199,Less Than High School,Educational Services,56997084,12066,2004,Female,North Carolina,4723.78
+764,764,3200,3200,High School Graduate,Educational Services,289395709,49843,2004,Female,North Carolina,5806.15
+765,765,3201,3201,Some College,Educational Services,493019110,69402,2004,Female,North Carolina,7103.82
+766,766,3202,3202,Advanced Degree,Educational Services,897169969,90968,2004,Female,North Carolina,9862.48
+767,767,3203,3203,Unavalble,Educational Services,57822282,12845,2004,Female,North Carolina,4501.54
+768,768,3288,3288,All Education Categories,Accommodation,75190366,14021,2004,Male,North Carolina,5362.7
+769,769,3289,3289,Less Than High School,Accommodation,11520200,2543,2004,Male,North Carolina,4530.16
+770,770,3290,3290,High School Graduate,Accommodation,21256242,3989,2004,Male,North Carolina,5328.71
+771,771,3291,3291,Some College,Accommodation,19148427,3149,2004,Male,North Carolina,6080.8
+772,772,3292,3292,Advanced Degree,Accommodation,14641162,1729,2004,Male,North Carolina,8467.99
+773,773,3293,3293,Unavalble,Accommodation,8624335,2610,2004,Male,North Carolina,3304.34
+774,774,3294,3294,All Education Categories,Accommodation,77310109,20142,2004,Female,North Carolina,3838.25
+775,775,3295,3295,Less Than High School,Accommodation,12219606,3822,2004,Female,North Carolina,3197.18
+776,776,3296,3296,High School Graduate,Accommodation,22034211,5890,2004,Female,North Carolina,3740.95
+777,777,3297,3297,Some College,Accommodation,20253767,4702,2004,Female,North Carolina,4307.48
+778,778,3298,3298,Advanced Degree,Accommodation,11785864,2043,2004,Female,North Carolina,5768.9
+779,779,3299,3299,Unavalble,Accommodation,11016662,3685,2004,Female,North Carolina,2989.6
+780,780,4356,4356,All Education Categories,Educational Services,993284779,99821,2005,Male,North Carolina,9950.66
+781,781,4357,4357,Less Than High School,Educational Services,42800938,6750,2005,Male,North Carolina,6340.88
+782,782,4358,4358,High School Graduate,Educational Services,144384446,19331,2005,Male,North Carolina,7469.06
+783,783,4359,4359,Some College,Educational Services,238345567,26813,2005,Male,North Carolina,8889.18
+784,784,4360,4360,Advanced Degree,Educational Services,547414694,41883,2005,Male,North Carolina,13070.09
+785,785,4361,4361,Unavalble,Educational Services,20339135,5043,2005,Male,North Carolina,4033.14
+786,786,4362,4362,All Education Categories,Educational Services,1945983691,253433,2005,Female,North Carolina,7678.49
+787,787,4363,4363,Less Than High School,Educational Services,64814233,13315,2005,Female,North Carolina,4867.76
+788,788,4364,4364,High School Graduate,Educational Services,318654155,54034,2005,Female,North Carolina,5897.29
+789,789,4365,4365,Some College,Educational Services,538939699,75126,2005,Female,North Carolina,7173.81
+790,790,4366,4366,Advanced Degree,Educational Services,960133667,97410,2005,Female,North Carolina,9856.62
+791,791,4367,4367,Unavalble,Educational Services,63441936,13548,2005,Female,North Carolina,4682.75
+792,792,4452,4452,All Education Categories,Accommodation,78244791,13972,2005,Male,North Carolina,5600.11
+793,793,4453,4453,Less Than High School,Accommodation,11869296,2572,2005,Male,North Carolina,4614.81
+794,794,4454,4454,High School Graduate,Accommodation,22098102,4011,2005,Male,North Carolina,5509.37
+795,795,4455,4455,Some College,Accommodation,20605522,3186,2005,Male,North Carolina,6467.52
+796,796,4456,4456,Advanced Degree,Accommodation,15487406,1763,2005,Male,North Carolina,8784.69
+797,797,4457,4457,Unavalble,Accommodation,8184466,2441,2005,Male,North Carolina,3352.92
+798,798,4458,4458,All Education Categories,Accommodation,80875613,20209,2005,Female,North Carolina,4001.96
+799,799,4459,4459,Less Than High School,Accommodation,12840115,3867,2005,Female,North Carolina,3320.43
+800,800,4460,4460,High School Graduate,Accommodation,22801164,5945,2005,Female,North Carolina,3835.35
+801,801,4461,4461,Some College,Accommodation,21375828,4798,2005,Female,North Carolina,4455.15
+802,802,4462,4462,Advanced Degree,Accommodation,12810397,2109,2005,Female,North Carolina,6074.16
+803,803,4463,4463,Unavalble,Accommodation,11048110,3490,2005,Female,North Carolina,3165.65
+804,804,5532,5532,All Education Categories,Educational Services,1080119875,102201,2006,Male,North Carolina,10568.58
+805,805,5533,5533,Less Than High School,Educational Services,49075450,7139,2006,Male,North Carolina,6874.28
+806,806,5534,5534,High School Graduate,Educational Services,162489392,20165,2006,Male,North Carolina,8057.99
+807,807,5535,5535,Some College,Educational Services,262454838,27599,2006,Male,North Carolina,9509.58
+808,808,5536,5536,Advanced Degree,Educational Services,583600213,42230,2006,Male,North Carolina,13819.56
+809,809,5537,5537,Unavalble,Educational Services,22499982,5069,2006,Male,North Carolina,4438.74
+810,810,5538,5538,All Education Categories,Educational Services,2141469881,259723,2006,Female,North Carolina,8245.21
+811,811,5539,5539,Less Than High School,Educational Services,76654335,14223,2006,Female,North Carolina,5389.46
+812,812,5540,5540,High School Graduate,Educational Services,359946582,55798,2006,Female,North Carolina,6450.89
+813,813,5541,5541,Some College,Educational Services,600850016,77445,2006,Female,North Carolina,7758.41
+814,814,5542,5542,Advanced Degree,Educational Services,1033115978,98491,2006,Female,North Carolina,10489.45
+815,815,5543,5543,Unavalble,Educational Services,70902970,13765,2006,Female,North Carolina,5150.96
+816,816,5628,5628,All Education Categories,Accommodation,88883173,14586,2006,Male,North Carolina,6093.73
+817,817,5629,5629,Less Than High School,Accommodation,13513444,2684,2006,Male,North Carolina,5034.82
+818,818,5630,5630,High School Graduate,Accommodation,25124870,4194,2006,Male,North Carolina,5990.67
+819,819,5631,5631,Some College,Accommodation,23073673,3338,2006,Male,North Carolina,6912.42
+820,820,5632,5632,Advanced Degree,Accommodation,18347186,1904,2006,Male,North Carolina,9636.13
+821,821,5633,5633,Unavalble,Accommodation,8823998,2465,2006,Male,North Carolina,3579.72
+822,822,5634,5634,All Education Categories,Accommodation,91148673,20777,2006,Female,North Carolina,4387.0
+823,823,5635,5635,Less Than High School,Accommodation,14556051,3960,2006,Female,North Carolina,3675.77
+824,824,5636,5636,High School Graduate,Accommodation,25862264,6102,2006,Female,North Carolina,4238.33
+825,825,5637,5637,Some College,Accommodation,24375365,4986,2006,Female,North Carolina,4888.76
+826,826,5638,5638,Advanced Degree,Accommodation,14599353,2227,2006,Female,North Carolina,6555.61
+827,827,5639,5639,Unavalble,Accommodation,11755640,3502,2006,Female,North Carolina,3356.84
+828,828,6708,6708,All Education Categories,Educational Services,1174042385,104648,2007,Male,North Carolina,11218.97
+829,829,6709,6709,Less Than High School,Educational Services,56033222,7529,2007,Male,North Carolina,7442.32
+830,830,6710,6710,High School Graduate,Educational Services,181829718,21092,2007,Male,North Carolina,8620.79
+831,831,6711,6711,Some College,Educational Services,288673161,28380,2007,Male,North Carolina,10171.71
+832,832,6712,6712,Advanced Degree,Educational Services,623349774,42528,2007,Male,North Carolina,14657.4
+833,833,6713,6713,Unavalble,Educational Services,24156511,5119,2007,Male,North Carolina,4718.99
+834,834,6714,6714,All Education Categories,Educational Services,2348499331,266812,2007,Female,North Carolina,8802.08
+835,835,6715,6715,Less Than High School,Educational Services,89876051,15249,2007,Female,North Carolina,5893.9
+836,836,6716,6716,High School Graduate,Educational Services,402369192,58004,2007,Female,North Carolina,6936.92
+837,837,6717,6717,Some College,Educational Services,665453448,80199,2007,Female,North Carolina,8297.53
+838,838,6718,6718,Advanced Degree,Educational Services,1115518320,99822,2007,Female,North Carolina,11175.07
+839,839,6719,6719,Unavalble,Educational Services,75282320,13538,2007,Female,North Carolina,5560.82
+840,840,6804,6804,All Education Categories,Accommodation,92791831,14348,2007,Male,North Carolina,6467.23
+841,841,6805,6805,Less Than High School,Accommodation,14088600,2650,2007,Male,North Carolina,5316.45
+842,842,6806,6806,High School Graduate,Accommodation,26220395,4136,2007,Male,North Carolina,6339.55
+843,843,6807,6807,Some College,Accommodation,24359404,3298,2007,Male,North Carolina,7386.11
+844,844,6808,6808,Advanced Degree,Accommodation,19130100,1919,2007,Male,North Carolina,9968.79
+845,845,6809,6809,Unavalble,Accommodation,8993331,2346,2007,Male,North Carolina,3833.47
+846,846,6810,6810,All Education Categories,Accommodation,94491956,21119,2007,Female,North Carolina,4474.26
+847,847,6811,6811,Less Than High School,Accommodation,15529004,4101,2007,Female,North Carolina,3786.64
+848,848,6812,6812,High School Graduate,Accommodation,27086021,6209,2007,Female,North Carolina,4362.38
+849,849,6813,6813,Some College,Accommodation,25229641,5049,2007,Female,North Carolina,4996.96
+850,850,6814,6814,Advanced Degree,Accommodation,14872237,2286,2007,Female,North Carolina,6505.79
+851,851,6815,6815,Unavalble,Accommodation,11775054,3474,2007,Female,North Carolina,3389.48
+852,852,7884,7884,All Education Categories,Educational Services,1228920373,98793,2008,Male,North Carolina,12439.35
+853,853,7885,7885,Less Than High School,Educational Services,63261677,7439,2008,Male,North Carolina,8504.06
+854,854,7886,7886,High School Graduate,Educational Services,197583791,20215,2008,Male,North Carolina,9774.12
+855,855,7887,7887,Some College,Educational Services,304879856,26869,2008,Male,North Carolina,11346.9
+856,856,7888,7888,Advanced Degree,Educational Services,638315584,39581,2008,Male,North Carolina,16126.82
+857,857,7889,7889,Unavalble,Educational Services,24879465,4689,2008,Male,North Carolina,5305.92
+858,858,7890,7890,All Education Categories,Educational Services,2424812977,241900,2008,Female,North Carolina,10024.03
+859,859,7891,7891,Less Than High School,Educational Services,101458807,14625,2008,Female,North Carolina,6937.35
+860,860,7892,7892,High School Graduate,Educational Services,426404531,52826,2008,Female,North Carolina,8071.87
+861,861,7893,7893,Some College,Educational Services,694550108,72962,2008,Female,North Carolina,9519.34
+862,862,7894,7894,Advanced Degree,Educational Services,1127690813,89144,2008,Female,North Carolina,12650.22
+863,863,7895,7895,Unavalble,Educational Services,74708718,12342,2008,Female,North Carolina,6053.21
+864,864,7980,7980,All Education Categories,Accommodation,94226709,15226,2008,Male,North Carolina,6188.54
+865,865,7981,7981,Less Than High School,Accommodation,14795031,2826,2008,Male,North Carolina,5235.33
+866,866,7982,7982,High School Graduate,Accommodation,26763642,4329,2008,Male,North Carolina,6182.41
+867,867,7983,7983,Some College,Accommodation,24189533,3518,2008,Male,North Carolina,6875.93
+868,868,7984,7984,Advanced Degree,Accommodation,19085361,2063,2008,Male,North Carolina,9251.27
+869,869,7985,7985,Unavalble,Accommodation,9393142,2491,2008,Male,North Carolina,3770.83
+870,870,7986,7986,All Education Categories,Accommodation,99001294,21755,2008,Female,North Carolina,4550.74
+871,871,7987,7987,Less Than High School,Accommodation,16409028,4246,2008,Female,North Carolina,3864.59
+872,872,7988,7988,High School Graduate,Accommodation,27986455,6317,2008,Female,North Carolina,4430.34
+873,873,7989,7989,Some College,Accommodation,26382617,5277,2008,Female,North Carolina,4999.55
+874,874,7990,7990,Advanced Degree,Accommodation,16063354,2451,2008,Female,North Carolina,6553.8
+875,875,7991,7991,Unavalble,Accommodation,12159839,3465,2008,Female,North Carolina,3509.33
+876,876,9060,9060,All Education Categories,Educational Services,1298587060,107866,2009,Male,North Carolina,12038.89
+877,877,9061,9061,Less Than High School,Educational Services,71495638,8688,2009,Male,North Carolina,8229.24
+878,878,9062,9062,High School Graduate,Educational Services,213444542,22753,2009,Male,North Carolina,9380.94
+879,879,9063,9063,Some College,Educational Services,325255974,29486,2009,Male,North Carolina,11030.86
+880,880,9064,9064,Advanced Degree,Educational Services,662921680,41641,2009,Male,North Carolina,15919.93
+881,881,9065,9065,Unavalble,Educational Services,25469226,5298,2009,Male,North Carolina,4807.33
+882,882,9066,9066,All Education Categories,Educational Services,2560369682,271469,2009,Female,North Carolina,9431.54
+883,883,9067,9067,Less Than High School,Educational Services,116603021,17598,2009,Female,North Carolina,6625.92
+884,884,9068,9068,High School Graduate,Educational Services,459782220,60449,2009,Female,North Carolina,7606.12
+885,885,9069,9069,Some College,Educational Services,739918075,82331,2009,Female,North Carolina,8987.11
+886,886,9070,9070,Advanced Degree,Educational Services,1169704000,97769,2009,Female,North Carolina,11963.96
+887,887,9071,9071,Unavalble,Educational Services,74362367,13322,2009,Female,North Carolina,5581.92
+888,888,9156,9156,All Education Categories,Accommodation,81750936,14708,2009,Male,North Carolina,5558.26
+889,889,9157,9157,Less Than High School,Accommodation,13056688,2755,2009,Male,North Carolina,4739.27
+890,890,9158,9158,High School Graduate,Accommodation,23892043,4289,2009,Male,North Carolina,5570.54
+891,891,9159,9159,Some College,Accommodation,21155846,3441,2009,Male,North Carolina,6148.17
+892,892,9160,9160,Advanced Degree,Accommodation,16568490,2071,2009,Male,North Carolina,8000.24
+893,893,9161,9161,Unavalble,Accommodation,7077868,2153,2009,Male,North Carolina,3287.44
+894,894,9162,9162,All Education Categories,Accommodation,85458423,20524,2009,Female,North Carolina,4163.83
+895,895,9163,9163,Less Than High School,Accommodation,14108500,4013,2009,Female,North Carolina,3515.7
+896,896,9164,9164,High School Graduate,Accommodation,24421433,5940,2009,Female,North Carolina,4111.35
+897,897,9165,9165,Some College,Accommodation,23237878,5067,2009,Female,North Carolina,4586.12
+898,898,9166,9166,Advanced Degree,Accommodation,14263562,2446,2009,Female,North Carolina,5831.38
+899,899,9167,9167,Unavalble,Accommodation,9427050,3057,2009,Female,North Carolina,3083.76
+900,900,10236,10236,All Education Categories,Educational Services,1200514879,103827,2010,Male,North Carolina,11562.65
+901,901,10237,10237,Less Than High School,Educational Services,67690067,8626,2010,Male,North Carolina,7847.21
+902,902,10238,10238,High School Graduate,Educational Services,198418955,22332,2010,Male,North Carolina,8884.96
+903,903,10239,10239,Some College,Educational Services,299261189,28447,2010,Male,North Carolina,10519.96
+904,904,10240,10240,Advanced Degree,Educational Services,615256931,39751,2010,Male,North Carolina,15477.77
+905,905,10241,10241,Unavalble,Educational Services,19887737,4671,2010,Male,North Carolina,4257.7
+906,906,10242,10242,All Education Categories,Educational Services,2236852317,251165,2010,Female,North Carolina,8905.91
+907,907,10243,10243,Less Than High School,Educational Services,106864946,16696,2010,Female,North Carolina,6400.63
+908,908,10244,10244,High School Graduate,Educational Services,411506219,56606,2010,Female,North Carolina,7269.66
+909,909,10245,10245,Some College,Educational Services,653935428,76802,2010,Female,North Carolina,8514.56
+910,910,10246,10246,Advanced Degree,Educational Services,1012162338,89999,2010,Female,North Carolina,11246.37
+911,911,10247,10247,Unavalble,Educational Services,52383386,11062,2010,Female,North Carolina,4735.44
+912,912,10332,10332,All Education Categories,Accommodation,77497294,14037,2010,Male,North Carolina,5520.93
+913,913,10333,10333,Less Than High School,Accommodation,12524401,2619,2010,Male,North Carolina,4782.13
+914,914,10334,10334,High School Graduate,Accommodation,22442600,4072,2010,Male,North Carolina,5511.44
+915,915,10335,10335,Some College,Accommodation,20365666,3398,2010,Male,North Carolina,5993.43
+916,916,10336,10336,Advanced Degree,Accommodation,15997621,2057,2010,Male,North Carolina,7777.16
+917,917,10337,10337,Unavalble,Accommodation,6167006,1891,2010,Male,North Carolina,3261.24
+918,918,10338,10338,All Education Categories,Accommodation,80578812,19131,2010,Female,North Carolina,4211.95
+919,919,10339,10339,Less Than High School,Accommodation,13519610,3764,2010,Female,North Carolina,3591.82
+920,920,10340,10340,High School Graduate,Accommodation,22961263,5603,2010,Female,North Carolina,4098.03
+921,921,10341,10341,Some College,Accommodation,21947504,4803,2010,Female,North Carolina,4569.54
+922,922,10342,10342,Advanced Degree,Accommodation,13733073,2372,2010,Female,North Carolina,5789.66
+923,923,10343,10343,Unavalble,Accommodation,8417361,2589,2010,Female,North Carolina,3251.2
+924,924,11412,11412,All Education Categories,Educational Services,1252542569,109089,2011,Male,North Carolina,11481.84
+925,925,11413,11413,Less Than High School,Educational Services,74758216,9409,2011,Male,North Carolina,7945.39
+926,926,11414,11414,High School Graduate,Educational Services,214227028,23870,2011,Male,North Carolina,8974.74
+927,927,11415,11415,Some College,Educational Services,315277866,29893,2011,Male,North Carolina,10546.88
+928,928,11416,11416,Advanced Degree,Educational Services,627106875,40514,2011,Male,North Carolina,15478.77
+929,929,11417,11417,Unavalble,Educational Services,21172584,5403,2011,Male,North Carolina,3918.67
+930,930,11418,11418,All Education Categories,Educational Services,2372210241,265344,2011,Female,North Carolina,8940.13
+931,931,11419,11419,Less Than High School,Educational Services,121620188,18508,2011,Female,North Carolina,6571.22
+932,932,11420,11420,High School Graduate,Educational Services,443699916,59971,2011,Female,North Carolina,7398.57
+933,933,11421,11421,Some College,Educational Services,696114139,80982,2011,Female,North Carolina,8595.91
+934,934,11422,11422,Advanced Degree,Educational Services,1053714373,93774,2011,Female,North Carolina,11236.74
+935,935,11423,11423,Unavalble,Educational Services,57061624,12108,2011,Female,North Carolina,4712.72
+936,936,11508,11508,All Education Categories,Accommodation,80726973,14081,2011,Male,North Carolina,5733.04
+937,937,11509,11509,Less Than High School,Accommodation,12798312,2630,2011,Male,North Carolina,4866.28
+938,938,11510,11510,High School Graduate,Accommodation,23115683,4078,2011,Male,North Carolina,5668.39
+939,939,11511,11511,Some College,Accommodation,21277436,3410,2011,Male,North Carolina,6239.72
+940,940,11512,11512,Advanced Degree,Accommodation,17678398,2134,2011,Male,North Carolina,8284.16
+941,941,11513,11513,Unavalble,Accommodation,5857144,1829,2011,Male,North Carolina,3202.38
+942,942,11514,11514,All Education Categories,Accommodation,84868756,19428,2011,Female,North Carolina,4368.37
+943,943,11515,11515,Less Than High School,Accommodation,14285414,3836,2011,Female,North Carolina,3724.04
+944,944,11516,11516,High School Graduate,Accommodation,24101644,5665,2011,Female,North Carolina,4254.48
+945,945,11517,11517,Some College,Accommodation,23398610,4884,2011,Female,North Carolina,4790.87
+946,946,11518,11518,Advanced Degree,Accommodation,15046728,2441,2011,Female,North Carolina,6164.17
+947,947,11519,11519,Unavalble,Accommodation,8036361,2602,2011,Female,North Carolina,3088.53
+948,948,12588,12588,All Education Categories,Educational Services,1280200733,109483,2012,Male,North Carolina,11693.15
+949,949,12589,12589,Less Than High School,Educational Services,80496011,9842,2012,Male,North Carolina,8178.83
+950,950,12590,12590,High School Graduate,Educational Services,224965939,24593,2012,Male,North Carolina,9147.56
+951,951,12591,12591,Some College,Educational Services,323866024,30304,2012,Male,North Carolina,10687.24
+952,952,12592,12592,Advanced Degree,Educational Services,629975170,40086,2012,Male,North Carolina,15715.59
+953,953,12593,12593,Unavalble,Educational Services,20897590,4658,2012,Male,North Carolina,4486.39
+954,954,12594,12594,All Education Categories,Educational Services,2401516202,264597,2012,Female,North Carolina,9076.13
+955,955,12595,12595,Less Than High School,Educational Services,131867916,19222,2012,Female,North Carolina,6860.26
+956,956,12596,12596,High School Graduate,Educational Services,459231861,60436,2012,Female,North Carolina,7598.65
+957,957,12597,12597,Some College,Educational Services,709600602,81214,2012,Female,North Carolina,8737.42
+958,958,12598,12598,Advanced Degree,Educational Services,1040949877,92417,2012,Female,North Carolina,11263.62
+959,959,12599,12599,Unavalble,Educational Services,59865946,11308,2012,Female,North Carolina,5294.12
+960,960,12684,12684,All Education Categories,Accommodation,89387397,14706,2012,Male,North Carolina,6078.29
+961,961,12685,12685,Less Than High School,Accommodation,14095416,2699,2012,Male,North Carolina,5222.46
+962,962,12686,12686,High School Graduate,Accommodation,25470005,4242,2012,Male,North Carolina,6004.24
+963,963,12687,12687,Some College,Accommodation,23596963,3577,2012,Male,North Carolina,6596.86
+964,964,12688,12688,Advanced Degree,Accommodation,19574032,2242,2012,Male,North Carolina,8730.61
+965,965,12689,12689,Unavalble,Accommodation,6650981,1946,2012,Male,North Carolina,3417.77
+966,966,12690,12690,All Education Categories,Accommodation,93887882,20284,2012,Female,North Carolina,4628.67
+967,967,12691,12691,Less Than High School,Accommodation,15718739,3962,2012,Female,North Carolina,3967.37
+968,968,12692,12692,High School Graduate,Accommodation,26428924,5836,2012,Female,North Carolina,4528.6
+969,969,12693,12693,Some College,Accommodation,25731282,5122,2012,Female,North Carolina,5023.68
+970,970,12694,12694,Advanced Degree,Accommodation,16807587,2622,2012,Female,North Carolina,6410.22
+971,971,12695,12695,Unavalble,Accommodation,9201350,2742,2012,Female,North Carolina,3355.71
+972,972,15828,15828,All Education Categories,"Colleges, Universities, and Professional Schools",444917790,34560,2004,Male,North Carolina,12873.78
+973,973,15829,15829,Less Than High School,"Colleges, Universities, and Professional Schools",13646284,1813,2004,Male,North Carolina,7526.91
+974,974,15830,15830,High School Graduate,"Colleges, Universities, and Professional Schools",48713982,5435,2004,Male,North Carolina,8963.01
+975,975,15831,15831,Some College,"Colleges, Universities, and Professional Schools",90583533,8238,2004,Male,North Carolina,10995.82
+976,976,15832,15832,Advanced Degree,"Colleges, Universities, and Professional Schools",285505367,17204,2004,Male,North Carolina,16595.29
+977,977,15833,15833,Unavalble,"Colleges, Universities, and Professional Schools",6468625,1870,2004,Male,North Carolina,3459.16
+978,978,15834,15834,All Education Categories,"Colleges, Universities, and Professional Schools",387548112,43524,2004,Female,North Carolina,8904.24
+979,979,15835,15835,Less Than High School,"Colleges, Universities, and Professional Schools",10901320,1746,2004,Female,North Carolina,6243.6
+980,980,15836,15836,High School Graduate,"Colleges, Universities, and Professional Schools",56762159,7923,2004,Female,North Carolina,7164.23
+981,981,15837,15837,Some College,"Colleges, Universities, and Professional Schools",105622918,12696,2004,Female,North Carolina,8319.39
+982,982,15838,15838,Advanced Degree,"Colleges, Universities, and Professional Schools",204252059,17983,2004,Female,North Carolina,11358.06
+983,983,15839,15839,Unavalble,"Colleges, Universities, and Professional Schools",10009656,3176,2004,Female,North Carolina,3151.65
+984,984,19524,19524,All Education Categories,"Colleges, Universities, and Professional Schools",475535359,35447,2005,Male,North Carolina,13415.39
+985,985,19525,19525,Less Than High School,"Colleges, Universities, and Professional Schools",14967328,1878,2005,Male,North Carolina,7969.82
+986,986,19526,19526,High School Graduate,"Colleges, Universities, and Professional Schools",53049389,5669,2005,Male,North Carolina,9357.8
+987,987,19527,19527,Some College,"Colleges, Universities, and Professional Schools",97818810,8524,2005,Male,North Carolina,11475.69
+988,988,19528,19528,Advanced Degree,"Colleges, Universities, and Professional Schools",303395523,17550,2005,Male,North Carolina,17287.49
+989,989,19529,19529,Unavalble,"Colleges, Universities, and Professional Schools",6304309,1826,2005,Male,North Carolina,3452.52
+990,990,19530,19530,All Education Categories,"Colleges, Universities, and Professional Schools",416531363,44771,2005,Female,North Carolina,9303.6
+991,991,19531,19531,Less Than High School,"Colleges, Universities, and Professional Schools",12110379,1842,2005,Female,North Carolina,6574.58
+992,992,19532,19532,High School Graduate,"Colleges, Universities, and Professional Schools",60772124,8143,2005,Female,North Carolina,7463.11
+993,993,19533,19533,Some College,"Colleges, Universities, and Professional Schools",113145411,13047,2005,Female,North Carolina,8672.14
+994,994,19534,19534,Advanced Degree,"Colleges, Universities, and Professional Schools",220068899,18615,2005,Female,North Carolina,11822.13
+995,995,19535,19535,Unavalble,"Colleges, Universities, and Professional Schools",10434550,3123,2005,Female,North Carolina,3341.19
+996,996,23232,23232,All Education Categories,"Colleges, Universities, and Professional Schools",507645981,36127,2006,Male,North Carolina,14051.71
+997,997,23233,23233,Less Than High School,"Colleges, Universities, and Professional Schools",16737212,1985,2006,Male,North Carolina,8431.84
+998,998,23234,23234,High School Graduate,"Colleges, Universities, and Professional Schools",58115502,5857,2006,Male,North Carolina,9922.4
+999,999,23235,23235,Some College,"Colleges, Universities, and Professional Schools",105419560,8759,2006,Male,North Carolina,12035.57
+1000,1000,23236,23236,Advanced Degree,"Colleges, Universities, and Professional Schools",320919757,17737,2006,Male,North Carolina,18093.24
+1001,1001,23237,23237,Unavalble,"Colleges, Universities, and Professional Schools",6453950,1788,2006,Male,North Carolina,3609.59
+1002,1002,23238,23238,All Education Categories,"Colleges, Universities, and Professional Schools",452499799,45801,2006,Female,North Carolina,9879.69
+1003,1003,23239,23239,Less Than High School,"Colleges, Universities, and Professional Schools",14128493,1978,2006,Female,North Carolina,7142.82
+1004,1004,23240,23240,High School Graduate,"Colleges, Universities, and Professional Schools",67074371,8401,2006,Female,North Carolina,7984.09
+1005,1005,23241,23241,Some College,"Colleges, Universities, and Professional Schools",124384804,13445,2006,Female,North Carolina,9251.38
+1006,1006,23242,23242,Advanced Degree,"Colleges, Universities, and Professional Schools",236043493,18934,2006,Female,North Carolina,12466.65
+1007,1007,23243,23243,Unavalble,"Colleges, Universities, and Professional Schools",10868638,3043,2006,Female,North Carolina,3571.69
+1008,1008,26940,26940,All Education Categories,"Colleges, Universities, and Professional Schools",542853751,36852,2007,Male,North Carolina,14730.65
+1009,1009,26941,26941,Less Than High School,"Colleges, Universities, and Professional Schools",19014472,2116,2007,Male,North Carolina,8986.05
+1010,1010,26942,26942,High School Graduate,"Colleges, Universities, and Professional Schools",64312659,6123,2007,Male,North Carolina,10503.46
+1011,1011,26943,26943,Some College,"Colleges, Universities, and Professional Schools",114791591,8995,2007,Male,North Carolina,12761.71
+1012,1012,26944,26944,Advanced Degree,"Colleges, Universities, and Professional Schools",338004114,17790,2007,Male,North Carolina,18999.67
+1013,1013,26945,26945,Unavalble,"Colleges, Universities, and Professional Schools",6730915,1829,2007,Male,North Carolina,3680.11
+1014,1014,26946,26946,All Education Categories,"Colleges, Universities, and Professional Schools",492121611,47177,2007,Female,North Carolina,10431.39
+1015,1015,26947,26947,Less Than High School,"Colleges, Universities, and Professional Schools",16519201,2185,2007,Female,North Carolina,7560.28
+1016,1016,26948,26948,High School Graduate,"Colleges, Universities, and Professional Schools",74313783,8750,2007,Female,North Carolina,8493.0
+1017,1017,26949,26949,Some College,"Colleges, Universities, and Professional Schools",136083950,13889,2007,Female,North Carolina,9797.97
+1018,1018,26950,26950,Advanced Degree,"Colleges, Universities, and Professional Schools",254161800,19249,2007,Female,North Carolina,13203.9
+1019,1019,26951,26951,Unavalble,"Colleges, Universities, and Professional Schools",11042877,3103,2007,Female,North Carolina,3558.77
+1020,1020,30660,30660,All Education Categories,"Colleges, Universities, and Professional Schools",578251112,37331,2008,Male,North Carolina,15489.84
+1021,1021,30661,30661,Less Than High School,"Colleges, Universities, and Professional Schools",21920433,2265,2008,Male,North Carolina,9677.9
+1022,1022,30662,30662,High School Graduate,"Colleges, Universities, and Professional Schools",71380218,6348,2008,Male,North Carolina,11244.52
+1023,1023,30663,30663,Some College,"Colleges, Universities, and Professional Schools",124632973,9196,2008,Male,North Carolina,13552.95
+1024,1024,30664,30664,Advanced Degree,"Colleges, Universities, and Professional Schools",352885441,17764,2008,Male,North Carolina,19865.2
+1025,1025,30665,30665,Unavalble,"Colleges, Universities, and Professional Schools",7432047,1758,2008,Male,North Carolina,4227.56
+1026,1026,30666,30666,All Education Categories,"Colleges, Universities, and Professional Schools",534264729,47843,2008,Female,North Carolina,11167.04
+1027,1027,30667,30667,Less Than High School,"Colleges, Universities, and Professional Schools",19529499,2373,2008,Female,North Carolina,8229.88
+1028,1028,30668,30668,High School Graduate,"Colleges, Universities, and Professional Schools",82255718,8985,2008,Female,North Carolina,9154.78
+1029,1029,30669,30669,Some College,"Colleges, Universities, and Professional Schools",148501211,14104,2008,Female,North Carolina,10529.01
+1030,1030,30670,30670,Advanced Degree,"Colleges, Universities, and Professional Schools",271641734,19263,2008,Female,North Carolina,14101.74
+1031,1031,30671,30671,Unavalble,"Colleges, Universities, and Professional Schools",12336567,3118,2008,Female,North Carolina,3956.56
+1032,1032,34380,34380,All Education Categories,"Colleges, Universities, and Professional Schools",607747180,36145,2009,Male,North Carolina,16814.14
+1033,1033,34381,34381,Less Than High School,"Colleges, Universities, and Professional Schools",24204646,2318,2009,Male,North Carolina,10442.04
+1034,1034,34382,34382,High School Graduate,"Colleges, Universities, and Professional Schools",75482175,6107,2009,Male,North Carolina,12359.94
+1035,1035,34383,34383,Some College,"Colleges, Universities, and Professional Schools",131251367,8836,2009,Male,North Carolina,14854.16
+1036,1036,34384,34384,Advanced Degree,"Colleges, Universities, and Professional Schools",369424676,17014,2009,Male,North Carolina,21712.98
+1037,1037,34385,34385,Unavalble,"Colleges, Universities, and Professional Schools",7384316,1870,2009,Male,North Carolina,3948.83
+1038,1038,34386,34386,All Education Categories,"Colleges, Universities, and Professional Schools",560902996,46892,2009,Female,North Carolina,11961.59
+1039,1039,34387,34387,Less Than High School,"Colleges, Universities, and Professional Schools",22439522,2556,2009,Female,North Carolina,8779.16
+1040,1040,34388,34388,High School Graduate,"Colleges, Universities, and Professional Schools",87191531,8786,2009,Female,North Carolina,9923.92
+1041,1041,34389,34389,Some College,"Colleges, Universities, and Professional Schools",155376260,13704,2009,Female,North Carolina,11338.02
+1042,1042,34390,34390,Advanced Degree,"Colleges, Universities, and Professional Schools",283993642,18636,2009,Female,North Carolina,15238.98
+1043,1043,34391,34391,Unavalble,"Colleges, Universities, and Professional Schools",11902041,3211,2009,Female,North Carolina,3706.65
+1044,1044,38100,38100,All Education Categories,"Colleges, Universities, and Professional Schools",604566142,37675,2010,Male,North Carolina,16046.88
+1045,1045,38101,38101,Less Than High School,"Colleges, Universities, and Professional Schools",24803440,2503,2010,Male,North Carolina,9909.48
+1046,1046,38102,38102,High School Graduate,"Colleges, Universities, and Professional Schools",75518914,6544,2010,Male,North Carolina,11540.18
+1047,1047,38103,38103,Some College,"Colleges, Universities, and Professional Schools",130926985,9271,2010,Male,North Carolina,14122.21
+1048,1048,38104,38104,Advanced Degree,"Colleges, Universities, and Professional Schools",366624294,17490,2010,Male,North Carolina,20961.94
+1049,1049,38105,38105,Unavalble,"Colleges, Universities, and Professional Schools",6692510,1867,2010,Male,North Carolina,3584.63
+1050,1050,38106,38106,All Education Categories,"Colleges, Universities, and Professional Schools",552798681,48620,2010,Female,North Carolina,11369.78
+1051,1051,38107,38107,Less Than High School,"Colleges, Universities, and Professional Schools",23491486,2774,2010,Female,North Carolina,8468.45
+1052,1052,38108,38108,High School Graduate,"Colleges, Universities, and Professional Schools",86171857,9229,2010,Female,North Carolina,9337.07
+1053,1053,38109,38109,Some College,"Colleges, Universities, and Professional Schools",153582172,14304,2010,Female,North Carolina,10737.01
+1054,1054,38110,38110,Advanced Degree,"Colleges, Universities, and Professional Schools",279664245,19221,2010,Female,North Carolina,14549.93
+1055,1055,38111,38111,Unavalble,"Colleges, Universities, and Professional Schools",9888921,3092,2010,Female,North Carolina,3198.23
+1056,1056,41820,41820,All Education Categories,"Colleges, Universities, and Professional Schools",606495763,38407,2011,Male,North Carolina,15791.28
+1057,1057,41821,41821,Less Than High School,"Colleges, Universities, and Professional Schools",26237821,2649,2011,Male,North Carolina,9904.8
+1058,1058,41822,41822,High School Graduate,"Colleges, Universities, and Professional Schools",77985159,6731,2011,Male,North Carolina,11585.97
+1059,1059,41823,41823,Some College,"Colleges, Universities, and Professional Schools",131885902,9342,2011,Male,North Carolina,14117.52
+1060,1060,41824,41824,Advanced Degree,"Colleges, Universities, and Professional Schools",363085209,17170,2011,Male,North Carolina,21146.49
+1061,1061,41825,41825,Unavalble,"Colleges, Universities, and Professional Schools",7301672,2515,2011,Male,North Carolina,2903.25
+1062,1062,41826,41826,All Education Categories,"Colleges, Universities, and Professional Schools",560828072,49776,2011,Female,North Carolina,11267.04
+1063,1063,41827,41827,Less Than High School,"Colleges, Universities, and Professional Schools",25297639,2975,2011,Female,North Carolina,8503.41
+1064,1064,41828,41828,High School Graduate,"Colleges, Universities, and Professional Schools",88578891,9379,2011,Female,North Carolina,9444.39
+1065,1065,41829,41829,Some College,"Colleges, Universities, and Professional Schools",155684285,14365,2011,Female,North Carolina,10837.75
+1066,1066,41830,41830,Advanced Degree,"Colleges, Universities, and Professional Schools",280799339,19172,2011,Female,North Carolina,14646.32
+1067,1067,41831,41831,Unavalble,"Colleges, Universities, and Professional Schools",10467918,3886,2011,Female,North Carolina,2693.75
+1068,1068,45540,45540,All Education Categories,"Colleges, Universities, and Professional Schools",638244759,38562,2012,Male,North Carolina,16551.13
+1069,1069,45541,45541,Less Than High School,"Colleges, Universities, and Professional Schools",29853734,2849,2012,Male,North Carolina,10478.67
+1070,1070,45542,45542,High School Graduate,"Colleges, Universities, and Professional Schools",85203999,7043,2012,Male,North Carolina,12097.69
+1071,1071,45543,45543,Some College,"Colleges, Universities, and Professional Schools",140816843,9626,2012,Male,North Carolina,14628.8
+1072,1072,45544,45544,Advanced Degree,"Colleges, Universities, and Professional Schools",375657812,17263,2012,Male,North Carolina,21760.86
+1073,1073,45545,45545,Unavalble,"Colleges, Universities, and Professional Schools",6712371,1782,2012,Male,North Carolina,3766.76
+1074,1074,45546,45546,All Education Categories,"Colleges, Universities, and Professional Schools",599056576,50470,2012,Female,North Carolina,11869.56
+1075,1075,45547,45547,Less Than High School,"Colleges, Universities, and Professional Schools",29438008,3256,2012,Female,North Carolina,9041.16
+1076,1076,45548,45548,High School Graduate,"Colleges, Universities, and Professional Schools",97566535,9851,2012,Female,North Carolina,9904.23
+1077,1077,45549,45549,Some College,"Colleges, Universities, and Professional Schools",168720772,15016,2012,Female,North Carolina,11236.07
+1078,1078,45550,45550,Advanced Degree,"Colleges, Universities, and Professional Schools",293332380,19539,2012,Female,North Carolina,15012.66
+1079,1079,45551,45551,Unavalble,"Colleges, Universities, and Professional Schools",9998880,2808,2012,Female,North Carolina,3560.85

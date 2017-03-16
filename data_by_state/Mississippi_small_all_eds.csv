@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,0,All Education Categories,00,4473862861,515277,2004,Male,Mississippi,8682.44
+1,1,1,1,1,Less Than High School,00,465946417,72022,2004,Male,Mississippi,6469.5
+2,2,2,2,2,High School Graduate,00,1143928230,145516,2004,Male,Mississippi,7861.19
+3,3,3,3,3,Some College,00,1236316586,133432,2004,Male,Mississippi,9265.52
+4,4,4,4,4,Advanced Degree,00,1343315864,89951,2004,Male,Mississippi,14933.86
+5,5,5,5,5,Unavalble,00,284355765,74356,2004,Male,Mississippi,3824.25
+6,6,6,6,6,All Education Categories,00,3100925275,557975,2004,Female,Mississippi,5557.46
+7,7,7,7,7,Less Than High School,00,242973259,58769,2004,Female,Mississippi,4134.38
+8,8,8,8,8,High School Graduate,00,710734606,143517,2004,Female,Mississippi,4952.27
+9,9,9,9,9,Some College,00,973014117,163691,2004,Female,Mississippi,5944.21
+10,10,10,10,10,Advanced Degree,00,927568947,108620,2004,Female,Mississippi,8539.58
+11,11,11,11,11,Unavalble,00,246634345,83378,2004,Female,Mississippi,2958.03
+12,12,60,60,60,All Education Categories,Manufacturing,1132689205,120039,2004,Male,Mississippi,9436.01
+13,13,61,61,61,Less Than High School,Manufacturing,144126440,19374,2004,Male,Mississippi,7439.17
+14,14,62,62,62,High School Graduate,Manufacturing,363750635,41010,2004,Male,Mississippi,8869.8
+15,15,63,63,63,Some College,Manufacturing,339404771,33134,2004,Male,Mississippi,10243.4
+16,16,64,64,64,Advanced Degree,Manufacturing,217857873,14553,2004,Male,Mississippi,14969.96
+17,17,65,65,65,Unavalble,Manufacturing,67549487,11968,2004,Male,Mississippi,5644.18
+18,18,66,66,66,All Education Categories,Manufacturing,356693367,60886,2004,Female,Mississippi,5858.38
+19,19,67,67,67,Less Than High School,Manufacturing,49676573,10329,2004,Female,Mississippi,4809.43
+20,20,68,68,68,High School Graduate,Manufacturing,124896077,22366,2004,Female,Mississippi,5584.19
+21,21,69,69,69,Some College,Manufacturing,108701021,17089,2004,Female,Mississippi,6360.88
+22,22,70,70,70,Advanced Degree,Manufacturing,52066137,5946,2004,Female,Mississippi,8756.5
+23,23,71,71,71,Unavalble,Manufacturing,21353559,5156,2004,Female,Mississippi,4141.5
+24,24,84,84,84,All Education Categories,Retail Trade,413214240,63556,2004,Male,Mississippi,6501.58
+25,25,85,85,85,Less Than High School,Retail Trade,47924357,8383,2004,Male,Mississippi,5716.85
+26,26,86,86,86,High School Graduate,Retail Trade,119937644,17434,2004,Male,Mississippi,6879.53
+27,27,87,87,87,Some College,Retail Trade,115657977,14423,2004,Male,Mississippi,8019.0
+28,28,88,88,88,Advanced Degree,Retail Trade,81266906,6841,2004,Male,Mississippi,11879.39
+29,29,89,89,89,Unavalble,Retail Trade,48427356,16476,2004,Male,Mississippi,2939.27
+30,30,90,90,90,All Education Categories,Retail Trade,292481958,78296,2004,Female,Mississippi,3735.59
+31,31,91,91,91,Less Than High School,Retail Trade,36296935,10236,2004,Female,Mississippi,3546.01
+32,32,92,92,92,High School Graduate,Retail Trade,92465341,22910,2004,Female,Mississippi,4036.03
+33,33,93,93,93,Some College,Retail Trade,77915044,17613,2004,Female,Mississippi,4423.72
+34,34,94,94,94,Advanced Degree,Retail Trade,39197103,6568,2004,Female,Mississippi,5967.89
+35,35,95,95,95,Unavalble,Retail Trade,46607535,20968,2004,Female,Mississippi,2222.79
+36,36,120,120,120,All Education Categories,Finance and Insurance,172162021,9419,2004,Male,Mississippi,18278.16
+37,37,121,121,121,Less Than High School,Finance and Insurance,3456873,402,2004,Male,Mississippi,8599.19
+38,38,122,122,122,High School Graduate,Finance and Insurance,15700910,1338,2004,Male,Mississippi,11734.61
+39,39,123,123,123,Some College,Finance and Insurance,33688369,2191,2004,Male,Mississippi,15375.8
+40,40,124,124,124,Advanced Degree,Finance and Insurance,115301381,4718,2004,Male,Mississippi,24438.61
+41,41,125,125,125,Unavalble,Finance and Insurance,4014487,770,2004,Male,Mississippi,5213.62
+42,42,126,126,126,All Education Categories,Finance and Insurance,178362295,24272,2004,Female,Mississippi,7348.48
+43,43,127,127,127,Less Than High School,Finance and Insurance,5343688,1005,2004,Female,Mississippi,5317.1
+44,44,128,128,128,High School Graduate,Finance and Insurance,33187820,5299,2004,Female,Mississippi,6263.03
+45,45,129,129,129,Some College,Finance and Insurance,53945934,7575,2004,Female,Mississippi,7121.58
+46,46,130,130,130,Advanced Degree,Finance and Insurance,74066895,7597,2004,Female,Mississippi,9749.49
+47,47,131,131,131,Unavalble,Finance and Insurance,11817958,2796,2004,Female,Mississippi,4226.74
+48,48,180,180,180,All Education Categories,Educational Services,253958484,29476,2004,Male,Mississippi,8615.77
+49,49,181,181,181,Less Than High School,Educational Services,13684796,2490,2004,Male,Mississippi,5495.9
+50,50,182,182,182,High School Graduate,Educational Services,41575819,5996,2004,Male,Mississippi,6933.93
+51,51,183,183,183,Some College,Educational Services,63572964,7862,2004,Male,Mississippi,8086.11
+52,52,184,184,184,Advanced Degree,Educational Services,129067521,11538,2004,Male,Mississippi,11186.3
+53,53,185,185,185,Unavalble,Educational Services,6057383,1590,2004,Male,Mississippi,3809.67
+54,54,186,186,186,All Education Categories,Educational Services,516437440,82284,2004,Female,Mississippi,6276.28
+55,55,187,187,187,Less Than High School,Educational Services,19104891,5048,2004,Female,Mississippi,3784.65
+56,56,188,188,188,High School Graduate,Educational Services,89183141,18575,2004,Female,Mississippi,4801.25
+57,57,189,189,189,Some College,Educational Services,142889011,24235,2004,Female,Mississippi,5895.98
+58,58,190,190,190,Advanced Degree,Educational Services,247290657,30248,2004,Female,Mississippi,8175.44
+59,59,191,191,191,Unavalble,Educational Services,17969740,4178,2004,Female,Mississippi,4301.04
+60,60,192,192,192,All Education Categories,Health Care and Social Assistance,341256427,24891,2004,Male,Mississippi,13710.03
+61,61,193,193,193,Less Than High School,Health Care and Social Assistance,14179676,2203,2004,Male,Mississippi,6436.53
+62,62,194,194,194,High School Graduate,Health Care and Social Assistance,40981251,4951,2004,Male,Mississippi,8277.37
+63,63,195,195,195,Some College,Health Care and Social Assistance,81428001,7185,2004,Male,Mississippi,11333.06
+64,64,196,196,196,Advanced Degree,Health Care and Social Assistance,195798326,8308,2004,Male,Mississippi,23567.44
+65,65,197,197,197,Unavalble,Health Care and Social Assistance,8869172,2244,2004,Male,Mississippi,3952.39
+66,66,198,198,198,All Education Categories,Health Care and Social Assistance,759403528,118601,2004,Female,Mississippi,6403.01
+67,67,199,199,199,Less Than High School,Health Care and Social Assistance,43977906,10051,2004,Female,Mississippi,4375.48
+68,68,200,200,200,High School Graduate,Health Care and Social Assistance,136236348,26075,2004,Female,Mississippi,5224.79
+69,69,201,201,201,Some College,Health Care and Social Assistance,282114936,43865,2004,Female,Mississippi,6431.44
+70,70,202,202,202,Advanced Degree,Health Care and Social Assistance,251943717,27284,2004,Female,Mississippi,9234.12
+71,71,203,203,203,Unavalble,Health Care and Social Assistance,45130620,11326,2004,Female,Mississippi,3984.69
+72,72,216,216,216,All Education Categories,Accommodation and Food Services,206692725,42621,2004,Male,Mississippi,4849.55
+73,73,217,217,217,Less Than High School,Accommodation and Food Services,30008256,5889,2004,Male,Mississippi,5095.65
+74,74,218,218,218,High School Graduate,Accommodation and Food Services,57011532,9659,2004,Male,Mississippi,5902.43
+75,75,219,219,219,Some College,Accommodation and Food Services,52137334,7692,2004,Male,Mississippi,6778.12
+76,76,220,220,220,Advanced Degree,Accommodation and Food Services,29362138,3138,2004,Male,Mississippi,9356.96
+77,77,221,221,221,Unavalble,Accommodation and Food Services,38173465,16243,2004,Male,Mississippi,2350.15
+78,78,222,222,222,All Education Categories,Accommodation and Food Services,235246847,66340,2004,Female,Mississippi,3546.08
+79,79,223,223,223,Less Than High School,Accommodation and Food Services,33177825,9357,2004,Female,Mississippi,3545.78
+80,80,224,224,224,High School Graduate,Accommodation and Food Services,60758038,15029,2004,Female,Mississippi,4042.72
+81,81,225,225,225,Some College,Accommodation and Food Services,61479639,13330,2004,Female,Mississippi,4612.13
+82,82,226,226,226,Advanced Degree,Accommodation and Food Services,29676971,4935,2004,Female,Mississippi,6013.57
+83,83,227,227,227,Unavalble,Accommodation and Food Services,50154374,23689,2004,Female,Mississippi,2117.2
+84,84,252,252,252,All Education Categories,00,4654141419,519540,2005,Male,Mississippi,8958.2
+85,85,253,253,253,Less Than High School,00,473144453,71775,2005,Male,Mississippi,6592.05
+86,86,254,254,254,High School Graduate,00,1178835552,147009,2005,Male,Mississippi,8018.8
+87,87,255,255,255,Some College,00,1292428120,136149,2005,Male,Mississippi,9492.75
+88,88,256,256,256,Advanced Degree,00,1422318847,91314,2005,Male,Mississippi,15576.13
+89,89,257,257,257,Unavalble,00,287414446,73293,2005,Male,Mississippi,3921.44
+90,90,258,258,258,All Education Categories,00,3206644080,562427,2005,Female,Mississippi,5701.44
+91,91,259,259,259,Less Than High School,00,244610019,58521,2005,Female,Mississippi,4179.87
+92,92,260,260,260,High School Graduate,00,725529416,144418,2005,Female,Mississippi,5023.82
+93,93,261,261,261,Some College,00,1010159122,166547,2005,Female,Mississippi,6065.31
+94,94,262,262,262,Advanced Degree,00,977101334,110357,2005,Female,Mississippi,8854.0
+95,95,263,263,263,Unavalble,00,249244188,82584,2005,Female,Mississippi,3018.07
+96,96,312,312,312,All Education Categories,Manufacturing,1180807090,120644,2005,Male,Mississippi,9787.53
+97,97,313,313,313,Less Than High School,Manufacturing,147413964,19117,2005,Male,Mississippi,7711.15
+98,98,314,314,314,High School Graduate,Manufacturing,377402946,41297,2005,Male,Mississippi,9138.75
+99,99,315,315,315,Some College,Manufacturing,356688033,33794,2005,Male,Mississippi,10554.77
+100,100,316,316,316,Advanced Degree,Manufacturing,230287714,14468,2005,Male,Mississippi,15917.04
+101,101,317,317,317,Unavalble,Manufacturing,69014433,11967,2005,Male,Mississippi,5767.06
+102,102,318,318,318,All Education Categories,Manufacturing,351883536,57221,2005,Female,Mississippi,6149.55
+103,103,319,319,319,Less Than High School,Manufacturing,48076676,9640,2005,Female,Mississippi,4987.21
+104,104,320,320,320,High School Graduate,Manufacturing,122621559,21114,2005,Female,Mississippi,5807.59
+105,105,321,321,321,Some College,Manufacturing,108359685,16328,2005,Female,Mississippi,6636.43
+106,106,322,322,322,Advanced Degree,Manufacturing,52948297,5616,2005,Female,Mississippi,9428.12
+107,107,323,323,323,Unavalble,Manufacturing,19877319,4523,2005,Female,Mississippi,4394.72
+108,108,336,336,336,All Education Categories,Retail Trade,412147906,62990,2005,Male,Mississippi,6543.07
+109,109,337,337,337,Less Than High School,Retail Trade,47608445,8298,2005,Male,Mississippi,5737.34
+110,110,338,338,338,High School Graduate,Retail Trade,120837699,17553,2005,Male,Mississippi,6884.16
+111,111,339,339,339,Some College,Retail Trade,117147263,14484,2005,Male,Mississippi,8088.05
+112,112,340,340,340,Advanced Degree,Retail Trade,79092320,6619,2005,Male,Mississippi,11949.29
+113,113,341,341,341,Unavalble,Retail Trade,47462179,16036,2005,Male,Mississippi,2959.73
+114,114,342,342,342,All Education Categories,Retail Trade,300526742,78428,2005,Female,Mississippi,3831.88
+115,115,343,343,343,Less Than High School,Retail Trade,37251849,10244,2005,Female,Mississippi,3636.46
+116,116,344,344,344,High School Graduate,Retail Trade,96271799,23268,2005,Female,Mississippi,4137.52
+117,117,345,345,345,Some College,Retail Trade,80196402,17763,2005,Female,Mississippi,4514.8
+118,118,346,346,346,Advanced Degree,Retail Trade,39561315,6409,2005,Female,Mississippi,6172.78
+119,119,347,347,347,Unavalble,Retail Trade,47245377,20745,2005,Female,Mississippi,2277.43
+120,120,372,372,372,All Education Categories,Finance and Insurance,175234910,9482,2005,Male,Mississippi,18480.8
+121,121,373,373,373,Less Than High School,Finance and Insurance,3150965,379,2005,Male,Mississippi,8313.89
+122,122,374,374,374,High School Graduate,Finance and Insurance,15293934,1283,2005,Male,Mississippi,11920.45
+123,123,375,375,375,Some College,Finance and Insurance,34255239,2221,2005,Male,Mississippi,15423.34
+124,124,376,376,376,Advanced Degree,Finance and Insurance,118518816,4828,2005,Male,Mississippi,24548.22
+125,125,377,377,377,Unavalble,Finance and Insurance,4015956,771,2005,Male,Mississippi,5208.76
+126,126,378,378,378,All Education Categories,Finance and Insurance,181026144,24550,2005,Female,Mississippi,7373.77
+127,127,379,379,379,Less Than High School,Finance and Insurance,5194090,964,2005,Female,Mississippi,5388.06
+128,128,380,380,380,High School Graduate,Finance and Insurance,33231869,5331,2005,Female,Mississippi,6233.7
+129,129,381,381,381,Some College,Finance and Insurance,54638884,7678,2005,Female,Mississippi,7116.29
+130,130,382,382,382,Advanced Degree,Finance and Insurance,76280143,7795,2005,Female,Mississippi,9785.78
+131,131,383,383,383,Unavalble,Finance and Insurance,11681157,2781,2005,Female,Mississippi,4200.34
+132,132,432,432,432,All Education Categories,Educational Services,267001190,29682,2005,Male,Mississippi,8995.39
+133,133,433,433,433,Less Than High School,Educational Services,13582663,2421,2005,Male,Mississippi,5610.35
+134,134,434,434,434,High School Graduate,Educational Services,43205488,6023,2005,Male,Mississippi,7173.42
+135,135,435,435,435,Some College,Educational Services,67479370,8006,2005,Male,Mississippi,8428.6
+136,136,436,436,436,Advanced Degree,Educational Services,135413798,11612,2005,Male,Mississippi,11661.54
+137,137,437,437,437,Unavalble,Educational Services,7319871,1619,2005,Male,Mississippi,4521.23
+138,138,438,438,438,All Education Categories,Educational Services,554185753,83477,2005,Female,Mississippi,6638.78
+139,139,439,439,439,Less Than High School,Educational Services,19465033,4959,2005,Female,Mississippi,3925.19
+140,140,440,440,440,High School Graduate,Educational Services,93896263,18683,2005,Female,Mississippi,5025.76
+141,141,441,441,441,Some College,Educational Services,154750907,24889,2005,Female,Mississippi,6217.64
+142,142,442,442,442,Advanced Degree,Educational Services,266431608,30784,2005,Female,Mississippi,8654.87
+143,143,443,443,443,Unavalble,Educational Services,19641942,4161,2005,Female,Mississippi,4720.49
+144,144,444,444,444,All Education Categories,Health Care and Social Assistance,354211574,25437,2005,Male,Mississippi,13925.05
+145,145,445,445,445,Less Than High School,Health Care and Social Assistance,14235269,2195,2005,Male,Mississippi,6485.32
+146,146,446,446,446,High School Graduate,Health Care and Social Assistance,42271903,5045,2005,Male,Mississippi,8378.97
+147,147,447,447,447,Some College,Health Care and Social Assistance,84784504,7431,2005,Male,Mississippi,11409.57
+148,148,448,448,448,Advanced Degree,Health Care and Social Assistance,203461007,8508,2005,Male,Mississippi,23914.08
+149,149,449,449,449,Unavalble,Health Care and Social Assistance,9458891,2257,2005,Male,Mississippi,4190.91
+150,150,450,450,450,All Education Categories,Health Care and Social Assistance,793785820,121712,2005,Female,Mississippi,6521.84
+151,151,451,451,451,Less Than High School,Health Care and Social Assistance,44732348,10189,2005,Female,Mississippi,4390.26
+152,152,452,452,452,High School Graduate,Health Care and Social Assistance,140487947,26720,2005,Female,Mississippi,5257.78
+153,153,453,453,453,Some College,Health Care and Social Assistance,295833924,45427,2005,Female,Mississippi,6512.29
+154,154,454,454,454,Advanced Degree,Health Care and Social Assistance,266517171,28179,2005,Female,Mississippi,9458.01
+155,155,455,455,455,Unavalble,Health Care and Social Assistance,46214428,11196,2005,Female,Mississippi,4127.76
+156,156,468,468,468,All Education Categories,Accommodation and Food Services,205765886,42585,2005,Male,Mississippi,4831.89
+157,157,469,469,469,Less Than High School,Accommodation and Food Services,29769913,6024,2005,Male,Mississippi,4941.88
+158,158,470,470,470,High School Graduate,Accommodation and Food Services,56351656,9841,2005,Male,Mississippi,5726.21
+159,159,471,471,471,Some College,Accommodation and Food Services,52531745,7805,2005,Male,Mississippi,6730.52
+160,160,472,472,472,Advanced Degree,Accommodation and Food Services,30543150,3110,2005,Male,Mississippi,9820.95
+161,161,473,473,473,Unavalble,Accommodation and Food Services,36569422,15805,2005,Male,Mississippi,2313.79
+162,162,474,474,474,All Education Categories,Accommodation and Food Services,232531443,66684,2005,Female,Mississippi,3487.07
+163,163,475,475,475,Less Than High School,Accommodation and Food Services,32827573,9462,2005,Female,Mississippi,3469.41
+164,164,476,476,476,High School Graduate,Accommodation and Food Services,60156060,15205,2005,Female,Mississippi,3956.33
+165,165,477,477,477,Some College,Accommodation and Food Services,60631148,13310,2005,Female,Mississippi,4555.31
+166,166,478,478,478,Advanced Degree,Accommodation and Food Services,28890499,4823,2005,Female,Mississippi,5990.15
+167,167,479,479,479,Unavalble,Accommodation and Food Services,50026163,23884,2005,Female,Mississippi,2094.55
+168,168,504,504,504,All Education Categories,00,5184831973,521006,2006,Male,Mississippi,9951.58
+169,169,505,505,505,Less Than High School,00,525003111,71296,2006,Male,Mississippi,7363.71
+170,170,506,506,506,High School Graduate,00,1314742299,147332,2006,Male,Mississippi,8923.67
+171,171,507,507,507,Some College,00,1445624307,137239,2006,Male,Mississippi,10533.63
+172,172,508,508,508,Advanced Degree,00,1571086401,91329,2006,Male,Mississippi,17202.49
+173,173,509,509,509,Unavalble,00,328375854,73810,2006,Male,Mississippi,4448.93
+174,174,510,510,510,All Education Categories,00,3497198906,556783,2006,Female,Mississippi,6281.08
+175,175,511,511,511,Less Than High School,00,262770662,57308,2006,Female,Mississippi,4585.24
+176,176,512,512,512,High School Graduate,00,784514655,142360,2006,Female,Mississippi,5510.78
+177,177,513,513,513,Some College,00,1105160264,165559,2006,Female,Mississippi,6675.33
+178,178,514,514,514,Advanced Degree,00,1076549551,109342,2006,Female,Mississippi,9845.71
+179,179,515,515,515,Unavalble,00,268203775,82213,2006,Female,Mississippi,3262.3
+180,180,564,564,564,All Education Categories,Manufacturing,1250578646,120146,2006,Male,Mississippi,10408.82
+181,181,565,565,565,Less Than High School,Manufacturing,156169034,18892,2006,Male,Mississippi,8266.41
+182,182,566,566,566,High School Graduate,Manufacturing,401585833,41281,2006,Male,Mississippi,9728.1
+183,183,567,567,567,Some College,Manufacturing,378772153,33887,2006,Male,Mississippi,11177.51
+184,184,568,568,568,Advanced Degree,Manufacturing,239053052,14288,2006,Male,Mississippi,16731.04
+185,185,569,569,569,Unavalble,Manufacturing,74998574,11797,2006,Male,Mississippi,6357.43
+186,186,570,570,570,All Education Categories,Manufacturing,371553010,56231,2006,Female,Mississippi,6607.62
+187,187,571,571,571,Less Than High School,Manufacturing,50153760,9252,2006,Female,Mississippi,5420.86
+188,188,572,572,572,High School Graduate,Manufacturing,130299560,20898,2006,Female,Mississippi,6235.03
+189,189,573,573,573,Some College,Manufacturing,114824226,16234,2006,Female,Mississippi,7073.07
+190,190,574,574,574,Advanced Degree,Manufacturing,55652963,5537,2006,Female,Mississippi,10051.1
+191,191,575,575,575,Unavalble,Manufacturing,20622503,4308,2006,Female,Mississippi,4787.02
+192,192,588,588,588,All Education Categories,Retail Trade,482841552,64409,2006,Male,Mississippi,7496.49
+193,193,589,589,589,Less Than High School,Retail Trade,53769631,8323,2006,Male,Mississippi,6460.37
+194,194,590,590,590,High School Graduate,Retail Trade,140483482,17755,2006,Male,Mississippi,7912.33
+195,195,591,591,591,Some College,Retail Trade,137620008,14738,2006,Male,Mississippi,9337.77
+196,196,592,592,592,Advanced Degree,Retail Trade,95721546,6818,2006,Male,Mississippi,14039.53
+197,197,593,593,593,Unavalble,Retail Trade,55246884,16776,2006,Male,Mississippi,3293.21
+198,198,594,594,594,All Education Categories,Retail Trade,349594273,81540,2006,Female,Mississippi,4287.4
+199,199,595,595,595,Less Than High School,Retail Trade,42681206,10567,2006,Female,Mississippi,4039.1
+200,200,596,596,596,High School Graduate,Retail Trade,109264421,23752,2006,Female,Mississippi,4600.22
+201,201,597,597,597,Some College,Retail Trade,93262104,18295,2006,Female,Mississippi,5097.68
+202,202,598,598,598,Advanced Degree,Retail Trade,48031162,6621,2006,Female,Mississippi,7254.37
+203,203,599,599,599,Unavalble,Retail Trade,56355380,22304,2006,Female,Mississippi,2526.69
+204,204,624,624,624,All Education Categories,Finance and Insurance,201569508,10110,2006,Male,Mississippi,19937.64
+205,205,625,625,625,Less Than High School,Finance and Insurance,3783667,408,2006,Male,Mississippi,9273.69
+206,206,626,626,626,High School Graduate,Finance and Insurance,18331928,1415,2006,Male,Mississippi,12955.43
+207,207,627,627,627,Some College,Finance and Insurance,39425517,2443,2006,Male,Mississippi,16138.16
+208,208,628,628,628,Advanced Degree,Finance and Insurance,135771675,5119,2006,Male,Mississippi,26523.09
+209,209,629,629,629,Unavalble,Finance and Insurance,4256722,725,2006,Male,Mississippi,5871.34
+210,210,630,630,630,All Education Categories,Finance and Insurance,197349839,24747,2006,Female,Mississippi,7974.7
+211,211,631,631,631,Less Than High School,Finance and Insurance,5581571,979,2006,Female,Mississippi,5701.3
+212,212,632,632,632,High School Graduate,Finance and Insurance,35967403,5366,2006,Female,Mississippi,6702.83
+213,213,633,633,633,Some College,Finance and Insurance,60001446,7832,2006,Female,Mississippi,7661.06
+214,214,634,634,634,Advanced Degree,Finance and Insurance,83719134,7924,2006,Female,Mississippi,10565.26
+215,215,635,635,635,Unavalble,Finance and Insurance,12080285,2646,2006,Female,Mississippi,4565.49
+216,216,684,684,684,All Education Categories,Educational Services,282826544,29294,2006,Male,Mississippi,9654.76
+217,217,685,685,685,Less Than High School,Educational Services,14099616,2329,2006,Male,Mississippi,6053.94
+218,218,686,686,686,High School Graduate,Educational Services,45817421,5958,2006,Male,Mississippi,7690.07
+219,219,687,687,687,Some College,Educational Services,72610887,8061,2006,Male,Mississippi,9007.68
+220,220,688,688,688,Advanced Degree,Educational Services,144137781,11595,2006,Male,Mississippi,12431.03
+221,221,689,689,689,Unavalble,Educational Services,6160840,1351,2006,Male,Mississippi,4560.21
+222,222,690,690,690,All Education Categories,Educational Services,593438268,83005,2006,Female,Mississippi,7149.43
+223,223,691,691,691,Less Than High School,Educational Services,20306532,4849,2006,Female,Mississippi,4187.78
+224,224,692,692,692,High School Graduate,Educational Services,100341759,18628,2006,Female,Mississippi,5386.61
+225,225,693,693,693,Some College,Educational Services,168010494,25056,2006,Female,Mississippi,6705.4
+226,226,694,694,694,Advanced Degree,Educational Services,287671414,30905,2006,Female,Mississippi,9308.25
+227,227,695,695,695,Unavalble,Educational Services,17108070,3567,2006,Female,Mississippi,4796.21
+228,228,696,696,696,All Education Categories,Health Care and Social Assistance,386272026,25462,2006,Male,Mississippi,15170.53
+229,229,697,697,697,Less Than High School,Health Care and Social Assistance,15453440,2176,2006,Male,Mississippi,7101.76
+230,230,698,698,698,High School Graduate,Health Care and Social Assistance,46737793,5068,2006,Male,Mississippi,9222.14
+231,231,699,699,699,Some College,Health Care and Social Assistance,93804134,7487,2006,Male,Mississippi,12528.93
+232,232,700,700,700,Advanced Degree,Health Care and Social Assistance,220499629,8570,2006,Male,Mississippi,25729.24
+233,233,701,701,701,Unavalble,Health Care and Social Assistance,9777029,2161,2006,Male,Mississippi,4524.31
+234,234,702,702,702,All Education Categories,Health Care and Social Assistance,877758456,121066,2006,Female,Mississippi,7250.25
+235,235,703,703,703,Less Than High School,Health Care and Social Assistance,48358602,10112,2006,Female,Mississippi,4782.3
+236,236,704,704,704,High School Graduate,Health Care and Social Assistance,154158054,26706,2006,Female,Mississippi,5772.41
+237,237,705,705,705,Some College,Health Care and Social Assistance,328252493,45576,2006,Female,Mississippi,7202.31
+238,238,706,706,706,Advanced Degree,Health Care and Social Assistance,298465654,27925,2006,Female,Mississippi,10688.12
+239,239,707,707,707,Unavalble,Health Care and Social Assistance,48523653,10746,2006,Female,Mississippi,4515.51
+240,240,720,720,720,All Education Categories,Accommodation and Food Services,192277970,36773,2006,Male,Mississippi,5228.78
+241,241,721,721,721,Less Than High School,Accommodation and Food Services,28156340,5122,2006,Male,Mississippi,5497.14
+242,242,722,722,722,High School Graduate,Accommodation and Food Services,52699356,8112,2006,Male,Mississippi,6496.47
+243,243,723,723,723,Some College,Accommodation and Food Services,46351706,6223,2006,Male,Mississippi,7448.45
+244,244,724,724,724,Advanced Degree,Accommodation and Food Services,26822896,2404,2006,Male,Mississippi,11157.61
+245,245,725,725,725,Unavalble,Accommodation and Food Services,38247671,14913,2006,Male,Mississippi,2564.72
+246,246,726,726,726,All Education Categories,Accommodation and Food Services,223479131,59514,2006,Female,Mississippi,3755.07
+247,247,727,727,727,Less Than High School,Accommodation and Food Services,31716339,8399,2006,Female,Mississippi,3776.2
+248,248,728,728,728,High School Graduate,Accommodation and Food Services,56117614,12895,2006,Female,Mississippi,4351.89
+249,249,729,729,729,Some College,Accommodation and Food Services,56089048,11058,2006,Female,Mississippi,5072.26
+250,250,730,730,730,Advanced Degree,Accommodation and Food Services,26373635,3748,2006,Female,Mississippi,7036.72
+251,251,731,731,731,Unavalble,Accommodation and Food Services,53182495,23415,2006,Female,Mississippi,2271.3
+252,252,756,756,756,All Education Categories,00,5350629908,529359,2007,Male,Mississippi,10107.75
+253,253,757,757,757,Less Than High School,00,538763336,72843,2007,Male,Mississippi,7396.23
+254,254,758,758,758,High School Graduate,00,1347824823,150307,2007,Male,Mississippi,8967.15
+255,255,759,759,759,Some College,00,1493968635,140219,2007,Male,Mississippi,10654.54
+256,256,760,760,760,Advanced Degree,00,1642030584,92652,2007,Male,Mississippi,17722.56
+257,257,761,761,761,Unavalble,00,328042529,73337,2007,Male,Mississippi,4473.08
+258,258,762,762,762,All Education Categories,00,3622776925,569965,2007,Female,Mississippi,6356.14
+259,259,763,763,763,Less Than High School,00,272871657,59362,2007,Female,Mississippi,4596.74
+260,260,764,764,764,High School Graduate,00,810494651,146099,2007,Female,Mississippi,5547.57
+261,261,765,765,765,Some College,00,1155294182,170921,2007,Female,Mississippi,6759.23
+262,262,766,766,766,Advanced Degree,00,1117330918,112140,2007,Female,Mississippi,9963.71
+263,263,767,767,767,Unavalble,00,266785517,81443,2007,Female,Mississippi,3275.73
+264,264,816,816,816,All Education Categories,Manufacturing,1253519164,118133,2007,Male,Mississippi,10611.08
+265,265,817,817,817,Less Than High School,Manufacturing,155040397,18679,2007,Male,Mississippi,8300.25
+266,266,818,818,818,High School Graduate,Manufacturing,395551289,40383,2007,Male,Mississippi,9795.0
+267,267,819,819,819,Some College,Manufacturing,380931449,33290,2007,Male,Mississippi,11442.82
+268,268,820,820,820,Advanced Degree,Manufacturing,249579741,14022,2007,Male,Mississippi,17799.15
+269,269,821,821,821,Unavalble,Manufacturing,72416287,11759,2007,Male,Mississippi,6158.37
+270,270,822,822,822,All Education Categories,Manufacturing,360931970,54006,2007,Female,Mississippi,6683.18
+271,271,823,823,823,Less Than High School,Manufacturing,47307104,8838,2007,Female,Mississippi,5352.69
+272,272,824,824,824,High School Graduate,Manufacturing,124278167,19955,2007,Female,Mississippi,6227.92
+273,273,825,825,825,Some College,Manufacturing,113150103,15719,2007,Female,Mississippi,7198.3
+274,274,826,826,826,Advanced Degree,Manufacturing,57166203,5350,2007,Female,Mississippi,10685.27
+275,275,827,827,827,Unavalble,Manufacturing,19030393,4145,2007,Female,Mississippi,4591.17
+276,276,840,840,840,All Education Categories,Retail Trade,467308218,63234,2007,Male,Mississippi,7390.14
+277,277,841,841,841,Less Than High School,Retail Trade,52987156,8305,2007,Male,Mississippi,6380.15
+278,278,842,842,842,High School Graduate,Retail Trade,138266997,17785,2007,Male,Mississippi,7774.36
+279,279,843,843,843,Some College,Retail Trade,133393176,14688,2007,Male,Mississippi,9081.78
+280,280,844,844,844,Advanced Degree,Retail Trade,90723667,6622,2007,Male,Mississippi,13700.34
+281,281,845,845,845,Unavalble,Retail Trade,51937222,15834,2007,Male,Mississippi,3280.11
+282,282,846,846,846,All Education Categories,Retail Trade,345035949,80358,2007,Female,Mississippi,4293.73
+283,283,847,847,847,Less Than High School,Retail Trade,43170229,10692,2007,Female,Mississippi,4037.62
+284,284,848,848,848,High School Graduate,Retail Trade,109906367,23876,2007,Female,Mississippi,4603.22
+285,285,849,849,849,Some College,Retail Trade,93148479,18440,2007,Female,Mississippi,5051.44
+286,286,850,850,850,Advanced Degree,Retail Trade,46345565,6499,2007,Female,Mississippi,7131.18
+287,287,851,851,851,Unavalble,Retail Trade,52465308,20851,2007,Female,Mississippi,2516.2
+288,288,876,876,876,All Education Categories,Finance and Insurance,211339892,9750,2007,Male,Mississippi,21675.89
+289,289,877,877,877,Less Than High School,Finance and Insurance,3683487,402,2007,Male,Mississippi,9162.9
+290,290,878,878,878,High School Graduate,Finance and Insurance,18315642,1353,2007,Male,Mississippi,13537.06
+291,291,879,879,879,Some College,Finance and Insurance,40718829,2356,2007,Male,Mississippi,17283.03
+292,292,880,880,880,Advanced Degree,Finance and Insurance,144380491,4921,2007,Male,Mississippi,29339.66
+293,293,881,881,881,Unavalble,Finance and Insurance,4241443,717,2007,Male,Mississippi,5915.54
+294,294,882,882,882,All Education Categories,Finance and Insurance,212222063,25429,2007,Female,Mississippi,8345.67
+295,295,883,883,883,Less Than High School,Finance and Insurance,6254097,1047,2007,Female,Mississippi,5973.35
+296,296,884,884,884,High School Graduate,Finance and Insurance,38786813,5535,2007,Female,Mississippi,7007.55
+297,297,885,885,885,Some College,Finance and Insurance,64314974,8042,2007,Female,Mississippi,7997.39
+298,298,886,886,886,Advanced Degree,Finance and Insurance,89720930,8054,2007,Female,Mississippi,11139.92
+299,299,887,887,887,Unavalble,Finance and Insurance,13145249,2751,2007,Female,Mississippi,4778.35
+300,300,936,936,936,All Education Categories,Educational Services,289585352,29572,2007,Male,Mississippi,9792.55
+301,301,937,937,937,Less Than High School,Educational Services,14515456,2337,2007,Male,Mississippi,6211.15
+302,302,938,938,938,High School Graduate,Educational Services,47408952,6054,2007,Male,Mississippi,7831.01
+303,303,939,939,939,Some College,Educational Services,74993611,8200,2007,Male,Mississippi,9145.56
+304,304,940,940,940,Advanced Degree,Educational Services,146269937,11618,2007,Male,Mississippi,12589.94
+305,305,941,941,941,Unavalble,Educational Services,6397397,1362,2007,Male,Mississippi,4697.06
+306,306,942,942,942,All Education Categories,Educational Services,607386662,83213,2007,Female,Mississippi,7299.18
+307,307,943,943,943,Less Than High School,Educational Services,21184747,4866,2007,Female,Mississippi,4353.63
+308,308,944,944,944,High School Graduate,Educational Services,103205707,18596,2007,Female,Mississippi,5549.89
+309,309,945,945,945,Some College,Educational Services,174669183,25391,2007,Female,Mississippi,6879.18
+310,310,946,946,946,Advanced Degree,Educational Services,291547875,30937,2007,Female,Mississippi,9423.92
+311,311,947,947,947,Unavalble,Educational Services,16779150,3422,2007,Female,Mississippi,4903.32
+312,312,948,948,948,All Education Categories,Health Care and Social Assistance,402205414,26488,2007,Male,Mississippi,15184.44
+313,313,949,949,949,Less Than High School,Health Care and Social Assistance,16490100,2292,2007,Male,Mississippi,7194.63
+314,314,950,950,950,High School Graduate,Health Care and Social Assistance,49666829,5322,2007,Male,Mississippi,9332.36
+315,315,951,951,951,Some College,Health Care and Social Assistance,98164191,7791,2007,Male,Mississippi,12599.69
+316,316,952,952,952,Advanced Degree,Health Care and Social Assistance,226862597,8758,2007,Male,Mississippi,25903.47
+317,317,953,953,953,Unavalble,Health Care and Social Assistance,11021697,2326,2007,Male,Mississippi,4738.48
+318,318,954,954,954,All Education Categories,Health Care and Social Assistance,929316407,126002,2007,Female,Mississippi,7375.41
+319,319,955,955,955,Less Than High School,Health Care and Social Assistance,51922529,10596,2007,Female,Mississippi,4900.2
+320,320,956,956,956,High School Graduate,Health Care and Social Assistance,164553579,27892,2007,Female,Mississippi,5899.67
+321,321,957,957,957,Some College,Health Care and Social Assistance,348091462,47249,2007,Female,Mississippi,7367.17
+322,322,958,958,958,Advanced Degree,Health Care and Social Assistance,313022167,28989,2007,Female,Mississippi,10797.96
+323,323,959,959,959,Unavalble,Health Care and Social Assistance,51726670,11277,2007,Female,Mississippi,4586.92
+324,324,972,972,972,All Education Categories,Accommodation and Food Services,206740082,41103,2007,Male,Mississippi,5029.81
+325,325,973,973,973,Less Than High School,Accommodation and Food Services,30796573,5895,2007,Male,Mississippi,5224.19
+326,326,974,974,974,High School Graduate,Accommodation and Food Services,57419986,9494,2007,Male,Mississippi,6048.03
+327,327,975,975,975,Some College,Accommodation and Food Services,51005775,7353,2007,Male,Mississippi,6936.73
+328,328,976,976,976,Advanced Degree,Accommodation and Food Services,27879073,2852,2007,Male,Mississippi,9775.27
+329,329,977,977,977,Unavalble,Accommodation and Food Services,39638674,15508,2007,Male,Mississippi,2556.01
+330,330,978,978,978,All Education Categories,Accommodation and Food Services,240638844,65193,2007,Female,Mississippi,3691.18
+331,331,979,979,979,Less Than High School,Accommodation and Food Services,35077432,9478,2007,Female,Mississippi,3700.93
+332,332,980,980,980,High School Graduate,Accommodation and Food Services,62038645,14710,2007,Female,Mississippi,4217.45
+333,333,981,981,981,Some College,Accommodation and Food Services,61934837,12815,2007,Female,Mississippi,4833.0
+334,334,982,982,982,Advanced Degree,Accommodation and Food Services,28816932,4530,2007,Female,Mississippi,6361.35
+335,335,983,983,983,Unavalble,Accommodation and Food Services,52770998,23662,2007,Female,Mississippi,2230.2
+336,336,1008,1008,1008,All Education Categories,00,5597795167,531108,2008,Male,Mississippi,10539.84
+337,337,1009,1009,1009,Less Than High School,00,572879666,73949,2008,Male,Mississippi,7746.96
+338,338,1010,1010,1010,High School Graduate,00,1422385186,151980,2008,Male,Mississippi,9359.03
+339,339,1011,1011,1011,Some College,00,1572589018,141638,2008,Male,Mississippi,11102.88
+340,340,1012,1012,1012,Advanced Degree,00,1696702864,92058,2008,Male,Mississippi,18430.8
+341,341,1013,1013,1013,Unavalble,00,333238433,71484,2008,Male,Mississippi,4661.72
+342,342,1014,1014,1014,All Education Categories,00,3803526783,566460,2008,Female,Mississippi,6714.55
+343,343,1015,1015,1015,Less Than High School,00,288715154,60375,2008,Female,Mississippi,4782.03
+344,344,1016,1016,1016,High School Graduate,00,849354324,146559,2008,Female,Mississippi,5795.31
+345,345,1017,1017,1017,Some College,00,1223141269,170561,2008,Female,Mississippi,7171.28
+346,346,1018,1018,1018,Advanced Degree,00,1174513629,109981,2008,Female,Mississippi,10679.24
+347,347,1019,1019,1019,Unavalble,00,267802407,78986,2008,Female,Mississippi,3390.5
+348,348,1068,1068,1068,All Education Categories,Manufacturing,1249299481,112845,2008,Male,Mississippi,11070.93
+349,349,1069,1069,1069,Less Than High School,Manufacturing,153717022,17797,2008,Male,Mississippi,8637.24
+350,350,1070,1070,1070,High School Graduate,Manufacturing,395802590,38839,2008,Male,Mississippi,10190.85
+351,351,1071,1071,1071,Some College,Manufacturing,381869819,32263,2008,Male,Mississippi,11836.15
+352,352,1072,1072,1072,Advanced Degree,Manufacturing,253228800,13729,2008,Male,Mississippi,18444.81
+353,353,1073,1073,1073,Unavalble,Manufacturing,64681250,10217,2008,Male,Mississippi,6330.75
+354,354,1074,1074,1074,All Education Categories,Manufacturing,344564129,50246,2008,Female,Mississippi,6857.54
+355,355,1075,1075,1075,Less Than High School,Manufacturing,45425934,8227,2008,Female,Mississippi,5521.57
+356,356,1076,1076,1076,High School Graduate,Manufacturing,118210306,18584,2008,Female,Mississippi,6360.86
+357,357,1077,1077,1077,Some College,Manufacturing,108541096,14744,2008,Female,Mississippi,7361.71
+358,358,1078,1078,1078,Advanced Degree,Manufacturing,55084984,5088,2008,Female,Mississippi,10826.45
+359,359,1079,1079,1079,Unavalble,Manufacturing,17301809,3603,2008,Female,Mississippi,4802.06
+360,360,1092,1092,1092,All Education Categories,Retail Trade,466242891,63753,2008,Male,Mississippi,7313.27
+361,361,1093,1093,1093,Less Than High School,Retail Trade,53318582,8453,2008,Male,Mississippi,6307.65
+362,362,1094,1094,1094,High School Graduate,Retail Trade,138991899,18005,2008,Male,Mississippi,7719.63
+363,363,1095,1095,1095,Some College,Retail Trade,133947198,14878,2008,Male,Mississippi,9003.04
+364,364,1096,1096,1096,Advanced Degree,Retail Trade,90286815,6703,2008,Male,Mississippi,13469.61
+365,365,1097,1097,1097,Unavalble,Retail Trade,49698397,15713,2008,Male,Mississippi,3162.88
+366,366,1098,1098,1098,All Education Categories,Retail Trade,354060469,81817,2008,Female,Mississippi,4327.47
+367,367,1099,1099,1099,Less Than High School,Retail Trade,44553490,11018,2008,Female,Mississippi,4043.7
+368,368,1100,1100,1100,High School Graduate,Retail Trade,112737875,24402,2008,Female,Mississippi,4620.03
+369,369,1101,1101,1101,Some College,Retail Trade,96778982,18992,2008,Female,Mississippi,5095.78
+370,370,1102,1102,1102,Advanced Degree,Retail Trade,48096949,6740,2008,Female,Mississippi,7136.05
+371,371,1103,1103,1103,Unavalble,Retail Trade,51893172,20665,2008,Female,Mississippi,2511.16
+372,372,1128,1128,1128,All Education Categories,Finance and Insurance,216025891,9718,2008,Male,Mississippi,22229.46
+373,373,1129,1129,1129,Less Than High School,Finance and Insurance,4260396,426,2008,Male,Mississippi,10000.93
+374,374,1130,1130,1130,High School Graduate,Finance and Insurance,20380732,1434,2008,Male,Mississippi,14212.5
+375,375,1131,1131,1131,Some College,Finance and Insurance,42963367,2385,2008,Male,Mississippi,18013.99
+376,376,1132,1132,1132,Advanced Degree,Finance and Insurance,144444604,4801,2008,Male,Mississippi,30086.36
+377,377,1133,1133,1133,Unavalble,Finance and Insurance,3976793,672,2008,Male,Mississippi,5917.85
+378,378,1134,1134,1134,All Education Categories,Finance and Insurance,217573919,25156,2008,Female,Mississippi,8648.99
+379,379,1135,1135,1135,Less Than High School,Finance and Insurance,6898274,1126,2008,Female,Mississippi,6126.35
+380,380,1136,1136,1136,High School Graduate,Finance and Insurance,40356743,5566,2008,Female,Mississippi,7250.58
+381,381,1137,1137,1137,Some College,Finance and Insurance,66604083,8025,2008,Female,Mississippi,8299.57
+382,382,1138,1138,1138,Advanced Degree,Finance and Insurance,91116402,7877,2008,Female,Mississippi,11567.4
+383,383,1139,1139,1139,Unavalble,Finance and Insurance,12598416,2562,2008,Female,Mississippi,4917.41
+384,384,1188,1188,1188,All Education Categories,Educational Services,315402171,28457,2008,Male,Mississippi,11083.47
+385,385,1189,1189,1189,Less Than High School,Educational Services,16430552,2311,2008,Male,Mississippi,7109.72
+386,386,1190,1190,1190,High School Graduate,Educational Services,52383987,5974,2008,Male,Mississippi,8768.66
+387,387,1191,1191,1191,Some College,Educational Services,82227869,7985,2008,Male,Mississippi,10297.79
+388,388,1192,1192,1192,Advanced Degree,Educational Services,156343726,10921,2008,Male,Mississippi,14315.88
+389,389,1193,1193,1193,Unavalble,Educational Services,8016037,1266,2008,Male,Mississippi,6331.78
+390,390,1194,1194,1194,All Education Categories,Educational Services,656924327,79766,2008,Female,Mississippi,8235.64
+391,391,1195,1195,1195,Less Than High School,Educational Services,24187208,4791,2008,Female,Mississippi,5048.47
+392,392,1196,1196,1196,High School Graduate,Educational Services,113046828,18168,2008,Female,Mississippi,6222.3
+393,393,1197,1197,1197,Some College,Educational Services,192283611,24468,2008,Female,Mississippi,7858.57
+394,394,1198,1198,1198,Advanced Degree,Educational Services,307942935,29296,2008,Female,Mississippi,10511.43
+395,395,1199,1199,1199,Unavalble,Educational Services,19463744,3043,2008,Female,Mississippi,6396.24
+396,396,1200,1200,1200,All Education Categories,Health Care and Social Assistance,431795050,25400,2008,Male,Mississippi,16999.81
+397,397,1201,1201,1201,Less Than High School,Health Care and Social Assistance,17855448,2308,2008,Male,Mississippi,7736.33
+398,398,1202,1202,1202,High School Graduate,Health Care and Social Assistance,54065344,5234,2008,Male,Mississippi,10329.64
+399,399,1203,1203,1203,Some College,Health Care and Social Assistance,105635317,7473,2008,Male,Mississippi,14135.6
+400,400,1204,1204,1204,Advanced Degree,Health Care and Social Assistance,242882745,8205,2008,Male,Mississippi,29601.8
+401,401,1205,1205,1205,Unavalble,Health Care and Social Assistance,11356196,2180,2008,Male,Mississippi,5209.26
+402,402,1206,1206,1206,All Education Categories,Health Care and Social Assistance,1006046842,124900,2008,Female,Mississippi,8054.82
+403,403,1207,1207,1207,Less Than High School,Health Care and Social Assistance,56978705,10912,2008,Female,Mississippi,5221.66
+404,404,1208,1208,1208,High School Graduate,Health Care and Social Assistance,178414673,28227,2008,Female,Mississippi,6320.71
+405,405,1209,1209,1209,Some College,Health Care and Social Assistance,376078994,46812,2008,Female,Mississippi,8033.82
+406,406,1210,1210,1210,Advanced Degree,Health Care and Social Assistance,342251184,28211,2008,Female,Mississippi,12131.83
+407,407,1211,1211,1211,Unavalble,Health Care and Social Assistance,52323286,10738,2008,Female,Mississippi,4872.72
+408,408,1224,1224,1224,All Education Categories,Accommodation and Food Services,228409052,43611,2008,Male,Mississippi,5237.42
+409,409,1225,1225,1225,Less Than High School,Accommodation and Food Services,34404041,6595,2008,Male,Mississippi,5216.69
+410,410,1226,1226,1226,High School Graduate,Accommodation and Food Services,63187107,10495,2008,Male,Mississippi,6020.69
+411,411,1227,1227,1227,Some College,Accommodation and Food Services,56536026,8018,2008,Male,Mississippi,7051.14
+412,412,1228,1228,1228,Advanced Degree,Accommodation and Food Services,34476374,3089,2008,Male,Mississippi,11161.01
+413,413,1229,1229,1229,Unavalble,Accommodation and Food Services,39805503,15414,2008,Male,Mississippi,2582.43
+414,414,1230,1230,1230,All Education Categories,Accommodation and Food Services,259830690,67885,2008,Female,Mississippi,3827.51
+415,415,1231,1231,1231,Less Than High School,Accommodation and Food Services,38545653,10215,2008,Female,Mississippi,3773.44
+416,416,1232,1232,1232,High School Graduate,Accommodation and Food Services,67521515,15672,2008,Female,Mississippi,4308.42
+417,417,1233,1233,1233,Some College,Accommodation and Food Services,67159639,13700,2008,Female,Mississippi,4902.16
+418,418,1234,1234,1234,Advanced Degree,Accommodation and Food Services,32990576,4924,2008,Female,Mississippi,6699.95
+419,419,1235,1235,1235,Unavalble,Accommodation and Food Services,53613306,23375,2008,Female,Mississippi,2293.62
+420,420,1260,1260,1260,All Education Categories,00,5169884347,508046,2009,Male,Mississippi,10176.02
+421,421,1261,1261,1261,Less Than High School,00,513425822,69892,2009,Male,Mississippi,7345.99
+422,422,1262,1262,1262,High School Graduate,00,1312377084,146319,2009,Male,Mississippi,8969.29
+423,423,1263,1263,1263,Some College,00,1471807463,137978,2009,Male,Mississippi,10666.97
+424,424,1264,1264,1264,Advanced Degree,00,1600663833,91035,2009,Male,Mississippi,17582.95
+425,425,1265,1265,1265,Unavalble,00,271610145,62821,2009,Male,Mississippi,4323.56
+426,426,1266,1266,1266,All Education Categories,00,3695659664,557246,2009,Female,Mississippi,6632.01
+427,427,1267,1267,1267,Less Than High School,00,280776859,59432,2009,Female,Mississippi,4724.34
+428,428,1268,1268,1268,High School Graduate,00,824385568,143944,2009,Female,Mississippi,5727.13
+429,429,1269,1269,1269,Some College,00,1199459586,170611,2009,Female,Mississippi,7030.38
+430,430,1270,1270,1270,Advanced Degree,00,1151673689,111281,2009,Female,Mississippi,10349.24
+431,431,1271,1271,1271,Unavalble,00,239363963,71978,2009,Female,Mississippi,3325.52
+432,432,1320,1320,1320,All Education Categories,Manufacturing,1093409986,104467,2009,Male,Mississippi,10466.56
+433,433,1321,1321,1321,Less Than High School,Manufacturing,131398981,16078,2009,Male,Mississippi,8172.59
+434,434,1322,1322,1322,High School Graduate,Manufacturing,350722439,36138,2009,Male,Mississippi,9705.09
+435,435,1323,1323,1323,Some College,Manufacturing,341682664,30507,2009,Male,Mississippi,11200.14
+436,436,1324,1324,1324,Advanced Degree,Manufacturing,219069150,13166,2009,Male,Mississippi,16639.01
+437,437,1325,1325,1325,Unavalble,Manufacturing,50536751,8579,2009,Male,Mississippi,5890.75
+438,438,1326,1326,1326,All Education Categories,Manufacturing,296422508,44298,2009,Female,Mississippi,6691.56
+439,439,1327,1327,1327,Less Than High School,Manufacturing,37997656,7144,2009,Female,Mississippi,5318.82
+440,440,1328,1328,1328,High School Graduate,Manufacturing,100508880,16180,2009,Female,Mississippi,6211.92
+441,441,1329,1329,1329,Some College,Manufacturing,94913366,13180,2009,Female,Mississippi,7201.32
+442,442,1330,1330,1330,Advanced Degree,Manufacturing,49407881,4746,2009,Female,Mississippi,10410.43
+443,443,1331,1331,1331,Unavalble,Manufacturing,13594726,3048,2009,Female,Mississippi,4460.21
+444,444,1344,1344,1344,All Education Categories,Retail Trade,428292559,60958,2009,Male,Mississippi,7026.03
+445,445,1345,1345,1345,Less Than High School,Retail Trade,49527844,8187,2009,Male,Mississippi,6049.57
+446,446,1346,1346,1346,High School Graduate,Retail Trade,127995167,17460,2009,Male,Mississippi,7330.77
+447,447,1347,1347,1347,Some College,Retail Trade,124538937,14534,2009,Male,Mississippi,8568.8
+448,448,1348,1348,1348,Advanced Degree,Retail Trade,84108352,6631,2009,Male,Mississippi,12684.11
+449,449,1349,1349,1349,Unavalble,Retail Trade,42122260,14146,2009,Male,Mississippi,2977.68
+450,450,1350,1350,1350,All Education Categories,Retail Trade,340537438,79274,2009,Female,Mississippi,4295.7
+451,451,1351,1351,1351,Less Than High School,Retail Trade,43655505,10887,2009,Female,Mississippi,4009.87
+452,452,1352,1352,1352,High School Graduate,Retail Trade,109220923,23852,2009,Female,Mississippi,4579.11
+453,453,1353,1353,1353,Some College,Retail Trade,94564284,18873,2009,Female,Mississippi,5010.56
+454,454,1354,1354,1354,Advanced Degree,Retail Trade,47473750,6828,2009,Female,Mississippi,6952.8
+455,455,1355,1355,1355,Unavalble,Retail Trade,45622976,18835,2009,Female,Mississippi,2422.24
+456,456,1380,1380,1380,All Education Categories,Finance and Insurance,202129112,9611,2009,Male,Mississippi,21031.02
+457,457,1381,1381,1381,Less Than High School,Finance and Insurance,4466536,448,2009,Male,Mississippi,9969.95
+458,458,1382,1382,1382,High School Graduate,Finance and Insurance,20006687,1443,2009,Male,Mississippi,13864.65
+459,459,1383,1383,1383,Some College,Finance and Insurance,41471958,2376,2009,Male,Mississippi,17454.53
+460,460,1384,1384,1384,Advanced Degree,Finance and Insurance,132460780,4715,2009,Male,Mississippi,28093.48
+461,461,1385,1385,1385,Unavalble,Finance and Insurance,3723150,629,2009,Male,Mississippi,5919.16
+462,462,1386,1386,1386,All Education Categories,Finance and Insurance,220998584,25113,2009,Female,Mississippi,8800.17
+463,463,1387,1387,1387,Less Than High School,Finance and Insurance,7418588,1200,2009,Female,Mississippi,6182.16
+464,464,1388,1388,1388,High School Graduate,Finance and Insurance,41706709,5659,2009,Female,Mississippi,7369.98
+465,465,1389,1389,1389,Some College,Finance and Insurance,67869252,8071,2009,Female,Mississippi,8409.03
+466,466,1390,1390,1390,Advanced Degree,Finance and Insurance,92215553,7764,2009,Female,Mississippi,11877.33
+467,467,1391,1391,1391,Unavalble,Finance and Insurance,11788482,2420,2009,Female,Mississippi,4871.27
+468,468,1440,1440,1440,All Education Categories,Educational Services,311675995,29902,2009,Male,Mississippi,10423.25
+469,469,1441,1441,1441,Less Than High School,Educational Services,16922890,2526,2009,Male,Mississippi,6699.48
+470,470,1442,1442,1442,High School Graduate,Educational Services,53776081,6400,2009,Male,Mississippi,8402.51
+471,471,1443,1443,1443,Some College,Educational Services,82370805,8456,2009,Male,Mississippi,9741.11
+472,472,1444,1444,1444,Advanced Degree,Educational Services,152252712,11251,2009,Male,Mississippi,13532.37
+473,473,1445,1445,1445,Unavalble,Educational Services,6353507,1270,2009,Male,Mississippi,5002.76
+474,474,1446,1446,1446,All Education Categories,Educational Services,649864737,84185,2009,Female,Mississippi,7719.48
+475,475,1447,1447,1447,Less Than High School,Educational Services,25381773,5297,2009,Female,Mississippi,4791.73
+476,476,1448,1448,1448,High School Graduate,Educational Services,114483601,19060,2009,Female,Mississippi,6006.48
+477,477,1449,1449,1449,Some College,Educational Services,192791023,26265,2009,Female,Mississippi,7340.23
+478,478,1450,1450,1450,Advanced Degree,Educational Services,300128780,30392,2009,Female,Mississippi,9875.26
+479,479,1451,1451,1451,Unavalble,Educational Services,17079560,3172,2009,Female,Mississippi,5384.48
+480,480,1452,1452,1452,All Education Categories,Health Care and Social Assistance,435711035,27103,2009,Male,Mississippi,16076.12
+481,481,1453,1453,1453,Less Than High School,Health Care and Social Assistance,18899586,2512,2009,Male,Mississippi,7523.72
+482,482,1454,1454,1454,High School Graduate,Health Care and Social Assistance,55556987,5712,2009,Male,Mississippi,9726.36
+483,483,1455,1455,1455,Some College,Health Care and Social Assistance,107146146,8007,2009,Male,Mississippi,13381.56
+484,484,1456,1456,1456,Advanced Degree,Health Care and Social Assistance,243429780,8737,2009,Male,Mississippi,27861.94
+485,485,1457,1457,1457,Unavalble,Health Care and Social Assistance,10678535,2136,2009,Male,Mississippi,4999.31
+486,486,1458,1458,1458,All Education Categories,Health Care and Social Assistance,1010683311,129260,2009,Female,Mississippi,7819.0
+487,487,1459,1459,1459,Less Than High School,Health Care and Social Assistance,60128618,11538,2009,Female,Mississippi,5211.36
+488,488,1460,1460,1460,High School Graduate,Health Care and Social Assistance,183437017,29416,2009,Female,Mississippi,6235.96
+489,489,1461,1461,1461,Some College,Health Care and Social Assistance,377497800,48435,2009,Female,Mississippi,7793.91
+490,490,1462,1462,1462,Advanced Degree,Health Care and Social Assistance,339730315,29612,2009,Female,Mississippi,11472.72
+491,491,1463,1463,1463,Unavalble,Health Care and Social Assistance,49889561,10258,2009,Female,Mississippi,4863.48
+492,492,1476,1476,1476,All Education Categories,Accommodation and Food Services,198740749,40802,2009,Male,Mississippi,4870.86
+493,493,1477,1477,1477,Less Than High School,Accommodation and Food Services,31945251,6366,2009,Male,Mississippi,5018.1
+494,494,1478,1478,1478,High School Graduate,Accommodation and Food Services,57125972,10008,2009,Male,Mississippi,5708.03
+495,495,1479,1479,1479,Some College,Accommodation and Food Services,49368708,7638,2009,Male,Mississippi,6463.56
+496,496,1480,1480,1480,Advanced Degree,Accommodation and Food Services,24846494,2971,2009,Male,Mississippi,8363.01
+497,497,1481,1481,1481,Unavalble,Accommodation and Food Services,35454325,13820,2009,Male,Mississippi,2565.44
+498,498,1482,1482,1482,All Education Categories,Accommodation and Food Services,239614870,63818,2009,Female,Mississippi,3754.66
+499,499,1483,1483,1483,Less Than High School,Accommodation and Food Services,36477090,9716,2009,Female,Mississippi,3754.33
+500,500,1484,1484,1484,High School Graduate,Accommodation and Food Services,62921558,14959,2009,Female,Mississippi,4206.27
+501,501,1485,1485,1485,Some College,Accommodation and Food Services,62573014,13130,2009,Female,Mississippi,4765.65
+502,502,1486,1486,1486,Advanced Degree,Accommodation and Food Services,28661953,4769,2009,Female,Mississippi,6010.06
+503,503,1487,1487,1487,Unavalble,Accommodation and Food Services,48981255,21244,2009,Female,Mississippi,2305.65
+504,504,1512,1512,1512,All Education Categories,00,4956459862,489695,2010,Male,Mississippi,10121.52
+505,505,1513,1513,1513,Less Than High School,00,498478049,67726,2010,Male,Mississippi,7360.22
+506,506,1514,1514,1514,High School Graduate,00,1263863506,141901,2010,Male,Mississippi,8906.66
+507,507,1515,1515,1515,Some College,00,1418657074,134296,2010,Male,Mississippi,10563.66
+508,508,1516,1516,1516,Advanced Degree,00,1536790462,88883,2010,Male,Mississippi,17290.04
+509,509,1517,1517,1517,Unavalble,00,238670771,56889,2010,Male,Mississippi,4195.38
+510,510,1518,1518,1518,All Education Categories,00,3561993821,539163,2010,Female,Mississippi,6606.52
+511,511,1519,1519,1519,Less Than High School,00,281115183,58681,2010,Female,Mississippi,4790.57
+512,512,1520,1520,1520,High School Graduate,00,806463595,140284,2010,Female,Mississippi,5748.79
+513,513,1521,1521,1521,Some College,00,1158309988,165949,2010,Female,Mississippi,6979.92
+514,514,1522,1522,1522,Advanced Degree,00,1103096693,108364,2010,Female,Mississippi,10179.55
+515,515,1523,1523,1523,Unavalble,00,213008362,65885,2010,Female,Mississippi,3233.03
+516,516,1572,1572,1572,All Education Categories,Manufacturing,1031458196,96028,2010,Male,Mississippi,10741.22
+517,517,1573,1573,1573,Less Than High School,Manufacturing,125808755,14944,2010,Male,Mississippi,8418.68
+518,518,1574,1574,1574,High School Graduate,Manufacturing,332237033,33430,2010,Male,Mississippi,9938.29
+519,519,1575,1575,1575,Some College,Manufacturing,323903009,28338,2010,Male,Mississippi,11429.99
+520,520,1576,1576,1576,Advanced Degree,Manufacturing,205837357,12299,2010,Male,Mississippi,16736.11
+521,521,1577,1577,1577,Unavalble,Manufacturing,43672042,7017,2010,Male,Mississippi,6223.75
+522,522,1578,1578,1578,All Education Categories,Manufacturing,276850372,39536,2010,Female,Mississippi,7002.49
+523,523,1579,1579,1579,Less Than High School,Manufacturing,35944362,6397,2010,Female,Mississippi,5618.94
+524,524,1580,1580,1580,High School Graduate,Manufacturing,94269965,14489,2010,Female,Mississippi,6506.31
+525,525,1581,1581,1581,Some College,Manufacturing,88593330,11943,2010,Female,Mississippi,7418.01
+526,526,1582,1582,1582,Advanced Degree,Manufacturing,47297134,4384,2010,Female,Mississippi,10788.58
+527,527,1583,1583,1583,Unavalble,Manufacturing,10745581,2322,2010,Female,Mississippi,4627.73
+528,528,1596,1596,1596,All Education Categories,Retail Trade,424576457,59862,2010,Male,Mississippi,7092.59
+529,529,1597,1597,1597,Less Than High School,Retail Trade,49644498,8156,2010,Male,Mississippi,6086.87
+530,530,1598,1598,1598,High School Graduate,Retail Trade,126714272,17249,2010,Male,Mississippi,7346.18
+531,531,1599,1599,1599,Some College,Retail Trade,124615523,14612,2010,Male,Mississippi,8528.3
+532,532,1600,1600,1600,Advanced Degree,Retail Trade,84271413,6768,2010,Male,Mississippi,12451.45
+533,533,1601,1601,1601,Unavalble,Retail Trade,39330750,13078,2010,Male,Mississippi,3007.4
+534,534,1602,1602,1602,All Education Categories,Retail Trade,336576200,77236,2010,Female,Mississippi,4357.76
+535,535,1603,1603,1603,Less Than High School,Retail Trade,43490029,10672,2010,Female,Mississippi,4075.15
+536,536,1604,1604,1604,High School Graduate,Retail Trade,107941471,23364,2010,Female,Mississippi,4619.99
+537,537,1605,1605,1605,Some College,Retail Trade,94079117,18809,2010,Female,Mississippi,5001.81
+538,538,1606,1606,1606,Advanced Degree,Retail Trade,48898863,7081,2010,Female,Mississippi,6905.64
+539,539,1607,1607,1607,Unavalble,Retail Trade,42166720,17309,2010,Female,Mississippi,2436.12
+540,540,1632,1632,1632,All Education Categories,Finance and Insurance,197672022,9357,2010,Male,Mississippi,21125.58
+541,541,1633,1633,1633,Less Than High School,Finance and Insurance,4641379,480,2010,Male,Mississippi,9669.54
+542,542,1634,1634,1634,High School Graduate,Finance and Insurance,19908336,1460,2010,Male,Mississippi,13635.85
+543,543,1635,1635,1635,Some College,Finance and Insurance,40154806,2341,2010,Male,Mississippi,17152.84
+544,544,1636,1636,1636,Advanced Degree,Finance and Insurance,129833586,4539,2010,Male,Mississippi,28604.01
+545,545,1637,1637,1637,Unavalble,Finance and Insurance,3133915,537,2010,Male,Mississippi,5835.97
+546,546,1638,1638,1638,All Education Categories,Finance and Insurance,209529079,24317,2010,Female,Mississippi,8616.57
+547,547,1639,1639,1639,Less Than High School,Finance and Insurance,7753897,1269,2010,Female,Mississippi,6110.24
+548,548,1640,1640,1640,High School Graduate,Finance and Insurance,40488390,5614,2010,Female,Mississippi,7212.04
+549,549,1641,1641,1641,Some College,Finance and Insurance,65481405,7939,2010,Female,Mississippi,8248.07
+550,550,1642,1642,1642,Advanced Degree,Finance and Insurance,86586896,7505,2010,Female,Mississippi,11537.23
+551,551,1643,1643,1643,Unavalble,Finance and Insurance,9218491,1989,2010,Female,Mississippi,4634.74
+552,552,1692,1692,1692,All Education Categories,Educational Services,326186961,31663,2010,Male,Mississippi,10301.83
+553,553,1693,1693,1693,Less Than High School,Educational Services,19016477,2822,2010,Male,Mississippi,6738.65
+554,554,1694,1694,1694,High School Graduate,Educational Services,57612237,6948,2010,Male,Mississippi,8291.92
+555,555,1695,1695,1695,Some College,Educational Services,86473252,8983,2010,Male,Mississippi,9626.32
+556,556,1696,1696,1696,Advanced Degree,Educational Services,156858968,11559,2010,Male,Mississippi,13570.29
+557,557,1697,1697,1697,Unavalble,Educational Services,6226027,1351,2010,Male,Mississippi,4608.46
+558,558,1698,1698,1698,All Education Categories,Educational Services,668633978,85745,2010,Female,Mississippi,7797.94
+559,559,1699,1699,1699,Less Than High School,Educational Services,28093341,5633,2010,Female,Mississippi,4987.28
+560,560,1700,1700,1700,High School Graduate,Educational Services,119202157,19461,2010,Female,Mississippi,6125.18
+561,561,1701,1701,1701,Some College,Educational Services,199696442,26852,2010,Female,Mississippi,7436.93
+562,562,1702,1702,1702,Advanced Degree,Educational Services,304698301,30508,2010,Female,Mississippi,9987.49
+563,563,1703,1703,1703,Unavalble,Educational Services,16943738,3291,2010,Female,Mississippi,5148.51
+564,564,1704,1704,1704,All Education Categories,Health Care and Social Assistance,413589340,25893,2010,Male,Mississippi,15973.02
+565,565,1705,1705,1705,Less Than High School,Health Care and Social Assistance,19285436,2555,2010,Male,Mississippi,7548.12
+566,566,1706,1706,1706,High School Graduate,Health Care and Social Assistance,54111260,5638,2010,Male,Mississippi,9597.6
+567,567,1707,1707,1707,Some College,Health Care and Social Assistance,101664816,7630,2010,Male,Mississippi,13324.35
+568,568,1708,1708,1708,Advanced Degree,Health Care and Social Assistance,229228969,8125,2010,Male,Mississippi,28212.8
+569,569,1709,1709,1709,Unavalble,Health Care and Social Assistance,9298858,1944,2010,Male,Mississippi,4783.36
+570,570,1710,1710,1710,All Education Categories,Health Care and Social Assistance,938201871,123086,2010,Female,Mississippi,7622.33
+571,571,1711,1711,1711,Less Than High School,Health Care and Social Assistance,61087358,11714,2010,Female,Mississippi,5214.9
+572,572,1712,1712,1712,High School Graduate,Health Care and Social Assistance,177519341,28794,2010,Female,Mississippi,6165.15
+573,573,1713,1713,1713,Some College,Health Care and Social Assistance,350547457,45756,2010,Female,Mississippi,7661.23
+574,574,1714,1714,1714,Advanced Degree,Health Care and Social Assistance,304928616,27390,2010,Female,Mississippi,11132.84
+575,575,1715,1715,1715,Unavalble,Health Care and Social Assistance,44119099,9432,2010,Female,Mississippi,4677.6
+576,576,1728,1728,1728,All Education Categories,Accommodation and Food Services,201702595,41730,2010,Male,Mississippi,4833.52
+577,577,1729,1729,1729,Less Than High School,Accommodation and Food Services,32094118,6487,2010,Male,Mississippi,4947.45
+578,578,1730,1730,1730,High School Graduate,Accommodation and Food Services,57295728,10280,2010,Male,Mississippi,5573.51
+579,579,1731,1731,1731,Some College,Accommodation and Food Services,50230444,7951,2010,Male,Mississippi,6317.5
+580,580,1732,1732,1732,Advanced Degree,Accommodation and Food Services,27399928,3186,2010,Male,Mississippi,8600.1
+581,581,1733,1733,1733,Unavalble,Accommodation and Food Services,34682377,13825,2010,Male,Mississippi,2508.67
+582,582,1734,1734,1734,All Education Categories,Accommodation and Food Services,233477657,62482,2010,Female,Mississippi,3736.72
+583,583,1735,1735,1735,Less Than High School,Accommodation and Food Services,35265238,9451,2010,Female,Mississippi,3731.38
+584,584,1736,1736,1736,High School Graduate,Accommodation and Food Services,61076031,14722,2010,Female,Mississippi,4148.62
+585,585,1737,1737,1737,Some College,Accommodation and Food Services,61059998,13055,2010,Female,Mississippi,4677.14
+586,586,1738,1738,1738,Advanced Degree,Accommodation and Food Services,28889330,4891,2010,Female,Mississippi,5906.63
+587,587,1739,1739,1739,Unavalble,Accommodation and Food Services,47187061,20363,2010,Female,Mississippi,2317.29
+588,588,1764,1764,1764,All Education Categories,00,5135911744,494155,2011,Male,Mississippi,10393.32
+589,589,1765,1765,1765,Less Than High School,00,528150085,69199,2011,Male,Mississippi,7632.34
+590,590,1766,1766,1766,High School Graduate,00,1323082804,143686,2011,Male,Mississippi,9208.15
+591,591,1767,1767,1767,Some College,00,1475218810,135702,2011,Male,Mississippi,10871.02
+592,592,1768,1768,1768,Advanced Degree,00,1564245631,88695,2011,Male,Mississippi,17636.23
+593,593,1769,1769,1769,Unavalble,00,245214413,56874,2011,Male,Mississippi,4311.54
+594,594,1770,1770,1770,All Education Categories,00,3612138227,535742,2011,Female,Mississippi,6742.31
+595,595,1771,1771,1771,Less Than High School,00,296180700,59220,2011,Female,Mississippi,5001.36
+596,596,1772,1772,1772,High School Graduate,00,826507668,139212,2011,Female,Mississippi,5937.04
+597,597,1773,1773,1773,Some College,00,1176975370,165485,2011,Female,Mississippi,7112.28
+598,598,1774,1774,1774,Advanced Degree,00,1102088076,107898,2011,Female,Mississippi,10214.17
+599,599,1775,1775,1775,Unavalble,00,210386414,63927,2011,Female,Mississippi,3291.04
+600,600,1824,1824,1824,All Education Categories,Manufacturing,1102861069,94948,2011,Male,Mississippi,11615.42
+601,601,1825,1825,1825,Less Than High School,Manufacturing,133710800,14820,2011,Male,Mississippi,9022.32
+602,602,1826,1826,1826,High School Graduate,Manufacturing,353413907,32978,2011,Male,Mississippi,10716.66
+603,603,1827,1827,1827,Some College,Manufacturing,347332403,28035,2011,Male,Mississippi,12389.24
+604,604,1828,1828,1828,Advanced Degree,Manufacturing,223661651,12229,2011,Male,Mississippi,18289.45
+605,605,1829,1829,1829,Unavalble,Manufacturing,44742307,6886,2011,Male,Mississippi,6497.58
+606,606,1830,1830,1830,All Education Categories,Manufacturing,285755654,38124,2011,Female,Mississippi,7495.43
+607,607,1831,1831,1831,Less Than High School,Manufacturing,36526092,6156,2011,Female,Mississippi,5933.41
+608,608,1832,1832,1832,High School Graduate,Manufacturing,95360237,13747,2011,Female,Mississippi,6936.8
+609,609,1833,1833,1833,Some College,Manufacturing,91794847,11565,2011,Female,Mississippi,7937.3
+610,610,1834,1834,1834,Advanced Degree,Manufacturing,50855201,4303,2011,Female,Mississippi,11818.55
+611,611,1835,1835,1835,Unavalble,Manufacturing,11219278,2353,2011,Female,Mississippi,4768.07
+612,612,1848,1848,1848,All Education Categories,Retail Trade,442172600,60521,2011,Male,Mississippi,7306.1
+613,613,1849,1849,1849,Less Than High School,Retail Trade,52423509,8229,2011,Male,Mississippi,6370.58
+614,614,1850,1850,1850,High School Graduate,Retail Trade,133030280,17397,2011,Male,Mississippi,7646.74
+615,615,1851,1851,1851,Some College,Retail Trade,129192838,14725,2011,Male,Mississippi,8773.71
+616,616,1852,1852,1852,Advanced Degree,Retail Trade,85632105,6936,2011,Male,Mississippi,12346.04
+617,617,1853,1853,1853,Unavalble,Retail Trade,41893869,13235,2011,Male,Mississippi,3165.38
+618,618,1854,1854,1854,All Education Categories,Retail Trade,350106073,75833,2011,Female,Mississippi,4616.8
+619,619,1855,1855,1855,Less Than High School,Retail Trade,45560155,10381,2011,Female,Mississippi,4388.8
+620,620,1856,1856,1856,High School Graduate,Retail Trade,111803488,22566,2011,Female,Mississippi,4954.51
+621,621,1857,1857,1857,Some College,Retail Trade,98433766,18532,2011,Female,Mississippi,5311.56
+622,622,1858,1858,1858,Advanced Degree,Retail Trade,51485813,7210,2011,Female,Mississippi,7140.89
+623,623,1859,1859,1859,Unavalble,Retail Trade,42822850,17144,2011,Female,Mississippi,2497.83
+624,624,1884,1884,1884,All Education Categories,Finance and Insurance,204504801,9208,2011,Male,Mississippi,22209.47
+625,625,1885,1885,1885,Less Than High School,Finance and Insurance,5335872,513,2011,Male,Mississippi,10401.31
+626,626,1886,1886,1886,High School Graduate,Finance and Insurance,21714203,1504,2011,Male,Mississippi,14437.63
+627,627,1887,1887,1887,Some College,Finance and Insurance,42097733,2316,2011,Male,Mississippi,18176.91
+628,628,1888,1888,1888,Advanced Degree,Finance and Insurance,132396505,4347,2011,Male,Mississippi,30456.98
+629,629,1889,1889,1889,Unavalble,Finance and Insurance,2960488,528,2011,Male,Mississippi,5606.98
+630,630,1890,1890,1890,All Education Categories,Finance and Insurance,210690722,23758,2011,Female,Mississippi,8868.2
+631,631,1891,1891,1891,Less Than High School,Finance and Insurance,8463093,1333,2011,Female,Mississippi,6348.91
+632,632,1892,1892,1892,High School Graduate,Finance and Insurance,41143290,5563,2011,Female,Mississippi,7395.88
+633,633,1893,1893,1893,Some College,Finance and Insurance,65578660,7795,2011,Female,Mississippi,8412.91
+634,634,1894,1894,1894,Advanced Degree,Finance and Insurance,86940607,7265,2011,Female,Mississippi,11967.05
+635,635,1895,1895,1895,Unavalble,Finance and Insurance,8565073,1802,2011,Female,Mississippi,4753.09
+636,636,1944,1944,1944,All Education Categories,Educational Services,325986134,31473,2011,Male,Mississippi,10357.64
+637,637,1945,1945,1945,Less Than High School,Educational Services,20163551,2921,2011,Male,Mississippi,6902.96
+638,638,1946,1946,1946,High School Graduate,Educational Services,59107799,7075,2011,Male,Mississippi,8354.46
+639,639,1947,1947,1947,Some College,Educational Services,87237043,8972,2011,Male,Mississippi,9723.25
+640,640,1948,1948,1948,Advanced Degree,Educational Services,153481958,11226,2011,Male,Mississippi,13672.01
+641,641,1949,1949,1949,Unavalble,Educational Services,5995783,1279,2011,Male,Mississippi,4687.87
+642,642,1950,1950,1950,All Education Categories,Educational Services,653708145,84269,2011,Female,Mississippi,7757.4
+643,643,1951,1951,1951,Less Than High School,Educational Services,29360295,5694,2011,Female,Mississippi,5156.36
+644,644,1952,1952,1952,High School Graduate,Educational Services,118602027,19239,2011,Female,Mississippi,6164.67
+645,645,1953,1953,1953,Some College,Educational Services,197283755,26594,2011,Female,Mississippi,7418.36
+646,646,1954,1954,1954,Advanced Degree,Educational Services,293173348,29850,2011,Female,Mississippi,9821.55
+647,647,1955,1955,1955,Unavalble,Educational Services,15288720,2891,2011,Female,Mississippi,5288.38
+648,648,1956,1956,1956,All Education Categories,Health Care and Social Assistance,417308577,26758,2011,Male,Mississippi,15595.66
+649,649,1957,1957,1957,Less Than High School,Health Care and Social Assistance,21147774,2772,2011,Male,Mississippi,7629.07
+650,650,1958,1958,1958,High School Graduate,Health Care and Social Assistance,56756320,5959,2011,Male,Mississippi,9524.47
+651,651,1959,1959,1959,Some College,Health Care and Social Assistance,103536904,7878,2011,Male,Mississippi,13142.54
+652,652,1960,1960,1960,Advanced Degree,Health Care and Social Assistance,226780800,8162,2011,Male,Mississippi,27784.95
+653,653,1961,1961,1961,Unavalble,Health Care and Social Assistance,9086780,1988,2011,Male,Mississippi,4570.81
+654,654,1962,1962,1962,All Education Categories,Health Care and Social Assistance,957357194,124915,2011,Female,Mississippi,7664.07
+655,655,1963,1963,1963,Less Than High School,Health Care and Social Assistance,65816994,12318,2011,Female,Mississippi,5343.16
+656,656,1964,1964,1964,High School Graduate,Health Care and Social Assistance,184599544,29578,2011,Female,Mississippi,6241.11
+657,657,1965,1965,1965,Some College,Health Care and Social Assistance,355837429,46183,2011,Female,Mississippi,7704.94
+658,658,1966,1966,1966,Advanced Degree,Health Care and Social Assistance,307467895,27744,2011,Female,Mississippi,11082.32
+659,659,1967,1967,1967,Unavalble,Health Care and Social Assistance,43635332,9091,2011,Female,Mississippi,4799.84
+660,660,1980,1980,1980,All Education Categories,Accommodation and Food Services,211986540,42476,2011,Male,Mississippi,4990.74
+661,661,1981,1981,1981,Less Than High School,Accommodation and Food Services,33729896,6629,2011,Male,Mississippi,5088.23
+662,662,1982,1982,1982,High School Graduate,Accommodation and Food Services,60671059,10565,2011,Male,Mississippi,5742.65
+663,663,1983,1983,1983,Some College,Accommodation and Food Services,53269703,8288,2011,Male,Mississippi,6427.33
+664,664,1984,1984,1984,Advanced Degree,Accommodation and Food Services,28771204,3395,2011,Male,Mississippi,8474.58
+665,665,1985,1985,1985,Unavalble,Accommodation and Food Services,35544678,13599,2011,Male,Mississippi,2613.77
+666,666,1986,1986,1986,All Education Categories,Accommodation and Food Services,242351683,62364,2011,Female,Mississippi,3886.08
+667,667,1987,1987,1987,Less Than High School,Accommodation and Food Services,36417560,9373,2011,Female,Mississippi,3885.37
+668,668,1988,1988,1988,High School Graduate,Accommodation and Food Services,63343909,14630,2011,Female,Mississippi,4329.73
+669,669,1989,1989,1989,Some College,Accommodation and Food Services,64323475,13257,2011,Female,Mississippi,4852.04
+670,670,1990,1990,1990,Advanced Degree,Accommodation and Food Services,30420039,5088,2011,Female,Mississippi,5978.78
+671,671,1991,1991,1991,Unavalble,Accommodation and Food Services,47846702,20017,2011,Female,Mississippi,2390.3
+672,672,2016,2016,2016,All Education Categories,00,5585908701,496336,2012,Male,Mississippi,11254.29
+673,673,2017,2017,2017,Less Than High School,00,588990297,70001,2012,Male,Mississippi,8414.03
+674,674,2018,2018,2018,High School Graduate,00,1462577372,145057,2012,Male,Mississippi,10082.78
+675,675,2019,2019,2019,Some College,00,1608903715,135995,2012,Male,Mississippi,11830.61
+676,676,2020,2020,2020,Advanced Degree,00,1652090535,87659,2012,Male,Mississippi,18846.79
+677,677,2021,2021,2021,Unavalble,00,273346782,57625,2012,Male,Mississippi,4743.55
+678,678,2022,2022,2022,All Education Categories,00,3801390160,529530,2012,Female,Mississippi,7178.8
+679,679,2023,2023,2023,Less Than High School,00,326174806,60116,2012,Female,Mississippi,5425.76
+680,680,2024,2024,2024,High School Graduate,00,879894970,138285,2012,Female,Mississippi,6362.91
+681,681,2025,2025,2025,Some College,00,1238184965,162724,2012,Female,Mississippi,7609.11
+682,682,2026,2026,2026,Advanced Degree,00,1132457349,104302,2012,Female,Mississippi,10857.48
+683,683,2027,2027,2027,Unavalble,00,224678071,64104,2012,Female,Mississippi,3504.9
+684,684,2076,2076,2076,All Education Categories,Manufacturing,1196417632,97697,2012,Male,Mississippi,12246.21
+685,685,2077,2077,2077,Less Than High School,Manufacturing,146555489,15198,2012,Male,Mississippi,9643.08
+686,686,2078,2078,2078,High School Graduate,Manufacturing,383553204,33800,2012,Male,Mississippi,11347.73
+687,687,2079,2079,2079,Some College,Manufacturing,374221969,28742,2012,Male,Mississippi,13020.04
+688,688,2080,2080,2080,Advanced Degree,Manufacturing,239000479,12523,2012,Male,Mississippi,19084.92
+689,689,2081,2081,2081,Unavalble,Manufacturing,53086493,7433,2012,Male,Mississippi,7142.0
+690,690,2082,2082,2082,All Education Categories,Manufacturing,311052829,38694,2012,Female,Mississippi,8038.79
+691,691,2083,2083,2083,Less Than High School,Manufacturing,40082795,6182,2012,Female,Mississippi,6483.79
+692,692,2084,2084,2084,High School Graduate,Manufacturing,102927147,13854,2012,Female,Mississippi,7429.42
+693,693,2085,2085,2085,Some College,Manufacturing,100160626,11889,2012,Female,Mississippi,8424.65
+694,694,2086,2086,2086,Advanced Degree,Manufacturing,55569627,4481,2012,Female,Mississippi,12401.17
+695,695,2087,2087,2087,Unavalble,Manufacturing,12312633,2288,2012,Female,Mississippi,5381.4
+696,696,2100,2100,2100,All Education Categories,Retail Trade,472983761,61651,2012,Male,Mississippi,7671.96
+697,697,2101,2101,2101,Less Than High School,Retail Trade,55877007,8405,2012,Male,Mississippi,6648.07
+698,698,2102,2102,2102,High School Graduate,Retail Trade,140687178,17582,2012,Male,Mississippi,8001.77
+699,699,2103,2103,2103,Some College,Retail Trade,138440249,14936,2012,Male,Mississippi,9268.9
+700,700,2104,2104,2104,Advanced Degree,Retail Trade,93005452,7106,2012,Male,Mississippi,13088.3
+701,701,2105,2105,2105,Unavalble,Retail Trade,44973875,13622,2012,Male,Mississippi,3301.56
+702,702,2106,2106,2106,All Education Categories,Retail Trade,369451019,77092,2012,Female,Mississippi,4792.34
+703,703,2107,2107,2107,Less Than High School,Retail Trade,48438699,10588,2012,Female,Mississippi,4574.87
+704,704,2108,2108,2108,High School Graduate,Retail Trade,116498363,22667,2012,Female,Mississippi,5139.56
+705,705,2109,2109,2109,Some College,Retail Trade,104141941,18907,2012,Female,Mississippi,5508.12
+706,706,2110,2110,2110,Advanced Degree,Retail Trade,54748415,7486,2012,Female,Mississippi,7313.44
+707,707,2111,2111,2111,Unavalble,Retail Trade,45623600,17443,2012,Female,Mississippi,2615.58
+708,708,2136,2136,2136,All Education Categories,Finance and Insurance,213430760,9378,2012,Male,Mississippi,22758.66
+709,709,2137,2137,2137,Less Than High School,Finance and Insurance,6270446,583,2012,Male,Mississippi,10755.48
+710,710,2138,2138,2138,High School Graduate,Finance and Insurance,23090812,1603,2012,Male,Mississippi,14404.75
+711,711,2139,2139,2139,Some College,Finance and Insurance,44428640,2387,2012,Male,Mississippi,18612.75
+712,712,2140,2140,2140,Advanced Degree,Finance and Insurance,136673751,4309,2012,Male,Mississippi,31718.21
+713,713,2141,2141,2141,Unavalble,Finance and Insurance,2967111,496,2012,Male,Mississippi,5982.08
+714,714,2142,2142,2142,All Education Categories,Finance and Insurance,221147489,23567,2012,Female,Mississippi,9383.78
+715,715,2143,2143,2143,Less Than High School,Finance and Insurance,9745239,1459,2012,Female,Mississippi,6679.4
+716,716,2144,2144,2144,High School Graduate,Finance and Insurance,43502498,5603,2012,Female,Mississippi,7764.14
+717,717,2145,2145,2145,Some College,Finance and Insurance,69399633,7802,2012,Female,Mississippi,8895.11
+718,718,2146,2146,2146,Advanced Degree,Finance and Insurance,90561398,7109,2012,Female,Mississippi,12738.98
+719,719,2147,2147,2147,Unavalble,Finance and Insurance,7938721,1594,2012,Female,Mississippi,4980.38
+720,720,2196,2196,2196,All Education Categories,Educational Services,345216292,30061,2012,Male,Mississippi,11483.86
+721,721,2197,2197,2197,Less Than High School,Educational Services,23274493,2860,2012,Male,Mississippi,8137.93
+722,722,2198,2198,2198,High School Graduate,Educational Services,65827997,6884,2012,Male,Mississippi,9562.46
+723,723,2199,2199,2199,Some College,Educational Services,93464737,8547,2012,Male,Mississippi,10935.39
+724,724,2200,2200,2200,Advanced Degree,Educational Services,155845100,10543,2012,Male,Mississippi,14781.86
+725,725,2201,2201,2201,Unavalble,Educational Services,6803964,1227,2012,Male,Mississippi,5545.2
+726,726,2202,2202,2202,All Education Categories,Educational Services,662129657,77833,2012,Female,Mississippi,8507.06
+727,727,2203,2203,2203,Less Than High School,Educational Services,32553010,5478,2012,Female,Mississippi,5942.5
+728,728,2204,2204,2204,High School Graduate,Educational Services,122899202,17935,2012,Female,Mississippi,6852.48
+729,729,2205,2205,2205,Some College,Educational Services,201236298,24537,2012,Female,Mississippi,8201.34
+730,730,2206,2206,2206,Advanced Degree,Educational Services,288833001,27081,2012,Female,Mississippi,10665.52
+731,731,2207,2207,2207,Unavalble,Educational Services,16608146,2803,2012,Female,Mississippi,5925.13
+732,732,2208,2208,2208,All Education Categories,Health Care and Social Assistance,447182732,26273,2012,Male,Mississippi,17020.62
+733,733,2209,2209,2209,Less Than High School,Health Care and Social Assistance,23671557,2783,2012,Male,Mississippi,8505.77
+734,734,2210,2210,2210,High School Graduate,Health Care and Social Assistance,62356211,5913,2012,Male,Mississippi,10545.61
+735,735,2211,2211,2211,Some College,Health Care and Social Assistance,110711983,7687,2012,Male,Mississippi,14402.5
+736,736,2212,2212,2212,Advanced Degree,Health Care and Social Assistance,240952283,7903,2012,Male,Mississippi,30488.71
+737,737,2213,2213,2213,Unavalble,Health Care and Social Assistance,9490699,1987,2012,Male,Mississippi,4776.4
+738,738,2214,2214,2214,All Education Categories,Health Care and Social Assistance,1007144251,123156,2012,Female,Mississippi,8177.79
+739,739,2215,2215,2215,Less Than High School,Health Care and Social Assistance,73333310,12571,2012,Female,Mississippi,5833.53
+740,740,2216,2216,2216,High School Graduate,Health Care and Social Assistance,198360770,29643,2012,Female,Mississippi,6691.66
+741,741,2217,2217,2217,Some College,Health Care and Social Assistance,372245279,45113,2012,Female,Mississippi,8251.4
+742,742,2218,2218,2218,Advanced Degree,Health Care and Social Assistance,318224270,26860,2012,Female,Mississippi,11847.52
+743,743,2219,2219,2219,Unavalble,Health Care and Social Assistance,44980622,8969,2012,Female,Mississippi,5015.12
+744,744,2232,2232,2232,All Education Categories,Accommodation and Food Services,225778391,42920,2012,Male,Mississippi,5260.45
+745,745,2233,2233,2233,Less Than High School,Accommodation and Food Services,36518148,6800,2012,Male,Mississippi,5370.32
+746,746,2234,2234,2234,High School Graduate,Accommodation and Food Services,64376582,10687,2012,Male,Mississippi,6023.82
+747,747,2235,2235,2235,Some College,Accommodation and Food Services,56643264,8452,2012,Male,Mississippi,6701.76
+748,748,2236,2236,2236,Advanced Degree,Accommodation and Food Services,29612053,3464,2012,Male,Mississippi,8548.51
+749,749,2237,2237,2237,Unavalble,Accommodation and Food Services,38628343,13517,2012,Male,Mississippi,2857.76
+750,750,2238,2238,2238,All Education Categories,Accommodation and Food Services,260042384,63462,2012,Female,Mississippi,4097.61
+751,751,2239,2239,2239,Less Than High School,Accommodation and Food Services,39154229,9564,2012,Female,Mississippi,4093.92
+752,752,2240,2240,2240,High School Graduate,Accommodation and Food Services,67267343,14768,2012,Female,Mississippi,4554.94
+753,753,2241,2241,2241,Some College,Accommodation and Food Services,67926022,13374,2012,Female,Mississippi,5078.96
+754,754,2242,2242,2242,Advanced Degree,Accommodation and Food Services,31947120,5204,2012,Female,Mississippi,6138.95
+755,755,2243,2243,2243,Unavalble,Accommodation and Food Services,53747670,20552,2012,Female,Mississippi,2615.2
+756,756,3192,3192,3192,All Education Categories,Educational Services,253958484,29476,2004,Male,Mississippi,8615.77
+757,757,3193,3193,3193,Less Than High School,Educational Services,13684796,2490,2004,Male,Mississippi,5495.9
+758,758,3194,3194,3194,High School Graduate,Educational Services,41575819,5996,2004,Male,Mississippi,6933.93
+759,759,3195,3195,3195,Some College,Educational Services,63572964,7862,2004,Male,Mississippi,8086.11
+760,760,3196,3196,3196,Advanced Degree,Educational Services,129067521,11538,2004,Male,Mississippi,11186.3
+761,761,3197,3197,3197,Unavalble,Educational Services,6057383,1590,2004,Male,Mississippi,3809.67
+762,762,3198,3198,3198,All Education Categories,Educational Services,516437440,82284,2004,Female,Mississippi,6276.28
+763,763,3199,3199,3199,Less Than High School,Educational Services,19104891,5048,2004,Female,Mississippi,3784.65
+764,764,3200,3200,3200,High School Graduate,Educational Services,89183141,18575,2004,Female,Mississippi,4801.25
+765,765,3201,3201,3201,Some College,Educational Services,142889011,24235,2004,Female,Mississippi,5895.98
+766,766,3202,3202,3202,Advanced Degree,Educational Services,247290657,30248,2004,Female,Mississippi,8175.44
+767,767,3203,3203,3203,Unavalble,Educational Services,17969740,4178,2004,Female,Mississippi,4301.04
+768,768,3288,3288,3288,All Education Categories,Accommodation,116693963,15516,2004,Male,Mississippi,7520.88
+769,769,3289,3289,3289,Less Than High School,Accommodation,18086514,2765,2004,Male,Mississippi,6541.23
+770,770,3290,3290,3290,High School Graduate,Accommodation,35930138,4828,2004,Male,Mississippi,7442.03
+771,771,3291,3291,3291,Some College,Accommodation,34085244,3988,2004,Male,Mississippi,8546.95
+772,772,3292,3292,3292,Advanced Degree,Accommodation,19980579,1740,2004,Male,Mississippi,11483.09
+773,773,3293,3293,3293,Unavalble,Accommodation,8611488,2195,2004,Male,Mississippi,3923.23
+774,774,3294,3294,3294,All Education Categories,Accommodation,126696429,23371,2004,Female,Mississippi,5421.1
+775,775,3295,3295,3295,Less Than High School,Accommodation,18768375,4149,2004,Female,Mississippi,4523.59
+776,776,3296,3296,3296,High School Graduate,Accommodation,36102301,6841,2004,Female,Mississippi,5277.34
+777,777,3297,3297,3297,Some College,Accommodation,39186881,6519,2004,Female,Mississippi,6011.18
+778,778,3298,3298,3298,Advanced Degree,Accommodation,20578695,2613,2004,Female,Mississippi,7875.51
+779,779,3299,3299,3299,Unavalble,Accommodation,12060177,3249,2004,Female,Mississippi,3711.97
+780,780,4368,4368,4368,All Education Categories,Educational Services,267001190,29682,2005,Male,Mississippi,8995.39
+781,781,4369,4369,4369,Less Than High School,Educational Services,13582663,2421,2005,Male,Mississippi,5610.35
+782,782,4370,4370,4370,High School Graduate,Educational Services,43205488,6023,2005,Male,Mississippi,7173.42
+783,783,4371,4371,4371,Some College,Educational Services,67479370,8006,2005,Male,Mississippi,8428.6
+784,784,4372,4372,4372,Advanced Degree,Educational Services,135413798,11612,2005,Male,Mississippi,11661.54
+785,785,4373,4373,4373,Unavalble,Educational Services,7319871,1619,2005,Male,Mississippi,4521.23
+786,786,4374,4374,4374,All Education Categories,Educational Services,554185753,83477,2005,Female,Mississippi,6638.78
+787,787,4375,4375,4375,Less Than High School,Educational Services,19465033,4959,2005,Female,Mississippi,3925.19
+788,788,4376,4376,4376,High School Graduate,Educational Services,93896263,18683,2005,Female,Mississippi,5025.76
+789,789,4377,4377,4377,Some College,Educational Services,154750907,24889,2005,Female,Mississippi,6217.64
+790,790,4378,4378,4378,Advanced Degree,Educational Services,266431608,30784,2005,Female,Mississippi,8654.87
+791,791,4379,4379,4379,Unavalble,Educational Services,19641942,4161,2005,Female,Mississippi,4720.49
+792,792,4464,4464,4464,All Education Categories,Accommodation,116283708,15470,2005,Male,Mississippi,7516.72
+793,793,4465,4465,4465,Less Than High School,Accommodation,17419925,2788,2005,Male,Mississippi,6248.18
+794,794,4466,4466,4466,High School Graduate,Accommodation,35245909,4926,2005,Male,Mississippi,7155.08
+795,795,4467,4467,4467,Some College,Accommodation,34253588,4047,2005,Male,Mississippi,8463.95
+796,796,4468,4468,4468,Advanced Degree,Accommodation,21699369,1737,2005,Male,Mississippi,12492.44
+797,797,4469,4469,4469,Unavalble,Accommodation,7664916,1972,2005,Male,Mississippi,3886.87
+798,798,4470,4470,4470,All Education Categories,Accommodation,121225783,22958,2005,Female,Mississippi,5280.33
+799,799,4471,4471,4471,Less Than High School,Accommodation,17994818,4106,2005,Female,Mississippi,4382.57
+800,800,4472,4472,4472,High School Graduate,Accommodation,34947852,6826,2005,Female,Mississippi,5119.81
+801,801,4473,4473,4473,Some College,Accommodation,37868934,6456,2005,Female,Mississippi,5865.7
+802,802,4474,4474,4474,Advanced Degree,Accommodation,19788387,2552,2005,Female,Mississippi,7754.07
+803,803,4475,4475,4475,Unavalble,Accommodation,10625793,3018,2005,Female,Mississippi,3520.81
+804,804,5544,5544,5544,All Education Categories,Educational Services,282826544,29294,2006,Male,Mississippi,9654.76
+805,805,5545,5545,5545,Less Than High School,Educational Services,14099616,2329,2006,Male,Mississippi,6053.94
+806,806,5546,5546,5546,High School Graduate,Educational Services,45817421,5958,2006,Male,Mississippi,7690.07
+807,807,5547,5547,5547,Some College,Educational Services,72610887,8061,2006,Male,Mississippi,9007.68
+808,808,5548,5548,5548,Advanced Degree,Educational Services,144137781,11595,2006,Male,Mississippi,12431.03
+809,809,5549,5549,5549,Unavalble,Educational Services,6160840,1351,2006,Male,Mississippi,4560.21
+810,810,5550,5550,5550,All Education Categories,Educational Services,593438268,83005,2006,Female,Mississippi,7149.43
+811,811,5551,5551,5551,Less Than High School,Educational Services,20306532,4849,2006,Female,Mississippi,4187.78
+812,812,5552,5552,5552,High School Graduate,Educational Services,100341759,18628,2006,Female,Mississippi,5386.61
+813,813,5553,5553,5553,Some College,Educational Services,168010494,25056,2006,Female,Mississippi,6705.4
+814,814,5554,5554,5554,Advanced Degree,Educational Services,287671414,30905,2006,Female,Mississippi,9308.25
+815,815,5555,5555,5555,Unavalble,Educational Services,17108070,3567,2006,Female,Mississippi,4796.21
+816,816,5640,5640,5640,All Education Categories,Accommodation,92061653,9916,2006,Male,Mississippi,9284.15
+817,817,5641,5641,5641,Less Than High School,Accommodation,14327521,1859,2006,Male,Mississippi,7707.11
+818,818,5642,5642,5642,High School Graduate,Accommodation,29163906,3278,2006,Male,Mississippi,8896.86
+819,819,5643,5643,5643,Some College,Accommodation,26048461,2584,2006,Male,Mississippi,10080.67
+820,820,5644,5644,5644,Advanced Degree,Accommodation,16900981,1101,2006,Male,Mississippi,15350.57
+821,821,5645,5645,5645,Unavalble,Accommodation,5620784,1095,2006,Male,Mississippi,5133.14
+822,822,5646,5646,5646,All Education Categories,Accommodation,100919105,16090,2006,Female,Mississippi,6272.16
+823,823,5647,5647,5647,Less Than High School,Accommodation,15411215,3081,2006,Female,Mississippi,5002.02
+824,824,5648,5648,5648,High School Graduate,Accommodation,29137327,4857,2006,Female,Mississippi,5999.04
+825,825,5649,5649,5649,Some College,Accommodation,31629713,4485,2006,Female,Mississippi,7052.33
+826,826,5650,5650,5650,Advanced Degree,Accommodation,16356647,1616,2006,Female,Mississippi,10121.69
+827,827,5651,5651,5651,Unavalble,Accommodation,8384202,2051,2006,Female,Mississippi,4087.86
+828,828,6720,6720,6720,All Education Categories,Educational Services,289585352,29572,2007,Male,Mississippi,9792.55
+829,829,6721,6721,6721,Less Than High School,Educational Services,14515456,2337,2007,Male,Mississippi,6211.15
+830,830,6722,6722,6722,High School Graduate,Educational Services,47408952,6054,2007,Male,Mississippi,7831.01
+831,831,6723,6723,6723,Some College,Educational Services,74993611,8200,2007,Male,Mississippi,9145.56
+832,832,6724,6724,6724,Advanced Degree,Educational Services,146269937,11618,2007,Male,Mississippi,12589.94
+833,833,6725,6725,6725,Unavalble,Educational Services,6397397,1362,2007,Male,Mississippi,4697.06
+834,834,6726,6726,6726,All Education Categories,Educational Services,607386662,83213,2007,Female,Mississippi,7299.18
+835,835,6727,6727,6727,Less Than High School,Educational Services,21184747,4866,2007,Female,Mississippi,4353.63
+836,836,6728,6728,6728,High School Graduate,Educational Services,103205707,18596,2007,Female,Mississippi,5549.89
+837,837,6729,6729,6729,Some College,Educational Services,174669183,25391,2007,Female,Mississippi,6879.18
+838,838,6730,6730,6730,Advanced Degree,Educational Services,291547875,30937,2007,Female,Mississippi,9423.92
+839,839,6731,6731,6731,Unavalble,Educational Services,16779150,3422,2007,Female,Mississippi,4903.32
+840,840,6816,6816,6816,All Education Categories,Accommodation,103553163,13451,2007,Male,Mississippi,7698.55
+841,841,6817,6817,6817,Less Than High School,Accommodation,16162154,2445,2007,Male,Mississippi,6610.29
+842,842,6818,6818,6818,High School Graduate,Accommodation,32639370,4342,2007,Male,Mississippi,7517.13
+843,843,6819,6819,6819,Some College,Accommodation,30002212,3488,2007,Male,Mississippi,8601.55
+844,844,6820,6820,6820,Advanced Degree,Accommodation,17571545,1450,2007,Male,Mississippi,12118.31
+845,845,6821,6821,6821,Unavalble,Accommodation,7177882,1726,2007,Male,Mississippi,4158.68
+846,846,6822,6822,6822,All Education Categories,Accommodation,115450179,20447,2007,Female,Mississippi,5646.31
+847,847,6823,6823,6823,Less Than High School,Accommodation,17600002,3747,2007,Female,Mississippi,4697.09
+848,848,6824,6824,6824,High School Graduate,Accommodation,33727119,6144,2007,Female,Mississippi,5489.44
+849,849,6825,6825,6825,Some College,Accommodation,36316908,5768,2007,Female,Mississippi,6296.27
+850,850,6826,6826,6826,Advanced Degree,Accommodation,18587000,2221,2007,Female,Mississippi,8368.75
+851,851,6827,6827,6827,Unavalble,Accommodation,9219150,2568,2007,Female,Mississippi,3590.01
+852,852,7908,7908,7908,All Education Categories,Educational Services,315402171,28457,2008,Male,Mississippi,11083.47
+853,853,7909,7909,7909,Less Than High School,Educational Services,16430552,2311,2008,Male,Mississippi,7109.72
+854,854,7910,7910,7910,High School Graduate,Educational Services,52383987,5974,2008,Male,Mississippi,8768.66
+855,855,7911,7911,7911,Some College,Educational Services,82227869,7985,2008,Male,Mississippi,10297.79
+856,856,7912,7912,7912,Advanced Degree,Educational Services,156343726,10921,2008,Male,Mississippi,14315.88
+857,857,7913,7913,7913,Unavalble,Educational Services,8016037,1266,2008,Male,Mississippi,6331.78
+858,858,7914,7914,7914,All Education Categories,Educational Services,656924327,79766,2008,Female,Mississippi,8235.64
+859,859,7915,7915,7915,Less Than High School,Educational Services,24187208,4791,2008,Female,Mississippi,5048.47
+860,860,7916,7916,7916,High School Graduate,Educational Services,113046828,18168,2008,Female,Mississippi,6222.3
+861,861,7917,7917,7917,Some College,Educational Services,192283611,24468,2008,Female,Mississippi,7858.57
+862,862,7918,7918,7918,Advanced Degree,Educational Services,307942935,29296,2008,Female,Mississippi,10511.43
+863,863,7919,7919,7919,Unavalble,Educational Services,19463744,3043,2008,Female,Mississippi,6396.24
+864,864,8004,8004,8004,All Education Categories,Accommodation,120096129,14525,2008,Male,Mississippi,8268.24
+865,865,8005,8005,8005,Less Than High School,Accommodation,18051527,2660,2008,Male,Mississippi,6786.29
+866,866,8006,8006,8006,High School Graduate,Accommodation,36437107,4728,2008,Male,Mississippi,7706.66
+867,867,8007,8007,8007,Some College,Accommodation,34347827,3781,2008,Male,Mississippi,9084.32
+868,868,8008,8008,8008,Advanced Degree,Accommodation,23682805,1560,2008,Male,Mississippi,15181.29
+869,869,8009,8009,8009,Unavalble,Accommodation,7576862,1796,2008,Male,Mississippi,4218.74
+870,870,8010,8010,8010,All Education Categories,Accommodation,126960892,21673,2008,Female,Mississippi,5858.02
+871,871,8011,8011,8011,Less Than High School,Accommodation,19309881,4019,2008,Female,Mississippi,4804.65
+872,872,8012,8012,8012,High School Graduate,Accommodation,36695793,6520,2008,Female,Mississippi,5628.19
+873,873,8013,8013,8013,Some College,Accommodation,39125883,6130,2008,Female,Mississippi,6382.69
+874,874,8014,8014,8014,Advanced Degree,Accommodation,21714640,2381,2008,Female,Mississippi,9119.97
+875,875,8015,8015,8015,Unavalble,Accommodation,10114695,2623,2008,Female,Mississippi,3856.16
+876,876,9096,9096,9096,All Education Categories,Educational Services,311675995,29902,2009,Male,Mississippi,10423.25
+877,877,9097,9097,9097,Less Than High School,Educational Services,16922890,2526,2009,Male,Mississippi,6699.48
+878,878,9098,9098,9098,High School Graduate,Educational Services,53776081,6400,2009,Male,Mississippi,8402.51
+879,879,9099,9099,9099,Some College,Educational Services,82370805,8456,2009,Male,Mississippi,9741.11
+880,880,9100,9100,9100,Advanced Degree,Educational Services,152252712,11251,2009,Male,Mississippi,13532.37
+881,881,9101,9101,9101,Unavalble,Educational Services,6353507,1270,2009,Male,Mississippi,5002.76
+882,882,9102,9102,9102,All Education Categories,Educational Services,649864737,84185,2009,Female,Mississippi,7719.48
+883,883,9103,9103,9103,Less Than High School,Educational Services,25381773,5297,2009,Female,Mississippi,4791.73
+884,884,9104,9104,9104,High School Graduate,Educational Services,114483601,19060,2009,Female,Mississippi,6006.48
+885,885,9105,9105,9105,Some College,Educational Services,192791023,26265,2009,Female,Mississippi,7340.23
+886,886,9106,9106,9106,Advanced Degree,Educational Services,300128780,30392,2009,Female,Mississippi,9875.26
+887,887,9107,9107,9107,Unavalble,Educational Services,17079560,3172,2009,Female,Mississippi,5384.48
+888,888,9192,9192,9192,All Education Categories,Accommodation,94469493,12977,2009,Male,Mississippi,7279.76
+889,889,9193,9193,9193,Less Than High School,Accommodation,15627741,2415,2009,Male,Mississippi,6471.11
+890,890,9194,9194,9194,High School Graduate,Accommodation,30928360,4285,2009,Male,Mississippi,7217.82
+891,891,9195,9195,9195,Some College,Accommodation,27689959,3409,2009,Male,Mississippi,8122.6
+892,892,9196,9196,9196,Advanced Degree,Accommodation,14585849,1402,2009,Male,Mississippi,10403.6
+893,893,9197,9197,9197,Unavalble,Accommodation,5637585,1466,2009,Male,Mississippi,3845.56
+894,894,9198,9198,9198,All Education Categories,Accommodation,108754548,19657,2009,Female,Mississippi,5532.61
+895,895,9199,9199,9199,Less Than High School,Accommodation,17172275,3680,2009,Female,Mississippi,4666.38
+896,896,9200,9200,9200,High School Graduate,Accommodation,32110738,5985,2009,Female,Mississippi,5365.2
+897,897,9201,9201,9201,Some College,Accommodation,34486515,5658,2009,Female,Mississippi,6095.18
+898,898,9202,9202,9202,Advanced Degree,Accommodation,17514236,2205,2009,Female,Mississippi,7942.96
+899,899,9203,9203,9203,Unavalble,Accommodation,7470784,2130,2009,Female,Mississippi,3507.41
+900,900,10284,10284,10284,All Education Categories,Educational Services,326186961,31663,2010,Male,Mississippi,10301.83
+901,901,10285,10285,10285,Less Than High School,Educational Services,19016477,2822,2010,Male,Mississippi,6738.65
+902,902,10286,10286,10286,High School Graduate,Educational Services,57612237,6948,2010,Male,Mississippi,8291.92
+903,903,10287,10287,10287,Some College,Educational Services,86473252,8983,2010,Male,Mississippi,9626.32
+904,904,10288,10288,10288,Advanced Degree,Educational Services,156858968,11559,2010,Male,Mississippi,13570.29
+905,905,10289,10289,10289,Unavalble,Educational Services,6226027,1351,2010,Male,Mississippi,4608.46
+906,906,10290,10290,10290,All Education Categories,Educational Services,668633978,85745,2010,Female,Mississippi,7797.94
+907,907,10291,10291,10291,Less Than High School,Educational Services,28093341,5633,2010,Female,Mississippi,4987.28
+908,908,10292,10292,10292,High School Graduate,Educational Services,119202157,19461,2010,Female,Mississippi,6125.18
+909,909,10293,10293,10293,Some College,Educational Services,199696442,26852,2010,Female,Mississippi,7436.93
+910,910,10294,10294,10294,Advanced Degree,Educational Services,304698301,30508,2010,Female,Mississippi,9987.49
+911,911,10295,10295,10295,Unavalble,Educational Services,16943738,3291,2010,Female,Mississippi,5148.51
+912,912,10380,10380,10380,All Education Categories,Accommodation,90144709,11973,2010,Male,Mississippi,7529.0
+913,913,10381,10381,10381,Less Than High School,Accommodation,14738321,2250,2010,Male,Mississippi,6550.36
+914,914,10382,10382,10382,High School Graduate,Accommodation,28906365,3977,2010,Male,Mississippi,7268.38
+915,915,10383,10383,10383,Some College,Accommodation,26563885,3199,2010,Male,Mississippi,8303.81
+916,916,10384,10384,10384,Advanced Degree,Accommodation,15305851,1342,2010,Male,Mississippi,11405.25
+917,917,10385,10385,10385,Unavalble,Accommodation,4630288,1206,2010,Male,Mississippi,3839.38
+918,918,10386,10386,10386,All Education Categories,Accommodation,99826251,18232,2010,Female,Mississippi,5475.33
+919,919,10387,10387,10387,Less Than High School,Accommodation,15628461,3424,2010,Female,Mississippi,4564.39
+920,920,10388,10388,10388,High School Graduate,Accommodation,29397564,5608,2010,Female,Mississippi,5242.08
+921,921,10389,10389,10389,Some College,Accommodation,31886393,5352,2010,Female,Mississippi,5957.85
+922,922,10390,10390,10390,Advanced Degree,Accommodation,17001941,2137,2010,Female,Mississippi,7955.99
+923,923,10391,10391,10391,Unavalble,Accommodation,5911892,1710,2010,Female,Mississippi,3457.25
+924,924,11460,11460,11460,All Education Categories,Educational Services,325986134,31473,2011,Male,Mississippi,10357.64
+925,925,11461,11461,11461,Less Than High School,Educational Services,20163551,2921,2011,Male,Mississippi,6902.96
+926,926,11462,11462,11462,High School Graduate,Educational Services,59107799,7075,2011,Male,Mississippi,8354.46
+927,927,11463,11463,11463,Some College,Educational Services,87237043,8972,2011,Male,Mississippi,9723.25
+928,928,11464,11464,11464,Advanced Degree,Educational Services,153481958,11226,2011,Male,Mississippi,13672.01
+929,929,11465,11465,11465,Unavalble,Educational Services,5995783,1279,2011,Male,Mississippi,4687.87
+930,930,11466,11466,11466,All Education Categories,Educational Services,653708145,84269,2011,Female,Mississippi,7757.4
+931,931,11467,11467,11467,Less Than High School,Educational Services,29360295,5694,2011,Female,Mississippi,5156.36
+932,932,11468,11468,11468,High School Graduate,Educational Services,118602027,19239,2011,Female,Mississippi,6164.67
+933,933,11469,11469,11469,Some College,Educational Services,197283755,26594,2011,Female,Mississippi,7418.36
+934,934,11470,11470,11470,Advanced Degree,Educational Services,293173348,29850,2011,Female,Mississippi,9821.55
+935,935,11471,11471,11471,Unavalble,Educational Services,15288720,2891,2011,Female,Mississippi,5288.38
+936,936,11556,11556,11556,All Education Categories,Accommodation,97887493,12755,2011,Male,Mississippi,7674.44
+937,937,11557,11557,11557,Less Than High School,Accommodation,15805540,2343,2011,Male,Mississippi,6745.86
+938,938,11558,11558,11558,High School Graduate,Accommodation,31606293,4239,2011,Male,Mississippi,7456.07
+939,939,11559,11559,11559,Some College,Accommodation,29137969,3459,2011,Male,Mississippi,8423.81
+940,940,11560,11560,11560,Advanced Degree,Accommodation,16485053,1464,2011,Male,Mississippi,11260.28
+941,941,11561,11561,11561,Unavalble,Accommodation,4852638,1250,2011,Male,Mississippi,3882.11
+942,942,11562,11562,11562,All Education Categories,Accommodation,107395124,18785,2011,Female,Mississippi,5717.07
+943,943,11563,11563,11563,Less Than High School,Accommodation,16823868,3499,2011,Female,Mississippi,4808.19
+944,944,11564,11564,11564,High School Graduate,Accommodation,31769707,5733,2011,Female,Mississippi,5541.55
+945,945,11565,11565,11565,Some College,Accommodation,34867781,5612,2011,Female,Mississippi,6213.08
+946,946,11566,11566,11566,Advanced Degree,Accommodation,18045925,2264,2011,Female,Mississippi,7970.81
+947,947,11567,11567,11567,Unavalble,Accommodation,5887842,1677,2011,Female,Mississippi,3510.94
+948,948,12636,12636,12636,All Education Categories,Educational Services,345216292,30061,2012,Male,Mississippi,11483.86
+949,949,12637,12637,12637,Less Than High School,Educational Services,23274493,2860,2012,Male,Mississippi,8137.93
+950,950,12638,12638,12638,High School Graduate,Educational Services,65827997,6884,2012,Male,Mississippi,9562.46
+951,951,12639,12639,12639,Some College,Educational Services,93464737,8547,2012,Male,Mississippi,10935.39
+952,952,12640,12640,12640,Advanced Degree,Educational Services,155845100,10543,2012,Male,Mississippi,14781.86
+953,953,12641,12641,12641,Unavalble,Educational Services,6803964,1227,2012,Male,Mississippi,5545.2
+954,954,12642,12642,12642,All Education Categories,Educational Services,662129657,77833,2012,Female,Mississippi,8507.06
+955,955,12643,12643,12643,Less Than High School,Educational Services,32553010,5478,2012,Female,Mississippi,5942.5
+956,956,12644,12644,12644,High School Graduate,Educational Services,122899202,17935,2012,Female,Mississippi,6852.48
+957,957,12645,12645,12645,Some College,Educational Services,201236298,24537,2012,Female,Mississippi,8201.34
+958,958,12646,12646,12646,Advanced Degree,Educational Services,288833001,27081,2012,Female,Mississippi,10665.52
+959,959,12647,12647,12647,Unavalble,Educational Services,16608146,2803,2012,Female,Mississippi,5925.13
+960,960,12732,12732,12732,All Education Categories,Accommodation,101753457,12885,2012,Male,Mississippi,7897.05
+961,961,12733,12733,12733,Less Than High School,Accommodation,16485685,2367,2012,Male,Mississippi,6964.8
+962,962,12734,12734,12734,High School Graduate,Accommodation,32941988,4274,2012,Male,Mississippi,7707.53
+963,963,12735,12735,12735,Some College,Accommodation,30297641,3503,2012,Male,Mississippi,8649.06
+964,964,12736,12736,12736,Advanced Degree,Accommodation,16966619,1497,2012,Male,Mississippi,11333.75
+965,965,12737,12737,12737,Unavalble,Accommodation,5061523,1244,2012,Male,Mississippi,4068.75
+966,966,12738,12738,12738,All Education Categories,Accommodation,111624525,18804,2012,Female,Mississippi,5936.21
+967,967,12739,12739,12739,Less Than High School,Accommodation,17726126,3526,2012,Female,Mississippi,5027.26
+968,968,12740,12740,12740,High School Graduate,Accommodation,32833873,5701,2012,Female,Mississippi,5759.32
+969,969,12741,12741,12741,Some College,Accommodation,35892937,5551,2012,Female,Mississippi,6466.03
+970,970,12742,12742,12742,Advanced Degree,Accommodation,18638910,2256,2012,Female,Mississippi,8261.93
+971,971,12743,12743,12743,Unavalble,Accommodation,6532679,1770,2012,Female,Mississippi,3690.78
+972,972,15852,15852,15852,All Education Categories,"Colleges, Universities, and Professional Schools",101005194,8514,2004,Male,Mississippi,11863.42
+973,973,15853,15853,15853,Less Than High School,"Colleges, Universities, and Professional Schools",3613082,505,2004,Male,Mississippi,7154.62
+974,974,15854,15854,15854,High School Graduate,"Colleges, Universities, and Professional Schools",12538809,1425,2004,Male,Mississippi,8799.16
+975,975,15855,15855,15855,Some College,"Colleges, Universities, and Professional Schools",21964840,2091,2004,Male,Mississippi,10504.47
+976,976,15856,15856,15856,Advanced Degree,"Colleges, Universities, and Professional Schools",61194258,4088,2004,Male,Mississippi,14969.24
+977,977,15857,15857,15857,Unavalble,"Colleges, Universities, and Professional Schools",1694205,405,2004,Male,Mississippi,4183.22
+978,978,15858,15858,15858,All Education Categories,"Colleges, Universities, and Professional Schools",89051866,11249,2004,Female,Mississippi,7916.43
+979,979,15859,15859,15859,Less Than High School,"Colleges, Universities, and Professional Schools",3018170,589,2004,Female,Mississippi,5124.23
+980,980,15860,15860,15860,High School Graduate,"Colleges, Universities, and Professional Schools",13080836,2167,2004,Female,Mississippi,6036.38
+981,981,15861,15861,15861,Some College,"Colleges, Universities, and Professional Schools",24825911,3432,2004,Female,Mississippi,7233.66
+982,982,15862,15862,15862,Advanced Degree,"Colleges, Universities, and Professional Schools",44866831,4417,2004,Female,Mississippi,10157.76
+983,983,15863,15863,15863,Unavalble,"Colleges, Universities, and Professional Schools",3260118,645,2004,Female,Mississippi,5054.45
+984,984,19500,19500,19500,All Education Categories,"Colleges, Universities, and Professional Schools",105679763,8628,2005,Male,Mississippi,12248.47
+985,985,19501,19501,19501,Less Than High School,"Colleges, Universities, and Professional Schools",3534678,487,2005,Male,Mississippi,7258.07
+986,986,19502,19502,19502,High School Graduate,"Colleges, Universities, and Professional Schools",12815351,1429,2005,Male,Mississippi,8968.06
+987,987,19503,19503,19503,Some College,"Colleges, Universities, and Professional Schools",23233027,2158,2005,Male,Mississippi,10766.0
+988,988,19504,19504,19504,Advanced Degree,"Colleges, Universities, and Professional Schools",64354027,4175,2005,Male,Mississippi,15414.14
+989,989,19505,19505,19505,Unavalble,"Colleges, Universities, and Professional Schools",1742679,379,2005,Male,Mississippi,4598.1
+990,990,19506,19506,19506,All Education Categories,"Colleges, Universities, and Professional Schools",95273136,11604,2005,Female,Mississippi,8210.37
+991,991,19507,19507,19507,Less Than High School,"Colleges, Universities, and Professional Schools",3052745,573,2005,Female,Mississippi,5327.65
+992,992,19508,19508,19508,High School Graduate,"Colleges, Universities, and Professional Schools",13625527,2212,2005,Female,Mississippi,6159.82
+993,993,19509,19509,19509,Some College,"Colleges, Universities, and Professional Schools",26612587,3579,2005,Female,Mississippi,7435.76
+994,994,19510,19510,19510,Advanced Degree,"Colleges, Universities, and Professional Schools",48755391,4626,2005,Female,Mississippi,10539.43
+995,995,19511,19511,19511,Unavalble,"Colleges, Universities, and Professional Schools",3226886,615,2005,Female,Mississippi,5246.97
+996,996,23160,23160,23160,All Education Categories,"Colleges, Universities, and Professional Schools",111183031,8669,2006,Male,Mississippi,12825.36
+997,997,23161,23161,23161,Less Than High School,"Colleges, Universities, and Professional Schools",3750711,488,2006,Male,Mississippi,7685.88
+998,998,23162,23162,23162,High School Graduate,"Colleges, Universities, and Professional Schools",13447265,1420,2006,Male,Mississippi,9469.9
+999,999,23163,23163,23163,Some College,"Colleges, Universities, and Professional Schools",24755763,2207,2006,Male,Mississippi,11216.93
+1000,1000,23164,23164,23164,Advanced Degree,"Colleges, Universities, and Professional Schools",67394920,4197,2006,Male,Mississippi,16057.88
+1001,1001,23165,23165,23165,Unavalble,"Colleges, Universities, and Professional Schools",1834372,358,2006,Male,Mississippi,5123.94
+1002,1002,23166,23166,23166,All Education Categories,"Colleges, Universities, and Professional Schools",104696285,11621,2006,Female,Mississippi,9009.23
+1003,1003,23167,23167,23167,Less Than High School,"Colleges, Universities, and Professional Schools",3199358,556,2006,Female,Mississippi,5754.24
+1004,1004,23168,23168,23168,High School Graduate,"Colleges, Universities, and Professional Schools",14761772,2209,2006,Female,Mississippi,6682.56
+1005,1005,23169,23169,23169,Some College,"Colleges, Universities, and Professional Schools",29386801,3623,2006,Female,Mississippi,8111.18
+1006,1006,23170,23170,23170,Advanced Degree,"Colleges, Universities, and Professional Schools",54417203,4721,2006,Female,Mississippi,11526.63
+1007,1007,23171,23171,23171,Unavalble,"Colleges, Universities, and Professional Schools",2931152,512,2006,Female,Mississippi,5724.91
+1008,1008,26820,26820,26820,All Education Categories,"Colleges, Universities, and Professional Schools",115572388,8696,2007,Male,Mississippi,13290.29
+1009,1009,26821,26821,26821,Less Than High School,"Colleges, Universities, and Professional Schools",3952819,494,2007,Male,Mississippi,8001.66
+1010,1010,26822,26822,26822,High School Graduate,"Colleges, Universities, and Professional Schools",13898364,1430,2007,Male,Mississippi,9719.14
+1011,1011,26823,26823,26823,Some College,"Colleges, Universities, and Professional Schools",25734049,2211,2007,Male,Mississippi,11639.1
+1012,1012,26824,26824,26824,Advanced Degree,"Colleges, Universities, and Professional Schools",70065216,4192,2007,Male,Mississippi,16714.03
+1013,1013,26825,26825,26825,Unavalble,"Colleges, Universities, and Professional Schools",1921941,370,2007,Male,Mississippi,5194.44
+1014,1014,26826,26826,26826,All Education Categories,"Colleges, Universities, and Professional Schools",111099402,11813,2007,Female,Mississippi,9404.84
+1015,1015,26827,26827,26827,Less Than High School,"Colleges, Universities, and Professional Schools",3414492,558,2007,Female,Mississippi,6119.16
+1016,1016,26828,26828,26828,High School Graduate,"Colleges, Universities, and Professional Schools",15804294,2232,2007,Female,Mississippi,7080.78
+1017,1017,26829,26829,26829,Some College,"Colleges, Universities, and Professional Schools",31681237,3692,2007,Female,Mississippi,8581.05
+1018,1018,26830,26830,26830,Advanced Degree,"Colleges, Universities, and Professional Schools",57272214,4803,2007,Female,Mississippi,11924.26
+1019,1019,26831,26831,26831,Unavalble,"Colleges, Universities, and Professional Schools",2927165,527,2007,Female,Mississippi,5554.39
+1020,1020,30480,30480,30480,All Education Categories,"Colleges, Universities, and Professional Schools",129012597,7709,2008,Male,Mississippi,16735.32
+1021,1021,30481,30481,30481,Less Than High School,"Colleges, Universities, and Professional Schools",4693544,450,2008,Male,Mississippi,10430.1
+1022,1022,30482,30482,30482,High School Graduate,"Colleges, Universities, and Professional Schools",15779616,1299,2008,Male,Mississippi,12147.51
+1023,1023,30483,30483,30483,Some College,"Colleges, Universities, and Professional Schools",29328396,1965,2008,Male,Mississippi,14925.39
+1024,1024,30484,30484,30484,Advanced Degree,"Colleges, Universities, and Professional Schools",77143432,3700,2008,Male,Mississippi,20849.58
+1025,1025,30485,30485,30485,Unavalble,"Colleges, Universities, and Professional Schools",2067609,296,2008,Male,Mississippi,6985.17
+1026,1026,30486,30486,30486,All Education Categories,"Colleges, Universities, and Professional Schools",127979419,8992,2008,Female,Mississippi,14232.59
+1027,1027,30487,30487,30487,Less Than High School,"Colleges, Universities, and Professional Schools",4234595,433,2008,Female,Mississippi,9779.67
+1028,1028,30488,30488,30488,High School Graduate,"Colleges, Universities, and Professional Schools",18567941,1813,2008,Female,Mississippi,10241.56
+1029,1029,30489,30489,30489,Some College,"Colleges, Universities, and Professional Schools",37528517,2684,2008,Female,Mississippi,13982.31
+1030,1030,30490,30490,30490,Advanced Degree,"Colleges, Universities, and Professional Schools",64112914,3752,2008,Female,Mississippi,17087.66
+1031,1031,30491,30491,30491,Unavalble,"Colleges, Universities, and Professional Schools",3535453,310,2008,Female,Mississippi,11404.69
+1032,1032,34140,34140,34140,All Education Categories,"Colleges, Universities, and Professional Schools",118633830,8136,2009,Male,Mississippi,14581.35
+1033,1033,34141,34141,34141,Less Than High School,"Colleges, Universities, and Professional Schools",4233974,495,2009,Male,Mississippi,8553.48
+1034,1034,34142,34142,34142,High School Graduate,"Colleges, Universities, and Professional Schools",14678903,1388,2009,Male,Mississippi,10575.58
+1035,1035,34143,34143,34143,Some College,"Colleges, Universities, and Professional Schools",26740327,2102,2009,Male,Mississippi,12721.37
+1036,1036,34144,34144,34144,Advanced Degree,"Colleges, Universities, and Professional Schools",71056380,3796,2009,Male,Mississippi,18718.75
+1037,1037,34145,34145,34145,Unavalble,"Colleges, Universities, and Professional Schools",1924247,355,2009,Male,Mississippi,5420.41
+1038,1038,34146,34146,34146,All Education Categories,"Colleges, Universities, and Professional Schools",114037929,11234,2009,Female,Mississippi,10151.14
+1039,1039,34147,34147,34147,Less Than High School,"Colleges, Universities, and Professional Schools",3941552,574,2009,Female,Mississippi,6866.82
+1040,1040,34148,34148,34148,High School Graduate,"Colleges, Universities, and Professional Schools",16770602,2157,2009,Female,Mississippi,7774.97
+1041,1041,34149,34149,34149,Some College,"Colleges, Universities, and Professional Schools",33224739,3549,2009,Female,Mississippi,9361.72
+1042,1042,34150,34150,34150,Advanced Degree,"Colleges, Universities, and Professional Schools",56814046,4434,2009,Female,Mississippi,12813.27
+1043,1043,34151,34151,34151,Unavalble,"Colleges, Universities, and Professional Schools",3286990,519,2009,Female,Mississippi,6333.31
+1044,1044,37788,37788,37788,All Education Categories,"Colleges, Universities, and Professional Schools",129560650,8949,2010,Male,Mississippi,14477.67
+1045,1045,37789,37789,37789,Less Than High School,"Colleges, Universities, and Professional Schools",5309430,585,2010,Male,Mississippi,9075.95
+1046,1046,37790,37790,37790,High School Graduate,"Colleges, Universities, and Professional Schools",16726722,1582,2010,Male,Mississippi,10573.15
+1047,1047,37791,37791,37791,Some College,"Colleges, Universities, and Professional Schools",29662395,2340,2010,Male,Mississippi,12676.24
+1048,1048,37792,37792,37792,Advanced Degree,"Colleges, Universities, and Professional Schools",76279433,4086,2010,Male,Mississippi,18668.49
+1049,1049,37793,37793,37793,Unavalble,"Colleges, Universities, and Professional Schools",1582670,357,2010,Male,Mississippi,4433.25
+1050,1050,37794,37794,37794,All Education Categories,"Colleges, Universities, and Professional Schools",123770893,12284,2010,Female,Mississippi,10075.78
+1051,1051,37795,37795,37795,Less Than High School,"Colleges, Universities, and Professional Schools",4798292,669,2010,Female,Mississippi,7172.33
+1052,1052,37796,37796,37796,High School Graduate,"Colleges, Universities, and Professional Schools",18610999,2376,2010,Female,Mississippi,7832.91
+1053,1053,37797,37797,37797,Some College,"Colleges, Universities, and Professional Schools",36324447,3920,2010,Female,Mississippi,9266.44
+1054,1054,37798,37798,37798,Advanced Degree,"Colleges, Universities, and Professional Schools",61213354,4819,2010,Female,Mississippi,12702.5
+1055,1055,37799,37799,37799,Unavalble,"Colleges, Universities, and Professional Schools",2823802,500,2010,Female,Mississippi,5647.6
+1056,1056,41436,41436,41436,All Education Categories,"Colleges, Universities, and Professional Schools",131893528,8970,2011,Male,Mississippi,14703.85
+1057,1057,41437,41437,41437,Less Than High School,"Colleges, Universities, and Professional Schools",5861269,634,2011,Male,Mississippi,9244.9
+1058,1058,41438,41438,41438,High School Graduate,"Colleges, Universities, and Professional Schools",17662145,1647,2011,Male,Mississippi,10723.83
+1059,1059,41439,41439,41439,Some College,"Colleges, Universities, and Professional Schools",30779602,2364,2011,Male,Mississippi,13020.14
+1060,1060,41440,41440,41440,Advanced Degree,"Colleges, Universities, and Professional Schools",76061211,3981,2011,Male,Mississippi,19106.06
+1061,1061,41441,41441,41441,Unavalble,"Colleges, Universities, and Professional Schools",1529300,345,2011,Male,Mississippi,4432.75
+1062,1062,41442,41442,41442,All Education Categories,"Colleges, Universities, and Professional Schools",126513684,12267,2011,Female,Mississippi,10313.34
+1063,1063,41443,41443,41443,Less Than High School,"Colleges, Universities, and Professional Schools",5271757,714,2011,Female,Mississippi,7383.41
+1064,1064,41444,41444,41444,High School Graduate,"Colleges, Universities, and Professional Schools",19583635,2413,2011,Female,Mississippi,8115.89
+1065,1065,41445,41445,41445,Some College,"Colleges, Universities, and Professional Schools",37458379,3930,2011,Female,Mississippi,9531.39
+1066,1066,41446,41446,41446,Advanced Degree,"Colleges, Universities, and Professional Schools",61508694,4748,2011,Female,Mississippi,12954.65
+1067,1067,41447,41447,41447,Unavalble,"Colleges, Universities, and Professional Schools",2691218,461,2011,Female,Mississippi,5837.78
+1068,1068,45060,45060,45060,All Education Categories,"Colleges, Universities, and Professional Schools",139396660,9033,2012,Male,Mississippi,15431.93
+1069,1069,45061,45061,45061,Less Than High School,"Colleges, Universities, and Professional Schools",6686029,674,2012,Male,Mississippi,9919.92
+1070,1070,45062,45062,45062,High School Graduate,"Colleges, Universities, and Professional Schools",19487429,1689,2012,Male,Mississippi,11537.85
+1071,1071,45063,45063,45063,Some College,"Colleges, Universities, and Professional Schools",33008346,2401,2012,Male,Mississippi,13747.75
+1072,1072,45064,45064,45064,Advanced Degree,"Colleges, Universities, and Professional Schools",78064508,3926,2012,Male,Mississippi,19883.98
+1073,1073,45065,45065,45065,Unavalble,"Colleges, Universities, and Professional Schools",2150348,344,2012,Male,Mississippi,6251.01
+1074,1074,45066,45066,45066,All Education Categories,"Colleges, Universities, and Professional Schools",138358441,12341,2012,Female,Mississippi,11211.28
+1075,1075,45067,45067,45067,Less Than High School,"Colleges, Universities, and Professional Schools",6250621,760,2012,Female,Mississippi,8224.5
+1076,1076,45068,45068,45068,High School Graduate,"Colleges, Universities, and Professional Schools",21745476,2452,2012,Female,Mississippi,8868.46
+1077,1077,45069,45069,45069,Some College,"Colleges, Universities, and Professional Schools",40983825,3990,2012,Female,Mississippi,10271.64
+1078,1078,45070,45070,45070,Advanced Degree,"Colleges, Universities, and Professional Schools",66129985,4720,2012,Female,Mississippi,14010.59
+1079,1079,45071,45071,45071,Unavalble,"Colleges, Universities, and Professional Schools",3248533,419,2012,Female,Mississippi,7753.06

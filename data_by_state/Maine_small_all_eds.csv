@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,2820,2820,All Education Categories,"Colleges, Universities, and Professional Schools",59252099,5623,2004,Male,Maine,10537.45
+1,1,2821,2821,Less Than High School,"Colleges, Universities, and Professional Schools",1184577,180,2004,Male,Maine,6580.98
+2,2,2822,2822,High School Graduate,"Colleges, Universities, and Professional Schools",6888490,890,2004,Male,Maine,7739.88
+3,3,2823,2823,Some College,"Colleges, Universities, and Professional Schools",12392759,1346,2004,Male,Maine,9207.1
+4,4,2824,2824,Advanced Degree,"Colleges, Universities, and Professional Schools",37852600,2921,2004,Male,Maine,12958.78
+5,5,2825,2825,Unavalble,"Colleges, Universities, and Professional Schools",933671,286,2004,Male,Maine,3264.58
+6,6,2826,2826,All Education Categories,"Colleges, Universities, and Professional Schools",53635196,6600,2004,Female,Maine,8126.54
+7,7,2827,2827,Less Than High School,"Colleges, Universities, and Professional Schools",761779,135,2004,Female,Maine,5642.81
+8,8,2828,2828,High School Graduate,"Colleges, Universities, and Professional Schools",7277019,1163,2004,Female,Maine,6257.11
+9,9,2829,2829,Some College,"Colleges, Universities, and Professional Schools",14032461,1919,2004,Female,Maine,7312.38
+10,10,2830,2830,Advanced Degree,"Colleges, Universities, and Professional Schools",30399337,3066,2004,Female,Maine,9914.98
+11,11,2831,2831,Unavalble,"Colleges, Universities, and Professional Schools",1164600,317,2004,Female,Maine,3673.82
+12,12,6348,6348,All Education Categories,"Colleges, Universities, and Professional Schools",60051424,5716,2005,Male,Maine,10505.85
+13,13,6349,6349,Less Than High School,"Colleges, Universities, and Professional Schools",1273692,189,2005,Male,Maine,6739.11
+14,14,6350,6350,High School Graduate,"Colleges, Universities, and Professional Schools",7080454,900,2005,Male,Maine,7867.17
+15,15,6351,6351,Some College,"Colleges, Universities, and Professional Schools",12604428,1355,2005,Male,Maine,9302.16
+16,16,6352,6352,Advanced Degree,"Colleges, Universities, and Professional Schools",38258642,2881,2005,Male,Maine,13279.64
+17,17,6353,6353,Unavalble,"Colleges, Universities, and Professional Schools",834208,390,2005,Male,Maine,2138.99
+18,18,6354,6354,All Education Categories,"Colleges, Universities, and Professional Schools",55268113,6737,2005,Female,Maine,8203.67
+19,19,6355,6355,Less Than High School,"Colleges, Universities, and Professional Schools",753037,138,2005,Female,Maine,5456.79
+20,20,6356,6356,High School Graduate,"Colleges, Universities, and Professional Schools",7419119,1167,2005,Female,Maine,6357.43
+21,21,6357,6357,Some College,"Colleges, Universities, and Professional Schools",14454559,1951,2005,Female,Maine,7408.79
+22,22,6358,6358,Advanced Degree,"Colleges, Universities, and Professional Schools",31790014,3122,2005,Female,Maine,10182.58
+23,23,6359,6359,Unavalble,"Colleges, Universities, and Professional Schools",851384,359,2005,Female,Maine,2371.54
+24,24,9876,9876,All Education Categories,"Colleges, Universities, and Professional Schools",60445193,5581,2006,Male,Maine,10830.53
+25,25,9877,9877,Less Than High School,"Colleges, Universities, and Professional Schools",1313176,185,2006,Male,Maine,7098.25
+26,26,9878,9878,High School Graduate,"Colleges, Universities, and Professional Schools",7297766,891,2006,Male,Maine,8190.53
+27,27,9879,9879,Some College,"Colleges, Universities, and Professional Schools",13072917,1366,2006,Male,Maine,9570.22
+28,28,9880,9880,Advanced Degree,"Colleges, Universities, and Professional Schools",37901581,2771,2006,Male,Maine,13677.94
+29,29,9881,9881,Unavalble,"Colleges, Universities, and Professional Schools",859752,368,2006,Male,Maine,2336.28
+30,30,9882,9882,All Education Categories,"Colleges, Universities, and Professional Schools",57352459,6543,2006,Female,Maine,8765.47
+31,31,9883,9883,Less Than High School,"Colleges, Universities, and Professional Schools",833036,137,2006,Female,Maine,6080.55
+32,32,9884,9884,High School Graduate,"Colleges, Universities, and Professional Schools",7855971,1144,2006,Female,Maine,6867.11
+33,33,9885,9885,Some College,"Colleges, Universities, and Professional Schools",15079246,1897,2006,Female,Maine,7949.0
+34,34,9886,9886,Advanced Degree,"Colleges, Universities, and Professional Schools",32619324,3036,2006,Female,Maine,10744.18
+35,35,9887,9887,Unavalble,"Colleges, Universities, and Professional Schools",964882,329,2006,Female,Maine,2932.77
+36,36,13404,13404,All Education Categories,"Colleges, Universities, and Professional Schools",64428294,5595,2007,Male,Maine,11515.33
+37,37,13405,13405,Less Than High School,"Colleges, Universities, and Professional Schools",1470182,188,2007,Male,Maine,7820.12
+38,38,13406,13406,High School Graduate,"Colleges, Universities, and Professional Schools",7960707,909,2007,Male,Maine,8757.65
+39,39,13407,13407,Some College,"Colleges, Universities, and Professional Schools",14187927,1377,2007,Male,Maine,10303.51
+40,40,13408,13408,Advanced Degree,"Colleges, Universities, and Professional Schools",39931369,2784,2007,Male,Maine,14343.16
+41,41,13409,13409,Unavalble,"Colleges, Universities, and Professional Schools",878110,336,2007,Male,Maine,2613.42
+42,42,13410,13410,All Education Categories,"Colleges, Universities, and Professional Schools",61779758,6725,2007,Female,Maine,9186.58
+43,43,13411,13411,Less Than High School,"Colleges, Universities, and Professional Schools",957197,149,2007,Female,Maine,6424.14
+44,44,13412,13412,High School Graduate,"Colleges, Universities, and Professional Schools",8497354,1167,2007,Female,Maine,7281.37
+45,45,13413,13413,Some College,"Colleges, Universities, and Professional Schools",16385966,1959,2007,Female,Maine,8364.45
+46,46,13414,13414,Advanced Degree,"Colleges, Universities, and Professional Schools",34900369,3114,2007,Female,Maine,11207.57
+47,47,13415,13415,Unavalble,"Colleges, Universities, and Professional Schools",1038872,336,2007,Female,Maine,3091.88
+48,48,16944,16944,All Education Categories,"Colleges, Universities, and Professional Schools",67737242,5676,2008,Male,Maine,11933.97
+49,49,16945,16945,Less Than High School,"Colleges, Universities, and Professional Schools",1651073,200,2008,Male,Maine,8255.36
+50,50,16946,16946,High School Graduate,"Colleges, Universities, and Professional Schools",8660919,938,2008,Male,Maine,9233.39
+51,51,16947,16947,Some College,"Colleges, Universities, and Professional Schools",15166304,1400,2008,Male,Maine,10833.07
+52,52,16948,16948,Advanced Degree,"Colleges, Universities, and Professional Schools",41276106,2737,2008,Male,Maine,15080.78
+53,53,16949,16949,Unavalble,"Colleges, Universities, and Professional Schools",982840,401,2008,Male,Maine,2450.97
+54,54,16950,16950,All Education Categories,"Colleges, Universities, and Professional Schools",65203166,6816,2008,Female,Maine,9566.19
+55,55,16951,16951,Less Than High School,"Colleges, Universities, and Professional Schools",1096535,162,2008,Female,Maine,6768.73
+56,56,16952,16952,High School Graduate,"Colleges, Universities, and Professional Schools",9054092,1203,2008,Female,Maine,7526.26
+57,57,16953,16953,Some College,"Colleges, Universities, and Professional Schools",17531135,1996,2008,Female,Maine,8783.13
+58,58,16954,16954,Advanced Degree,"Colleges, Universities, and Professional Schools",36389927,3072,2008,Female,Maine,11845.68
+59,59,16955,16955,Unavalble,"Colleges, Universities, and Professional Schools",1131477,384,2008,Female,Maine,2946.55
+60,60,20496,20496,All Education Categories,"Colleges, Universities, and Professional Schools",68965313,5647,2009,Male,Maine,12212.73
+61,61,20497,20497,Less Than High School,"Colleges, Universities, and Professional Schools",1809785,221,2009,Male,Maine,8189.07
+62,62,20498,20498,High School Graduate,"Colleges, Universities, and Professional Schools",8953549,975,2009,Male,Maine,9183.13
+63,63,20499,20499,Some College,"Colleges, Universities, and Professional Schools",15463502,1422,2009,Male,Maine,10874.47
+64,64,20500,20500,Advanced Degree,"Colleges, Universities, and Professional Schools",41883266,2687,2009,Male,Maine,15587.37
+65,65,20501,20501,Unavalble,"Colleges, Universities, and Professional Schools",855210,342,2009,Male,Maine,2500.61
+66,66,20502,20502,All Education Categories,"Colleges, Universities, and Professional Schools",66914838,6769,2009,Female,Maine,9885.48
+67,67,20503,20503,Less Than High School,"Colleges, Universities, and Professional Schools",1224901,173,2009,Female,Maine,7080.35
+68,68,20504,20504,High School Graduate,"Colleges, Universities, and Professional Schools",9456050,1218,2009,Female,Maine,7763.59
+69,69,20505,20505,Some College,"Colleges, Universities, and Professional Schools",18028756,1994,2009,Female,Maine,9041.5
+70,70,20506,20506,Advanced Degree,"Colleges, Universities, and Professional Schools",37190936,3042,2009,Female,Maine,12225.82
+71,71,20507,20507,Unavalble,"Colleges, Universities, and Professional Schools",1014194,342,2009,Female,Maine,2965.48
+72,72,24036,24036,All Education Categories,"Colleges, Universities, and Professional Schools",68892654,5662,2010,Male,Maine,12167.55
+73,73,24037,24037,Less Than High School,"Colleges, Universities, and Professional Schools",1872878,233,2010,Male,Maine,8038.1
+74,74,24038,24038,High School Graduate,"Colleges, Universities, and Professional Schools",8857636,998,2010,Male,Maine,8875.39
+75,75,24039,24039,Some College,"Colleges, Universities, and Professional Schools",15332413,1433,2010,Male,Maine,10699.52
+76,76,24040,24040,Advanced Degree,"Colleges, Universities, and Professional Schools",42148341,2690,2010,Male,Maine,15668.53
+77,77,24041,24041,Unavalble,"Colleges, Universities, and Professional Schools",681387,307,2010,Male,Maine,2219.5
+78,78,24042,24042,All Education Categories,"Colleges, Universities, and Professional Schools",66684185,6711,2010,Female,Maine,9936.55
+79,79,24043,24043,Less Than High School,"Colleges, Universities, and Professional Schools",1375185,192,2010,Female,Maine,7162.42
+80,80,24044,24044,High School Graduate,"Colleges, Universities, and Professional Schools",9390998,1227,2010,Female,Maine,7653.63
+81,81,24045,24045,Some College,"Colleges, Universities, and Professional Schools",17934305,1984,2010,Female,Maine,9039.47
+82,82,24046,24046,Advanced Degree,"Colleges, Universities, and Professional Schools",37179439,3006,2010,Female,Maine,12368.41
+83,83,24047,24047,Unavalble,"Colleges, Universities, and Professional Schools",804259,301,2010,Female,Maine,2671.96
+84,84,27564,27564,All Education Categories,"Colleges, Universities, and Professional Schools",71164868,5696,2011,Male,Maine,12493.83
+85,85,27565,27565,Less Than High School,"Colleges, Universities, and Professional Schools",2150999,256,2011,Male,Maine,8402.34
+86,86,27566,27566,High School Graduate,"Colleges, Universities, and Professional Schools",9541877,1017,2011,Male,Maine,9382.38
+87,87,27567,27567,Some College,"Colleges, Universities, and Professional Schools",16035637,1436,2011,Male,Maine,11166.88
+88,88,27568,27568,Advanced Degree,"Colleges, Universities, and Professional Schools",42521179,2647,2011,Male,Maine,16063.91
+89,89,27569,27569,Unavalble,"Colleges, Universities, and Professional Schools",915176,340,2011,Male,Maine,2691.69
+90,90,27570,27570,All Education Categories,"Colleges, Universities, and Professional Schools",69313552,6864,2011,Female,Maine,10098.13
+91,91,27571,27571,Less Than High School,"Colleges, Universities, and Professional Schools",1585055,215,2011,Female,Maine,7372.35
+92,92,27572,27572,High School Graduate,"Colleges, Universities, and Professional Schools",10021944,1266,2011,Female,Maine,7916.23
+93,93,27573,27573,Some College,"Colleges, Universities, and Professional Schools",18729112,2015,2011,Female,Maine,9294.84
+94,94,27574,27574,Advanced Degree,"Colleges, Universities, and Professional Schools",38091335,3023,2011,Female,Maine,12600.51
+95,95,27575,27575,Unavalble,"Colleges, Universities, and Professional Schools",886107,345,2011,Female,Maine,2568.43
+96,96,31104,31104,All Education Categories,"Colleges, Universities, and Professional Schools",74425689,5949,2012,Male,Maine,12510.62
+97,97,31105,31105,Less Than High School,"Colleges, Universities, and Professional Schools",2470641,289,2012,Male,Maine,8548.93
+98,98,31106,31106,High School Graduate,"Colleges, Universities, and Professional Schools",10518372,1098,2012,Male,Maine,9579.57
+99,99,31107,31107,Some College,"Colleges, Universities, and Professional Schools",17048873,1500,2012,Male,Maine,11365.92
+100,100,31108,31108,Advanced Degree,"Colleges, Universities, and Professional Schools",43373524,2699,2012,Male,Maine,16070.22
+101,101,31109,31109,Unavalble,"Colleges, Universities, and Professional Schools",1014279,361,2012,Male,Maine,2809.64
+102,102,31110,31110,All Education Categories,"Colleges, Universities, and Professional Schools",74365389,7118,2012,Female,Maine,10447.51
+103,103,31111,31111,Less Than High School,"Colleges, Universities, and Professional Schools",1899683,238,2012,Female,Maine,7981.86
+104,104,31112,31112,High School Graduate,"Colleges, Universities, and Professional Schools",11025711,1334,2012,Female,Maine,8265.15
+105,105,31113,31113,Some College,"Colleges, Universities, and Professional Schools",20453369,2124,2012,Female,Maine,9629.65
+106,106,31114,31114,Advanced Degree,"Colleges, Universities, and Professional Schools",40160652,3101,2012,Female,Maine,12950.87
+107,107,31115,31115,Unavalble,"Colleges, Universities, and Professional Schools",825975,321,2012,Female,Maine,2573.13
+108,108,31812,31812,All Education Categories,00,2531938397,271367,2004,Male,Maine,9330.31
+109,109,31813,31813,Less Than High School,00,145560976,21832,2004,Male,Maine,6667.32
+110,110,31814,31814,High School Graduate,00,674704679,82294,2004,Male,Maine,8198.71
+111,111,31815,31815,Some College,00,711346768,73074,2004,Male,Maine,9734.61
+112,112,31816,31816,Advanced Degree,00,870145454,58058,2004,Male,Maine,14987.52
+113,113,31817,31817,Unavalble,00,130180521,36109,2004,Male,Maine,3605.21
+114,114,31818,31818,All Education Categories,00,1765588648,288518,2004,Female,Maine,6119.51
+115,115,31819,31819,Less Than High School,00,58434943,14102,2004,Female,Maine,4143.73
+116,116,31820,31820,High School Graduate,00,392361724,76831,2004,Female,Maine,5106.82
+117,117,31821,31821,Some College,00,564654382,88934,2004,Female,Maine,6349.14
+118,118,31822,31822,Advanced Degree,00,634195323,68296,2004,Female,Maine,9285.98
+119,119,31823,31823,Unavalble,00,115942277,40355,2004,Female,Maine,2873.06
+120,120,31872,31872,All Education Categories,Manufacturing,518685744,46478,2004,Male,Maine,11159.81
+121,121,31873,31873,Less Than High School,Manufacturing,33771265,3996,2004,Male,Maine,8451.27
+122,122,31874,31874,High School Graduate,Manufacturing,181778468,18058,2004,Male,Maine,10066.37
+123,123,31875,31875,Some College,Manufacturing,165504894,14164,2004,Male,Maine,11684.9
+124,124,31876,31876,Advanced Degree,Manufacturing,120779509,7217,2004,Male,Maine,16735.42
+125,125,31877,31877,Unavalble,Manufacturing,16851608,3043,2004,Male,Maine,5537.83
+126,126,31878,31878,All Education Categories,Manufacturing,117056829,16314,2004,Female,Maine,7175.24
+127,127,31879,31879,Less Than High School,Manufacturing,7067410,1293,2004,Female,Maine,5465.9
+128,128,31880,31880,High School Graduate,Manufacturing,41579531,6456,2004,Female,Maine,6440.45
+129,129,31881,31881,Some College,Manufacturing,38752934,5054,2004,Female,Maine,7667.77
+130,130,31882,31882,Advanced Degree,Manufacturing,25356674,2401,2004,Female,Maine,10560.88
+131,131,31883,31883,Unavalble,Manufacturing,4300279,1109,2004,Female,Maine,3877.62
+132,132,31896,31896,All Education Categories,Retail Trade,291185106,41967,2004,Male,Maine,6938.43
+133,133,31897,31897,Less Than High School,Retail Trade,21731924,3753,2004,Male,Maine,5790.55
+134,134,31898,31898,High School Graduate,Retail Trade,98755725,13491,2004,Male,Maine,7320.12
+135,135,31899,31899,Some College,Retail Trade,84927930,10099,2004,Male,Maine,8409.54
+136,136,31900,31900,Advanced Degree,Retail Trade,56741901,4797,2004,Male,Maine,11828.62
+137,137,31901,31901,Unavalble,Retail Trade,29027626,9827,2004,Male,Maine,2953.86
+138,138,31902,31902,All Education Categories,Retail Trade,172500000,42083,2004,Female,Maine,4099.04
+139,139,31903,31903,Less Than High School,Retail Trade,10466986,2894,2004,Female,Maine,3616.79
+140,140,31904,31904,High School Graduate,Retail Trade,58475695,13726,2004,Female,Maine,4260.21
+141,141,31905,31905,Some College,Retail Trade,50427288,10289,2004,Female,Maine,4901.09
+142,142,31906,31906,Advanced Degree,Retail Trade,30759487,4521,2004,Female,Maine,6803.69
+143,143,31907,31907,Unavalble,Retail Trade,22370544,10652,2004,Female,Maine,2100.13
+144,144,31932,31932,All Education Categories,Finance and Insurance,160363384,7879,2004,Male,Maine,20353.27
+145,145,31933,31933,Less Than High School,Finance and Insurance,1871320,196,2004,Male,Maine,9547.55
+146,146,31934,31934,High School Graduate,Finance and Insurance,14171048,1124,2004,Male,Maine,12607.69
+147,147,31935,31935,Some College,Finance and Insurance,31465077,1930,2004,Male,Maine,16303.15
+148,148,31936,31936,Advanced Degree,Finance and Insurance,108982279,4010,2004,Male,Maine,27177.63
+149,149,31937,31937,Unavalble,Finance and Insurance,3873660,619,2004,Male,Maine,6257.93
+150,150,31938,31938,All Education Categories,Finance and Insurance,186126057,18884,2004,Female,Maine,9856.28
+151,151,31939,31939,Less Than High School,Finance and Insurance,2303930,365,2004,Female,Maine,6312.14
+152,152,31940,31940,High School Graduate,Finance and Insurance,29880052,3977,2004,Female,Maine,7513.21
+153,153,31941,31941,Some College,Finance and Insurance,50718400,5708,2004,Female,Maine,8885.49
+154,154,31942,31942,Advanced Degree,Finance and Insurance,93780379,6986,2004,Female,Maine,13424.05
+155,155,31943,31943,Unavalble,Finance and Insurance,9443296,1848,2004,Female,Maine,5110.01
+156,156,31992,31992,All Education Categories,Educational Services,165600523,19711,2004,Male,Maine,8401.43
+157,157,31993,31993,Less Than High School,Educational Services,4893142,892,2004,Male,Maine,5485.59
+158,158,31994,31994,High School Graduate,Educational Services,26452967,3972,2004,Male,Maine,6659.86
+159,159,31995,31995,Some College,Educational Services,39773988,5099,2004,Male,Maine,7800.35
+160,160,31996,31996,Advanced Degree,Educational Services,91470130,8822,2004,Male,Maine,10368.41
+161,161,31997,31997,Unavalble,Educational Services,3010296,926,2004,Male,Maine,3250.86
+162,162,31998,31998,All Education Categories,Educational Services,267849289,40871,2004,Female,Maine,6553.53
+163,163,31999,31999,Less Than High School,Educational Services,4555357,1158,2004,Female,Maine,3933.81
+164,164,32000,32000,High School Graduate,Educational Services,43503945,9014,2004,Female,Maine,4826.26
+165,165,32001,32001,Some College,Educational Services,72119291,12122,2004,Female,Maine,5949.45
+166,166,32002,32002,Advanced Degree,Educational Services,141786420,16905,2004,Female,Maine,8387.25
+167,167,32003,32003,Unavalble,Educational Services,5884277,1672,2004,Female,Maine,3519.3
+168,168,32004,32004,All Education Categories,Health Care and Social Assistance,221864108,18992,2004,Male,Maine,11681.98
+169,169,32005,32005,Less Than High School,Health Care and Social Assistance,6691503,1142,2004,Male,Maine,5859.46
+170,170,32006,32006,High School Graduate,Health Care and Social Assistance,31713371,4304,2004,Male,Maine,7368.35
+171,171,32007,32007,Some College,Health Care and Social Assistance,54255848,5391,2004,Male,Maine,10064.15
+172,172,32008,32008,Advanced Degree,Health Care and Social Assistance,123027995,6397,2004,Male,Maine,19232.14
+173,173,32009,32009,Unavalble,Health Care and Social Assistance,6175392,1757,2004,Male,Maine,3514.74
+174,174,32010,32010,All Education Categories,Health Care and Social Assistance,499317242,75536,2004,Female,Maine,6610.32
+175,175,32011,32011,Less Than High School,Health Care and Social Assistance,14122288,3127,2004,Female,Maine,4516.24
+176,176,32012,32012,High School Graduate,Health Care and Social Assistance,97764701,18449,2004,Female,Maine,5299.19
+177,177,32013,32013,Some College,Health Care and Social Assistance,188497474,28255,2004,Female,Maine,6671.3
+178,178,32014,32014,Advanced Degree,Health Care and Social Assistance,171219056,18459,2004,Female,Maine,9275.64
+179,179,32015,32015,Unavalble,Health Care and Social Assistance,27713723,7247,2004,Female,Maine,3824.16
+180,180,32028,32028,All Education Categories,Accommodation and Food Services,66393515,17395,2004,Male,Maine,3816.82
+181,181,32029,32029,Less Than High School,Accommodation and Food Services,7084631,1671,2004,Male,Maine,4239.76
+182,182,32030,32030,High School Graduate,Accommodation and Food Services,18918132,4003,2004,Male,Maine,4725.99
+183,183,32031,32031,Some College,Accommodation and Food Services,15343194,2980,2004,Male,Maine,5148.72
+184,184,32032,32032,Advanced Degree,Accommodation and Food Services,8548399,1371,2004,Male,Maine,6235.16
+185,185,32033,32033,Unavalble,Accommodation and Food Services,16499160,7370,2004,Male,Maine,2238.69
+186,186,32034,32034,All Education Categories,Accommodation and Food Services,71358050,25070,2004,Female,Maine,2846.35
+187,187,32035,32035,Less Than High School,Accommodation and Food Services,5503308,1894,2004,Female,Maine,2905.65
+188,188,32036,32036,High School Graduate,Accommodation and Food Services,19611236,6163,2004,Female,Maine,3182.09
+189,189,32037,32037,Some College,Accommodation and Food Services,17229842,4916,2004,Female,Maine,3504.85
+190,190,32038,32038,Advanced Degree,Accommodation and Food Services,8410138,2056,2004,Female,Maine,4090.53
+191,191,32039,32039,Unavalble,Accommodation and Food Services,20603526,10040,2004,Female,Maine,2052.14
+192,192,32064,32064,All Education Categories,00,2565901855,269541,2005,Male,Maine,9519.52
+193,193,32065,32065,Less Than High School,00,145822724,21655,2005,Male,Maine,6733.91
+194,194,32066,32066,High School Graduate,00,679981174,81638,2005,Male,Maine,8329.22
+195,195,32067,32067,Some College,00,723903699,72991,2005,Male,Maine,9917.71
+196,196,32068,32068,Advanced Degree,00,889993011,57922,2005,Male,Maine,15365.37
+197,197,32069,32069,Unavalble,00,126201246,35335,2005,Male,Maine,3571.56
+198,198,32070,32070,All Education Categories,00,1782778869,287736,2005,Female,Maine,6195.88
+199,199,32071,32071,Less Than High School,00,58449658,14090,2005,Female,Maine,4148.31
+200,200,32072,32072,High School Graduate,00,393044041,76212,2005,Female,Maine,5157.25
+201,201,32073,32073,Some College,00,573353135,88833,2005,Female,Maine,6454.28
+202,202,32074,32074,Advanced Degree,00,644188822,68064,2005,Female,Maine,9464.46
+203,203,32075,32075,Unavalble,00,113743213,40538,2005,Female,Maine,2805.84
+204,204,32124,32124,All Education Categories,Manufacturing,534517713,46759,2005,Male,Maine,11431.33
+205,205,32125,32125,Less Than High School,Manufacturing,34452360,4006,2005,Male,Maine,8600.19
+206,206,32126,32126,High School Graduate,Manufacturing,185628980,18153,2005,Male,Maine,10225.8
+207,207,32127,32127,Some College,Manufacturing,171307507,14363,2005,Male,Maine,11927.0
+208,208,32128,32128,Advanced Degree,Manufacturing,126502419,7281,2005,Male,Maine,17374.32
+209,209,32129,32129,Unavalble,Manufacturing,16626447,2956,2005,Male,Maine,5624.64
+210,210,32130,32130,All Education Categories,Manufacturing,119046358,16071,2005,Female,Maine,7407.53
+211,211,32131,32131,Less Than High School,Manufacturing,6986579,1270,2005,Female,Maine,5501.24
+212,212,32132,32132,High School Graduate,Manufacturing,41322174,6242,2005,Female,Maine,6620.02
+213,213,32133,32133,Some College,Manufacturing,39803091,5043,2005,Female,Maine,7892.74
+214,214,32134,32134,Advanced Degree,Manufacturing,26733201,2452,2005,Female,Maine,10902.61
+215,215,32135,32135,Unavalble,Manufacturing,4201312,1064,2005,Female,Maine,3948.6
+216,216,32148,32148,All Education Categories,Retail Trade,284662530,42003,2005,Male,Maine,6777.2
+217,217,32149,32149,Less Than High School,Retail Trade,21450528,3732,2005,Male,Maine,5747.73
+218,218,32150,32150,High School Graduate,Retail Trade,96521303,13434,2005,Male,Maine,7184.85
+219,219,32151,32151,Some College,Retail Trade,83505486,10172,2005,Male,Maine,8209.35
+220,220,32152,32152,Advanced Degree,Retail Trade,54815876,4836,2005,Male,Maine,11334.96
+221,221,32153,32153,Unavalble,Retail Trade,28369337,9829,2005,Male,Maine,2886.29
+222,222,32154,32154,All Education Categories,Retail Trade,171686913,42520,2005,Female,Maine,4037.79
+223,223,32155,32155,Less Than High School,Retail Trade,10360408,2919,2005,Female,Maine,3549.3
+224,224,32156,32156,High School Graduate,Retail Trade,58325691,13832,2005,Female,Maine,4216.72
+225,225,32157,32157,Some College,Retail Trade,50340870,10515,2005,Female,Maine,4787.53
+226,226,32158,32158,Advanced Degree,Retail Trade,30506960,4594,2005,Female,Maine,6640.61
+227,227,32159,32159,Unavalble,Retail Trade,22152983,10660,2005,Female,Maine,2078.14
+228,228,32184,32184,All Education Categories,Finance and Insurance,162305217,7655,2005,Male,Maine,21202.51
+229,229,32185,32185,Less Than High School,Finance and Insurance,1877476,186,2005,Male,Maine,10093.96
+230,230,32186,32186,High School Graduate,Finance and Insurance,14350130,1112,2005,Male,Maine,12904.79
+231,231,32187,32187,Some College,Finance and Insurance,32156447,1926,2005,Male,Maine,16695.97
+232,232,32188,32188,Advanced Degree,Finance and Insurance,111016863,3952,2005,Male,Maine,28091.31
+233,233,32189,32189,Unavalble,Finance and Insurance,2904302,479,2005,Male,Maine,6063.26
+234,234,32190,32190,All Education Categories,Finance and Insurance,184822360,18369,2005,Female,Maine,10061.65
+235,235,32191,32191,Less Than High School,Finance and Insurance,2297431,360,2005,Female,Maine,6381.75
+236,236,32192,32192,High School Graduate,Finance and Insurance,29663385,3879,2005,Female,Maine,7647.17
+237,237,32193,32193,Some College,Finance and Insurance,50943870,5618,2005,Female,Maine,9067.97
+238,238,32194,32194,Advanced Degree,Finance and Insurance,93882410,6874,2005,Female,Maine,13657.61
+239,239,32195,32195,Unavalble,Finance and Insurance,8035264,1638,2005,Female,Maine,4905.53
+240,240,32244,32244,All Education Categories,Educational Services,161058897,18873,2005,Male,Maine,8533.83
+241,241,32245,32245,Less Than High School,Educational Services,4811517,859,2005,Male,Maine,5601.3
+242,242,32246,32246,High School Graduate,Educational Services,25976996,3799,2005,Male,Maine,6837.85
+243,243,32247,32247,Some College,Educational Services,39004689,4883,2005,Male,Maine,7987.85
+244,244,32248,32248,Advanced Degree,Educational Services,88491016,8356,2005,Male,Maine,10590.12
+245,245,32249,32249,Unavalble,Educational Services,2774679,977,2005,Male,Maine,2840.0
+246,246,32250,32250,All Education Categories,Educational Services,260437266,39609,2005,Female,Maine,6575.2
+247,247,32251,32251,Less Than High School,Educational Services,4435426,1128,2005,Female,Maine,3932.12
+248,248,32252,32252,High School Graduate,Educational Services,42073973,8704,2005,Female,Maine,4833.87
+249,249,32253,32253,Some College,Educational Services,70362790,11747,2005,Female,Maine,5989.85
+250,250,32254,32254,Advanced Degree,Educational Services,138165786,16291,2005,Female,Maine,8481.11
+251,251,32255,32255,Unavalble,Educational Services,5399291,1739,2005,Female,Maine,3104.83
+252,252,32256,32256,All Education Categories,Health Care and Social Assistance,235776613,19225,2005,Male,Maine,12264.06
+253,253,32257,32257,Less Than High School,Health Care and Social Assistance,6921694,1166,2005,Male,Maine,5936.27
+254,254,32258,32258,High School Graduate,Health Care and Social Assistance,33256987,4365,2005,Male,Maine,7619.01
+255,255,32259,32259,Some College,Health Care and Social Assistance,57311723,5484,2005,Male,Maine,10450.72
+256,256,32260,32260,Advanced Degree,Health Care and Social Assistance,132175073,6465,2005,Male,Maine,20444.71
+257,257,32261,32261,Unavalble,Health Care and Social Assistance,6111136,1745,2005,Male,Maine,3502.08
+258,258,32262,32262,All Education Categories,Health Care and Social Assistance,518855610,76090,2005,Female,Maine,6818.97
+259,259,32263,32263,Less Than High School,Health Care and Social Assistance,14366827,3140,2005,Female,Maine,4575.42
+260,260,32264,32264,High School Graduate,Health Care and Social Assistance,100004387,18541,2005,Female,Maine,5393.69
+261,261,32265,32265,Some College,Health Care and Social Assistance,195198677,28426,2005,Female,Maine,6866.91
+262,262,32266,32266,Advanced Degree,Health Care and Social Assistance,181366994,18643,2005,Female,Maine,9728.42
+263,263,32267,32267,Unavalble,Health Care and Social Assistance,27918725,7341,2005,Female,Maine,3803.12
+264,264,32280,32280,All Education Categories,Accommodation and Food Services,64567488,16929,2005,Male,Maine,3814.02
+265,265,32281,32281,Less Than High School,Accommodation and Food Services,6988547,1675,2005,Male,Maine,4172.27
+266,266,32282,32282,High School Graduate,Accommodation and Food Services,18405145,3933,2005,Male,Maine,4679.67
+267,267,32283,32283,Some College,Accommodation and Food Services,15072411,2947,2005,Male,Maine,5114.49
+268,268,32284,32284,Advanced Degree,Accommodation and Food Services,8173163,1352,2005,Male,Maine,6045.24
+269,269,32285,32285,Unavalble,Accommodation and Food Services,15928221,7022,2005,Male,Maine,2268.33
+270,270,32286,32286,All Education Categories,Accommodation and Food Services,70639804,25153,2005,Female,Maine,2808.4
+271,271,32287,32287,Less Than High School,Accommodation and Food Services,5536491,1919,2005,Female,Maine,2885.09
+272,272,32288,32288,High School Graduate,Accommodation and Food Services,19243668,6073,2005,Female,Maine,3168.73
+273,273,32289,32289,Some College,Accommodation and Food Services,17020501,4895,2005,Female,Maine,3477.12
+274,274,32290,32290,Advanced Degree,Accommodation and Food Services,8170712,2060,2005,Female,Maine,3966.37
+275,275,32291,32291,Unavalble,Accommodation and Food Services,20668431,10206,2005,Female,Maine,2025.13
+276,276,32316,32316,All Education Categories,00,2736374334,270012,2006,Male,Maine,10134.27
+277,277,32317,32317,Less Than High School,00,157615441,21824,2006,Male,Maine,7222.12
+278,278,32318,32318,High School Graduate,00,724067067,81795,2006,Male,Maine,8852.22
+279,279,32319,32319,Some College,00,774534840,73501,2006,Male,Maine,10537.75
+280,280,32320,32320,Advanced Degree,00,945396827,57817,2006,Male,Maine,16351.54
+281,281,32321,32321,Unavalble,00,134760159,35075,2006,Male,Maine,3842.06
+282,282,32322,32322,All Education Categories,00,1938141587,288375,2006,Female,Maine,6720.91
+283,283,32323,32323,Less Than High School,00,64941212,14331,2006,Female,Maine,4531.52
+284,284,32324,32324,High School Graduate,00,426390000,76199,2006,Female,Maine,5595.74
+285,285,32325,32325,Some College,00,623260459,89262,2006,Female,Maine,6982.37
+286,286,32326,32326,Advanced Degree,00,700574316,68350,2006,Female,Maine,10249.81
+287,287,32327,32327,Unavalble,00,122975600,40233,2006,Female,Maine,3056.59
+288,288,32376,32376,All Education Categories,Manufacturing,541014505,44812,2006,Male,Maine,12072.98
+289,289,32377,32377,Less Than High School,Manufacturing,35142089,3834,2006,Male,Maine,9165.91
+290,290,32378,32378,High School Graduate,Manufacturing,188031422,17403,2006,Male,Maine,10804.54
+291,291,32379,32379,Some College,Manufacturing,173703697,13833,2006,Male,Maine,12557.2
+292,292,32380,32380,Advanced Degree,Manufacturing,127252891,7015,2006,Male,Maine,18140.11
+293,293,32381,32381,Unavalble,Manufacturing,16884406,2726,2006,Male,Maine,6193.84
+294,294,32382,32382,All Education Categories,Manufacturing,123605242,15360,2006,Female,Maine,8047.22
+295,295,32383,32383,Less Than High School,Manufacturing,7271562,1222,2006,Female,Maine,5950.54
+296,296,32384,32384,High School Graduate,Manufacturing,42324360,5905,2006,Female,Maine,7167.55
+297,297,32385,32385,Some College,Manufacturing,40987693,4843,2006,Female,Maine,8463.29
+298,298,32386,32386,Advanced Degree,Manufacturing,28465777,2389,2006,Female,Maine,11915.35
+299,299,32387,32387,Unavalble,Manufacturing,4555849,1002,2006,Female,Maine,4546.76
+300,300,32400,32400,All Education Categories,Retail Trade,304618839,42225,2006,Male,Maine,7214.18
+301,301,32401,32401,Less Than High School,Retail Trade,23176074,3788,2006,Male,Maine,6118.29
+302,302,32402,32402,High School Graduate,Retail Trade,103070614,13512,2006,Male,Maine,7628.08
+303,303,32403,32403,Some College,Retail Trade,89690580,10352,2006,Male,Maine,8664.08
+304,304,32404,32404,Advanced Degree,Retail Trade,59217067,4956,2006,Male,Maine,11948.56
+305,305,32405,32405,Unavalble,Retail Trade,29464504,9617,2006,Male,Maine,3063.79
+306,306,32406,32406,All Education Categories,Retail Trade,184365819,42699,2006,Female,Maine,4317.8
+307,307,32407,32407,Less Than High School,Retail Trade,11220807,2947,2006,Female,Maine,3807.54
+308,308,32408,32408,High School Graduate,Retail Trade,62191146,13835,2006,Female,Maine,4495.2
+309,309,32409,32409,Some College,Retail Trade,54565788,10674,2006,Female,Maine,5112.03
+310,310,32410,32410,Advanced Degree,Retail Trade,33168182,4684,2006,Female,Maine,7081.17
+311,311,32411,32411,Unavalble,Retail Trade,23219896,10560,2006,Female,Maine,2198.85
+312,312,32436,32436,All Education Categories,Finance and Insurance,170354092,7575,2006,Male,Maine,22488.99
+313,313,32437,32437,Less Than High School,Finance and Insurance,2060212,195,2006,Male,Maine,10565.19
+314,314,32438,32438,High School Graduate,Finance and Insurance,15038100,1130,2006,Male,Maine,13308.05
+315,315,32439,32439,Some College,Finance and Insurance,34127634,1922,2006,Male,Maine,17756.31
+316,316,32440,32440,Advanced Degree,Finance and Insurance,116422966,3882,2006,Male,Maine,29990.46
+317,317,32441,32441,Unavalble,Finance and Insurance,2705180,447,2006,Male,Maine,6051.86
+318,318,32442,32442,All Education Categories,Finance and Insurance,198202530,17937,2006,Female,Maine,11049.93
+319,319,32443,32443,Less Than High School,Finance and Insurance,2573884,366,2006,Female,Maine,7032.47
+320,320,32444,32444,High School Graduate,Finance and Insurance,31962616,3828,2006,Female,Maine,8349.69
+321,321,32445,32445,Some College,Finance and Insurance,55045952,5512,2006,Female,Maine,9986.57
+322,322,32446,32446,Advanced Degree,Finance and Insurance,100511683,6715,2006,Female,Maine,14968.23
+323,323,32447,32447,Unavalble,Finance and Insurance,8108395,1515,2006,Female,Maine,5352.08
+324,324,32496,32496,All Education Categories,Educational Services,170797203,18419,2006,Male,Maine,9272.88
+325,325,32497,32497,Less Than High School,Educational Services,5283571,829,2006,Male,Maine,6373.43
+326,326,32498,32498,High School Graduate,Educational Services,28294954,3785,2006,Male,Maine,7475.55
+327,327,32499,32499,Some College,Educational Services,42259503,4863,2006,Male,Maine,8690.01
+328,328,32500,32500,Advanced Degree,Educational Services,92307102,8063,2006,Male,Maine,11448.23
+329,329,32501,32501,Unavalble,Educational Services,2652074,878,2006,Male,Maine,3020.59
+330,330,32502,32502,All Education Categories,Educational Services,288186515,38993,2006,Female,Maine,7390.72
+331,331,32503,32503,Less Than High School,Educational Services,5229890,1144,2006,Female,Maine,4571.58
+332,332,32504,32504,High School Graduate,Educational Services,47810736,8661,2006,Female,Maine,5520.23
+333,333,32505,32505,Some College,Educational Services,79107413,11649,2006,Female,Maine,6790.92
+334,334,32506,32506,Advanced Degree,Educational Services,150251535,15905,2006,Female,Maine,9446.81
+335,335,32507,32507,Unavalble,Educational Services,5786940,1634,2006,Female,Maine,3541.58
+336,336,32508,32508,All Education Categories,Health Care and Social Assistance,250337224,19417,2006,Male,Maine,12892.68
+337,337,32509,32509,Less Than High School,Health Care and Social Assistance,7505395,1182,2006,Male,Maine,6349.74
+338,338,32510,32510,High School Graduate,Health Care and Social Assistance,35464456,4413,2006,Male,Maine,8036.36
+339,339,32511,32511,Some College,Health Care and Social Assistance,61133748,5584,2006,Male,Maine,10948.02
+340,340,32512,32512,Advanced Degree,Health Care and Social Assistance,139995054,6525,2006,Male,Maine,21455.18
+341,341,32513,32513,Unavalble,Health Care and Social Assistance,6238572,1712,2006,Male,Maine,3644.03
+342,342,32514,32514,All Education Categories,Health Care and Social Assistance,556828183,76538,2006,Female,Maine,7275.19
+343,343,32515,32515,Less Than High School,Health Care and Social Assistance,16076165,3261,2006,Female,Maine,4929.83
+344,344,32516,32516,High School Graduate,Health Care and Social Assistance,108158353,18637,2006,Female,Maine,5803.42
+345,345,32517,32517,Some College,Health Care and Social Assistance,209690996,28571,2006,Female,Maine,7339.29
+346,346,32518,32518,Advanced Degree,Health Care and Social Assistance,193161595,18778,2006,Female,Maine,10286.59
+347,347,32519,32519,Unavalble,Health Care and Social Assistance,29741074,7292,2006,Female,Maine,4078.59
+348,348,32532,32532,All Education Categories,Accommodation and Food Services,71164696,17275,2006,Male,Maine,4119.52
+349,349,32533,32533,Less Than High School,Accommodation and Food Services,7790244,1732,2006,Male,Maine,4497.83
+350,350,32534,32534,High School Graduate,Accommodation and Food Services,20363966,4031,2006,Male,Maine,5051.84
+351,351,32535,32535,Some College,Accommodation and Food Services,16683296,3012,2006,Male,Maine,5538.94
+352,352,32536,32536,Advanced Degree,Accommodation and Food Services,9208092,1414,2006,Male,Maine,6512.09
+353,353,32537,32537,Unavalble,Accommodation and Food Services,17119099,7086,2006,Male,Maine,2415.9
+354,354,32538,32538,All Education Categories,Accommodation and Food Services,78738278,25621,2006,Female,Maine,3073.19
+355,355,32539,32539,Less Than High School,Accommodation and Food Services,6288928,1983,2006,Female,Maine,3171.42
+356,356,32540,32540,High School Graduate,Accommodation and Food Services,21376315,6162,2006,Female,Maine,3469.05
+357,357,32541,32541,Some College,Accommodation and Food Services,18927672,4998,2006,Female,Maine,3787.05
+358,358,32542,32542,Advanced Degree,Accommodation and Food Services,9369431,2163,2006,Female,Maine,4331.68
+359,359,32543,32543,Unavalble,Accommodation and Food Services,22775931,10315,2006,Female,Maine,2208.04
+360,360,32568,32568,All Education Categories,00,2848652304,272012,2007,Male,Maine,10472.52
+361,361,32569,32569,Less Than High School,00,163592851,22108,2007,Male,Maine,7399.71
+362,362,32570,32570,High School Graduate,00,747352010,82383,2007,Male,Maine,9071.68
+363,363,32571,32571,Some College,00,804551839,74319,2007,Male,Maine,10825.65
+364,364,32572,32572,Advanced Degree,00,996859618,58505,2007,Male,Maine,17038.88
+365,365,32573,32573,Unavalble,00,136295985,34697,2007,Male,Maine,3928.18
+366,366,32574,32574,All Education Categories,00,2048265521,294847,2007,Female,Maine,6946.88
+367,367,32575,32575,Less Than High School,00,69071941,14761,2007,Female,Maine,4679.35
+368,368,32576,32576,High School Graduate,00,446890787,77577,2007,Female,Maine,5760.61
+369,369,32577,32577,Some College,00,660779098,91681,2007,Female,Maine,7207.37
+370,370,32578,32578,Advanced Degree,00,746804238,70601,2007,Female,Maine,10577.81
+371,371,32579,32579,Unavalble,00,124719457,40227,2007,Female,Maine,3100.39
+372,372,32628,32628,All Education Categories,Manufacturing,544264798,44146,2007,Male,Maine,12328.75
+373,373,32629,32629,Less Than High School,Manufacturing,35179913,3775,2007,Male,Maine,9319.18
+374,374,32630,32630,High School Graduate,Manufacturing,187692160,17076,2007,Male,Maine,10991.58
+375,375,32631,32631,Some College,Manufacturing,174453719,13688,2007,Male,Maine,12745.01
+376,376,32632,32632,Advanced Degree,Manufacturing,130341549,6926,2007,Male,Maine,18819.17
+377,377,32633,32633,Unavalble,Manufacturing,16597456,2681,2007,Male,Maine,6190.77
+378,378,32634,32634,All Education Categories,Manufacturing,123590287,15289,2007,Female,Maine,8083.61
+379,379,32635,32635,Less Than High School,Manufacturing,7277466,1206,2007,Female,Maine,6034.38
+380,380,32636,32636,High School Graduate,Manufacturing,41893231,5814,2007,Female,Maine,7205.58
+381,381,32637,32637,Some College,Manufacturing,41417344,4835,2007,Female,Maine,8566.15
+382,382,32638,32638,Advanced Degree,Manufacturing,28585439,2398,2007,Female,Maine,11920.53
+383,383,32639,32639,Unavalble,Manufacturing,4416807,1036,2007,Female,Maine,4263.33
+384,384,32652,32652,All Education Categories,Retail Trade,307879721,41951,2007,Male,Maine,7339.03
+385,385,32653,32653,Less Than High School,Retail Trade,23904778,3786,2007,Male,Maine,6313.99
+386,386,32654,32654,High School Graduate,Retail Trade,104317659,13465,2007,Male,Maine,7747.32
+387,387,32655,32655,Some College,Retail Trade,90746858,10311,2007,Male,Maine,8800.98
+388,388,32656,32656,Advanced Degree,Retail Trade,59970108,4974,2007,Male,Maine,12056.72
+389,389,32657,32657,Unavalble,Retail Trade,28940318,9415,2007,Male,Maine,3073.85
+390,390,32658,32658,All Education Categories,Retail Trade,189161615,42822,2007,Female,Maine,4417.39
+391,391,32659,32659,Less Than High School,Retail Trade,11631960,2983,2007,Female,Maine,3899.42
+392,392,32660,32660,High School Graduate,Retail Trade,63402938,13815,2007,Female,Maine,4589.43
+393,393,32661,32661,Some College,Retail Trade,56109420,10755,2007,Female,Maine,5217.05
+394,394,32662,32662,Advanced Degree,Retail Trade,34402298,4772,2007,Female,Maine,7209.2
+395,395,32663,32663,Unavalble,Retail Trade,23614999,10496,2007,Female,Maine,2249.9
+396,396,32688,32688,All Education Categories,Finance and Insurance,181517453,7336,2007,Male,Maine,24743.38
+397,397,32689,32689,Less Than High School,Finance and Insurance,2292496,206,2007,Male,Maine,11128.62
+398,398,32690,32690,High School Graduate,Finance and Insurance,16251460,1086,2007,Male,Maine,14964.51
+399,399,32691,32691,Some College,Finance and Insurance,36305462,1864,2007,Male,Maine,19477.18
+400,400,32692,32692,Advanced Degree,Finance and Insurance,123845255,3786,2007,Male,Maine,32711.37
+401,401,32693,32693,Unavalble,Finance and Insurance,2822779,394,2007,Male,Maine,7164.41
+402,402,32694,32694,All Education Categories,Finance and Insurance,210738423,17817,2007,Female,Maine,11827.94
+403,403,32695,32695,Less Than High School,Finance and Insurance,2861833,396,2007,Female,Maine,7226.85
+404,404,32696,32696,High School Graduate,Finance and Insurance,33662725,3838,2007,Female,Maine,8770.9
+405,405,32697,32697,Some College,Finance and Insurance,58304623,5519,2007,Female,Maine,10564.35
+406,406,32698,32698,Advanced Degree,Finance and Insurance,107880477,6625,2007,Female,Maine,16283.85
+407,407,32699,32699,Unavalble,Finance and Insurance,8028765,1438,2007,Female,Maine,5583.29
+408,408,32748,32748,All Education Categories,Educational Services,185535232,19426,2007,Male,Maine,9550.87
+409,409,32749,32749,Less Than High School,Educational Services,6146221,900,2007,Male,Maine,6829.13
+410,410,32750,32750,High School Graduate,Educational Services,31089343,4013,2007,Male,Maine,7747.16
+411,411,32751,32751,Some College,Educational Services,46278181,5157,2007,Male,Maine,8973.86
+412,412,32752,32752,Advanced Degree,Educational Services,98609830,8436,2007,Male,Maine,11689.17
+413,413,32753,32753,Unavalble,Educational Services,3411657,920,2007,Male,Maine,3708.32
+414,414,32754,32754,All Education Categories,Educational Services,311463706,41787,2007,Female,Maine,7453.6
+415,415,32755,32755,Less Than High School,Educational Services,5848979,1248,2007,Female,Maine,4686.68
+416,416,32756,32756,High School Graduate,Educational Services,52053841,9256,2007,Female,Maine,5623.79
+417,417,32757,32757,Some College,Educational Services,86181227,12550,2007,Female,Maine,6867.03
+418,418,32758,32758,Advanced Degree,Educational Services,160984385,17064,2007,Female,Maine,9434.15
+419,419,32759,32759,Unavalble,Educational Services,6395274,1668,2007,Female,Maine,3834.1
+420,420,32760,32760,All Education Categories,Health Care and Social Assistance,272311512,19578,2007,Male,Maine,13909.06
+421,421,32761,32761,Less Than High School,Health Care and Social Assistance,8146324,1214,2007,Male,Maine,6710.32
+422,422,32762,32762,High School Graduate,Health Care and Social Assistance,37780987,4453,2007,Male,Maine,8484.39
+423,423,32763,32763,Some College,Health Care and Social Assistance,65265661,5606,2007,Male,Maine,11642.11
+424,424,32764,32764,Advanced Degree,Health Care and Social Assistance,154193710,6606,2007,Male,Maine,23341.46
+425,425,32765,32765,Unavalble,Health Care and Social Assistance,6924830,1699,2007,Male,Maine,4075.83
+426,426,32766,32766,All Education Categories,Health Care and Social Assistance,598678061,78419,2007,Female,Maine,7634.35
+427,427,32767,32767,Less Than High School,Health Care and Social Assistance,17669488,3383,2007,Female,Maine,5223.02
+428,428,32768,32768,High School Graduate,Health Care and Social Assistance,115965295,19096,2007,Female,Maine,6072.75
+429,429,32769,32769,Some College,Health Care and Social Assistance,225470601,29359,2007,Female,Maine,7679.78
+430,430,32770,32770,Advanced Degree,Health Care and Social Assistance,209615158,19338,2007,Female,Maine,10839.55
+431,431,32771,32771,Unavalble,Health Care and Social Assistance,29957518,7242,2007,Female,Maine,4136.64
+432,432,32784,32784,All Education Categories,Accommodation and Food Services,74587057,17691,2007,Male,Maine,4216.1
+433,433,32785,32785,Less Than High School,Accommodation and Food Services,8234712,1810,2007,Male,Maine,4549.56
+434,434,32786,32786,High School Graduate,Accommodation and Food Services,21241137,4150,2007,Male,Maine,5118.35
+435,435,32787,32787,Some College,Accommodation and Food Services,17476544,3134,2007,Male,Maine,5576.43
+436,436,32788,32788,Advanced Degree,Accommodation and Food Services,9696669,1495,2007,Male,Maine,6486.07
+437,437,32789,32789,Unavalble,Accommodation and Food Services,17937994,7101,2007,Male,Maine,2526.12
+438,438,32790,32790,All Education Categories,Accommodation and Food Services,81946581,26109,2007,Female,Maine,3138.63
+439,439,32791,32791,Less Than High School,Accommodation and Food Services,6507643,2024,2007,Female,Maine,3215.24
+440,440,32792,32792,High School Graduate,Accommodation and Food Services,22074578,6263,2007,Female,Maine,3524.6
+441,441,32793,32793,Some College,Accommodation and Food Services,19667191,5154,2007,Female,Maine,3815.91
+442,442,32794,32794,Advanced Degree,Accommodation and Food Services,9870457,2290,2007,Female,Maine,4310.24
+443,443,32795,32795,Unavalble,Accommodation and Food Services,23826712,10379,2007,Female,Maine,2295.67
+444,444,32820,32820,All Education Categories,00,2924232632,273528,2008,Male,Maine,10690.8
+445,445,32821,32821,Less Than High School,00,170534928,22493,2008,Male,Maine,7581.69
+446,446,32822,32822,High School Graduate,00,770959931,82890,2008,Male,Maine,9301.0
+447,447,32823,32823,Some College,00,827098627,74888,2008,Male,Maine,11044.47
+448,448,32824,32824,Advanced Degree,00,1017291344,58465,2008,Male,Maine,17400.01
+449,449,32825,32825,Unavalble,00,138347802,34792,2008,Male,Maine,3976.43
+450,450,32826,32826,All Education Categories,00,2114999908,296360,2008,Female,Maine,7136.59
+451,451,32827,32827,Less Than High School,00,73079833,15130,2008,Female,Maine,4830.13
+452,452,32828,32828,High School Graduate,00,461111902,77891,2008,Female,Maine,5919.96
+453,453,32829,32829,Some College,00,684562728,92615,2008,Female,Maine,7391.49
+454,454,32830,32830,Advanced Degree,00,771828584,71130,2008,Female,Maine,10850.96
+455,455,32831,32831,Unavalble,00,124416862,39594,2008,Female,Maine,3142.32
+456,456,32880,32880,All Education Categories,Manufacturing,552909568,44296,2008,Male,Maine,12482.16
+457,457,32881,32881,Less Than High School,Manufacturing,36548769,3830,2008,Male,Maine,9542.76
+458,458,32882,32882,High School Graduate,Manufacturing,192331774,17006,2008,Male,Maine,11309.64
+459,459,32883,32883,Some College,Manufacturing,177841606,13660,2008,Male,Maine,13019.15
+460,460,32884,32884,Advanced Degree,Manufacturing,127524095,6933,2008,Male,Maine,18393.78
+461,461,32885,32885,Unavalble,Manufacturing,18663324,2867,2008,Male,Maine,6509.7
+462,462,32886,32886,All Education Categories,Manufacturing,128226650,15249,2008,Female,Maine,8408.86
+463,463,32887,32887,Less Than High School,Manufacturing,7345071,1181,2008,Female,Maine,6219.37
+464,464,32888,32888,High School Graduate,Manufacturing,42949649,5740,2008,Female,Maine,7482.52
+465,465,32889,32889,Some College,Manufacturing,43024464,4838,2008,Female,Maine,8893.03
+466,466,32890,32890,Advanced Degree,Manufacturing,30171467,2462,2008,Female,Maine,12254.86
+467,467,32891,32891,Unavalble,Manufacturing,4735998,1029,2008,Female,Maine,4602.52
+468,468,32904,32904,All Education Categories,Retail Trade,308636988,41787,2008,Male,Maine,7385.96
+469,469,32905,32905,Less Than High School,Retail Trade,24009681,3759,2008,Male,Maine,6387.25
+470,470,32906,32906,High School Graduate,Retail Trade,104918482,13325,2008,Male,Maine,7873.81
+471,471,32907,32907,Some College,Retail Trade,90659064,10233,2008,Male,Maine,8859.48
+472,472,32908,32908,Advanced Degree,Retail Trade,59764582,4932,2008,Male,Maine,12117.72
+473,473,32909,32909,Unavalble,Retail Trade,29285179,9539,2008,Male,Maine,3070.05
+474,474,32910,32910,All Education Categories,Retail Trade,187360002,42460,2008,Female,Maine,4412.62
+475,475,32911,32911,Less Than High School,Retail Trade,11762084,2965,2008,Female,Maine,3966.98
+476,476,32912,32912,High School Graduate,Retail Trade,62263945,13499,2008,Female,Maine,4612.49
+477,477,32913,32913,Some College,Retail Trade,55507777,10699,2008,Female,Maine,5188.13
+478,478,32914,32914,Advanced Degree,Retail Trade,34417128,4793,2008,Female,Maine,7180.71
+479,479,32915,32915,Unavalble,Retail Trade,23409068,10504,2008,Female,Maine,2228.59
+480,480,32940,32940,All Education Categories,Finance and Insurance,185756918,7172,2008,Male,Maine,25900.3
+481,481,32941,32941,Less Than High School,Finance and Insurance,2564080,211,2008,Male,Maine,12152.04
+482,482,32942,32942,High School Graduate,Finance and Insurance,16705659,1073,2008,Male,Maine,15569.11
+483,483,32943,32943,Some College,Finance and Insurance,36989230,1834,2008,Male,Maine,20168.61
+484,484,32944,32944,Advanced Degree,Finance and Insurance,126797343,3680,2008,Male,Maine,34455.8
+485,485,32945,32945,Unavalble,Finance and Insurance,2700606,374,2008,Male,Maine,7220.87
+486,486,32946,32946,All Education Categories,Finance and Insurance,215233496,17442,2008,Female,Maine,12339.96
+487,487,32947,32947,Less Than High School,Finance and Insurance,3015980,404,2008,Female,Maine,7465.3
+488,488,32948,32948,High School Graduate,Finance and Insurance,34609007,3787,2008,Female,Maine,9138.9
+489,489,32949,32949,Some College,Finance and Insurance,59248084,5443,2008,Female,Maine,10885.19
+490,490,32950,32950,Advanced Degree,Finance and Insurance,111082555,6522,2008,Female,Maine,17031.98
+491,491,32951,32951,Unavalble,Finance and Insurance,7277871,1286,2008,Female,Maine,5659.31
+492,492,33000,33000,All Education Categories,Educational Services,183821767,19253,2008,Male,Maine,9547.69
+493,493,33001,33001,Less Than High School,Educational Services,6073777,920,2008,Male,Maine,6601.93
+494,494,33002,33002,High School Graduate,Educational Services,31473646,4062,2008,Male,Maine,7748.31
+495,495,33003,33003,Some College,Educational Services,46144831,5151,2008,Male,Maine,8958.42
+496,496,33004,33004,Advanced Degree,Educational Services,97217022,8212,2008,Male,Maine,11838.41
+497,497,33005,33005,Unavalble,Educational Services,2912492,908,2008,Male,Maine,3207.59
+498,498,33006,33006,All Education Categories,Educational Services,311876586,41373,2008,Female,Maine,7538.17
+499,499,33007,33007,Less Than High School,Educational Services,6055479,1271,2008,Female,Maine,4764.34
+500,500,33008,33008,High School Graduate,Educational Services,52479085,9219,2008,Female,Maine,5692.49
+501,501,33009,33009,Some College,Educational Services,87096170,12520,2008,Female,Maine,6956.56
+502,502,33010,33010,Advanced Degree,Educational Services,160172405,16749,2008,Female,Maine,9563.1
+503,503,33011,33011,Unavalble,Educational Services,6073448,1614,2008,Female,Maine,3762.98
+504,504,33012,33012,All Education Categories,Health Care and Social Assistance,287063269,20090,2008,Male,Maine,14288.86
+505,505,33013,33013,Less Than High School,Health Care and Social Assistance,8956921,1256,2008,Male,Maine,7131.31
+506,506,33014,33014,High School Graduate,Health Care and Social Assistance,40279752,4554,2008,Male,Maine,8844.92
+507,507,33015,33015,Some College,Health Care and Social Assistance,69068715,5775,2008,Male,Maine,11959.95
+508,508,33016,33016,Advanced Degree,Health Care and Social Assistance,161784604,6766,2008,Male,Maine,23911.41
+509,509,33017,33017,Unavalble,Health Care and Social Assistance,6973277,1738,2008,Male,Maine,4012.24
+510,510,33018,33018,All Education Categories,Health Care and Social Assistance,627390251,79865,2008,Female,Maine,7855.63
+511,511,33019,33019,Less Than High School,Health Care and Social Assistance,19114312,3544,2008,Female,Maine,5393.43
+512,512,33020,33020,High School Graduate,Health Care and Social Assistance,122548058,19569,2008,Female,Maine,6262.36
+513,513,33021,33021,Some College,Health Care and Social Assistance,235077806,29758,2008,Female,Maine,7899.65
+514,514,33022,33022,Advanced Degree,Health Care and Social Assistance,219719308,19723,2008,Female,Maine,11140.26
+515,515,33023,33023,Unavalble,Health Care and Social Assistance,30930767,7272,2008,Female,Maine,4253.41
+516,516,33036,33036,All Education Categories,Accommodation and Food Services,74490595,17447,2008,Male,Maine,4269.54
+517,517,33037,33037,Less Than High School,Accommodation and Food Services,8428398,1817,2008,Male,Maine,4638.63
+518,518,33038,33038,High School Graduate,Accommodation and Food Services,21515076,4161,2008,Male,Maine,5170.65
+519,519,33039,33039,Some College,Accommodation and Food Services,17644920,3128,2008,Male,Maine,5640.96
+520,520,33040,33040,Advanced Degree,Accommodation and Food Services,9767903,1470,2008,Male,Maine,6644.83
+521,521,33041,33041,Unavalble,Accommodation and Food Services,17134298,6869,2008,Male,Maine,2494.44
+522,522,33042,33042,All Education Categories,Accommodation and Food Services,82025077,25794,2008,Female,Maine,3180.01
+523,523,33043,33043,Less Than High School,Accommodation and Food Services,6757897,2047,2008,Female,Maine,3301.37
+524,524,33044,33044,High School Graduate,Accommodation and Food Services,22160589,6167,2008,Female,Maine,3593.41
+525,525,33045,33045,Some College,Accommodation and Food Services,20090916,5189,2008,Female,Maine,3871.83
+526,526,33046,33046,Advanced Degree,Accommodation and Food Services,10141292,2330,2008,Female,Maine,4352.49
+527,527,33047,33047,Unavalble,Accommodation and Food Services,22874384,10060,2008,Female,Maine,2273.8
+528,528,33072,33072,All Education Categories,00,2726818893,263198,2009,Male,Maine,10360.33
+529,529,33073,33073,Less Than High School,00,158405440,21718,2009,Male,Maine,7293.74
+530,530,33074,33074,High School Graduate,00,710961793,79740,2009,Male,Maine,8916.0
+531,531,33075,33075,Some College,00,774695270,72777,2009,Male,Maine,10644.78
+532,532,33076,33076,Advanced Degree,00,965217439,57308,2009,Male,Maine,16842.63
+533,533,33077,33077,Unavalble,00,117538952,31655,2009,Male,Maine,3713.12
+534,534,33078,33078,All Education Categories,00,2061828630,291455,2009,Female,Maine,7074.26
+535,535,33079,33079,Less Than High School,00,72885631,15144,2009,Female,Maine,4812.84
+536,536,33080,33080,High School Graduate,00,449185117,76577,2009,Female,Maine,5865.8
+537,537,33081,33081,Some College,00,672365346,91963,2009,Female,Maine,7311.26
+538,538,33082,33082,Advanced Degree,00,754794096,70773,2009,Female,Maine,10665.0
+539,539,33083,33083,Unavalble,00,112598441,36998,2009,Female,Maine,3043.37
+540,540,33132,33132,All Education Categories,Manufacturing,478877721,41170,2009,Male,Maine,11631.72
+541,541,33133,33133,Less Than High School,Manufacturing,31125273,3531,2009,Male,Maine,8814.86
+542,542,33134,33134,High School Graduate,Manufacturing,164769509,15818,2009,Male,Maine,10416.58
+543,543,33135,33135,Some College,Manufacturing,154463189,12831,2009,Male,Maine,12038.28
+544,544,33136,33136,Advanced Degree,Manufacturing,115011783,6584,2009,Male,Maine,17468.38
+545,545,33137,33137,Unavalble,Manufacturing,13507967,2406,2009,Male,Maine,5614.28
+546,546,33138,33138,All Education Categories,Manufacturing,110421429,13844,2009,Female,Maine,7976.12
+547,547,33139,33139,Less Than High School,Manufacturing,6124860,1051,2009,Female,Maine,5827.65
+548,548,33140,33140,High School Graduate,Manufacturing,36054092,5162,2009,Female,Maine,6984.52
+549,549,33141,33141,Some College,Manufacturing,37050219,4454,2009,Female,Maine,8318.41
+550,550,33142,33142,Advanced Degree,Manufacturing,27505971,2336,2009,Female,Maine,11774.82
+551,551,33143,33143,Unavalble,Manufacturing,3686288,842,2009,Female,Maine,4378.01
+552,552,33156,33156,All Education Categories,Retail Trade,288506599,39929,2009,Male,Maine,7225.49
+553,553,33157,33157,Less Than High School,Retail Trade,22757772,3637,2009,Male,Maine,6257.29
+554,554,33158,33158,High School Graduate,Retail Trade,98338132,12878,2009,Male,Maine,7636.13
+555,555,33159,33159,Some College,Retail Trade,85547253,9998,2009,Male,Maine,8556.44
+556,556,33160,33160,Advanced Degree,Retail Trade,56517456,4860,2009,Male,Maine,11629.11
+557,557,33161,33161,Unavalble,Retail Trade,25345987,8557,2009,Male,Maine,2962.02
+558,558,33162,33162,All Education Categories,Retail Trade,177416174,40499,2009,Female,Maine,4380.75
+559,559,33163,33163,Less Than High School,Retail Trade,11354513,2906,2009,Female,Maine,3907.27
+560,560,33164,33164,High School Graduate,Retail Trade,59218267,12940,2009,Female,Maine,4576.37
+561,561,33165,33165,Some College,Retail Trade,53445597,10397,2009,Female,Maine,5140.48
+562,562,33166,33166,Advanced Degree,Retail Trade,32999599,4779,2009,Female,Maine,6905.13
+563,563,33167,33167,Unavalble,Retail Trade,20398198,9477,2009,Female,Maine,2152.39
+564,564,33192,33192,All Education Categories,Finance and Insurance,166028146,7079,2009,Male,Maine,23453.62
+565,565,33193,33193,Less Than High School,Finance and Insurance,2469728,224,2009,Male,Maine,11025.57
+566,566,33194,33194,High School Graduate,Finance and Insurance,16055770,1101,2009,Male,Maine,14582.9
+567,567,33195,33195,Some College,Finance and Insurance,33603975,1800,2009,Male,Maine,18668.88
+568,568,33196,33196,Advanced Degree,Finance and Insurance,111733487,3591,2009,Male,Maine,31114.87
+569,569,33197,33197,Unavalble,Finance and Insurance,2165186,363,2009,Male,Maine,5964.7
+570,570,33198,33198,All Education Categories,Finance and Insurance,202569042,17266,2009,Female,Maine,11732.25
+571,571,33199,33199,Less Than High School,Finance and Insurance,3134966,432,2009,Female,Maine,7256.87
+572,572,33200,33200,High School Graduate,Finance and Insurance,33421843,3802,2009,Female,Maine,8790.6
+573,573,33201,33201,Some College,Finance and Insurance,56995377,5425,2009,Female,Maine,10506.06
+574,574,33202,33202,Advanced Degree,Finance and Insurance,102758379,6419,2009,Female,Maine,16008.47
+575,575,33203,33203,Unavalble,Finance and Insurance,6258477,1188,2009,Female,Maine,5268.08
+576,576,33252,33252,All Education Categories,Educational Services,186844087,19372,2009,Male,Maine,9645.06
+577,577,33253,33253,Less Than High School,Educational Services,6473886,970,2009,Male,Maine,6674.11
+578,578,33254,33254,High School Graduate,Educational Services,32527157,4166,2009,Male,Maine,7807.77
+579,579,33255,33255,Some College,Educational Services,47220133,5219,2009,Male,Maine,9047.74
+580,580,33256,33256,Advanced Degree,Educational Services,97917301,8138,2009,Male,Maine,12032.11
+581,581,33257,33257,Unavalble,Educational Services,2705609,879,2009,Male,Maine,3078.05
+582,582,33258,33258,All Education Categories,Educational Services,317631746,41361,2009,Female,Maine,7679.5
+583,583,33259,33259,Less Than High School,Educational Services,6602086,1325,2009,Female,Maine,4982.71
+584,584,33260,33260,High School Graduate,Educational Services,54137625,9249,2009,Female,Maine,5853.35
+585,585,33261,33261,Some College,Educational Services,89547414,12631,2009,Female,Maine,7089.5
+586,586,33262,33262,Advanced Degree,Educational Services,161948610,16658,2009,Female,Maine,9721.97
+587,587,33263,33263,Unavalble,Educational Services,5396011,1498,2009,Female,Maine,3602.14
+588,588,33264,33264,All Education Categories,Health Care and Social Assistance,289036976,20526,2009,Male,Maine,14081.51
+589,589,33265,33265,Less Than High School,Health Care and Social Assistance,9603446,1344,2009,Male,Maine,7145.42
+590,590,33266,33266,High School Graduate,Health Care and Social Assistance,41448380,4745,2009,Male,Maine,8735.17
+591,591,33267,33267,Some College,Health Care and Social Assistance,69929115,5905,2009,Male,Maine,11842.36
+592,592,33268,33268,Advanced Degree,Health Care and Social Assistance,161263565,6777,2009,Male,Maine,23795.72
+593,593,33269,33269,Unavalble,Health Care and Social Assistance,6792472,1755,2009,Male,Maine,3870.35
+594,594,33270,33270,All Education Categories,Health Care and Social Assistance,628356904,80653,2009,Female,Maine,7790.87
+595,595,33271,33271,Less Than High School,Health Care and Social Assistance,20160061,3709,2009,Female,Maine,5435.44
+596,596,33272,33272,High School Graduate,Health Care and Social Assistance,123786543,19830,2009,Female,Maine,6242.39
+597,597,33273,33273,Some College,Health Care and Social Assistance,234767037,29986,2009,Female,Maine,7829.22
+598,598,33274,33274,Advanced Degree,Health Care and Social Assistance,219623420,19812,2009,Female,Maine,11085.37
+599,599,33275,33275,Unavalble,Health Care and Social Assistance,30019843,7315,2009,Female,Maine,4103.87
+600,600,33288,33288,All Education Categories,Accommodation and Food Services,70832849,17266,2009,Male,Maine,4102.45
+601,601,33289,33289,Less Than High School,Accommodation and Food Services,8131984,1844,2009,Male,Maine,4409.97
+602,602,33290,33290,High School Graduate,Accommodation and Food Services,20660673,4170,2009,Male,Maine,4954.6
+603,603,33291,33291,Some College,Accommodation and Food Services,17014840,3181,2009,Male,Maine,5348.9
+604,604,33292,33292,Advanced Degree,Accommodation and Food Services,9531699,1519,2009,Male,Maine,6274.98
+605,605,33293,33293,Unavalble,Accommodation and Food Services,15493653,6552,2009,Male,Maine,2364.72
+606,606,33294,33294,All Education Categories,Accommodation and Food Services,78412254,25075,2009,Female,Maine,3127.11
+607,607,33295,33295,Less Than High School,Accommodation and Food Services,6484173,2010,2009,Female,Maine,3225.96
+608,608,33296,33296,High School Graduate,Accommodation and Food Services,21287818,6061,2009,Female,Maine,3512.26
+609,609,33297,33297,Some College,Accommodation and Food Services,19689378,5195,2009,Female,Maine,3790.06
+610,610,33298,33298,Advanced Degree,Accommodation and Food Services,10111875,2378,2009,Female,Maine,4252.26
+611,611,33299,33299,Unavalble,Accommodation and Food Services,20839010,9431,2009,Female,Maine,2209.63
+612,612,33324,33324,All Education Categories,00,2706327057,256938,2010,Male,Maine,10533.0
+613,613,33325,33325,Less Than High School,00,159542411,21448,2010,Male,Maine,7438.57
+614,614,33326,33326,High School Graduate,00,704735692,77840,2010,Male,Maine,9053.64
+615,615,33327,33327,Some College,00,769480972,71254,2010,Male,Maine,10799.13
+616,616,33328,33328,Advanced Degree,00,963859524,56374,2010,Male,Maine,17097.59
+617,617,33329,33329,Unavalble,00,108708458,30023,2010,Male,Maine,3620.84
+618,618,33330,33330,All Education Categories,00,2039073552,285879,2010,Female,Maine,7132.65
+619,619,33331,33331,Less Than High School,00,75422716,15210,2010,Female,Maine,4958.76
+620,620,33332,33332,High School Graduate,00,446850189,75108,2010,Female,Maine,5949.44
+621,621,33333,33333,Some College,00,667063157,90700,2010,Female,Maine,7354.61
+622,622,33334,33334,Advanced Degree,00,745896297,70019,2010,Female,Maine,10652.77
+623,623,33335,33335,Unavalble,00,103841193,34842,2010,Female,Maine,2980.35
+624,624,33384,33384,All Education Categories,Manufacturing,491560002,38261,2010,Male,Maine,12847.55
+625,625,33385,33385,Less Than High School,Manufacturing,31947153,3291,2010,Male,Maine,9707.43
+626,626,33386,33386,High School Graduate,Manufacturing,169161599,14766,2010,Male,Maine,11456.16
+627,627,33387,33387,Some College,Manufacturing,158844806,12037,2010,Male,Maine,13196.38
+628,628,33388,33388,Advanced Degree,Manufacturing,119377445,6229,2010,Male,Maine,19164.78
+629,629,33389,33389,Unavalble,Manufacturing,12228999,1938,2010,Male,Maine,6310.11
+630,630,33390,33390,All Education Categories,Manufacturing,111520153,12751,2010,Female,Maine,8745.99
+631,631,33391,33391,Less Than High School,Manufacturing,6204746,983,2010,Female,Maine,6312.05
+632,632,33392,33392,High School Graduate,Manufacturing,35869289,4727,2010,Female,Maine,7588.17
+633,633,33393,33393,Some College,Manufacturing,37438986,4119,2010,Female,Maine,9089.34
+634,634,33394,33394,Advanced Degree,Manufacturing,28557953,2211,2010,Female,Maine,12916.31
+635,635,33395,33395,Unavalble,Manufacturing,3449179,712,2010,Female,Maine,4844.35
+636,636,33408,33408,All Education Categories,Retail Trade,288184541,39734,2010,Male,Maine,7252.84
+637,637,33409,33409,Less Than High School,Retail Trade,22943385,3631,2010,Male,Maine,6318.75
+638,638,33410,33410,High School Graduate,Retail Trade,97898758,12824,2010,Male,Maine,7634.03
+639,639,33411,33411,Some College,Retail Trade,85480466,9993,2010,Male,Maine,8554.03
+640,640,33412,33412,Advanced Degree,Retail Trade,57370748,4941,2010,Male,Maine,11611.16
+641,641,33413,33413,Unavalble,Retail Trade,24491184,8346,2010,Male,Maine,2934.48
+642,642,33414,33414,All Education Categories,Retail Trade,177052558,39645,2010,Female,Maine,4465.95
+643,643,33415,33415,Less Than High School,Retail Trade,11593573,2868,2010,Female,Maine,4042.39
+644,644,33416,33416,High School Graduate,Retail Trade,58870916,12597,2010,Female,Maine,4673.41
+645,645,33417,33417,Some College,Retail Trade,53608103,10275,2010,Female,Maine,5217.33
+646,646,33418,33418,Advanced Degree,Retail Trade,33265970,4782,2010,Female,Maine,6956.5
+647,647,33419,33419,Unavalble,Retail Trade,19713996,9122,2010,Female,Maine,2161.15
+648,648,33444,33444,All Education Categories,Finance and Insurance,171462753,7004,2010,Male,Maine,24480.69
+649,649,33445,33445,Less Than High School,Finance and Insurance,2709692,240,2010,Male,Maine,11290.38
+650,650,33446,33446,High School Graduate,Finance and Insurance,16483716,1125,2010,Male,Maine,14652.19
+651,651,33447,33447,Some College,Finance and Insurance,34800616,1790,2010,Male,Maine,19441.68
+652,652,33448,33448,Advanced Degree,Finance and Insurance,115373243,3514,2010,Male,Maine,32832.45
+653,653,33449,33449,Unavalble,Finance and Insurance,2095486,335,2010,Male,Maine,6255.18
+654,654,33450,33450,All Education Categories,Finance and Insurance,204906310,16964,2010,Female,Maine,12078.89
+655,655,33451,33451,Less Than High School,Finance and Insurance,3363794,456,2010,Female,Maine,7376.74
+656,656,33452,33452,High School Graduate,Finance and Insurance,33678867,3797,2010,Female,Maine,8869.86
+657,657,33453,33453,Some College,Finance and Insurance,57719543,5383,2010,Female,Maine,10722.56
+658,658,33454,33454,Advanced Degree,Finance and Insurance,104720812,6305,2010,Female,Maine,16609.17
+659,659,33455,33455,Unavalble,Finance and Insurance,5423295,1024,2010,Female,Maine,5296.19
+660,660,33504,33504,All Education Categories,Educational Services,183406286,19578,2010,Male,Maine,9367.98
+661,661,33505,33505,Less Than High School,Educational Services,6691463,1029,2010,Male,Maine,6502.88
+662,662,33506,33506,High School Graduate,Educational Services,32255497,4297,2010,Male,Maine,7506.52
+663,663,33507,33507,Some College,Educational Services,46502987,5294,2010,Male,Maine,8784.09
+664,664,33508,33508,Advanced Degree,Educational Services,95455953,8064,2010,Male,Maine,11837.3
+665,665,33509,33509,Unavalble,Educational Services,2500386,894,2010,Male,Maine,2796.85
+666,666,33510,33510,All Education Categories,Educational Services,310547451,40979,2010,Female,Maine,7578.21
+667,667,33511,33511,Less Than High School,Educational Services,7132098,1409,2010,Female,Maine,5061.82
+668,668,33512,33512,High School Graduate,Educational Services,53879526,9207,2010,Female,Maine,5852.02
+669,669,33513,33513,Some College,Educational Services,88652434,12601,2010,Female,Maine,7035.35
+670,670,33514,33514,Advanced Degree,Educational Services,156158391,16342,2010,Female,Maine,9555.65
+671,671,33515,33515,Unavalble,Educational Services,4725002,1421,2010,Female,Maine,3325.12
+672,672,33516,33516,All Education Categories,Health Care and Social Assistance,289132960,21104,2010,Male,Maine,13700.39
+673,673,33517,33517,Less Than High School,Health Care and Social Assistance,10304785,1443,2010,Male,Maine,7141.22
+674,674,33518,33518,High School Graduate,Health Care and Social Assistance,42154984,4957,2010,Male,Maine,8504.13
+675,675,33519,33519,Some College,Health Care and Social Assistance,70569647,6056,2010,Male,Maine,11652.85
+676,676,33520,33520,Advanced Degree,Health Care and Social Assistance,159393271,6835,2010,Male,Maine,23320.16
+677,677,33521,33521,Unavalble,Health Care and Social Assistance,6710273,1814,2010,Male,Maine,3699.16
+678,678,33522,33522,All Education Categories,Health Care and Social Assistance,618945529,81208,2010,Female,Maine,7621.73
+679,679,33523,33523,Less Than High School,Health Care and Social Assistance,21124367,3885,2010,Female,Maine,5437.42
+680,680,33524,33524,High School Graduate,Health Care and Social Assistance,124093295,20166,2010,Female,Maine,6153.59
+681,681,33525,33525,Some College,Health Care and Social Assistance,231212002,30091,2010,Female,Maine,7683.76
+682,682,33526,33526,Advanced Degree,Health Care and Social Assistance,214527195,19944,2010,Female,Maine,10756.48
+683,683,33527,33527,Unavalble,Health Care and Social Assistance,27988670,7121,2010,Female,Maine,3930.44
+684,684,33540,33540,All Education Categories,Accommodation and Food Services,71041614,17262,2010,Male,Maine,4115.49
+685,685,33541,33541,Less Than High School,Accommodation and Food Services,8266211,1859,2010,Male,Maine,4446.59
+686,686,33542,33542,High School Graduate,Accommodation and Food Services,20787009,4201,2010,Male,Maine,4948.11
+687,687,33543,33543,Some College,Accommodation and Food Services,17035007,3212,2010,Male,Maine,5303.55
+688,688,33544,33544,Advanced Degree,Accommodation and Food Services,9530105,1593,2010,Male,Maine,5982.49
+689,689,33545,33545,Unavalble,Accommodation and Food Services,15423282,6397,2010,Male,Maine,2411.02
+690,690,33546,33546,All Education Categories,Accommodation and Food Services,76974391,23994,2010,Female,Maine,3208.07
+691,691,33547,33547,Less Than High School,Accommodation and Food Services,6497828,1938,2010,Female,Maine,3352.85
+692,692,33548,33548,High School Graduate,Accommodation and Food Services,20849034,5808,2010,Female,Maine,3589.71
+693,693,33549,33549,Some College,Accommodation and Food Services,19680856,5076,2010,Female,Maine,3877.24
+694,694,33550,33550,Advanced Degree,Accommodation and Food Services,10162847,2373,2010,Female,Maine,4282.7
+695,695,33551,33551,Unavalble,Accommodation and Food Services,19783827,8800,2010,Female,Maine,2248.16
+696,696,33576,33576,All Education Categories,00,2850468713,258185,2011,Male,Maine,11040.41
+697,697,33577,33577,Less Than High School,00,173120906,22035,2011,Male,Maine,7856.63
+698,698,33578,33578,High School Graduate,00,746126393,78411,2011,Male,Maine,9515.58
+699,699,33579,33579,Some College,00,811361879,71819,2011,Male,Maine,11297.32
+700,700,33580,33580,Advanced Degree,00,1007672095,56242,2011,Male,Maine,17916.72
+701,701,33581,33581,Unavalble,00,112187439,29678,2011,Male,Maine,3780.15
+702,702,33582,33582,All Education Categories,00,2113569358,284229,2011,Female,Maine,7436.15
+703,703,33583,33583,Less Than High School,00,81477825,15502,2011,Female,Maine,5255.96
+704,704,33584,33584,High School Graduate,00,463453328,74481,2011,Female,Maine,6222.44
+705,705,33585,33585,Some College,00,691335599,90342,2011,Female,Maine,7652.43
+706,706,33586,33586,Advanced Degree,00,773803452,69663,2011,Female,Maine,11107.81
+707,707,33587,33587,Unavalble,00,103499154,34242,2011,Female,Maine,3022.58
+708,708,33636,33636,All Education Categories,Manufacturing,526472492,38513,2011,Male,Maine,13669.99
+709,709,33637,33637,Less Than High School,Manufacturing,34621251,3353,2011,Male,Maine,10325.46
+710,710,33638,33638,High School Graduate,Manufacturing,179263711,14690,2011,Male,Maine,12203.11
+711,711,33639,33639,Some College,Manufacturing,168514393,12055,2011,Male,Maine,13978.8
+712,712,33640,33640,Advanced Degree,Manufacturing,129584414,6245,2011,Male,Maine,20750.11
+713,713,33641,33641,Unavalble,Manufacturing,14488723,2171,2011,Male,Maine,6673.76
+714,714,33642,33642,All Education Categories,Manufacturing,114812232,12370,2011,Female,Maine,9281.51
+715,715,33643,33643,Less Than High School,Manufacturing,6498249,964,2011,Female,Maine,6740.92
+716,716,33644,33644,High School Graduate,Manufacturing,36364655,4495,2011,Female,Maine,8090.02
+717,717,33645,33645,Some College,Manufacturing,38302754,4001,2011,Female,Maine,9573.3
+718,718,33646,33646,Advanced Degree,Manufacturing,30247302,2210,2011,Female,Maine,13686.56
+719,719,33647,33647,Unavalble,Manufacturing,3399272,700,2011,Female,Maine,4856.1
+720,720,33660,33660,All Education Categories,Retail Trade,293880074,39387,2011,Male,Maine,7461.35
+721,721,33661,33661,Less Than High School,Retail Trade,24129998,3661,2011,Male,Maine,6591.09
+722,722,33662,33662,High School Graduate,Retail Trade,100073100,12614,2011,Male,Maine,7933.49
+723,723,33663,33663,Some College,Retail Trade,87719702,9944,2011,Male,Maine,8821.37
+724,724,33664,33664,Advanced Degree,Retail Trade,57395285,4914,2011,Male,Maine,11679.95
+725,725,33665,33665,Unavalble,Retail Trade,24561989,8255,2011,Male,Maine,2975.41
+726,726,33666,33666,All Education Categories,Retail Trade,178975327,39095,2011,Female,Maine,4577.96
+727,727,33667,33667,Less Than High School,Retail Trade,12114766,2828,2011,Female,Maine,4283.86
+728,728,33668,33668,High School Graduate,Retail Trade,59172524,12177,2011,Female,Maine,4859.37
+729,729,33669,33669,Some College,Retail Trade,54447233,10180,2011,Female,Maine,5348.45
+730,730,33670,33670,Advanced Degree,Retail Trade,33346719,4823,2011,Female,Maine,6914.1
+731,731,33671,33671,Unavalble,Retail Trade,19894085,9088,2011,Female,Maine,2189.05
+732,732,33696,33696,All Education Categories,Finance and Insurance,194031052,7354,2011,Male,Maine,26384.42
+733,733,33697,33697,Less Than High School,Finance and Insurance,3352744,277,2011,Male,Maine,12103.77
+734,734,33698,33698,High School Graduate,Finance and Insurance,18855551,1219,2011,Male,Maine,15468.05
+735,735,33699,33699,Some College,Finance and Insurance,40004233,1890,2011,Male,Maine,21166.26
+736,736,33700,33700,Advanced Degree,Finance and Insurance,129635635,3629,2011,Male,Maine,35722.14
+737,737,33701,33701,Unavalble,Finance and Insurance,2182889,339,2011,Male,Maine,6439.2
+738,738,33702,33702,All Education Categories,Finance and Insurance,226615375,17191,2011,Female,Maine,13182.21
+739,739,33703,33703,Less Than High School,Finance and Insurance,4017940,501,2011,Female,Maine,8019.84
+740,740,33704,33704,High School Graduate,Finance and Insurance,36597963,3834,2011,Female,Maine,9545.63
+741,741,33705,33705,Some College,Finance and Insurance,63246148,5474,2011,Female,Maine,11553.92
+742,742,33706,33706,Advanced Degree,Finance and Insurance,117241253,6367,2011,Female,Maine,18413.89
+743,743,33707,33707,Unavalble,Finance and Insurance,5512072,1014,2011,Female,Maine,5435.97
+744,744,33756,33756,All Education Categories,Educational Services,185662495,19262,2011,Male,Maine,9638.8
+745,745,33757,33757,Less Than High School,Educational Services,7228653,1058,2011,Male,Maine,6832.38
+746,746,33758,33758,High School Graduate,Educational Services,33340691,4271,2011,Male,Maine,7806.3
+747,747,33759,33759,Some College,Educational Services,47450783,5213,2011,Male,Maine,9102.39
+748,748,33760,33760,Advanced Degree,Educational Services,94785679,7792,2011,Male,Maine,12164.49
+749,749,33761,33761,Unavalble,Educational Services,2856690,928,2011,Male,Maine,3078.33
+750,750,33762,33762,All Education Categories,Educational Services,313911468,40455,2011,Female,Maine,7759.52
+751,751,33763,33763,Less Than High School,Educational Services,7731852,1471,2011,Female,Maine,5256.19
+752,752,33764,33764,High School Graduate,Educational Services,55034388,9096,2011,Female,Maine,6050.39
+753,753,33765,33765,Some College,Educational Services,90371012,12493,2011,Female,Maine,7233.73
+754,754,33766,33766,Advanced Degree,Educational Services,156298304,15969,2011,Female,Maine,9787.61
+755,755,33767,33767,Unavalble,Educational Services,4475912,1425,2011,Female,Maine,3140.99
+756,756,33768,33768,All Education Categories,Health Care and Social Assistance,306291246,20796,2011,Male,Maine,14728.37
+757,757,33769,33769,Less Than High School,Health Care and Social Assistance,11470805,1471,2011,Male,Maine,7797.96
+758,758,33770,33770,High School Graduate,Health Care and Social Assistance,44928785,4925,2011,Male,Maine,9122.6
+759,759,33771,33771,Some College,Health Care and Social Assistance,74073449,5957,2011,Male,Maine,12434.69
+760,760,33772,33772,Advanced Degree,Health Care and Social Assistance,169375642,6746,2011,Male,Maine,25107.57
+761,761,33773,33773,Unavalble,Health Care and Social Assistance,6442565,1697,2011,Male,Maine,3796.44
+762,762,33774,33774,All Education Categories,Health Care and Social Assistance,641531145,80099,2011,Female,Maine,8009.23
+763,763,33775,33775,Less Than High School,Health Care and Social Assistance,23043570,3970,2011,Female,Maine,5804.43
+764,764,33776,33776,High School Graduate,Health Care and Social Assistance,129735328,19976,2011,Female,Maine,6494.56
+765,765,33777,33777,Some College,Health Care and Social Assistance,238680971,29575,2011,Female,Maine,8070.36
+766,766,33778,33778,Advanced Degree,Health Care and Social Assistance,221444977,19613,2011,Female,Maine,11290.72
+767,767,33779,33779,Unavalble,Health Care and Social Assistance,28626299,6965,2011,Female,Maine,4110.02
+768,768,33792,33792,All Education Categories,Accommodation and Food Services,73350819,17621,2011,Male,Maine,4162.69
+769,769,33793,33793,Less Than High School,Accommodation and Food Services,8733356,1962,2011,Male,Maine,4451.25
+770,770,33794,33794,High School Graduate,Accommodation and Food Services,21808654,4360,2011,Male,Maine,5001.98
+771,771,33795,33795,Some College,Accommodation and Food Services,17735561,3364,2011,Male,Maine,5272.16
+772,772,33796,33796,Advanced Degree,Accommodation and Food Services,10084472,1709,2011,Male,Maine,5900.8
+773,773,33797,33797,Unavalble,Accommodation and Food Services,14988776,6227,2011,Male,Maine,2407.06
+774,774,33798,33798,All Education Categories,Accommodation and Food Services,78882574,24528,2011,Female,Maine,3216.02
+775,775,33799,33799,Less Than High School,Accommodation and Food Services,6701788,1972,2011,Female,Maine,3398.47
+776,776,33800,33800,High School Graduate,Accommodation and Food Services,21383532,5939,2011,Female,Maine,3600.53
+777,777,33801,33801,Some College,Accommodation and Food Services,20316029,5252,2011,Female,Maine,3868.25
+778,778,33802,33802,Advanced Degree,Accommodation and Food Services,10759439,2535,2011,Female,Maine,4244.35
+779,779,33803,33803,Unavalble,Accommodation and Food Services,19721786,8830,2011,Female,Maine,2233.5
+780,780,33828,33828,All Education Categories,00,2983664340,260914,2012,Male,Maine,11435.43
+781,781,33829,33829,Less Than High School,00,188493536,22813,2012,Male,Maine,8262.55
+782,782,33830,33830,High School Graduate,00,786288092,79335,2012,Male,Maine,9910.99
+783,783,33831,33831,Some College,00,851019032,72449,2012,Male,Maine,11746.46
+784,784,33832,33832,Advanced Degree,00,1034776395,56295,2012,Male,Maine,18381.32
+785,785,33833,33833,Unavalble,00,123087284,30023,2012,Male,Maine,4099.77
+786,786,33834,33834,All Education Categories,00,2232437944,286175,2012,Female,Maine,7800.95
+787,787,33835,33835,Less Than High School,00,91672547,16115,2012,Female,Maine,5688.65
+788,788,33836,33836,High School Graduate,00,493522059,74918,2012,Female,Maine,6587.5
+789,789,33837,33837,Some College,00,729811663,90826,2012,Female,Maine,8035.27
+790,790,33838,33838,Advanced Degree,00,805238531,69696,2012,Female,Maine,11553.58
+791,791,33839,33839,Unavalble,00,112193143,34620,2012,Female,Maine,3240.7
+792,792,33888,33888,All Education Categories,Manufacturing,541271510,38083,2012,Male,Maine,14212.94
+793,793,33889,33889,Less Than High School,Manufacturing,37293107,3414,2012,Male,Maine,10923.58
+794,794,33890,33890,High School Graduate,Manufacturing,185753191,14514,2012,Male,Maine,12798.21
+795,795,33891,33891,Some College,Manufacturing,173741924,11867,2012,Male,Maine,14640.76
+796,796,33892,33892,Advanced Degree,Manufacturing,128690819,6116,2012,Male,Maine,21041.66
+797,797,33893,33893,Unavalble,Manufacturing,15792470,2172,2012,Male,Maine,7270.93
+798,798,33894,33894,All Education Categories,Manufacturing,118149137,12179,2012,Female,Maine,9701.05
+799,799,33895,33895,Less Than High School,Manufacturing,6888158,957,2012,Female,Maine,7197.66
+800,800,33896,33896,High School Graduate,Manufacturing,37303156,4387,2012,Female,Maine,8503.11
+801,801,33897,33897,Some College,Manufacturing,39343848,3916,2012,Female,Maine,10046.95
+802,802,33898,33898,Advanced Degree,Manufacturing,31063485,2194,2012,Female,Maine,14158.38
+803,803,33899,33899,Unavalble,Manufacturing,3550490,726,2012,Female,Maine,4890.48
+804,804,33912,33912,All Education Categories,Retail Trade,305937864,39591,2012,Male,Maine,7727.46
+805,805,33913,33913,Less Than High School,Retail Trade,25701432,3738,2012,Male,Maine,6875.72
+806,806,33914,33914,High School Graduate,Retail Trade,103424590,12606,2012,Male,Maine,8204.39
+807,807,33915,33915,Some College,Retail Trade,91414307,10090,2012,Male,Maine,9059.89
+808,808,33916,33916,Advanced Degree,Retail Trade,59117663,4964,2012,Male,Maine,11909.28
+809,809,33917,33917,Unavalble,Retail Trade,26279872,8194,2012,Male,Maine,3207.21
+810,810,33918,33918,All Education Categories,Retail Trade,189451610,39244,2012,Female,Maine,4827.53
+811,811,33919,33919,Less Than High School,Retail Trade,13119373,2866,2012,Female,Maine,4577.59
+812,812,33920,33920,High School Graduate,Retail Trade,61780946,12096,2012,Female,Maine,5107.55
+813,813,33921,33921,Some College,Retail Trade,57662691,10309,2012,Female,Maine,5593.43
+814,814,33922,33922,Advanced Degree,Retail Trade,35653052,4993,2012,Female,Maine,7140.61
+815,815,33923,33923,Unavalble,Retail Trade,21235548,8981,2012,Female,Maine,2364.5
+816,816,33948,33948,All Education Categories,Finance and Insurance,204714420,7390,2012,Male,Maine,27701.55
+817,817,33949,33949,Less Than High School,Finance and Insurance,3967850,307,2012,Male,Maine,12924.59
+818,818,33950,33950,High School Graduate,Finance and Insurance,21158396,1274,2012,Male,Maine,16607.85
+819,819,33951,33951,Some College,Finance and Insurance,43111299,1932,2012,Male,Maine,22314.34
+820,820,33952,33952,Advanced Degree,Finance and Insurance,134212291,3569,2012,Male,Maine,37605.01
+821,821,33953,33953,Unavalble,Finance and Insurance,2264582,308,2012,Male,Maine,7352.54
+822,822,33954,33954,All Education Categories,Finance and Insurance,236656784,17065,2012,Female,Maine,13867.96
+823,823,33955,33955,Less Than High School,Finance and Insurance,4674987,539,2012,Female,Maine,8673.45
+824,824,33956,33956,High School Graduate,Finance and Insurance,38841180,3848,2012,Female,Maine,10093.86
+825,825,33957,33957,Some College,Finance and Insurance,66885438,5467,2012,Female,Maine,12234.4
+826,826,33958,33958,Advanced Degree,Finance and Insurance,120529890,6273,2012,Female,Maine,19214.07
+827,827,33959,33959,Unavalble,Finance and Insurance,5725289,938,2012,Female,Maine,6103.72
+828,828,34008,34008,All Education Categories,Educational Services,194031107,19483,2012,Male,Maine,9959.0
+829,829,34009,34009,Less Than High School,Educational Services,8148046,1126,2012,Male,Maine,7236.28
+830,830,34010,34010,High School Graduate,Educational Services,36102895,4408,2012,Male,Maine,8190.31
+831,831,34011,34011,Some College,Educational Services,50078117,5296,2012,Male,Maine,9455.84
+832,832,34012,34012,Advanced Degree,Educational Services,96643932,7722,2012,Male,Maine,12515.4
+833,833,34013,34013,Unavalble,Educational Services,3058116,932,2012,Male,Maine,3281.24
+834,834,34014,34014,All Education Categories,Educational Services,333824635,40408,2012,Female,Maine,8261.35
+835,835,34015,34015,Less Than High School,Educational Services,9002428,1549,2012,Female,Maine,5811.77
+836,836,34016,34016,High School Graduate,Educational Services,59970139,9157,2012,Female,Maine,6549.1
+837,837,34017,34017,Some College,Educational Services,97261724,12563,2012,Female,Maine,7741.92
+838,838,34018,34018,Advanced Degree,Educational Services,162488779,15729,2012,Female,Maine,10330.52
+839,839,34019,34019,Unavalble,Educational Services,5101565,1410,2012,Female,Maine,3618.13
+840,840,34020,34020,All Education Categories,Health Care and Social Assistance,325542417,21492,2012,Male,Maine,15147.14
+841,841,34021,34021,Less Than High School,Health Care and Social Assistance,13189641,1599,2012,Male,Maine,8248.68
+842,842,34022,34022,High School Graduate,Health Care and Social Assistance,49733258,5225,2012,Male,Maine,9518.33
+843,843,34023,34023,Some College,Health Care and Social Assistance,79836763,6140,2012,Male,Maine,13002.73
+844,844,34024,34024,Advanced Degree,Health Care and Social Assistance,175941722,6805,2012,Male,Maine,25854.77
+845,845,34025,34025,Unavalble,Health Care and Social Assistance,6841033,1724,2012,Male,Maine,3968.12
+846,846,34026,34026,All Education Categories,Health Care and Social Assistance,689292233,81856,2012,Female,Maine,8420.79
+847,847,34027,34027,Less Than High School,Health Care and Social Assistance,26945905,4287,2012,Female,Maine,6285.49
+848,848,34028,34028,High School Graduate,Health Care and Social Assistance,141734249,20552,2012,Female,Maine,6896.37
+849,849,34029,34029,Some College,Health Care and Social Assistance,254764746,29919,2012,Female,Maine,8515.15
+850,850,34030,34030,Advanced Degree,Health Care and Social Assistance,234266746,19868,2012,Female,Maine,11791.16
+851,851,34031,34031,Unavalble,Health Care and Social Assistance,31580586,7230,2012,Female,Maine,4367.99
+852,852,34044,34044,All Education Categories,Accommodation and Food Services,80249278,17948,2012,Male,Maine,4471.21
+853,853,34045,34045,Less Than High School,Accommodation and Food Services,9652075,2010,2012,Male,Maine,4802.03
+854,854,34046,34046,High School Graduate,Accommodation and Food Services,23640368,4437,2012,Male,Maine,5328.01
+855,855,34047,34047,Some College,Accommodation and Food Services,19260839,3434,2012,Male,Maine,5608.86
+856,856,34048,34048,Advanced Degree,Accommodation and Food Services,10903749,1772,2012,Male,Maine,6153.36
+857,857,34049,34049,Unavalble,Accommodation and Food Services,16792246,6295,2012,Male,Maine,2667.55
+858,858,34050,34050,All Education Categories,Accommodation and Food Services,85618636,24851,2012,Female,Maine,3445.28
+859,859,34051,34051,Less Than High School,Accommodation and Food Services,7305386,1983,2012,Female,Maine,3684.01
+860,860,34052,34052,High School Graduate,Accommodation and Food Services,22821668,5878,2012,Female,Maine,3882.56
+861,861,34053,34053,Some College,Accommodation and Food Services,21984829,5308,2012,Female,Maine,4141.83
+862,862,34054,34054,Advanced Degree,Accommodation and Food Services,11633919,2587,2012,Female,Maine,4497.07
+863,863,34055,34055,Unavalble,Accommodation and Food Services,21872834,9095,2012,Female,Maine,2404.93
+864,864,34992,34992,All Education Categories,Educational Services,165600523,19711,2004,Male,Maine,8401.43
+865,865,34993,34993,Less Than High School,Educational Services,4893142,892,2004,Male,Maine,5485.59
+866,866,34994,34994,High School Graduate,Educational Services,26452967,3972,2004,Male,Maine,6659.86
+867,867,34995,34995,Some College,Educational Services,39773988,5099,2004,Male,Maine,7800.35
+868,868,34996,34996,Advanced Degree,Educational Services,91470130,8822,2004,Male,Maine,10368.41
+869,869,34997,34997,Unavalble,Educational Services,3010296,926,2004,Male,Maine,3250.86
+870,870,34998,34998,All Education Categories,Educational Services,267849289,40871,2004,Female,Maine,6553.53
+871,871,34999,34999,Less Than High School,Educational Services,4555357,1158,2004,Female,Maine,3933.81
+872,872,35000,35000,High School Graduate,Educational Services,43503945,9014,2004,Female,Maine,4826.26
+873,873,35001,35001,Some College,Educational Services,72119291,12122,2004,Female,Maine,5949.45
+874,874,35002,35002,Advanced Degree,Educational Services,141786420,16905,2004,Female,Maine,8387.25
+875,875,35003,35003,Unavalble,Educational Services,5884277,1672,2004,Female,Maine,3519.3
+876,876,35088,35088,All Education Categories,Accommodation,15429319,3059,2004,Male,Maine,5043.91
+877,877,35089,35089,Less Than High School,Accommodation,1653892,347,2004,Male,Maine,4766.26
+878,878,35090,35090,High School Graduate,Accommodation,4973502,941,2004,Male,Maine,5285.34
+879,879,35091,35091,Some College,Accommodation,4050380,687,2004,Male,Maine,5895.75
+880,880,35092,35092,Advanced Degree,Accommodation,2739035,369,2004,Male,Maine,7422.86
+881,881,35093,35093,Unavalble,Accommodation,2012510,716,2004,Male,Maine,2810.77
+882,882,35094,35094,All Education Categories,Accommodation,17054951,4858,2004,Female,Maine,3510.69
+883,883,35095,35095,Less Than High School,Accommodation,1449873,473,2004,Female,Maine,3065.27
+884,884,35096,35096,High School Graduate,Accommodation,5058563,1467,2004,Female,Maine,3448.24
+885,885,35097,35097,Some College,Accommodation,4652603,1178,2004,Female,Maine,3949.58
+886,886,35098,35098,Advanced Degree,Accommodation,2802934,552,2004,Female,Maine,5077.78
+887,887,35099,35099,Unavalble,Accommodation,3090977,1188,2004,Female,Maine,2601.83
+888,888,36144,36144,All Education Categories,Educational Services,161058897,18873,2005,Male,Maine,8533.83
+889,889,36145,36145,Less Than High School,Educational Services,4811517,859,2005,Male,Maine,5601.3
+890,890,36146,36146,High School Graduate,Educational Services,25976996,3799,2005,Male,Maine,6837.85
+891,891,36147,36147,Some College,Educational Services,39004689,4883,2005,Male,Maine,7987.85
+892,892,36148,36148,Advanced Degree,Educational Services,88491016,8356,2005,Male,Maine,10590.12
+893,893,36149,36149,Unavalble,Educational Services,2774679,977,2005,Male,Maine,2840.0
+894,894,36150,36150,All Education Categories,Educational Services,260437266,39609,2005,Female,Maine,6575.2
+895,895,36151,36151,Less Than High School,Educational Services,4435426,1128,2005,Female,Maine,3932.12
+896,896,36152,36152,High School Graduate,Educational Services,42073973,8704,2005,Female,Maine,4833.87
+897,897,36153,36153,Some College,Educational Services,70362790,11747,2005,Female,Maine,5989.85
+898,898,36154,36154,Advanced Degree,Educational Services,138165786,16291,2005,Female,Maine,8481.11
+899,899,36155,36155,Unavalble,Educational Services,5399291,1739,2005,Female,Maine,3104.83
+900,900,36240,36240,All Education Categories,Accommodation,13834128,2832,2005,Male,Maine,4884.93
+901,901,36241,36241,Less Than High School,Accommodation,1488868,325,2005,Male,Maine,4581.13
+902,902,36242,36242,High School Graduate,Accommodation,4450300,870,2005,Male,Maine,5115.29
+903,903,36243,36243,Some College,Accommodation,3821150,657,2005,Male,Maine,5816.06
+904,904,36244,36244,Advanced Degree,Accommodation,2463837,328,2005,Male,Maine,7511.7
+905,905,36245,36245,Unavalble,Accommodation,1609973,652,2005,Male,Maine,2469.28
+906,906,36246,36246,All Education Categories,Accommodation,15407637,4615,2005,Female,Maine,3338.6
+907,907,36247,36247,Less Than High School,Accommodation,1364179,463,2005,Female,Maine,2946.39
+908,908,36248,36248,High School Graduate,Accommodation,4629412,1383,2005,Female,Maine,3347.37
+909,909,36249,36249,Some College,Accommodation,4444911,1138,2005,Female,Maine,3905.9
+910,910,36250,36250,Advanced Degree,Accommodation,2522455,522,2005,Female,Maine,4832.29
+911,911,36251,36251,Unavalble,Accommodation,2446679,1109,2005,Female,Maine,2206.2
+912,912,37296,37296,All Education Categories,Educational Services,170797203,18419,2006,Male,Maine,9272.88
+913,913,37297,37297,Less Than High School,Educational Services,5283571,829,2006,Male,Maine,6373.43
+914,914,37298,37298,High School Graduate,Educational Services,28294954,3785,2006,Male,Maine,7475.55
+915,915,37299,37299,Some College,Educational Services,42259503,4863,2006,Male,Maine,8690.01
+916,916,37300,37300,Advanced Degree,Educational Services,92307102,8063,2006,Male,Maine,11448.23
+917,917,37301,37301,Unavalble,Educational Services,2652074,878,2006,Male,Maine,3020.59
+918,918,37302,37302,All Education Categories,Educational Services,288186515,38993,2006,Female,Maine,7390.72
+919,919,37303,37303,Less Than High School,Educational Services,5229890,1144,2006,Female,Maine,4571.58
+920,920,37304,37304,High School Graduate,Educational Services,47810736,8661,2006,Female,Maine,5520.23
+921,921,37305,37305,Some College,Educational Services,79107413,11649,2006,Female,Maine,6790.92
+922,922,37306,37306,Advanced Degree,Educational Services,150251535,15905,2006,Female,Maine,9446.81
+923,923,37307,37307,Unavalble,Educational Services,5786940,1634,2006,Female,Maine,3541.58
+924,924,37392,37392,All Education Categories,Accommodation,15474094,2915,2006,Male,Maine,5308.44
+925,925,37393,37393,Less Than High School,Accommodation,1712906,345,2006,Male,Maine,4964.94
+926,926,37394,37394,High School Graduate,Accommodation,5038722,911,2006,Male,Maine,5530.98
+927,927,37395,37395,Some College,Accommodation,4262396,669,2006,Male,Maine,6371.29
+928,928,37396,37396,Advanced Degree,Accommodation,2734142,356,2006,Male,Maine,7680.17
+929,929,37397,37397,Unavalble,Accommodation,1725928,635,2006,Male,Maine,2718.0
+930,930,37398,37398,All Education Categories,Accommodation,17638148,4734,2006,Female,Maine,3725.84
+931,931,37399,37399,Less Than High School,Accommodation,1546701,484,2006,Female,Maine,3195.66
+932,932,37400,37400,High School Graduate,Accommodation,5289762,1423,2006,Female,Maine,3717.33
+933,933,37401,37401,Some College,Accommodation,5044153,1183,2006,Female,Maine,4263.87
+934,934,37402,37402,Advanced Degree,Accommodation,3051932,550,2006,Female,Maine,5548.97
+935,935,37403,37403,Unavalble,Accommodation,2705600,1094,2006,Female,Maine,2473.13
+936,936,38448,38448,All Education Categories,Educational Services,185535232,19426,2007,Male,Maine,9550.87
+937,937,38449,38449,Less Than High School,Educational Services,6146221,900,2007,Male,Maine,6829.13
+938,938,38450,38450,High School Graduate,Educational Services,31089343,4013,2007,Male,Maine,7747.16
+939,939,38451,38451,Some College,Educational Services,46278181,5157,2007,Male,Maine,8973.86
+940,940,38452,38452,Advanced Degree,Educational Services,98609830,8436,2007,Male,Maine,11689.17
+941,941,38453,38453,Unavalble,Educational Services,3411657,920,2007,Male,Maine,3708.32
+942,942,38454,38454,All Education Categories,Educational Services,311463706,41787,2007,Female,Maine,7453.6
+943,943,38455,38455,Less Than High School,Educational Services,5848979,1248,2007,Female,Maine,4686.68
+944,944,38456,38456,High School Graduate,Educational Services,52053841,9256,2007,Female,Maine,5623.79
+945,945,38457,38457,Some College,Educational Services,86181227,12550,2007,Female,Maine,6867.03
+946,946,38458,38458,Advanced Degree,Educational Services,160984385,17064,2007,Female,Maine,9434.15
+947,947,38459,38459,Unavalble,Educational Services,6395274,1668,2007,Female,Maine,3834.1
+948,948,38544,38544,All Education Categories,Accommodation,15780557,2811,2007,Male,Maine,5613.86
+949,949,38545,38545,Less Than High School,Accommodation,1737282,335,2007,Male,Maine,5185.92
+950,950,38546,38546,High School Graduate,Accommodation,5149800,867,2007,Male,Maine,5939.79
+951,951,38547,38547,Some College,Accommodation,4347002,655,2007,Male,Maine,6636.64
+952,952,38548,38548,Advanced Degree,Accommodation,2849814,356,2007,Male,Maine,8005.1
+953,953,38549,38549,Unavalble,Accommodation,1696658,598,2007,Male,Maine,2837.22
+954,954,38550,38550,All Education Categories,Accommodation,17694845,4556,2007,Female,Maine,3883.86
+955,955,38551,38551,Less Than High School,Accommodation,1519330,455,2007,Female,Maine,3339.19
+956,956,38552,38552,High School Graduate,Accommodation,5329687,1363,2007,Female,Maine,3910.26
+957,957,38553,38553,Some College,Accommodation,5118119,1158,2007,Female,Maine,4419.79
+958,958,38554,38554,Advanced Degree,Accommodation,3103944,576,2007,Female,Maine,5388.79
+959,959,38555,38555,Unavalble,Accommodation,2623765,1004,2007,Female,Maine,2613.31
+960,960,39624,39624,All Education Categories,Educational Services,183821767,19253,2008,Male,Maine,9547.69
+961,961,39625,39625,Less Than High School,Educational Services,6073777,920,2008,Male,Maine,6601.93
+962,962,39626,39626,High School Graduate,Educational Services,31473646,4062,2008,Male,Maine,7748.31
+963,963,39627,39627,Some College,Educational Services,46144831,5151,2008,Male,Maine,8958.42
+964,964,39628,39628,Advanced Degree,Educational Services,97217022,8212,2008,Male,Maine,11838.41
+965,965,39629,39629,Unavalble,Educational Services,2912492,908,2008,Male,Maine,3207.59
+966,966,39630,39630,All Education Categories,Educational Services,311876586,41373,2008,Female,Maine,7538.17
+967,967,39631,39631,Less Than High School,Educational Services,6055479,1271,2008,Female,Maine,4764.34
+968,968,39632,39632,High School Graduate,Educational Services,52479085,9219,2008,Female,Maine,5692.49
+969,969,39633,39633,Some College,Educational Services,87096170,12520,2008,Female,Maine,6956.56
+970,970,39634,39634,Advanced Degree,Educational Services,160172405,16749,2008,Female,Maine,9563.1
+971,971,39635,39635,Unavalble,Educational Services,6073448,1614,2008,Female,Maine,3762.98
+972,972,39720,39720,All Education Categories,Accommodation,16606999,2888,2008,Male,Maine,5750.35
+973,973,39721,39721,Less Than High School,Accommodation,1874557,343,2008,Male,Maine,5465.18
+974,974,39722,39722,High School Graduate,Accommodation,5326677,882,2008,Male,Maine,6039.32
+975,975,39723,39723,Some College,Accommodation,4573499,682,2008,Male,Maine,6706.01
+976,976,39724,39724,Advanced Degree,Accommodation,3080287,369,2008,Male,Maine,8347.66
+977,977,39725,39725,Unavalble,Accommodation,1751980,612,2008,Male,Maine,2862.71
+978,978,39726,39726,All Education Categories,Accommodation,18187131,4627,2008,Female,Maine,3930.65
+979,979,39727,39727,Less Than High School,Accommodation,1631468,453,2008,Female,Maine,3601.47
+980,980,39728,39728,High School Graduate,Accommodation,5512842,1383,2008,Female,Maine,3986.15
+981,981,39729,39729,Some College,Accommodation,5290537,1183,2008,Female,Maine,4472.14
+982,982,39730,39730,Advanced Degree,Accommodation,3203931,588,2008,Female,Maine,5448.86
+983,983,39731,39731,Unavalble,Accommodation,2548354,1019,2008,Female,Maine,2500.84
+984,984,40788,40788,All Education Categories,Educational Services,186844087,19372,2009,Male,Maine,9645.06
+985,985,40789,40789,Less Than High School,Educational Services,6473886,970,2009,Male,Maine,6674.11
+986,986,40790,40790,High School Graduate,Educational Services,32527157,4166,2009,Male,Maine,7807.77
+987,987,40791,40791,Some College,Educational Services,47220133,5219,2009,Male,Maine,9047.74
+988,988,40792,40792,Advanced Degree,Educational Services,97917301,8138,2009,Male,Maine,12032.11
+989,989,40793,40793,Unavalble,Educational Services,2705609,879,2009,Male,Maine,3078.05
+990,990,40794,40794,All Education Categories,Educational Services,317631746,41361,2009,Female,Maine,7679.5
+991,991,40795,40795,Less Than High School,Educational Services,6602086,1325,2009,Female,Maine,4982.71
+992,992,40796,40796,High School Graduate,Educational Services,54137625,9249,2009,Female,Maine,5853.35
+993,993,40797,40797,Some College,Educational Services,89547414,12631,2009,Female,Maine,7089.5
+994,994,40798,40798,Advanced Degree,Educational Services,161948610,16658,2009,Female,Maine,9721.97
+995,995,40799,40799,Unavalble,Educational Services,5396011,1498,2009,Female,Maine,3602.14
+996,996,40884,40884,All Education Categories,Accommodation,14985565,2717,2009,Male,Maine,5515.48
+997,997,40885,40885,Less Than High School,Accommodation,1670892,324,2009,Male,Maine,5157.07
+998,998,40886,40886,High School Graduate,Accommodation,4910907,846,2009,Male,Maine,5804.85
+999,999,40887,40887,Some College,Accommodation,4140677,642,2009,Male,Maine,6449.65
+1000,1000,40888,40888,Advanced Degree,Accommodation,2846312,359,2009,Male,Maine,7928.45
+1001,1001,40889,40889,Unavalble,Accommodation,1416777,546,2009,Male,Maine,2594.83
+1002,1002,40890,40890,All Education Categories,Accommodation,16383846,4295,2009,Female,Maine,3814.63
+1003,1003,40891,40891,Less Than High School,Accommodation,1468473,438,2009,Female,Maine,3352.68
+1004,1004,40892,40892,High School Graduate,Accommodation,4885263,1289,2009,Female,Maine,3789.96
+1005,1005,40893,40893,Some College,Accommodation,4861116,1144,2009,Female,Maine,4249.23
+1006,1006,40894,40894,Advanced Degree,Accommodation,3054111,578,2009,Female,Maine,5283.93
+1007,1007,40895,40895,Unavalble,Accommodation,2114882,846,2009,Female,Maine,2499.86
+1008,1008,41952,41952,All Education Categories,Educational Services,183406286,19578,2010,Male,Maine,9367.98
+1009,1009,41953,41953,Less Than High School,Educational Services,6691463,1029,2010,Male,Maine,6502.88
+1010,1010,41954,41954,High School Graduate,Educational Services,32255497,4297,2010,Male,Maine,7506.52
+1011,1011,41955,41955,Some College,Educational Services,46502987,5294,2010,Male,Maine,8784.09
+1012,1012,41956,41956,Advanced Degree,Educational Services,95455953,8064,2010,Male,Maine,11837.3
+1013,1013,41957,41957,Unavalble,Educational Services,2500386,894,2010,Male,Maine,2796.85
+1014,1014,41958,41958,All Education Categories,Educational Services,310547451,40979,2010,Female,Maine,7578.21
+1015,1015,41959,41959,Less Than High School,Educational Services,7132098,1409,2010,Female,Maine,5061.82
+1016,1016,41960,41960,High School Graduate,Educational Services,53879526,9207,2010,Female,Maine,5852.02
+1017,1017,41961,41961,Some College,Educational Services,88652434,12601,2010,Female,Maine,7035.35
+1018,1018,41962,41962,Advanced Degree,Educational Services,156158391,16342,2010,Female,Maine,9555.65
+1019,1019,41963,41963,Unavalble,Educational Services,4725002,1421,2010,Female,Maine,3325.12
+1020,1020,42048,42048,All Education Categories,Accommodation,14487231,2634,2010,Male,Maine,5500.09
+1021,1021,42049,42049,Less Than High School,Accommodation,1661132,314,2010,Male,Maine,5290.23
+1022,1022,42050,42050,High School Graduate,Accommodation,4733062,825,2010,Male,Maine,5737.04
+1023,1023,42051,42051,Some College,Accommodation,3992415,639,2010,Male,Maine,6247.91
+1024,1024,42052,42052,Advanced Degree,Accommodation,2786650,367,2010,Male,Maine,7593.05
+1025,1025,42053,42053,Unavalble,Accommodation,1313971,490,2010,Male,Maine,2681.57
+1026,1026,42054,42054,All Education Categories,Accommodation,15861225,4173,2010,Female,Maine,3800.92
+1027,1027,42055,42055,Less Than High School,Accommodation,1399939,422,2010,Female,Maine,3317.39
+1028,1028,42056,42056,High School Graduate,Accommodation,4666171,1229,2010,Female,Maine,3796.72
+1029,1029,42057,42057,Some College,Accommodation,4874976,1131,2010,Female,Maine,4310.32
+1030,1030,42058,42058,Advanced Degree,Accommodation,3043773,569,2010,Female,Maine,5349.34
+1031,1031,42059,42059,Unavalble,Accommodation,1876366,821,2010,Female,Maine,2285.46
+1032,1032,43116,43116,All Education Categories,Educational Services,185662495,19262,2011,Male,Maine,9638.8
+1033,1033,43117,43117,Less Than High School,Educational Services,7228653,1058,2011,Male,Maine,6832.38
+1034,1034,43118,43118,High School Graduate,Educational Services,33340691,4271,2011,Male,Maine,7806.3
+1035,1035,43119,43119,Some College,Educational Services,47450783,5213,2011,Male,Maine,9102.39
+1036,1036,43120,43120,Advanced Degree,Educational Services,94785679,7792,2011,Male,Maine,12164.49
+1037,1037,43121,43121,Unavalble,Educational Services,2856690,928,2011,Male,Maine,3078.33
+1038,1038,43122,43122,All Education Categories,Educational Services,313911468,40455,2011,Female,Maine,7759.52
+1039,1039,43123,43123,Less Than High School,Educational Services,7731852,1471,2011,Female,Maine,5256.19
+1040,1040,43124,43124,High School Graduate,Educational Services,55034388,9096,2011,Female,Maine,6050.39
+1041,1041,43125,43125,Some College,Educational Services,90371012,12493,2011,Female,Maine,7233.73
+1042,1042,43126,43126,Advanced Degree,Educational Services,156298304,15969,2011,Female,Maine,9787.61
+1043,1043,43127,43127,Unavalble,Educational Services,4475912,1425,2011,Female,Maine,3140.99
+1044,1044,43212,43212,All Education Categories,Accommodation,15296192,2758,2011,Male,Maine,5546.12
+1045,1045,43213,43213,Less Than High School,Accommodation,1751688,342,2011,Male,Maine,5121.89
+1046,1046,43214,43214,High School Graduate,Accommodation,5046243,862,2011,Male,Maine,5854.11
+1047,1047,43215,43215,Some College,Accommodation,4275747,678,2011,Male,Maine,6306.41
+1048,1048,43216,43216,Advanced Degree,Accommodation,2945705,393,2011,Male,Maine,7495.43
+1049,1049,43217,43217,Unavalble,Accommodation,1276808,483,2011,Male,Maine,2643.49
+1050,1050,43218,43218,All Education Categories,Accommodation,15887886,4170,2011,Female,Maine,3810.04
+1051,1051,43219,43219,Less Than High School,Accommodation,1396568,410,2011,Female,Maine,3406.26
+1052,1052,43220,43220,High School Graduate,Accommodation,4685074,1247,2011,Female,Maine,3757.08
+1053,1053,43221,43221,Some College,Accommodation,4828687,1141,2011,Female,Maine,4231.98
+1054,1054,43222,43222,Advanced Degree,Accommodation,3190829,612,2011,Female,Maine,5213.77
+1055,1055,43223,43223,Unavalble,Accommodation,1786728,759,2011,Female,Maine,2354.06
+1056,1056,44268,44268,All Education Categories,Educational Services,194031107,19483,2012,Male,Maine,9959.0
+1057,1057,44269,44269,Less Than High School,Educational Services,8148046,1126,2012,Male,Maine,7236.28
+1058,1058,44270,44270,High School Graduate,Educational Services,36102895,4408,2012,Male,Maine,8190.31
+1059,1059,44271,44271,Some College,Educational Services,50078117,5296,2012,Male,Maine,9455.84
+1060,1060,44272,44272,Advanced Degree,Educational Services,96643932,7722,2012,Male,Maine,12515.4
+1061,1061,44273,44273,Unavalble,Educational Services,3058116,932,2012,Male,Maine,3281.24
+1062,1062,44274,44274,All Education Categories,Educational Services,333824635,40408,2012,Female,Maine,8261.35
+1063,1063,44275,44275,Less Than High School,Educational Services,9002428,1549,2012,Female,Maine,5811.77
+1064,1064,44276,44276,High School Graduate,Educational Services,59970139,9157,2012,Female,Maine,6549.1
+1065,1065,44277,44277,Some College,Educational Services,97261724,12563,2012,Female,Maine,7741.92
+1066,1066,44278,44278,Advanced Degree,Educational Services,162488779,15729,2012,Female,Maine,10330.52
+1067,1067,44279,44279,Unavalble,Educational Services,5101565,1410,2012,Female,Maine,3618.13
+1068,1068,44364,44364,All Education Categories,Accommodation,16209376,2777,2012,Male,Maine,5837.01
+1069,1069,44365,44365,Less Than High School,Accommodation,1886007,353,2012,Male,Maine,5342.8
+1070,1070,44366,44366,High School Graduate,Accommodation,5339467,882,2012,Male,Maine,6053.82
+1071,1071,44367,44367,Some College,Accommodation,4543244,686,2012,Male,Maine,6622.8
+1072,1072,44368,44368,Advanced Degree,Accommodation,3181141,409,2012,Male,Maine,7777.85
+1073,1073,44369,44369,Unavalble,Accommodation,1259519,447,2012,Male,Maine,2817.72
+1074,1074,44370,44370,All Education Categories,Accommodation,16840390,4191,2012,Female,Maine,4018.23
+1075,1075,44371,44371,Less Than High School,Accommodation,1495105,416,2012,Female,Maine,3594.0
+1076,1076,44372,44372,High School Graduate,Accommodation,4945347,1239,2012,Female,Maine,3991.4
+1077,1077,44373,44373,Some College,Accommodation,5149543,1151,2012,Female,Maine,4473.97
+1078,1078,44374,44374,Advanced Degree,Accommodation,3442837,623,2012,Female,Maine,5526.22
+1079,1079,44375,44375,Unavalble,Accommodation,1807558,762,2012,Female,Maine,2372.12

@@ -1,0 +1,961 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,6648,6648,6648,All Education Categories,"Colleges, Universities, and Professional Schools",208117993,17252,2005,Male,Arizona,12063.41
+1,1,6649,6649,6649,Less Than High School,"Colleges, Universities, and Professional Schools",6486631,888,2005,Male,Arizona,7304.76
+2,2,6650,6650,6650,High School Graduate,"Colleges, Universities, and Professional Schools",21565123,2471,2005,Male,Arizona,8727.29
+3,3,6651,6651,6651,Some College,"Colleges, Universities, and Professional Schools",44280674,4306,2005,Male,Arizona,10283.48
+4,4,6652,6652,6652,Advanced Degree,"Colleges, Universities, and Professional Schools",128413957,8295,2005,Male,Arizona,15480.89
+5,5,6653,6653,6653,Unavalble,"Colleges, Universities, and Professional Schools",7371607,1291,2005,Male,Arizona,5710.0
+6,6,6654,6654,6654,All Education Categories,"Colleges, Universities, and Professional Schools",159765392,18281,2005,Female,Arizona,8739.42
+7,7,6655,6655,6655,Less Than High School,"Colleges, Universities, and Professional Schools",4895248,810,2005,Female,Arizona,6043.52
+8,8,6656,6656,6656,High School Graduate,"Colleges, Universities, and Professional Schools",20809292,2879,2005,Female,Arizona,7227.96
+9,9,6657,6657,6657,Some College,"Colleges, Universities, and Professional Schools",43251018,5366,2005,Female,Arizona,8060.2
+10,10,6658,6658,6658,Advanced Degree,"Colleges, Universities, and Professional Schools",83229740,7793,2005,Female,Arizona,10680.06
+11,11,6659,6659,6659,Unavalble,"Colleges, Universities, and Professional Schools",7580094,1432,2005,Female,Arizona,5293.36
+12,12,10344,10344,10344,All Education Categories,"Colleges, Universities, and Professional Schools",241479691,18714,2006,Male,Arizona,12903.69
+13,13,10345,10345,10345,Less Than High School,"Colleges, Universities, and Professional Schools",8282129,991,2006,Male,Arizona,8357.35
+14,14,10346,10346,10346,High School Graduate,"Colleges, Universities, and Professional Schools",26414654,2745,2006,Male,Arizona,9622.82
+15,15,10347,10347,10347,Some College,"Colleges, Universities, and Professional Schools",52780717,4722,2006,Male,Arizona,11177.62
+16,16,10348,10348,10348,Advanced Degree,"Colleges, Universities, and Professional Schools",145012807,8848,2006,Male,Arizona,16389.33
+17,17,10349,10349,10349,Unavalble,"Colleges, Universities, and Professional Schools",8989385,1408,2006,Male,Arizona,6384.51
+18,18,10350,10350,10350,All Education Categories,"Colleges, Universities, and Professional Schools",195515461,19939,2006,Female,Arizona,9805.68
+19,19,10351,10351,10351,Less Than High School,"Colleges, Universities, and Professional Schools",6161288,891,2006,Female,Arizona,6915.03
+20,20,10352,10352,10352,High School Graduate,"Colleges, Universities, and Professional Schools",25634328,3128,2006,Female,Arizona,8195.12
+21,21,10353,10353,10353,Some College,"Colleges, Universities, and Professional Schools",53338571,5860,2006,Female,Arizona,9102.15
+22,22,10354,10354,10354,Advanced Degree,"Colleges, Universities, and Professional Schools",100895748,8528,2006,Female,Arizona,11831.11
+23,23,10355,10355,10355,Unavalble,"Colleges, Universities, and Professional Schools",9485526,1532,2006,Female,Arizona,6191.6
+24,24,14028,14028,14028,All Education Categories,"Colleges, Universities, and Professional Schools",250865550,18372,2007,Male,Arizona,13654.78
+25,25,14029,14029,14029,Less Than High School,"Colleges, Universities, and Professional Schools",9000084,1018,2007,Male,Arizona,8840.95
+26,26,14030,14030,14030,High School Graduate,"Colleges, Universities, and Professional Schools",27496237,2709,2007,Male,Arizona,10149.96
+27,27,14031,14031,14031,Some College,"Colleges, Universities, and Professional Schools",54904329,4672,2007,Male,Arizona,11751.78
+28,28,14032,14032,14032,Advanced Degree,"Colleges, Universities, and Professional Schools",151124693,8632,2007,Male,Arizona,17507.49
+29,29,14033,14033,14033,Unavalble,"Colleges, Universities, and Professional Schools",8340208,1341,2007,Male,Arizona,6219.39
+30,30,14034,14034,14034,All Education Categories,"Colleges, Universities, and Professional Schools",209033369,20249,2007,Female,Arizona,10323.15
+31,31,14035,14035,14035,Less Than High School,"Colleges, Universities, and Professional Schools",7072264,950,2007,Female,Arizona,7444.49
+32,32,14036,14036,14036,High School Graduate,"Colleges, Universities, and Professional Schools",28199917,3251,2007,Female,Arizona,8674.23
+33,33,14037,14037,14037,Some College,"Colleges, Universities, and Professional Schools",57632253,5994,2007,Female,Arizona,9614.99
+34,34,14038,14038,14038,Advanced Degree,"Colleges, Universities, and Professional Schools",106042490,8480,2007,Female,Arizona,12505.01
+35,35,14039,14039,14039,Unavalble,"Colleges, Universities, and Professional Schools",10086445,1573,2007,Female,Arizona,6412.23
+36,36,17724,17724,17724,All Education Categories,"Colleges, Universities, and Professional Schools",292381750,18661,2008,Male,Arizona,15668.06
+37,37,17725,17725,17725,Less Than High School,"Colleges, Universities, and Professional Schools",10749621,1070,2008,Male,Arizona,10046.37
+38,38,17726,17726,17726,High School Graduate,"Colleges, Universities, and Professional Schools",32996070,2859,2008,Male,Arizona,11541.12
+39,39,17727,17727,17727,Some College,"Colleges, Universities, and Professional Schools",65397621,4848,2008,Male,Arizona,13489.61
+40,40,17728,17728,17728,Advanced Degree,"Colleges, Universities, and Professional Schools",175572382,8819,2008,Male,Arizona,19908.42
+41,41,17729,17729,17729,Unavalble,"Colleges, Universities, and Professional Schools",7666056,1066,2008,Male,Arizona,7191.42
+42,42,17730,17730,17730,All Education Categories,"Colleges, Universities, and Professional Schools",251004106,21495,2008,Female,Arizona,11677.33
+43,43,17731,17731,17731,Less Than High School,"Colleges, Universities, and Professional Schools",8845765,1053,2008,Female,Arizona,8400.54
+44,44,17732,17732,17732,High School Graduate,"Colleges, Universities, and Professional Schools",34465422,3529,2008,Female,Arizona,9766.34
+45,45,17733,17733,17733,Some College,"Colleges, Universities, and Professional Schools",69921366,6451,2008,Female,Arizona,10838.84
+46,46,17734,17734,17734,Advanced Degree,"Colleges, Universities, and Professional Schools",127142278,8966,2008,Female,Arizona,14180.49
+47,47,17735,17735,17735,Unavalble,"Colleges, Universities, and Professional Schools",10629274,1496,2008,Female,Arizona,7105.13
+48,48,21432,21432,21432,All Education Categories,"Colleges, Universities, and Professional Schools",305786977,13983,2009,Male,Arizona,21868.48
+49,49,21433,21433,21433,Less Than High School,"Colleges, Universities, and Professional Schools",12399790,827,2009,Male,Arizona,14993.7
+50,50,21434,21434,21434,High School Graduate,"Colleges, Universities, and Professional Schools",36236168,2341,2009,Male,Arizona,15478.93
+51,51,21435,21435,21435,Some College,"Colleges, Universities, and Professional Schools",69440857,3692,2009,Male,Arizona,18808.47
+52,52,21436,21436,21436,Advanced Degree,"Colleges, Universities, and Professional Schools",180329543,6178,2009,Male,Arizona,29188.98
+53,53,21437,21437,21437,Unavalble,"Colleges, Universities, and Professional Schools",7380619,945,2009,Male,Arizona,7810.18
+54,54,21438,21438,21438,All Education Categories,"Colleges, Universities, and Professional Schools",265159617,16585,2009,Female,Arizona,15987.92
+55,55,21439,21439,21439,Less Than High School,"Colleges, Universities, and Professional Schools",10285141,773,2009,Female,Arizona,13305.49
+56,56,21440,21440,21440,High School Graduate,"Colleges, Universities, and Professional Schools",37410267,2802,2009,Female,Arizona,13351.27
+57,57,21441,21441,21441,Some College,"Colleges, Universities, and Professional Schools",74930347,4917,2009,Female,Arizona,15239.04
+58,58,21442,21442,21442,Advanced Degree,"Colleges, Universities, and Professional Schools",132107608,6682,2009,Female,Arizona,19770.67
+59,59,21443,21443,21443,Unavalble,"Colleges, Universities, and Professional Schools",10426253,1410,2009,Female,Arizona,7394.51
+60,60,25128,25128,25128,All Education Categories,"Colleges, Universities, and Professional Schools",296462281,14680,2010,Male,Arizona,20194.98
+61,61,25129,25129,25129,Less Than High School,"Colleges, Universities, and Professional Schools",13684861,969,2010,Male,Arizona,14122.66
+62,62,25130,25130,25130,High School Graduate,"Colleges, Universities, and Professional Schools",38161979,2616,2010,Male,Arizona,14587.91
+63,63,25131,25131,25131,Some College,"Colleges, Universities, and Professional Schools",69771155,3992,2010,Male,Arizona,17477.74
+64,64,25132,25132,25132,Advanced Degree,"Colleges, Universities, and Professional Schools",168413790,6240,2010,Male,Arizona,26989.39
+65,65,25133,25133,25133,Unavalble,"Colleges, Universities, and Professional Schools",6430496,863,2010,Male,Arizona,7451.33
+66,66,25134,25134,25134,All Education Categories,"Colleges, Universities, and Professional Schools",264513436,17470,2010,Female,Arizona,15141.01
+67,67,25135,25135,25135,Less Than High School,"Colleges, Universities, and Professional Schools",11480399,891,2010,Female,Arizona,12884.85
+68,68,25136,25136,25136,High School Graduate,"Colleges, Universities, and Professional Schools",39106994,3051,2010,Female,Arizona,12817.76
+69,69,25137,25137,25137,Some College,"Colleges, Universities, and Professional Schools",76353858,5314,2010,Female,Arizona,14368.43
+70,70,25138,25138,25138,Advanced Degree,"Colleges, Universities, and Professional Schools",127928295,6882,2010,Female,Arizona,18588.83
+71,71,25139,25139,25139,Unavalble,"Colleges, Universities, and Professional Schools",9643890,1333,2010,Female,Arizona,7234.73
+72,72,28812,28812,28812,All Education Categories,"Colleges, Universities, and Professional Schools",287184413,20795,2011,Male,Arizona,13810.26
+73,73,28813,28813,28813,Less Than High School,"Colleges, Universities, and Professional Schools",14189367,1517,2011,Male,Arizona,9353.57
+74,74,28814,28814,28814,High School Graduate,"Colleges, Universities, and Professional Schools",39078691,3689,2011,Male,Arizona,10593.3
+75,75,28815,28815,28815,Some College,"Colleges, Universities, and Professional Schools",68178945,5644,2011,Male,Arizona,12079.9
+76,76,28816,28816,28816,Advanced Degree,"Colleges, Universities, and Professional Schools",160403282,8820,2011,Male,Arizona,18186.31
+77,77,28817,28817,28817,Unavalble,"Colleges, Universities, and Professional Schools",5334128,1124,2011,Male,Arizona,4745.67
+78,78,28818,28818,28818,All Education Categories,"Colleges, Universities, and Professional Schools",258157279,24933,2011,Female,Arizona,10354.04
+79,79,28819,28819,28819,Less Than High School,"Colleges, Universities, and Professional Schools",12320335,1530,2011,Female,Arizona,8052.51
+80,80,28820,28820,28820,High School Graduate,"Colleges, Universities, and Professional Schools",40072000,4409,2011,Female,Arizona,9088.68
+81,81,28821,28821,28821,Some College,"Colleges, Universities, and Professional Schools",75665015,7674,2011,Female,Arizona,9859.92
+82,82,28822,28822,28822,Advanced Degree,"Colleges, Universities, and Professional Schools",122158608,9681,2011,Female,Arizona,12618.39
+83,83,28823,28823,28823,Unavalble,"Colleges, Universities, and Professional Schools",7941320,1639,2011,Female,Arizona,4845.22
+84,84,32508,32508,32508,All Education Categories,"Colleges, Universities, and Professional Schools",280934284,19435,2012,Male,Arizona,14455.07
+85,85,32509,32509,32509,Less Than High School,"Colleges, Universities, and Professional Schools",15306824,1521,2012,Male,Arizona,10063.66
+86,86,32510,32510,32510,High School Graduate,"Colleges, Universities, and Professional Schools",40250101,3604,2012,Male,Arizona,11168.17
+87,87,32511,32511,32511,Some College,"Colleges, Universities, and Professional Schools",68129039,5379,2012,Male,Arizona,12665.74
+88,88,32512,32512,32512,Advanced Degree,"Colleges, Universities, and Professional Schools",152487131,8130,2012,Male,Arizona,18756.1
+89,89,32513,32513,32513,Unavalble,"Colleges, Universities, and Professional Schools",4761188,801,2012,Male,Arizona,5944.05
+90,90,32514,32514,32514,All Education Categories,"Colleges, Universities, and Professional Schools",257177509,23618,2012,Female,Arizona,10889.05
+91,91,32515,32515,32515,Less Than High School,"Colleges, Universities, and Professional Schools",13343689,1548,2012,Female,Arizona,8619.95
+92,92,32516,32516,32516,High School Graduate,"Colleges, Universities, and Professional Schools",41597937,4318,2012,Female,Arizona,9633.61
+93,93,32517,32517,32517,Some College,"Colleges, Universities, and Professional Schools",76321318,7359,2012,Female,Arizona,10371.15
+94,94,32518,32518,32518,Advanced Degree,"Colleges, Universities, and Professional Schools",118466568,9025,2012,Female,Arizona,13126.49
+95,95,32519,32519,32519,Unavalble,"Colleges, Universities, and Professional Schools",7447996,1367,2012,Female,Arizona,5448.42
+96,96,35304,35304,35304,All Education Categories,Educational Services,587368383,65483,2005,Male,Arizona,8969.78
+97,97,35305,35305,35305,Less Than High School,Educational Services,31714087,5147,2005,Male,Arizona,6161.66
+98,98,35306,35306,35306,High School Graduate,Educational Services,91334409,12286,2005,Male,Arizona,7434.02
+99,99,35307,35307,35307,Some College,Educational Services,154535153,18246,2005,Male,Arizona,8469.54
+100,100,35308,35308,35308,Advanced Degree,Educational Services,289439980,24307,2005,Male,Arizona,11907.68
+101,101,35309,35309,35309,Unavalble,Educational Services,20344755,5497,2005,Male,Arizona,3701.07
+102,102,35310,35310,35310,All Education Categories,Educational Services,940989509,130509,2005,Female,Arizona,7210.15
+103,103,35311,35311,35311,Less Than High School,Educational Services,40163035,8935,2005,Female,Arizona,4495.02
+104,104,35312,35312,35312,High School Graduate,Educational Services,150961584,25800,2005,Female,Arizona,5851.22
+105,105,35313,35313,35313,Some College,Educational Services,276138519,39668,2005,Female,Arizona,6961.24
+106,106,35314,35314,35314,Advanced Degree,Educational Services,434960177,46715,2005,Female,Arizona,9310.93
+107,107,35315,35315,35315,Unavalble,Educational Services,38766194,9392,2005,Female,Arizona,4127.58
+108,108,35400,35400,35400,All Education Categories,Accommodation,161319218,21869,2005,Male,Arizona,7376.62
+109,109,35401,35401,35401,Less Than High School,Accommodation,26554272,4822,2005,Male,Arizona,5506.9
+110,110,35402,35402,35402,High School Graduate,Accommodation,37003399,5204,2005,Male,Arizona,7110.57
+111,111,35403,35403,35403,Some College,Accommodation,43861503,5005,2005,Male,Arizona,8763.54
+112,112,35404,35404,35404,Advanced Degree,Accommodation,35550512,2441,2005,Male,Arizona,14563.91
+113,113,35405,35405,35405,Unavalble,Accommodation,18349533,4396,2005,Male,Arizona,4174.14
+114,114,35406,35406,35406,All Education Categories,Accommodation,138629396,24112,2005,Female,Arizona,5749.39
+115,115,35407,35407,35407,Less Than High School,Accommodation,24902255,5474,2005,Female,Arizona,4549.19
+116,116,35408,35408,35408,High School Graduate,Accommodation,30408436,5668,2005,Female,Arizona,5364.93
+117,117,35409,35409,35409,Some College,Accommodation,38674620,5762,2005,Female,Arizona,6712.01
+118,118,35410,35410,35410,Advanced Degree,Accommodation,27688425,2866,2005,Female,Arizona,9661.0
+119,119,35411,35411,35411,Unavalble,Accommodation,16955659,4342,2005,Female,Arizona,3905.03
+120,120,36480,36480,36480,All Education Categories,Educational Services,708754155,58843,2006,Male,Arizona,12044.83
+121,121,36481,36481,36481,Less Than High School,Educational Services,38840104,4654,2006,Male,Arizona,8345.53
+122,122,36482,36482,36482,High School Graduate,Educational Services,110883756,11129,2006,Male,Arizona,9963.5
+123,123,36483,36483,36483,Some College,Educational Services,188635445,16448,2006,Male,Arizona,11468.59
+124,124,36484,36484,36484,Advanced Degree,Educational Services,346911114,21942,2006,Male,Arizona,15810.37
+125,125,36485,36485,36485,Unavalble,Educational Services,23483737,4671,2006,Male,Arizona,5027.56
+126,126,36486,36486,36486,All Education Categories,Educational Services,1122570413,113032,2006,Female,Arizona,9931.44
+127,127,36487,36487,36487,Less Than High School,Educational Services,48500060,8071,2006,Female,Arizona,6009.18
+128,128,36488,36488,36488,High School Graduate,Educational Services,178570366,22472,2006,Female,Arizona,7946.35
+129,129,36489,36489,36489,Some College,Educational Services,330176354,34739,2006,Female,Arizona,9504.49
+130,130,36490,36490,36490,Advanced Degree,Educational Services,518574060,39580,2006,Female,Arizona,13101.92
+131,131,36491,36491,36491,Unavalble,Educational Services,46749574,8170,2006,Female,Arizona,5722.1
+132,132,36576,36576,36576,All Education Categories,Accommodation,181961242,23640,2006,Male,Arizona,7697.18
+133,133,36577,36577,36577,Less Than High School,Accommodation,30844848,5191,2006,Male,Arizona,5941.99
+134,134,36578,36578,36578,High School Graduate,Accommodation,42153623,5707,2006,Male,Arizona,7386.3
+135,135,36579,36579,36579,Some College,Accommodation,49589202,5462,2006,Male,Arizona,9078.95
+136,136,36580,36580,36580,Advanced Degree,Accommodation,39348336,2653,2006,Male,Arizona,14831.64
+137,137,36581,36581,36581,Unavalble,Accommodation,20025233,4628,2006,Male,Arizona,4326.97
+138,138,36582,36582,36582,All Education Categories,Accommodation,153710427,25990,2006,Female,Arizona,5914.21
+139,139,36583,36583,36583,Less Than High School,Accommodation,27015808,5758,2006,Female,Arizona,4691.87
+140,140,36584,36584,36584,High School Graduate,Accommodation,34239690,6070,2006,Female,Arizona,5640.81
+141,141,36585,36585,36585,Some College,Accommodation,43208288,6259,2006,Female,Arizona,6903.39
+142,142,36586,36586,36586,Advanced Degree,Accommodation,29964294,3127,2006,Female,Arizona,9582.44
+143,143,36587,36587,36587,Unavalble,Accommodation,19282348,4776,2006,Female,Arizona,4037.34
+144,144,37656,37656,37656,All Education Categories,Educational Services,706239267,66718,2007,Male,Arizona,10585.44
+145,145,37657,37657,37657,Less Than High School,Educational Services,41414516,5374,2007,Male,Arizona,7706.46
+146,146,37658,37658,37658,High School Graduate,Educational Services,113285529,12590,2007,Male,Arizona,8998.06
+147,147,37659,37659,37659,Some College,Educational Services,189597387,18714,2007,Male,Arizona,10131.31
+148,148,37660,37660,37660,Advanced Degree,Educational Services,338517887,24550,2007,Male,Arizona,13788.92
+149,149,37661,37661,37661,Unavalble,Educational Services,23423948,5489,2007,Male,Arizona,4267.43
+150,150,37662,37662,37662,All Education Categories,Educational Services,1146959356,134314,2007,Female,Arizona,8539.39
+151,151,37663,37663,37663,Less Than High School,Educational Services,54068003,9625,2007,Female,Arizona,5617.45
+152,152,37664,37664,37664,High School Graduate,Educational Services,187488259,26394,2007,Female,Arizona,7103.44
+153,153,37665,37665,37665,Some College,Educational Services,342164790,41174,2007,Female,Arizona,8310.21
+154,154,37666,37666,37666,Advanced Degree,Educational Services,513510170,47379,2007,Female,Arizona,10838.35
+155,155,37667,37667,37667,Unavalble,Educational Services,49728133,9742,2007,Female,Arizona,5104.51
+156,156,37752,37752,37752,All Education Categories,Accommodation,192484047,23669,2007,Male,Arizona,8132.33
+157,157,37753,37753,37753,Less Than High School,Accommodation,32657540,5175,2007,Male,Arizona,6310.64
+158,158,37754,37754,37754,High School Graduate,Accommodation,45205025,5794,2007,Male,Arizona,7802.04
+159,159,37755,37755,37755,Some College,Accommodation,51871437,5447,2007,Male,Arizona,9522.94
+160,160,37756,37756,37756,Advanced Degree,Accommodation,41985451,2680,2007,Male,Arizona,15666.21
+161,161,37757,37757,37757,Unavalble,Accommodation,20764594,4572,2007,Male,Arizona,4541.69
+162,162,37758,37758,37758,All Education Categories,Accommodation,158362406,25795,2007,Female,Arizona,6139.27
+163,163,37759,37759,37759,Less Than High School,Accommodation,27997219,5674,2007,Female,Arizona,4934.3
+164,164,37760,37760,37760,High School Graduate,Accommodation,35707303,6044,2007,Female,Arizona,5907.89
+165,165,37761,37761,37761,Some College,Accommodation,43446534,6166,2007,Female,Arizona,7046.15
+166,166,37762,37762,37762,Advanced Degree,Accommodation,30518559,3078,2007,Female,Arizona,9915.06
+167,167,37763,37763,37763,Unavalble,Accommodation,20692791,4832,2007,Female,Arizona,4282.45
+168,168,38844,38844,38844,All Education Categories,Educational Services,741586404,66095,2008,Male,Arizona,11220.01
+169,169,38845,38845,38845,Less Than High School,Educational Services,42601857,5364,2008,Male,Arizona,7942.18
+170,170,38846,38846,38846,High School Graduate,Educational Services,118110896,12613,2008,Male,Arizona,9364.22
+171,171,38847,38847,38847,Some College,Educational Services,197234943,18616,2008,Male,Arizona,10594.92
+172,172,38848,38848,38848,Advanced Degree,Educational Services,360406341,24423,2008,Male,Arizona,14756.84
+173,173,38849,38849,38849,Unavalble,Educational Services,23232367,5079,2008,Male,Arizona,4574.2
+174,174,38850,38850,38850,All Education Categories,Educational Services,1202017987,136961,2008,Female,Arizona,8776.35
+175,175,38851,38851,38851,Less Than High School,Educational Services,57416326,9862,2008,Female,Arizona,5821.98
+176,176,38852,38852,38852,High School Graduate,Educational Services,196485487,26849,2008,Female,Arizona,7318.17
+177,177,38853,38853,38853,Some College,Educational Services,357851074,42109,2008,Female,Arizona,8498.21
+178,178,38854,38854,38854,Advanced Degree,Educational Services,539230424,48494,2008,Female,Arizona,11119.53
+179,179,38855,38855,38855,Unavalble,Educational Services,51034677,9646,2008,Female,Arizona,5290.76
+180,180,38940,38940,38940,All Education Categories,Accommodation,186692485,23826,2008,Male,Arizona,7835.66
+181,181,38941,38941,38941,Less Than High School,Accommodation,32807609,5243,2008,Male,Arizona,6257.41
+182,182,38942,38942,38942,High School Graduate,Accommodation,44436767,5844,2008,Male,Arizona,7603.83
+183,183,38943,38943,38943,Some College,Accommodation,51264561,5549,2008,Male,Arizona,9238.52
+184,184,38944,38944,38944,Advanced Degree,Accommodation,38393356,2776,2008,Male,Arizona,13830.46
+185,185,38945,38945,38945,Unavalble,Accommodation,19790191,4415,2008,Male,Arizona,4482.49
+186,186,38946,38946,38946,All Education Categories,Accommodation,162255096,25951,2008,Female,Arizona,6252.36
+187,187,38947,38947,38947,Less Than High School,Accommodation,29291659,5731,2008,Female,Arizona,5111.09
+188,188,38948,38948,38948,High School Graduate,Accommodation,36370651,6089,2008,Female,Arizona,5973.17
+189,189,38949,38949,38949,Some College,Accommodation,44840189,6311,2008,Female,Arizona,7105.08
+190,190,38950,38950,38950,Advanced Degree,Accommodation,32252670,3185,2008,Female,Arizona,10126.43
+191,191,38951,38951,38951,Unavalble,Accommodation,19499927,4634,2008,Female,Arizona,4208.01
+192,192,40032,40032,40032,All Education Categories,Educational Services,783330857,67606,2009,Male,Arizona,11586.71
+193,193,40033,40033,40033,Less Than High School,Educational Services,48887420,6082,2009,Male,Arizona,8038.05
+194,194,40034,40034,40034,High School Graduate,Educational Services,129426289,13650,2009,Male,Arizona,9481.78
+195,195,40035,40035,40035,Some College,Educational Services,210924704,19358,2009,Male,Arizona,10896.0
+196,196,40036,40036,40036,Advanced Degree,Educational Services,371885770,23278,2009,Male,Arizona,15975.85
+197,197,40037,40037,40037,Unavalble,Educational Services,22206673,5238,2009,Male,Arizona,4239.53
+198,198,40038,40038,40038,All Education Categories,Educational Services,1268617665,144615,2009,Female,Arizona,8772.38
+199,199,40039,40039,40039,Less Than High School,Educational Services,65660504,11285,2009,Female,Arizona,5818.39
+200,200,40040,40040,40040,High School Graduate,Educational Services,213636594,29059,2009,Female,Arizona,7351.82
+201,201,40041,40041,40041,Some College,Educational Services,384554024,44825,2009,Female,Arizona,8579.01
+202,202,40042,40042,40042,Advanced Degree,Educational Services,556110115,49627,2009,Female,Arizona,11205.8
+203,203,40043,40043,40043,Unavalble,Educational Services,48656429,9820,2009,Female,Arizona,4954.83
+204,204,40128,40128,40128,All Education Categories,Accommodation,162095419,21540,2009,Male,Arizona,7525.32
+205,205,40129,40129,40129,Less Than High School,Accommodation,28968677,4767,2009,Male,Arizona,6076.92
+206,206,40130,40130,40130,High School Graduate,Accommodation,39317955,5376,2009,Male,Arizona,7313.61
+207,207,40131,40131,40131,Some College,Accommodation,45094993,5172,2009,Male,Arizona,8719.06
+208,208,40132,40132,40132,Advanced Degree,Accommodation,33767753,2646,2009,Male,Arizona,12761.81
+209,209,40133,40133,40133,Unavalble,Accommodation,14946040,3578,2009,Male,Arizona,4177.21
+210,210,40134,40134,40134,All Education Categories,Accommodation,140470814,23534,2009,Female,Arizona,5968.85
+211,211,40135,40135,40135,Less Than High School,Accommodation,25413862,5286,2009,Female,Arizona,4807.77
+212,212,40136,40136,40136,High School Graduate,Accommodation,31711695,5530,2009,Female,Arizona,5734.48
+213,213,40137,40137,40137,Some College,Accommodation,39561694,5805,2009,Female,Arizona,6815.11
+214,214,40138,40138,40138,Advanced Degree,Accommodation,28656376,3008,2009,Female,Arizona,9526.72
+215,215,40139,40139,40139,Unavalble,Accommodation,15127187,3905,2009,Female,Arizona,3873.8
+216,216,41208,41208,41208,All Education Categories,Educational Services,735602703,66405,2010,Male,Arizona,11077.52
+217,217,41209,41209,41209,Less Than High School,Educational Services,48587848,6195,2010,Male,Arizona,7843.07
+218,218,41210,41210,41210,High School Graduate,Educational Services,125526896,13784,2010,Male,Arizona,9106.71
+219,219,41211,41211,41211,Some College,Educational Services,201151422,19258,2010,Male,Arizona,10445.08
+220,220,41212,41212,41212,Advanced Degree,Educational Services,341687142,22479,2010,Male,Arizona,15200.28
+221,221,41213,41213,41213,Unavalble,Educational Services,18649395,4689,2010,Male,Arizona,3977.26
+222,222,41214,41214,41214,All Education Categories,Educational Services,1170842027,139034,2010,Female,Arizona,8421.26
+223,223,41215,41215,41215,Less Than High School,Educational Services,64845540,11254,2010,Female,Arizona,5762.0
+224,224,41216,41216,41216,High School Graduate,Educational Services,202161234,28313,2010,Female,Arizona,7140.23
+225,225,41217,41217,41217,Some College,Educational Services,359835557,43649,2010,Female,Arizona,8243.84
+226,226,41218,41218,41218,Advanced Degree,Educational Services,506361536,47533,2010,Female,Arizona,10652.84
+227,227,41219,41219,41219,Unavalble,Educational Services,37638159,8284,2010,Female,Arizona,4543.48
+228,228,41304,41304,41304,All Education Categories,Accommodation,152675891,21284,2010,Male,Arizona,7173.27
+229,229,41305,41305,41305,Less Than High School,Accommodation,28362243,4870,2010,Male,Arizona,5823.87
+230,230,41306,41306,41306,High School Graduate,Accommodation,37834062,5447,2010,Male,Arizona,6945.85
+231,231,41307,41307,41307,Some College,Accommodation,42332473,5246,2010,Male,Arizona,8069.48
+232,232,41308,41308,41308,Advanced Degree,Accommodation,31198104,2607,2010,Male,Arizona,11967.05
+233,233,41309,41309,41309,Unavalble,Accommodation,12949009,3114,2010,Male,Arizona,4158.32
+234,234,41310,41310,41310,All Education Categories,Accommodation,134374908,23213,2010,Female,Arizona,5788.78
+235,235,41311,41311,41311,Less Than High School,Accommodation,25180692,5375,2010,Female,Arizona,4684.78
+236,236,41312,41312,41312,High School Graduate,Accommodation,30972484,5599,2010,Female,Arizona,5531.79
+237,237,41313,41313,41313,Some College,Accommodation,38035720,5840,2010,Female,Arizona,6512.97
+238,238,41314,41314,41314,Advanced Degree,Accommodation,27075863,3057,2010,Female,Arizona,8857.0
+239,239,41315,41315,41315,Unavalble,Accommodation,13110149,3342,2010,Female,Arizona,3922.85
+240,240,42384,42384,42384,All Education Categories,Educational Services,733083127,72686,2011,Male,Arizona,10085.62
+241,241,42385,42385,42385,Less Than High School,Educational Services,51746712,7048,2011,Male,Arizona,7342.04
+242,242,42386,42386,42386,High School Graduate,Educational Services,130456484,15131,2011,Male,Arizona,8621.8
+243,243,42387,42387,42387,Some College,Educational Services,202344984,20927,2011,Male,Arizona,9669.09
+244,244,42388,42388,42388,Advanced Degree,Educational Services,330822263,24629,2011,Male,Arizona,13432.22
+245,245,42389,42389,42389,Unavalble,Educational Services,17712683,4951,2011,Male,Arizona,3577.6
+246,246,42390,42390,42390,All Education Categories,Educational Services,1184625384,145844,2011,Female,Arizona,8122.55
+247,247,42391,42391,42391,Less Than High School,Educational Services,69555464,12251,2011,Female,Arizona,5677.53
+248,248,42392,42392,42392,High School Graduate,Educational Services,209954711,29795,2011,Female,Arizona,7046.64
+249,249,42393,42393,42393,Some College,Educational Services,366428935,45872,2011,Female,Arizona,7988.07
+250,250,42394,42394,42394,Advanced Degree,Educational Services,502905215,49488,2011,Female,Arizona,10162.16
+251,251,42395,42395,42395,Unavalble,Educational Services,35781058,8439,2011,Female,Arizona,4239.96
+252,252,42480,42480,42480,All Education Categories,Accommodation,141793771,18254,2011,Male,Arizona,7767.82
+253,253,42481,42481,42481,Less Than High School,Accommodation,24079596,4076,2011,Male,Arizona,5907.65
+254,254,42482,42482,42482,High School Graduate,Accommodation,34953230,4744,2011,Male,Arizona,7367.88
+255,255,42483,42483,42483,Some College,Accommodation,39792333,4552,2011,Male,Arizona,8741.73
+256,256,42484,42484,42484,Advanced Degree,Accommodation,32301255,2282,2011,Male,Arizona,14154.8
+257,257,42485,42485,42485,Unavalble,Accommodation,10667357,2601,2011,Male,Arizona,4101.25
+258,258,42486,42486,42486,All Education Categories,Accommodation,125219171,20734,2011,Female,Arizona,6039.32
+259,259,42487,42487,42487,Less Than High School,Accommodation,22333516,4751,2011,Female,Arizona,4700.8
+260,260,42488,42488,42488,High School Graduate,Accommodation,28752942,5061,2011,Female,Arizona,5681.28
+261,261,42489,42489,42489,Some College,Accommodation,35727425,5279,2011,Female,Arizona,6767.84
+262,262,42490,42490,42490,Advanced Degree,Accommodation,26953229,2712,2011,Female,Arizona,9938.51
+263,263,42491,42491,42491,Unavalble,Accommodation,11452059,2931,2011,Female,Arizona,3907.22
+264,264,43560,43560,43560,All Education Categories,Educational Services,775435238,71146,2012,Male,Arizona,10899.21
+265,265,43561,43561,43561,Less Than High School,Educational Services,58745303,7274,2012,Male,Arizona,8076.07
+266,266,43562,43562,43562,High School Graduate,Educational Services,143546007,15234,2012,Male,Arizona,9422.74
+267,267,43563,43563,43563,Some College,Educational Services,218035807,20738,2012,Male,Arizona,10513.83
+268,268,43564,43564,43564,Advanced Degree,Educational Services,337087012,23420,2012,Male,Arizona,14393.13
+269,269,43565,43565,43565,Unavalble,Educational Services,18021108,4480,2012,Male,Arizona,4022.57
+270,270,43566,43566,43566,All Education Categories,Educational Services,1243510543,139793,2012,Female,Arizona,8895.37
+271,271,43567,43567,43567,Less Than High School,Educational Services,77948530,12454,2012,Female,Arizona,6258.92
+272,272,43568,43568,43568,High School Graduate,Educational Services,225706232,29032,2012,Female,Arizona,7774.39
+273,273,43569,43569,43569,Some College,Educational Services,387101046,44039,2012,Female,Arizona,8789.96
+274,274,43570,43570,43570,Advanced Degree,Educational Services,515089723,46121,2012,Female,Arizona,11168.23
+275,275,43571,43571,43571,Unavalble,Educational Services,37665012,8147,2012,Female,Arizona,4623.18
+276,276,43656,43656,43656,All Education Categories,Accommodation,183838539,20946,2012,Male,Arizona,8776.79
+277,277,43657,43657,43657,Less Than High School,Accommodation,31729751,4662,2012,Male,Arizona,6806.04
+278,278,43658,43658,43658,High School Graduate,Accommodation,44850149,5434,2012,Male,Arizona,8253.62
+279,279,43659,43659,43659,Some College,Accommodation,51911982,5287,2012,Male,Arizona,9818.8
+280,280,43660,43660,43660,Advanced Degree,Accommodation,41847258,2725,2012,Male,Arizona,15356.79
+281,281,43661,43661,43661,Unavalble,Accommodation,13499399,2836,2012,Male,Arizona,4760.01
+282,282,43662,43662,43662,All Education Categories,Accommodation,162957298,23639,2012,Female,Arizona,6893.58
+283,283,43663,43663,43663,Less Than High School,Accommodation,29147852,5368,2012,Female,Arizona,5429.93
+284,284,43664,43664,43664,High School Graduate,Accommodation,37423802,5763,2012,Female,Arizona,6493.81
+285,285,43665,43665,43665,Some College,Accommodation,46280700,6061,2012,Female,Arizona,7635.82
+286,286,43666,43666,43666,Advanced Degree,Accommodation,35677332,3187,2012,Female,Arizona,11194.64
+287,287,43667,43667,43667,Unavalble,Accommodation,14427613,3261,2012,Female,Arizona,4424.29
+288,288,44064,44064,44064,All Education Categories,00,13793693411,1242854,2005,Male,Arizona,11098.4
+289,289,44065,44065,44065,Less Than High School,00,1263505372,181542,2005,Male,Arizona,6959.85
+290,290,44066,44066,44066,High School Graduate,00,2605893216,276111,2005,Male,Arizona,9437.85
+291,291,44067,44067,44067,Some College,00,3908246281,330798,2005,Male,Arizona,11814.6
+292,292,44068,44068,44068,Advanced Degree,00,5150514582,260066,2005,Male,Arizona,19804.64
+293,293,44069,44069,44069,Unavalble,00,865533961,194337,2005,Male,Arizona,4453.78
+294,294,44070,44070,44070,All Education Categories,00,8323513360,1117320,2005,Female,Arizona,7449.53
+295,295,44071,44071,44071,Less Than High School,00,595512257,118648,2005,Female,Arizona,5019.15
+296,296,44072,44072,44072,High School Graduate,00,1521737254,236011,2005,Female,Arizona,6447.74
+297,297,44073,44073,44073,Some College,00,2605496373,329657,2005,Female,Arizona,7903.66
+298,298,44074,44074,44074,Advanced Degree,00,2885014628,246322,2005,Female,Arizona,11712.37
+299,299,44075,44075,44075,Unavalble,00,715752848,186681,2005,Female,Arizona,3834.1
+300,300,44124,44124,44124,All Education Categories,Manufacturing,2057530541,130073,2005,Male,Arizona,15818.28
+301,301,44125,44125,44125,Less Than High School,Manufacturing,177174029,19969,2005,Male,Arizona,8872.45
+302,302,44126,44126,44126,High School Graduate,Manufacturing,394930448,30871,2005,Male,Arizona,12792.93
+303,303,44127,44127,44127,Some College,Manufacturing,629608586,38563,2005,Male,Arizona,16326.75
+304,304,44128,44128,44128,Advanced Degree,Manufacturing,797171932,30935,2005,Male,Arizona,25769.26
+305,305,44129,44129,44129,Unavalble,Manufacturing,58645546,9734,2005,Male,Arizona,6024.81
+306,306,44130,44130,44130,All Education Categories,Manufacturing,552710991,52643,2005,Female,Arizona,10499.23
+307,307,44131,44131,44131,Less Than High School,Manufacturing,57839602,9184,2005,Female,Arizona,6297.87
+308,308,44132,44132,44132,High School Graduate,Manufacturing,113966414,12736,2005,Female,Arizona,8948.37
+309,309,44133,44133,44133,Some College,Manufacturing,175073192,15725,2005,Female,Arizona,11133.43
+310,310,44134,44134,44134,Advanced Degree,Manufacturing,183569656,10694,2005,Female,Arizona,17165.67
+311,311,44135,44135,44135,Unavalble,Manufacturing,22262126,4305,2005,Female,Arizona,5171.23
+312,312,44148,44148,44148,All Education Categories,Retail Trade,1305670895,158604,2005,Male,Arizona,8232.27
+313,313,44149,44149,44149,Less Than High School,Retail Trade,138756362,20639,2005,Male,Arizona,6723.02
+314,314,44150,44150,44150,High School Graduate,Retail Trade,319871064,38142,2005,Male,Arizona,8386.32
+315,315,44151,44151,44151,Some College,Retail Trade,396021153,39350,2005,Male,Arizona,10064.07
+316,316,44152,44152,44152,Advanced Degree,Retail Trade,291923993,19552,2005,Male,Arizona,14930.65
+317,317,44153,44153,44153,Unavalble,Retail Trade,159098323,40920,2005,Male,Arizona,3888.03
+318,318,44154,44154,44154,All Education Categories,Retail Trade,780029228,150171,2005,Female,Arizona,5194.27
+319,319,44155,44155,44155,Less Than High School,Retail Trade,84367145,18488,2005,Female,Arizona,4563.35
+320,320,44156,44156,44156,High School Graduate,Retail Trade,203496123,38115,2005,Female,Arizona,5339.0
+321,321,44157,44157,44157,Some College,Retail Trade,231738167,38090,2005,Female,Arizona,6083.96
+322,322,44158,44158,44158,Advanced Degree,Retail Trade,146148537,17084,2005,Female,Arizona,8554.7
+323,323,44159,44159,44159,Unavalble,Retail Trade,114279255,38394,2005,Female,Arizona,2976.49
+324,324,44184,44184,44184,All Education Categories,Finance and Insurance,930468581,43877,2005,Male,Arizona,21206.29
+325,325,44185,44185,44185,Less Than High School,Finance and Insurance,20557031,2000,2005,Male,Arizona,10278.52
+326,326,44186,44186,44186,High School Graduate,Finance and Insurance,82840063,6138,2005,Male,Arizona,13496.26
+327,327,44187,44187,44187,Some College,Finance and Insurance,196774090,11250,2005,Male,Arizona,17491.03
+328,328,44188,44188,44188,Advanced Degree,Finance and Insurance,592529488,18786,2005,Male,Arizona,31541.01
+329,329,44189,44189,44189,Unavalble,Finance and Insurance,37767909,5703,2005,Male,Arizona,6622.46
+330,330,44190,44190,44190,All Education Categories,Finance and Insurance,864421000,74291,2005,Female,Arizona,11635.61
+331,331,44191,44191,44191,Less Than High School,Finance and Insurance,23665085,3183,2005,Female,Arizona,7434.84
+332,332,44192,44192,44192,High School Graduate,Finance and Insurance,113787138,12656,2005,Female,Arizona,8990.77
+333,333,44193,44193,44193,Some College,Finance and Insurance,239667129,22374,2005,Female,Arizona,10711.86
+334,334,44194,44194,44194,Advanced Degree,Finance and Insurance,426050941,25913,2005,Female,Arizona,16441.59
+335,335,44195,44195,44195,Unavalble,Finance and Insurance,61250706,10165,2005,Female,Arizona,6025.65
+336,336,44244,44244,44244,All Education Categories,Educational Services,587368383,65483,2005,Male,Arizona,8969.78
+337,337,44245,44245,44245,Less Than High School,Educational Services,31714087,5147,2005,Male,Arizona,6161.66
+338,338,44246,44246,44246,High School Graduate,Educational Services,91334409,12286,2005,Male,Arizona,7434.02
+339,339,44247,44247,44247,Some College,Educational Services,154535153,18246,2005,Male,Arizona,8469.54
+340,340,44248,44248,44248,Advanced Degree,Educational Services,289439980,24307,2005,Male,Arizona,11907.68
+341,341,44249,44249,44249,Unavalble,Educational Services,20344755,5497,2005,Male,Arizona,3701.07
+342,342,44250,44250,44250,All Education Categories,Educational Services,940989509,130509,2005,Female,Arizona,7210.15
+343,343,44251,44251,44251,Less Than High School,Educational Services,40163035,8935,2005,Female,Arizona,4495.02
+344,344,44252,44252,44252,High School Graduate,Educational Services,150961584,25800,2005,Female,Arizona,5851.22
+345,345,44253,44253,44253,Some College,Educational Services,276138519,39668,2005,Female,Arizona,6961.24
+346,346,44254,44254,44254,Advanced Degree,Educational Services,434960177,46715,2005,Female,Arizona,9310.93
+347,347,44255,44255,44255,Unavalble,Educational Services,38766194,9392,2005,Female,Arizona,4127.58
+348,348,44256,44256,44256,All Education Categories,Health Care and Social Assistance,787123695,52620,2005,Male,Arizona,14958.64
+349,349,44257,44257,44257,Less Than High School,Health Care and Social Assistance,34289641,4695,2005,Male,Arizona,7303.44
+350,350,44258,44258,44258,High School Graduate,Health Care and Social Assistance,95202929,10028,2005,Male,Arizona,9493.71
+351,351,44259,44259,44259,Some College,Health Care and Social Assistance,195967703,15363,2005,Male,Arizona,12755.82
+352,352,44260,44260,44260,Advanced Degree,Health Care and Social Assistance,435489953,16787,2005,Male,Arizona,25942.1
+353,353,44261,44261,44261,Unavalble,Health Care and Social Assistance,26173469,5747,2005,Male,Arizona,4554.28
+354,354,44262,44262,44262,All Education Categories,Health Care and Social Assistance,1440326888,176588,2005,Female,Arizona,8156.43
+355,355,44263,44263,44263,Less Than High School,Health Care and Social Assistance,81265539,15152,2005,Female,Arizona,5363.35
+356,356,44264,44264,44264,High School Graduate,Health Care and Social Assistance,236594901,35573,2005,Female,Arizona,6650.97
+357,357,44265,44265,44265,Some College,Health Care and Social Assistance,520748438,62693,2005,Female,Arizona,8306.33
+358,358,44266,44266,44266,Advanced Degree,Health Care and Social Assistance,509551801,42845,2005,Female,Arizona,11892.91
+359,359,44267,44267,44267,Unavalble,Health Care and Social Assistance,92166210,20325,2005,Female,Arizona,4534.62
+360,360,44280,44280,44280,All Education Categories,Accommodation and Food Services,495491342,103956,2005,Male,Arizona,4766.36
+361,361,44281,44281,44281,Less Than High School,Accommodation and Food Services,82723701,17954,2005,Male,Arizona,4607.54
+362,362,44282,44282,44282,High School Graduate,Accommodation and Food Services,110001916,20531,2005,Male,Arizona,5357.85
+363,363,44283,44283,44283,Some College,Accommodation and Food Services,118316414,19351,2005,Male,Arizona,6114.23
+364,364,44284,44284,44284,Advanced Degree,Accommodation and Food Services,76859210,9040,2005,Male,Arizona,8502.13
+365,365,44285,44285,44285,Unavalble,Accommodation and Food Services,107590100,37080,2005,Male,Arizona,2901.57
+366,366,44286,44286,44286,All Education Categories,Accommodation and Food Services,423006615,111104,2005,Female,Arizona,3807.3
+367,367,44287,44287,44287,Less Than High School,Accommodation and Food Services,65845158,17683,2005,Female,Arizona,3723.64
+368,368,44288,44288,44288,High School Graduate,Accommodation and Food Services,86156693,20981,2005,Female,Arizona,4106.41
+369,369,44289,44289,44289,Some College,Accommodation and Food Services,99123601,21022,2005,Female,Arizona,4715.23
+370,370,44290,44290,44290,Advanced Degree,Accommodation and Food Services,59460723,9784,2005,Female,Arizona,6077.34
+371,371,44291,44291,44291,Unavalble,Accommodation and Food Services,112420439,41633,2005,Female,Arizona,2700.27
+372,372,44316,44316,44316,All Education Categories,00,16666429833,1323932,2006,Male,Arizona,12588.58
+373,373,44317,44317,44317,Less Than High School,00,1576433843,195145,2006,Male,Arizona,8078.27
+374,374,44318,44318,44318,High School Graduate,00,3164506630,295216,2006,Male,Arizona,10719.29
+375,375,44319,44319,44319,Some College,00,4694899331,352000,2006,Male,Arizona,13337.78
+376,376,44320,44320,44320,Advanced Degree,00,6148308150,274474,2006,Male,Arizona,22400.33
+377,377,44321,44321,44321,Unavalble,00,1082281880,207096,2006,Male,Arizona,5225.99
+378,378,44322,44322,44322,All Education Categories,00,9942515881,1165910,2006,Female,Arizona,8527.69
+379,379,44323,44323,44323,Less Than High School,00,728464819,127791,2006,Female,Arizona,5700.44
+380,380,44324,44324,44324,High School Graduate,00,1804594208,247233,2006,Female,Arizona,7299.16
+381,381,44325,44325,44325,Some College,00,3098606581,343653,2006,Female,Arizona,9016.67
+382,382,44326,44326,44326,Advanced Degree,00,3445524505,251567,2006,Female,Arizona,13696.25
+383,383,44327,44327,44327,Unavalble,00,865325768,195667,2006,Female,Arizona,4422.44
+384,384,44376,44376,44376,All Education Categories,Manufacturing,2309432433,131208,2006,Male,Arizona,17601.31
+385,385,44377,44377,44377,Less Than High School,Manufacturing,207082617,19837,2006,Male,Arizona,10439.21
+386,386,44378,44378,44378,High School Graduate,Manufacturing,452013443,31159,2006,Male,Arizona,14506.67
+387,387,44379,44379,44379,Some College,Manufacturing,702470442,38916,2006,Male,Arizona,18050.94
+388,388,44380,44380,44380,Advanced Degree,Manufacturing,874151688,31075,2006,Male,Arizona,28130.38
+389,389,44381,44381,44381,Unavalble,Manufacturing,73714244,10221,2006,Male,Arizona,7212.04
+390,390,44382,44382,44382,All Education Categories,Manufacturing,623897256,54067,2006,Female,Arizona,11539.34
+391,391,44383,44383,44383,Less Than High School,Manufacturing,67000462,9376,2006,Female,Arizona,7145.95
+392,392,44384,44384,44384,High School Graduate,Manufacturing,129258898,12975,2006,Female,Arizona,9962.15
+393,393,44385,44385,44385,Some College,Manufacturing,194890222,15936,2006,Female,Arizona,12229.56
+394,394,44386,44386,44386,Advanced Degree,Manufacturing,203530152,10918,2006,Female,Arizona,18641.71
+395,395,44387,44387,44387,Unavalble,Manufacturing,29217521,4862,2006,Female,Arizona,6009.36
+396,396,44400,44400,44400,All Education Categories,Retail Trade,1539514712,165558,2006,Male,Arizona,9298.94
+397,397,44401,44401,44401,Less Than High School,Retail Trade,165612118,21762,2006,Male,Arizona,7610.15
+398,398,44402,44402,44402,High School Graduate,Retail Trade,377640818,39845,2006,Male,Arizona,9477.75
+399,399,44403,44403,44403,Some College,Retail Trade,467510331,40884,2006,Male,Arizona,11435.04
+400,400,44404,44404,44404,Advanced Degree,Retail Trade,337320740,19926,2006,Male,Arizona,16928.67
+401,401,44405,44405,44405,Unavalble,Retail Trade,191430705,43140,2006,Male,Arizona,4437.43
+402,402,44406,44406,44406,All Education Categories,Retail Trade,901252569,156025,2006,Female,Arizona,5776.33
+403,403,44407,44407,44407,Less Than High School,Retail Trade,100352127,19926,2006,Female,Arizona,5036.24
+404,404,44408,44408,44408,High School Graduate,Retail Trade,234442315,39525,2006,Female,Arizona,5931.49
+405,405,44409,44409,44409,Some College,Retail Trade,266785403,39299,2006,Female,Arizona,6788.61
+406,406,44410,44410,44410,Advanced Degree,Retail Trade,166009981,17238,2006,Female,Arizona,9630.47
+407,407,44411,44411,44411,Unavalble,Retail Trade,133662743,40037,2006,Female,Arizona,3338.48
+408,408,44436,44436,44436,All Education Categories,Finance and Insurance,1206799848,50830,2006,Male,Arizona,23741.88
+409,409,44437,44437,44437,Less Than High School,Finance and Insurance,28217323,2461,2006,Male,Arizona,11465.8
+410,410,44438,44438,44438,High School Graduate,Finance and Insurance,108852326,7283,2006,Male,Arizona,14946.08
+411,411,44439,44439,44439,Some College,Finance and Insurance,252948803,13149,2006,Male,Arizona,19237.11
+412,412,44440,44440,44440,Advanced Degree,Finance and Insurance,769285352,21612,2006,Male,Arizona,35595.29
+413,413,44441,44441,44441,Unavalble,Finance and Insurance,47496044,6324,2006,Male,Arizona,7510.44
+414,414,44442,44442,44442,All Education Categories,Finance and Insurance,1073441998,81757,2006,Female,Arizona,13129.66
+415,415,44443,44443,44443,Less Than High School,Finance and Insurance,29977812,3590,2006,Female,Arizona,8350.37
+416,416,44444,44444,44444,High School Graduate,Finance and Insurance,137492025,13788,2006,Female,Arizona,9971.86
+417,417,44445,44445,44445,Some College,Finance and Insurance,292621076,24453,2006,Female,Arizona,11966.67
+418,418,44446,44446,44446,Advanced Degree,Finance and Insurance,540134582,28713,2006,Female,Arizona,18811.5
+419,419,44447,44447,44447,Unavalble,Finance and Insurance,73216502,11213,2006,Female,Arizona,6529.61
+420,420,44496,44496,44496,All Education Categories,Educational Services,708754155,58843,2006,Male,Arizona,12044.83
+421,421,44497,44497,44497,Less Than High School,Educational Services,38840104,4654,2006,Male,Arizona,8345.53
+422,422,44498,44498,44498,High School Graduate,Educational Services,110883756,11129,2006,Male,Arizona,9963.5
+423,423,44499,44499,44499,Some College,Educational Services,188635445,16448,2006,Male,Arizona,11468.59
+424,424,44500,44500,44500,Advanced Degree,Educational Services,346911114,21942,2006,Male,Arizona,15810.37
+425,425,44501,44501,44501,Unavalble,Educational Services,23483737,4671,2006,Male,Arizona,5027.56
+426,426,44502,44502,44502,All Education Categories,Educational Services,1122570413,113032,2006,Female,Arizona,9931.44
+427,427,44503,44503,44503,Less Than High School,Educational Services,48500060,8071,2006,Female,Arizona,6009.18
+428,428,44504,44504,44504,High School Graduate,Educational Services,178570366,22472,2006,Female,Arizona,7946.35
+429,429,44505,44505,44505,Some College,Educational Services,330176354,34739,2006,Female,Arizona,9504.49
+430,430,44506,44506,44506,Advanced Degree,Educational Services,518574060,39580,2006,Female,Arizona,13101.92
+431,431,44507,44507,44507,Unavalble,Educational Services,46749574,8170,2006,Female,Arizona,5722.1
+432,432,44508,44508,44508,All Education Categories,Health Care and Social Assistance,921557909,56458,2006,Male,Arizona,16322.89
+433,433,44509,44509,44509,Less Than High School,Health Care and Social Assistance,42824963,5200,2006,Male,Arizona,8235.57
+434,434,44510,44510,44510,High School Graduate,Health Care and Social Assistance,113716406,10822,2006,Male,Arizona,10507.89
+435,435,44511,44511,44511,Some College,Health Care and Social Assistance,233156674,16615,2006,Male,Arizona,14032.9
+436,436,44512,44512,44512,Advanced Degree,Health Care and Social Assistance,500170081,17749,2006,Male,Arizona,28180.18
+437,437,44513,44513,44513,Unavalble,Health Care and Social Assistance,31689785,6073,2006,Male,Arizona,5218.14
+438,438,44514,44514,44514,All Education Categories,Health Care and Social Assistance,1708829754,186744,2006,Female,Arizona,9150.65
+439,439,44515,44515,44515,Less Than High School,Health Care and Social Assistance,99465842,16641,2006,Female,Arizona,5977.16
+440,440,44516,44516,44516,High School Graduate,Health Care and Social Assistance,279084766,37710,2006,Female,Arizona,7400.82
+441,441,44517,44517,44517,Some College,Health Care and Social Assistance,618025669,66231,2006,Female,Arizona,9331.37
+442,442,44518,44518,44518,Advanced Degree,Health Care and Social Assistance,601990062,44510,2006,Female,Arizona,13524.83
+443,443,44519,44519,44519,Unavalble,Health Care and Social Assistance,110263414,21652,2006,Female,Arizona,5092.53
+444,444,44532,44532,44532,All Education Categories,Accommodation and Food Services,576031784,108495,2006,Male,Arizona,5309.29
+445,445,44533,44533,44533,Less Than High School,Accommodation and Food Services,97587839,19055,2006,Male,Arizona,5121.38
+446,446,44534,44534,44534,High School Graduate,Accommodation and Food Services,128463769,21711,2006,Male,Arizona,5916.99
+447,447,44535,44535,44535,Some College,Accommodation and Food Services,137452599,20409,2006,Male,Arizona,6734.9
+448,448,44536,44536,44536,Advanced Degree,Accommodation and Food Services,89597410,9577,2006,Male,Arizona,9355.48
+449,449,44537,44537,44537,Unavalble,Accommodation and Food Services,122930167,37743,2006,Male,Arizona,3257.03
+450,450,44538,44538,44538,All Education Categories,Accommodation and Food Services,483661673,114804,2006,Female,Arizona,4212.93
+451,451,44539,44539,44539,Less Than High School,Accommodation and Food Services,75898593,18720,2006,Female,Arizona,4054.41
+452,452,44540,44540,44540,High School Graduate,Accommodation and Food Services,98627244,21769,2006,Female,Arizona,4530.63
+453,453,44541,44541,44541,Some College,Accommodation and Food Services,113389656,21893,2006,Female,Arizona,5179.27
+454,454,44542,44542,44542,Advanced Degree,Accommodation and Food Services,66884066,10177,2006,Female,Arizona,6572.08
+455,455,44543,44543,44543,Unavalble,Accommodation and Food Services,128862115,42246,2006,Female,Arizona,3050.28
+456,456,44568,44568,44568,All Education Categories,00,17291533352,1353421,2007,Male,Arizona,12776.17
+457,457,44569,44569,44569,Less Than High School,00,1625358639,200151,2007,Male,Arizona,8120.66
+458,458,44570,44570,44570,High School Graduate,00,3276483087,303299,2007,Male,Arizona,10802.82
+459,459,44571,44571,44571,Some College,00,4870503898,360423,2007,Male,Arizona,13513.3
+460,460,44572,44572,44572,Advanced Degree,00,6439552883,279904,2007,Male,Arizona,23006.29
+461,461,44573,44573,44573,Unavalble,00,1079634845,209643,2007,Male,Arizona,5149.87
+462,462,44574,44574,44574,All Education Categories,00,10410880349,1216854,2007,Female,Arizona,8555.57
+463,463,44575,44575,44575,Less Than High School,00,793308840,136559,2007,Female,Arizona,5809.28
+464,464,44576,44576,44576,High School Graduate,00,1910571648,258172,2007,Female,Arizona,7400.38
+465,465,44577,44577,44577,Some College,00,3246299918,357699,2007,Female,Arizona,9075.51
+466,466,44578,44578,44578,Advanced Degree,00,3574320423,264249,2007,Female,Arizona,13526.33
+467,467,44579,44579,44579,Unavalble,00,886379520,200175,2007,Female,Arizona,4428.02
+468,468,44628,44628,44628,All Education Categories,Manufacturing,2321633836,133570,2007,Male,Arizona,17381.4
+469,469,44629,44629,44629,Less Than High School,Manufacturing,208552254,20623,2007,Male,Arizona,10112.61
+470,470,44630,44630,44630,High School Graduate,Manufacturing,452967048,32038,2007,Male,Arizona,14138.43
+471,471,44631,44631,44631,Some College,Manufacturing,709974826,39805,2007,Male,Arizona,17836.32
+472,472,44632,44632,44632,Advanced Degree,Manufacturing,880742069,31331,2007,Male,Arizona,28110.88
+473,473,44633,44633,44633,Unavalble,Manufacturing,69397638,9772,2007,Male,Arizona,7101.68
+474,474,44634,44634,44634,All Education Categories,Manufacturing,635932835,55710,2007,Female,Arizona,11415.06
+475,475,44635,44635,44635,Less Than High School,Manufacturing,71117646,10127,2007,Female,Arizona,7022.58
+476,476,44636,44636,44636,High School Graduate,Manufacturing,132129430,13473,2007,Female,Arizona,9806.98
+477,477,44637,44637,44637,Some College,Manufacturing,198124013,16435,2007,Female,Arizona,12055.01
+478,478,44638,44638,44638,Advanced Degree,Manufacturing,206000179,11140,2007,Female,Arizona,18491.94
+479,479,44639,44639,44639,Unavalble,Manufacturing,28561568,4534,2007,Female,Arizona,6299.42
+480,480,44652,44652,44652,All Education Categories,Retail Trade,1558806276,172599,2007,Male,Arizona,9031.37
+481,481,44653,44653,44653,Less Than High School,Retail Trade,172292739,22982,2007,Male,Arizona,7496.86
+482,482,44654,44654,44654,High School Graduate,Retail Trade,381946100,41441,2007,Male,Arizona,9216.62
+483,483,44655,44655,44655,Some College,Retail Trade,470051733,42485,2007,Male,Arizona,11063.95
+484,484,44656,44656,44656,Advanced Degree,Retail Trade,340305811,20906,2007,Male,Arizona,16277.9
+485,485,44657,44657,44657,Unavalble,Retail Trade,194209894,44784,2007,Male,Arizona,4336.59
+486,486,44658,44658,44658,All Education Categories,Retail Trade,948394405,162531,2007,Female,Arizona,5835.16
+487,487,44659,44659,44659,Less Than High School,Retail Trade,111082905,21534,2007,Female,Arizona,5158.49
+488,488,44660,44660,44660,High School Graduate,Retail Trade,246387361,41106,2007,Female,Arizona,5993.95
+489,489,44661,44661,44661,Some College,Retail Trade,279373434,40758,2007,Female,Arizona,6854.44
+490,490,44662,44662,44662,Advanced Degree,Retail Trade,173806269,17933,2007,Female,Arizona,9691.98
+491,491,44663,44663,44663,Unavalble,Retail Trade,137744436,41200,2007,Female,Arizona,3343.31
+492,492,44688,44688,44688,All Education Categories,Finance and Insurance,1270726472,51765,2007,Male,Arizona,24547.99
+493,493,44689,44689,44689,Less Than High School,Finance and Insurance,31942910,2672,2007,Male,Arizona,11954.68
+494,494,44690,44690,44690,High School Graduate,Finance and Insurance,118389570,7643,2007,Male,Arizona,15489.93
+495,495,44691,44691,44691,Some College,Finance and Insurance,271320328,13520,2007,Male,Arizona,20068.07
+496,496,44692,44692,44692,Advanced Degree,Finance and Insurance,797428527,21709,2007,Male,Arizona,36732.62
+497,497,44693,44693,44693,Unavalble,Finance and Insurance,51645137,6222,2007,Male,Arizona,8300.41
+498,498,44694,44694,44694,All Education Categories,Finance and Insurance,1123123805,80724,2007,Female,Arizona,13913.13
+499,499,44695,44695,44695,Less Than High School,Finance and Insurance,33695242,3790,2007,Female,Arizona,8890.57
+500,500,44696,44696,44696,High School Graduate,Finance and Insurance,147017171,13688,2007,Female,Arizona,10740.59
+501,501,44697,44697,44697,Some College,Finance and Insurance,307032217,24092,2007,Female,Arizona,12744.16
+502,502,44698,44698,44698,Advanced Degree,Finance and Insurance,557606992,28341,2007,Female,Arizona,19674.92
+503,503,44699,44699,44699,Unavalble,Finance and Insurance,77772182,10812,2007,Female,Arizona,7193.14
+504,504,44748,44748,44748,All Education Categories,Educational Services,706239267,66718,2007,Male,Arizona,10585.44
+505,505,44749,44749,44749,Less Than High School,Educational Services,41414516,5374,2007,Male,Arizona,7706.46
+506,506,44750,44750,44750,High School Graduate,Educational Services,113285529,12590,2007,Male,Arizona,8998.06
+507,507,44751,44751,44751,Some College,Educational Services,189597387,18714,2007,Male,Arizona,10131.31
+508,508,44752,44752,44752,Advanced Degree,Educational Services,338517887,24550,2007,Male,Arizona,13788.92
+509,509,44753,44753,44753,Unavalble,Educational Services,23423948,5489,2007,Male,Arizona,4267.43
+510,510,44754,44754,44754,All Education Categories,Educational Services,1146959356,134314,2007,Female,Arizona,8539.39
+511,511,44755,44755,44755,Less Than High School,Educational Services,54068003,9625,2007,Female,Arizona,5617.45
+512,512,44756,44756,44756,High School Graduate,Educational Services,187488259,26394,2007,Female,Arizona,7103.44
+513,513,44757,44757,44757,Some College,Educational Services,342164790,41174,2007,Female,Arizona,8310.21
+514,514,44758,44758,44758,Advanced Degree,Educational Services,513510170,47379,2007,Female,Arizona,10838.35
+515,515,44759,44759,44759,Unavalble,Educational Services,49728133,9742,2007,Female,Arizona,5104.51
+516,516,44760,44760,44760,All Education Categories,Health Care and Social Assistance,977842240,58443,2007,Male,Arizona,16731.55
+517,517,44761,44761,44761,Less Than High School,Health Care and Social Assistance,45616714,5591,2007,Male,Arizona,8158.95
+518,518,44762,44762,44762,High School Graduate,Health Care and Social Assistance,120554592,11255,2007,Male,Arizona,10711.2
+519,519,44763,44763,44763,Some College,Health Care and Social Assistance,246517525,17162,2007,Male,Arizona,14364.15
+520,520,44764,44764,44764,Advanced Degree,Health Care and Social Assistance,534075541,18441,2007,Male,Arizona,28961.31
+521,521,44765,44765,44765,Unavalble,Health Care and Social Assistance,31077867,5995,2007,Male,Arizona,5183.96
+522,522,44766,44766,44766,All Education Categories,Health Care and Social Assistance,1780459086,193173,2007,Female,Arizona,9216.91
+523,523,44767,44767,44767,Less Than High School,Health Care and Social Assistance,108290451,17674,2007,Female,Arizona,6127.1
+524,524,44768,44768,44768,High School Graduate,Health Care and Social Assistance,295852281,39103,2007,Female,Arizona,7565.97
+525,525,44769,44769,44769,Some College,Health Care and Social Assistance,641054191,68274,2007,Female,Arizona,9389.43
+526,526,44770,44770,44770,Advanced Degree,Health Care and Social Assistance,623959769,46134,2007,Female,Arizona,13524.94
+527,527,44771,44771,44771,Unavalble,Health Care and Social Assistance,111302393,21989,2007,Female,Arizona,5061.73
+528,528,44784,44784,44784,All Education Categories,Accommodation and Food Services,622571015,113474,2007,Male,Arizona,5486.46
+529,529,44785,44785,44785,Less Than High School,Accommodation and Food Services,106568038,19866,2007,Male,Arizona,5364.34
+530,530,44786,44786,44786,High School Graduate,Accommodation and Food Services,140619154,22918,2007,Male,Arizona,6135.75
+531,531,44787,44787,44787,Some College,Accommodation and Food Services,148026650,21348,2007,Male,Arizona,6933.98
+532,532,44788,44788,44788,Advanced Degree,Accommodation and Food Services,96394834,10060,2007,Male,Arizona,9581.99
+533,533,44789,44789,44789,Unavalble,Accommodation and Food Services,130962339,39281,2007,Male,Arizona,3333.99
+534,534,44790,44790,44790,All Education Categories,Accommodation and Food Services,529871507,121195,2007,Female,Arizona,4372.06
+535,535,44791,44791,44791,Less Than High School,Accommodation and Food Services,84549480,19722,2007,Female,Arizona,4287.06
+536,536,44792,44792,44792,High School Graduate,Accommodation and Food Services,110026824,23120,2007,Female,Arizona,4758.95
+537,537,44793,44793,44793,Some College,Accommodation and Food Services,123736934,23109,2007,Female,Arizona,5354.49
+538,538,44794,44794,44794,Advanced Degree,Accommodation and Food Services,71570962,10777,2007,Female,Arizona,6641.08
+539,539,44795,44795,44795,Unavalble,Accommodation and Food Services,139987307,44468,2007,Female,Arizona,3148.05
+540,540,44820,44820,44820,All Education Categories,00,17304883861,1337582,2008,Male,Arizona,12937.44
+541,541,44821,44821,44821,Less Than High School,00,1635990106,200009,2008,Male,Arizona,8179.58
+542,542,44822,44822,44822,High School Graduate,00,3325820051,303769,2008,Male,Arizona,10948.52
+543,543,44823,44823,44823,Some College,00,4927243552,360812,2008,Male,Arizona,13655.99
+544,544,44824,44824,44824,Advanced Degree,00,6430516930,280050,2008,Male,Arizona,22962.03
+545,545,44825,44825,44825,Unavalble,00,985313221,192941,2008,Male,Arizona,5106.81
+546,546,44826,44826,44826,All Education Categories,00,10659466788,1224039,2008,Female,Arizona,8708.44
+547,547,44827,44827,44827,Less Than High School,00,828421571,140633,2008,Female,Arizona,5890.66
+548,548,44828,44828,44828,High School Graduate,00,1967746578,261800,2008,Female,Arizona,7516.22
+549,549,44829,44829,44829,Some College,00,3356533557,363741,2008,Female,Arizona,9227.81
+550,550,44830,44830,44830,Advanced Degree,00,3676830208,268846,2008,Female,Arizona,13676.34
+551,551,44831,44831,44831,Unavalble,00,829934873,189020,2008,Female,Arizona,4390.73
+552,552,44880,44880,44880,All Education Categories,Manufacturing,2372850367,130674,2008,Male,Arizona,18158.55
+553,553,44881,44881,44881,Less Than High School,Manufacturing,207809659,20042,2008,Male,Arizona,10368.71
+554,554,44882,44882,44882,High School Graduate,Manufacturing,464188874,31622,2008,Male,Arizona,14679.3
+555,555,44883,44883,44883,Some College,Manufacturing,731685127,39377,2008,Male,Arizona,18581.54
+556,556,44884,44884,44884,Advanced Degree,Manufacturing,904817417,30741,2008,Male,Arizona,29433.57
+557,557,44885,44885,44885,Unavalble,Manufacturing,64349289,8892,2008,Male,Arizona,7236.76
+558,558,44886,44886,44886,All Education Categories,Manufacturing,644686703,53680,2008,Female,Arizona,12009.81
+559,559,44887,44887,44887,Less Than High School,Manufacturing,70623423,9822,2008,Female,Arizona,7190.33
+560,560,44888,44888,44888,High School Graduate,Manufacturing,133213223,12997,2008,Female,Arizona,10249.54
+561,561,44889,44889,44889,Some College,Manufacturing,203840422,15997,2008,Female,Arizona,12742.42
+562,562,44890,44890,44890,Advanced Degree,Manufacturing,212461312,10880,2008,Female,Arizona,19527.69
+563,563,44891,44891,44891,Unavalble,Manufacturing,24548323,3983,2008,Female,Arizona,6163.27
+564,564,44904,44904,44904,All Education Categories,Retail Trade,1453131601,167105,2008,Male,Arizona,8695.92
+565,565,44905,44905,44905,Less Than High School,Retail Trade,165850524,23153,2008,Male,Arizona,7163.24
+566,566,44906,44906,44906,High School Graduate,Retail Trade,360348016,40556,2008,Male,Arizona,8885.2
+567,567,44907,44907,44907,Some College,Retail Trade,439173227,41526,2008,Male,Arizona,10575.86
+568,568,44908,44908,44908,Advanced Degree,Retail Trade,317777802,20653,2008,Male,Arizona,15386.52
+569,569,44909,44909,44909,Unavalble,Retail Trade,169982031,41217,2008,Male,Arizona,4124.08
+570,570,44910,44910,44910,All Education Categories,Retail Trade,907793555,160057,2008,Female,Arizona,5671.69
+571,571,44911,44911,44911,Less Than High School,Retail Trade,109642643,22077,2008,Female,Arizona,4966.37
+572,572,44912,44912,44912,High School Graduate,Retail Trade,234944080,40576,2008,Female,Arizona,5790.22
+573,573,44913,44913,44913,Some College,Retail Trade,267745858,40455,2008,Female,Arizona,6618.36
+574,574,44914,44914,44914,Advanced Degree,Retail Trade,169961401,18154,2008,Female,Arizona,9362.2
+575,575,44915,44915,44915,Unavalble,Retail Trade,125499572,38795,2008,Female,Arizona,3234.94
+576,576,44940,44940,44940,All Education Categories,Finance and Insurance,1157860390,49622,2008,Male,Arizona,23333.61
+577,577,44941,44941,44941,Less Than High School,Finance and Insurance,30977217,2654,2008,Male,Arizona,11671.9
+578,578,44942,44942,44942,High School Graduate,Finance and Insurance,114035054,7511,2008,Male,Arizona,15182.41
+579,579,44943,44943,44943,Some College,Finance and Insurance,255873153,13160,2008,Male,Arizona,19443.25
+580,580,44944,44944,44944,Advanced Degree,Finance and Insurance,712574855,20710,2008,Male,Arizona,34407.28
+581,581,44945,44945,44945,Unavalble,Finance and Insurance,44400112,5587,2008,Male,Arizona,7947.04
+582,582,44946,44946,44946,All Education Categories,Finance and Insurance,1059445181,78523,2008,Female,Arizona,13492.16
+583,583,44947,44947,44947,Less Than High School,Finance and Insurance,33977111,3944,2008,Female,Arizona,8614.89
+584,584,44948,44948,44948,High School Graduate,Finance and Insurance,141645094,13581,2008,Female,Arizona,10429.65
+585,585,44949,44949,44949,Some College,Finance and Insurance,293073486,23630,2008,Female,Arizona,12402.6
+586,586,44950,44950,44950,Advanced Degree,Finance and Insurance,520571442,27370,2008,Female,Arizona,19019.78
+587,587,44951,44951,44951,Unavalble,Finance and Insurance,70178048,9997,2008,Female,Arizona,7019.91
+588,588,45000,45000,45000,All Education Categories,Educational Services,741586404,66095,2008,Male,Arizona,11220.01
+589,589,45001,45001,45001,Less Than High School,Educational Services,42601857,5364,2008,Male,Arizona,7942.18
+590,590,45002,45002,45002,High School Graduate,Educational Services,118110896,12613,2008,Male,Arizona,9364.22
+591,591,45003,45003,45003,Some College,Educational Services,197234943,18616,2008,Male,Arizona,10594.92
+592,592,45004,45004,45004,Advanced Degree,Educational Services,360406341,24423,2008,Male,Arizona,14756.84
+593,593,45005,45005,45005,Unavalble,Educational Services,23232367,5079,2008,Male,Arizona,4574.2
+594,594,45006,45006,45006,All Education Categories,Educational Services,1202017987,136961,2008,Female,Arizona,8776.35
+595,595,45007,45007,45007,Less Than High School,Educational Services,57416326,9862,2008,Female,Arizona,5821.98
+596,596,45008,45008,45008,High School Graduate,Educational Services,196485487,26849,2008,Female,Arizona,7318.17
+597,597,45009,45009,45009,Some College,Educational Services,357851074,42109,2008,Female,Arizona,8498.21
+598,598,45010,45010,45010,Advanced Degree,Educational Services,539230424,48494,2008,Female,Arizona,11119.53
+599,599,45011,45011,45011,Unavalble,Educational Services,51034677,9646,2008,Female,Arizona,5290.76
+600,600,45012,45012,45012,All Education Categories,Health Care and Social Assistance,1076867390,63584,2008,Male,Arizona,16936.14
+601,601,45013,45013,45013,Less Than High School,Health Care and Social Assistance,53499417,6321,2008,Male,Arizona,8463.76
+602,602,45014,45014,45014,High School Graduate,Health Care and Social Assistance,137608817,12509,2008,Male,Arizona,11000.78
+603,603,45015,45015,45015,Some College,Health Care and Social Assistance,274587846,18723,2008,Male,Arizona,14665.8
+604,604,45016,45016,45016,Advanced Degree,Health Care and Social Assistance,578571686,19704,2008,Male,Arizona,29363.16
+605,605,45017,45017,45017,Unavalble,Health Care and Social Assistance,32599624,6327,2008,Male,Arizona,5152.46
+606,606,45018,45018,45018,All Education Categories,Health Care and Social Assistance,2004140844,208414,2008,Female,Arizona,9616.15
+607,607,45019,45019,45019,Less Than High School,Health Care and Social Assistance,127118432,19825,2008,Female,Arizona,6412.03
+608,608,45020,45020,45020,High School Graduate,Health Care and Social Assistance,333946151,42322,2008,Female,Arizona,7890.6
+609,609,45021,45021,45021,Some College,Health Care and Social Assistance,719118606,73402,2008,Female,Arizona,9796.99
+610,610,45022,45022,45022,Advanced Degree,Health Care and Social Assistance,704656106,50229,2008,Female,Arizona,14028.87
+611,611,45023,45023,45023,Unavalble,Health Care and Social Assistance,119301549,22637,2008,Female,Arizona,5270.2
+612,612,45036,45036,45036,All Education Categories,Accommodation and Food Services,609278300,115625,2008,Male,Arizona,5269.43
+613,613,45037,45037,45037,Less Than High School,Accommodation and Food Services,108903805,21003,2008,Male,Arizona,5185.15
+614,614,45038,45038,45038,High School Graduate,Accommodation and Food Services,140712446,24077,2008,Male,Arizona,5844.27
+615,615,45039,45039,45039,Some College,Accommodation and Food Services,146457585,22328,2008,Male,Arizona,6559.37
+616,616,45040,45040,45040,Advanced Degree,Accommodation and Food Services,89437695,10571,2008,Male,Arizona,8460.67
+617,617,45041,45041,45041,Unavalble,Accommodation and Food Services,123766770,37645,2008,Male,Arizona,3287.73
+618,618,45042,45042,45042,All Education Categories,Accommodation and Food Services,532162902,123409,2008,Female,Arizona,4312.19
+619,619,45043,45043,45043,Less Than High School,Accommodation and Food Services,88318997,20844,2008,Female,Arizona,4237.14
+620,620,45044,45044,45044,High School Graduate,Accommodation and Food Services,112048050,24068,2008,Female,Arizona,4655.48
+621,621,45045,45045,45045,Some College,Accommodation and Food Services,125847143,24327,2008,Female,Arizona,5173.15
+622,622,45046,45046,45046,Advanced Degree,Accommodation and Food Services,73410333,11412,2008,Female,Arizona,6432.73
+623,623,45047,45047,45047,Unavalble,Accommodation and Food Services,132538379,42758,2008,Female,Arizona,3099.73
+624,624,45072,45072,45072,All Education Categories,00,15388714583,1229812,2009,Male,Arizona,12513.06
+625,625,45073,45073,45073,Less Than High School,00,1424190056,182963,2009,Male,Arizona,7784.03
+626,626,45074,45074,45074,High School Graduate,00,2963545260,282601,2009,Male,Arizona,10486.68
+627,627,45075,45075,45075,Some College,00,4429305764,338162,2009,Male,Arizona,13098.18
+628,628,45076,45076,45076,Advanced Degree,00,5814057762,264533,2009,Male,Arizona,21978.57
+629,629,45077,45077,45077,Unavalble,00,757615742,161553,2009,Male,Arizona,4689.58
+630,630,45078,45078,45078,All Education Categories,00,10059713897,1180661,2009,Female,Arizona,8520.41
+631,631,45079,45079,45079,Less Than High School,00,789641083,137744,2009,Female,Arizona,5732.67
+632,632,45080,45080,45080,High School Graduate,00,1880174645,255342,2009,Female,Arizona,7363.36
+633,633,45081,45081,45081,Some College,00,3214558924,356569,2009,Female,Arizona,9015.25
+634,634,45082,45082,45082,Advanced Degree,00,3488551995,263619,2009,Female,Arizona,13233.31
+635,635,45083,45083,45083,Unavalble,00,686787249,167387,2009,Female,Arizona,4102.99
+636,636,45132,45132,45132,All Education Categories,Manufacturing,2121235826,119025,2009,Male,Arizona,17821.77
+637,637,45133,45133,45133,Less Than High School,Manufacturing,177109455,17736,2009,Male,Arizona,9985.87
+638,638,45134,45134,45134,High School Graduate,Manufacturing,414311407,28934,2009,Male,Arizona,14319.19
+639,639,45135,45135,45135,Some College,Manufacturing,655723590,36463,2009,Male,Arizona,17983.26
+640,640,45136,45136,45136,Advanced Degree,Manufacturing,825954330,29067,2009,Male,Arizona,28415.53
+641,641,45137,45137,45137,Unavalble,Manufacturing,48137044,6825,2009,Male,Arizona,7053.05
+642,642,45138,45138,45138,All Education Categories,Manufacturing,589296992,47610,2009,Female,Arizona,12377.59
+643,643,45139,45139,45139,Less Than High School,Manufacturing,61754910,8518,2009,Female,Arizona,7249.93
+644,644,45140,45140,45140,High School Graduate,Manufacturing,121112168,11573,2009,Female,Arizona,10465.06
+645,645,45141,45141,45141,Some College,Manufacturing,187247295,14527,2009,Female,Arizona,12889.61
+646,646,45142,45142,45142,Advanced Degree,Manufacturing,200355844,10136,2009,Female,Arizona,19766.76
+647,647,45143,45143,45143,Unavalble,Manufacturing,18826776,2855,2009,Female,Arizona,6594.32
+648,648,45156,45156,45156,All Education Categories,Retail Trade,1270695836,155209,2009,Male,Arizona,8187.0
+649,649,45157,45157,45157,Less Than High School,Retail Trade,148120670,21823,2009,Male,Arizona,6787.37
+650,650,45158,45158,45158,High School Graduate,Retail Trade,320409532,38314,2009,Male,Arizona,8362.73
+651,651,45159,45159,45159,Some College,Retail Trade,387024176,39381,2009,Male,Arizona,9827.69
+652,652,45160,45160,45160,Advanced Degree,Retail Trade,280074370,19775,2009,Male,Arizona,14163.05
+653,653,45161,45161,45161,Unavalble,Retail Trade,135067087,35915,2009,Male,Arizona,3760.74
+654,654,45162,45162,45162,All Education Categories,Retail Trade,846836394,153863,2009,Female,Arizona,5503.83
+655,655,45163,45163,45163,Less Than High School,Retail Trade,104797189,21835,2009,Female,Arizona,4799.5
+656,656,45164,45164,45164,High School Graduate,Retail Trade,223248452,39605,2009,Female,Arizona,5636.88
+657,657,45165,45165,45165,Some College,Retail Trade,255318161,39970,2009,Female,Arizona,6387.74
+658,658,45166,45166,45166,Advanced Degree,Retail Trade,159576898,18068,2009,Female,Arizona,8832.02
+659,659,45167,45167,45167,Unavalble,Retail Trade,103895695,34385,2009,Female,Arizona,3021.54
+660,660,45192,45192,45192,All Education Categories,Finance and Insurance,988731067,48777,2009,Male,Arizona,20270.44
+661,661,45193,45193,45193,Less Than High School,Finance and Insurance,31735095,2854,2009,Male,Arizona,11119.51
+662,662,45194,45194,45194,High School Graduate,Finance and Insurance,108936539,7795,2009,Male,Arizona,13975.18
+663,663,45195,45195,45195,Some College,Finance and Insurance,230927110,13190,2009,Male,Arizona,17507.74
+664,664,45196,45196,45196,Advanced Degree,Finance and Insurance,581026208,20045,2009,Male,Arizona,28986.09
+665,665,45197,45197,45197,Unavalble,Finance and Insurance,36106116,4893,2009,Male,Arizona,7379.14
+666,666,45198,45198,45198,All Education Categories,Finance and Insurance,965712453,77370,2009,Female,Arizona,12481.74
+667,667,45199,45199,45199,Less Than High School,Finance and Insurance,34551741,4206,2009,Female,Arizona,8214.87
+668,668,45200,45200,45200,High School Graduate,Finance and Insurance,136724356,13789,2009,Female,Arizona,9915.47
+669,669,45201,45201,45201,Some College,Finance and Insurance,275746579,23660,2009,Female,Arizona,11654.55
+670,670,45202,45202,45202,Advanced Degree,Finance and Insurance,460559180,26793,2009,Female,Arizona,17189.53
+671,671,45203,45203,45203,Unavalble,Finance and Insurance,58130596,8922,2009,Female,Arizona,6515.42
+672,672,45252,45252,45252,All Education Categories,Educational Services,783330857,67606,2009,Male,Arizona,11586.71
+673,673,45253,45253,45253,Less Than High School,Educational Services,48887420,6082,2009,Male,Arizona,8038.05
+674,674,45254,45254,45254,High School Graduate,Educational Services,129426289,13650,2009,Male,Arizona,9481.78
+675,675,45255,45255,45255,Some College,Educational Services,210924704,19358,2009,Male,Arizona,10896.0
+676,676,45256,45256,45256,Advanced Degree,Educational Services,371885770,23278,2009,Male,Arizona,15975.85
+677,677,45257,45257,45257,Unavalble,Educational Services,22206673,5238,2009,Male,Arizona,4239.53
+678,678,45258,45258,45258,All Education Categories,Educational Services,1268617665,144615,2009,Female,Arizona,8772.38
+679,679,45259,45259,45259,Less Than High School,Educational Services,65660504,11285,2009,Female,Arizona,5818.39
+680,680,45260,45260,45260,High School Graduate,Educational Services,213636594,29059,2009,Female,Arizona,7351.82
+681,681,45261,45261,45261,Some College,Educational Services,384554024,44825,2009,Female,Arizona,8579.01
+682,682,45262,45262,45262,Advanced Degree,Educational Services,556110115,49627,2009,Female,Arizona,11205.8
+683,683,45263,45263,45263,Unavalble,Educational Services,48656429,9820,2009,Female,Arizona,4954.83
+684,684,45264,45264,45264,All Education Categories,Health Care and Social Assistance,1096440015,66986,2009,Male,Arizona,16368.2
+685,685,45265,45265,45265,Less Than High School,Health Care and Social Assistance,58209777,6984,2009,Male,Arizona,8334.73
+686,686,45266,45266,45266,High School Graduate,Health Care and Social Assistance,144788499,13436,2009,Male,Arizona,10776.16
+687,687,45267,45267,45267,Some College,Health Care and Social Assistance,280617105,19694,2009,Male,Arizona,14248.86
+688,688,45268,45268,45268,Advanced Degree,Health Care and Social Assistance,580222430,20375,2009,Male,Arizona,28477.17
+689,689,45269,45269,45269,Unavalble,Health Care and Social Assistance,32602204,6497,2009,Male,Arizona,5018.04
+690,690,45270,45270,45270,All Education Categories,Health Care and Social Assistance,2036546008,217725,2009,Female,Arizona,9353.75
+691,691,45271,45271,45271,Less Than High School,Health Care and Social Assistance,136814696,21841,2009,Female,Arizona,6264.12
+692,692,45272,45272,45272,High School Graduate,Health Care and Social Assistance,346208519,44817,2009,Female,Arizona,7724.94
+693,693,45273,45273,45273,Some College,Health Care and Social Assistance,730856749,76439,2009,Female,Arizona,9561.31
+694,694,45274,45274,45274,Advanced Degree,Health Care and Social Assistance,711201946,52225,2009,Female,Arizona,13618.04
+695,695,45275,45275,45275,Unavalble,Health Care and Social Assistance,111464097,22402,2009,Female,Arizona,4975.63
+696,696,45288,45288,45288,All Education Categories,Accommodation and Food Services,557022316,109043,2009,Male,Arizona,5108.28
+697,697,45289,45289,45289,Less Than High School,Accommodation and Food Services,101918896,20159,2009,Male,Arizona,5055.75
+698,698,45290,45290,45290,High School Graduate,Accommodation and Food Services,130843066,23106,2009,Male,Arizona,5662.73
+699,699,45291,45291,45291,Some College,Accommodation and Food Services,135176299,21385,2009,Male,Arizona,6321.08
+700,700,45292,45292,45292,Advanced Degree,Accommodation and Food Services,80567861,9975,2009,Male,Arizona,8076.98
+701,701,45293,45293,45293,Unavalble,Accommodation and Food Services,108516194,34418,2009,Male,Arizona,3152.89
+702,702,45294,45294,45294,All Education Categories,Accommodation and Food Services,487293097,116203,2009,Female,Arizona,4193.46
+703,703,45295,45295,45295,Less Than High School,Accommodation and Food Services,81881079,19968,2009,Female,Arizona,4100.61
+704,704,45296,45296,45296,High School Graduate,Accommodation and Food Services,103787165,22875,2009,Female,Arizona,4537.14
+705,705,45297,45297,45297,Some College,Accommodation and Food Services,117008854,23159,2009,Female,Arizona,5052.41
+706,706,45298,45298,45298,Advanced Degree,Accommodation and Food Services,67678650,10871,2009,Female,Arizona,6225.61
+707,707,45299,45299,45299,Unavalble,Accommodation and Food Services,116937348,39331,2009,Female,Arizona,2973.16
+708,708,45324,45324,45324,All Education Categories,00,14505665844,1147694,2010,Male,Arizona,12638.97
+709,709,45325,45325,45325,Less Than High School,00,1319788292,170624,2010,Male,Arizona,7735.07
+710,710,45326,45326,45326,High School Graduate,00,2776990859,267179,2010,Male,Arizona,10393.75
+711,711,45327,45327,45327,Some College,00,4174382031,320820,2010,Male,Arizona,13011.6
+712,712,45328,45328,45328,Advanced Degree,00,5610843785,252899,2010,Male,Arizona,22186.11
+713,713,45329,45329,45329,Unavalble,00,623660877,136173,2010,Male,Arizona,4579.92
+714,714,45330,45330,45330,All Education Categories,00,9545484639,1122993,2010,Female,Arizona,8500.04
+715,715,45331,45331,45331,Less Than High School,00,769716178,133477,2010,Female,Arizona,5766.66
+716,716,45332,45332,45332,High School Graduate,00,1794951053,245622,2010,Female,Arizona,7307.78
+717,717,45333,45333,45333,Some College,00,3057752401,343465,2010,Female,Arizona,8902.66
+718,718,45334,45334,45334,Advanced Degree,00,3340607724,254897,2010,Female,Arizona,13105.72
+719,719,45335,45335,45335,Unavalble,00,582457283,145532,2010,Female,Arizona,4002.26
+720,720,45384,45384,45384,All Education Categories,Manufacturing,2020970679,111218,2010,Male,Arizona,18171.26
+721,721,45385,45385,45385,Less Than High School,Manufacturing,166058605,16012,2010,Male,Arizona,10370.88
+722,722,45386,45386,45386,High School Graduate,Manufacturing,390414727,27040,2010,Male,Arizona,14438.41
+723,723,45387,45387,45387,Some College,Manufacturing,623352459,34496,2010,Male,Arizona,18070.28
+724,724,45388,45388,45388,Advanced Degree,Manufacturing,803243296,28309,2010,Male,Arizona,28374.13
+725,725,45389,45389,45389,Unavalble,Manufacturing,37901592,5362,2010,Male,Arizona,7068.56
+726,726,45390,45390,45390,All Education Categories,Manufacturing,560012001,44785,2010,Female,Arizona,12504.45
+727,727,45391,45391,45391,Less Than High School,Manufacturing,57448185,7790,2010,Female,Arizona,7374.61
+728,728,45392,45392,45392,High School Graduate,Manufacturing,113701794,10846,2010,Female,Arizona,10483.29
+729,729,45393,45393,45393,Some College,Manufacturing,178035992,13842,2010,Female,Arizona,12862.01
+730,730,45394,45394,45394,Advanced Degree,Manufacturing,195937742,9996,2010,Female,Arizona,19601.61
+731,731,45395,45395,45395,Unavalble,Manufacturing,14888288,2311,2010,Female,Arizona,6442.36
+732,732,45408,45408,45408,All Education Categories,Retail Trade,1189384669,142947,2010,Male,Arizona,8320.46
+733,733,45409,45409,45409,Less Than High School,Retail Trade,140275545,20472,2010,Male,Arizona,6852.07
+734,734,45410,45410,45410,High School Graduate,Retail Trade,299341927,36022,2010,Male,Arizona,8309.98
+735,735,45411,45411,45411,Some College,Retail Trade,367222041,37335,2010,Male,Arizona,9835.87
+736,736,45412,45412,45412,Advanced Degree,Retail Trade,271187161,19100,2010,Male,Arizona,14198.28
+737,737,45413,45413,45413,Unavalble,Retail Trade,111357996,30018,2010,Male,Arizona,3709.71
+738,738,45414,45414,45414,All Education Categories,Retail Trade,782653864,140545,2010,Female,Arizona,5568.71
+739,739,45415,45415,45415,Less Than High School,Retail Trade,97800975,20096,2010,Female,Arizona,4866.69
+740,740,45416,45416,45416,High School Graduate,Retail Trade,203140134,36040,2010,Female,Arizona,5636.52
+741,741,45417,45417,45417,Some College,Retail Trade,236922656,36913,2010,Female,Arizona,6418.41
+742,742,45418,45418,45418,Advanced Degree,Retail Trade,157106242,17464,2010,Female,Arizona,8996.01
+743,743,45419,45419,45419,Unavalble,Retail Trade,87683857,30033,2010,Female,Arizona,2919.58
+744,744,45444,45444,45444,All Education Categories,Finance and Insurance,1049390030,47016,2010,Male,Arizona,22319.85
+745,745,45445,45445,45445,Less Than High School,Finance and Insurance,37931500,3023,2010,Male,Arizona,12547.63
+746,746,45446,45446,45446,High School Graduate,Finance and Insurance,121415793,7910,2010,Male,Arizona,15349.66
+747,747,45447,45447,45447,Some College,Finance and Insurance,247765878,13048,2010,Male,Arizona,18988.8
+748,748,45448,45448,45448,Advanced Degree,Finance and Insurance,609680192,19221,2010,Male,Arizona,31719.48
+749,749,45449,45449,45449,Unavalble,Finance and Insurance,32596667,3815,2010,Male,Arizona,8544.34
+750,750,45450,45450,45450,All Education Categories,Finance and Insurance,1018475733,74092,2010,Female,Arizona,13746.1
+751,751,45451,45451,45451,Less Than High School,Finance and Insurance,40299801,4327,2010,Female,Arizona,9313.57
+752,752,45452,45452,45452,High School Graduate,Finance and Insurance,145857931,13665,2010,Female,Arizona,10673.83
+753,753,45453,45453,45453,Some College,Finance and Insurance,292453110,23246,2010,Female,Arizona,12580.79
+754,754,45454,45454,45454,Advanced Degree,Finance and Insurance,489844929,25943,2010,Female,Arizona,18881.58
+755,755,45455,45455,45455,Unavalble,Finance and Insurance,50019962,6911,2010,Female,Arizona,7237.73
+756,756,45504,45504,45504,All Education Categories,Educational Services,735602703,66405,2010,Male,Arizona,11077.52
+757,757,45505,45505,45505,Less Than High School,Educational Services,48587848,6195,2010,Male,Arizona,7843.07
+758,758,45506,45506,45506,High School Graduate,Educational Services,125526896,13784,2010,Male,Arizona,9106.71
+759,759,45507,45507,45507,Some College,Educational Services,201151422,19258,2010,Male,Arizona,10445.08
+760,760,45508,45508,45508,Advanced Degree,Educational Services,341687142,22479,2010,Male,Arizona,15200.28
+761,761,45509,45509,45509,Unavalble,Educational Services,18649395,4689,2010,Male,Arizona,3977.26
+762,762,45510,45510,45510,All Education Categories,Educational Services,1170842027,139034,2010,Female,Arizona,8421.26
+763,763,45511,45511,45511,Less Than High School,Educational Services,64845540,11254,2010,Female,Arizona,5762.0
+764,764,45512,45512,45512,High School Graduate,Educational Services,202161234,28313,2010,Female,Arizona,7140.23
+765,765,45513,45513,45513,Some College,Educational Services,359835557,43649,2010,Female,Arizona,8243.84
+766,766,45514,45514,45514,Advanced Degree,Educational Services,506361536,47533,2010,Female,Arizona,10652.84
+767,767,45515,45515,45515,Unavalble,Educational Services,37638159,8284,2010,Female,Arizona,4543.48
+768,768,45516,45516,45516,All Education Categories,Health Care and Social Assistance,1112619461,69671,2010,Male,Arizona,15969.62
+769,769,45517,45517,45517,Less Than High School,Health Care and Social Assistance,61606010,7624,2010,Male,Arizona,8080.54
+770,770,45518,45518,45518,High School Graduate,Health Care and Social Assistance,150792991,14443,2010,Male,Arizona,10440.56
+771,771,45519,45519,45519,Some College,Health Care and Social Assistance,283995861,20391,2010,Male,Arizona,13927.51
+772,772,45520,45520,45520,Advanced Degree,Health Care and Social Assistance,585723106,20700,2010,Male,Arizona,28295.8
+773,773,45521,45521,45521,Unavalble,Health Care and Social Assistance,30501493,6512,2010,Male,Arizona,4683.89
+774,774,45522,45522,45522,All Education Categories,Health Care and Social Assistance,1990115625,218056,2010,Female,Arizona,9126.63
+775,775,45523,45523,45523,Less Than High School,Health Care and Social Assistance,142180121,23060,2010,Female,Arizona,6165.66
+776,776,45524,45524,45524,High School Graduate,Health Care and Social Assistance,348418146,45954,2010,Female,Arizona,7581.89
+777,777,45525,45525,45525,Some College,Health Care and Social Assistance,713560988,76604,2010,Female,Arizona,9314.93
+778,778,45526,45526,45526,Advanced Degree,Health Care and Social Assistance,688256226,52039,2010,Female,Arizona,13225.78
+779,779,45527,45527,45527,Unavalble,Health Care and Social Assistance,97700144,20398,2010,Female,Arizona,4789.69
+780,780,45540,45540,45540,All Education Categories,Accommodation and Food Services,548582991,107666,2010,Male,Arizona,5095.23
+781,781,45541,45541,45541,Less Than High School,Accommodation and Food Services,102540253,20473,2010,Male,Arizona,5008.56
+782,782,45542,45542,45542,High School Graduate,Accommodation and Food Services,131399373,23365,2010,Male,Arizona,5623.77
+783,783,45543,45543,45543,Some College,Accommodation and Food Services,134319475,21718,2010,Male,Arizona,6184.71
+784,784,45544,45544,45544,Advanced Degree,Accommodation and Food Services,78658418,10064,2010,Male,Arizona,7815.82
+785,785,45545,45545,45545,Unavalble,Accommodation and Food Services,101665472,32046,2010,Male,Arizona,3172.49
+786,786,45546,45546,45546,All Education Categories,Accommodation and Food Services,479928258,112998,2010,Female,Arizona,4247.23
+787,787,45547,45547,45547,Less Than High School,Accommodation and Food Services,81872816,19681,2010,Female,Arizona,4159.99
+788,788,45548,45548,45548,High School Graduate,Accommodation and Food Services,103784679,22647,2010,Female,Arizona,4582.71
+789,789,45549,45549,45549,Some College,Accommodation and Food Services,115924118,22932,2010,Female,Arizona,5055.12
+790,790,45550,45550,45550,Advanced Degree,Accommodation and Food Services,66852740,10902,2010,Female,Arizona,6132.15
+791,791,45551,45551,45551,Unavalble,Accommodation and Food Services,111493905,36836,2010,Female,Arizona,3026.76
+792,792,45576,45576,45576,All Education Categories,00,15477284385,1170176,2011,Male,Arizona,13226.46
+793,793,45577,45577,45577,Less Than High School,00,1442287034,176234,2011,Male,Arizona,8183.93
+794,794,45578,45578,45578,High School Graduate,00,2988350532,274853,2011,Male,Arizona,10872.54
+795,795,45579,45579,45579,Some College,00,4456645210,327365,2011,Male,Arizona,13613.69
+796,796,45580,45580,45580,Advanced Degree,00,5967279539,255795,2011,Male,Arizona,23328.37
+797,797,45581,45581,45581,Unavalble,00,622722070,135928,2011,Male,Arizona,4581.26
+798,798,45582,45582,45582,All Education Categories,00,9945528179,1131887,2011,Female,Arizona,8786.68
+799,799,45583,45583,45583,Less Than High School,00,822835132,136405,2011,Female,Arizona,6032.29
+800,800,45584,45584,45584,High School Graduate,00,1892608770,248865,2011,Female,Arizona,7604.96
+801,801,45585,45585,45585,Some College,00,3186593108,346700,2011,Female,Arizona,9191.21
+802,802,45586,45586,45586,Advanced Degree,00,3483248959,257799,2011,Female,Arizona,13511.49
+803,803,45587,45587,45587,Unavalble,00,560242211,142117,2011,Female,Arizona,3942.12
+804,804,45636,45636,45636,All Education Categories,Manufacturing,2246960582,110362,2011,Male,Arizona,20359.91
+805,805,45637,45637,45637,Less Than High School,Manufacturing,183556306,16186,2011,Male,Arizona,11340.44
+806,806,45638,45638,45638,High School Graduate,Manufacturing,425928594,26916,2011,Male,Arizona,15824.36
+807,807,45639,45639,45639,Some College,Manufacturing,687807996,34141,2011,Male,Arizona,20146.1
+808,808,45640,45640,45640,Advanced Degree,Manufacturing,911022737,27862,2011,Male,Arizona,32697.68
+809,809,45641,45641,45641,Unavalble,Manufacturing,38644949,5258,2011,Male,Arizona,7349.74
+810,810,45642,45642,45642,All Education Categories,Manufacturing,606604372,43876,2011,Female,Arizona,13825.43
+811,811,45643,45643,45643,Less Than High School,Manufacturing,61529323,7636,2011,Female,Arizona,8057.8
+812,812,45644,45644,45644,High School Graduate,Manufacturing,121243577,10595,2011,Female,Arizona,11443.47
+813,813,45645,45645,45645,Some College,Manufacturing,191817178,13598,2011,Female,Arizona,14106.28
+814,814,45646,45646,45646,Advanced Degree,Manufacturing,218417120,9928,2011,Female,Arizona,22000.11
+815,815,45647,45647,45647,Unavalble,Manufacturing,13597175,2120,2011,Female,Arizona,6413.76
+816,816,45660,45660,45660,All Education Categories,Retail Trade,1271458839,143737,2011,Male,Arizona,8845.73
+817,817,45661,45661,45661,Less Than High School,Retail Trade,152014527,20918,2011,Male,Arizona,7267.16
+818,818,45662,45662,45662,High School Graduate,Retail Trade,317689145,36114,2011,Male,Arizona,8796.84
+819,819,45663,45663,45663,Some College,Retail Trade,392016070,37554,2011,Male,Arizona,10438.73
+820,820,45664,45664,45664,Advanced Degree,Retail Trade,297404243,19286,2011,Male,Arizona,15420.73
+821,821,45665,45665,45665,Unavalble,Retail Trade,112334854,29865,2011,Male,Arizona,3761.42
+822,822,45666,45666,45666,All Education Categories,Retail Trade,810588504,137906,2011,Female,Arizona,5877.83
+823,823,45667,45667,45667,Less Than High School,Retail Trade,102131931,19762,2011,Female,Arizona,5168.1
+824,824,45668,45668,45668,High School Graduate,Retail Trade,208658861,34855,2011,Female,Arizona,5986.48
+825,825,45669,45669,45669,Some College,Retail Trade,244624107,36081,2011,Female,Arizona,6779.86
+826,826,45670,45670,45670,Advanced Degree,Retail Trade,167841160,17358,2011,Female,Arizona,9669.38
+827,827,45671,45671,45671,Unavalble,Retail Trade,87332445,29850,2011,Female,Arizona,2925.71
+828,828,45696,45696,45696,All Education Categories,Finance and Insurance,1117109408,47679,2011,Male,Arizona,23429.8
+829,829,45697,45697,45697,Less Than High School,Finance and Insurance,40585098,3328,2011,Male,Arizona,12195.04
+830,830,45698,45698,45698,High School Graduate,Finance and Insurance,128363772,8311,2011,Male,Arizona,15445.05
+831,831,45699,45699,45699,Some College,Finance and Insurance,264882991,13301,2011,Male,Arizona,19914.52
+832,832,45700,45700,45700,Advanced Degree,Finance and Insurance,656311346,19163,2011,Male,Arizona,34248.88
+833,833,45701,45701,45701,Unavalble,Finance and Insurance,26966200,3576,2011,Male,Arizona,7540.88
+834,834,45702,45702,45702,All Education Categories,Finance and Insurance,1036815070,73521,2011,Female,Arizona,14102.3
+835,835,45703,45703,45703,Less Than High School,Finance and Insurance,41520545,4612,2011,Female,Arizona,9002.72
+836,836,45704,45704,45704,High School Graduate,Finance and Insurance,149183435,13890,2011,Female,Arizona,10740.35
+837,837,45705,45705,45705,Some College,Finance and Insurance,298377947,23273,2011,Female,Arizona,12820.78
+838,838,45706,45706,45706,Advanced Degree,Finance and Insurance,505307036,25498,2011,Female,Arizona,19817.52
+839,839,45707,45707,45707,Unavalble,Finance and Insurance,42426107,6248,2011,Female,Arizona,6790.35
+840,840,45756,45756,45756,All Education Categories,Educational Services,733083127,72686,2011,Male,Arizona,10085.62
+841,841,45757,45757,45757,Less Than High School,Educational Services,51746712,7048,2011,Male,Arizona,7342.04
+842,842,45758,45758,45758,High School Graduate,Educational Services,130456484,15131,2011,Male,Arizona,8621.8
+843,843,45759,45759,45759,Some College,Educational Services,202344984,20927,2011,Male,Arizona,9669.09
+844,844,45760,45760,45760,Advanced Degree,Educational Services,330822263,24629,2011,Male,Arizona,13432.22
+845,845,45761,45761,45761,Unavalble,Educational Services,17712683,4951,2011,Male,Arizona,3577.6
+846,846,45762,45762,45762,All Education Categories,Educational Services,1184625384,145844,2011,Female,Arizona,8122.55
+847,847,45763,45763,45763,Less Than High School,Educational Services,69555464,12251,2011,Female,Arizona,5677.53
+848,848,45764,45764,45764,High School Graduate,Educational Services,209954711,29795,2011,Female,Arizona,7046.64
+849,849,45765,45765,45765,Some College,Educational Services,366428935,45872,2011,Female,Arizona,7988.07
+850,850,45766,45766,45766,Advanced Degree,Educational Services,502905215,49488,2011,Female,Arizona,10162.16
+851,851,45767,45767,45767,Unavalble,Educational Services,35781058,8439,2011,Female,Arizona,4239.96
+852,852,45768,45768,45768,All Education Categories,Health Care and Social Assistance,1228299113,75112,2011,Male,Arizona,16352.9
+853,853,45769,45769,45769,Less Than High School,Health Care and Social Assistance,72734446,8548,2011,Male,Arizona,8508.94
+854,854,45770,45770,45770,High School Graduate,Health Care and Social Assistance,174222799,15968,2011,Male,Arizona,10910.75
+855,855,45771,45771,45771,Some College,Health Care and Social Assistance,317602141,22082,2011,Male,Arizona,14382.85
+856,856,45772,45772,45772,Advanced Degree,Health Care and Social Assistance,631874125,21868,2011,Male,Arizona,28894.92
+857,857,45773,45773,45773,Unavalble,Health Care and Social Assistance,31865601,6646,2011,Male,Arizona,4794.7
+858,858,45774,45774,45774,All Education Categories,Health Care and Social Assistance,2167620208,226614,2011,Female,Arizona,9565.25
+859,859,45775,45775,45775,Less Than High School,Health Care and Social Assistance,160650977,24528,2011,Female,Arizona,6549.7
+860,860,45776,45776,45776,High School Graduate,Health Care and Social Assistance,386336436,48427,2011,Female,Arizona,7977.71
+861,861,45777,45777,45777,Some College,Health Care and Social Assistance,774419654,79414,2011,Female,Arizona,9751.68
+862,862,45778,45778,45778,Advanced Degree,Health Care and Social Assistance,750489927,54570,2011,Female,Arizona,13752.79
+863,863,45779,45779,45779,Unavalble,Health Care and Social Assistance,95723213,19675,2011,Female,Arizona,4865.22
+864,864,45792,45792,45792,All Education Categories,Accommodation and Food Services,551321430,107490,2011,Male,Arizona,5129.05
+865,865,45793,45793,45793,Less Than High School,Accommodation and Food Services,99946561,19947,2011,Male,Arizona,5010.61
+866,866,45794,45794,45794,High School Graduate,Accommodation and Food Services,131665946,23265,2011,Male,Arizona,5659.4
+867,867,45795,45795,45795,Some College,Accommodation and Food Services,135120545,21694,2011,Male,Arizona,6228.48
+868,868,45796,45796,45796,Advanced Degree,Accommodation and Food Services,81217370,10000,2011,Male,Arizona,8121.74
+869,869,45797,45797,45797,Unavalble,Accommodation and Food Services,103371008,32583,2011,Male,Arizona,3172.54
+870,870,45798,45798,45798,All Education Categories,Accommodation and Food Services,476920375,111595,2011,Female,Arizona,4273.67
+871,871,45799,45799,45799,Less Than High School,Accommodation and Food Services,79343925,18986,2011,Female,Arizona,4179.08
+872,872,45800,45800,45800,High School Graduate,Accommodation and Food Services,102485632,22281,2011,Female,Arizona,4599.69
+873,873,45801,45801,45801,Some College,Accommodation and Food Services,114844373,22582,2011,Female,Arizona,5085.66
+874,874,45802,45802,45802,Advanced Degree,Accommodation and Food Services,67659497,10719,2011,Female,Arizona,6312.11
+875,875,45803,45803,45803,Unavalble,Accommodation and Food Services,112586949,37026,2011,Female,Arizona,3040.75
+876,876,45828,45828,45828,All Education Categories,00,16567701965,1192683,2012,Male,Arizona,13891.12
+877,877,45829,45829,45829,Less Than High School,00,1610526740,183627,2012,Male,Arizona,8770.64
+878,878,45830,45830,45830,High School Graduate,00,3264086637,282451,2012,Male,Arizona,11556.29
+879,879,45831,45831,45831,Some College,00,4778623048,332824,2012,Male,Arizona,14357.81
+880,880,45832,45832,45832,Advanced Degree,00,6236189484,255167,2012,Male,Arizona,24439.64
+881,881,45833,45833,45833,Unavalble,00,678276056,138613,2012,Male,Arizona,4893.31
+882,882,45834,45834,45834,All Education Categories,00,10684828004,1140661,2012,Female,Arizona,9367.22
+883,883,45835,45835,45835,Less Than High School,00,921106468,141341,2012,Female,Arizona,6516.91
+884,884,45836,45836,45836,High School Graduate,00,2062971204,252951,2012,Female,Arizona,8155.62
+885,885,45837,45837,45837,Some College,00,3421961549,348223,2012,Female,Arizona,9826.93
+886,886,45838,45838,45838,Advanced Degree,00,3679397279,255379,2012,Female,Arizona,14407.6
+887,887,45839,45839,45839,Unavalble,00,599391504,142768,2012,Female,Arizona,4198.36
+888,888,45888,45888,45888,All Education Categories,Manufacturing,2434322215,113473,2012,Male,Arizona,21452.88
+889,889,45889,45889,45889,Less Than High School,Manufacturing,206744135,17097,2012,Male,Arizona,12092.42
+890,890,45890,45890,45890,High School Graduate,Manufacturing,467694141,27839,2012,Male,Arizona,16799.96
+891,891,45891,45891,45891,Some College,Manufacturing,743507651,34835,2012,Male,Arizona,21343.7
+892,892,45892,45892,45892,Advanced Degree,Manufacturing,972697586,28127,2012,Male,Arizona,34582.34
+893,893,45893,45893,45893,Unavalble,Manufacturing,43678701,5574,2012,Male,Arizona,7836.15
+894,894,45894,45894,45894,All Education Categories,Manufacturing,648902083,44103,2012,Female,Arizona,14713.33
+895,895,45895,45895,45895,Less Than High School,Manufacturing,67736337,7845,2012,Female,Arizona,8634.33
+896,896,45896,45896,45896,High School Graduate,Manufacturing,129900401,10626,2012,Female,Arizona,12224.77
+897,897,45897,45897,45897,Some College,Manufacturing,203923756,13597,2012,Female,Arizona,14997.7
+898,898,45898,45898,45898,Advanced Degree,Manufacturing,232943969,9975,2012,Female,Arizona,23352.78
+899,899,45899,45899,45899,Unavalble,Manufacturing,14397621,2060,2012,Female,Arizona,6989.14
+900,900,45912,45912,45912,All Education Categories,Retail Trade,1398127005,151618,2012,Male,Arizona,9221.38
+901,901,45913,45913,45913,Less Than High School,Retail Trade,169640734,22040,2012,Male,Arizona,7696.95
+902,902,45914,45914,45914,High School Graduate,Retail Trade,348767795,37859,2012,Male,Arizona,9212.28
+903,903,45915,45915,45915,Some College,Retail Trade,429843598,39459,2012,Male,Arizona,10893.42
+904,904,45916,45916,45916,Advanced Degree,Retail Trade,325843695,20409,2012,Male,Arizona,15965.69
+905,905,45917,45917,45917,Unavalble,Retail Trade,124031183,31852,2012,Male,Arizona,3893.98
+906,906,45918,45918,45918,All Education Categories,Retail Trade,916540781,146150,2012,Female,Arizona,6271.23
+907,907,45919,45919,45919,Less Than High School,Retail Trade,116002123,20775,2012,Female,Arizona,5583.74
+908,908,45920,45920,45920,High School Graduate,Retail Trade,235441198,36699,2012,Female,Arizona,6415.47
+909,909,45921,45921,45921,Some College,Retail Trade,277178038,38360,2012,Female,Arizona,7225.7
+910,910,45922,45922,45922,Advanced Degree,Retail Trade,190399749,18624,2012,Female,Arizona,10223.35
+911,911,45923,45923,45923,Unavalble,Retail Trade,97519674,31693,2012,Female,Arizona,3077.01
+912,912,45948,45948,45948,All Education Categories,Finance and Insurance,1241354681,50175,2012,Male,Arizona,24740.5
+913,913,45949,45949,45949,Less Than High School,Finance and Insurance,51531305,3852,2012,Male,Arizona,13377.81
+914,914,45950,45950,45950,High School Graduate,Finance and Insurance,152299444,9132,2012,Male,Arizona,16677.56
+915,915,45951,45951,45951,Some College,Finance and Insurance,297636325,14076,2012,Male,Arizona,21144.95
+916,916,45952,45952,45952,Advanced Degree,Finance and Insurance,709230773,19443,2012,Male,Arizona,36477.44
+917,917,45953,45953,45953,Unavalble,Finance and Insurance,30656834,3673,2012,Male,Arizona,8346.54
+918,918,45954,45954,45954,All Education Categories,Finance and Insurance,1138978755,74653,2012,Female,Arizona,15256.97
+919,919,45955,45955,45955,Less Than High School,Finance and Insurance,51018279,5072,2012,Female,Arizona,10058.81
+920,920,45956,45956,45956,High School Graduate,Finance and Insurance,170249360,14396,2012,Female,Arizona,11826.16
+921,921,45957,45957,45957,Some College,Finance and Insurance,331929290,23715,2012,Female,Arizona,13996.6
+922,922,45958,45958,45958,Advanced Degree,Finance and Insurance,540960235,25442,2012,Female,Arizona,21262.49
+923,923,45959,45959,45959,Unavalble,Finance and Insurance,44821590,6028,2012,Female,Arizona,7435.57
+924,924,46008,46008,46008,All Education Categories,Educational Services,775435238,71146,2012,Male,Arizona,10899.21
+925,925,46009,46009,46009,Less Than High School,Educational Services,58745303,7274,2012,Male,Arizona,8076.07
+926,926,46010,46010,46010,High School Graduate,Educational Services,143546007,15234,2012,Male,Arizona,9422.74
+927,927,46011,46011,46011,Some College,Educational Services,218035807,20738,2012,Male,Arizona,10513.83
+928,928,46012,46012,46012,Advanced Degree,Educational Services,337087012,23420,2012,Male,Arizona,14393.13
+929,929,46013,46013,46013,Unavalble,Educational Services,18021108,4480,2012,Male,Arizona,4022.57
+930,930,46014,46014,46014,All Education Categories,Educational Services,1243510543,139793,2012,Female,Arizona,8895.37
+931,931,46015,46015,46015,Less Than High School,Educational Services,77948530,12454,2012,Female,Arizona,6258.92
+932,932,46016,46016,46016,High School Graduate,Educational Services,225706232,29032,2012,Female,Arizona,7774.39
+933,933,46017,46017,46017,Some College,Educational Services,387101046,44039,2012,Female,Arizona,8789.96
+934,934,46018,46018,46018,Advanced Degree,Educational Services,515089723,46121,2012,Female,Arizona,11168.23
+935,935,46019,46019,46019,Unavalble,Educational Services,37665012,8147,2012,Female,Arizona,4623.18
+936,936,46020,46020,46020,All Education Categories,Health Care and Social Assistance,1311333255,77628,2012,Male,Arizona,16892.53
+937,937,46021,46021,46021,Less Than High School,Health Care and Social Assistance,83209748,9225,2012,Male,Arizona,9020.03
+938,938,46022,46022,46022,High School Graduate,Health Care and Social Assistance,193184661,16820,2012,Male,Arizona,11485.41
+939,939,46023,46023,46023,Some College,Health Care and Social Assistance,341354437,22754,2012,Male,Arizona,15001.95
+940,940,46024,46024,46024,Advanced Degree,Health Care and Social Assistance,660507931,22131,2012,Male,Arizona,29845.37
+941,941,46025,46025,46025,Unavalble,Health Care and Social Assistance,33076478,6700,2012,Male,Arizona,4936.79
+942,942,46026,46026,46026,All Education Categories,Health Care and Social Assistance,2325214013,230755,2012,Female,Arizona,10076.55
+943,943,46027,46027,46027,Less Than High School,Health Care and Social Assistance,180549849,26045,2012,Female,Arizona,6932.23
+944,944,46028,46028,46028,High School Graduate,Health Care and Social Assistance,422448319,50085,2012,Female,Arizona,8434.63
+945,945,46029,46029,46029,Some College,Health Care and Social Assistance,827932448,80428,2012,Female,Arizona,10294.08
+946,946,46030,46030,46030,Advanced Degree,Health Care and Social Assistance,795727531,54915,2012,Female,Arizona,14490.17
+947,947,46031,46031,46031,Unavalble,Health Care and Social Assistance,98555867,19282,2012,Female,Arizona,5111.29
+948,948,46044,46044,46044,All Education Categories,Accommodation and Food Services,622262138,111119,2012,Male,Arizona,5599.96
+949,949,46045,46045,46045,Less Than High School,Accommodation and Food Services,112904008,20695,2012,Male,Arizona,5455.62
+950,950,46046,46046,46046,High School Graduate,Accommodation and Food Services,148246058,24196,2012,Male,Arizona,6126.88
+951,951,46047,46047,46047,Some College,Accommodation and Food Services,154096614,22704,2012,Male,Arizona,6787.2
+952,952,46048,46048,46048,Advanced Degree,Accommodation and Food Services,93548810,10621,2012,Male,Arizona,8807.91
+953,953,46049,46049,46049,Unavalble,Accommodation and Food Services,113466648,32903,2012,Male,Arizona,3448.52
+954,954,46050,46050,46050,All Education Categories,Accommodation and Food Services,539137842,114825,2012,Female,Arizona,4695.3
+955,955,46051,46051,46051,Less Than High School,Accommodation and Food Services,89801754,19576,2012,Female,Arizona,4587.34
+956,956,46052,46052,46052,High School Graduate,Accommodation and Food Services,116277171,22964,2012,Female,Arizona,5063.45
+957,957,46053,46053,46053,Some College,Accommodation and Food Services,130618818,23331,2012,Female,Arizona,5598.51
+958,958,46054,46054,46054,Advanced Degree,Accommodation and Food Services,79078667,11284,2012,Female,Arizona,7008.04
+959,959,46055,46055,46055,Unavalble,Accommodation and Food Services,123361432,37671,2012,Female,Arizona,3274.71

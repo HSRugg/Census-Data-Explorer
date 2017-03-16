@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,2976,2976,2976,All Education Categories,"Colleges, Universities, and Professional Schools",242024569,13690,2004,Male,Colorado,17678.93
+1,1,2977,2977,2977,Less Than High School,"Colleges, Universities, and Professional Schools",4889060,512,2004,Male,Colorado,9548.95
+2,2,2978,2978,2978,High School Graduate,"Colleges, Universities, and Professional Schools",20584046,1644,2004,Male,Colorado,12520.71
+3,3,2979,2979,2979,Some College,"Colleges, Universities, and Professional Schools",44544541,2937,2004,Male,Colorado,15166.68
+4,4,2980,2980,2980,Advanced Degree,"Colleges, Universities, and Professional Schools",168878207,7866,2004,Male,Colorado,21469.39
+5,5,2981,2981,2981,Unavalble,"Colleges, Universities, and Professional Schools",3128716,731,2004,Male,Colorado,4280.05
+6,6,2982,2982,2982,All Education Categories,"Colleges, Universities, and Professional Schools",186611979,15230,2004,Female,Colorado,12252.92
+7,7,2983,2983,2983,Less Than High School,"Colleges, Universities, and Professional Schools",3495743,477,2004,Female,Colorado,7328.6
+8,8,2984,2984,2984,High School Graduate,"Colleges, Universities, and Professional Schools",20056613,1999,2004,Female,Colorado,10033.32
+9,9,2985,2985,2985,Some College,"Colleges, Universities, and Professional Schools",45277352,3917,2004,Female,Colorado,11559.19
+10,10,2986,2986,2986,Advanced Degree,"Colleges, Universities, and Professional Schools",113792827,7792,2004,Female,Colorado,14603.8
+11,11,2987,2987,2987,Unavalble,"Colleges, Universities, and Professional Schools",3989443,1045,2004,Female,Colorado,3817.65
+12,12,6672,6672,6672,All Education Categories,"Colleges, Universities, and Professional Schools",239154389,17206,2005,Male,Colorado,13899.48
+13,13,6673,6673,6673,Less Than High School,"Colleges, Universities, and Professional Schools",5162795,638,2005,Male,Colorado,8092.16
+14,14,6674,6674,6674,High School Graduate,"Colleges, Universities, and Professional Schools",21359132,2127,2005,Male,Colorado,10041.91
+15,15,6675,6675,6675,Some College,"Colleges, Universities, and Professional Schools",44962690,3778,2005,Male,Colorado,11901.19
+16,16,6676,6676,6676,Advanced Degree,"Colleges, Universities, and Professional Schools",164363655,9790,2005,Male,Colorado,16788.93
+17,17,6677,6677,6677,Unavalble,"Colleges, Universities, and Professional Schools",3306117,873,2005,Male,Colorado,3787.08
+18,18,6678,6678,6678,All Education Categories,"Colleges, Universities, and Professional Schools",191497359,19062,2005,Female,Colorado,10046.03
+19,19,6679,6679,6679,Less Than High School,"Colleges, Universities, and Professional Schools",3718620,582,2005,Female,Colorado,6389.38
+20,20,6680,6680,6680,High School Graduate,"Colleges, Universities, and Professional Schools",20907138,2600,2005,Female,Colorado,8041.21
+21,21,6681,6681,6681,Some College,"Colleges, Universities, and Professional Schools",46736047,5090,2005,Female,Colorado,9181.93
+22,22,6682,6682,6682,Advanced Degree,"Colleges, Universities, and Professional Schools",115876250,9617,2005,Female,Colorado,12049.11
+23,23,6683,6683,6683,Unavalble,"Colleges, Universities, and Professional Schools",4259303,1172,2005,Female,Colorado,3634.22
+24,24,10380,10380,10380,All Education Categories,"Colleges, Universities, and Professional Schools",239962183,17020,2006,Male,Colorado,14098.84
+25,25,10381,10381,10381,Less Than High School,"Colleges, Universities, and Professional Schools",5215359,655,2006,Male,Colorado,7962.38
+26,26,10382,10382,10382,High School Graduate,"Colleges, Universities, and Professional Schools",21282385,2164,2006,Male,Colorado,9834.74
+27,27,10383,10383,10383,Some College,"Colleges, Universities, and Professional Schools",44810424,3795,2006,Male,Colorado,11807.75
+28,28,10384,10384,10384,Advanced Degree,"Colleges, Universities, and Professional Schools",165824817,9658,2006,Male,Colorado,17169.68
+29,29,10385,10385,10385,Unavalble,"Colleges, Universities, and Professional Schools",2829197,748,2006,Male,Colorado,3782.35
+30,30,10386,10386,10386,All Education Categories,"Colleges, Universities, and Professional Schools",190388274,18882,2006,Female,Colorado,10083.06
+31,31,10387,10387,10387,Less Than High School,"Colleges, Universities, and Professional Schools",3934279,622,2006,Female,Colorado,6325.21
+32,32,10388,10388,10388,High School Graduate,"Colleges, Universities, and Professional Schools",20547001,2596,2006,Female,Colorado,7914.87
+33,33,10389,10389,10389,Some College,"Colleges, Universities, and Professional Schools",46178956,5065,2006,Female,Colorado,9117.27
+34,34,10390,10390,10390,Advanced Degree,"Colleges, Universities, and Professional Schools",115502162,9593,2006,Female,Colorado,12040.25
+35,35,10391,10391,10391,Unavalble,"Colleges, Universities, and Professional Schools",4225876,1006,2006,Female,Colorado,4200.67
+36,36,14076,14076,14076,All Education Categories,"Colleges, Universities, and Professional Schools",263408463,17593,2007,Male,Colorado,14972.34
+37,37,14077,14077,14077,Less Than High School,"Colleges, Universities, and Professional Schools",6356152,712,2007,Male,Colorado,8927.18
+38,38,14078,14078,14078,High School Graduate,"Colleges, Universities, and Professional Schools",24697137,2260,2007,Male,Colorado,10927.94
+39,39,14079,14079,14079,Some College,"Colleges, Universities, and Professional Schools",50716620,3936,2007,Male,Colorado,12885.32
+40,40,14080,14080,14080,Advanced Degree,"Colleges, Universities, and Professional Schools",178421169,9766,2007,Male,Colorado,18269.63
+41,41,14081,14081,14081,Unavalble,"Colleges, Universities, and Professional Schools",3217386,919,2007,Male,Colorado,3500.96
+42,42,14082,14082,14082,All Education Categories,"Colleges, Universities, and Professional Schools",215888664,20023,2007,Female,Colorado,10782.03
+43,43,14083,14083,14083,Less Than High School,"Colleges, Universities, and Professional Schools",4752422,688,2007,Female,Colorado,6907.59
+44,44,14084,14084,14084,High School Graduate,"Colleges, Universities, and Professional Schools",24128579,2783,2007,Female,Colorado,8669.99
+45,45,14085,14085,14085,Some College,"Colleges, Universities, and Professional Schools",53245010,5352,2007,Female,Colorado,9948.62
+46,46,14086,14086,14086,Advanced Degree,"Colleges, Universities, and Professional Schools",128998930,9913,2007,Female,Colorado,13013.11
+47,47,14087,14087,14087,Unavalble,"Colleges, Universities, and Professional Schools",4763724,1286,2007,Female,Colorado,3704.3
+48,48,17748,17748,17748,All Education Categories,"Colleges, Universities, and Professional Schools",268791388,17604,2008,Male,Colorado,15268.77
+49,49,17749,17749,17749,Less Than High School,"Colleges, Universities, and Professional Schools",6730908,753,2008,Male,Colorado,8938.79
+50,50,17750,17750,17750,High School Graduate,"Colleges, Universities, and Professional Schools",26176724,2367,2008,Male,Colorado,11059.03
+51,51,17751,17751,17751,Some College,"Colleges, Universities, and Professional Schools",52245432,4005,2008,Male,Colorado,13045.05
+52,52,17752,17752,17752,Advanced Degree,"Colleges, Universities, and Professional Schools",180104868,9490,2008,Male,Colorado,18978.38
+53,53,17753,17753,17753,Unavalble,"Colleges, Universities, and Professional Schools",3533456,989,2008,Male,Colorado,3572.76
+54,54,17754,17754,17754,All Education Categories,"Colleges, Universities, and Professional Schools",230695157,20779,2008,Female,Colorado,11102.32
+55,55,17755,17755,17755,Less Than High School,"Colleges, Universities, and Professional Schools",5513641,777,2008,Female,Colorado,7096.06
+56,56,17756,17756,17756,High School Graduate,"Colleges, Universities, and Professional Schools",26298313,2965,2008,Female,Colorado,8869.58
+57,57,17757,17757,17757,Some College,"Colleges, Universities, and Professional Schools",57184560,5660,2008,Female,Colorado,10103.28
+58,58,17758,17758,17758,Advanced Degree,"Colleges, Universities, and Professional Schools",136497870,10069,2008,Female,Colorado,13556.25
+59,59,17759,17759,17759,Unavalble,"Colleges, Universities, and Professional Schools",5200774,1308,2008,Female,Colorado,3976.13
+60,60,21444,21444,21444,All Education Categories,"Colleges, Universities, and Professional Schools",305945472,18811,2009,Male,Colorado,16264.18
+61,61,21445,21445,21445,Less Than High School,"Colleges, Universities, and Professional Schools",8141400,873,2009,Male,Colorado,9325.77
+62,62,21446,21446,21446,High School Graduate,"Colleges, Universities, and Professional Schools",30068026,2626,2009,Male,Colorado,11450.12
+63,63,21447,21447,21447,Some College,"Colleges, Universities, and Professional Schools",59405787,4334,2009,Male,Colorado,13706.92
+64,64,21448,21448,21448,Advanced Degree,"Colleges, Universities, and Professional Schools",204187232,10117,2009,Male,Colorado,20182.59
+65,65,21449,21449,21449,Unavalble,"Colleges, Universities, and Professional Schools",4143027,860,2009,Male,Colorado,4817.47
+66,66,21450,21450,21450,All Education Categories,"Colleges, Universities, and Professional Schools",262908318,22480,2009,Female,Colorado,11695.21
+67,67,21451,21451,21451,Less Than High School,"Colleges, Universities, and Professional Schools",6889515,880,2009,Female,Colorado,7828.99
+68,68,21452,21452,21452,High School Graduate,"Colleges, Universities, and Professional Schools",30836221,3324,2009,Female,Colorado,9276.84
+69,69,21453,21453,21453,Some College,"Colleges, Universities, and Professional Schools",66181875,6232,2009,Female,Colorado,10619.68
+70,70,21454,21454,21454,Advanced Degree,"Colleges, Universities, and Professional Schools",153067505,10756,2009,Female,Colorado,14230.89
+71,71,21455,21455,21455,Unavalble,"Colleges, Universities, and Professional Schools",5933202,1287,2009,Female,Colorado,4610.1
+72,72,25116,25116,25116,All Education Categories,"Colleges, Universities, and Professional Schools",306932517,18390,2010,Male,Colorado,16690.19
+73,73,25117,25117,25117,Less Than High School,"Colleges, Universities, and Professional Schools",9221737,922,2010,Male,Colorado,10001.88
+74,74,25118,25118,25118,High School Graduate,"Colleges, Universities, and Professional Schools",31429859,2645,2010,Male,Colorado,11882.74
+75,75,25119,25119,25119,Some College,"Colleges, Universities, and Professional Schools",60687511,4295,2010,Male,Colorado,14129.8
+76,76,25120,25120,25120,Advanced Degree,"Colleges, Universities, and Professional Schools",202000191,9708,2010,Male,Colorado,20807.6
+77,77,25121,25121,25121,Unavalble,"Colleges, Universities, and Professional Schools",3593219,819,2010,Male,Colorado,4387.32
+78,78,25122,25122,25122,All Education Categories,"Colleges, Universities, and Professional Schools",265563191,22117,2010,Female,Colorado,12007.2
+79,79,25123,25123,25123,Less Than High School,"Colleges, Universities, and Professional Schools",7872016,947,2010,Female,Colorado,8312.58
+80,80,25124,25124,25124,High School Graduate,"Colleges, Universities, and Professional Schools",31737746,3302,2010,Female,Colorado,9611.67
+81,81,25125,25125,25125,Some College,"Colleges, Universities, and Professional Schools",66550214,6107,2010,Female,Colorado,10897.37
+82,82,25126,25126,25126,Advanced Degree,"Colleges, Universities, and Professional Schools",154044123,10509,2010,Female,Colorado,14658.3
+83,83,25127,25127,25127,Unavalble,"Colleges, Universities, and Professional Schools",5359093,1252,2010,Female,Colorado,4280.43
+84,84,28776,28776,28776,All Education Categories,"Colleges, Universities, and Professional Schools",307437175,19052,2011,Male,Colorado,16136.74
+85,85,28777,28777,28777,Less Than High School,"Colleges, Universities, and Professional Schools",10384392,1053,2011,Male,Colorado,9861.72
+86,86,28778,28778,28778,High School Graduate,"Colleges, Universities, and Professional Schools",33452506,2876,2011,Male,Colorado,11631.61
+87,87,28779,28779,28779,Some College,"Colleges, Universities, and Professional Schools",62366158,4521,2011,Male,Colorado,13794.77
+88,88,28780,28780,28780,Advanced Degree,"Colleges, Universities, and Professional Schools",197605033,9764,2011,Male,Colorado,20238.12
+89,89,28781,28781,28781,Unavalble,"Colleges, Universities, and Professional Schools",3629086,838,2011,Male,Colorado,4330.65
+90,90,28782,28782,28782,All Education Categories,"Colleges, Universities, and Professional Schools",268179913,22817,2011,Female,Colorado,11753.51
+91,91,28783,28783,28783,Less Than High School,"Colleges, Universities, and Professional Schools",8876999,1072,2011,Female,Colorado,8280.78
+92,92,28784,28784,28784,High School Graduate,"Colleges, Universities, and Professional Schools",33645646,3548,2011,Female,Colorado,9482.99
+93,93,28785,28785,28785,Some College,"Colleges, Universities, and Professional Schools",69011723,6391,2011,Female,Colorado,10798.27
+94,94,28786,28786,28786,Advanced Degree,"Colleges, Universities, and Professional Schools",151641590,10606,2011,Female,Colorado,14297.72
+95,95,28787,28787,28787,Unavalble,"Colleges, Universities, and Professional Schools",5003955,1200,2011,Female,Colorado,4169.96
+96,96,32436,32436,32436,All Education Categories,"Colleges, Universities, and Professional Schools",324339961,20120,2012,Male,Colorado,16120.28
+97,97,32437,32437,32437,Less Than High School,"Colleges, Universities, and Professional Schools",12381760,1220,2012,Male,Colorado,10148.98
+98,98,32438,32438,32438,High School Graduate,"Colleges, Universities, and Professional Schools",37529556,3217,2012,Male,Colorado,11666.01
+99,99,32439,32439,32439,Some College,"Colleges, Universities, and Professional Schools",67242522,4884,2012,Male,Colorado,13767.92
+100,100,32440,32440,32440,Advanced Degree,"Colleges, Universities, and Professional Schools",202880360,9946,2012,Male,Colorado,20398.19
+101,101,32441,32441,32441,Unavalble,"Colleges, Universities, and Professional Schools",4305763,853,2012,Male,Colorado,5047.79
+102,102,32442,32442,32442,All Education Categories,"Colleges, Universities, and Professional Schools",290548209,24248,2012,Female,Colorado,11982.36
+103,103,32443,32443,32443,Less Than High School,"Colleges, Universities, and Professional Schools",10966640,1244,2012,Female,Colorado,8815.63
+104,104,32444,32444,32444,High School Graduate,"Colleges, Universities, and Professional Schools",38251542,3911,2012,Female,Colorado,9780.5
+105,105,32445,32445,32445,Some College,"Colleges, Universities, and Professional Schools",75606792,6857,2012,Female,Colorado,11026.22
+106,106,32446,32446,32446,Advanced Degree,"Colleges, Universities, and Professional Schools",159385817,10967,2012,Female,Colorado,14533.22
+107,107,32447,32447,32447,Unavalble,"Colleges, Universities, and Professional Schools",6337418,1269,2012,Female,Colorado,4994.03
+108,108,33156,33156,33156,All Education Categories,00,12487283352,1047500,2004,Male,Colorado,11921.03
+109,109,33157,33157,33157,Less Than High School,00,794482787,106119,2004,Male,Colorado,7486.72
+110,110,33158,33158,33158,High School Graduate,00,2265193304,232539,2004,Male,Colorado,9741.13
+111,111,33159,33159,33159,Some College,00,3321646734,279765,2004,Male,Colorado,11872.99
+112,112,33160,33160,33160,Advanced Degree,00,5462817902,290213,2004,Male,Colorado,18823.48
+113,113,33161,33161,33161,Unavalble,00,643142625,138864,2004,Male,Colorado,4631.46
+114,114,33162,33162,33162,All Education Categories,00,7842035677,986091,2004,Female,Colorado,7952.65
+115,115,33163,33163,33163,Less Than High School,00,366153157,70495,2004,Female,Colorado,5194.03
+116,116,33164,33164,33164,High School Graduate,00,1296716289,201437,2004,Female,Colorado,6437.33
+117,117,33165,33165,33165,Some College,00,2305500787,289923,2004,Female,Colorado,7952.11
+118,118,33166,33166,33166,Advanced Degree,00,3314971579,279083,2004,Female,Colorado,11878.08
+119,119,33167,33167,33167,Unavalble,00,558693865,145154,2004,Female,Colorado,3848.97
+120,120,33216,33216,33216,All Education Categories,Manufacturing,1574469779,111272,2004,Male,Colorado,14149.74
+121,121,33217,33217,33217,Less Than High School,Manufacturing,116140199,13512,2004,Male,Colorado,8595.34
+122,122,33218,33218,33218,High School Graduate,Manufacturing,333316805,28187,2004,Male,Colorado,11825.2
+123,123,33219,33219,33219,Some College,Manufacturing,474574224,33293,2004,Male,Colorado,14254.47
+124,124,33220,33220,33220,Advanced Degree,Manufacturing,599755337,28300,2004,Male,Colorado,21192.77
+125,125,33221,33221,33221,Unavalble,Manufacturing,50683214,7980,2004,Male,Colorado,6351.28
+126,126,33222,33222,33222,All Education Categories,Manufacturing,488841115,48415,2004,Female,Colorado,10096.89
+127,127,33223,33223,33223,Less Than High School,Manufacturing,36655778,5801,2004,Female,Colorado,6318.87
+128,128,33224,33224,33224,High School Graduate,Manufacturing,100656224,12049,2004,Female,Colorado,8353.91
+129,129,33225,33225,33225,Some College,Manufacturing,150536325,14880,2004,Female,Colorado,10116.69
+130,130,33226,33226,33226,Advanced Degree,Manufacturing,180801973,11982,2004,Female,Colorado,15089.47
+131,131,33227,33227,33227,Unavalble,Manufacturing,20190814,3703,2004,Female,Colorado,5452.56
+132,132,33240,33240,33240,All Education Categories,Retail Trade,867766135,113999,2004,Male,Colorado,7612.05
+133,133,33241,33241,33241,Less Than High School,Retail Trade,76083365,11619,2004,Male,Colorado,6548.19
+134,134,33242,33242,33242,High School Graduate,Retail Trade,226851241,28721,2004,Male,Colorado,7898.45
+135,135,33243,33243,33243,Some College,Retail Trade,259099014,28872,2004,Male,Colorado,8974.06
+136,136,33244,33244,33244,Advanced Degree,Retail Trade,193773489,16345,2004,Male,Colorado,11855.21
+137,137,33245,33245,33245,Unavalble,Retail Trade,111959026,28442,2004,Male,Colorado,3936.4
+138,138,33246,33246,33246,All Education Categories,Retail Trade,532389220,112901,2004,Female,Colorado,4715.54
+139,139,33247,33247,33247,Less Than High School,Retail Trade,43618288,10056,2004,Female,Colorado,4337.54
+140,140,33248,33248,33248,High School Graduate,Retail Trade,139062120,28721,2004,Female,Colorado,4841.83
+141,141,33249,33249,33249,Some College,Retail Trade,157490616,29232,2004,Female,Colorado,5387.61
+142,142,33250,33250,33250,Advanced Degree,Retail Trade,106590305,15751,2004,Female,Colorado,6767.21
+143,143,33251,33251,33251,Unavalble,Retail Trade,85627891,29143,2004,Female,Colorado,2938.2
+144,144,33276,33276,33276,All Education Categories,Finance and Insurance,722762690,36869,2004,Male,Colorado,19603.53
+145,145,33277,33277,33277,Less Than High School,Finance and Insurance,13225886,1263,2004,Male,Colorado,10471.8
+146,146,33278,33278,33278,High School Graduate,Finance and Insurance,63272910,4753,2004,Male,Colorado,13312.2
+147,147,33279,33279,33279,Some College,Finance and Insurance,141854121,8659,2004,Male,Colorado,16382.28
+148,148,33280,33280,33280,Advanced Degree,Finance and Insurance,483576773,19290,2004,Male,Colorado,25068.78
+149,149,33281,33281,33281,Unavalble,Finance and Insurance,20833000,2904,2004,Male,Colorado,7173.9
+150,150,33282,33282,33282,All Education Categories,Finance and Insurance,759131916,67401,2004,Female,Colorado,11262.92
+151,151,33283,33283,33283,Less Than High School,Finance and Insurance,15808420,2145,2004,Female,Colorado,7369.89
+152,152,33284,33284,33284,High School Graduate,Finance and Insurance,99918721,11419,2004,Female,Colorado,8750.22
+153,153,33285,33285,33285,Some College,Finance and Insurance,200425108,19636,2004,Female,Colorado,10207.02
+154,154,33286,33286,33286,Advanced Degree,Finance and Insurance,398274002,26968,2004,Female,Colorado,14768.39
+155,155,33287,33287,33287,Unavalble,Finance and Insurance,44705666,7233,2004,Female,Colorado,6180.79
+156,156,33336,33336,33336,All Education Categories,Educational Services,605879201,52436,2004,Male,Colorado,11554.64
+157,157,33337,33337,33337,Less Than High School,Educational Services,20302160,2834,2004,Male,Colorado,7163.78
+158,158,33338,33338,33338,High School Graduate,Educational Services,81247557,9182,2004,Male,Colorado,8848.57
+159,159,33339,33339,33339,Some College,Educational Services,140702463,13599,2004,Male,Colorado,10346.53
+160,160,33340,33340,33340,Advanced Degree,Educational Services,352447855,23891,2004,Male,Colorado,14752.33
+161,161,33341,33341,33341,Unavalble,Educational Services,11179166,2929,2004,Male,Colorado,3816.72
+162,162,33342,33342,33342,All Education Categories,Educational Services,956033007,115569,2004,Female,Colorado,8272.4
+163,163,33343,33343,33343,Less Than High School,Educational Services,22924368,4807,2004,Female,Colorado,4768.96
+164,164,33344,33344,33344,High School Graduate,Educational Services,131251716,21578,2004,Female,Colorado,6082.66
+165,165,33345,33345,33345,Some College,Educational Services,250092377,33384,2004,Female,Colorado,7491.38
+166,166,33346,33346,33346,Advanced Degree,Educational Services,528455714,49840,2004,Female,Colorado,10603.04
+167,167,33347,33347,33347,Unavalble,Educational Services,23308833,5959,2004,Female,Colorado,3911.53
+168,168,33348,33348,33348,All Education Categories,Health Care and Social Assistance,635729841,45296,2004,Male,Colorado,14035.01
+169,169,33349,33349,33349,Less Than High School,Health Care and Social Assistance,24146614,3425,2004,Male,Colorado,7050.11
+170,170,33350,33350,33350,High School Graduate,Health Care and Social Assistance,78863535,8611,2004,Male,Colorado,9158.46
+171,171,33351,33351,33351,Some College,Health Care and Social Assistance,152112016,12809,2004,Male,Colorado,11875.4
+172,172,33352,33352,33352,Advanced Degree,Health Care and Social Assistance,363427218,16661,2004,Male,Colorado,21813.05
+173,173,33353,33353,33353,Unavalble,Health Care and Social Assistance,17180458,3790,2004,Male,Colorado,4533.1
+174,174,33354,33354,33354,All Education Categories,Health Care and Social Assistance,1347926900,169073,2004,Female,Colorado,7972.46
+175,175,33355,33355,33355,Less Than High School,Health Care and Social Assistance,56125172,10382,2004,Female,Colorado,5406.01
+176,176,33356,33356,33356,High School Graduate,Health Care and Social Assistance,215595454,33169,2004,Female,Colorado,6499.91
+177,177,33357,33357,33357,Some College,Health Care and Social Assistance,475483498,59947,2004,Female,Colorado,7931.73
+178,178,33358,33358,33358,Advanced Degree,Health Care and Social Assistance,522960349,48528,2004,Female,Colorado,10776.47
+179,179,33359,33359,33359,Unavalble,Health Care and Social Assistance,77762427,17047,2004,Female,Colorado,4561.65
+180,180,33372,33372,33372,All Education Categories,Accommodation and Food Services,454362398,98201,2004,Male,Colorado,4626.86
+181,181,33373,33373,33373,Less Than High School,Accommodation and Food Services,67191602,14419,2004,Male,Colorado,4659.93
+182,182,33374,33374,33374,High School Graduate,Accommodation and Food Services,108970371,20959,2004,Male,Colorado,5199.22
+183,183,33375,33375,33375,Some College,Accommodation and Food Services,110505570,19287,2004,Male,Colorado,5729.54
+184,184,33376,33376,33376,Advanced Degree,Accommodation and Food Services,73120816,10426,2004,Male,Colorado,7013.31
+185,185,33377,33377,33377,Unavalble,Accommodation and Food Services,94574038,33110,2004,Male,Colorado,2856.36
+186,186,33378,33378,33378,All Education Categories,Accommodation and Food Services,375460195,102854,2004,Female,Colorado,3650.42
+187,187,33379,33379,33379,Less Than High School,Accommodation and Food Services,45593424,12362,2004,Female,Colorado,3688.19
+188,188,33380,33380,33380,High School Graduate,Accommodation and Food Services,79755354,20161,2004,Female,Colorado,3955.92
+189,189,33381,33381,33381,Some College,Accommodation and Food Services,89945689,20607,2004,Female,Colorado,4364.81
+190,190,33382,33382,33382,Advanced Degree,Accommodation and Food Services,61012076,11286,2004,Female,Colorado,5406.0
+191,191,33383,33383,33383,Unavalble,Accommodation and Food Services,99153652,38439,2004,Female,Colorado,2579.51
+192,192,33408,33408,33408,All Education Categories,00,12844113251,1073648,2005,Male,Colorado,11963.06
+193,193,33409,33409,33409,Less Than High School,00,837313051,110437,2005,Male,Colorado,7581.82
+194,194,33410,33410,33410,High School Graduate,00,2353806113,239752,2005,Male,Colorado,9817.67
+195,195,33411,33411,33411,Some College,00,3426290885,287507,2005,Male,Colorado,11917.24
+196,196,33412,33412,33412,Advanced Degree,00,5577234756,295562,2005,Male,Colorado,18869.93
+197,197,33413,33413,33413,Unavalble,00,649468446,140391,2005,Male,Colorado,4626.14
+198,198,33414,33414,33414,All Education Categories,00,8071053348,1006567,2005,Female,Colorado,8018.4
+199,199,33415,33415,33415,Less Than High School,00,385932477,73971,2005,Female,Colorado,5217.35
+200,200,33416,33416,33416,High School Graduate,00,1342863425,206570,2005,Female,Colorado,6500.77
+201,201,33417,33417,33417,Some College,00,2380482631,296353,2005,Female,Colorado,8032.59
+202,202,33418,33418,33418,Advanced Degree,00,3408809531,283503,2005,Female,Colorado,12023.89
+203,203,33419,33419,33419,Unavalble,00,552965283,146170,2005,Female,Colorado,3783.03
+204,204,33468,33468,33468,All Education Categories,Manufacturing,1510019577,108403,2005,Male,Colorado,13929.68
+205,205,33469,33469,33469,Less Than High School,Manufacturing,117801927,13627,2005,Male,Colorado,8644.74
+206,206,33470,33470,33470,High School Graduate,Manufacturing,327994327,27957,2005,Male,Colorado,11732.1
+207,207,33471,33471,33471,Some College,Manufacturing,458523955,32508,2005,Male,Colorado,14104.96
+208,208,33472,33472,33472,Advanced Degree,Manufacturing,555401158,26322,2005,Male,Colorado,21100.26
+209,209,33473,33473,33473,Unavalble,Manufacturing,50298211,7989,2005,Male,Colorado,6295.93
+210,210,33474,33474,33474,All Education Categories,Manufacturing,467058283,46594,2005,Female,Colorado,10024.0
+211,211,33475,33475,33475,Less Than High School,Manufacturing,36725212,5778,2005,Female,Colorado,6356.04
+212,212,33476,33476,33476,High School Graduate,Manufacturing,97357427,11722,2005,Female,Colorado,8305.53
+213,213,33477,33477,33477,Some College,Manufacturing,143898360,14251,2005,Female,Colorado,10097.42
+214,214,33478,33478,33478,Advanced Degree,Manufacturing,169401111,11143,2005,Female,Colorado,15202.47
+215,215,33479,33479,33479,Unavalble,Manufacturing,19676172,3700,2005,Female,Colorado,5317.88
+216,216,33492,33492,33492,All Education Categories,Retail Trade,933428689,122633,2005,Male,Colorado,7611.56
+217,217,33493,33493,33493,Less Than High School,Retail Trade,84060344,12684,2005,Male,Colorado,6627.27
+218,218,33494,33494,33494,High School Graduate,Retail Trade,244382097,30934,2005,Male,Colorado,7900.11
+219,219,33495,33495,33495,Some College,Retail Trade,279379774,31128,2005,Male,Colorado,8975.19
+220,220,33496,33496,33496,Advanced Degree,Retail Trade,208182198,17300,2005,Male,Colorado,12033.65
+221,221,33497,33497,33497,Unavalble,Retail Trade,117424276,30587,2005,Male,Colorado,3839.03
+222,222,33498,33498,33498,All Education Categories,Retail Trade,596679566,123051,2005,Female,Colorado,4849.04
+223,223,33499,33499,33499,Less Than High School,Retail Trade,49917279,11204,2005,Female,Colorado,4455.31
+224,224,33500,33500,33500,High School Graduate,Retail Trade,156820415,31381,2005,Female,Colorado,4997.3
+225,225,33501,33501,33501,Some College,Retail Trade,179438453,32207,2005,Female,Colorado,5571.41
+226,226,33502,33502,33502,Advanced Degree,Retail Trade,120691827,17156,2005,Female,Colorado,7034.96
+227,227,33503,33503,33503,Unavalble,Retail Trade,89811592,31104,2005,Female,Colorado,2887.46
+228,228,33528,33528,33528,All Education Categories,Finance and Insurance,760022011,38022,2005,Male,Colorado,19989.01
+229,229,33529,33529,33529,Less Than High School,Finance and Insurance,14576711,1339,2005,Male,Colorado,10886.27
+230,230,33530,33530,33530,High School Graduate,Finance and Insurance,68302884,4982,2005,Male,Colorado,13709.93
+231,231,33531,33531,33531,Some College,Finance and Insurance,151527436,9080,2005,Male,Colorado,16688.04
+232,232,33532,33532,33532,Advanced Degree,Finance and Insurance,503489147,19822,2005,Male,Colorado,25400.52
+233,233,33533,33533,33533,Unavalble,Finance and Insurance,22125834,2799,2005,Male,Colorado,7904.91
+234,234,33534,33534,33534,All Education Categories,Finance and Insurance,783645058,67243,2005,Female,Colorado,11653.93
+235,235,33535,33535,33535,Less Than High School,Finance and Insurance,16891760,2253,2005,Female,Colorado,7497.45
+236,236,33536,33536,33536,High School Graduate,Finance and Insurance,103291539,11470,2005,Female,Colorado,9005.37
+237,237,33537,33537,33537,Some College,Finance and Insurance,207735919,19716,2005,Female,Colorado,10536.41
+238,238,33538,33538,33538,Advanced Degree,Finance and Insurance,411717814,27008,2005,Female,Colorado,15244.29
+239,239,33539,33539,33539,Unavalble,Finance and Insurance,44008026,6795,2005,Female,Colorado,6476.53
+240,240,33588,33588,33588,All Education Categories,Educational Services,616649469,56303,2005,Male,Colorado,10952.34
+241,241,33589,33589,33589,Less Than High School,Educational Services,21614852,3020,2005,Male,Colorado,7157.24
+242,242,33590,33590,33590,High School Graduate,Educational Services,85031869,9824,2005,Male,Colorado,8655.52
+243,243,33591,33591,33591,Some College,Educational Services,145679389,14604,2005,Male,Colorado,9975.31
+244,244,33592,33592,33592,Advanced Degree,Educational Services,352439397,25739,2005,Male,Colorado,13692.82
+245,245,33593,33593,33593,Unavalble,Educational Services,11883962,3116,2005,Male,Colorado,3813.85
+246,246,33594,33594,33594,All Education Categories,Educational Services,1008972635,121209,2005,Female,Colorado,8324.24
+247,247,33595,33595,33595,Less Than High School,Educational Services,24976922,5013,2005,Female,Colorado,4982.43
+248,248,33596,33596,33596,High School Graduate,Educational Services,139527260,22386,2005,Female,Colorado,6232.79
+249,249,33597,33597,33597,Some College,Educational Services,266862957,35294,2005,Female,Colorado,7561.14
+250,250,33598,33598,33598,Advanced Degree,Educational Services,552513573,52196,2005,Female,Colorado,10585.36
+251,251,33599,33599,33599,Unavalble,Educational Services,25091923,6320,2005,Female,Colorado,3970.24
+252,252,33600,33600,33600,All Education Categories,Health Care and Social Assistance,648123757,44911,2005,Male,Colorado,14431.29
+253,253,33601,33601,33601,Less Than High School,Health Care and Social Assistance,25015315,3377,2005,Male,Colorado,7407.56
+254,254,33602,33602,33602,High School Graduate,Health Care and Social Assistance,81745350,8576,2005,Male,Colorado,9531.87
+255,255,33603,33603,33603,Some College,Health Care and Social Assistance,156509887,12716,2005,Male,Colorado,12308.11
+256,256,33604,33604,33604,Advanced Degree,Health Care and Social Assistance,368041625,16653,2005,Male,Colorado,22100.62
+257,257,33605,33605,33605,Unavalble,Health Care and Social Assistance,16811579,3589,2005,Male,Colorado,4684.2
+258,258,33606,33606,33606,All Education Categories,Health Care and Social Assistance,1381839574,165314,2005,Female,Colorado,8358.88
+259,259,33607,33607,33607,Less Than High School,Health Care and Social Assistance,58579693,10388,2005,Female,Colorado,5639.17
+260,260,33608,33608,33608,High School Graduate,Health Care and Social Assistance,221996416,32699,2005,Female,Colorado,6789.09
+261,261,33609,33609,33609,Some College,Health Care and Social Assistance,488595551,58941,2005,Female,Colorado,8289.57
+262,262,33610,33610,33610,Advanced Degree,Health Care and Social Assistance,537567977,47614,2005,Female,Colorado,11290.12
+263,263,33611,33611,33611,Unavalble,Health Care and Social Assistance,75099936,15672,2005,Female,Colorado,4791.98
+264,264,33624,33624,33624,All Education Categories,Accommodation and Food Services,459444208,99343,2005,Male,Colorado,4624.83
+265,265,33625,33625,33625,Less Than High School,Accommodation and Food Services,68578438,14991,2005,Male,Colorado,4574.64
+266,266,33626,33626,33626,High School Graduate,Accommodation and Food Services,111247435,21545,2005,Male,Colorado,5163.49
+267,267,33627,33627,33627,Some College,Accommodation and Food Services,112334692,19713,2005,Male,Colorado,5698.51
+268,268,33628,33628,33628,Advanced Degree,Accommodation and Food Services,73590784,10521,2005,Male,Colorado,6994.66
+269,269,33629,33629,33629,Unavalble,Accommodation and Food Services,93692858,32573,2005,Male,Colorado,2876.4
+270,270,33630,33630,33630,All Education Categories,Accommodation and Food Services,381409206,105283,2005,Female,Colorado,3622.7
+271,271,33631,33631,33631,Less Than High School,Accommodation and Food Services,47690901,13003,2005,Female,Colorado,3667.68
+272,272,33632,33632,33632,High School Graduate,Accommodation and Food Services,80916575,20650,2005,Female,Colorado,3918.48
+273,273,33633,33633,33633,Some College,Accommodation and Food Services,91402714,21098,2005,Female,Colorado,4332.29
+274,274,33634,33634,33634,Advanced Degree,Accommodation and Food Services,60346397,11352,2005,Female,Colorado,5315.93
+275,275,33635,33635,33635,Unavalble,Accommodation and Food Services,101052618,39179,2005,Female,Colorado,2579.25
+276,276,33660,33660,33660,All Education Categories,00,14313288878,1098382,2006,Male,Colorado,13031.25
+277,277,33661,33661,33661,Less Than High School,00,944333506,115580,2006,Male,Colorado,8170.39
+278,278,33662,33662,33662,High School Graduate,00,2620629783,247306,2006,Male,Colorado,10596.71
+279,279,33663,33663,33663,Some College,00,3812471282,294690,2006,Male,Colorado,12937.23
+280,280,33664,33664,33664,Advanced Degree,00,6232954791,299044,2006,Male,Colorado,20842.94
+281,281,33665,33665,33665,Unavalble,00,702899516,141761,2006,Male,Colorado,4958.34
+282,282,33666,33666,33666,All Education Categories,00,8722662859,1025155,2006,Female,Colorado,8508.63
+283,283,33667,33667,33667,Less Than High School,00,431268392,77616,2006,Female,Colorado,5556.44
+284,284,33668,33668,33668,High School Graduate,00,1452506393,211305,2006,Female,Colorado,6873.98
+285,285,33669,33669,33669,Some College,00,2573205148,302593,2006,Female,Colorado,8503.85
+286,286,33670,33670,33670,Advanced Degree,00,3680111403,287359,2006,Female,Colorado,12806.67
+287,287,33671,33671,33671,Unavalble,00,585571523,146282,2006,Female,Colorado,4003.03
+288,288,33720,33720,33720,All Education Categories,Manufacturing,1641084890,107254,2006,Male,Colorado,15300.92
+289,289,33721,33721,33721,Less Than High School,Manufacturing,126762527,13528,2006,Male,Colorado,9370.38
+290,290,33722,33722,33722,High School Graduate,Manufacturing,349257791,27497,2006,Male,Colorado,12701.67
+291,291,33723,33723,33723,Some College,Manufacturing,493394139,32181,2006,Male,Colorado,15331.85
+292,292,33724,33724,33724,Advanced Degree,Manufacturing,619404827,26354,2006,Male,Colorado,23503.26
+293,293,33725,33725,33725,Unavalble,Manufacturing,52265607,7694,2006,Male,Colorado,6793.03
+294,294,33726,33726,33726,All Education Categories,Manufacturing,494574207,44881,2006,Female,Colorado,11019.68
+295,295,33727,33727,33727,Less Than High School,Manufacturing,38634268,5628,2006,Female,Colorado,6864.65
+296,296,33728,33728,33728,High School Graduate,Manufacturing,99205591,11090,2006,Female,Colorado,8945.5
+297,297,33729,33729,33729,Some College,Manufacturing,150307404,13696,2006,Female,Colorado,10974.55
+298,298,33730,33730,33730,Advanced Degree,Manufacturing,187110186,11147,2006,Female,Colorado,16785.7
+299,299,33731,33731,33731,Unavalble,Manufacturing,19316757,3322,2006,Female,Colorado,5814.8
+300,300,33744,33744,33744,All Education Categories,Retail Trade,988041646,121525,2006,Male,Colorado,8130.36
+301,301,33745,33745,33745,Less Than High School,Retail Trade,90374710,12786,2006,Male,Colorado,7068.26
+302,302,33746,33746,33746,High School Graduate,Retail Trade,259610715,30682,2006,Male,Colorado,8461.34
+303,303,33747,33747,33747,Some College,Retail Trade,296465618,30792,2006,Male,Colorado,9628.01
+304,304,33748,33748,33748,Advanced Degree,Retail Trade,218388189,16845,2006,Male,Colorado,12964.57
+305,305,33749,33749,33749,Unavalble,Retail Trade,123202413,30420,2006,Male,Colorado,4050.05
+306,306,33750,33750,33750,All Education Categories,Retail Trade,632542075,123245,2006,Female,Colorado,5132.4
+307,307,33751,33751,33751,Less Than High School,Retail Trade,54278915,11493,2006,Female,Colorado,4722.78
+308,308,33752,33752,33752,High School Graduate,Retail Trade,165767338,31393,2006,Female,Colorado,5280.39
+309,309,33753,33753,33753,Some College,Retail Trade,189927797,32177,2006,Female,Colorado,5902.59
+310,310,33754,33754,33754,Advanced Degree,Retail Trade,127268974,16969,2006,Female,Colorado,7500.09
+311,311,33755,33755,33755,Unavalble,Retail Trade,95299051,31213,2006,Female,Colorado,3053.18
+312,312,33780,33780,33780,All Education Categories,Finance and Insurance,885157941,40092,2006,Male,Colorado,22078.17
+313,313,33781,33781,33781,Less Than High School,Finance and Insurance,17390340,1577,2006,Male,Colorado,11027.48
+314,314,33782,33782,33782,High School Graduate,Finance and Insurance,78397688,5463,2006,Male,Colorado,14350.67
+315,315,33783,33783,33783,Some College,Finance and Insurance,174789199,9684,2006,Male,Colorado,18049.28
+316,316,33784,33784,33784,Advanced Degree,Finance and Insurance,591965136,20362,2006,Male,Colorado,29072.05
+317,317,33785,33785,33785,Unavalble,Finance and Insurance,22615578,3006,2006,Male,Colorado,7523.48
+318,318,33786,33786,33786,All Education Categories,Finance and Insurance,854884071,69192,2006,Female,Colorado,12355.24
+319,319,33787,33787,33787,Less Than High School,Finance and Insurance,19361627,2473,2006,Female,Colorado,7829.21
+320,320,33788,33788,33788,High School Graduate,Finance and Insurance,111411859,11921,2006,Female,Colorado,9345.85
+321,321,33789,33789,33789,Some College,Finance and Insurance,225211954,20356,2006,Female,Colorado,11063.66
+322,322,33790,33790,33790,Advanced Degree,Finance and Insurance,454171903,27516,2006,Female,Colorado,16505.74
+323,323,33791,33791,33791,Unavalble,Finance and Insurance,44726728,6927,2006,Female,Colorado,6456.87
+324,324,33840,33840,33840,All Education Categories,Educational Services,617495083,57258,2006,Male,Colorado,10784.43
+325,325,33841,33841,33841,Less Than High School,Educational Services,22453077,3178,2006,Male,Colorado,7065.16
+326,326,33842,33842,33842,High School Graduate,Educational Services,86465902,10086,2006,Male,Colorado,8572.86
+327,327,33843,33843,33843,Some College,Educational Services,146786304,15000,2006,Male,Colorado,9785.75
+328,328,33844,33844,33844,Advanced Degree,Educational Services,350393588,25938,2006,Male,Colorado,13508.89
+329,329,33845,33845,33845,Unavalble,Educational Services,11396212,3056,2006,Male,Colorado,3729.13
+330,330,33846,33846,33846,All Education Categories,Educational Services,1010344553,124219,2006,Female,Colorado,8133.58
+331,331,33847,33847,33847,Less Than High School,Educational Services,26877198,5312,2006,Female,Colorado,5059.71
+332,332,33848,33848,33848,High School Graduate,Educational Services,142701597,22836,2006,Female,Colorado,6248.98
+333,333,33849,33849,33849,Some College,Educational Services,271237645,36399,2006,Female,Colorado,7451.79
+334,334,33850,33850,33850,Advanced Degree,Educational Services,544072229,53518,2006,Female,Colorado,10166.15
+335,335,33851,33851,33851,Unavalble,Educational Services,25455884,6154,2006,Female,Colorado,4136.48
+336,336,33852,33852,33852,All Education Categories,Health Care and Social Assistance,700075799,45774,2006,Male,Colorado,15294.18
+337,337,33853,33853,33853,Less Than High School,Health Care and Social Assistance,27405827,3592,2006,Male,Colorado,7629.68
+338,338,33854,33854,33854,High School Graduate,Health Care and Social Assistance,88429974,8893,2006,Male,Colorado,9943.77
+339,339,33855,33855,33855,Some College,Health Care and Social Assistance,167642158,12937,2006,Male,Colorado,12958.35
+340,340,33856,33856,33856,Advanced Degree,Health Care and Social Assistance,399613978,16780,2006,Male,Colorado,23814.9
+341,341,33857,33857,33857,Unavalble,Health Care and Social Assistance,16983861,3573,2006,Male,Colorado,4753.39
+342,342,33858,33858,33858,All Education Categories,Health Care and Social Assistance,1481281943,169012,2006,Female,Colorado,8764.36
+343,343,33859,33859,33859,Less Than High School,Health Care and Social Assistance,65342700,11151,2006,Female,Colorado,5859.81
+344,344,33860,33860,33860,High School Graduate,Health Care and Social Assistance,240149146,33927,2006,Female,Colorado,7078.41
+345,345,33861,33861,33861,Some College,Health Care and Social Assistance,522313087,60231,2006,Female,Colorado,8671.83
+346,346,33862,33862,33862,Advanced Degree,Health Care and Social Assistance,575865053,48081,2006,Female,Colorado,11976.98
+347,347,33863,33863,33863,Unavalble,Health Care and Social Assistance,77611958,15622,2006,Female,Colorado,4968.12
+348,348,33876,33876,33876,All Education Categories,Accommodation and Food Services,499174934,100237,2006,Male,Colorado,4979.95
+349,349,33877,33877,33877,Less Than High School,Accommodation and Food Services,74986504,15299,2006,Male,Colorado,4901.4
+350,350,33878,33878,33878,High School Graduate,Accommodation and Food Services,121282984,21915,2006,Male,Colorado,5534.25
+351,351,33879,33879,33879,Some College,Accommodation and Food Services,122822501,20002,2006,Male,Colorado,6140.51
+352,352,33880,33880,33880,Advanced Degree,Accommodation and Food Services,80997126,10691,2006,Male,Colorado,7576.2
+353,353,33881,33881,33881,Unavalble,Accommodation and Food Services,99085820,32329,2006,Male,Colorado,3064.92
+354,354,33882,33882,33882,All Education Categories,Accommodation and Food Services,419783183,107404,2006,Female,Colorado,3908.45
+355,355,33883,33883,33883,Less Than High School,Accommodation and Food Services,53163859,13528,2006,Female,Colorado,3929.91
+356,356,33884,33884,33884,High School Graduate,Accommodation and Food Services,89322466,21231,2006,Female,Colorado,4207.17
+357,357,33885,33885,33885,Some College,Accommodation and Food Services,100978852,21695,2006,Female,Colorado,4654.48
+358,358,33886,33886,33886,Advanced Degree,Accommodation and Food Services,67332659,11624,2006,Female,Colorado,5792.55
+359,359,33887,33887,33887,Unavalble,Accommodation and Food Services,108985348,39326,2006,Female,Colorado,2771.33
+360,360,33912,33912,33912,All Education Categories,00,15376155069,1113866,2007,Male,Colorado,13804.31
+361,361,33913,33913,33913,Less Than High School,00,1029382288,118776,2007,Male,Colorado,8666.58
+362,362,33914,33914,33914,High School Graduate,00,2836112407,252275,2007,Male,Colorado,11242.15
+363,363,33915,33915,33915,Some College,00,4109621741,299459,2007,Male,Colorado,13723.49
+364,364,33916,33916,33916,Advanced Degree,00,6657451019,300662,2007,Male,Colorado,22142.64
+365,365,33917,33917,33917,Unavalble,00,743587613,142693,2007,Male,Colorado,5211.1
+366,366,33918,33918,33918,All Education Categories,00,9458129619,1042064,2007,Female,Colorado,9076.34
+367,367,33919,33919,33919,Less Than High School,00,484863852,81883,2007,Female,Colorado,5921.42
+368,368,33920,33920,33920,High School Graduate,00,1585541676,216307,2007,Female,Colorado,7330.05
+369,369,33921,33921,33921,Some College,00,2800825998,308513,2007,Female,Colorado,9078.47
+370,370,33922,33922,33922,Advanced Degree,00,3967123783,287322,2007,Female,Colorado,13807.24
+371,371,33923,33923,33923,Unavalble,00,619774311,148038,2007,Female,Colorado,4186.59
+372,372,33972,33972,33972,All Education Categories,Manufacturing,1686224219,105735,2007,Male,Colorado,15947.64
+373,373,33973,33973,33973,Less Than High School,Manufacturing,136182421,13718,2007,Male,Colorado,9927.28
+374,374,33974,33974,33974,High School Graduate,Manufacturing,363411651,27442,2007,Male,Colorado,13242.9
+375,375,33975,33975,33975,Some College,Manufacturing,508178901,31719,2007,Male,Colorado,16021.28
+376,376,33976,33976,33976,Advanced Degree,Manufacturing,624757405,25274,2007,Male,Colorado,24719.37
+377,377,33977,33977,33977,Unavalble,Manufacturing,53693840,7582,2007,Male,Colorado,7081.75
+378,378,33978,33978,33978,All Education Categories,Manufacturing,519077918,44109,2007,Female,Colorado,11768.07
+379,379,33979,33979,33979,Less Than High School,Manufacturing,42497593,5721,2007,Female,Colorado,7428.35
+380,380,33980,33980,33980,High School Graduate,Manufacturing,104197427,10896,2007,Female,Colorado,9562.91
+381,381,33981,33981,33981,Some College,Manufacturing,157628619,13394,2007,Female,Colorado,11768.6
+382,382,33982,33982,33982,Advanced Degree,Manufacturing,194925737,10765,2007,Female,Colorado,18107.36
+383,383,33983,33983,33983,Unavalble,Manufacturing,19828542,3333,2007,Female,Colorado,5949.16
+384,384,33996,33996,33996,All Education Categories,Retail Trade,1028478689,121536,2007,Male,Colorado,8462.34
+385,385,33997,33997,33997,Less Than High School,Retail Trade,95614141,13084,2007,Male,Colorado,7307.71
+386,386,33998,33998,33998,High School Graduate,Retail Trade,270317634,30682,2007,Male,Colorado,8810.3
+387,387,33999,33999,33999,Some College,Retail Trade,307812201,30709,2007,Male,Colorado,10023.52
+388,388,34000,34000,34000,Advanced Degree,Retail Trade,227949317,16877,2007,Male,Colorado,13506.51
+389,389,34001,34001,34001,Unavalble,Retail Trade,126785396,30184,2007,Male,Colorado,4200.42
+390,390,34002,34002,34002,All Education Categories,Retail Trade,687908220,125520,2007,Female,Colorado,5480.47
+391,391,34003,34003,34003,Less Than High School,Retail Trade,60736231,12083,2007,Female,Colorado,5026.59
+392,392,34004,34004,34004,High School Graduate,Retail Trade,178585707,31782,2007,Female,Colorado,5619.08
+393,393,34005,34005,34005,Some College,Retail Trade,205930282,32914,2007,Female,Colorado,6256.62
+394,394,34006,34006,34006,Advanced Degree,Retail Trade,139726756,17411,2007,Female,Colorado,8025.2
+395,395,34007,34007,34007,Unavalble,Retail Trade,102929243,31329,2007,Female,Colorado,3285.43
+396,396,34032,34032,34032,All Education Categories,Finance and Insurance,943022389,40380,2007,Male,Colorado,23353.7
+397,397,34033,34033,34033,Less Than High School,Finance and Insurance,19804870,1703,2007,Male,Colorado,11629.4
+398,398,34034,34034,34034,High School Graduate,Finance and Insurance,86284011,5684,2007,Male,Colorado,15180.16
+399,399,34035,34035,34035,Some College,Finance and Insurance,188182187,9818,2007,Male,Colorado,19167.06
+400,400,34036,34036,34036,Advanced Degree,Finance and Insurance,625264784,20252,2007,Male,Colorado,30874.22
+401,401,34037,34037,34037,Unavalble,Finance and Insurance,23486537,2923,2007,Male,Colorado,8035.08
+402,402,34038,34038,34038,All Education Categories,Finance and Insurance,880222816,68166,2007,Female,Colorado,12912.93
+403,403,34039,34039,34039,Less Than High School,Finance and Insurance,21090045,2601,2007,Female,Colorado,8108.44
+404,404,34040,34040,34040,High School Graduate,Finance and Insurance,115769304,11867,2007,Female,Colorado,9755.57
+405,405,34041,34041,34041,Some College,Finance and Insurance,233389593,20162,2007,Female,Colorado,11575.72
+406,406,34042,34042,34042,Advanced Degree,Finance and Insurance,466592496,26913,2007,Female,Colorado,17337.07
+407,407,34043,34043,34043,Unavalble,Finance and Insurance,43381378,6623,2007,Female,Colorado,6550.11
+408,408,34092,34092,34092,All Education Categories,Educational Services,674238883,54731,2007,Male,Colorado,12319.14
+409,409,34093,34093,34093,Less Than High School,Educational Services,26307610,3242,2007,Male,Colorado,8114.62
+410,410,34094,34094,34094,High School Graduate,Educational Services,97045155,9935,2007,Male,Colorado,9768.01
+411,411,34095,34095,34095,Some College,Educational Services,162900026,14495,2007,Male,Colorado,11238.36
+412,412,34096,34096,34096,Advanced Degree,Educational Services,375655608,24197,2007,Male,Colorado,15524.88
+413,413,34097,34097,34097,Unavalble,Educational Services,12330485,2861,2007,Male,Colorado,4309.85
+414,414,34098,34098,34098,All Education Categories,Educational Services,1112154279,115565,2007,Female,Colorado,9623.63
+415,415,34099,34099,34099,Less Than High School,Educational Services,31992541,5463,2007,Female,Colorado,5856.22
+416,416,34100,34100,34100,High School Graduate,Educational Services,159666690,21925,2007,Female,Colorado,7282.4
+417,417,34101,34101,34101,Some College,Educational Services,302786758,34277,2007,Female,Colorado,8833.53
+418,418,34102,34102,34102,Advanced Degree,Educational Services,589953667,48016,2007,Female,Colorado,12286.61
+419,419,34103,34103,34103,Unavalble,Educational Services,27754622,5884,2007,Female,Colorado,4716.96
+420,420,34104,34104,34104,All Education Categories,Health Care and Social Assistance,766162133,47319,2007,Male,Colorado,16191.43
+421,421,34105,34105,34105,Less Than High School,Health Care and Social Assistance,31249077,3729,2007,Male,Colorado,8380.02
+422,422,34106,34106,34106,High School Graduate,Health Care and Social Assistance,99159215,9285,2007,Male,Colorado,10679.51
+423,423,34107,34107,34107,Some College,Health Care and Social Assistance,185579016,13428,2007,Male,Colorado,13820.3
+424,424,34108,34108,34108,Advanced Degree,Health Care and Social Assistance,431994339,17302,2007,Male,Colorado,24967.88
+425,425,34109,34109,34109,Unavalble,Health Care and Social Assistance,18180486,3576,2007,Male,Colorado,5084.03
+426,426,34110,34110,34110,All Education Categories,Health Care and Social Assistance,1642906674,175740,2007,Female,Colorado,9348.51
+427,427,34111,34111,34111,Less Than High School,Health Care and Social Assistance,73764635,11837,2007,Female,Colorado,6231.7
+428,428,34112,34112,34112,High School Graduate,Health Care and Social Assistance,266327785,35311,2007,Female,Colorado,7542.35
+429,429,34113,34113,34113,Some College,Health Care and Social Assistance,578479111,62514,2007,Female,Colorado,9253.59
+430,430,34114,34114,34114,Advanced Degree,Health Care and Social Assistance,642775172,50125,2007,Female,Colorado,12823.44
+431,431,34115,34115,34115,Unavalble,Health Care and Social Assistance,81559971,15953,2007,Female,Colorado,5112.52
+432,432,34128,34128,34128,All Education Categories,Accommodation and Food Services,546213368,103849,2007,Male,Colorado,5259.69
+433,433,34129,34129,34129,Less Than High School,Accommodation and Food Services,82618740,15900,2007,Male,Colorado,5196.15
+434,434,34130,34130,34130,High School Graduate,Accommodation and Food Services,133450708,22867,2007,Male,Colorado,5835.95
+435,435,34131,34131,34131,Some College,Accommodation and Food Services,133643237,20673,2007,Male,Colorado,6464.63
+436,436,34132,34132,34132,Advanced Degree,Accommodation and Food Services,87960602,10963,2007,Male,Colorado,8023.41
+437,437,34133,34133,34133,Unavalble,Accommodation and Food Services,108540081,33445,2007,Male,Colorado,3245.33
+438,438,34134,34134,34134,All Education Categories,Accommodation and Food Services,467894642,112206,2007,Female,Colorado,4169.96
+439,439,34135,34135,34135,Less Than High School,Accommodation and Food Services,60390657,14392,2007,Female,Colorado,4196.13
+440,440,34136,34136,34136,High School Graduate,Accommodation and Food Services,100135056,22249,2007,Female,Colorado,4500.65
+441,441,34137,34137,34137,Some College,Accommodation and Food Services,113167677,22797,2007,Female,Colorado,4964.15
+442,442,34138,34138,34138,Advanced Degree,Accommodation and Food Services,74184865,12152,2007,Female,Colorado,6104.75
+443,443,34139,34139,34139,Unavalble,Accommodation and Food Services,120016387,40617,2007,Female,Colorado,2954.83
+444,444,34164,34164,34164,All Education Categories,00,16849680271,1128628,2008,Male,Colorado,14929.35
+445,445,34165,34165,34165,Less Than High School,00,1151175495,123231,2008,Male,Colorado,9341.61
+446,446,34166,34166,34166,High School Graduate,00,3145931124,257927,2008,Male,Colorado,12196.98
+447,447,34167,34167,34167,Some College,00,4539349760,303100,2008,Male,Colorado,14976.41
+448,448,34168,34168,34168,Advanced Degree,00,7224651403,300775,2008,Male,Colorado,24020.12
+449,449,34169,34169,34169,Unavalble,00,788572490,143594,2008,Male,Colorado,5491.68
+450,450,34170,34170,34170,All Education Categories,00,10266785302,1062612,2008,Female,Colorado,9661.84
+451,451,34171,34171,34171,Less Than High School,00,545269741,86372,2008,Female,Colorado,6313.04
+452,452,34172,34172,34172,High School Graduate,00,1741511609,221957,2008,Female,Colorado,7846.17
+453,453,34173,34173,34173,Some College,00,3058513669,314279,2008,Female,Colorado,9731.84
+454,454,34174,34174,34174,Advanced Degree,00,4274417124,291410,2008,Female,Colorado,14668.05
+455,455,34175,34175,34175,Unavalble,00,647073158,148595,2008,Female,Colorado,4354.61
+456,456,34224,34224,34224,All Education Categories,Manufacturing,1761056026,101512,2008,Male,Colorado,17348.25
+457,457,34225,34225,34225,Less Than High School,Manufacturing,144959033,14096,2008,Male,Colorado,10283.7
+458,458,34226,34226,34226,High School Graduate,Manufacturing,379637657,26773,2008,Male,Colorado,14179.87
+459,459,34227,34227,34227,Some College,Manufacturing,528226686,30261,2008,Male,Colorado,17455.69
+460,460,34228,34228,34228,Advanced Degree,Manufacturing,651026148,22692,2008,Male,Colorado,28689.68
+461,461,34229,34229,34229,Unavalble,Manufacturing,57206502,7690,2008,Male,Colorado,7439.08
+462,462,34230,34230,34230,All Education Categories,Manufacturing,550968896,43667,2008,Female,Colorado,12617.51
+463,463,34231,34231,34231,Less Than High School,Manufacturing,45281719,6004,2008,Female,Colorado,7541.93
+464,464,34232,34232,34232,High School Graduate,Manufacturing,109653224,10893,2008,Female,Colorado,10066.39
+465,465,34233,34233,34233,Some College,Manufacturing,166969289,13264,2008,Female,Colorado,12588.16
+466,466,34234,34234,34234,Advanced Degree,Manufacturing,208645630,10136,2008,Female,Colorado,20584.61
+467,467,34235,34235,34235,Unavalble,Manufacturing,20419034,3370,2008,Female,Colorado,6059.06
+468,468,34248,34248,34248,All Education Categories,Retail Trade,1099584975,125863,2008,Male,Colorado,8736.36
+469,469,34249,34249,34249,Less Than High School,Retail Trade,104924720,13926,2008,Male,Colorado,7534.45
+470,470,34250,34250,34250,High School Graduate,Retail Trade,289569707,31847,2008,Male,Colorado,9092.53
+471,471,34251,34251,34251,Some College,Retail Trade,330535385,32047,2008,Male,Colorado,10314.08
+472,472,34252,34252,34252,Advanced Degree,Retail Trade,243587350,17604,2008,Male,Colorado,13837.05
+473,473,34253,34253,34253,Unavalble,Retail Trade,130967813,30440,2008,Male,Colorado,4302.49
+474,474,34254,34254,34254,All Education Categories,Retail Trade,722981602,130268,2008,Female,Colorado,5549.96
+475,475,34255,34255,34255,Less Than High School,Retail Trade,65841270,12860,2008,Female,Colorado,5119.85
+476,476,34256,34256,34256,High School Graduate,Retail Trade,188636844,32837,2008,Female,Colorado,5744.64
+477,477,34257,34257,34257,Some College,Retail Trade,218531166,34401,2008,Female,Colorado,6352.47
+478,478,34258,34258,34258,Advanced Degree,Retail Trade,146475452,18305,2008,Female,Colorado,8001.94
+479,479,34259,34259,34259,Unavalble,Retail Trade,103496870,31866,2008,Female,Colorado,3247.88
+480,480,34284,34284,34284,All Education Categories,Finance and Insurance,1086085904,40918,2008,Male,Colorado,26542.99
+481,481,34285,34285,34285,Less Than High School,Finance and Insurance,23989087,1796,2008,Male,Colorado,13356.95
+482,482,34286,34286,34286,High School Graduate,Finance and Insurance,101270425,5868,2008,Male,Colorado,17258.08
+483,483,34287,34287,34287,Some College,Finance and Insurance,218722040,10039,2008,Male,Colorado,21787.23
+484,484,34288,34288,34288,Advanced Degree,Finance and Insurance,717467682,20400,2008,Male,Colorado,35169.98
+485,485,34289,34289,34289,Unavalble,Finance and Insurance,24636670,2817,2008,Male,Colorado,8745.71
+486,486,34290,34290,34290,All Education Categories,Finance and Insurance,979693674,67408,2008,Female,Colorado,14533.79
+487,487,34291,34291,34291,Less Than High School,Finance and Insurance,24617564,2705,2008,Female,Colorado,9100.76
+488,488,34292,34292,34292,High School Graduate,Finance and Insurance,128442844,11825,2008,Female,Colorado,10861.97
+489,489,34293,34293,34293,Some College,Finance and Insurance,260847731,19985,2008,Female,Colorado,13052.18
+490,490,34294,34294,34294,Advanced Degree,Finance and Insurance,521954823,26488,2008,Female,Colorado,19705.33
+491,491,34295,34295,34295,Unavalble,Finance and Insurance,43830711,6405,2008,Female,Colorado,6843.2
+492,492,34344,34344,34344,All Education Categories,Educational Services,668432652,55225,2008,Male,Colorado,12103.81
+493,493,34345,34345,34345,Less Than High School,Educational Services,26338851,3222,2008,Male,Colorado,8174.69
+494,494,34346,34346,34346,High School Graduate,Educational Services,97222320,10052,2008,Male,Colorado,9671.94
+495,495,34347,34347,34347,Some College,Educational Services,161612563,14621,2008,Male,Colorado,11053.45
+496,496,34348,34348,34348,Advanced Degree,Educational Services,371244311,24388,2008,Male,Colorado,15222.42
+497,497,34349,34349,34349,Unavalble,Educational Services,12014607,2942,2008,Male,Colorado,4083.82
+498,498,34350,34350,34350,All Education Categories,Educational Services,1093432879,120288,2008,Female,Colorado,9090.12
+499,499,34351,34351,34351,Less Than High School,Educational Services,32817364,5576,2008,Female,Colorado,5885.47
+500,500,34352,34352,34352,High School Graduate,Educational Services,160944404,22658,2008,Female,Colorado,7103.2
+501,501,34353,34353,34353,Some College,Educational Services,300952268,35857,2008,Female,Colorado,8393.12
+502,502,34354,34354,34354,Advanced Degree,Educational Services,572473036,50239,2008,Female,Colorado,11394.99
+503,503,34355,34355,34355,Unavalble,Educational Services,26245808,5959,2008,Female,Colorado,4404.4
+504,504,34356,34356,34356,All Education Categories,Health Care and Social Assistance,822797157,48075,2008,Male,Colorado,17114.87
+505,505,34357,34357,34357,Less Than High School,Health Care and Social Assistance,35168133,3998,2008,Male,Colorado,8796.43
+506,506,34358,34358,34358,High School Graduate,Health Care and Social Assistance,109370180,9601,2008,Male,Colorado,11391.54
+507,507,34359,34359,34359,Some College,Health Care and Social Assistance,200331671,13592,2008,Male,Colorado,14738.94
+508,508,34360,34360,34360,Advanced Degree,Health Care and Social Assistance,458752122,17120,2008,Male,Colorado,26796.27
+509,509,34361,34361,34361,Unavalble,Health Care and Social Assistance,19175052,3763,2008,Male,Colorado,5095.68
+510,510,34362,34362,34362,All Education Categories,Health Care and Social Assistance,1775733580,178409,2008,Female,Colorado,9953.16
+511,511,34363,34363,34363,Less Than High School,Health Care and Social Assistance,86013256,13004,2008,Female,Colorado,6614.37
+512,512,34364,34364,34364,High School Graduate,Health Care and Social Assistance,295067366,36575,2008,Female,Colorado,8067.46
+513,513,34365,34365,34365,Some College,Health Care and Social Assistance,625478183,62992,2008,Female,Colorado,9929.49
+514,514,34366,34366,34366,Advanced Degree,Health Care and Social Assistance,683005539,49425,2008,Female,Colorado,13819.03
+515,515,34367,34367,34367,Unavalble,Health Care and Social Assistance,86169235,16413,2008,Female,Colorado,5250.06
+516,516,34380,34380,34380,All Education Categories,Accommodation and Food Services,602684860,108851,2008,Male,Colorado,5536.79
+517,517,34381,34381,34381,Less Than High School,Accommodation and Food Services,92368204,16928,2008,Male,Colorado,5456.53
+518,518,34382,34382,34382,High School Graduate,Accommodation and Food Services,148829826,24195,2008,Male,Colorado,6151.26
+519,519,34383,34383,34383,Some College,Accommodation and Food Services,148105290,21933,2008,Male,Colorado,6752.62
+520,520,34384,34384,34384,Advanced Degree,Accommodation and Food Services,96325878,11567,2008,Male,Colorado,8327.65
+521,521,34385,34385,34385,Unavalble,Accommodation and Food Services,117055663,34228,2008,Male,Colorado,3419.88
+522,522,34386,34386,34386,All Education Categories,Accommodation and Food Services,512356065,116523,2008,Female,Colorado,4397.04
+523,523,34387,34387,34387,Less Than High School,Accommodation and Food Services,67220283,15338,2008,Female,Colorado,4382.6
+524,524,34388,34388,34388,High School Graduate,Accommodation and Food Services,109542457,23283,2008,Female,Colorado,4704.83
+525,525,34389,34389,34389,Some College,Accommodation and Food Services,123931538,23940,2008,Female,Colorado,5176.76
+526,526,34390,34390,34390,Advanced Degree,Accommodation and Food Services,81335253,12775,2008,Female,Colorado,6366.75
+527,527,34391,34391,34391,Unavalble,Accommodation and Food Services,130326534,41187,2008,Female,Colorado,3164.26
+528,528,34416,34416,34416,All Education Categories,00,15537997593,1106196,2009,Male,Colorado,14046.33
+529,529,34417,34417,34417,Less Than High School,00,1067987488,120988,2009,Male,Colorado,8827.22
+530,530,34418,34418,34418,High School Graduate,00,2922511394,255407,2009,Male,Colorado,11442.57
+531,531,34419,34419,34419,Some College,00,4202872911,301720,2009,Male,Colorado,13929.71
+532,532,34420,34420,34420,Advanced Degree,00,6690452786,299120,2009,Male,Colorado,22367.12
+533,533,34421,34421,34421,Unavalble,00,654173014,128960,2009,Male,Colorado,5072.68
+534,534,34422,34422,34422,All Education Categories,00,9675141441,1046903,2009,Female,Colorado,9241.68
+535,535,34423,34423,34423,Less Than High School,00,527162206,86936,2009,Female,Colorado,6063.8
+536,536,34424,34424,34424,High School Graduate,00,1660604942,220166,2009,Female,Colorado,7542.51
+537,537,34425,34425,34425,Some College,00,2909195017,313972,2009,Female,Colorado,9265.78
+538,538,34426,34426,34426,Advanced Degree,00,4016778370,290005,2009,Female,Colorado,13850.72
+539,539,34427,34427,34427,Unavalble,00,561400906,135824,2009,Female,Colorado,4133.3
+540,540,34476,34476,34476,All Education Categories,Manufacturing,1625199584,100857,2009,Male,Colorado,16113.9
+541,541,34477,34477,34477,Less Than High School,Manufacturing,126299053,12918,2009,Male,Colorado,9776.98
+542,542,34478,34478,34478,High School Graduate,Manufacturing,348928700,26202,2009,Male,Colorado,13316.87
+543,543,34479,34479,34479,Some College,Manufacturing,490175045,30360,2009,Male,Colorado,16145.42
+544,544,34480,34480,34480,Advanced Degree,Manufacturing,612551482,24822,2009,Male,Colorado,24677.76
+545,545,34481,34481,34481,Unavalble,Manufacturing,47245304,6555,2009,Male,Colorado,7207.52
+546,546,34482,34482,34482,All Education Categories,Manufacturing,499865632,42309,2009,Female,Colorado,11814.64
+547,547,34483,34483,34483,Less Than High School,Manufacturing,39262531,5477,2009,Female,Colorado,7168.62
+548,548,34484,34484,34484,High School Graduate,Manufacturing,98889481,10305,2009,Female,Colorado,9596.26
+549,549,34485,34485,34485,Some College,Manufacturing,152772905,12957,2009,Female,Colorado,11790.76
+550,550,34486,34486,34486,Advanced Degree,Manufacturing,192269143,10699,2009,Female,Colorado,17970.76
+551,551,34487,34487,34487,Unavalble,Manufacturing,16671572,2871,2009,Female,Colorado,5806.89
+552,552,34500,34500,34500,All Education Categories,Retail Trade,952704679,120106,2009,Male,Colorado,7932.2
+553,553,34501,34501,34501,Less Than High School,Retail Trade,94577683,13669,2009,Male,Colorado,6919.14
+554,554,34502,34502,34502,High School Graduate,Retail Trade,254695382,30928,2009,Male,Colorado,8235.11
+555,555,34503,34503,34503,Some College,Retail Trade,288041231,31212,2009,Male,Colorado,9228.54
+556,556,34504,34504,34504,Advanced Degree,Retail Trade,210262205,17213,2009,Male,Colorado,12215.31
+557,557,34505,34505,34505,Unavalble,Retail Trade,105128178,27085,2009,Male,Colorado,3881.42
+558,558,34506,34506,34506,All Education Categories,Retail Trade,655649672,123620,2009,Female,Colorado,5303.75
+559,559,34507,34507,34507,Less Than High School,Retail Trade,62772204,12839,2009,Female,Colorado,4889.18
+560,560,34508,34508,34508,High School Graduate,Retail Trade,173489797,31785,2009,Female,Colorado,5458.23
+561,561,34509,34509,34509,Some College,Retail Trade,199943855,33321,2009,Female,Colorado,6000.54
+562,562,34510,34510,34510,Advanced Degree,Retail Trade,133282857,17838,2009,Female,Colorado,7471.85
+563,563,34511,34511,34511,Unavalble,Retail Trade,86160960,27837,2009,Female,Colorado,3095.2
+564,564,34536,34536,34536,All Education Categories,Finance and Insurance,931916342,39622,2009,Male,Colorado,23520.17
+565,565,34537,34537,34537,Less Than High School,Finance and Insurance,23305114,1887,2009,Male,Colorado,12350.35
+566,566,34538,34538,34538,High School Graduate,Finance and Insurance,92997507,5929,2009,Male,Colorado,15685.19
+567,567,34539,34539,34539,Some College,Finance and Insurance,193764827,9922,2009,Male,Colorado,19528.81
+568,568,34540,34540,34540,Advanced Degree,Finance and Insurance,601990603,19404,2009,Male,Colorado,31024.05
+569,569,34541,34541,34541,Unavalble,Finance and Insurance,19858291,2481,2009,Male,Colorado,8004.15
+570,570,34542,34542,34542,All Education Categories,Finance and Insurance,864634677,63599,2009,Female,Colorado,13595.1
+571,571,34543,34543,34543,Less Than High School,Finance and Insurance,24008888,2769,2009,Female,Colorado,8670.6
+572,572,34544,34544,34544,High School Graduate,Finance and Insurance,118317894,11401,2009,Female,Colorado,10377.85
+573,573,34545,34545,34545,Some College,Finance and Insurance,233969509,19080,2009,Female,Colorado,12262.55
+574,574,34546,34546,34546,Advanced Degree,Finance and Insurance,452668704,24844,2009,Female,Colorado,18220.44
+575,575,34547,34547,34547,Unavalble,Finance and Insurance,35669681,5505,2009,Female,Colorado,6479.51
+576,576,34596,34596,34596,All Education Categories,Educational Services,687672046,55884,2009,Male,Colorado,12305.35
+577,577,34597,34597,34597,Less Than High School,Educational Services,28632044,3497,2009,Male,Colorado,8187.6
+578,578,34598,34598,34598,High School Graduate,Educational Services,100450928,10321,2009,Male,Colorado,9732.67
+579,579,34599,34599,34599,Some College,Educational Services,165705434,14885,2009,Male,Colorado,11132.38
+580,580,34600,34600,34600,Advanced Degree,Educational Services,380326190,24331,2009,Male,Colorado,15631.34
+581,581,34601,34601,34601,Unavalble,Educational Services,12557450,2849,2009,Male,Colorado,4407.67
+582,582,34602,34602,34602,All Education Categories,Educational Services,1090723537,120219,2009,Female,Colorado,9072.8
+583,583,34603,34603,34603,Less Than High School,Educational Services,37605428,6027,2009,Female,Colorado,6239.49
+584,584,34604,34604,34604,High School Graduate,Educational Services,164255645,22614,2009,Female,Colorado,7263.45
+585,585,34605,34605,34605,Some College,Educational Services,304830798,36094,2009,Female,Colorado,8445.47
+586,586,34606,34606,34606,Advanced Degree,Educational Services,557525639,49584,2009,Female,Colorado,11244.06
+587,587,34607,34607,34607,Unavalble,Educational Services,26506026,5899,2009,Female,Colorado,4493.31
+588,588,34608,34608,34608,All Education Categories,Health Care and Social Assistance,838476345,51783,2009,Male,Colorado,16192.12
+589,589,34609,34609,34609,Less Than High School,Health Care and Social Assistance,38358323,4515,2009,Male,Colorado,8495.75
+590,590,34610,34610,34610,High School Graduate,Health Care and Social Assistance,114613024,10560,2009,Male,Colorado,10853.51
+591,591,34611,34611,34611,Some College,Health Care and Social Assistance,206863869,14726,2009,Male,Colorado,14047.53
+592,592,34612,34612,34612,Advanced Degree,Health Care and Social Assistance,459629834,18059,2009,Male,Colorado,25451.57
+593,593,34613,34613,34613,Unavalble,Health Care and Social Assistance,19011296,3923,2009,Male,Colorado,4846.11
+594,594,34614,34614,34614,All Education Categories,Health Care and Social Assistance,1812371297,190386,2009,Female,Colorado,9519.46
+595,595,34615,34615,34615,Less Than High School,Health Care and Social Assistance,92971209,14218,2009,Female,Colorado,6538.98
+596,596,34616,34616,34616,High School Graduate,Health Care and Social Assistance,306552402,39161,2009,Female,Colorado,7828.0
+597,597,34617,34617,34617,Some College,Health Care and Social Assistance,634914259,66927,2009,Female,Colorado,9486.67
+598,598,34618,34618,34618,Advanced Degree,Health Care and Social Assistance,691785307,53111,2009,Female,Colorado,13025.27
+599,599,34619,34619,34619,Unavalble,Health Care and Social Assistance,86148120,16969,2009,Female,Colorado,5076.79
+600,600,34632,34632,34632,All Education Categories,Accommodation and Food Services,542650681,103396,2009,Male,Colorado,5248.28
+601,601,34633,34633,34633,Less Than High School,Accommodation and Food Services,85461672,16479,2009,Male,Colorado,5186.1
+602,602,34634,34634,34634,High School Graduate,Accommodation and Food Services,137120092,23469,2009,Male,Colorado,5842.6
+603,603,34635,34635,34635,Some College,Accommodation and Food Services,135479092,21186,2009,Male,Colorado,6394.75
+604,604,34636,34636,34636,Advanced Degree,Accommodation and Food Services,87030184,11202,2009,Male,Colorado,7769.16
+605,605,34637,34637,34637,Unavalble,Accommodation and Food Services,97559641,31060,2009,Male,Colorado,3141.01
+606,606,34638,34638,34638,All Education Categories,Accommodation and Food Services,462099801,110287,2009,Female,Colorado,4189.98
+607,607,34639,34639,34639,Less Than High School,Accommodation and Food Services,61852304,14822,2009,Female,Colorado,4173.01
+608,608,34640,34640,34640,High School Graduate,Accommodation and Food Services,101723926,22471,2009,Female,Colorado,4526.9
+609,609,34641,34641,34641,Some College,Accommodation and Food Services,114116898,23176,2009,Female,Colorado,4923.93
+610,610,34642,34642,34642,Advanced Degree,Accommodation and Food Services,73522338,12496,2009,Female,Colorado,5883.67
+611,611,34643,34643,34643,Unavalble,Accommodation and Food Services,110884335,37320,2009,Female,Colorado,2971.18
+612,612,34668,34668,34668,All Education Categories,00,14930914916,1041828,2010,Male,Colorado,14331.46
+613,613,34669,34669,34669,Less Than High School,00,1019535781,114919,2010,Male,Colorado,8871.78
+614,614,34670,34670,34670,High School Graduate,00,2784235052,242316,2010,Male,Colorado,11490.1
+615,615,34671,34671,34671,Some College,00,4036535469,287350,2010,Male,Colorado,14047.45
+616,616,34672,34672,34672,Advanced Degree,00,6547868103,288206,2010,Male,Colorado,22719.4
+617,617,34673,34673,34673,Unavalble,00,542740512,109038,2010,Male,Colorado,4977.54
+618,618,34674,34674,34674,All Education Categories,00,9727769422,1019117,2010,Female,Colorado,9545.29
+619,619,34675,34675,34675,Less Than High School,00,547900019,86677,2010,Female,Colorado,6321.17
+620,620,34676,34676,34676,High School Graduate,00,1686754182,215660,2010,Female,Colorado,7821.36
+621,621,34677,34677,34677,Some College,00,2931558674,308370,2010,Female,Colorado,9506.63
+622,622,34678,34678,34678,Advanced Degree,00,4064352777,287567,2010,Female,Colorado,14133.59
+623,623,34679,34679,34679,Unavalble,00,497203770,120842,2010,Female,Colorado,4114.49
+624,624,34728,34728,34728,All Education Categories,Manufacturing,1518471511,91179,2010,Male,Colorado,16653.74
+625,625,34729,34729,34729,Less Than High School,Manufacturing,119377304,11929,2010,Male,Colorado,10007.32
+626,626,34730,34730,34730,High School Graduate,Manufacturing,322605085,23829,2010,Male,Colorado,13538.34
+627,627,34731,34731,34731,Some College,Manufacturing,454291256,27546,2010,Male,Colorado,16492.1
+628,628,34732,34732,34732,Advanced Degree,Manufacturing,584655174,22649,2010,Male,Colorado,25813.73
+629,629,34733,34733,34733,Unavalble,Manufacturing,37542693,5226,2010,Male,Colorado,7183.83
+630,630,34734,34734,34734,All Education Categories,Manufacturing,475263796,38173,2010,Female,Colorado,12450.26
+631,631,34735,34735,34735,Less Than High School,Manufacturing,38064065,5097,2010,Female,Colorado,7467.94
+632,632,34736,34736,34736,High School Graduate,Manufacturing,92292083,9310,2010,Female,Colorado,9913.22
+633,633,34737,34737,34737,Some College,Manufacturing,143265783,11711,2010,Female,Colorado,12233.44
+634,634,34738,34738,34738,Advanced Degree,Manufacturing,188057822,9792,2010,Female,Colorado,19205.25
+635,635,34739,34739,34739,Unavalble,Manufacturing,13584043,2262,2010,Female,Colorado,6005.32
+636,636,34752,34752,34752,All Education Categories,Retail Trade,941233082,107839,2010,Male,Colorado,8728.13
+637,637,34753,34753,34753,Less Than High School,Retail Trade,94310230,12534,2010,Male,Colorado,7524.35
+638,638,34754,34754,34754,High School Graduate,Retail Trade,251122541,28166,2010,Male,Colorado,8915.8
+639,639,34755,34755,34755,Some College,Retail Trade,285953756,28558,2010,Male,Colorado,10013.09
+640,640,34756,34756,34756,Advanced Degree,Retail Trade,214953432,16149,2010,Male,Colorado,13310.63
+641,641,34757,34757,34757,Unavalble,Retail Trade,94893122,22433,2010,Male,Colorado,4230.07
+642,642,34758,34758,34758,All Education Categories,Retail Trade,641801828,109920,2010,Female,Colorado,5838.81
+643,643,34759,34759,34759,Less Than High School,Retail Trade,62448086,11444,2010,Female,Colorado,5456.84
+644,644,34760,34760,34760,High School Graduate,Retail Trade,169741281,28092,2010,Female,Colorado,6042.34
+645,645,34761,34761,34761,Some College,Retail Trade,197267289,29736,2010,Female,Colorado,6633.96
+646,646,34762,34762,34762,Advanced Degree,Retail Trade,134511540,16355,2010,Female,Colorado,8224.49
+647,647,34763,34763,34763,Unavalble,Retail Trade,77833632,24293,2010,Female,Colorado,3203.95
+648,648,34788,34788,34788,All Education Categories,Finance and Insurance,956346074,40018,2010,Male,Colorado,23897.9
+649,649,34789,34789,34789,Less Than High School,Finance and Insurance,25522258,1998,2010,Male,Colorado,12773.9
+650,650,34790,34790,34790,High School Graduate,Finance and Insurance,98915750,6126,2010,Male,Colorado,16146.87
+651,651,34791,34791,34791,Some College,Finance and Insurance,201333754,10129,2010,Male,Colorado,19876.96
+652,652,34792,34792,34792,Advanced Degree,Finance and Insurance,614369363,19722,2010,Male,Colorado,31151.47
+653,653,34793,34793,34793,Unavalble,Finance and Insurance,16204949,2043,2010,Male,Colorado,7931.94
+654,654,34794,34794,34794,All Education Categories,Finance and Insurance,871093976,63397,2010,Female,Colorado,13740.3
+655,655,34795,34795,34795,Less Than High School,Finance and Insurance,25946913,2911,2010,Female,Colorado,8913.4
+656,656,34796,34796,34796,High School Graduate,Finance and Insurance,120048164,11559,2010,Female,Colorado,10385.69
+657,657,34797,34797,34797,Some College,Finance and Insurance,235909701,19299,2010,Female,Colorado,12223.93
+658,658,34798,34798,34798,Advanced Degree,Finance and Insurance,459523065,25141,2010,Female,Colorado,18277.84
+659,659,34799,34799,34799,Unavalble,Finance and Insurance,29666133,4487,2010,Female,Colorado,6611.57
+660,660,34848,34848,34848,All Education Categories,Educational Services,771761494,58614,2010,Male,Colorado,13166.85
+661,661,34849,34849,34849,Less Than High School,Educational Services,36574633,3960,2010,Male,Colorado,9236.02
+662,662,34850,34850,34850,High School Graduate,Educational Services,119351510,11192,2010,Male,Colorado,10664.0
+663,663,34851,34851,34851,Some College,Educational Services,191768804,15815,2010,Male,Colorado,12125.75
+664,664,34852,34852,34852,Advanced Degree,Educational Services,411281629,24769,2010,Male,Colorado,16604.69
+665,665,34853,34853,34853,Unavalble,Educational Services,12784918,2879,2010,Male,Colorado,4440.75
+666,666,34854,34854,34854,All Education Categories,Educational Services,1303511165,127077,2010,Female,Colorado,10257.65
+667,667,34855,34855,34855,Less Than High School,Educational Services,49620051,6848,2010,Female,Colorado,7245.92
+668,668,34856,34856,34856,High School Graduate,Educational Services,202710890,24247,2010,Female,Colorado,8360.25
+669,669,34857,34857,34857,Some College,Educational Services,367344494,38154,2010,Female,Colorado,9627.94
+670,670,34858,34858,34858,Advanced Degree,Educational Services,655399423,51811,2010,Female,Colorado,12649.81
+671,671,34859,34859,34859,Unavalble,Educational Services,28436307,6017,2010,Female,Colorado,4725.99
+672,672,34860,34860,34860,All Education Categories,Health Care and Social Assistance,870122701,54922,2010,Male,Colorado,15842.88
+673,673,34861,34861,34861,Less Than High School,Health Care and Social Assistance,42274946,5006,2010,Male,Colorado,8444.86
+674,674,34862,34862,34862,High School Graduate,Health Care and Social Assistance,122349072,11447,2010,Male,Colorado,10688.31
+675,675,34863,34863,34863,Some College,Health Care and Social Assistance,214349834,15620,2010,Male,Colorado,13722.78
+676,676,34864,34864,34864,Advanced Degree,Health Care and Social Assistance,472011988,18759,2010,Male,Colorado,25161.89
+677,677,34865,34865,34865,Unavalble,Health Care and Social Assistance,19136860,4091,2010,Male,Colorado,4677.8
+678,678,34866,34866,34866,All Education Categories,Health Care and Social Assistance,1840498361,197924,2010,Female,Colorado,9299.02
+679,679,34867,34867,34867,Less Than High School,Health Care and Social Assistance,101109308,15348,2010,Female,Colorado,6587.78
+680,680,34868,34868,34868,High School Graduate,Health Care and Social Assistance,320207027,41377,2010,Female,Colorado,7738.77
+681,681,34869,34869,34869,Some College,Health Care and Social Assistance,644561447,69565,2010,Female,Colorado,9265.6
+682,682,34870,34870,34870,Advanced Degree,Health Care and Social Assistance,694536980,55356,2010,Female,Colorado,12546.73
+683,683,34871,34871,34871,Unavalble,Health Care and Social Assistance,80083599,16278,2010,Female,Colorado,4919.74
+684,684,34884,34884,34884,All Education Categories,Accommodation and Food Services,540534589,100972,2010,Male,Colorado,5353.31
+685,685,34885,34885,34885,Less Than High School,Accommodation and Food Services,86783491,16500,2010,Male,Colorado,5259.61
+686,686,34886,34886,34886,High School Graduate,Accommodation and Food Services,138437932,23575,2010,Male,Colorado,5872.23
+687,687,34887,34887,34887,Some College,Accommodation and Food Services,136638191,21390,2010,Male,Colorado,6387.95
+688,688,34888,34888,34888,Advanced Degree,Accommodation and Food Services,87441881,11471,2010,Male,Colorado,7622.86
+689,689,34889,34889,34889,Unavalble,Accommodation and Food Services,91233094,28036,2010,Male,Colorado,3254.14
+690,690,34890,34890,34890,All Education Categories,Accommodation and Food Services,460565887,104652,2010,Female,Colorado,4400.93
+691,691,34891,34891,34891,Less Than High School,Accommodation and Food Services,63620014,14611,2010,Female,Colorado,4354.25
+692,692,34892,34892,34892,High School Graduate,Accommodation and Food Services,103390101,21790,2010,Female,Colorado,4744.84
+693,693,34893,34893,34893,Some College,Accommodation and Food Services,114834864,22419,2010,Female,Colorado,5122.21
+694,694,34894,34894,34894,Advanced Degree,Accommodation and Food Services,73711193,12274,2010,Female,Colorado,6005.47
+695,695,34895,34895,34895,Unavalble,Accommodation and Food Services,105009716,33558,2010,Female,Colorado,3129.2
+696,696,34920,34920,34920,All Education Categories,00,15466109431,1067133,2011,Male,Colorado,14493.14
+697,697,34921,34921,34921,Less Than High School,00,1095424633,120370,2011,Male,Colorado,9100.48
+698,698,34922,34922,34922,High School Graduate,00,2939041465,251300,2011,Male,Colorado,11695.35
+699,699,34923,34923,34923,Some College,00,4208373223,295227,2011,Male,Colorado,14254.7
+700,700,34924,34924,34924,Advanced Degree,00,6691059340,290985,2011,Male,Colorado,22994.52
+701,701,34925,34925,34925,Unavalble,00,532210768,109251,2011,Male,Colorado,4871.45
+702,702,34926,34926,34926,All Education Categories,00,9875670333,1029716,2011,Female,Colorado,9590.67
+703,703,34927,34927,34927,Less Than High School,00,581192941,89779,2011,Female,Colorado,6473.6
+704,704,34928,34928,34928,High School Graduate,00,1739680208,219998,2011,Female,Colorado,7907.71
+705,705,34929,34929,34929,Some College,00,2983599779,311836,2011,Female,Colorado,9567.85
+706,706,34930,34930,34930,Advanced Degree,00,4091707494,289134,2011,Female,Colorado,14151.6
+707,707,34931,34931,34931,Unavalble,00,479489910,118969,2011,Female,Colorado,4030.38
+708,708,34980,34980,34980,All Education Categories,Manufacturing,1603077567,93344,2011,Male,Colorado,17173.87
+709,709,34981,34981,34981,Less Than High School,Manufacturing,128049617,12281,2011,Male,Colorado,10426.64
+710,710,34982,34982,34982,High School Graduate,Manufacturing,342656416,24356,2011,Male,Colorado,14068.67
+711,711,34983,34983,34983,Some College,Manufacturing,481700897,28141,2011,Male,Colorado,17117.41
+712,712,34984,34984,34984,Advanced Degree,Manufacturing,612063766,23210,2011,Male,Colorado,26370.69
+713,713,34985,34985,34985,Unavalble,Manufacturing,38606871,5356,2011,Male,Colorado,7208.15
+714,714,34986,34986,34986,All Education Categories,Manufacturing,493566540,38428,2011,Female,Colorado,12843.93
+715,715,34987,34987,34987,Less Than High School,Manufacturing,41190615,5239,2011,Female,Colorado,7862.3
+716,716,34988,34988,34988,High School Graduate,Manufacturing,96122327,9246,2011,Female,Colorado,10396.1
+717,717,34989,34989,34989,Some College,Manufacturing,149210449,11670,2011,Female,Colorado,12785.81
+718,718,34990,34990,34990,Advanced Degree,Manufacturing,193086029,9967,2011,Female,Colorado,19372.53
+719,719,34991,34991,34991,Unavalble,Manufacturing,13957118,2306,2011,Female,Colorado,6052.52
+720,720,35004,35004,35004,All Education Categories,Retail Trade,956098855,114069,2011,Male,Colorado,8381.76
+721,721,35005,35005,35005,Less Than High School,Retail Trade,98842525,13488,2011,Male,Colorado,7328.18
+722,722,35006,35006,35006,High School Graduate,Retail Trade,257201196,29992,2011,Male,Colorado,8575.66
+723,723,35007,35007,35007,Some College,Retail Trade,290409630,30251,2011,Male,Colorado,9600.0
+724,724,35008,35008,35008,Advanced Degree,Retail Trade,214659864,17019,2011,Male,Colorado,12612.95
+725,725,35009,35009,35009,Unavalble,Retail Trade,94985640,23319,2011,Male,Colorado,4073.32
+726,726,35010,35010,35010,All Education Categories,Retail Trade,654981097,113416,2011,Female,Colorado,5775.03
+727,727,35011,35011,35011,Less Than High School,Retail Trade,65714959,11972,2011,Female,Colorado,5489.05
+728,728,35012,35012,35012,High School Graduate,Retail Trade,173397895,28967,2011,Female,Colorado,5986.05
+729,729,35013,35013,35013,Some College,Retail Trade,201205829,31027,2011,Female,Colorado,6484.86
+730,730,35014,35014,35014,Advanced Degree,Retail Trade,136452284,17233,2011,Female,Colorado,7918.08
+731,731,35015,35015,35015,Unavalble,Retail Trade,78210130,24217,2011,Female,Colorado,3229.55
+732,732,35040,35040,35040,All Education Categories,Finance and Insurance,1020826040,38925,2011,Male,Colorado,26225.46
+733,733,35041,35041,35041,Less Than High School,Finance and Insurance,29073862,2076,2011,Male,Colorado,14004.75
+734,734,35042,35042,35042,High School Graduate,Finance and Insurance,108161141,6162,2011,Male,Colorado,17552.93
+735,735,35043,35043,35043,Some College,Finance and Insurance,217038738,9951,2011,Male,Colorado,21810.75
+736,736,35044,35044,35044,Advanced Degree,Finance and Insurance,651731871,18886,2011,Male,Colorado,34508.73
+737,737,35045,35045,35045,Unavalble,Finance and Insurance,14820428,1850,2011,Male,Colorado,8011.04
+738,738,35046,35046,35046,All Education Categories,Finance and Insurance,898527139,59072,2011,Female,Colorado,15210.71
+739,739,35047,35047,35047,Less Than High School,Finance and Insurance,27807564,2926,2011,Female,Colorado,9503.61
+740,740,35048,35048,35048,High School Graduate,Finance and Insurance,123908280,10976,2011,Female,Colorado,11289.02
+741,741,35049,35049,35049,Some College,Finance and Insurance,243469734,18054,2011,Female,Colorado,13485.64
+742,742,35050,35050,35050,Advanced Degree,Finance and Insurance,477947929,23293,2011,Female,Colorado,20518.95
+743,743,35051,35051,35051,Unavalble,Finance and Insurance,25393631,3823,2011,Female,Colorado,6642.33
+744,744,35100,35100,35100,All Education Categories,Educational Services,744248879,61503,2011,Male,Colorado,12101.02
+745,745,35101,35101,35101,Less Than High School,Educational Services,37558046,4472,2011,Male,Colorado,8398.49
+746,746,35102,35102,35102,High School Graduate,Educational Services,118947920,12122,2011,Male,Colorado,9812.57
+747,747,35103,35103,35103,Some College,Educational Services,186114187,16759,2011,Male,Colorado,11105.33
+748,748,35104,35104,35104,Advanced Degree,Educational Services,389595796,25209,2011,Male,Colorado,15454.63
+749,749,35105,35105,35105,Unavalble,Educational Services,12032930,2940,2011,Male,Colorado,4092.83
+750,750,35106,35106,35106,All Education Categories,Educational Services,1233250764,134481,2011,Female,Colorado,9170.45
+751,751,35107,35107,35107,Less Than High School,Educational Services,50434022,7773,2011,Female,Colorado,6488.36
+752,752,35108,35108,35108,High School Graduate,Educational Services,196501342,26118,2011,Female,Colorado,7523.6
+753,753,35109,35109,35109,Some College,Educational Services,350944780,40538,2011,Female,Colorado,8657.18
+754,754,35110,35110,35110,Advanced Degree,Educational Services,609705119,54005,2011,Female,Colorado,11289.79
+755,755,35111,35111,35111,Unavalble,Educational Services,25665501,6046,2011,Female,Colorado,4245.04
+756,756,35112,35112,35112,All Education Categories,Health Care and Social Assistance,890385545,56423,2011,Male,Colorado,15780.54
+757,757,35113,35113,35113,Less Than High School,Health Care and Social Assistance,46596307,5384,2011,Male,Colorado,8654.59
+758,758,35114,35114,35114,High School Graduate,Health Care and Social Assistance,129512952,12081,2011,Male,Colorado,10720.38
+759,759,35115,35115,35115,Some College,Health Care and Social Assistance,221457675,16087,2011,Male,Colorado,13766.25
+760,760,35116,35116,35116,Advanced Degree,Health Care and Social Assistance,473311670,18750,2011,Male,Colorado,25243.29
+761,761,35117,35117,35117,Unavalble,Health Care and Social Assistance,19506941,4121,2011,Male,Colorado,4733.55
+762,762,35118,35118,35118,All Education Categories,Health Care and Social Assistance,1866642222,199508,2011,Female,Colorado,9356.23
+763,763,35119,35119,35119,Less Than High School,Health Care and Social Assistance,109468413,16320,2011,Female,Colorado,6707.62
+764,764,35120,35120,35120,High School Graduate,Health Care and Social Assistance,333772094,42510,2011,Female,Colorado,7851.61
+765,765,35121,35121,35121,Some College,Health Care and Social Assistance,652318890,69775,2011,Female,Colorado,9348.89
+766,766,35122,35122,35122,Advanced Degree,Health Care and Social Assistance,693743967,54971,2011,Female,Colorado,12620.18
+767,767,35123,35123,35123,Unavalble,Health Care and Social Assistance,77338858,15932,2011,Female,Colorado,4854.31
+768,768,35136,35136,35136,All Education Categories,Accommodation and Food Services,558442799,104302,2011,Male,Colorado,5354.09
+769,769,35137,35137,35137,Less Than High School,Accommodation and Food Services,90461762,17089,2011,Male,Colorado,5293.57
+770,770,35138,35138,35138,High School Graduate,Accommodation and Food Services,144262909,24353,2011,Male,Colorado,5923.82
+771,771,35139,35139,35139,Some College,Accommodation and Food Services,141931431,22222,2011,Male,Colorado,6386.98
+772,772,35140,35140,35140,Advanced Degree,Accommodation and Food Services,91023643,12052,2011,Male,Colorado,7552.58
+773,773,35141,35141,35141,Unavalble,Accommodation and Food Services,90763053,28585,2011,Male,Colorado,3175.2
+774,774,35142,35142,35142,All Education Categories,Accommodation and Food Services,470581164,108202,2011,Female,Colorado,4349.1
+775,775,35143,35143,35143,Less Than High School,Accommodation and Food Services,64647069,14795,2011,Female,Colorado,4369.52
+776,776,35144,35144,35144,High School Graduate,Accommodation and Food Services,106958879,22591,2011,Female,Colorado,4734.58
+777,777,35145,35145,35145,Some College,Accommodation and Food Services,118637657,23312,2011,Female,Colorado,5089.12
+778,778,35146,35146,35146,Advanced Degree,Accommodation and Food Services,76705504,12966,2011,Female,Colorado,5915.9
+779,779,35147,35147,35147,Unavalble,Accommodation and Food Services,103632054,34538,2011,Female,Colorado,3000.52
+780,780,35172,35172,35172,All Education Categories,00,16583510141,1108508,2012,Male,Colorado,14960.21
+781,781,35173,35173,35173,Less Than High School,00,1248513489,129293,2012,Male,Colorado,9656.47
+782,782,35174,35174,35174,High School Graduate,00,3233442454,264027,2012,Male,Colorado,12246.64
+783,783,35175,35175,35175,Some College,00,4539581787,306505,2012,Male,Colorado,14810.79
+784,784,35176,35176,35176,Advanced Degree,00,6988376129,295138,2012,Male,Colorado,23678.33
+785,785,35177,35177,35177,Unavalble,00,573596280,113546,2012,Male,Colorado,5051.66
+786,786,35178,35178,35178,All Education Categories,00,10406679138,1044980,2012,Female,Colorado,9958.74
+787,787,35179,35179,35179,Less Than High School,00,651142405,94698,2012,Female,Colorado,6875.99
+788,788,35180,35180,35180,High School Graduate,00,1867404920,225255,2012,Female,Colorado,8290.18
+789,789,35181,35181,35181,Some College,00,3141370998,314581,2012,Female,Colorado,9985.89
+790,790,35182,35182,35182,Advanced Degree,00,4239856576,288540,2012,Female,Colorado,14694.17
+791,791,35183,35183,35183,Unavalble,00,506904240,121906,2012,Female,Colorado,4158.16
+792,792,35232,35232,35232,All Education Categories,Manufacturing,1717343666,99507,2012,Male,Colorado,17258.52
+793,793,35233,35233,35233,Less Than High School,Manufacturing,143569556,13296,2012,Male,Colorado,10797.95
+794,794,35234,35234,35234,High School Graduate,Manufacturing,376526824,26236,2012,Male,Colorado,14351.53
+795,795,35235,35235,35235,Some College,Manufacturing,517204508,29976,2012,Male,Colorado,17253.95
+796,796,35236,35236,35236,Advanced Degree,Manufacturing,637763124,24266,2012,Male,Colorado,26282.17
+797,797,35237,35237,35237,Unavalble,Manufacturing,42279653,5733,2012,Male,Colorado,7374.79
+798,798,35238,35238,35238,All Education Categories,Manufacturing,524998072,40473,2012,Female,Colorado,12971.56
+799,799,35239,35239,35239,Less Than High School,Manufacturing,44722233,5568,2012,Female,Colorado,8032.01
+800,800,35240,35240,35240,High School Graduate,Manufacturing,103243853,9715,2012,Female,Colorado,10627.26
+801,801,35241,35241,35241,Some College,Manufacturing,159327125,12308,2012,Female,Colorado,12945.01
+802,802,35242,35242,35242,Advanced Degree,Manufacturing,202667368,10425,2012,Female,Colorado,19440.51
+803,803,35243,35243,35243,Unavalble,Manufacturing,15037493,2458,2012,Female,Colorado,6117.78
+804,804,35256,35256,35256,All Education Categories,Retail Trade,989563777,117734,2012,Male,Colorado,8405.08
+805,805,35257,35257,35257,Less Than High School,Retail Trade,103928969,14076,2012,Male,Colorado,7383.42
+806,806,35258,35258,35258,High School Graduate,Retail Trade,267692475,30803,2012,Male,Colorado,8690.47
+807,807,35259,35259,35259,Some College,Retail Trade,301979146,31054,2012,Male,Colorado,9724.32
+808,808,35260,35260,35260,Advanced Degree,Retail Trade,222055234,17638,2012,Male,Colorado,12589.59
+809,809,35261,35261,35261,Unavalble,Retail Trade,93907953,24162,2012,Male,Colorado,3886.6
+810,810,35262,35262,35262,All Education Categories,Retail Trade,677117207,118812,2012,Female,Colorado,5699.06
+811,811,35263,35263,35263,Less Than High School,Retail Trade,68474217,12618,2012,Female,Colorado,5426.71
+812,812,35264,35264,35264,High School Graduate,Retail Trade,178082177,29957,2012,Female,Colorado,5944.59
+813,813,35265,35265,35265,Some College,Retail Trade,208349687,32272,2012,Female,Colorado,6456.05
+814,814,35266,35266,35266,Advanced Degree,Retail Trade,143518047,18209,2012,Female,Colorado,7881.71
+815,815,35267,35267,35267,Unavalble,Retail Trade,78693079,25755,2012,Female,Colorado,3055.45
+816,816,35292,35292,35292,All Education Categories,Finance and Insurance,1052473234,39817,2012,Male,Colorado,26432.76
+817,817,35293,35293,35293,Less Than High School,Finance and Insurance,34366720,2336,2012,Male,Colorado,14711.78
+818,818,35294,35294,35294,High School Graduate,Finance and Insurance,117787686,6511,2012,Male,Colorado,18090.57
+819,819,35295,35295,35295,Some College,Finance and Insurance,228200039,10190,2012,Male,Colorado,22394.51
+820,820,35296,35296,35296,Advanced Degree,Finance and Insurance,655626661,18859,2012,Male,Colorado,34764.66
+821,821,35297,35297,35297,Unavalble,Finance and Insurance,16492129,1921,2012,Male,Colorado,8585.18
+822,822,35298,35298,35298,All Education Categories,Finance and Insurance,937520035,59206,2012,Female,Colorado,15834.88
+823,823,35299,35299,35299,Less Than High School,Finance and Insurance,31921435,3118,2012,Female,Colorado,10237.79
+824,824,35300,35300,35300,High School Graduate,Finance and Insurance,131178308,11000,2012,Female,Colorado,11925.3
+825,825,35301,35301,35301,Some College,Finance and Insurance,254466370,18014,2012,Female,Colorado,14126.03
+826,826,35302,35302,35302,Advanced Degree,Finance and Insurance,493357092,23385,2012,Female,Colorado,21097.16
+827,827,35303,35303,35303,Unavalble,Finance and Insurance,26596829,3690,2012,Female,Colorado,7207.81
+828,828,35352,35352,35352,All Education Categories,Educational Services,755278678,62903,2012,Male,Colorado,12007.04
+829,829,35353,35353,35353,Less Than High School,Educational Services,41046407,4852,2012,Male,Colorado,8459.69
+830,830,35354,35354,35354,High School Graduate,Educational Services,123599496,12697,2012,Male,Colorado,9734.54
+831,831,35355,35355,35355,Some College,Educational Services,189804049,17231,2012,Male,Colorado,11015.27
+832,832,35356,35356,35356,Advanced Degree,Educational Services,388203844,25126,2012,Male,Colorado,15450.28
+833,833,35357,35357,35357,Unavalble,Educational Services,12624882,2998,2012,Male,Colorado,4211.1
+834,834,35358,35358,35358,All Education Categories,Educational Services,1234717556,136042,2012,Female,Colorado,9076.0
+835,835,35359,35359,35359,Less Than High School,Educational Services,55123525,8355,2012,Female,Colorado,6597.67
+836,836,35360,35360,35360,High School Graduate,Educational Services,201222050,26903,2012,Female,Colorado,7479.54
+837,837,35361,35361,35361,Some College,Educational Services,354024097,41264,2012,Female,Colorado,8579.49
+838,838,35362,35362,35362,Advanced Degree,Educational Services,597486747,53439,2012,Female,Colorado,11180.72
+839,839,35363,35363,35363,Unavalble,Educational Services,26861137,6081,2012,Female,Colorado,4417.22
+840,840,35364,35364,35364,All Education Categories,Health Care and Social Assistance,925214769,55517,2012,Male,Colorado,16665.43
+841,841,35365,35365,35365,Less Than High School,Health Care and Social Assistance,53599102,5615,2012,Male,Colorado,9545.7
+842,842,35366,35366,35366,High School Graduate,Health Care and Social Assistance,141152725,12164,2012,Male,Colorado,11604.14
+843,843,35367,35367,35367,Some College,Health Care and Social Assistance,232057836,15733,2012,Male,Colorado,14749.75
+844,844,35368,35368,35368,Advanced Degree,Health Care and Social Assistance,478154862,17989,2012,Male,Colorado,26580.4
+845,845,35369,35369,35369,Unavalble,Health Care and Social Assistance,20250245,4017,2012,Male,Colorado,5041.14
+846,846,35370,35370,35370,All Education Categories,Health Care and Social Assistance,1924448425,190415,2012,Female,Colorado,10106.6
+847,847,35371,35371,35371,Less Than High School,Health Care and Social Assistance,121402144,16553,2012,Female,Colorado,7334.15
+848,848,35372,35372,35372,High School Graduate,Health Care and Social Assistance,353530111,41443,2012,Female,Colorado,8530.51
+849,849,35373,35373,35373,Some College,Health Care and Social Assistance,668085645,65911,2012,Female,Colorado,10136.18
+850,850,35374,35374,35374,Advanced Degree,Health Care and Social Assistance,702723678,51117,2012,Female,Colorado,13747.36
+851,851,35375,35375,35375,Unavalble,Health Care and Social Assistance,78706846,15391,2012,Female,Colorado,5113.82
+852,852,35388,35388,35388,All Education Categories,Accommodation and Food Services,613340208,111236,2012,Male,Colorado,5513.86
+853,853,35389,35389,35389,Less Than High School,Accommodation and Food Services,100052690,18190,2012,Male,Colorado,5500.42
+854,854,35390,35390,35390,High School Graduate,Accommodation and Food Services,158689483,25987,2012,Male,Colorado,6106.49
+855,855,35391,35391,35391,Some College,Accommodation and Food Services,155135074,23784,2012,Male,Colorado,6522.67
+856,856,35392,35392,35392,Advanced Degree,Accommodation and Food Services,99646182,13048,2012,Male,Colorado,7636.89
+857,857,35393,35393,35393,Unavalble,Accommodation and Food Services,99816779,30226,2012,Male,Colorado,3302.35
+858,858,35394,35394,35394,All Education Categories,Accommodation and Food Services,520321767,113881,2012,Female,Colorado,4569.0
+859,859,35395,35395,35395,Less Than High School,Accommodation and Food Services,72378969,15699,2012,Female,Colorado,4610.42
+860,860,35396,35396,35396,High School Graduate,Accommodation and Food Services,117877955,23724,2012,Female,Colorado,4968.72
+861,861,35397,35397,35397,Some College,Accommodation and Food Services,130483292,24532,2012,Female,Colorado,5318.9
+862,862,35398,35398,35398,Advanced Degree,Accommodation and Food Services,85120657,13821,2012,Female,Colorado,6158.79
+863,863,35399,35399,35399,Unavalble,Accommodation and Food Services,114460894,36105,2012,Female,Colorado,3170.22
+864,864,36360,36360,36360,All Education Categories,Educational Services,605879201,52436,2004,Male,Colorado,11554.64
+865,865,36361,36361,36361,Less Than High School,Educational Services,20302160,2834,2004,Male,Colorado,7163.78
+866,866,36362,36362,36362,High School Graduate,Educational Services,81247557,9182,2004,Male,Colorado,8848.57
+867,867,36363,36363,36363,Some College,Educational Services,140702463,13599,2004,Male,Colorado,10346.53
+868,868,36364,36364,36364,Advanced Degree,Educational Services,352447855,23891,2004,Male,Colorado,14752.33
+869,869,36365,36365,36365,Unavalble,Educational Services,11179166,2929,2004,Male,Colorado,3816.72
+870,870,36366,36366,36366,All Education Categories,Educational Services,956033007,115569,2004,Female,Colorado,8272.4
+871,871,36367,36367,36367,Less Than High School,Educational Services,22924368,4807,2004,Female,Colorado,4768.96
+872,872,36368,36368,36368,High School Graduate,Educational Services,131251716,21578,2004,Female,Colorado,6082.66
+873,873,36369,36369,36369,Some College,Educational Services,250092377,33384,2004,Female,Colorado,7491.38
+874,874,36370,36370,36370,Advanced Degree,Educational Services,528455714,49840,2004,Female,Colorado,10603.04
+875,875,36371,36371,36371,Unavalble,Educational Services,23308833,5959,2004,Female,Colorado,3911.53
+876,876,36456,36456,36456,All Education Categories,Accommodation,120015387,18854,2004,Male,Colorado,6365.51
+877,877,36457,36457,36457,Less Than High School,Accommodation,17389065,3174,2004,Male,Colorado,5478.6
+878,878,36458,36458,36458,High School Graduate,Accommodation,30129070,4674,2004,Male,Colorado,6446.1
+879,879,36459,36459,36459,Some College,Accommodation,31992631,4439,2004,Male,Colorado,7207.17
+880,880,36460,36460,36460,Advanced Degree,Accommodation,23302192,2666,2004,Male,Colorado,8740.51
+881,881,36461,36461,36461,Unavalble,Accommodation,17202429,3900,2004,Male,Colorado,4410.88
+882,882,36462,36462,36462,All Education Categories,Accommodation,102722367,20259,2004,Female,Colorado,5070.46
+883,883,36463,36463,36463,Less Than High School,Accommodation,15057835,3483,2004,Female,Colorado,4323.24
+884,884,36464,36464,36464,High School Graduate,Accommodation,23894534,4804,2004,Female,Colorado,4973.88
+885,885,36465,36465,36465,Some College,Accommodation,27341488,4842,2004,Female,Colorado,5646.73
+886,886,36466,36466,36466,Advanced Degree,Accommodation,20304272,2858,2004,Female,Colorado,7104.36
+887,887,36467,36467,36467,Unavalble,Accommodation,16124238,4273,2004,Female,Colorado,3773.52
+888,888,37548,37548,37548,All Education Categories,Educational Services,616649469,56303,2005,Male,Colorado,10952.34
+889,889,37549,37549,37549,Less Than High School,Educational Services,21614852,3020,2005,Male,Colorado,7157.24
+890,890,37550,37550,37550,High School Graduate,Educational Services,85031869,9824,2005,Male,Colorado,8655.52
+891,891,37551,37551,37551,Some College,Educational Services,145679389,14604,2005,Male,Colorado,9975.31
+892,892,37552,37552,37552,Advanced Degree,Educational Services,352439397,25739,2005,Male,Colorado,13692.82
+893,893,37553,37553,37553,Unavalble,Educational Services,11883962,3116,2005,Male,Colorado,3813.85
+894,894,37554,37554,37554,All Education Categories,Educational Services,1008972635,121209,2005,Female,Colorado,8324.24
+895,895,37555,37555,37555,Less Than High School,Educational Services,24976922,5013,2005,Female,Colorado,4982.43
+896,896,37556,37556,37556,High School Graduate,Educational Services,139527260,22386,2005,Female,Colorado,6232.79
+897,897,37557,37557,37557,Some College,Educational Services,266862957,35294,2005,Female,Colorado,7561.14
+898,898,37558,37558,37558,Advanced Degree,Educational Services,552513573,52196,2005,Female,Colorado,10585.36
+899,899,37559,37559,37559,Unavalble,Educational Services,25091923,6320,2005,Female,Colorado,3970.24
+900,900,37644,37644,37644,All Education Categories,Accommodation,124089950,19016,2005,Male,Colorado,6525.55
+901,901,37645,37645,37645,Less Than High School,Accommodation,18350714,3270,2005,Male,Colorado,5611.84
+902,902,37646,37646,37646,High School Graduate,Accommodation,31222812,4758,2005,Male,Colorado,6562.17
+903,903,37647,37647,37647,Some College,Accommodation,33026237,4460,2005,Male,Colorado,7404.99
+904,904,37648,37648,37648,Advanced Degree,Accommodation,24226798,2636,2005,Male,Colorado,9190.74
+905,905,37649,37649,37649,Unavalble,Accommodation,17263390,3893,2005,Male,Colorado,4434.47
+906,906,37650,37650,37650,All Education Categories,Accommodation,105278067,20444,2005,Female,Colorado,5149.58
+907,907,37651,37651,37651,Less Than High School,Accommodation,15674781,3576,2005,Female,Colorado,4383.33
+908,908,37652,37652,37652,High School Graduate,Accommodation,24030382,4793,2005,Female,Colorado,5013.64
+909,909,37653,37653,37653,Some College,Accommodation,27986260,4911,2005,Female,Colorado,5698.69
+910,910,37654,37654,37654,Advanced Degree,Accommodation,20604947,2847,2005,Female,Colorado,7237.42
+911,911,37655,37655,37655,Unavalble,Accommodation,16981697,4317,2005,Female,Colorado,3933.68
+912,912,38736,38736,38736,All Education Categories,Educational Services,617495083,57258,2006,Male,Colorado,10784.43
+913,913,38737,38737,38737,Less Than High School,Educational Services,22453077,3178,2006,Male,Colorado,7065.16
+914,914,38738,38738,38738,High School Graduate,Educational Services,86465902,10086,2006,Male,Colorado,8572.86
+915,915,38739,38739,38739,Some College,Educational Services,146786304,15000,2006,Male,Colorado,9785.75
+916,916,38740,38740,38740,Advanced Degree,Educational Services,350393588,25938,2006,Male,Colorado,13508.89
+917,917,38741,38741,38741,Unavalble,Educational Services,11396212,3056,2006,Male,Colorado,3729.13
+918,918,38742,38742,38742,All Education Categories,Educational Services,1010344553,124219,2006,Female,Colorado,8133.58
+919,919,38743,38743,38743,Less Than High School,Educational Services,26877198,5312,2006,Female,Colorado,5059.71
+920,920,38744,38744,38744,High School Graduate,Educational Services,142701597,22836,2006,Female,Colorado,6248.98
+921,921,38745,38745,38745,Some College,Educational Services,271237645,36399,2006,Female,Colorado,7451.79
+922,922,38746,38746,38746,Advanced Degree,Educational Services,544072229,53518,2006,Female,Colorado,10166.15
+923,923,38747,38747,38747,Unavalble,Educational Services,25455884,6154,2006,Female,Colorado,4136.48
+924,924,38832,38832,38832,All Education Categories,Accommodation,138996434,19160,2006,Male,Colorado,7254.51
+925,925,38833,38833,38833,Less Than High School,Accommodation,20428024,3300,2006,Male,Colorado,6190.31
+926,926,38834,38834,38834,High School Graduate,Accommodation,34593617,4764,2006,Male,Colorado,7261.46
+927,927,38835,38835,38835,Some College,Accommodation,37258368,4500,2006,Male,Colorado,8279.64
+928,928,38836,38836,38836,Advanced Degree,Accommodation,27190181,2673,2006,Male,Colorado,10172.16
+929,929,38837,38837,38837,Unavalble,Accommodation,19526244,3923,2006,Male,Colorado,4977.38
+930,930,38838,38838,38838,All Education Categories,Accommodation,121300900,20964,2006,Female,Colorado,5786.15
+931,931,38839,38839,38839,Less Than High School,Accommodation,18154068,3719,2006,Female,Colorado,4881.44
+932,932,38840,38840,38840,High School Graduate,Accommodation,27258856,4887,2006,Female,Colorado,5577.83
+933,933,38841,38841,38841,Some College,Accommodation,31975108,5025,2006,Female,Colorado,6363.21
+934,934,38842,38842,38842,Advanced Degree,Accommodation,23977224,2909,2006,Female,Colorado,8242.43
+935,935,38843,38843,38843,Unavalble,Accommodation,19935644,4424,2006,Female,Colorado,4506.25
+936,936,39924,39924,39924,All Education Categories,Educational Services,674238883,54731,2007,Male,Colorado,12319.14
+937,937,39925,39925,39925,Less Than High School,Educational Services,26307610,3242,2007,Male,Colorado,8114.62
+938,938,39926,39926,39926,High School Graduate,Educational Services,97045155,9935,2007,Male,Colorado,9768.01
+939,939,39927,39927,39927,Some College,Educational Services,162900026,14495,2007,Male,Colorado,11238.36
+940,940,39928,39928,39928,Advanced Degree,Educational Services,375655608,24197,2007,Male,Colorado,15524.88
+941,941,39929,39929,39929,Unavalble,Educational Services,12330485,2861,2007,Male,Colorado,4309.85
+942,942,39930,39930,39930,All Education Categories,Educational Services,1112154279,115565,2007,Female,Colorado,9623.63
+943,943,39931,39931,39931,Less Than High School,Educational Services,31992541,5463,2007,Female,Colorado,5856.22
+944,944,39932,39932,39932,High School Graduate,Educational Services,159666690,21925,2007,Female,Colorado,7282.4
+945,945,39933,39933,39933,Some College,Educational Services,302786758,34277,2007,Female,Colorado,8833.53
+946,946,39934,39934,39934,Advanced Degree,Educational Services,589953667,48016,2007,Female,Colorado,12286.61
+947,947,39935,39935,39935,Unavalble,Educational Services,27754622,5884,2007,Female,Colorado,4716.96
+948,948,40020,40020,40020,All Education Categories,Accommodation,150357898,19629,2007,Male,Colorado,7659.99
+949,949,40021,40021,40021,Less Than High School,Accommodation,21971338,3352,2007,Male,Colorado,6554.7
+950,950,40022,40022,40022,High School Graduate,Accommodation,37917940,4955,2007,Male,Colorado,7652.46
+951,951,40023,40023,40023,Some College,Accommodation,40229003,4650,2007,Male,Colorado,8651.4
+952,952,40024,40024,40024,Advanced Degree,Accommodation,29375815,2703,2007,Male,Colorado,10867.86
+953,953,40025,40025,40025,Unavalble,Accommodation,20863801,3969,2007,Male,Colorado,5256.69
+954,954,40026,40026,40026,All Education Categories,Accommodation,133056058,21917,2007,Female,Colorado,6070.91
+955,955,40027,40027,40027,Less Than High School,Accommodation,20093149,3930,2007,Female,Colorado,5112.76
+956,956,40028,40028,40028,High School Graduate,Accommodation,30289902,5123,2007,Female,Colorado,5912.53
+957,957,40029,40029,40029,Some College,Accommodation,35532399,5345,2007,Female,Colorado,6647.78
+958,958,40030,40030,40030,Advanced Degree,Accommodation,25950376,2998,2007,Female,Colorado,8655.9
+959,959,40031,40031,40031,Unavalble,Accommodation,21190231,4522,2007,Female,Colorado,4686.03
+960,960,41112,41112,41112,All Education Categories,Educational Services,668432652,55225,2008,Male,Colorado,12103.81
+961,961,41113,41113,41113,Less Than High School,Educational Services,26338851,3222,2008,Male,Colorado,8174.69
+962,962,41114,41114,41114,High School Graduate,Educational Services,97222320,10052,2008,Male,Colorado,9671.94
+963,963,41115,41115,41115,Some College,Educational Services,161612563,14621,2008,Male,Colorado,11053.45
+964,964,41116,41116,41116,Advanced Degree,Educational Services,371244311,24388,2008,Male,Colorado,15222.42
+965,965,41117,41117,41117,Unavalble,Educational Services,12014607,2942,2008,Male,Colorado,4083.82
+966,966,41118,41118,41118,All Education Categories,Educational Services,1093432879,120288,2008,Female,Colorado,9090.12
+967,967,41119,41119,41119,Less Than High School,Educational Services,32817364,5576,2008,Female,Colorado,5885.47
+968,968,41120,41120,41120,High School Graduate,Educational Services,160944404,22658,2008,Female,Colorado,7103.2
+969,969,41121,41121,41121,Some College,Educational Services,300952268,35857,2008,Female,Colorado,8393.12
+970,970,41122,41122,41122,Advanced Degree,Educational Services,572473036,50239,2008,Female,Colorado,11394.99
+971,971,41123,41123,41123,Unavalble,Educational Services,26245808,5959,2008,Female,Colorado,4404.4
+972,972,41208,41208,41208,All Education Categories,Accommodation,169579074,21264,2008,Male,Colorado,7974.94
+973,973,41209,41209,41209,Less Than High School,Accommodation,24877908,3584,2008,Male,Colorado,6941.38
+974,974,41210,41210,41210,High School Graduate,Accommodation,42955897,5358,2008,Male,Colorado,8017.15
+975,975,41211,41211,41211,Some College,Accommodation,44903346,5057,2008,Male,Colorado,8879.44
+976,976,41212,41212,41212,Advanced Degree,Accommodation,32884036,2968,2008,Male,Colorado,11079.53
+977,977,41213,41213,41213,Unavalble,Accommodation,23957887,4297,2008,Male,Colorado,5575.49
+978,978,41214,41214,41214,All Education Categories,Accommodation,145522894,23041,2008,Female,Colorado,6315.82
+979,979,41215,41215,41215,Less Than High School,Accommodation,22099663,4085,2008,Female,Colorado,5409.95
+980,980,41216,41216,41216,High School Graduate,Accommodation,33032296,5405,2008,Female,Colorado,6111.43
+981,981,41217,41217,41217,Some College,Accommodation,38694565,5607,2008,Female,Colorado,6901.12
+982,982,41218,41218,41218,Advanced Degree,Accommodation,27883456,3256,2008,Female,Colorado,8563.71
+983,983,41219,41219,41219,Unavalble,Accommodation,23812914,4688,2008,Female,Colorado,5079.55
+984,984,42300,42300,42300,All Education Categories,Educational Services,687672046,55884,2009,Male,Colorado,12305.35
+985,985,42301,42301,42301,Less Than High School,Educational Services,28632044,3497,2009,Male,Colorado,8187.6
+986,986,42302,42302,42302,High School Graduate,Educational Services,100450928,10321,2009,Male,Colorado,9732.67
+987,987,42303,42303,42303,Some College,Educational Services,165705434,14885,2009,Male,Colorado,11132.38
+988,988,42304,42304,42304,Advanced Degree,Educational Services,380326190,24331,2009,Male,Colorado,15631.34
+989,989,42305,42305,42305,Unavalble,Educational Services,12557450,2849,2009,Male,Colorado,4407.67
+990,990,42306,42306,42306,All Education Categories,Educational Services,1090723537,120219,2009,Female,Colorado,9072.8
+991,991,42307,42307,42307,Less Than High School,Educational Services,37605428,6027,2009,Female,Colorado,6239.49
+992,992,42308,42308,42308,High School Graduate,Educational Services,164255645,22614,2009,Female,Colorado,7263.45
+993,993,42309,42309,42309,Some College,Educational Services,304830798,36094,2009,Female,Colorado,8445.47
+994,994,42310,42310,42310,Advanced Degree,Educational Services,557525639,49584,2009,Female,Colorado,11244.06
+995,995,42311,42311,42311,Unavalble,Educational Services,26506026,5899,2009,Female,Colorado,4493.31
+996,996,42396,42396,42396,All Education Categories,Accommodation,140981802,19510,2009,Male,Colorado,7226.13
+997,997,42397,42397,42397,Less Than High School,Accommodation,20777741,3334,2009,Male,Colorado,6232.08
+998,998,42398,42398,42398,High School Graduate,Accommodation,36549164,4972,2009,Male,Colorado,7351.0
+999,999,42399,42399,42399,Some College,Accommodation,38178229,4698,2009,Male,Colorado,8126.49
+1000,1000,42400,42400,42400,Advanced Degree,Accommodation,28227336,2777,2009,Male,Colorado,10164.69
+1001,1001,42401,42401,42401,Unavalble,Accommodation,17249332,3730,2009,Male,Colorado,4624.49
+1002,1002,42402,42402,42402,All Education Categories,Accommodation,120539528,21328,2009,Female,Colorado,5651.7
+1003,1003,42403,42403,42403,Less Than High School,Accommodation,18305637,3851,2009,Female,Colorado,4753.48
+1004,1004,42404,42404,42404,High School Graduate,Accommodation,27910702,5033,2009,Female,Colorado,5545.54
+1005,1005,42405,42405,42405,Some College,Accommodation,32888632,5262,2009,Female,Colorado,6250.22
+1006,1006,42406,42406,42406,Advanced Degree,Accommodation,24048543,3084,2009,Female,Colorado,7797.84
+1007,1007,42407,42407,42407,Unavalble,Accommodation,17386015,4097,2009,Female,Colorado,4243.6
+1008,1008,43476,43476,43476,All Education Categories,Educational Services,771761494,58614,2010,Male,Colorado,13166.85
+1009,1009,43477,43477,43477,Less Than High School,Educational Services,36574633,3960,2010,Male,Colorado,9236.02
+1010,1010,43478,43478,43478,High School Graduate,Educational Services,119351510,11192,2010,Male,Colorado,10664.0
+1011,1011,43479,43479,43479,Some College,Educational Services,191768804,15815,2010,Male,Colorado,12125.75
+1012,1012,43480,43480,43480,Advanced Degree,Educational Services,411281629,24769,2010,Male,Colorado,16604.69
+1013,1013,43481,43481,43481,Unavalble,Educational Services,12784918,2879,2010,Male,Colorado,4440.75
+1014,1014,43482,43482,43482,All Education Categories,Educational Services,1303511165,127077,2010,Female,Colorado,10257.65
+1015,1015,43483,43483,43483,Less Than High School,Educational Services,49620051,6848,2010,Female,Colorado,7245.92
+1016,1016,43484,43484,43484,High School Graduate,Educational Services,202710890,24247,2010,Female,Colorado,8360.25
+1017,1017,43485,43485,43485,Some College,Educational Services,367344494,38154,2010,Female,Colorado,9627.94
+1018,1018,43486,43486,43486,Advanced Degree,Educational Services,655399423,51811,2010,Female,Colorado,12649.81
+1019,1019,43487,43487,43487,Unavalble,Educational Services,28436307,6017,2010,Female,Colorado,4725.99
+1020,1020,43572,43572,43572,All Education Categories,Accommodation,138393886,19750,2010,Male,Colorado,7007.29
+1021,1021,43573,43573,43573,Less Than High School,Accommodation,20712521,3423,2010,Male,Colorado,6050.98
+1022,1022,43574,43574,43574,High School Graduate,Accommodation,36717926,5203,2010,Male,Colorado,7057.07
+1023,1023,43575,43575,43575,Some College,Accommodation,39000911,4984,2010,Male,Colorado,7825.22
+1024,1024,43576,43576,43576,Advanced Degree,Accommodation,28156278,2940,2010,Male,Colorado,9576.97
+1025,1025,43577,43577,43577,Unavalble,Accommodation,13806250,3200,2010,Male,Colorado,4314.45
+1026,1026,43578,43578,43578,All Education Categories,Accommodation,116696663,21052,2010,Female,Colorado,5543.26
+1027,1027,43579,43579,43579,Less Than High School,Accommodation,18484942,3864,2010,Female,Colorado,4783.89
+1028,1028,43580,43580,43580,High School Graduate,Accommodation,27888737,5097,2010,Female,Colorado,5471.6
+1029,1029,43581,43581,43581,Some College,Accommodation,32392657,5302,2010,Female,Colorado,6109.52
+1030,1030,43582,43582,43582,Advanced Degree,Accommodation,23752526,3187,2010,Female,Colorado,7452.94
+1031,1031,43583,43583,43583,Unavalble,Accommodation,14177801,3602,2010,Female,Colorado,3936.09
+1032,1032,44652,44652,44652,All Education Categories,Educational Services,744248879,61503,2011,Male,Colorado,12101.02
+1033,1033,44653,44653,44653,Less Than High School,Educational Services,37558046,4472,2011,Male,Colorado,8398.49
+1034,1034,44654,44654,44654,High School Graduate,Educational Services,118947920,12122,2011,Male,Colorado,9812.57
+1035,1035,44655,44655,44655,Some College,Educational Services,186114187,16759,2011,Male,Colorado,11105.33
+1036,1036,44656,44656,44656,Advanced Degree,Educational Services,389595796,25209,2011,Male,Colorado,15454.63
+1037,1037,44657,44657,44657,Unavalble,Educational Services,12032930,2940,2011,Male,Colorado,4092.83
+1038,1038,44658,44658,44658,All Education Categories,Educational Services,1233250764,134481,2011,Female,Colorado,9170.45
+1039,1039,44659,44659,44659,Less Than High School,Educational Services,50434022,7773,2011,Female,Colorado,6488.36
+1040,1040,44660,44660,44660,High School Graduate,Educational Services,196501342,26118,2011,Female,Colorado,7523.6
+1041,1041,44661,44661,44661,Some College,Educational Services,350944780,40538,2011,Female,Colorado,8657.18
+1042,1042,44662,44662,44662,Advanced Degree,Educational Services,609705119,54005,2011,Female,Colorado,11289.79
+1043,1043,44663,44663,44663,Unavalble,Educational Services,25665501,6046,2011,Female,Colorado,4245.04
+1044,1044,44748,44748,44748,All Education Categories,Accommodation,140096788,19178,2011,Male,Colorado,7305.08
+1045,1045,44749,44749,44749,Less Than High School,Accommodation,21046625,3367,2011,Male,Colorado,6250.85
+1046,1046,44750,44750,44750,High School Graduate,Accommodation,37352263,5055,2011,Male,Colorado,7389.17
+1047,1047,44751,44751,44751,Some College,Accommodation,39665946,4822,2011,Male,Colorado,8226.04
+1048,1048,44752,44752,44752,Advanced Degree,Accommodation,28579919,2857,2011,Male,Colorado,10003.47
+1049,1049,44753,44753,44753,Unavalble,Accommodation,13452036,3076,2011,Male,Colorado,4373.22
+1050,1050,44754,44754,44754,All Education Categories,Accommodation,118178886,20391,2011,Female,Colorado,5795.64
+1051,1051,44755,44755,44755,Less Than High School,Accommodation,17957923,3638,2011,Female,Colorado,4936.21
+1052,1052,44756,44756,44756,High School Graduate,Accommodation,28665668,5028,2011,Female,Colorado,5701.21
+1053,1053,44757,44757,44757,Some College,Accommodation,33212975,5229,2011,Female,Colorado,6351.69
+1054,1054,44758,44758,44758,Advanced Degree,Accommodation,24584532,3147,2011,Female,Colorado,7812.05
+1055,1055,44759,44759,44759,Unavalble,Accommodation,13757787,3348,2011,Female,Colorado,4109.26
+1056,1056,45828,45828,45828,All Education Categories,Educational Services,755278678,62903,2012,Male,Colorado,12007.04
+1057,1057,45829,45829,45829,Less Than High School,Educational Services,41046407,4852,2012,Male,Colorado,8459.69
+1058,1058,45830,45830,45830,High School Graduate,Educational Services,123599496,12697,2012,Male,Colorado,9734.54
+1059,1059,45831,45831,45831,Some College,Educational Services,189804049,17231,2012,Male,Colorado,11015.27
+1060,1060,45832,45832,45832,Advanced Degree,Educational Services,388203844,25126,2012,Male,Colorado,15450.28
+1061,1061,45833,45833,45833,Unavalble,Educational Services,12624882,2998,2012,Male,Colorado,4211.1
+1062,1062,45834,45834,45834,All Education Categories,Educational Services,1234717556,136042,2012,Female,Colorado,9076.0
+1063,1063,45835,45835,45835,Less Than High School,Educational Services,55123525,8355,2012,Female,Colorado,6597.67
+1064,1064,45836,45836,45836,High School Graduate,Educational Services,201222050,26903,2012,Female,Colorado,7479.54
+1065,1065,45837,45837,45837,Some College,Educational Services,354024097,41264,2012,Female,Colorado,8579.49
+1066,1066,45838,45838,45838,Advanced Degree,Educational Services,597486747,53439,2012,Female,Colorado,11180.72
+1067,1067,45839,45839,45839,Unavalble,Educational Services,26861137,6081,2012,Female,Colorado,4417.22
+1068,1068,45924,45924,45924,All Education Categories,Accommodation,157317912,20791,2012,Male,Colorado,7566.64
+1069,1069,45925,45925,45925,Less Than High School,Accommodation,24017512,3614,2012,Male,Colorado,6645.69
+1070,1070,45926,45926,45926,High School Graduate,Accommodation,42316503,5510,2012,Male,Colorado,7679.95
+1071,1071,45927,45927,45927,Some College,Accommodation,44545945,5286,2012,Male,Colorado,8427.16
+1072,1072,45928,45928,45928,Advanced Degree,Accommodation,31865570,3165,2012,Male,Colorado,10068.11
+1073,1073,45929,45929,45929,Unavalble,Accommodation,14572382,3216,2012,Male,Colorado,4531.21
+1074,1074,45930,45930,45930,All Education Categories,Accommodation,134333866,22009,2012,Female,Colorado,6103.59
+1075,1075,45931,45931,45931,Less Than High School,Accommodation,20916863,4004,2012,Female,Colorado,5223.99
+1076,1076,45932,45932,45932,High School Graduate,Accommodation,32702112,5437,2012,Female,Colorado,6014.73
+1077,1077,45933,45933,45933,Some College,Accommodation,37785456,5634,2012,Female,Colorado,6706.68
+1078,1078,45934,45934,45934,Advanced Degree,Accommodation,28010504,3469,2012,Female,Colorado,8074.52
+1079,1079,45935,45935,45935,Unavalble,Accommodation,14918931,3465,2012,Female,Colorado,4305.61

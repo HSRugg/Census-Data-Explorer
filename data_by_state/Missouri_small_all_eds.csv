@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,0,All Education Categories,00,13224247663,1242421,2004,Male,Missouri,10643.93
+1,1,1,1,1,Less Than High School,00,836269786,121463,2004,Male,Missouri,6884.98
+2,2,2,2,2,High School Graduate,00,3158831664,359845,2004,Male,Missouri,8778.31
+3,3,3,3,3,Some College,00,3500013502,318520,2004,Male,Missouri,10988.36
+4,4,4,4,4,Advanced Degree,00,5039543918,260014,2004,Male,Missouri,19381.82
+5,5,5,5,5,Unavalble,00,689588793,182578,2004,Male,Missouri,3776.95
+6,6,6,6,6,All Education Categories,00,8175543300,1262986,2004,Female,Missouri,6473.19
+7,7,7,7,7,Less Than High School,00,399125784,90562,2004,Female,Missouri,4407.21
+8,8,8,8,8,High School Graduate,00,1883884592,341369,2004,Female,Missouri,5518.62
+9,9,9,9,9,Some College,00,2508149182,366244,2004,Female,Missouri,6848.3
+10,10,10,10,10,Advanced Degree,00,2779410819,263514,2004,Female,Missouri,10547.49
+11,11,11,11,11,Unavalble,00,604972923,201297,2004,Female,Missouri,3005.37
+12,12,60,60,60,All Education Categories,Manufacturing,2314385272,206100,2004,Male,Missouri,11229.43
+13,13,61,61,61,Less Than High School,Manufacturing,195174377,24003,2004,Male,Missouri,8131.25
+14,14,62,62,62,High School Graduate,Manufacturing,765475499,77276,2004,Male,Missouri,9905.73
+15,15,63,63,63,Some College,Manufacturing,691625254,57878,2004,Male,Missouri,11949.71
+16,16,64,64,64,Advanced Degree,Manufacturing,563029625,29740,2004,Male,Missouri,18931.73
+17,17,65,65,65,Unavalble,Manufacturing,99080518,17203,2004,Male,Missouri,5759.49
+18,18,66,66,66,All Education Categories,Manufacturing,702718755,92947,2004,Female,Missouri,7560.42
+19,19,67,67,67,Less Than High School,Manufacturing,56966180,9885,2004,Female,Missouri,5762.89
+20,20,68,68,68,High School Graduate,Manufacturing,245180726,36191,2004,Female,Missouri,6774.63
+21,21,69,69,69,Some College,Manufacturing,219335292,27361,2004,Female,Missouri,8016.35
+22,22,70,70,70,Advanced Degree,Manufacturing,147450381,12354,2004,Female,Missouri,11935.44
+23,23,71,71,71,Unavalble,Manufacturing,33786175,7156,2004,Female,Missouri,4721.38
+24,24,84,84,84,All Education Categories,Retail Trade,1048485154,150979,2004,Male,Missouri,6944.58
+25,25,85,85,85,Less Than High School,Retail Trade,89326463,15158,2004,Male,Missouri,5893.02
+26,26,86,86,86,High School Graduate,Retail Trade,329719715,44349,2004,Male,Missouri,7434.66
+27,27,87,87,87,Some College,Retail Trade,296361086,33850,2004,Male,Missouri,8755.13
+28,28,88,88,88,Advanced Degree,Retail Trade,210180147,16898,2004,Male,Missouri,12438.17
+29,29,89,89,89,Unavalble,Retail Trade,122897742,40724,2004,Male,Missouri,3017.82
+30,30,90,90,90,All Education Categories,Retail Trade,641871948,158941,2004,Female,Missouri,4038.43
+31,31,91,91,91,Less Than High School,Retail Trade,53428403,14440,2004,Female,Missouri,3700.03
+32,32,92,92,92,High School Graduate,Retail Trade,216574413,50071,2004,Female,Missouri,4325.35
+33,33,93,93,93,Some College,Retail Trade,174817214,35983,2004,Female,Missouri,4858.33
+34,34,94,94,94,Advanced Degree,Retail Trade,96337926,14509,2004,Female,Missouri,6639.87
+35,35,95,95,95,Unavalble,Retail Trade,100713991,43938,2004,Female,Missouri,2292.18
+36,36,120,120,120,All Education Categories,Finance and Insurance,846923054,36920,2004,Male,Missouri,22939.41
+37,37,121,121,121,Less Than High School,Finance and Insurance,13194496,1337,2004,Male,Missouri,9868.73
+38,38,122,122,122,High School Graduate,Finance and Insurance,75945246,5620,2004,Male,Missouri,13513.39
+39,39,123,123,123,Some College,Finance and Insurance,160409654,8848,2004,Male,Missouri,18129.48
+40,40,124,124,124,Advanced Degree,Finance and Insurance,576856613,17937,2004,Male,Missouri,32160.15
+41,41,125,125,125,Unavalble,Finance and Insurance,20517046,3178,2004,Male,Missouri,6455.96
+42,42,126,126,126,All Education Categories,Finance and Insurance,706378100,75930,2004,Female,Missouri,9303.02
+43,43,127,127,127,Less Than High School,Finance and Insurance,16024898,2555,2004,Female,Missouri,6271.98
+44,44,128,128,128,High School Graduate,Finance and Insurance,131462401,17928,2004,Female,Missouri,7332.8
+45,45,129,129,129,Some College,Finance and Insurance,201825232,22997,2004,Female,Missouri,8776.15
+46,46,130,130,130,Advanced Degree,Finance and Insurance,311559793,23249,2004,Female,Missouri,13401.0
+47,47,131,131,131,Unavalble,Finance and Insurance,45505776,9201,2004,Female,Missouri,4945.74
+48,48,180,180,180,All Education Categories,Educational Services,592600822,65054,2004,Male,Missouri,9109.37
+49,49,181,181,181,Less Than High School,Educational Services,22187500,3837,2004,Male,Missouri,5782.51
+50,50,182,182,182,High School Graduate,Educational Services,96694832,13808,2004,Male,Missouri,7002.81
+51,51,183,183,183,Some College,Educational Services,139468056,16548,2004,Male,Missouri,8428.09
+52,52,184,184,184,Advanced Degree,Educational Services,321495016,26642,2004,Male,Missouri,12067.23
+53,53,185,185,185,Unavalble,Educational Services,12755418,4218,2004,Male,Missouri,3024.04
+54,54,186,186,186,All Education Categories,Educational Services,1053857587,154225,2004,Female,Missouri,6833.25
+55,55,187,187,187,Less Than High School,Educational Services,25232770,5946,2004,Female,Missouri,4243.65
+56,56,188,188,188,High School Graduate,Educational Services,187964424,35409,2004,Female,Missouri,5308.38
+57,57,189,189,189,Some College,Educational Services,287981923,44443,2004,Female,Missouri,6479.8
+58,58,190,190,190,Advanced Degree,Educational Services,519750471,58507,2004,Female,Missouri,8883.56
+59,59,191,191,191,Unavalble,Educational Services,32927998,9920,2004,Female,Missouri,3319.35
+60,60,192,192,192,All Education Categories,Health Care and Social Assistance,875031389,65235,2004,Male,Missouri,13413.53
+61,61,193,193,193,Less Than High School,Health Care and Social Assistance,31660085,5036,2004,Male,Missouri,6286.75
+62,62,194,194,194,High School Graduate,Health Care and Social Assistance,121173642,14758,2004,Male,Missouri,8210.71
+63,63,195,195,195,Some College,Health Care and Social Assistance,206079718,18034,2004,Male,Missouri,11427.29
+64,64,196,196,196,Advanced Degree,Health Care and Social Assistance,492641665,21006,2004,Male,Missouri,23452.43
+65,65,197,197,197,Unavalble,Health Care and Social Assistance,23476279,6401,2004,Male,Missouri,3667.6
+66,66,198,198,198,All Education Categories,Health Care and Social Assistance,1776163346,267780,2004,Female,Missouri,6632.92
+67,67,199,199,199,Less Than High School,Health Care and Social Assistance,84311177,18514,2004,Female,Missouri,4553.91
+68,68,200,200,200,High School Graduate,Health Care and Social Assistance,375850403,68367,2004,Female,Missouri,5497.54
+69,69,201,201,201,Some College,Health Care and Social Assistance,648449829,94656,2004,Female,Missouri,6850.59
+70,70,202,202,202,Advanced Degree,Health Care and Social Assistance,553854684,55862,2004,Female,Missouri,9914.69
+71,71,203,203,203,Unavalble,Health Care and Social Assistance,113697253,30381,2004,Female,Missouri,3742.38
+72,72,216,216,216,All Education Categories,Accommodation and Food Services,346045115,93880,2004,Male,Missouri,3686.04
+73,73,217,217,217,Less Than High School,Accommodation and Food Services,43720576,11072,2004,Male,Missouri,3948.75
+74,74,218,218,218,High School Graduate,Accommodation and Food Services,91225434,19893,2004,Male,Missouri,4585.81
+75,75,219,219,219,Some College,Accommodation and Food Services,75112979,14468,2004,Male,Missouri,5191.66
+76,76,220,220,220,Advanced Degree,Accommodation and Food Services,43880168,6413,2004,Male,Missouri,6842.38
+77,77,221,221,221,Unavalble,Accommodation and Food Services,92105958,42033,2004,Male,Missouri,2191.28
+78,78,222,222,222,All Education Categories,Accommodation and Food Services,318904491,115088,2004,Female,Missouri,2770.96
+79,79,223,223,223,Less Than High School,Accommodation and Food Services,34379975,11741,2004,Female,Missouri,2928.2
+80,80,224,224,224,High School Graduate,Accommodation and Food Services,82387742,25480,2004,Female,Missouri,3233.43
+81,81,225,225,225,Some College,Accommodation and Food Services,69636372,19216,2004,Female,Missouri,3623.87
+82,82,226,226,226,Advanced Degree,Accommodation and Food Services,33306918,7494,2004,Female,Missouri,4444.48
+83,83,227,227,227,Unavalble,Accommodation and Food Services,99193484,51157,2004,Female,Missouri,1939.0
+84,84,252,252,252,All Education Categories,00,13539740686,1252768,2005,Male,Missouri,10807.86
+85,85,253,253,253,Less Than High School,00,856445457,123355,2005,Male,Missouri,6942.93
+86,86,254,254,254,High School Graduate,00,3223937409,362963,2005,Male,Missouri,8882.28
+87,87,255,255,255,Some College,00,3588441132,322492,2005,Male,Missouri,11127.23
+88,88,256,256,256,Advanced Degree,00,5179253519,261595,2005,Male,Missouri,19798.75
+89,89,257,257,257,Unavalble,00,691663168,182364,2005,Male,Missouri,3792.76
+90,90,258,258,258,All Education Categories,00,8362171384,1281073,2005,Female,Missouri,6527.47
+91,91,259,259,259,Less Than High School,00,413618317,92673,2005,Female,Missouri,4463.2
+92,92,260,260,260,High School Graduate,00,1924313466,345675,2005,Female,Missouri,5566.83
+93,93,261,261,261,Some College,00,2577129538,373182,2005,Female,Missouri,6905.82
+94,94,262,262,262,Advanced Degree,00,2843575870,267797,2005,Female,Missouri,10618.4
+95,95,263,263,263,Unavalble,00,603534192,201747,2005,Female,Missouri,2991.54
+96,96,312,312,312,All Education Categories,Manufacturing,2343721856,205550,2005,Male,Missouri,11402.2
+97,97,313,313,313,Less Than High School,Manufacturing,196201819,24069,2005,Male,Missouri,8151.64
+98,98,314,314,314,High School Graduate,Manufacturing,763048889,76587,2005,Male,Missouri,9963.16
+99,99,315,315,315,Some College,Manufacturing,698220782,57556,2005,Male,Missouri,12131.16
+100,100,316,316,316,Advanced Degree,Manufacturing,584778117,29395,2005,Male,Missouri,19893.8
+101,101,317,317,317,Unavalble,Manufacturing,101472249,17944,2005,Male,Missouri,5654.94
+102,102,318,318,318,All Education Categories,Manufacturing,700669370,92379,2005,Female,Missouri,7584.73
+103,103,319,319,319,Less Than High School,Manufacturing,57089468,9938,2005,Female,Missouri,5744.56
+104,104,320,320,320,High School Graduate,Manufacturing,241600059,35628,2005,Female,Missouri,6781.18
+105,105,321,321,321,Some College,Manufacturing,219203917,27232,2005,Female,Missouri,8049.5
+106,106,322,322,322,Advanced Degree,Manufacturing,149473632,12346,2005,Female,Missouri,12107.05
+107,107,323,323,323,Unavalble,Manufacturing,33302293,7235,2005,Female,Missouri,4602.94
+108,108,336,336,336,All Education Categories,Retail Trade,1064083273,151432,2005,Male,Missouri,7026.81
+109,109,337,337,337,Less Than High School,Retail Trade,90659177,15274,2005,Male,Missouri,5935.52
+110,110,338,338,338,High School Graduate,Retail Trade,332700853,44508,2005,Male,Missouri,7475.08
+111,111,339,339,339,Some College,Retail Trade,301071925,34197,2005,Male,Missouri,8804.04
+112,112,340,340,340,Advanced Degree,Retail Trade,217311451,17017,2005,Male,Missouri,12770.26
+113,113,341,341,341,Unavalble,Retail Trade,122339867,40436,2005,Male,Missouri,3025.52
+114,114,342,342,342,All Education Categories,Retail Trade,667049462,164035,2005,Female,Missouri,4066.51
+115,115,343,343,343,Less Than High School,Retail Trade,55572677,14822,2005,Female,Missouri,3749.34
+116,116,344,344,344,High School Graduate,Retail Trade,222630087,51039,2005,Female,Missouri,4361.96
+117,117,345,345,345,Some College,Retail Trade,182655650,37303,2005,Female,Missouri,4896.54
+118,118,346,346,346,Advanced Degree,Retail Trade,101927049,15262,2005,Female,Missouri,6678.49
+119,119,347,347,347,Unavalble,Retail Trade,104263998,45609,2005,Female,Missouri,2286.04
+120,120,372,372,372,All Education Categories,Finance and Insurance,881694687,36473,2005,Male,Missouri,24173.9
+121,121,373,373,373,Less Than High School,Finance and Insurance,14050841,1344,2005,Male,Missouri,10454.49
+122,122,374,374,374,High School Graduate,Finance and Insurance,80702083,5655,2005,Male,Missouri,14270.93
+123,123,375,375,375,Some College,Finance and Insurance,168456261,8905,2005,Male,Missouri,18917.04
+124,124,376,376,376,Advanced Degree,Finance and Insurance,599975794,17691,2005,Male,Missouri,33914.18
+125,125,377,377,377,Unavalble,Finance and Insurance,18509708,2879,2005,Male,Missouri,6429.21
+126,126,378,378,378,All Education Categories,Finance and Insurance,706340810,72954,2005,Female,Missouri,9682.0
+127,127,379,379,379,Less Than High School,Finance and Insurance,16102735,2521,2005,Female,Missouri,6387.44
+128,128,380,380,380,High School Graduate,Finance and Insurance,129490467,17281,2005,Female,Missouri,7493.23
+129,129,381,381,381,Some College,Finance and Insurance,201588290,22423,2005,Female,Missouri,8990.25
+130,130,382,382,382,Advanced Degree,Finance and Insurance,319020209,22831,2005,Female,Missouri,13973.12
+131,131,383,383,383,Unavalble,Finance and Insurance,40139109,7898,2005,Female,Missouri,5082.19
+132,132,432,432,432,All Education Categories,Educational Services,626147112,66326,2005,Male,Missouri,9440.45
+133,133,433,433,433,Less Than High School,Educational Services,23406340,3925,2005,Male,Missouri,5963.4
+134,134,434,434,434,High School Graduate,Educational Services,101613552,14091,2005,Male,Missouri,7211.24
+135,135,435,435,435,Some College,Educational Services,147250325,16968,2005,Male,Missouri,8678.12
+136,136,436,436,436,Advanced Degree,Educational Services,340058351,27015,2005,Male,Missouri,12587.76
+137,137,437,437,437,Unavalble,Educational Services,13818543,4327,2005,Male,Missouri,3193.56
+138,138,438,438,438,All Education Categories,Educational Services,1094380618,156570,2005,Female,Missouri,6989.72
+139,139,439,439,439,Less Than High School,Educational Services,27024406,6097,2005,Female,Missouri,4432.41
+140,140,440,440,440,High School Graduate,Educational Services,196225463,35966,2005,Female,Missouri,5455.86
+141,141,441,441,441,Some College,Educational Services,302645323,45612,2005,Female,Missouri,6635.21
+142,142,442,442,442,Advanced Degree,Educational Services,535061909,59238,2005,Female,Missouri,9032.41
+143,143,443,443,443,Unavalble,Educational Services,33423518,9656,2005,Female,Missouri,3461.42
+144,144,444,444,444,All Education Categories,Health Care and Social Assistance,900671206,66126,2005,Male,Missouri,13620.53
+145,145,445,445,445,Less Than High School,Health Care and Social Assistance,32066412,5189,2005,Male,Missouri,6179.69
+146,146,446,446,446,High School Graduate,Health Care and Social Assistance,122845899,15065,2005,Male,Missouri,8154.39
+147,147,447,447,447,Some College,Health Care and Social Assistance,210619152,18347,2005,Male,Missouri,11479.76
+148,148,448,448,448,Advanced Degree,Health Care and Social Assistance,511855091,21051,2005,Male,Missouri,24315.0
+149,149,449,449,449,Unavalble,Health Care and Social Assistance,23284651,6474,2005,Male,Missouri,3596.64
+150,150,450,450,450,All Education Categories,Health Care and Social Assistance,1802284886,271510,2005,Female,Missouri,6638.01
+151,151,451,451,451,Less Than High School,Health Care and Social Assistance,86752729,19076,2005,Female,Missouri,4547.74
+152,152,452,452,452,High School Graduate,Health Care and Social Assistance,382288355,69644,2005,Female,Missouri,5489.18
+153,153,453,453,453,Some College,Health Care and Social Assistance,658159217,96202,2005,Female,Missouri,6841.43
+154,154,454,454,454,Advanced Degree,Health Care and Social Assistance,563388260,56733,2005,Female,Missouri,9930.52
+155,155,455,455,455,Unavalble,Health Care and Social Assistance,111696327,29854,2005,Female,Missouri,3741.42
+156,156,468,468,468,All Education Categories,Accommodation and Food Services,359029478,95700,2005,Male,Missouri,3751.61
+157,157,469,469,469,Less Than High School,Accommodation and Food Services,45415843,11576,2005,Male,Missouri,3923.28
+158,158,470,470,470,High School Graduate,Accommodation and Food Services,94912368,20590,2005,Male,Missouri,4609.63
+159,159,471,471,471,Some College,Accommodation and Food Services,78611233,14938,2005,Male,Missouri,5262.5
+160,160,472,472,472,Advanced Degree,Accommodation and Food Services,47950129,6524,2005,Male,Missouri,7349.81
+161,161,473,473,473,Unavalble,Accommodation and Food Services,92139905,42071,2005,Male,Missouri,2190.1
+162,162,474,474,474,All Education Categories,Accommodation and Food Services,332915311,119247,2005,Female,Missouri,2791.81
+163,163,475,475,475,Less Than High School,Accommodation and Food Services,36123704,12150,2005,Female,Missouri,2973.14
+164,164,476,476,476,High School Graduate,Accommodation and Food Services,85185704,26215,2005,Female,Missouri,3249.5
+165,165,477,477,477,Some College,Accommodation and Food Services,72658508,19902,2005,Female,Missouri,3650.81
+166,166,478,478,478,Advanced Degree,Accommodation and Food Services,35357028,7819,2005,Female,Missouri,4521.94
+167,167,479,479,479,Unavalble,Accommodation and Food Services,103590367,53161,2005,Female,Missouri,1948.62
+168,168,504,504,504,All Education Categories,00,14932304225,1271833,2006,Male,Missouri,11740.77
+169,169,505,505,505,Less Than High School,00,948092476,126540,2006,Male,Missouri,7492.43
+170,170,506,506,506,High School Graduate,00,3544991048,369072,2006,Male,Missouri,9605.15
+171,171,507,507,507,Some College,00,3955246910,328830,2006,Male,Missouri,12028.24
+172,172,508,508,508,Advanced Degree,00,5737792806,264551,2006,Male,Missouri,21688.8
+173,173,509,509,509,Unavalble,00,746180984,182839,2006,Male,Missouri,4081.08
+174,174,510,510,510,All Education Categories,00,9144964118,1305634,2006,Female,Missouri,7004.23
+175,175,511,511,511,Less Than High School,00,461112679,95499,2006,Female,Missouri,4828.46
+176,176,512,512,512,High School Graduate,00,2099711207,351568,2006,Female,Missouri,5972.42
+177,177,513,513,513,Some College,00,2832278982,382453,2006,Female,Missouri,7405.56
+178,178,514,514,514,Advanced Degree,00,3108939991,273053,2006,Female,Missouri,11385.85
+179,179,515,515,515,Unavalble,00,642921260,203061,2006,Female,Missouri,3166.15
+180,180,564,564,564,All Education Categories,Manufacturing,2501642284,202391,2006,Male,Missouri,12360.44
+181,181,565,565,565,Less Than High School,Manufacturing,208201912,23709,2006,Male,Missouri,8781.56
+182,182,566,566,566,High School Graduate,Manufacturing,808016047,75288,2006,Male,Missouri,10732.34
+183,183,567,567,567,Some College,Manufacturing,737316990,56804,2006,Male,Missouri,12980.02
+184,184,568,568,568,Advanced Degree,Manufacturing,640363371,28926,2006,Male,Missouri,22137.99
+185,185,569,569,569,Unavalble,Manufacturing,107743965,17664,2006,Male,Missouri,6099.64
+186,186,570,570,570,All Education Categories,Manufacturing,741873382,89842,2006,Female,Missouri,8257.53
+187,187,571,571,571,Less Than High School,Manufacturing,60558123,9636,2006,Female,Missouri,6284.57
+188,188,572,572,572,High School Graduate,Manufacturing,253420447,34355,2006,Female,Missouri,7376.52
+189,189,573,573,573,Some College,Manufacturing,233075141,26680,2006,Female,Missouri,8735.95
+190,190,574,574,574,Advanced Degree,Manufacturing,160377348,12236,2006,Female,Missouri,13107.01
+191,191,575,575,575,Unavalble,Manufacturing,34442324,6935,2006,Female,Missouri,4966.45
+192,192,588,588,588,All Education Categories,Retail Trade,1158432442,150670,2006,Male,Missouri,7688.54
+193,193,589,589,589,Less Than High School,Retail Trade,96381677,15289,2006,Male,Missouri,6303.99
+194,194,590,590,590,High School Graduate,Retail Trade,355780382,44389,2006,Male,Missouri,8015.06
+195,195,591,591,591,Some College,Retail Trade,327077737,34484,2006,Male,Missouri,9484.91
+196,196,592,592,592,Advanced Degree,Retail Trade,254531325,16966,2006,Male,Missouri,15002.44
+197,197,593,593,593,Unavalble,Retail Trade,124661321,39542,2006,Male,Missouri,3152.63
+198,198,594,594,594,All Education Categories,Retail Trade,741044739,165293,2006,Female,Missouri,4483.22
+199,199,595,595,595,Less Than High School,Retail Trade,61455060,15016,2006,Female,Missouri,4092.64
+200,200,596,596,596,High School Graduate,Retail Trade,241980062,51283,2006,Female,Missouri,4718.52
+201,201,597,597,597,Some College,Retail Trade,205922536,38125,2006,Female,Missouri,5401.25
+202,202,598,598,598,Advanced Degree,Retail Trade,122622761,15601,2006,Female,Missouri,7859.93
+203,203,599,599,599,Unavalble,Retail Trade,109064321,45268,2006,Female,Missouri,2409.3
+204,204,624,624,624,All Education Categories,Finance and Insurance,1008614853,38690,2006,Male,Missouri,26069.14
+205,205,625,625,625,Less Than High School,Finance and Insurance,17754861,1567,2006,Male,Missouri,11330.48
+206,206,626,626,626,High School Graduate,Finance and Insurance,96582735,6230,2006,Male,Missouri,15502.85
+207,207,627,627,627,Some College,Finance and Insurance,191693760,9552,2006,Male,Missouri,20068.44
+208,208,628,628,628,Advanced Degree,Finance and Insurance,681922088,18354,2006,Male,Missouri,37153.87
+209,209,629,629,629,Unavalble,Finance and Insurance,20661408,2987,2006,Male,Missouri,6917.11
+210,210,630,630,630,All Education Categories,Finance and Insurance,808299035,77819,2006,Female,Missouri,10386.91
+211,211,631,631,631,Less Than High School,Finance and Insurance,19897881,2885,2006,Female,Missouri,6897.01
+212,212,632,632,632,High School Graduate,Finance and Insurance,149049712,18567,2006,Female,Missouri,8027.67
+213,213,633,633,633,Some College,Finance and Insurance,233476182,24104,2006,Female,Missouri,9686.2
+214,214,634,634,634,Advanced Degree,Finance and Insurance,362169586,23898,2006,Female,Missouri,15154.81
+215,215,635,635,635,Unavalble,Finance and Insurance,43705675,8365,2006,Female,Missouri,5224.83
+216,216,684,684,684,All Education Categories,Educational Services,653457999,66973,2006,Male,Missouri,9757.04
+217,217,685,685,685,Less Than High School,Educational Services,25466852,4008,2006,Male,Missouri,6354.0
+218,218,686,686,686,High School Graduate,Educational Services,108727844,14302,2006,Male,Missouri,7602.28
+219,219,687,687,687,Some College,Educational Services,156042450,17228,2006,Male,Missouri,9057.49
+220,220,688,688,688,Advanced Degree,Educational Services,349361243,27187,2006,Male,Missouri,12850.31
+221,221,689,689,689,Unavalble,Educational Services,13859611,4247,2006,Male,Missouri,3263.39
+222,222,690,690,690,All Education Categories,Educational Services,1170778392,159115,2006,Female,Missouri,7358.06
+223,223,691,691,691,Less Than High School,Educational Services,30532789,6316,2006,Female,Missouri,4834.2
+224,224,692,692,692,High School Graduate,Educational Services,213293795,36598,2006,Female,Missouri,5828.02
+225,225,693,693,693,Some College,Educational Services,328604971,46810,2006,Female,Missouri,7019.97
+226,226,694,694,694,Advanced Degree,Educational Services,562999729,59665,2006,Female,Missouri,9436.01
+227,227,695,695,695,Unavalble,Educational Services,35347107,9727,2006,Female,Missouri,3633.92
+228,228,696,696,696,All Education Categories,Health Care and Social Assistance,967336680,67647,2006,Male,Missouri,14299.77
+229,229,697,697,697,Less Than High School,Health Care and Social Assistance,35236100,5360,2006,Male,Missouri,6573.9
+230,230,698,698,698,High School Graduate,Health Care and Social Assistance,134097007,15492,2006,Male,Missouri,8655.89
+231,231,699,699,699,Some College,Health Care and Social Assistance,228325259,18808,2006,Male,Missouri,12139.79
+232,232,700,700,700,Advanced Degree,Health Care and Social Assistance,544492508,21366,2006,Male,Missouri,25484.06
+233,233,701,701,701,Unavalble,Health Care and Social Assistance,25185807,6620,2006,Male,Missouri,3804.5
+234,234,702,702,702,All Education Categories,Health Care and Social Assistance,1979959621,277470,2006,Female,Missouri,7135.76
+235,235,703,703,703,Less Than High School,Health Care and Social Assistance,96269317,19633,2006,Female,Missouri,4903.44
+236,236,704,704,704,High School Graduate,Health Care and Social Assistance,420484022,71305,2006,Female,Missouri,5896.98
+237,237,705,705,705,Some College,Health Care and Social Assistance,724367175,98437,2006,Female,Missouri,7358.69
+238,238,706,706,706,Advanced Degree,Health Care and Social Assistance,620230949,58115,2006,Female,Missouri,10672.48
+239,239,707,707,707,Unavalble,Health Care and Social Assistance,118608159,29980,2006,Female,Missouri,3956.24
+240,240,720,720,720,All Education Categories,Accommodation and Food Services,382743182,97494,2006,Male,Missouri,3925.81
+241,241,721,721,721,Less Than High School,Accommodation and Food Services,50064707,12043,2006,Male,Missouri,4157.16
+242,242,722,722,722,High School Graduate,Accommodation and Food Services,102868522,21175,2006,Male,Missouri,4858.02
+243,243,723,723,723,Some College,Accommodation and Food Services,84316812,15330,2006,Male,Missouri,5500.12
+244,244,724,724,724,Advanced Degree,Accommodation and Food Services,47899272,6678,2006,Male,Missouri,7172.7
+245,245,725,725,725,Unavalble,Accommodation and Food Services,97593869,42269,2006,Male,Missouri,2308.88
+246,246,726,726,726,All Education Categories,Accommodation and Food Services,366035862,122624,2006,Female,Missouri,2985.03
+247,247,727,727,727,Less Than High School,Accommodation and Food Services,40157102,12632,2006,Female,Missouri,3179.0
+248,248,728,728,728,High School Graduate,Accommodation and Food Services,93315822,26931,2006,Female,Missouri,3465.0
+249,249,729,729,729,Some College,Accommodation and Food Services,80097836,20705,2006,Female,Missouri,3868.53
+250,250,730,730,730,Advanced Degree,Accommodation and Food Services,39261439,8265,2006,Female,Missouri,4750.33
+251,251,731,731,731,Unavalble,Accommodation and Food Services,113203663,54091,2006,Female,Missouri,2092.84
+252,252,756,756,756,All Education Categories,00,15342219176,1278150,2007,Male,Missouri,12003.46
+253,253,757,757,757,Less Than High School,00,995167324,129517,2007,Male,Missouri,7683.68
+254,254,758,758,758,High School Graduate,00,3656001687,373185,2007,Male,Missouri,9796.75
+255,255,759,759,759,Some College,00,4077219702,331976,2007,Male,Missouri,12281.67
+256,256,760,760,760,Advanced Degree,00,5867045319,262929,2007,Male,Missouri,22314.18
+257,257,761,761,761,Unavalble,00,746785144,180542,2007,Male,Missouri,4136.35
+258,258,762,762,762,All Education Categories,00,9558680710,1320979,2007,Female,Missouri,7236.06
+259,259,763,763,763,Less Than High School,00,495022005,99039,2007,Female,Missouri,4998.25
+260,260,764,764,764,High School Graduate,00,2204359358,356722,2007,Female,Missouri,6179.49
+261,261,765,765,765,Some College,00,2978707415,389930,2007,Female,Missouri,7639.08
+262,262,766,766,766,Advanced Degree,00,3225965832,274972,2007,Female,Missouri,11731.98
+263,263,767,767,767,Unavalble,00,654626100,200316,2007,Female,Missouri,3267.97
+264,264,816,816,816,All Education Categories,Manufacturing,2562612005,202612,2007,Male,Missouri,12647.88
+265,265,817,817,817,Less Than High School,Manufacturing,217723836,24255,2007,Male,Missouri,8976.45
+266,266,818,818,818,High School Graduate,Manufacturing,824380614,75116,2007,Male,Missouri,10974.77
+267,267,819,819,819,Some College,Manufacturing,762995960,56920,2007,Male,Missouri,13404.71
+268,268,820,820,820,Advanced Degree,Manufacturing,651312654,28722,2007,Male,Missouri,22676.44
+269,269,821,821,821,Unavalble,Manufacturing,106198940,17599,2007,Male,Missouri,6034.37
+270,270,822,822,822,All Education Categories,Manufacturing,764588258,89009,2007,Female,Missouri,8590.01
+271,271,823,823,823,Less Than High School,Manufacturing,62473243,9810,2007,Female,Missouri,6368.32
+272,272,824,824,824,High School Graduate,Manufacturing,257258452,33766,2007,Female,Missouri,7618.86
+273,273,825,825,825,Some College,Manufacturing,242267840,26594,2007,Female,Missouri,9109.87
+274,274,826,826,826,Advanced Degree,Manufacturing,169171353,12062,2007,Female,Missouri,14025.15
+275,275,827,827,827,Unavalble,Manufacturing,33417369,6777,2007,Female,Missouri,4931.0
+276,276,840,840,840,All Education Categories,Retail Trade,1137306824,150316,2007,Male,Missouri,7566.11
+277,277,841,841,841,Less Than High School,Retail Trade,99290980,15403,2007,Male,Missouri,6446.21
+278,278,842,842,842,High School Graduate,Retail Trade,357405211,44555,2007,Male,Missouri,8021.66
+279,279,843,843,843,Some College,Retail Trade,324996823,34607,2007,Male,Missouri,9391.07
+280,280,844,844,844,Advanced Degree,Retail Trade,230513124,16966,2007,Male,Missouri,13586.77
+281,281,845,845,845,Unavalble,Retail Trade,125100685,38784,2007,Male,Missouri,3225.57
+282,282,846,846,846,All Education Categories,Retail Trade,735515504,162739,2007,Female,Missouri,4519.6
+283,283,847,847,847,Less Than High School,Retail Trade,62467576,14974,2007,Female,Missouri,4171.74
+284,284,848,848,848,High School Graduate,Retail Trade,244343222,50693,2007,Female,Missouri,4820.06
+285,285,849,849,849,Some College,Retail Trade,206061681,38125,2007,Female,Missouri,5404.9
+286,286,850,850,850,Advanced Degree,Retail Trade,114127355,15551,2007,Female,Missouri,7338.91
+287,287,851,851,851,Unavalble,Retail Trade,108515670,43397,2007,Female,Missouri,2500.53
+288,288,876,876,876,All Education Categories,Finance and Insurance,1097047041,39789,2007,Male,Missouri,27571.62
+289,289,877,877,877,Less Than High School,Finance and Insurance,20629618,1724,2007,Male,Missouri,11966.14
+290,290,878,878,878,High School Graduate,Finance and Insurance,104405457,6631,2007,Male,Missouri,15745.05
+291,291,879,879,879,Some College,Finance and Insurance,210269425,9969,2007,Male,Missouri,21092.33
+292,292,880,880,880,Advanced Degree,Finance and Insurance,741460819,18543,2007,Male,Missouri,39986.02
+293,293,881,881,881,Unavalble,Finance and Insurance,20281722,2922,2007,Male,Missouri,6941.04
+294,294,882,882,882,All Education Categories,Finance and Insurance,861034755,78877,2007,Female,Missouri,10916.17
+295,295,883,883,883,Less Than High School,Finance and Insurance,22436940,3101,2007,Female,Missouri,7235.39
+296,296,884,884,884,High School Graduate,Finance and Insurance,159061726,18957,2007,Female,Missouri,8390.66
+297,297,885,885,885,Some College,Finance and Insurance,250219756,24537,2007,Female,Missouri,10197.65
+298,298,886,886,886,Advanced Degree,Finance and Insurance,386374080,24105,2007,Female,Missouri,16028.79
+299,299,887,887,887,Unavalble,Finance and Insurance,42942253,8176,2007,Female,Missouri,5252.23
+300,300,936,936,936,All Education Categories,Educational Services,690474306,68133,2007,Male,Missouri,10134.21
+301,301,937,937,937,Less Than High School,Educational Services,27861996,4174,2007,Male,Missouri,6675.13
+302,302,938,938,938,High School Graduate,Educational Services,116618165,14778,2007,Male,Missouri,7891.34
+303,303,939,939,939,Some College,Educational Services,166300298,17729,2007,Male,Missouri,9380.13
+304,304,940,940,940,Advanced Degree,Educational Services,365594933,27256,2007,Male,Missouri,13413.37
+305,305,941,941,941,Unavalble,Educational Services,14098914,4197,2007,Male,Missouri,3359.28
+306,306,942,942,942,All Education Categories,Educational Services,1236365980,162966,2007,Female,Missouri,7586.65
+307,307,943,943,943,Less Than High School,Educational Services,34034534,6737,2007,Female,Missouri,5051.88
+308,308,944,944,944,High School Graduate,Educational Services,228367308,37758,2007,Female,Missouri,6048.18
+309,309,945,945,945,Some College,Educational Services,351869097,48470,2007,Female,Missouri,7259.52
+310,310,946,946,946,Advanced Degree,Educational Services,585991191,60232,2007,Female,Missouri,9728.9
+311,311,947,947,947,Unavalble,Educational Services,36103850,9770,2007,Female,Missouri,3695.38
+312,312,948,948,948,All Education Categories,Health Care and Social Assistance,1039194227,70213,2007,Male,Missouri,14800.6
+313,313,949,949,949,Less Than High School,Health Care and Social Assistance,39705141,5738,2007,Male,Missouri,6919.68
+314,314,950,950,950,High School Graduate,Health Care and Social Assistance,147150665,16325,2007,Male,Missouri,9013.82
+315,315,951,951,951,Some College,Health Care and Social Assistance,246851596,19559,2007,Male,Missouri,12620.87
+316,316,952,952,952,Advanced Degree,Health Care and Social Assistance,578495582,21967,2007,Male,Missouri,26334.76
+317,317,953,953,953,Unavalble,Health Care and Social Assistance,26991244,6624,2007,Male,Missouri,4074.77
+318,318,954,954,954,All Education Categories,Health Care and Social Assistance,2145986345,286546,2007,Female,Missouri,7489.15
+319,319,955,955,955,Less Than High School,Health Care and Social Assistance,106321341,20560,2007,Female,Missouri,5171.27
+320,320,956,956,956,High School Graduate,Health Care and Social Assistance,458209592,73867,2007,Female,Missouri,6203.17
+321,321,957,957,957,Some College,Health Care and Social Assistance,783468347,101846,2007,Female,Missouri,7692.68
+322,322,958,958,958,Advanced Degree,Health Care and Social Assistance,673398620,60360,2007,Female,Missouri,11156.37
+323,323,959,959,959,Unavalble,Health Care and Social Assistance,124588445,29913,2007,Female,Missouri,4165.03
+324,324,972,972,972,All Education Categories,Accommodation and Food Services,402412476,99097,2007,Male,Missouri,4060.79
+325,325,973,973,973,Less Than High School,Accommodation and Food Services,53538099,12514,2007,Male,Missouri,4278.26
+326,326,974,974,974,High School Graduate,Accommodation and Food Services,108495298,21819,2007,Male,Missouri,4972.51
+327,327,975,975,975,Some College,Accommodation and Food Services,89114971,15836,2007,Male,Missouri,5627.37
+328,328,976,976,976,Advanced Degree,Accommodation and Food Services,49795645,6871,2007,Male,Missouri,7247.22
+329,329,977,977,977,Unavalble,Accommodation and Food Services,101468463,42056,2007,Male,Missouri,2412.7
+330,330,978,978,978,All Education Categories,Accommodation and Food Services,390619813,125057,2007,Female,Missouri,3123.53
+331,331,979,979,979,Less Than High School,Accommodation and Food Services,43527272,13180,2007,Female,Missouri,3302.52
+332,332,980,980,980,High School Graduate,Accommodation and Food Services,99763235,27660,2007,Female,Missouri,3606.77
+333,333,981,981,981,Some College,Accommodation and Food Services,86388920,21499,2007,Female,Missouri,4018.28
+334,334,982,982,982,Advanced Degree,Accommodation and Food Services,42596417,8705,2007,Female,Missouri,4893.33
+335,335,983,983,983,Unavalble,Accommodation and Food Services,118343969,54013,2007,Female,Missouri,2191.03
+336,336,1008,1008,1008,All Education Categories,00,15891090025,1287026,2008,Male,Missouri,12347.14
+337,337,1009,1009,1009,Less Than High School,00,1051141780,131958,2008,Male,Missouri,7965.73
+338,338,1010,1010,1010,High School Graduate,00,3807965387,377423,2008,Male,Missouri,10089.38
+339,339,1011,1011,1011,Some College,00,4250293404,336801,2008,Male,Missouri,12619.6
+340,340,1012,1012,1012,Advanced Degree,00,6034752337,264055,2008,Male,Missouri,22854.15
+341,341,1013,1013,1013,Unavalble,00,746937116,176789,2008,Male,Missouri,4225.02
+342,342,1014,1014,1014,All Education Categories,00,9999845651,1334430,2008,Female,Missouri,7493.72
+343,343,1015,1015,1015,Less Than High School,00,533382748,102001,2008,Female,Missouri,5229.19
+344,344,1016,1016,1016,High School Graduate,00,2312058980,360677,2008,Female,Missouri,6410.33
+345,345,1017,1017,1017,Some College,00,3128394936,396199,2008,Female,Missouri,7896.02
+346,346,1018,1018,1018,Advanced Degree,00,3364947681,278015,2008,Female,Missouri,12103.48
+347,347,1019,1019,1019,Unavalble,00,661061305,197539,2008,Female,Missouri,3346.49
+348,348,1068,1068,1068,All Education Categories,Manufacturing,2594008161,200039,2008,Male,Missouri,12967.51
+349,349,1069,1069,1069,Less Than High School,Manufacturing,222050723,24022,2008,Male,Missouri,9243.64
+350,350,1070,1070,1070,High School Graduate,Manufacturing,835920329,74026,2008,Male,Missouri,11292.25
+351,351,1071,1071,1071,Some College,Manufacturing,775912814,56607,2008,Male,Missouri,13707.01
+352,352,1072,1072,1072,Advanced Degree,Manufacturing,654692731,28845,2008,Male,Missouri,22696.92
+353,353,1073,1073,1073,Unavalble,Manufacturing,105431563,16539,2008,Male,Missouri,6374.72
+354,354,1074,1074,1074,All Education Categories,Manufacturing,786008866,87499,2008,Female,Missouri,8983.06
+355,355,1075,1075,1075,Less Than High School,Manufacturing,64257557,9604,2008,Female,Missouri,6690.71
+356,356,1076,1076,1076,High School Graduate,Manufacturing,260049098,32893,2008,Female,Missouri,7905.91
+357,357,1077,1077,1077,Some College,Manufacturing,249152569,26427,2008,Female,Missouri,9427.96
+358,358,1078,1078,1078,Advanced Degree,Manufacturing,179970458,12373,2008,Female,Missouri,14545.42
+359,359,1079,1079,1079,Unavalble,Manufacturing,32579185,6201,2008,Female,Missouri,5253.86
+360,360,1092,1092,1092,All Education Categories,Retail Trade,1131947314,150845,2008,Male,Missouri,7504.04
+361,361,1093,1093,1093,Less Than High School,Retail Trade,101744109,15604,2008,Male,Missouri,6520.39
+362,362,1094,1094,1094,High School Graduate,Retail Trade,359529382,44832,2008,Male,Missouri,8019.48
+363,363,1095,1095,1095,Some College,Retail Trade,324820241,34807,2008,Male,Missouri,9332.04
+364,364,1096,1096,1096,Advanced Degree,Retail Trade,224750619,17140,2008,Male,Missouri,13112.64
+365,365,1097,1097,1097,Unavalble,Retail Trade,121102963,38463,2008,Male,Missouri,3148.56
+366,366,1098,1098,1098,All Education Categories,Retail Trade,738338593,161248,2008,Female,Missouri,4578.9
+367,367,1099,1099,1099,Less Than High School,Retail Trade,63347122,14846,2008,Female,Missouri,4266.95
+368,368,1100,1100,1100,High School Graduate,Retail Trade,245284551,50062,2008,Female,Missouri,4899.62
+369,369,1101,1101,1101,Some College,Retail Trade,209293435,38058,2008,Female,Missouri,5499.33
+370,370,1102,1102,1102,Advanced Degree,Retail Trade,114676205,15646,2008,Female,Missouri,7329.43
+371,371,1103,1103,1103,Unavalble,Retail Trade,105737280,42637,2008,Female,Missouri,2479.94
+372,372,1128,1128,1128,All Education Categories,Finance and Insurance,1186866830,39167,2008,Male,Missouri,30302.72
+373,373,1129,1129,1129,Less Than High School,Finance and Insurance,22814219,1818,2008,Male,Missouri,12549.08
+374,374,1130,1130,1130,High School Graduate,Finance and Insurance,113681095,6723,2008,Male,Missouri,16909.28
+375,375,1131,1131,1131,Some College,Finance and Insurance,231776729,9913,2008,Male,Missouri,23381.09
+376,376,1132,1132,1132,Advanced Degree,Finance and Insurance,799504907,18024,2008,Male,Missouri,44357.8
+377,377,1133,1133,1133,Unavalble,Finance and Insurance,19089880,2689,2008,Male,Missouri,7099.25
+378,378,1134,1134,1134,All Education Categories,Finance and Insurance,882602468,76877,2008,Female,Missouri,11480.71
+379,379,1135,1135,1135,Less Than High School,Finance and Insurance,23681718,3198,2008,Female,Missouri,7405.17
+380,380,1136,1136,1136,High School Graduate,Finance and Insurance,162958458,18710,2008,Female,Missouri,8709.7
+381,381,1137,1137,1137,Some College,Finance and Insurance,256170003,24070,2008,Female,Missouri,10642.71
+382,382,1138,1138,1138,Advanced Degree,Finance and Insurance,399036363,23261,2008,Female,Missouri,17154.74
+383,383,1139,1139,1139,Unavalble,Finance and Insurance,40755926,7637,2008,Female,Missouri,5336.64
+384,384,1188,1188,1188,All Education Categories,Educational Services,733937937,69265,2008,Male,Missouri,10596.09
+385,385,1189,1189,1189,Less Than High School,Educational Services,32220914,4458,2008,Male,Missouri,7227.66
+386,386,1190,1190,1190,High School Graduate,Educational Services,128011624,15340,2008,Male,Missouri,8344.96
+387,387,1191,1191,1191,Some College,Educational Services,178939857,18204,2008,Male,Missouri,9829.7
+388,388,1192,1192,1192,Advanced Degree,Educational Services,380048790,27128,2008,Male,Missouri,14009.47
+389,389,1193,1193,1193,Unavalble,Educational Services,14716753,4135,2008,Male,Missouri,3559.07
+390,390,1194,1194,1194,All Education Categories,Educational Services,1315440711,166445,2008,Female,Missouri,7903.16
+391,391,1195,1195,1195,Less Than High School,Educational Services,39902285,7260,2008,Female,Missouri,5496.18
+392,392,1196,1196,1196,High School Graduate,Educational Services,247779611,38817,2008,Female,Missouri,6383.28
+393,393,1197,1197,1197,Some College,Educational Services,379189742,49955,2008,Female,Missouri,7590.63
+394,394,1198,1198,1198,Advanced Degree,Educational Services,610911816,60602,2008,Female,Missouri,10080.72
+395,395,1199,1199,1199,Unavalble,Educational Services,37657257,9810,2008,Female,Missouri,3838.66
+396,396,1200,1200,1200,All Education Categories,Health Care and Social Assistance,1085481473,72293,2008,Male,Missouri,15015.03
+397,397,1201,1201,1201,Less Than High School,Health Care and Social Assistance,43530648,6044,2008,Male,Missouri,7202.29
+398,398,1202,1202,1202,High School Graduate,Health Care and Social Assistance,157171035,16953,2008,Male,Missouri,9270.99
+399,399,1203,1203,1203,Some College,Health Care and Social Assistance,258670769,20182,2008,Male,Missouri,12816.9
+400,400,1204,1204,1204,Advanced Degree,Health Care and Social Assistance,597854135,22308,2008,Male,Missouri,26799.99
+401,401,1205,1205,1205,Unavalble,Health Care and Social Assistance,28254886,6807,2008,Male,Missouri,4150.86
+402,402,1206,1206,1206,All Education Categories,Health Care and Social Assistance,2283685584,295676,2008,Female,Missouri,7723.61
+403,403,1207,1207,1207,Less Than High School,Health Care and Social Assistance,117403800,21758,2008,Female,Missouri,5395.89
+404,404,1208,1208,1208,High School Graduate,Health Care and Social Assistance,492853965,76577,2008,Female,Missouri,6436.06
+405,405,1209,1209,1209,Some College,Health Care and Social Assistance,832199712,104648,2008,Female,Missouri,7952.37
+406,406,1210,1210,1210,Advanced Degree,Health Care and Social Assistance,710759911,62079,2008,Female,Missouri,11449.28
+407,407,1211,1211,1211,Unavalble,Health Care and Social Assistance,130468196,30614,2008,Female,Missouri,4261.72
+408,408,1224,1224,1224,All Education Categories,Accommodation and Food Services,419031496,101064,2008,Male,Missouri,4146.2
+409,409,1225,1225,1225,Less Than High School,Accommodation and Food Services,57524618,13004,2008,Male,Missouri,4423.61
+410,410,1226,1226,1226,High School Graduate,Accommodation and Food Services,115243356,22759,2008,Male,Missouri,5063.64
+411,411,1227,1227,1227,Some College,Accommodation and Food Services,94111173,16627,2008,Male,Missouri,5660.14
+412,412,1228,1228,1228,Advanced Degree,Accommodation and Food Services,51437261,7234,2008,Male,Missouri,7110.49
+413,413,1229,1229,1229,Unavalble,Accommodation and Food Services,100715088,41441,2008,Male,Missouri,2430.32
+414,414,1230,1230,1230,All Education Categories,Accommodation and Food Services,409134240,125922,2008,Female,Missouri,3249.11
+415,415,1231,1231,1231,Less Than High School,Accommodation and Food Services,46479357,13508,2008,Female,Missouri,3440.88
+416,416,1232,1232,1232,High School Graduate,Accommodation and Food Services,105361032,28135,2008,Female,Missouri,3744.84
+417,417,1233,1233,1233,Some College,Accommodation and Food Services,91949835,22249,2008,Female,Missouri,4132.76
+418,418,1234,1234,1234,Advanced Degree,Accommodation and Food Services,45250844,9104,2008,Female,Missouri,4970.44
+419,419,1235,1235,1235,Unavalble,Accommodation and Food Services,120093172,52925,2008,Female,Missouri,2269.12
+420,420,1260,1260,1260,All Education Categories,00,14893009503,1238347,2009,Male,Missouri,12026.52
+421,421,1261,1261,1261,Less Than High School,00,996651466,128583,2009,Male,Missouri,7751.04
+422,422,1262,1262,1262,High School Graduate,00,3592440130,364346,2009,Male,Missouri,9859.97
+423,423,1263,1263,1263,Some College,00,4031655307,327617,2009,Male,Missouri,12306.0
+424,424,1264,1264,1264,Advanced Degree,00,5612442555,257326,2009,Male,Missouri,21810.63
+425,425,1265,1265,1265,Unavalble,00,659820045,160475,2009,Male,Missouri,4111.67
+426,426,1266,1266,1266,All Education Categories,00,9817010120,1313264,2009,Female,Missouri,7475.28
+427,427,1267,1267,1267,Less Than High School,00,532931067,102074,2009,Female,Missouri,5221.03
+428,428,1268,1268,1268,High School Graduate,00,2274335544,355451,2009,Female,Missouri,6398.45
+429,429,1269,1269,1269,Some College,00,3106226847,393192,2009,Female,Missouri,7900.03
+430,430,1270,1270,1270,Advanced Degree,00,3298081029,276027,2009,Female,Missouri,11948.4
+431,431,1271,1271,1271,Unavalble,00,605435632,186520,2009,Female,Missouri,3245.96
+432,432,1320,1320,1320,All Education Categories,Manufacturing,2379971075,182861,2009,Male,Missouri,13015.19
+433,433,1321,1321,1321,Less Than High School,Manufacturing,196112258,22026,2009,Male,Missouri,8903.67
+434,434,1322,1322,1322,High School Graduate,Manufacturing,754899823,68065,2009,Male,Missouri,11090.87
+435,435,1323,1323,1323,Some College,Manufacturing,722548994,52575,2009,Male,Missouri,13743.2
+436,436,1324,1324,1324,Advanced Degree,Manufacturing,631537445,27144,2009,Male,Missouri,23266.19
+437,437,1325,1325,1325,Unavalble,Manufacturing,74872554,13051,2009,Male,Missouri,5736.92
+438,438,1326,1326,1326,All Education Categories,Manufacturing,731020601,79195,2009,Female,Missouri,9230.64
+439,439,1327,1327,1327,Less Than High School,Manufacturing,56536768,8672,2009,Female,Missouri,6519.46
+440,440,1328,1328,1328,High School Graduate,Manufacturing,233311967,29660,2009,Female,Missouri,7866.22
+441,441,1329,1329,1329,Some College,Manufacturing,235843275,24265,2009,Female,Missouri,9719.48
+442,442,1330,1330,1330,Advanced Degree,Manufacturing,181852175,11775,2009,Female,Missouri,15443.92
+443,443,1331,1331,1331,Unavalble,Manufacturing,23476416,4823,2009,Female,Missouri,4867.6
+444,444,1344,1344,1344,All Education Categories,Retail Trade,1052880314,143288,2009,Male,Missouri,7348.0
+445,445,1345,1345,1345,Less Than High School,Retail Trade,96216632,15153,2009,Male,Missouri,6349.68
+446,446,1346,1346,1346,High School Graduate,Retail Trade,335057220,42856,2009,Male,Missouri,7818.21
+447,447,1347,1347,1347,Some College,Retail Trade,302880322,33607,2009,Male,Missouri,9012.42
+448,448,1348,1348,1348,Advanced Degree,Retail Trade,212581795,16790,2009,Male,Missouri,12661.21
+449,449,1349,1349,1349,Unavalble,Retail Trade,106144344,34882,2009,Male,Missouri,3042.95
+450,450,1350,1350,1350,All Education Categories,Retail Trade,709295349,154949,2009,Female,Missouri,4577.61
+451,451,1351,1351,1351,Less Than High School,Retail Trade,61998285,14554,2009,Female,Missouri,4259.88
+452,452,1352,1352,1352,High School Graduate,Retail Trade,235809529,48411,2009,Female,Missouri,4870.99
+453,453,1353,1353,1353,Some College,Retail Trade,203062614,37346,2009,Female,Missouri,5437.33
+454,454,1354,1354,1354,Advanced Degree,Retail Trade,113109891,15650,2009,Female,Missouri,7227.47
+455,455,1355,1355,1355,Unavalble,Retail Trade,95315030,38988,2009,Female,Missouri,2444.73
+456,456,1380,1380,1380,All Education Categories,Finance and Insurance,1004441590,38351,2009,Male,Missouri,26190.75
+457,457,1381,1381,1381,Less Than High School,Finance and Insurance,22483480,1869,2009,Male,Missouri,12029.68
+458,458,1382,1382,1382,High School Graduate,Finance and Insurance,104293325,6724,2009,Male,Missouri,15510.61
+459,459,1383,1383,1383,Some College,Finance and Insurance,198660633,9722,2009,Male,Missouri,20434.13
+460,460,1384,1384,1384,Advanced Degree,Finance and Insurance,661530021,17483,2009,Male,Missouri,37838.47
+461,461,1385,1385,1385,Unavalble,Finance and Insurance,17474132,2552,2009,Male,Missouri,6847.23
+462,462,1386,1386,1386,All Education Categories,Finance and Insurance,830519947,74374,2009,Female,Missouri,11166.8
+463,463,1387,1387,1387,Less Than High School,Finance and Insurance,23873281,3230,2009,Female,Missouri,7391.11
+464,464,1388,1388,1388,High School Graduate,Finance and Insurance,156500631,18239,2009,Female,Missouri,8580.55
+465,465,1389,1389,1389,Some College,Finance and Insurance,244382193,23450,2009,Female,Missouri,10421.42
+466,466,1390,1390,1390,Advanced Degree,Finance and Insurance,370713727,22602,2009,Female,Missouri,16401.81
+467,467,1391,1391,1391,Unavalble,Finance and Insurance,35050115,6852,2009,Female,Missouri,5115.31
+468,468,1440,1440,1440,All Education Categories,Educational Services,753796349,71025,2009,Male,Missouri,10613.11
+469,469,1441,1441,1441,Less Than High School,Educational Services,34997766,4864,2009,Male,Missouri,7195.26
+470,470,1442,1442,1442,High School Graduate,Educational Services,134531447,16124,2009,Male,Missouri,8343.55
+471,471,1443,1443,1443,Some College,Educational Services,185600930,18859,2009,Male,Missouri,9841.5
+472,472,1444,1444,1444,Advanced Degree,Educational Services,383433925,26911,2009,Male,Missouri,14248.22
+473,473,1445,1445,1445,Unavalble,Educational Services,15232281,4268,2009,Male,Missouri,3568.95
+474,474,1446,1446,1446,All Education Categories,Educational Services,1353115302,169546,2009,Female,Missouri,7980.82
+475,475,1447,1447,1447,Less Than High School,Educational Services,44226267,7905,2009,Female,Missouri,5594.72
+476,476,1448,1448,1448,High School Graduate,Educational Services,259844253,39933,2009,Female,Missouri,6507.01
+477,477,1449,1449,1449,Some College,Educational Services,394638776,51146,2009,Female,Missouri,7715.93
+478,478,1450,1450,1450,Advanced Degree,Educational Services,616343399,60696,2009,Female,Missouri,10154.6
+479,479,1451,1451,1451,Unavalble,Educational Services,38062607,9866,2009,Female,Missouri,3857.96
+480,480,1452,1452,1452,All Education Categories,Health Care and Social Assistance,1128117206,74481,2009,Male,Missouri,15146.38
+481,481,1453,1453,1453,Less Than High School,Health Care and Social Assistance,47265858,6498,2009,Male,Missouri,7273.91
+482,482,1454,1454,1454,High School Graduate,Health Care and Social Assistance,166313045,17763,2009,Male,Missouri,9362.89
+483,483,1455,1455,1455,Some College,Health Care and Social Assistance,269482029,20761,2009,Male,Missouri,12980.2
+484,484,1456,1456,1456,Advanced Degree,Health Care and Social Assistance,617017010,22525,2009,Male,Missouri,27392.54
+485,485,1457,1457,1457,Unavalble,Health Care and Social Assistance,28039264,6934,2009,Male,Missouri,4043.74
+486,486,1458,1458,1458,All Education Categories,Health Care and Social Assistance,2360400378,302467,2009,Female,Missouri,7803.83
+487,487,1459,1459,1459,Less Than High School,Health Care and Social Assistance,125870495,22928,2009,Female,Missouri,5489.82
+488,488,1460,1460,1460,High School Graduate,Health Care and Social Assistance,513537275,78668,2009,Female,Missouri,6527.91
+489,489,1461,1461,1461,Some College,Health Care and Social Assistance,858638039,106679,2009,Female,Missouri,8048.8
+490,490,1462,1462,1462,Advanced Degree,Health Care and Social Assistance,732215781,63106,2009,Female,Missouri,11602.95
+491,491,1463,1463,1463,Unavalble,Health Care and Social Assistance,130138789,31086,2009,Female,Missouri,4186.41
+492,492,1476,1476,1476,All Education Categories,Accommodation and Food Services,411894942,101016,2009,Male,Missouri,4077.52
+493,493,1477,1477,1477,Less Than High School,Accommodation and Food Services,57347134,13421,2009,Male,Missouri,4272.94
+494,494,1478,1478,1478,High School Graduate,Accommodation and Food Services,113868861,23204,2009,Male,Missouri,4907.29
+495,495,1479,1479,1479,Some College,Accommodation and Food Services,94697328,17118,2009,Male,Missouri,5532.03
+496,496,1480,1480,1480,Advanced Degree,Accommodation and Food Services,52438692,7492,2009,Male,Missouri,6999.29
+497,497,1481,1481,1481,Unavalble,Accommodation and Food Services,93542927,39781,2009,Male,Missouri,2351.45
+498,498,1482,1482,1482,All Education Categories,Accommodation and Food Services,396268310,124599,2009,Female,Missouri,3180.35
+499,499,1483,1483,1483,Less Than High School,Accommodation and Food Services,45291446,13502,2009,Female,Missouri,3354.42
+500,500,1484,1484,1484,High School Graduate,Accommodation and Food Services,102586635,28205,2009,Female,Missouri,3637.18
+501,501,1485,1485,1485,Some College,Accommodation and Food Services,89689209,22464,2009,Female,Missouri,3992.58
+502,502,1486,1486,1486,Advanced Degree,Accommodation and Food Services,44838754,9415,2009,Female,Missouri,4762.48
+503,503,1487,1487,1487,Unavalble,Accommodation and Food Services,113862267,51013,2009,Female,Missouri,2232.02
+504,504,1512,1512,1512,All Education Categories,00,14110037140,1180976,2010,Male,Missouri,11947.78
+505,505,1513,1513,1513,Less Than High School,00,941380207,123039,2010,Male,Missouri,7651.07
+506,506,1514,1514,1514,High School Graduate,00,3358030371,347551,2010,Male,Missouri,9661.98
+507,507,1515,1515,1515,Some College,00,3815671105,314778,2010,Male,Missouri,12121.78
+508,508,1516,1516,1516,Advanced Degree,00,5430921913,249630,2010,Male,Missouri,21755.89
+509,509,1517,1517,1517,Unavalble,00,564033545,145977,2010,Male,Missouri,3863.85
+510,510,1518,1518,1518,All Education Categories,00,9480993327,1271761,2010,Female,Missouri,7455.01
+511,511,1519,1519,1519,Less Than High School,00,526657618,100407,2010,Female,Missouri,5245.23
+512,512,1520,1520,1520,High School Graduate,00,2196366893,345162,2010,Female,Missouri,6363.29
+513,513,1521,1521,1521,Some College,00,2996154415,383440,2010,Female,Missouri,7813.88
+514,514,1522,1522,1522,Advanced Degree,00,3223484590,270527,2010,Female,Missouri,11915.57
+515,515,1523,1523,1523,Unavalble,00,538329810,172225,2010,Female,Missouri,3125.74
+516,516,1572,1572,1572,All Education Categories,Manufacturing,2004198257,159886,2010,Male,Missouri,12535.17
+517,517,1573,1573,1573,Less Than High School,Manufacturing,172281514,19289,2010,Male,Missouri,8931.59
+518,518,1574,1574,1574,High School Graduate,Manufacturing,656074647,60212,2010,Male,Missouri,10896.08
+519,519,1575,1575,1575,Some College,Manufacturing,607596909,46522,2010,Male,Missouri,13060.42
+520,520,1576,1576,1576,Advanced Degree,Manufacturing,506153051,23912,2010,Male,Missouri,21167.32
+521,521,1577,1577,1577,Unavalble,Manufacturing,62092137,9951,2010,Male,Missouri,6239.79
+522,522,1578,1578,1578,All Education Categories,Manufacturing,620374443,68332,2010,Female,Missouri,9078.83
+523,523,1579,1579,1579,Less Than High School,Manufacturing,50265233,7573,2010,Female,Missouri,6637.43
+524,524,1580,1580,1580,High School Graduate,Manufacturing,202401338,25618,2010,Female,Missouri,7900.75
+525,525,1581,1581,1581,Some College,Manufacturing,199245113,21152,2010,Female,Missouri,9419.68
+526,526,1582,1582,1582,Advanced Degree,Manufacturing,150011484,10401,2010,Female,Missouri,14422.79
+527,527,1583,1583,1583,Unavalble,Manufacturing,18451276,3588,2010,Female,Missouri,5142.5
+528,528,1596,1596,1596,All Education Categories,Retail Trade,1022995675,139957,2010,Male,Missouri,7309.36
+529,529,1597,1597,1597,Less Than High School,Retail Trade,93703491,14930,2010,Male,Missouri,6276.19
+530,530,1598,1598,1598,High School Graduate,Retail Trade,324070781,41948,2010,Male,Missouri,7725.54
+531,531,1599,1599,1599,Some College,Retail Trade,296815870,33138,2010,Male,Missouri,8956.96
+532,532,1600,1600,1600,Advanced Degree,Retail Trade,210900968,16654,2010,Male,Missouri,12663.68
+533,533,1601,1601,1601,Unavalble,Retail Trade,97504565,33286,2010,Male,Missouri,2929.3
+534,534,1602,1602,1602,All Education Categories,Retail Trade,681651153,150519,2010,Female,Missouri,4528.67
+535,535,1603,1603,1603,Less Than High School,Retail Trade,60368733,14173,2010,Female,Missouri,4259.42
+536,536,1604,1604,1604,High School Graduate,Retail Trade,226738361,46941,2010,Female,Missouri,4830.28
+537,537,1605,1605,1605,Some College,Retail Trade,196860777,36763,2010,Female,Missouri,5354.86
+538,538,1606,1606,1606,Advanced Degree,Retail Trade,111810991,15697,2010,Female,Missouri,7123.08
+539,539,1607,1607,1607,Unavalble,Retail Trade,85872291,36946,2010,Female,Missouri,2324.26
+540,540,1632,1632,1632,All Education Categories,Finance and Insurance,968547452,37766,2010,Male,Missouri,25646.02
+541,541,1633,1633,1633,Less Than High School,Finance and Insurance,24092140,1982,2010,Male,Missouri,12155.47
+542,542,1634,1634,1634,High School Graduate,Finance and Insurance,103838664,6834,2010,Male,Missouri,15194.42
+543,543,1635,1635,1635,Some College,Finance and Insurance,195087261,9657,2010,Male,Missouri,20201.64
+544,544,1636,1636,1636,Advanced Degree,Finance and Insurance,630206724,16864,2010,Male,Missouri,37369.94
+545,545,1637,1637,1637,Unavalble,Finance and Insurance,15322663,2430,2010,Male,Missouri,6305.62
+546,546,1638,1638,1638,All Education Categories,Finance and Insurance,778963843,71006,2010,Female,Missouri,10970.39
+547,547,1639,1639,1639,Less Than High School,Finance and Insurance,24159699,3265,2010,Female,Missouri,7399.6
+548,548,1640,1640,1640,High School Graduate,Finance and Insurance,151145158,17764,2010,Female,Missouri,8508.51
+549,549,1641,1641,1641,Some College,Finance and Insurance,231520039,22691,2010,Female,Missouri,10203.17
+550,550,1642,1642,1642,Advanced Degree,Finance and Insurance,344283314,21718,2010,Female,Missouri,15852.44
+551,551,1643,1643,1643,Unavalble,Finance and Insurance,27855634,5568,2010,Female,Missouri,5002.81
+552,552,1692,1692,1692,All Education Categories,Educational Services,674846735,67334,2010,Male,Missouri,10022.38
+553,553,1693,1693,1693,Less Than High School,Educational Services,34324756,4854,2010,Male,Missouri,7071.44
+554,554,1694,1694,1694,High School Graduate,Educational Services,129833412,15946,2010,Male,Missouri,8142.07
+555,555,1695,1695,1695,Some College,Educational Services,172677447,18212,2010,Male,Missouri,9481.52
+556,556,1696,1696,1696,Advanced Degree,Educational Services,324858265,24595,2010,Male,Missouri,13208.31
+557,557,1697,1697,1697,Unavalble,Educational Services,13152856,3727,2010,Male,Missouri,3529.07
+558,558,1698,1698,1698,All Education Categories,Educational Services,1293955483,163798,2010,Female,Missouri,7899.7
+559,559,1699,1699,1699,Less Than High School,Educational Services,45401203,8053,2010,Female,Missouri,5637.8
+560,560,1700,1700,1700,High School Graduate,Educational Services,257073522,39413,2010,Female,Missouri,6522.56
+561,561,1701,1701,1701,Some College,Educational Services,383743384,50071,2010,Female,Missouri,7663.98
+562,562,1702,1702,1702,Advanced Degree,Educational Services,574836009,57592,2010,Female,Missouri,9981.18
+563,563,1703,1703,1703,Unavalble,Educational Services,32901366,8668,2010,Female,Missouri,3795.73
+564,564,1704,1704,1704,All Education Categories,Health Care and Social Assistance,1201372574,78867,2010,Male,Missouri,15232.89
+565,565,1705,1705,1705,Less Than High School,Health Care and Social Assistance,51410929,7017,2010,Male,Missouri,7326.63
+566,566,1706,1706,1706,High School Graduate,Health Care and Social Assistance,177714097,18882,2010,Male,Missouri,9411.83
+567,567,1707,1707,1707,Some College,Health Care and Social Assistance,285959527,21631,2010,Male,Missouri,13219.89
+568,568,1708,1708,1708,Advanced Degree,Health Care and Social Assistance,658206819,23944,2010,Male,Missouri,27489.43
+569,569,1709,1709,1709,Unavalble,Health Care and Social Assistance,28081202,7393,2010,Male,Missouri,3798.35
+570,570,1710,1710,1710,All Education Categories,Health Care and Social Assistance,2339329009,303547,2010,Female,Missouri,7706.65
+571,571,1711,1711,1711,Less Than High School,Health Care and Social Assistance,129313677,23574,2010,Female,Missouri,5485.44
+572,572,1712,1712,1712,High School Graduate,Health Care and Social Assistance,510789777,79304,2010,Female,Missouri,6440.91
+573,573,1713,1713,1713,Some College,Health Care and Social Assistance,839474498,106295,2010,Female,Missouri,7897.59
+574,574,1714,1714,1714,Advanced Degree,Health Care and Social Assistance,736657856,64186,2010,Female,Missouri,11476.92
+575,575,1715,1715,1715,Unavalble,Health Care and Social Assistance,123093201,30188,2010,Female,Missouri,4077.55
+576,576,1728,1728,1728,All Education Categories,Accommodation and Food Services,409467687,99378,2010,Male,Missouri,4120.31
+577,577,1729,1729,1729,Less Than High School,Accommodation and Food Services,57218584,13373,2010,Male,Missouri,4278.66
+578,578,1730,1730,1730,High School Graduate,Accommodation and Food Services,113069110,23084,2010,Male,Missouri,4898.16
+579,579,1731,1731,1731,Some College,Accommodation and Food Services,94968995,17210,2010,Male,Missouri,5518.24
+580,580,1732,1732,1732,Advanced Degree,Accommodation and Food Services,54072631,7856,2010,Male,Missouri,6882.97
+581,581,1733,1733,1733,Unavalble,Accommodation and Food Services,90138367,37855,2010,Male,Missouri,2381.15
+582,582,1734,1734,1734,All Education Categories,Accommodation and Food Services,386829492,120242,2010,Female,Missouri,3217.09
+583,583,1735,1735,1735,Less Than High School,Accommodation and Food Services,44715359,13110,2010,Female,Missouri,3410.78
+584,584,1736,1736,1736,High School Graduate,Accommodation and Food Services,100299061,27315,2010,Female,Missouri,3671.94
+585,585,1737,1737,1737,Some College,Accommodation and Food Services,88587906,22092,2010,Female,Missouri,4009.95
+586,586,1738,1738,1738,Advanced Degree,Accommodation and Food Services,45312901,9557,2010,Female,Missouri,4741.33
+587,587,1739,1739,1739,Unavalble,Accommodation and Food Services,107914264,48170,2010,Female,Missouri,2240.28
+588,588,1764,1764,1764,All Education Categories,00,14601456290,1191461,2011,Male,Missouri,12255.09
+589,589,1765,1765,1765,Less Than High School,00,1004137782,127216,2011,Male,Missouri,7893.17
+590,590,1766,1766,1766,High School Graduate,00,3500206250,352187,2011,Male,Missouri,9938.49
+591,591,1767,1767,1767,Some College,00,3942312887,317663,2011,Male,Missouri,12410.36
+592,592,1768,1768,1768,Advanced Degree,00,5589563554,247170,2011,Male,Missouri,22614.25
+593,593,1769,1769,1769,Unavalble,00,565235817,147224,2011,Male,Missouri,3839.29
+594,594,1770,1770,1770,All Education Categories,00,9701680171,1271644,2011,Female,Missouri,7629.24
+595,595,1771,1771,1771,Less Than High School,00,563386047,103278,2011,Female,Missouri,5455.04
+596,596,1772,1772,1772,High School Graduate,00,2267533809,345597,2011,Female,Missouri,6561.21
+597,597,1773,1773,1773,Some College,00,3069878318,383227,2011,Female,Missouri,8010.6
+598,598,1774,1774,1774,Advanced Degree,00,3267556014,268321,2011,Female,Missouri,12177.79
+599,599,1775,1775,1775,Unavalble,00,533325985,171221,2011,Female,Missouri,3114.84
+600,600,1824,1824,1824,All Education Categories,Manufacturing,2159818467,165004,2011,Male,Missouri,13089.49
+601,601,1825,1825,1825,Less Than High School,Manufacturing,190098801,20123,2011,Male,Missouri,9446.84
+602,602,1826,1826,1826,High School Graduate,Manufacturing,705431425,61593,2011,Male,Missouri,11453.11
+603,603,1827,1827,1827,Some College,Manufacturing,649473324,47581,2011,Male,Missouri,13649.85
+604,604,1828,1828,1828,Advanced Degree,Manufacturing,543175721,24533,2011,Male,Missouri,22140.62
+605,605,1829,1829,1829,Unavalble,Manufacturing,71639196,11175,2011,Male,Missouri,6410.67
+606,606,1830,1830,1830,All Education Categories,Manufacturing,647186054,68672,2011,Female,Missouri,9424.31
+607,607,1831,1831,1831,Less Than High School,Manufacturing,53634810,7675,2011,Female,Missouri,6988.25
+608,608,1832,1832,1832,High School Graduate,Manufacturing,210037961,25393,2011,Female,Missouri,8271.49
+609,609,1833,1833,1833,Some College,Manufacturing,208079169,21302,2011,Female,Missouri,9768.06
+610,610,1834,1834,1834,Advanced Degree,Manufacturing,156075121,10575,2011,Female,Missouri,14758.88
+611,611,1835,1835,1835,Unavalble,Manufacturing,19358993,3726,2011,Female,Missouri,5195.65
+612,612,1848,1848,1848,All Education Categories,Retail Trade,1070901265,142829,2011,Male,Missouri,7497.79
+613,613,1849,1849,1849,Less Than High School,Retail Trade,100814785,15394,2011,Male,Missouri,6548.97
+614,614,1850,1850,1850,High School Graduate,Retail Trade,339908751,42594,2011,Male,Missouri,7980.2
+615,615,1851,1851,1851,Some College,Retail Trade,309940670,33916,2011,Male,Missouri,9138.48
+616,616,1852,1852,1852,Advanced Degree,Retail Trade,218225648,17158,2011,Male,Missouri,12718.59
+617,617,1853,1853,1853,Unavalble,Retail Trade,102011412,33767,2011,Male,Missouri,3021.04
+618,618,1854,1854,1854,All Education Categories,Retail Trade,714115061,151327,2011,Female,Missouri,4719.02
+619,619,1855,1855,1855,Less Than High School,Retail Trade,63933896,14233,2011,Female,Missouri,4491.95
+620,620,1856,1856,1856,High School Graduate,Retail Trade,236255340,46350,2011,Female,Missouri,5097.2
+621,621,1857,1857,1857,Some College,Retail Trade,207171356,37009,2011,Female,Missouri,5597.86
+622,622,1858,1858,1858,Advanced Degree,Retail Trade,117833272,16194,2011,Female,Missouri,7276.35
+623,623,1859,1859,1859,Unavalble,Retail Trade,88921196,37541,2011,Female,Missouri,2368.64
+624,624,1884,1884,1884,All Education Categories,Finance and Insurance,1134949336,37814,2011,Male,Missouri,30014.0
+625,625,1885,1885,1885,Less Than High School,Finance and Insurance,28351262,2165,2011,Male,Missouri,13095.27
+626,626,1886,1886,1886,High School Graduate,Finance and Insurance,120812182,7045,2011,Male,Missouri,17148.64
+627,627,1887,1887,1887,Some College,Finance and Insurance,227025096,9769,2011,Male,Missouri,23239.34
+628,628,1888,1888,1888,Advanced Degree,Finance and Insurance,743752628,16622,2011,Male,Missouri,44745.07
+629,629,1889,1889,1889,Unavalble,Finance and Insurance,15008168,2213,2011,Male,Missouri,6781.82
+630,630,1890,1890,1890,All Education Categories,Finance and Insurance,842169848,68807,2011,Female,Missouri,12239.6
+631,631,1891,1891,1891,Less Than High School,Finance and Insurance,26609551,3340,2011,Female,Missouri,7966.93
+632,632,1892,1892,1892,High School Graduate,Finance and Insurance,159400342,17356,2011,Female,Missouri,9184.16
+633,633,1893,1893,1893,Some College,Finance and Insurance,246974540,22067,2011,Female,Missouri,11192.03
+634,634,1894,1894,1894,Advanced Degree,Finance and Insurance,383322994,21082,2011,Female,Missouri,18182.48
+635,635,1895,1895,1895,Unavalble,Finance and Insurance,25862421,4961,2011,Female,Missouri,5213.15
+636,636,1944,1944,1944,All Education Categories,Educational Services,678096689,67500,2011,Male,Missouri,10045.88
+637,637,1945,1945,1945,Less Than High School,Educational Services,36380096,5057,2011,Male,Missouri,7194.01
+638,638,1946,1946,1946,High School Graduate,Educational Services,132630887,16250,2011,Male,Missouri,8161.9
+639,639,1947,1947,1947,Some College,Educational Services,175065323,18393,2011,Male,Missouri,9518.04
+640,640,1948,1948,1948,Advanced Degree,Educational Services,322083553,24305,2011,Male,Missouri,13251.74
+641,641,1949,1949,1949,Unavalble,Educational Services,11936829,3495,2011,Male,Missouri,3415.4
+642,642,1950,1950,1950,All Education Categories,Educational Services,1285842918,163392,2011,Female,Missouri,7869.68
+643,643,1951,1951,1951,Less Than High School,Educational Services,48471005,8399,2011,Female,Missouri,5771.04
+644,644,1952,1952,1952,High School Graduate,Educational Services,258633236,39473,2011,Female,Missouri,6552.16
+645,645,1953,1953,1953,Some College,Educational Services,383523505,50072,2011,Female,Missouri,7659.44
+646,646,1954,1954,1954,Advanced Degree,Educational Services,565505005,56992,2011,Female,Missouri,9922.53
+647,647,1955,1955,1955,Unavalble,Educational Services,29710166,8455,2011,Female,Missouri,3513.92
+648,648,1956,1956,1956,All Education Categories,Health Care and Social Assistance,1262372963,80912,2011,Male,Missouri,15601.8
+649,649,1957,1957,1957,Less Than High School,Health Care and Social Assistance,58418415,7509,2011,Male,Missouri,7779.79
+650,650,1958,1958,1958,High School Graduate,Health Care and Social Assistance,190407811,19642,2011,Male,Missouri,9693.91
+651,651,1959,1959,1959,Some College,Health Care and Social Assistance,299547382,22124,2011,Male,Missouri,13539.48
+652,652,1960,1960,1960,Advanced Degree,Health Care and Social Assistance,684670038,23980,2011,Male,Missouri,28551.71
+653,653,1961,1961,1961,Unavalble,Health Care and Social Assistance,29329318,7657,2011,Male,Missouri,3830.39
+654,654,1962,1962,1962,All Education Categories,Health Care and Social Assistance,2454905047,308319,2011,Female,Missouri,7962.22
+655,655,1963,1963,1963,Less Than High School,Health Care and Social Assistance,141845856,24800,2011,Female,Missouri,5719.59
+656,656,1964,1964,1964,High School Graduate,Health Care and Social Assistance,542890667,81330,2011,Female,Missouri,6675.16
+657,657,1965,1965,1965,Some College,Health Care and Social Assistance,877610129,107426,2011,Female,Missouri,8169.44
+658,658,1966,1966,1966,Advanced Degree,Health Care and Social Assistance,770153016,64734,2011,Female,Missouri,11897.19
+659,659,1967,1967,1967,Unavalble,Health Care and Social Assistance,122405378,30029,2011,Female,Missouri,4076.24
+660,660,1980,1980,1980,All Education Categories,Accommodation and Food Services,420209741,100431,2011,Male,Missouri,4184.06
+661,661,1981,1981,1981,Less Than High School,Accommodation and Food Services,59454831,13663,2011,Male,Missouri,4351.52
+662,662,1982,1982,1982,High School Graduate,Accommodation and Food Services,116980639,23498,2011,Male,Missouri,4978.32
+663,663,1983,1983,1983,Some College,Accommodation and Food Services,97427158,17671,2011,Male,Missouri,5513.39
+664,664,1984,1984,1984,Advanced Degree,Accommodation and Food Services,57039783,8228,2011,Male,Missouri,6932.4
+665,665,1985,1985,1985,Unavalble,Accommodation and Food Services,89307329,37371,2011,Male,Missouri,2389.75
+666,666,1986,1986,1986,All Education Categories,Accommodation and Food Services,396112431,121096,2011,Female,Missouri,3271.06
+667,667,1987,1987,1987,Less Than High School,Accommodation and Food Services,46064813,13232,2011,Female,Missouri,3481.32
+668,668,1988,1988,1988,High School Graduate,Accommodation and Food Services,101484424,27179,2011,Female,Missouri,3733.93
+669,669,1989,1989,1989,Some College,Accommodation and Food Services,91575200,22430,2011,Female,Missouri,4082.71
+670,670,1990,1990,1990,Advanced Degree,Accommodation and Food Services,47669597,9935,2011,Female,Missouri,4798.15
+671,671,1991,1991,1991,Unavalble,Accommodation and Food Services,109318398,48320,2011,Female,Missouri,2262.38
+672,672,2016,2016,2016,All Education Categories,00,15850290987,1209071,2012,Male,Missouri,13109.48
+673,673,2017,2017,2017,Less Than High School,00,1133603689,131739,2012,Male,Missouri,8604.92
+674,674,2018,2018,2018,High School Graduate,00,3825386302,358190,2012,Male,Missouri,10679.77
+675,675,2019,2019,2019,Some College,00,4273185015,321704,2012,Male,Missouri,13282.97
+676,676,2020,2020,2020,Advanced Degree,00,5992271329,247574,2012,Male,Missouri,24203.96
+677,677,2021,2021,2021,Unavalble,00,625844652,149866,2012,Male,Missouri,4176.03
+678,678,2022,2022,2022,All Education Categories,00,10419655452,1279454,2012,Female,Missouri,8143.83
+679,679,2023,2023,2023,Less Than High School,00,634409926,106460,2012,Female,Missouri,5959.14
+680,680,2024,2024,2024,High School Graduate,00,2446498125,346826,2012,Female,Missouri,7053.96
+681,681,2025,2025,2025,Some College,00,3296286427,384750,2012,Female,Missouri,8567.35
+682,682,2026,2026,2026,Advanced Degree,00,3459722967,268503,2012,Female,Missouri,12885.23
+683,683,2027,2027,2027,Unavalble,00,582738007,172914,2012,Female,Missouri,3370.1
+684,684,2076,2076,2076,All Education Categories,Manufacturing,2270669894,164022,2012,Male,Missouri,13843.69
+685,685,2077,2077,2077,Less Than High School,Manufacturing,206216137,20516,2012,Male,Missouri,10051.48
+686,686,2078,2078,2078,High School Graduate,Manufacturing,736648223,61151,2012,Male,Missouri,12046.38
+687,687,2079,2079,2079,Some College,Manufacturing,677901676,47014,2012,Male,Missouri,14419.14
+688,688,2080,2080,2080,Advanced Degree,Manufacturing,569232124,23689,2012,Male,Missouri,24029.39
+689,689,2081,2081,2081,Unavalble,Manufacturing,80671735,11651,2012,Male,Missouri,6924.02
+690,690,2082,2082,2082,All Education Categories,Manufacturing,663426960,66652,2012,Female,Missouri,9953.59
+691,691,2083,2083,2083,Less Than High School,Manufacturing,57314081,7631,2012,Female,Missouri,7510.69
+692,692,2084,2084,2084,High School Graduate,Manufacturing,214423653,24513,2012,Female,Missouri,8747.34
+693,693,2085,2085,2085,Some College,Manufacturing,212527735,20714,2012,Female,Missouri,10260.1
+694,694,2086,2086,2086,Advanced Degree,Manufacturing,159363636,10276,2012,Female,Missouri,15508.33
+695,695,2087,2087,2087,Unavalble,Manufacturing,19797855,3516,2012,Female,Missouri,5630.79
+696,696,2100,2100,2100,All Education Categories,Retail Trade,1169494403,144476,2012,Male,Missouri,8094.73
+697,697,2101,2101,2101,Less Than High School,Retail Trade,111125048,15674,2012,Male,Missouri,7089.77
+698,698,2102,2102,2102,High School Graduate,Retail Trade,365028577,42789,2012,Male,Missouri,8530.9
+699,699,2103,2103,2103,Some College,Retail Trade,338483059,34236,2012,Male,Missouri,9886.76
+700,700,2104,2104,2104,Advanced Degree,Retail Trade,245147424,17595,2012,Male,Missouri,13932.79
+701,701,2105,2105,2105,Unavalble,Retail Trade,109710295,34183,2012,Male,Missouri,3209.5
+702,702,2106,2106,2106,All Education Categories,Retail Trade,774128148,152468,2012,Female,Missouri,5077.32
+703,703,2107,2107,2107,Less Than High School,Retail Trade,69982310,14370,2012,Female,Missouri,4870.03
+704,704,2108,2108,2108,High School Graduate,Retail Trade,250440363,45813,2012,Female,Missouri,5466.58
+705,705,2109,2109,2109,Some College,Retail Trade,223088724,37184,2012,Female,Missouri,5999.59
+706,706,2110,2110,2110,Advanced Degree,Retail Trade,133974525,16771,2012,Female,Missouri,7988.46
+707,707,2111,2111,2111,Unavalble,Retail Trade,96642227,38329,2012,Female,Missouri,2521.39
+708,708,2136,2136,2136,All Education Categories,Finance and Insurance,1311277874,41505,2012,Male,Missouri,31593.25
+709,709,2137,2137,2137,Less Than High School,Finance and Insurance,36231539,2534,2012,Male,Missouri,14298.16
+710,710,2138,2138,2138,High School Graduate,Finance and Insurance,148955936,8003,2012,Male,Missouri,18612.51
+711,711,2139,2139,2139,Some College,Finance and Insurance,262249093,10748,2012,Male,Missouri,24399.8
+712,712,2140,2140,2140,Advanced Degree,Finance and Insurance,846307469,17846,2012,Male,Missouri,47422.81
+713,713,2141,2141,2141,Unavalble,Finance and Insurance,17533837,2374,2012,Male,Missouri,7385.78
+714,714,2142,2142,2142,All Education Categories,Finance and Insurance,949366585,72245,2012,Female,Missouri,13140.93
+715,715,2143,2143,2143,Less Than High School,Finance and Insurance,32736821,3740,2012,Female,Missouri,8753.16
+716,716,2144,2144,2144,High School Graduate,Finance and Insurance,181743404,18298,2012,Female,Missouri,9932.42
+717,717,2145,2145,2145,Some College,Finance and Insurance,280050637,23156,2012,Female,Missouri,12094.09
+718,718,2146,2146,2146,Advanced Degree,Finance and Insurance,426243168,21977,2012,Female,Missouri,19394.97
+719,719,2147,2147,2147,Unavalble,Finance and Insurance,28592554,5073,2012,Female,Missouri,5636.22
+720,720,2196,2196,2196,All Education Categories,Educational Services,717270479,68692,2012,Male,Missouri,10441.83
+721,721,2197,2197,2197,Less Than High School,Educational Services,40930422,5345,2012,Male,Missouri,7657.7
+722,722,2198,2198,2198,High School Graduate,Educational Services,142586024,16711,2012,Male,Missouri,8532.47
+723,723,2199,2199,2199,Some College,Educational Services,186135550,18782,2012,Male,Missouri,9910.32
+724,724,2200,2200,2200,Advanced Degree,Educational Services,334366430,24217,2012,Male,Missouri,13807.1
+725,725,2201,2201,2201,Unavalble,Educational Services,13252053,3637,2012,Male,Missouri,3643.68
+726,726,2202,2202,2202,All Education Categories,Educational Services,1335913908,163910,2012,Female,Missouri,8150.29
+727,727,2203,2203,2203,Less Than High School,Educational Services,55503718,8907,2012,Female,Missouri,6231.47
+728,728,2204,2204,2204,High School Graduate,Educational Services,274844717,39887,2012,Female,Missouri,6890.58
+729,729,2205,2205,2205,Some College,Educational Services,401507762,50412,2012,Female,Missouri,7964.53
+730,730,2206,2206,2206,Advanced Degree,Educational Services,571591312,56211,2012,Female,Missouri,10168.67
+731,731,2207,2207,2207,Unavalble,Educational Services,32466399,8493,2012,Female,Missouri,3822.72
+732,732,2208,2208,2208,All Education Categories,Health Care and Social Assistance,1375575699,82104,2012,Male,Missouri,16754.06
+733,733,2209,2209,2209,Less Than High School,Health Care and Social Assistance,67589021,7816,2012,Male,Missouri,8647.52
+734,734,2210,2210,2210,High School Graduate,Health Care and Social Assistance,213984211,20277,2012,Male,Missouri,10553.05
+735,735,2211,2211,2211,Some College,Health Care and Social Assistance,326780539,22403,2012,Male,Missouri,14586.46
+736,736,2212,2212,2212,Advanced Degree,Health Care and Social Assistance,734911113,23883,2012,Male,Missouri,30771.31
+737,737,2213,2213,2213,Unavalble,Health Care and Social Assistance,32310815,7727,2012,Male,Missouri,4181.55
+738,738,2214,2214,2214,All Education Categories,Health Care and Social Assistance,2677536971,308611,2012,Female,Missouri,8676.09
+739,739,2215,2215,2215,Less Than High School,Health Care and Social Assistance,162316442,25582,2012,Female,Missouri,6344.95
+740,740,2216,2216,2216,High School Graduate,Health Care and Social Assistance,597462443,81970,2012,Female,Missouri,7288.79
+741,741,2217,2217,2217,Some College,Health Care and Social Assistance,953986981,107052,2012,Female,Missouri,8911.44
+742,742,2218,2218,2218,Advanced Degree,Health Care and Social Assistance,830241983,64342,2012,Female,Missouri,12903.58
+743,743,2219,2219,2219,Unavalble,Health Care and Social Assistance,133529122,29665,2012,Female,Missouri,4501.23
+744,744,2232,2232,2232,All Education Categories,Accommodation and Food Services,453530686,102140,2012,Male,Missouri,4440.28
+745,745,2233,2233,2233,Less Than High School,Accommodation and Food Services,64654332,14010,2012,Male,Missouri,4614.87
+746,746,2234,2234,2234,High School Graduate,Accommodation and Food Services,124785891,23781,2012,Male,Missouri,5247.29
+747,747,2235,2235,2235,Some College,Accommodation and Food Services,104770427,18120,2012,Male,Missouri,5782.03
+748,748,2236,2236,2236,Advanced Degree,Accommodation and Food Services,61341587,8586,2012,Male,Missouri,7144.37
+749,749,2237,2237,2237,Unavalble,Accommodation and Food Services,97978449,37644,2012,Male,Missouri,2602.76
+750,750,2238,2238,2238,All Education Categories,Accommodation and Food Services,430449423,121951,2012,Female,Missouri,3529.69
+751,751,2239,2239,2239,Less Than High School,Accommodation and Food Services,49952661,13270,2012,Female,Missouri,3764.33
+752,752,2240,2240,2240,High School Graduate,Accommodation and Food Services,109133231,26991,2012,Female,Missouri,4043.32
+753,753,2241,2241,2241,Some College,Accommodation and Food Services,99050551,22562,2012,Female,Missouri,4390.15
+754,754,2242,2242,2242,Advanced Degree,Accommodation and Food Services,52122554,10207,2012,Female,Missouri,5106.55
+755,755,2243,2243,2243,Unavalble,Accommodation and Food Services,120190426,48921,2012,Female,Missouri,2456.83
+756,756,5244,5244,5244,All Education Categories,"Colleges, Universities, and Professional Schools",254781198,21009,2004,Male,Missouri,12127.24
+757,757,5245,5245,5245,Less Than High School,"Colleges, Universities, and Professional Schools",6476286,923,2004,Male,Missouri,7016.56
+758,758,5246,5246,5246,High School Graduate,"Colleges, Universities, and Professional Schools",29278279,3476,2004,Male,Missouri,8422.98
+759,759,5247,5247,5247,Some College,"Colleges, Universities, and Professional Schools",50278740,4823,2004,Male,Missouri,10424.79
+760,760,5248,5248,5248,Advanced Degree,"Colleges, Universities, and Professional Schools",164785649,10259,2004,Male,Missouri,16062.54
+761,761,5249,5249,5249,Unavalble,"Colleges, Universities, and Professional Schools",3962243,1528,2004,Male,Missouri,2593.09
+762,762,5250,5250,5250,All Education Categories,"Colleges, Universities, and Professional Schools",209538153,26295,2004,Female,Missouri,7968.75
+763,763,5251,5251,5251,Less Than High School,"Colleges, Universities, and Professional Schools",4629318,832,2004,Female,Missouri,5564.08
+764,764,5252,5252,5252,High School Graduate,"Colleges, Universities, and Professional Schools",32556014,5069,2004,Female,Missouri,6422.57
+765,765,5253,5253,5253,Some College,"Colleges, Universities, and Professional Schools",55838529,7387,2004,Female,Missouri,7559.03
+766,766,5254,5254,5254,Advanced Degree,"Colleges, Universities, and Professional Schools",109777372,10458,2004,Female,Missouri,10496.98
+767,767,5255,5255,5255,Unavalble,"Colleges, Universities, and Professional Schools",6736920,2549,2004,Female,Missouri,2642.97
+768,768,8916,8916,8916,All Education Categories,"Colleges, Universities, and Professional Schools",282012225,22258,2005,Male,Missouri,12670.15
+769,769,8917,8917,8917,Less Than High School,"Colleges, Universities, and Professional Schools",7260043,1011,2005,Male,Missouri,7181.05
+770,770,8918,8918,8918,High School Graduate,"Colleges, Universities, and Professional Schools",32025446,3682,2005,Male,Missouri,8697.84
+771,771,8919,8919,8919,Some College,"Colleges, Universities, and Professional Schools",55488290,5117,2005,Male,Missouri,10843.91
+772,772,8920,8920,8920,Advanced Degree,"Colleges, Universities, and Professional Schools",182293297,10762,2005,Male,Missouri,16938.61
+773,773,8921,8921,8921,Unavalble,"Colleges, Universities, and Professional Schools",4945150,1685,2005,Male,Missouri,2934.81
+774,774,8922,8922,8922,All Education Categories,"Colleges, Universities, and Professional Schools",233421265,28037,2005,Female,Missouri,8325.47
+775,775,8923,8923,8923,Less Than High School,"Colleges, Universities, and Professional Schools",5334011,913,2005,Female,Missouri,5842.29
+776,776,8924,8924,8924,High School Graduate,"Colleges, Universities, and Professional Schools",35714781,5370,2005,Female,Missouri,6650.8
+777,777,8925,8925,8925,Some College,"Colleges, Universities, and Professional Schools",62056165,7925,2005,Female,Missouri,7830.43
+778,778,8926,8926,8926,Advanced Degree,"Colleges, Universities, and Professional Schools",122951473,11253,2005,Female,Missouri,10926.11
+779,779,8927,8927,8927,Unavalble,"Colleges, Universities, and Professional Schools",7364835,2576,2005,Female,Missouri,2859.02
+780,780,12576,12576,12576,All Education Categories,"Colleges, Universities, and Professional Schools",287698776,22440,2006,Male,Missouri,12820.8
+781,781,12577,12577,12577,Less Than High School,"Colleges, Universities, and Professional Schools",7789048,1018,2006,Male,Missouri,7651.32
+782,782,12578,12578,12578,High School Graduate,"Colleges, Universities, and Professional Schools",33537640,3718,2006,Male,Missouri,9020.34
+783,783,12579,12579,12579,Some College,"Colleges, Universities, and Professional Schools",57593780,5182,2006,Male,Missouri,11114.2
+784,784,12580,12580,12580,Advanced Degree,"Colleges, Universities, and Professional Schools",184403664,10871,2006,Male,Missouri,16962.9
+785,785,12581,12581,12581,Unavalble,"Colleges, Universities, and Professional Schools",4374644,1652,2006,Male,Missouri,2648.09
+786,786,12582,12582,12582,All Education Categories,"Colleges, Universities, and Professional Schools",246134892,28189,2006,Female,Missouri,8731.59
+787,787,12583,12583,12583,Less Than High School,"Colleges, Universities, and Professional Schools",5984075,937,2006,Female,Missouri,6386.42
+788,788,12584,12584,12584,High School Graduate,"Colleges, Universities, and Professional Schools",38434522,5353,2006,Female,Missouri,7180.0
+789,789,12585,12585,12585,Some College,"Colleges, Universities, and Professional Schools",66665448,7974,2006,Female,Missouri,8360.35
+790,790,12586,12586,12586,Advanced Degree,"Colleges, Universities, and Professional Schools",127879432,11278,2006,Female,Missouri,11338.84
+791,791,12587,12587,12587,Unavalble,"Colleges, Universities, and Professional Schools",7171415,2647,2006,Female,Missouri,2709.26
+792,792,16236,16236,16236,All Education Categories,"Colleges, Universities, and Professional Schools",304866057,22796,2007,Male,Missouri,13373.66
+793,793,16237,16237,16237,Less Than High School,"Colleges, Universities, and Professional Schools",8611371,1080,2007,Male,Missouri,7973.49
+794,794,16238,16238,16238,High School Graduate,"Colleges, Universities, and Professional Schools",36018754,3865,2007,Male,Missouri,9319.21
+795,795,16239,16239,16239,Some College,"Colleges, Universities, and Professional Schools",61607915,5334,2007,Male,Missouri,11550.04
+796,796,16240,16240,16240,Advanced Degree,"Colleges, Universities, and Professional Schools",194540522,10951,2007,Male,Missouri,17764.64
+797,797,16241,16241,16241,Unavalble,"Colleges, Universities, and Professional Schools",4087494,1566,2007,Male,Missouri,2610.15
+798,798,16242,16242,16242,All Education Categories,"Colleges, Universities, and Professional Schools",261949753,28932,2007,Female,Missouri,9053.98
+799,799,16243,16243,16243,Less Than High School,"Colleges, Universities, and Professional Schools",6638713,1017,2007,Female,Missouri,6527.74
+800,800,16244,16244,16244,High School Graduate,"Colleges, Universities, and Professional Schools",41281518,5560,2007,Female,Missouri,7424.73
+801,801,16245,16245,16245,Some College,"Colleges, Universities, and Professional Schools",71801590,8304,2007,Female,Missouri,8646.63
+802,802,16246,16246,16246,Advanced Degree,"Colleges, Universities, and Professional Schools",135404721,11508,2007,Female,Missouri,11766.14
+803,803,16247,16247,16247,Unavalble,"Colleges, Universities, and Professional Schools",6823210,2543,2007,Female,Missouri,2683.13
+804,804,19896,19896,19896,All Education Categories,"Colleges, Universities, and Professional Schools",320830782,23112,2008,Male,Missouri,13881.57
+805,805,19897,19897,19897,Less Than High School,"Colleges, Universities, and Professional Schools",9573347,1163,2008,Male,Missouri,8231.6
+806,806,19898,19898,19898,High School Graduate,"Colleges, Universities, and Professional Schools",38368165,3972,2008,Male,Missouri,9659.66
+807,807,19899,19899,19899,Some College,"Colleges, Universities, and Professional Schools",65509389,5486,2008,Male,Missouri,11941.19
+808,808,19900,19900,19900,Advanced Degree,"Colleges, Universities, and Professional Schools",202995005,10931,2008,Male,Missouri,18570.58
+809,809,19901,19901,19901,Unavalble,"Colleges, Universities, and Professional Schools",4384877,1559,2008,Male,Missouri,2812.62
+810,810,19902,19902,19902,All Education Categories,"Colleges, Universities, and Professional Schools",283186467,29848,2008,Female,Missouri,9487.62
+811,811,19903,19903,19903,Less Than High School,"Colleges, Universities, and Professional Schools",7918154,1140,2008,Female,Missouri,6945.75
+812,812,19904,19904,19904,High School Graduate,"Colleges, Universities, and Professional Schools",45205207,5817,2008,Female,Missouri,7771.22
+813,813,19905,19905,19905,Some College,"Colleges, Universities, and Professional Schools",78103024,8645,2008,Female,Missouri,9034.47
+814,814,19906,19906,19906,Advanced Degree,"Colleges, Universities, and Professional Schools",144537206,11729,2008,Female,Missouri,12323.06
+815,815,19907,19907,19907,Unavalble,"Colleges, Universities, and Professional Schools",7422876,2516,2008,Female,Missouri,2950.27
+816,816,23556,23556,23556,All Education Categories,"Colleges, Universities, and Professional Schools",335750150,23005,2009,Male,Missouri,14594.66
+817,817,23557,23557,23557,Less Than High School,"Colleges, Universities, and Professional Schools",10848389,1229,2009,Male,Missouri,8827.0
+818,818,23558,23558,23558,High School Graduate,"Colleges, Universities, and Professional Schools",41549135,4032,2009,Male,Missouri,10304.84
+819,819,23559,23559,23559,Some College,"Colleges, Universities, and Professional Schools",69369800,5499,2009,Male,Missouri,12614.98
+820,820,23560,23560,23560,Advanced Degree,"Colleges, Universities, and Professional Schools",209023216,10655,2009,Male,Missouri,19617.38
+821,821,23561,23561,23561,Unavalble,"Colleges, Universities, and Professional Schools",4959610,1590,2009,Male,Missouri,3119.25
+822,822,23562,23562,23562,All Education Categories,"Colleges, Universities, and Professional Schools",303407560,30279,2009,Female,Missouri,10020.4
+823,823,23563,23563,23563,Less Than High School,"Colleges, Universities, and Professional Schools",9180769,1225,2009,Female,Missouri,7494.51
+824,824,23564,23564,23564,High School Graduate,"Colleges, Universities, and Professional Schools",49149195,5911,2009,Female,Missouri,8314.87
+825,825,23565,23565,23565,Some College,"Colleges, Universities, and Professional Schools",83971460,8780,2009,Female,Missouri,9563.95
+826,826,23566,23566,23566,Advanced Degree,"Colleges, Universities, and Professional Schools",152699907,11735,2009,Female,Missouri,13012.35
+827,827,23567,23567,23567,Unavalble,"Colleges, Universities, and Professional Schools",8406228,2628,2009,Female,Missouri,3198.72
+828,828,27228,27228,27228,All Education Categories,"Colleges, Universities, and Professional Schools",261295222,19627,2010,Male,Missouri,13313.05
+829,829,27229,27229,27229,Less Than High School,"Colleges, Universities, and Professional Schools",9656930,1147,2010,Male,Missouri,8419.29
+830,830,27230,27230,27230,High School Graduate,"Colleges, Universities, and Professional Schools",36096711,3719,2010,Male,Missouri,9706.03
+831,831,27231,27231,27231,Some College,"Colleges, Universities, and Professional Schools",56580293,4866,2010,Male,Missouri,11627.68
+832,832,27232,27232,27232,Advanced Degree,"Colleges, Universities, and Professional Schools",155342860,8765,2010,Male,Missouri,17723.09
+833,833,27233,27233,27233,Unavalble,"Colleges, Universities, and Professional Schools",3618428,1130,2010,Male,Missouri,3202.15
+834,834,27234,27234,27234,All Education Categories,"Colleges, Universities, and Professional Schools",239193187,25122,2010,Female,Missouri,9521.26
+835,835,27235,27235,27235,Less Than High School,"Colleges, Universities, and Professional Schools",7995170,1092,2010,Female,Missouri,7321.58
+836,836,27236,27236,27236,High School Graduate,"Colleges, Universities, and Professional Schools",41281824,5151,2010,Female,Missouri,8014.33
+837,837,27237,27237,27237,Some College,"Colleges, Universities, and Professional Schools",67500816,7403,2010,Female,Missouri,9118.04
+838,838,27238,27238,27238,Advanced Degree,"Colleges, Universities, and Professional Schools",116534504,9594,2010,Female,Missouri,12146.6
+839,839,27239,27239,27239,Unavalble,"Colleges, Universities, and Professional Schools",5880872,1882,2010,Female,Missouri,3124.8
+840,840,30912,30912,30912,All Education Categories,"Colleges, Universities, and Professional Schools",268840913,20222,2011,Male,Missouri,13294.48
+841,841,30913,30913,30913,Less Than High School,"Colleges, Universities, and Professional Schools",10897704,1263,2011,Male,Missouri,8628.43
+842,842,30914,30914,30914,High School Graduate,"Colleges, Universities, and Professional Schools",38287416,3930,2011,Male,Missouri,9742.35
+843,843,30915,30915,30915,Some College,"Colleges, Universities, and Professional Schools",59193606,5075,2011,Male,Missouri,11663.76
+844,844,30916,30916,30916,Advanced Degree,"Colleges, Universities, and Professional Schools",156955156,8857,2011,Male,Missouri,17721.03
+845,845,30917,30917,30917,Unavalble,"Colleges, Universities, and Professional Schools",3507030,1096,2011,Male,Missouri,3199.84
+846,846,30918,30918,30918,All Education Categories,"Colleges, Universities, and Professional Schools",251565388,26361,2011,Female,Missouri,9543.09
+847,847,30919,30919,30919,Less Than High School,"Colleges, Universities, and Professional Schools",9263850,1229,2011,Female,Missouri,7537.71
+848,848,30920,30920,30920,High School Graduate,"Colleges, Universities, and Professional Schools",44055937,5431,2011,Female,Missouri,8111.94
+849,849,30921,30921,30921,Some College,"Colleges, Universities, and Professional Schools",70851149,7713,2011,Female,Missouri,9185.94
+850,850,30922,30922,30922,Advanced Degree,"Colleges, Universities, and Professional Schools",121575113,9908,2011,Female,Missouri,12270.4
+851,851,30923,30923,30923,Unavalble,"Colleges, Universities, and Professional Schools",5819339,2080,2011,Female,Missouri,2797.76
+852,852,34596,34596,34596,All Education Categories,"Colleges, Universities, and Professional Schools",291702472,20933,2012,Male,Missouri,13935.05
+853,853,34597,34597,34597,Less Than High School,"Colleges, Universities, and Professional Schools",12647191,1386,2012,Male,Missouri,9124.96
+854,854,34598,34598,34598,High School Graduate,"Colleges, Universities, and Professional Schools",42355343,4135,2012,Male,Missouri,10243.13
+855,855,34599,34599,34599,Some College,"Colleges, Universities, and Professional Schools",64652167,5263,2012,Male,Missouri,12284.28
+856,856,34600,34600,34600,Advanced Degree,"Colleges, Universities, and Professional Schools",168154454,9034,2012,Male,Missouri,18613.51
+857,857,34601,34601,34601,Unavalble,"Colleges, Universities, and Professional Schools",3893317,1114,2012,Male,Missouri,3494.9
+858,858,34602,34602,34602,All Education Categories,"Colleges, Universities, and Professional Schools",275619869,27328,2012,Female,Missouri,10085.62
+859,859,34603,34603,34603,Less Than High School,"Colleges, Universities, and Professional Schools",11213753,1384,2012,Female,Missouri,8102.42
+860,860,34604,34604,34604,High School Graduate,"Colleges, Universities, and Professional Schools",49237082,5730,2012,Female,Missouri,8592.86
+861,861,34605,34605,34605,Some College,"Colleges, Universities, and Professional Schools",78129276,8124,2012,Female,Missouri,9617.09
+862,862,34606,34606,34606,Advanced Degree,"Colleges, Universities, and Professional Schools",131183421,10234,2012,Female,Missouri,12818.39
+863,863,34607,34607,34607,Unavalble,"Colleges, Universities, and Professional Schools",5856338,1855,2012,Female,Missouri,3157.06
+864,864,36240,36240,36240,All Education Categories,Educational Services,592600822,65054,2004,Male,Missouri,9109.37
+865,865,36241,36241,36241,Less Than High School,Educational Services,22187500,3837,2004,Male,Missouri,5782.51
+866,866,36242,36242,36242,High School Graduate,Educational Services,96694832,13808,2004,Male,Missouri,7002.81
+867,867,36243,36243,36243,Some College,Educational Services,139468056,16548,2004,Male,Missouri,8428.09
+868,868,36244,36244,36244,Advanced Degree,Educational Services,321495016,26642,2004,Male,Missouri,12067.23
+869,869,36245,36245,36245,Unavalble,Educational Services,12755418,4218,2004,Male,Missouri,3024.04
+870,870,36246,36246,36246,All Education Categories,Educational Services,1053857587,154225,2004,Female,Missouri,6833.25
+871,871,36247,36247,36247,Less Than High School,Educational Services,25232770,5946,2004,Female,Missouri,4243.65
+872,872,36248,36248,36248,High School Graduate,Educational Services,187964424,35409,2004,Female,Missouri,5308.38
+873,873,36249,36249,36249,Some College,Educational Services,287981923,44443,2004,Female,Missouri,6479.8
+874,874,36250,36250,36250,Advanced Degree,Educational Services,519750471,58507,2004,Female,Missouri,8883.56
+875,875,36251,36251,36251,Unavalble,Educational Services,32927998,9920,2004,Female,Missouri,3319.35
+876,876,36336,36336,36336,All Education Categories,Accommodation,52979224,9986,2004,Male,Missouri,5305.35
+877,877,36337,36337,36337,Less Than High School,Accommodation,7220397,1681,2004,Male,Missouri,4295.3
+878,878,36338,36338,36338,High School Graduate,Accommodation,16163981,3053,2004,Male,Missouri,5294.46
+879,879,36339,36339,36339,Some College,Accommodation,13812235,2253,2004,Male,Missouri,6130.6
+880,880,36340,36340,36340,Advanced Degree,Accommodation,10509375,1130,2004,Male,Missouri,9300.33
+881,881,36341,36341,36341,Unavalble,Accommodation,5273237,1869,2004,Male,Missouri,2821.42
+882,882,36342,36342,36342,All Education Categories,Accommodation,53838225,14628,2004,Female,Missouri,3680.49
+883,883,36343,36343,36343,Less Than High School,Accommodation,7120960,2277,2004,Female,Missouri,3127.34
+884,884,36344,36344,36344,High School Graduate,Accommodation,16402013,4592,2004,Female,Missouri,3571.87
+885,885,36345,36345,36345,Some College,Accommodation,14802513,3463,2004,Female,Missouri,4274.48
+886,886,36346,36346,36346,Advanced Degree,Accommodation,8037408,1409,2004,Female,Missouri,5704.33
+887,887,36347,36347,36347,Unavalble,Accommodation,7475332,2888,2004,Female,Missouri,2588.41
+888,888,37428,37428,37428,All Education Categories,Educational Services,626147112,66326,2005,Male,Missouri,9440.45
+889,889,37429,37429,37429,Less Than High School,Educational Services,23406340,3925,2005,Male,Missouri,5963.4
+890,890,37430,37430,37430,High School Graduate,Educational Services,101613552,14091,2005,Male,Missouri,7211.24
+891,891,37431,37431,37431,Some College,Educational Services,147250325,16968,2005,Male,Missouri,8678.12
+892,892,37432,37432,37432,Advanced Degree,Educational Services,340058351,27015,2005,Male,Missouri,12587.76
+893,893,37433,37433,37433,Unavalble,Educational Services,13818543,4327,2005,Male,Missouri,3193.56
+894,894,37434,37434,37434,All Education Categories,Educational Services,1094380618,156570,2005,Female,Missouri,6989.72
+895,895,37435,37435,37435,Less Than High School,Educational Services,27024406,6097,2005,Female,Missouri,4432.41
+896,896,37436,37436,37436,High School Graduate,Educational Services,196225463,35966,2005,Female,Missouri,5455.86
+897,897,37437,37437,37437,Some College,Educational Services,302645323,45612,2005,Female,Missouri,6635.21
+898,898,37438,37438,37438,Advanced Degree,Educational Services,535061909,59238,2005,Female,Missouri,9032.41
+899,899,37439,37439,37439,Unavalble,Educational Services,33423518,9656,2005,Female,Missouri,3461.42
+900,900,37524,37524,37524,All Education Categories,Accommodation,58223014,9978,2005,Male,Missouri,5835.14
+901,901,37525,37525,37525,Less Than High School,Accommodation,7652984,1690,2005,Male,Missouri,4528.39
+902,902,37526,37526,37526,High School Graduate,Accommodation,17338932,3054,2005,Male,Missouri,5677.45
+903,903,37527,37527,37527,Some College,Accommodation,15135997,2249,2005,Male,Missouri,6730.1
+904,904,37528,37528,37528,Advanced Degree,Accommodation,12592389,1147,2005,Male,Missouri,10978.54
+905,905,37529,37529,37529,Unavalble,Accommodation,5502711,1839,2005,Male,Missouri,2992.23
+906,906,37530,37530,37530,All Education Categories,Accommodation,56485357,14540,2005,Female,Missouri,3884.83
+907,907,37531,37531,37531,Less Than High School,Accommodation,7536445,2263,2005,Female,Missouri,3330.29
+908,908,37532,37532,37532,High School Graduate,Accommodation,16743821,4484,2005,Female,Missouri,3734.13
+909,909,37533,37533,37533,Some College,Accommodation,15747857,3480,2005,Female,Missouri,4525.25
+910,910,37534,37534,37534,Advanced Degree,Accommodation,8452689,1392,2005,Female,Missouri,6072.33
+911,911,37535,37535,37535,Unavalble,Accommodation,8004546,2921,2005,Female,Missouri,2740.34
+912,912,38616,38616,38616,All Education Categories,Educational Services,653457999,66973,2006,Male,Missouri,9757.04
+913,913,38617,38617,38617,Less Than High School,Educational Services,25466852,4008,2006,Male,Missouri,6354.0
+914,914,38618,38618,38618,High School Graduate,Educational Services,108727844,14302,2006,Male,Missouri,7602.28
+915,915,38619,38619,38619,Some College,Educational Services,156042450,17228,2006,Male,Missouri,9057.49
+916,916,38620,38620,38620,Advanced Degree,Educational Services,349361243,27187,2006,Male,Missouri,12850.31
+917,917,38621,38621,38621,Unavalble,Educational Services,13859611,4247,2006,Male,Missouri,3263.39
+918,918,38622,38622,38622,All Education Categories,Educational Services,1170778392,159115,2006,Female,Missouri,7358.06
+919,919,38623,38623,38623,Less Than High School,Educational Services,30532789,6316,2006,Female,Missouri,4834.2
+920,920,38624,38624,38624,High School Graduate,Educational Services,213293795,36598,2006,Female,Missouri,5828.02
+921,921,38625,38625,38625,Some College,Educational Services,328604971,46810,2006,Female,Missouri,7019.97
+922,922,38626,38626,38626,Advanced Degree,Educational Services,562999729,59665,2006,Female,Missouri,9436.01
+923,923,38627,38627,38627,Unavalble,Educational Services,35347107,9727,2006,Female,Missouri,3633.92
+924,924,38712,38712,38712,All Education Categories,Accommodation,59958311,10272,2006,Male,Missouri,5837.06
+925,925,38713,38713,38713,Less Than High School,Accommodation,8357943,1770,2006,Male,Missouri,4722.0
+926,926,38714,38714,38714,High School Graduate,Accommodation,18893322,3193,2006,Male,Missouri,5917.11
+927,927,38715,38715,38715,Some College,Accommodation,15607285,2322,2006,Male,Missouri,6721.48
+928,928,38716,38716,38716,Advanced Degree,Accommodation,11396735,1151,2006,Male,Missouri,9901.59
+929,929,38717,38717,38717,Unavalble,Accommodation,5703027,1836,2006,Male,Missouri,3106.22
+930,930,38718,38718,38718,All Education Categories,Accommodation,60653699,14907,2006,Female,Missouri,4068.81
+931,931,38719,38719,38719,Less Than High School,Accommodation,8285280,2344,2006,Female,Missouri,3534.68
+932,932,38720,38720,38720,High School Graduate,Accommodation,18460947,4656,2006,Female,Missouri,3964.98
+933,933,38721,38721,38721,Some College,Accommodation,16801226,3610,2006,Female,Missouri,4654.08
+934,934,38722,38722,38722,Advanced Degree,Accommodation,8991619,1433,2006,Female,Missouri,6274.68
+935,935,38723,38723,38723,Unavalble,Accommodation,8114627,2863,2006,Female,Missouri,2834.31
+936,936,39804,39804,39804,All Education Categories,Educational Services,690474306,68133,2007,Male,Missouri,10134.21
+937,937,39805,39805,39805,Less Than High School,Educational Services,27861996,4174,2007,Male,Missouri,6675.13
+938,938,39806,39806,39806,High School Graduate,Educational Services,116618165,14778,2007,Male,Missouri,7891.34
+939,939,39807,39807,39807,Some College,Educational Services,166300298,17729,2007,Male,Missouri,9380.13
+940,940,39808,39808,39808,Advanced Degree,Educational Services,365594933,27256,2007,Male,Missouri,13413.37
+941,941,39809,39809,39809,Unavalble,Educational Services,14098914,4197,2007,Male,Missouri,3359.28
+942,942,39810,39810,39810,All Education Categories,Educational Services,1236365980,162966,2007,Female,Missouri,7586.65
+943,943,39811,39811,39811,Less Than High School,Educational Services,34034534,6737,2007,Female,Missouri,5051.88
+944,944,39812,39812,39812,High School Graduate,Educational Services,228367308,37758,2007,Female,Missouri,6048.18
+945,945,39813,39813,39813,Some College,Educational Services,351869097,48470,2007,Female,Missouri,7259.52
+946,946,39814,39814,39814,Advanced Degree,Educational Services,585991191,60232,2007,Female,Missouri,9728.9
+947,947,39815,39815,39815,Unavalble,Educational Services,36103850,9770,2007,Female,Missouri,3695.38
+948,948,39900,39900,39900,All Education Categories,Accommodation,64156127,10146,2007,Male,Missouri,6323.29
+949,949,39901,39901,39901,Less Than High School,Accommodation,8800225,1737,2007,Male,Missouri,5066.34
+950,950,39902,39902,39902,High School Graduate,Accommodation,19811515,3150,2007,Male,Missouri,6289.37
+951,951,39903,39903,39903,Some College,Accommodation,16912927,2315,2007,Male,Missouri,7305.8
+952,952,39904,39904,39904,Advanced Degree,Accommodation,12761294,1159,2007,Male,Missouri,11010.61
+953,953,39905,39905,39905,Unavalble,Accommodation,5870166,1786,2007,Male,Missouri,3286.77
+954,954,39906,39906,39906,All Education Categories,Accommodation,65768106,15031,2007,Female,Missouri,4375.5
+955,955,39907,39907,39907,Less Than High School,Accommodation,8992385,2397,2007,Female,Missouri,3751.52
+956,956,39908,39908,39908,High School Graduate,Accommodation,19739116,4628,2007,Female,Missouri,4265.15
+957,957,39909,39909,39909,Some College,Accommodation,18373710,3648,2007,Female,Missouri,5036.65
+958,958,39910,39910,39910,Advanced Degree,Accommodation,10031987,1516,2007,Female,Missouri,6617.41
+959,959,39911,39911,39911,Unavalble,Accommodation,8630909,2842,2007,Female,Missouri,3036.91
+960,960,40992,40992,40992,All Education Categories,Educational Services,733937937,69265,2008,Male,Missouri,10596.09
+961,961,40993,40993,40993,Less Than High School,Educational Services,32220914,4458,2008,Male,Missouri,7227.66
+962,962,40994,40994,40994,High School Graduate,Educational Services,128011624,15340,2008,Male,Missouri,8344.96
+963,963,40995,40995,40995,Some College,Educational Services,178939857,18204,2008,Male,Missouri,9829.7
+964,964,40996,40996,40996,Advanced Degree,Educational Services,380048790,27128,2008,Male,Missouri,14009.47
+965,965,40997,40997,40997,Unavalble,Educational Services,14716753,4135,2008,Male,Missouri,3559.07
+966,966,40998,40998,40998,All Education Categories,Educational Services,1315440711,166445,2008,Female,Missouri,7903.16
+967,967,40999,40999,40999,Less Than High School,Educational Services,39902285,7260,2008,Female,Missouri,5496.18
+968,968,41000,41000,41000,High School Graduate,Educational Services,247779611,38817,2008,Female,Missouri,6383.28
+969,969,41001,41001,41001,Some College,Educational Services,379189742,49955,2008,Female,Missouri,7590.63
+970,970,41002,41002,41002,Advanced Degree,Educational Services,610911816,60602,2008,Female,Missouri,10080.72
+971,971,41003,41003,41003,Unavalble,Educational Services,37657257,9810,2008,Female,Missouri,3838.66
+972,972,41088,41088,41088,All Education Categories,Accommodation,71667081,11167,2008,Male,Missouri,6417.76
+973,973,41089,41089,41089,Less Than High School,Accommodation,10019725,1891,2008,Male,Missouri,5298.64
+974,974,41090,41090,41090,High School Graduate,Accommodation,22608608,3483,2008,Male,Missouri,6491.13
+975,975,41091,41091,41091,Some College,Accommodation,19234620,2653,2008,Male,Missouri,7250.14
+976,976,41092,41092,41092,Advanced Degree,Accommodation,13655180,1337,2008,Male,Missouri,10213.3
+977,977,41093,41093,41093,Unavalble,Accommodation,6148947,1803,2008,Male,Missouri,3410.4
+978,978,41094,41094,41094,All Education Categories,Accommodation,72070390,15742,2008,Female,Missouri,4578.22
+979,979,41095,41095,41095,Less Than High School,Accommodation,9855570,2499,2008,Female,Missouri,3943.81
+980,980,41096,41096,41096,High School Graduate,Accommodation,21609894,4864,2008,Female,Missouri,4442.82
+981,981,41097,41097,41097,Some College,Accommodation,20370447,3903,2008,Female,Missouri,5219.18
+982,982,41098,41098,41098,Advanced Degree,Accommodation,11432687,1678,2008,Female,Missouri,6813.28
+983,983,41099,41099,41099,Unavalble,Accommodation,8801792,2797,2008,Female,Missouri,3146.87
+984,984,42180,42180,42180,All Education Categories,Educational Services,753796349,71025,2009,Male,Missouri,10613.11
+985,985,42181,42181,42181,Less Than High School,Educational Services,34997766,4864,2009,Male,Missouri,7195.26
+986,986,42182,42182,42182,High School Graduate,Educational Services,134531447,16124,2009,Male,Missouri,8343.55
+987,987,42183,42183,42183,Some College,Educational Services,185600930,18859,2009,Male,Missouri,9841.5
+988,988,42184,42184,42184,Advanced Degree,Educational Services,383433925,26911,2009,Male,Missouri,14248.22
+989,989,42185,42185,42185,Unavalble,Educational Services,15232281,4268,2009,Male,Missouri,3568.95
+990,990,42186,42186,42186,All Education Categories,Educational Services,1353115302,169546,2009,Female,Missouri,7980.82
+991,991,42187,42187,42187,Less Than High School,Educational Services,44226267,7905,2009,Female,Missouri,5594.72
+992,992,42188,42188,42188,High School Graduate,Educational Services,259844253,39933,2009,Female,Missouri,6507.01
+993,993,42189,42189,42189,Some College,Educational Services,394638776,51146,2009,Female,Missouri,7715.93
+994,994,42190,42190,42190,Advanced Degree,Educational Services,616343399,60696,2009,Female,Missouri,10154.6
+995,995,42191,42191,42191,Unavalble,Educational Services,38062607,9866,2009,Female,Missouri,3857.96
+996,996,42276,42276,42276,All Education Categories,Accommodation,65677610,10649,2009,Male,Missouri,6167.49
+997,997,42277,42277,42277,Less Than High School,Accommodation,9009364,1814,2009,Male,Missouri,4966.57
+998,998,42278,42278,42278,High School Graduate,Accommodation,20603890,3317,2009,Male,Missouri,6211.6
+999,999,42279,42279,42279,Some College,Accommodation,18045957,2528,2009,Male,Missouri,7138.43
+1000,1000,42280,42280,42280,Advanced Degree,Accommodation,12892251,1308,2009,Male,Missouri,9856.46
+1001,1001,42281,42281,42281,Unavalble,Accommodation,5126148,1682,2009,Male,Missouri,3047.65
+1002,1002,42282,42282,42282,All Education Categories,Accommodation,65143448,15049,2009,Female,Missouri,4328.76
+1003,1003,42283,42283,42283,Less Than High School,Accommodation,8815921,2376,2009,Female,Missouri,3710.4
+1004,1004,42284,42284,42284,High School Graduate,Accommodation,19735416,4714,2009,Female,Missouri,4186.55
+1005,1005,42285,42285,42285,Some College,Accommodation,18701972,3817,2009,Female,Missouri,4899.65
+1006,1006,42286,42286,42286,Advanced Degree,Accommodation,10434788,1659,2009,Female,Missouri,6289.81
+1007,1007,42287,42287,42287,Unavalble,Accommodation,7455352,2484,2009,Female,Missouri,3001.35
+1008,1008,43368,43368,43368,All Education Categories,Educational Services,674846735,67334,2010,Male,Missouri,10022.38
+1009,1009,43369,43369,43369,Less Than High School,Educational Services,34324756,4854,2010,Male,Missouri,7071.44
+1010,1010,43370,43370,43370,High School Graduate,Educational Services,129833412,15946,2010,Male,Missouri,8142.07
+1011,1011,43371,43371,43371,Some College,Educational Services,172677447,18212,2010,Male,Missouri,9481.52
+1012,1012,43372,43372,43372,Advanced Degree,Educational Services,324858265,24595,2010,Male,Missouri,13208.31
+1013,1013,43373,43373,43373,Unavalble,Educational Services,13152856,3727,2010,Male,Missouri,3529.07
+1014,1014,43374,43374,43374,All Education Categories,Educational Services,1293955483,163798,2010,Female,Missouri,7899.7
+1015,1015,43375,43375,43375,Less Than High School,Educational Services,45401203,8053,2010,Female,Missouri,5637.8
+1016,1016,43376,43376,43376,High School Graduate,Educational Services,257073522,39413,2010,Female,Missouri,6522.56
+1017,1017,43377,43377,43377,Some College,Educational Services,383743384,50071,2010,Female,Missouri,7663.98
+1018,1018,43378,43378,43378,Advanced Degree,Educational Services,574836009,57592,2010,Female,Missouri,9981.18
+1019,1019,43379,43379,43379,Unavalble,Educational Services,32901366,8668,2010,Female,Missouri,3795.73
+1020,1020,43464,43464,43464,All Education Categories,Accommodation,64379782,10640,2010,Male,Missouri,6050.73
+1021,1021,43465,43465,43465,Less Than High School,Accommodation,8754649,1781,2010,Male,Missouri,4915.58
+1022,1022,43466,43466,43466,High School Graduate,Accommodation,20312044,3325,2010,Male,Missouri,6108.89
+1023,1023,43467,43467,43467,Some College,Accommodation,17070198,2538,2010,Male,Missouri,6725.85
+1024,1024,43468,43468,43468,Advanced Degree,Accommodation,13172956,1377,2010,Male,Missouri,9566.42
+1025,1025,43469,43469,43469,Unavalble,Accommodation,5069935,1619,2010,Male,Missouri,3131.52
+1026,1026,43470,43470,43470,All Education Categories,Accommodation,62520222,14546,2010,Female,Missouri,4298.1
+1027,1027,43471,43471,43471,Less Than High School,Accommodation,8400851,2252,2010,Female,Missouri,3730.4
+1028,1028,43472,43472,43472,High School Graduate,Accommodation,18954550,4527,2010,Female,Missouri,4187.0
+1029,1029,43473,43473,43473,Some College,Accommodation,17957873,3730,2010,Female,Missouri,4814.44
+1030,1030,43474,43474,43474,Advanced Degree,Accommodation,10238139,1701,2010,Female,Missouri,6018.89
+1031,1031,43475,43475,43475,Unavalble,Accommodation,6968810,2337,2010,Female,Missouri,2981.95
+1032,1032,44556,44556,44556,All Education Categories,Educational Services,678096689,67500,2011,Male,Missouri,10045.88
+1033,1033,44557,44557,44557,Less Than High School,Educational Services,36380096,5057,2011,Male,Missouri,7194.01
+1034,1034,44558,44558,44558,High School Graduate,Educational Services,132630887,16250,2011,Male,Missouri,8161.9
+1035,1035,44559,44559,44559,Some College,Educational Services,175065323,18393,2011,Male,Missouri,9518.04
+1036,1036,44560,44560,44560,Advanced Degree,Educational Services,322083553,24305,2011,Male,Missouri,13251.74
+1037,1037,44561,44561,44561,Unavalble,Educational Services,11936829,3495,2011,Male,Missouri,3415.4
+1038,1038,44562,44562,44562,All Education Categories,Educational Services,1285842918,163392,2011,Female,Missouri,7869.68
+1039,1039,44563,44563,44563,Less Than High School,Educational Services,48471005,8399,2011,Female,Missouri,5771.04
+1040,1040,44564,44564,44564,High School Graduate,Educational Services,258633236,39473,2011,Female,Missouri,6552.16
+1041,1041,44565,44565,44565,Some College,Educational Services,383523505,50072,2011,Female,Missouri,7659.44
+1042,1042,44566,44566,44566,Advanced Degree,Educational Services,565505005,56992,2011,Female,Missouri,9922.53
+1043,1043,44567,44567,44567,Unavalble,Educational Services,29710166,8455,2011,Female,Missouri,3513.92
+1044,1044,44652,44652,44652,All Education Categories,Accommodation,68754768,10655,2011,Male,Missouri,6452.82
+1045,1045,44653,44653,44653,Less Than High School,Accommodation,9338958,1777,2011,Male,Missouri,5255.46
+1046,1046,44654,44654,44654,High School Graduate,Accommodation,21543914,3333,2011,Male,Missouri,6463.82
+1047,1047,44655,44655,44655,Some College,Accommodation,18237792,2559,2011,Male,Missouri,7126.92
+1048,1048,44656,44656,44656,Advanced Degree,Accommodation,14558017,1418,2011,Male,Missouri,10266.58
+1049,1049,44657,44657,44657,Unavalble,Accommodation,5076086,1568,2011,Male,Missouri,3237.3
+1050,1050,44658,44658,44658,All Education Categories,Accommodation,66437480,14565,2011,Female,Missouri,4561.45
+1051,1051,44659,44659,44659,Less Than High School,Accommodation,8870195,2278,2011,Female,Missouri,3893.85
+1052,1052,44660,44660,44660,High School Graduate,Accommodation,19676110,4459,2011,Female,Missouri,4412.67
+1053,1053,44661,44661,44661,Some College,Accommodation,19350507,3754,2011,Female,Missouri,5154.64
+1054,1054,44662,44662,44662,Advanced Degree,Accommodation,11634992,1773,2011,Female,Missouri,6562.32
+1055,1055,44663,44663,44663,Unavalble,Accommodation,6905677,2301,2011,Female,Missouri,3001.16
+1056,1056,45744,45744,45744,All Education Categories,Educational Services,717270479,68692,2012,Male,Missouri,10441.83
+1057,1057,45745,45745,45745,Less Than High School,Educational Services,40930422,5345,2012,Male,Missouri,7657.7
+1058,1058,45746,45746,45746,High School Graduate,Educational Services,142586024,16711,2012,Male,Missouri,8532.47
+1059,1059,45747,45747,45747,Some College,Educational Services,186135550,18782,2012,Male,Missouri,9910.32
+1060,1060,45748,45748,45748,Advanced Degree,Educational Services,334366430,24217,2012,Male,Missouri,13807.1
+1061,1061,45749,45749,45749,Unavalble,Educational Services,13252053,3637,2012,Male,Missouri,3643.68
+1062,1062,45750,45750,45750,All Education Categories,Educational Services,1335913908,163910,2012,Female,Missouri,8150.29
+1063,1063,45751,45751,45751,Less Than High School,Educational Services,55503718,8907,2012,Female,Missouri,6231.47
+1064,1064,45752,45752,45752,High School Graduate,Educational Services,274844717,39887,2012,Female,Missouri,6890.58
+1065,1065,45753,45753,45753,Some College,Educational Services,401507762,50412,2012,Female,Missouri,7964.53
+1066,1066,45754,45754,45754,Advanced Degree,Educational Services,571591312,56211,2012,Female,Missouri,10168.67
+1067,1067,45755,45755,45755,Unavalble,Educational Services,32466399,8493,2012,Female,Missouri,3822.72
+1068,1068,45840,45840,45840,All Education Categories,Accommodation,70697453,10612,2012,Male,Missouri,6662.03
+1069,1069,45841,45841,45841,Less Than High School,Accommodation,9847305,1787,2012,Male,Missouri,5510.52
+1070,1070,45842,45842,45842,High School Graduate,Accommodation,21913257,3285,2012,Male,Missouri,6670.7
+1071,1071,45843,45843,45843,Some College,Accommodation,18985338,2576,2012,Male,Missouri,7370.08
+1072,1072,45844,45844,45844,Advanced Degree,Accommodation,14645112,1417,2012,Male,Missouri,10335.29
+1073,1073,45845,45845,45845,Unavalble,Accommodation,5306441,1547,2012,Male,Missouri,3430.15
+1074,1074,45846,45846,45846,All Education Categories,Accommodation,68463239,14361,2012,Female,Missouri,4767.3
+1075,1075,45847,45847,45847,Less Than High School,Accommodation,9311760,2254,2012,Female,Missouri,4131.22
+1076,1076,45848,45848,45848,High School Graduate,Accommodation,20524403,4372,2012,Female,Missouri,4694.51
+1077,1077,45849,45849,45849,Some College,Accommodation,19857723,3695,2012,Female,Missouri,5374.21
+1078,1078,45850,45850,45850,Advanced Degree,Accommodation,11588555,1774,2012,Female,Missouri,6532.44
+1079,1079,45851,45851,45851,Unavalble,Accommodation,7180799,2265,2012,Female,Missouri,3170.33

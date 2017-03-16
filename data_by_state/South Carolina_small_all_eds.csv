@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,0,All Education Categories,00,8178013405,849460,2004,Male,South Carolina,9627.31
+1,1,1,1,1,Less Than High School,00,693014886,102681,2004,Male,South Carolina,6749.2
+2,2,2,2,2,High School Graduate,00,2063037690,241867,2004,Male,South Carolina,8529.64
+3,3,3,3,3,Some College,00,2309306258,224555,2004,Male,South Carolina,10283.92
+4,4,4,4,4,Advanced Degree,00,2672099967,166934,2004,Male,South Carolina,16006.92
+5,5,5,5,5,Unavalble,00,440554604,113422,2004,Male,South Carolina,3884.21
+6,6,6,6,6,All Education Categories,00,5327988730,866253,2004,Female,South Carolina,6150.62
+7,7,7,7,7,Less Than High School,00,346983219,81392,2004,Female,South Carolina,4263.11
+8,8,8,8,8,High School Graduate,00,1257731246,233552,2004,Female,South Carolina,5385.23
+9,9,9,9,9,Some College,00,1672635337,253617,2004,Female,South Carolina,6595.12
+10,10,10,10,10,Advanced Degree,00,1657746687,170530,2004,Female,South Carolina,9721.14
+11,11,11,11,11,Unavalble,00,392892241,127163,2004,Female,South Carolina,3089.67
+12,12,60,60,60,All Education Categories,Manufacturing,2078895544,182379,2004,Male,South Carolina,11398.77
+13,13,61,61,61,Less Than High School,Manufacturing,199228846,23645,2004,Male,South Carolina,8425.83
+14,14,62,62,62,High School Graduate,Manufacturing,661296692,64560,2004,Male,South Carolina,10243.13
+15,15,63,63,63,Some College,Manufacturing,656683726,54473,2004,Male,South Carolina,12055.21
+16,16,64,64,64,Advanced Degree,Manufacturing,488578059,27924,2004,Male,South Carolina,17496.71
+17,17,65,65,65,Unavalble,Manufacturing,73108222,11778,2004,Male,South Carolina,6207.18
+18,18,66,66,66,All Education Categories,Manufacturing,672585314,91013,2004,Female,South Carolina,7389.99
+19,19,67,67,67,Less Than High School,Manufacturing,70000019,12236,2004,Female,South Carolina,5720.83
+20,20,68,68,68,High School Graduate,Manufacturing,241490434,35722,2004,Female,South Carolina,6760.27
+21,21,69,69,69,Some College,Manufacturing,215856136,27327,2004,Female,South Carolina,7899.01
+22,22,70,70,70,Advanced Degree,Manufacturing,119231751,10730,2004,Female,South Carolina,11112.0
+23,23,71,71,71,Unavalble,Manufacturing,26006976,4999,2004,Female,South Carolina,5202.44
+24,24,84,84,84,All Education Categories,Retail Trade,737097638,104394,2004,Male,South Carolina,7060.73
+25,25,85,85,85,Less Than High School,Retail Trade,76335072,12889,2004,Male,South Carolina,5922.5
+26,26,86,86,86,High School Graduate,Retail Trade,225491083,30556,2004,Male,South Carolina,7379.6
+27,27,87,87,87,Some College,Retail Trade,213693447,24668,2004,Male,South Carolina,8662.78
+28,28,88,88,88,Advanced Degree,Retail Trade,147479456,11842,2004,Male,South Carolina,12453.93
+29,29,89,89,89,Unavalble,Retail Trade,74098580,24439,2004,Male,South Carolina,3031.98
+30,30,90,90,90,All Education Categories,Retail Trade,477423608,117754,2004,Female,South Carolina,4054.42
+31,31,91,91,91,Less Than High School,Retail Trade,51140774,13874,2004,Female,South Carolina,3686.09
+32,32,92,92,92,High School Graduate,Retail Trade,156555761,36105,2004,Female,South Carolina,4336.12
+33,33,93,93,93,Some College,Retail Trade,129048004,26392,2004,Female,South Carolina,4889.66
+34,34,94,94,94,Advanced Degree,Retail Trade,68122431,9837,2004,Female,South Carolina,6925.12
+35,35,95,95,95,Unavalble,Retail Trade,72556638,31545,2004,Female,South Carolina,2300.1
+36,36,120,120,120,All Education Categories,Finance and Insurance,323252695,18062,2004,Male,South Carolina,17896.84
+37,37,121,121,121,Less Than High School,Finance and Insurance,6330797,711,2004,Male,South Carolina,8904.07
+38,38,122,122,122,High School Graduate,Finance and Insurance,31137484,2651,2004,Male,South Carolina,11745.56
+39,39,123,123,123,Some College,Finance and Insurance,65931730,4395,2004,Male,South Carolina,15001.53
+40,40,124,124,124,Advanced Degree,Finance and Insurance,211006604,8871,2004,Male,South Carolina,23786.11
+41,41,125,125,125,Unavalble,Finance and Insurance,8846080,1435,2004,Male,South Carolina,6164.52
+42,42,126,126,126,All Education Categories,Finance and Insurance,394368817,47002,2004,Female,South Carolina,8390.47
+43,43,127,127,127,Less Than High School,Finance and Insurance,10646557,1778,2004,Female,South Carolina,5987.94
+44,44,128,128,128,High School Graduate,Finance and Insurance,73980766,10675,2004,Female,South Carolina,6930.28
+45,45,129,129,129,Some College,Finance and Insurance,118402676,14819,2004,Female,South Carolina,7989.92
+46,46,130,130,130,Advanced Degree,Finance and Insurance,164696794,14520,2004,Female,South Carolina,11342.75
+47,47,131,131,131,Unavalble,Finance and Insurance,26642025,5209,2004,Female,South Carolina,5114.61
+48,48,180,180,180,All Education Categories,Educational Services,406521034,42996,2004,Male,South Carolina,9454.86
+49,49,181,181,181,Less Than High School,Educational Services,16755129,2820,2004,Male,South Carolina,5941.54
+50,50,182,182,182,High School Graduate,Educational Services,62012729,8424,2004,Male,South Carolina,7361.44
+51,51,183,183,183,Some College,Educational Services,98779215,11277,2004,Male,South Carolina,8759.35
+52,52,184,184,184,Advanced Degree,Educational Services,221161684,18033,2004,Male,South Carolina,12264.28
+53,53,185,185,185,Unavalble,Educational Services,7812276,2441,2004,Male,South Carolina,3200.44
+54,54,186,186,186,All Education Categories,Educational Services,834911386,115549,2004,Female,South Carolina,7225.6
+55,55,187,187,187,Less Than High School,Educational Services,23296812,5911,2004,Female,South Carolina,3941.26
+56,56,188,188,188,High School Graduate,Educational Services,140243461,26199,2004,Female,South Carolina,5353.01
+57,57,189,189,189,Some College,Educational Services,224363208,33193,2004,Female,South Carolina,6759.35
+58,58,190,190,190,Advanced Degree,Educational Services,425831715,44529,2004,Female,South Carolina,9563.02
+59,59,191,191,191,Unavalble,Educational Services,21176189,5718,2004,Female,South Carolina,3703.43
+60,60,192,192,192,All Education Categories,Health Care and Social Assistance,482726899,32251,2004,Male,South Carolina,14967.81
+61,61,193,193,193,Less Than High School,Health Care and Social Assistance,17300906,2668,2004,Male,South Carolina,6484.6
+62,62,194,194,194,High School Graduate,Health Care and Social Assistance,59460603,6594,2004,Male,South Carolina,9017.38
+63,63,195,195,195,Some College,Health Care and Social Assistance,115253089,9167,2004,Male,South Carolina,12572.61
+64,64,196,196,196,Advanced Degree,Health Care and Social Assistance,281314898,11529,2004,Male,South Carolina,24400.63
+65,65,197,197,197,Unavalble,Health Care and Social Assistance,9397403,2295,2004,Male,South Carolina,4094.73
+66,66,198,198,198,All Education Categories,Health Care and Social Assistance,1084786013,157536,2004,Female,South Carolina,6885.96
+67,67,199,199,199,Less Than High School,Health Care and Social Assistance,55815842,12438,2004,Female,South Carolina,4487.53
+68,68,200,200,200,High School Graduate,Health Care and Social Assistance,206928938,37339,2004,Female,South Carolina,5541.9
+69,69,201,201,201,Some College,Health Care and Social Assistance,407815559,58810,2004,Female,South Carolina,6934.46
+70,70,202,202,202,Advanced Degree,Health Care and Social Assistance,355580732,34930,2004,Female,South Carolina,10179.81
+71,71,203,203,203,Unavalble,Health Care and Social Assistance,58644942,14018,2004,Female,South Carolina,4183.55
+72,72,216,216,216,All Education Categories,Accommodation and Food Services,257056444,66056,2004,Male,South Carolina,3891.49
+73,73,217,217,217,Less Than High School,Accommodation and Food Services,35576906,8912,2004,Male,South Carolina,3992.02
+74,74,218,218,218,High School Graduate,Accommodation and Food Services,67376089,14569,2004,Male,South Carolina,4624.62
+75,75,219,219,219,Some College,Accommodation and Food Services,58590583,10891,2004,Male,South Carolina,5379.72
+76,76,220,220,220,Advanced Degree,Accommodation and Food Services,33589436,4778,2004,Male,South Carolina,7030.02
+77,77,221,221,221,Unavalble,Accommodation and Food Services,61923430,26907,2004,Male,South Carolina,2301.39
+78,78,222,222,222,All Education Categories,Accommodation and Food Services,266635857,94612,2004,Female,South Carolina,2818.2
+79,79,223,223,223,Less Than High School,Accommodation and Food Services,36733211,13079,2004,Female,South Carolina,2808.56
+80,80,224,224,224,High School Graduate,Accommodation and Food Services,70175442,22174,2004,Female,South Carolina,3164.76
+81,81,225,225,225,Some College,Accommodation and Food Services,59524644,16800,2004,Female,South Carolina,3543.13
+82,82,226,226,226,Advanced Degree,Accommodation and Food Services,25590007,5733,2004,Female,South Carolina,4463.63
+83,83,227,227,227,Unavalble,Accommodation and Food Services,74612553,36825,2004,Female,South Carolina,2026.14
+84,84,252,252,252,All Education Categories,00,8552160220,863079,2005,Male,South Carolina,9908.9
+85,85,253,253,253,Less Than High School,00,719714989,104015,2005,Male,South Carolina,6919.34
+86,86,254,254,254,High School Graduate,00,2149343682,245410,2005,Male,South Carolina,8758.17
+87,87,255,255,255,Some College,00,2417943472,228683,2005,Male,South Carolina,10573.34
+88,88,256,256,256,Advanced Degree,00,2802302272,169400,2005,Male,South Carolina,16542.52
+89,89,257,257,257,Unavalble,00,462855805,115572,2005,Male,South Carolina,4004.91
+90,90,258,258,258,All Education Categories,00,5582326045,882215,2005,Female,South Carolina,6327.63
+91,91,259,259,259,Less Than High School,00,363593031,82951,2005,Female,South Carolina,4383.23
+92,92,260,260,260,High School Graduate,00,1309138175,236982,2005,Female,South Carolina,5524.21
+93,93,261,261,261,Some College,00,1751621768,258741,2005,Female,South Carolina,6769.79
+94,94,262,262,262,Advanced Degree,00,1744596653,173355,2005,Female,South Carolina,10063.72
+95,95,263,263,263,Unavalble,00,413376418,130186,2005,Female,South Carolina,3175.28
+96,96,312,312,312,All Education Categories,Manufacturing,2164091435,182862,2005,Male,South Carolina,11834.56
+97,97,313,313,313,Less Than High School,Manufacturing,204060207,23414,2005,Male,South Carolina,8715.31
+98,98,314,314,314,High School Graduate,Manufacturing,681400956,64387,2005,Male,South Carolina,10582.9
+99,99,315,315,315,Some College,Manufacturing,685126950,54889,2005,Male,South Carolina,12482.04
+100,100,316,316,316,Advanced Degree,Manufacturing,517320456,28157,2005,Male,South Carolina,18372.71
+101,101,317,317,317,Unavalble,Manufacturing,76182865,12014,2005,Male,South Carolina,6341.17
+102,102,318,318,318,All Education Categories,Manufacturing,682923219,88782,2005,Female,South Carolina,7692.14
+103,103,319,319,319,Less Than High School,Manufacturing,70078561,11732,2005,Female,South Carolina,5973.28
+104,104,320,320,320,High School Graduate,Manufacturing,241668217,34540,2005,Female,South Carolina,6996.76
+105,105,321,321,321,Some College,Manufacturing,221100839,27072,2005,Female,South Carolina,8167.14
+106,106,322,322,322,Advanced Degree,Manufacturing,124791482,10744,2005,Female,South Carolina,11614.99
+107,107,323,323,323,Unavalble,Manufacturing,25284121,4693,2005,Female,South Carolina,5387.62
+108,108,336,336,336,All Education Categories,Retail Trade,752451598,104465,2005,Male,South Carolina,7202.91
+109,109,337,337,337,Less Than High School,Retail Trade,77244417,12781,2005,Male,South Carolina,6043.69
+110,110,338,338,338,High School Graduate,Retail Trade,229161448,30505,2005,Male,South Carolina,7512.26
+111,111,339,339,339,Some College,Retail Trade,217052565,24599,2005,Male,South Carolina,8823.63
+112,112,340,340,340,Advanced Degree,Retail Trade,152367195,11826,2005,Male,South Carolina,12884.09
+113,113,341,341,341,Unavalble,Retail Trade,76625973,24755,2005,Male,South Carolina,3095.37
+114,114,342,342,342,All Education Categories,Retail Trade,504438957,121769,2005,Female,South Carolina,4142.59
+115,115,343,343,343,Less Than High School,Retail Trade,54510842,14339,2005,Female,South Carolina,3801.58
+116,116,344,344,344,High School Graduate,Retail Trade,163945309,37009,2005,Female,South Carolina,4429.88
+117,117,345,345,345,Some College,Retail Trade,136844281,27428,2005,Female,South Carolina,4989.22
+118,118,346,346,346,Advanced Degree,Retail Trade,72575318,10197,2005,Female,South Carolina,7117.32
+119,119,347,347,347,Unavalble,Retail Trade,76563206,32797,2005,Female,South Carolina,2334.46
+120,120,372,372,372,All Education Categories,Finance and Insurance,366612933,19966,2005,Male,South Carolina,18361.86
+121,121,373,373,373,Less Than High School,Finance and Insurance,7834342,842,2005,Male,South Carolina,9304.44
+122,122,374,374,374,High School Graduate,Finance and Insurance,37438893,3086,2005,Male,South Carolina,12131.85
+123,123,375,375,375,Some College,Finance and Insurance,75675801,4937,2005,Male,South Carolina,15328.3
+124,124,376,376,376,Advanced Degree,Finance and Insurance,236262141,9714,2005,Male,South Carolina,24321.82
+125,125,377,377,377,Unavalble,Finance and Insurance,9401757,1387,2005,Male,South Carolina,6778.48
+126,126,378,378,378,All Education Categories,Finance and Insurance,436213194,49627,2005,Female,South Carolina,8789.84
+127,127,379,379,379,Less Than High School,Finance and Insurance,12144803,1988,2005,Female,South Carolina,6109.06
+128,128,380,380,380,High School Graduate,Finance and Insurance,81482837,11355,2005,Female,South Carolina,7175.94
+129,129,381,381,381,Some College,Finance and Insurance,131239165,15828,2005,Female,South Carolina,8291.58
+130,130,382,382,382,Advanced Degree,Finance and Insurance,186141595,15583,2005,Female,South Carolina,11945.17
+131,131,383,383,383,Unavalble,Finance and Insurance,25204794,4873,2005,Female,South Carolina,5172.34
+132,132,432,432,432,All Education Categories,Educational Services,420160244,42950,2005,Male,South Carolina,9782.54
+133,133,433,433,433,Less Than High School,Educational Services,17593573,2827,2005,Male,South Carolina,6223.41
+134,134,434,434,434,High School Graduate,Educational Services,64962793,8432,2005,Male,South Carolina,7704.32
+135,135,435,435,435,Some College,Educational Services,103160720,11313,2005,Male,South Carolina,9118.78
+136,136,436,436,436,Advanced Degree,Educational Services,226095326,17939,2005,Male,South Carolina,12603.56
+137,137,437,437,437,Unavalble,Educational Services,8347830,2438,2005,Male,South Carolina,3424.05
+138,138,438,438,438,All Education Categories,Educational Services,865680122,115282,2005,Female,South Carolina,7509.24
+139,139,439,439,439,Less Than High School,Educational Services,24624822,5893,2005,Female,South Carolina,4178.66
+140,140,440,440,440,High School Graduate,Educational Services,145583576,26101,2005,Female,South Carolina,5577.7
+141,141,441,441,441,Some College,Educational Services,234662537,33284,2005,Female,South Carolina,7050.31
+142,142,442,442,442,Advanced Degree,Educational Services,437398277,44203,2005,Female,South Carolina,9895.22
+143,143,443,443,443,Unavalble,Educational Services,23410910,5801,2005,Female,South Carolina,4035.67
+144,144,444,444,444,All Education Categories,Health Care and Social Assistance,499188717,31800,2005,Male,South Carolina,15697.76
+145,145,445,445,445,Less Than High School,Health Care and Social Assistance,17511979,2588,2005,Male,South Carolina,6766.61
+146,146,446,446,446,High School Graduate,Health Care and Social Assistance,60179046,6467,2005,Male,South Carolina,9305.56
+147,147,447,447,447,Some College,Health Care and Social Assistance,117781345,9066,2005,Male,South Carolina,12991.54
+148,148,448,448,448,Advanced Degree,Health Care and Social Assistance,291222934,11493,2005,Male,South Carolina,25339.16
+149,149,449,449,449,Unavalble,Health Care and Social Assistance,12493414,2186,2005,Male,South Carolina,5715.19
+150,150,450,450,450,All Education Categories,Health Care and Social Assistance,1107326622,156726,2005,Female,South Carolina,7065.37
+151,151,451,451,451,Less Than High School,Health Care and Social Assistance,57229956,12479,2005,Female,South Carolina,4586.1
+152,152,452,452,452,High School Graduate,Health Care and Social Assistance,210581584,37295,2005,Female,South Carolina,5646.38
+153,153,453,453,453,Some College,Health Care and Social Assistance,413777533,58625,2005,Female,South Carolina,7058.04
+154,154,454,454,454,Advanced Degree,Health Care and Social Assistance,362468288,34757,2005,Female,South Carolina,10428.64
+155,155,455,455,455,Unavalble,Health Care and Social Assistance,63269261,13569,2005,Female,South Carolina,4662.78
+156,156,468,468,468,All Education Categories,Accommodation and Food Services,266244491,67952,2005,Male,South Carolina,3918.13
+157,157,469,469,469,Less Than High School,Accommodation and Food Services,37054203,9195,2005,Male,South Carolina,4029.82
+158,158,470,470,470,High School Graduate,Accommodation and Food Services,69736601,15024,2005,Male,South Carolina,4641.68
+159,159,471,471,471,Some College,Accommodation and Food Services,60525928,11263,2005,Male,South Carolina,5373.87
+160,160,472,472,472,Advanced Degree,Accommodation and Food Services,34415972,4882,2005,Male,South Carolina,7049.56
+161,161,473,473,473,Unavalble,Accommodation and Food Services,64511786,27588,2005,Male,South Carolina,2338.4
+162,162,474,474,474,All Education Categories,Accommodation and Food Services,282744280,97954,2005,Female,South Carolina,2886.5
+163,163,475,475,475,Less Than High School,Accommodation and Food Services,39040061,13520,2005,Female,South Carolina,2887.58
+164,164,476,476,476,High School Graduate,Accommodation and Food Services,73873926,22704,2005,Female,South Carolina,3253.78
+165,165,477,477,477,Some College,Accommodation and Food Services,62848589,17365,2005,Female,South Carolina,3619.27
+166,166,478,478,478,Advanced Degree,Accommodation and Food Services,27460504,5981,2005,Female,South Carolina,4591.29
+167,167,479,479,479,Unavalble,Accommodation and Food Services,79521200,38385,2005,Female,South Carolina,2071.67
+168,168,504,504,504,All Education Categories,00,9383423645,881449,2006,Male,South Carolina,10645.45
+169,169,505,505,505,Less Than High School,00,801482237,106369,2006,Male,South Carolina,7534.92
+170,170,506,506,506,High School Graduate,00,2365877639,250231,2006,Male,South Carolina,9454.77
+171,171,507,507,507,Some College,00,2661565315,234311,2006,Male,South Carolina,11359.11
+172,172,508,508,508,Advanced Degree,00,3039208168,171624,2006,Male,South Carolina,17708.53
+173,173,509,509,509,Unavalble,00,515290286,118914,2006,Male,South Carolina,4333.3
+174,174,510,510,510,All Education Categories,00,6112497782,895226,2006,Female,South Carolina,6827.88
+175,175,511,511,511,Less Than High School,00,404067635,84973,2006,Female,South Carolina,4755.25
+176,176,512,512,512,High School Graduate,00,1429300895,239601,2006,Female,South Carolina,5965.34
+177,177,513,513,513,Some College,00,1928394531,263756,2006,Female,South Carolina,7311.28
+178,178,514,514,514,Advanced Degree,00,1904103029,174464,2006,Female,South Carolina,10914.02
+179,179,515,515,515,Unavalble,00,446631691,132433,2006,Female,South Carolina,3372.51
+180,180,564,564,564,All Education Categories,Manufacturing,2231581214,178996,2006,Male,South Carolina,12467.21
+181,181,565,565,565,Less Than High School,Manufacturing,213214186,22927,2006,Male,South Carolina,9299.7
+182,182,566,566,566,High School Graduate,Manufacturing,708274088,63018,2006,Male,South Carolina,11239.23
+183,183,567,567,567,Some College,Manufacturing,709924373,54006,2006,Male,South Carolina,13145.29
+184,184,568,568,568,Advanced Degree,Manufacturing,520932848,27434,2006,Male,South Carolina,18988.59
+185,185,569,569,569,Unavalble,Manufacturing,79235718,11610,2006,Male,South Carolina,6824.78
+186,186,570,570,570,All Education Categories,Manufacturing,695974132,84034,2006,Female,South Carolina,8282.05
+187,187,571,571,571,Less Than High School,Manufacturing,70905247,10924,2006,Female,South Carolina,6490.78
+188,188,572,572,572,High School Graduate,Manufacturing,245132685,32434,2006,Female,South Carolina,7557.89
+189,189,573,573,573,Some College,Manufacturing,227451818,25896,2006,Female,South Carolina,8783.28
+190,190,574,574,574,Advanced Degree,Manufacturing,127707118,10410,2006,Female,South Carolina,12267.73
+191,191,575,575,575,Unavalble,Manufacturing,24777264,4370,2006,Female,South Carolina,5669.85
+192,192,588,588,588,All Education Categories,Retail Trade,819140057,107174,2006,Male,South Carolina,7643.09
+193,193,589,589,589,Less Than High School,Retail Trade,84560919,13044,2006,Male,South Carolina,6482.74
+194,194,590,590,590,High School Graduate,Retail Trade,249165336,31030,2006,Male,South Carolina,8029.82
+195,195,591,591,591,Some College,Retail Trade,237123397,25322,2006,Male,South Carolina,9364.32
+196,196,592,592,592,Advanced Degree,Retail Trade,163066892,12052,2006,Male,South Carolina,13530.28
+197,197,593,593,593,Unavalble,Retail Trade,85223513,25726,2006,Male,South Carolina,3312.74
+198,198,594,594,594,All Education Categories,Retail Trade,557415956,125964,2006,Female,South Carolina,4425.2
+199,199,595,595,595,Less Than High School,Retail Trade,60476412,14900,2006,Female,South Carolina,4058.82
+200,200,596,596,596,High School Graduate,Retail Trade,179330870,37815,2006,Female,South Carolina,4742.32
+201,201,597,597,597,Some College,Retail Trade,152032887,28364,2006,Female,South Carolina,5360.07
+202,202,598,598,598,Advanced Degree,Retail Trade,81484095,10617,2006,Female,South Carolina,7674.87
+203,203,599,599,599,Unavalble,Retail Trade,84091692,34268,2006,Female,South Carolina,2453.94
+204,204,624,624,624,All Education Categories,Finance and Insurance,414495293,20239,2006,Male,South Carolina,20480.03
+205,205,625,625,625,Less Than High School,Finance and Insurance,8803474,849,2006,Male,South Carolina,10369.23
+206,206,626,626,626,High School Graduate,Finance and Insurance,41652476,3090,2006,Male,South Carolina,13479.77
+207,207,627,627,627,Some College,Finance and Insurance,87063593,5081,2006,Male,South Carolina,17135.13
+208,208,628,628,628,Advanced Degree,Finance and Insurance,267162087,9881,2006,Male,South Carolina,27037.96
+209,209,629,629,629,Unavalble,Finance and Insurance,9813663,1338,2006,Male,South Carolina,7334.58
+210,210,630,630,630,All Education Categories,Finance and Insurance,493714882,50435,2006,Female,South Carolina,9789.13
+211,211,631,631,631,Less Than High School,Finance and Insurance,14394152,2102,2006,Female,South Carolina,6847.84
+212,212,632,632,632,High School Graduate,Finance and Insurance,91997023,11603,2006,Female,South Carolina,7928.73
+213,213,633,633,633,Some College,Finance and Insurance,148796194,16182,2006,Female,South Carolina,9195.17
+214,214,634,634,634,Advanced Degree,Finance and Insurance,211112507,15854,2006,Female,South Carolina,13316.04
+215,215,635,635,635,Unavalble,Finance and Insurance,27415005,4694,2006,Female,South Carolina,5840.44
+216,216,684,684,684,All Education Categories,Educational Services,446101345,42431,2006,Male,South Carolina,10513.57
+217,217,685,685,685,Less Than High School,Educational Services,19294226,2871,2006,Male,South Carolina,6720.39
+218,218,686,686,686,High School Graduate,Educational Services,70886480,8523,2006,Male,South Carolina,8317.08
+219,219,687,687,687,Some College,Educational Services,111131683,11283,2006,Male,South Carolina,9849.48
+220,220,688,688,688,Advanced Degree,Educational Services,235405010,17388,2006,Male,South Carolina,13538.36
+221,221,689,689,689,Unavalble,Educational Services,9383946,2366,2006,Male,South Carolina,3966.16
+222,222,690,690,690,All Education Categories,Educational Services,924678108,111814,2006,Female,South Carolina,8269.79
+223,223,691,691,691,Less Than High School,Educational Services,27515551,5832,2006,Female,South Carolina,4718.03
+224,224,692,692,692,High School Graduate,Educational Services,156893702,25576,2006,Female,South Carolina,6134.41
+225,225,693,693,693,Some College,Educational Services,253460178,32819,2006,Female,South Carolina,7722.97
+226,226,694,694,694,Advanced Degree,Educational Services,461153210,42125,2006,Female,South Carolina,10947.26
+227,227,695,695,695,Unavalble,Educational Services,25655468,5462,2006,Female,South Carolina,4697.08
+228,228,696,696,696,All Education Categories,Health Care and Social Assistance,526675298,32787,2006,Male,South Carolina,16063.54
+229,229,697,697,697,Less Than High School,Health Care and Social Assistance,19296170,2726,2006,Male,South Carolina,7078.57
+230,230,698,698,698,High School Graduate,Health Care and Social Assistance,65629704,6785,2006,Male,South Carolina,9672.76
+231,231,699,699,699,Some College,Health Care and Social Assistance,126683337,9353,2006,Male,South Carolina,13544.67
+232,232,700,700,700,Advanced Degree,Health Care and Social Assistance,305349050,11656,2006,Male,South Carolina,26196.73
+233,233,701,701,701,Unavalble,Health Care and Social Assistance,9717038,2266,2006,Male,South Carolina,4288.19
+234,234,702,702,702,All Education Categories,Health Care and Social Assistance,1205655931,161662,2006,Female,South Carolina,7457.88
+235,235,703,703,703,Less Than High School,Health Care and Social Assistance,63748405,13047,2006,Female,South Carolina,4886.06
+236,236,704,704,704,High School Graduate,Health Care and Social Assistance,232290415,38913,2006,Female,South Carolina,5969.48
+237,237,705,705,705,Some College,Health Care and Social Assistance,454578347,60697,2006,Female,South Carolina,7489.31
+238,238,706,706,706,Advanced Degree,Health Care and Social Assistance,394712389,35749,2006,Female,South Carolina,11041.21
+239,239,707,707,707,Unavalble,Health Care and Social Assistance,60326375,13256,2006,Female,South Carolina,4550.87
+240,240,720,720,720,All Education Categories,Accommodation and Food Services,297749150,70278,2006,Male,South Carolina,4236.73
+241,241,721,721,721,Less Than High School,Accommodation and Food Services,41669903,9571,2006,Male,South Carolina,4353.77
+242,242,722,722,722,High School Graduate,Accommodation and Food Services,78176330,15627,2006,Male,South Carolina,5002.64
+243,243,723,723,723,Some College,Accommodation and Food Services,67659888,11709,2006,Male,South Carolina,5778.45
+244,244,724,724,724,Advanced Degree,Accommodation and Food Services,39378984,5060,2006,Male,South Carolina,7782.41
+245,245,725,725,725,Unavalble,Accommodation and Food Services,70864045,28312,2006,Male,South Carolina,2502.97
+246,246,726,726,726,All Education Categories,Accommodation and Food Services,312974039,100016,2006,Female,South Carolina,3129.24
+247,247,727,727,727,Less Than High School,Accommodation and Food Services,43268799,13865,2006,Female,South Carolina,3120.72
+248,248,728,728,728,High School Graduate,Accommodation and Food Services,81366480,23092,2006,Female,South Carolina,3523.58
+249,249,729,729,729,Some College,Accommodation and Food Services,69787204,17784,2006,Female,South Carolina,3924.16
+250,250,730,730,730,Advanced Degree,Accommodation and Food Services,31012717,6219,2006,Female,South Carolina,4986.77
+251,251,731,731,731,Unavalble,Accommodation and Food Services,87538839,39055,2006,Female,South Carolina,2241.42
+252,252,756,756,756,All Education Categories,00,10154317298,896954,2007,Male,South Carolina,11320.89
+253,253,757,757,757,Less Than High School,00,841121489,108552,2007,Male,South Carolina,7748.56
+254,254,758,758,758,High School Graduate,00,2490764409,254049,2007,Male,South Carolina,9804.27
+255,255,759,759,759,Some College,00,2860194393,239053,2007,Male,South Carolina,11964.69
+256,256,760,760,760,Advanced Degree,00,3426847187,174440,2007,Male,South Carolina,19644.85
+257,257,761,761,761,Unavalble,00,535389821,120861,2007,Male,South Carolina,4429.8
+258,258,762,762,762,All Education Categories,00,6545814886,923364,2007,Female,South Carolina,7089.09
+259,259,763,763,763,Less Than High School,00,433608948,88072,2007,Female,South Carolina,4923.35
+260,260,764,764,764,High School Graduate,00,1512750310,245338,2007,Female,South Carolina,6165.98
+261,261,765,765,765,Some College,00,2071802770,273299,2007,Female,South Carolina,7580.72
+262,262,766,766,766,Advanced Degree,00,2062057094,181742,2007,Female,South Carolina,11346.07
+263,263,767,767,767,Unavalble,00,465595765,134912,2007,Female,South Carolina,3451.11
+264,264,816,816,816,All Education Categories,Manufacturing,2332800098,174540,2007,Male,South Carolina,13365.42
+265,265,817,817,817,Less Than High School,Manufacturing,215963613,22137,2007,Male,South Carolina,9755.78
+266,266,818,818,818,High School Graduate,Manufacturing,724219962,60979,2007,Male,South Carolina,11876.55
+267,267,819,819,819,Some College,Manufacturing,742036407,52750,2007,Male,South Carolina,14067.04
+268,268,820,820,820,Advanced Degree,Manufacturing,568096451,26967,2007,Male,South Carolina,21066.36
+269,269,821,821,821,Unavalble,Manufacturing,82483665,11707,2007,Male,South Carolina,7045.67
+270,270,822,822,822,All Education Categories,Manufacturing,700396062,81792,2007,Female,South Carolina,8563.14
+271,271,823,823,823,Less Than High School,Manufacturing,71138706,10664,2007,Female,South Carolina,6670.92
+272,272,824,824,824,High School Graduate,Manufacturing,242320477,31144,2007,Female,South Carolina,7780.65
+273,273,825,825,825,Some College,Manufacturing,228667314,25220,2007,Female,South Carolina,9066.9
+274,274,826,826,826,Advanced Degree,Manufacturing,131659329,10295,2007,Female,South Carolina,12788.67
+275,275,827,827,827,Unavalble,Manufacturing,26610236,4469,2007,Female,South Carolina,5954.41
+276,276,840,840,840,All Education Categories,Retail Trade,848536226,108902,2007,Male,South Carolina,7791.74
+277,277,841,841,841,Less Than High School,Retail Trade,88448857,13339,2007,Male,South Carolina,6630.85
+278,278,842,842,842,High School Graduate,Retail Trade,256090043,31339,2007,Male,South Carolina,8171.61
+279,279,843,843,843,Some College,Retail Trade,246121940,25768,2007,Male,South Carolina,9551.46
+280,280,844,844,844,Advanced Degree,Retail Trade,170921686,12312,2007,Male,South Carolina,13882.53
+281,281,845,845,845,Unavalble,Retail Trade,86953700,26143,2007,Male,South Carolina,3326.08
+282,282,846,846,846,All Education Categories,Retail Trade,565575937,126105,2007,Female,South Carolina,4484.96
+283,283,847,847,847,Less Than High School,Retail Trade,61493773,14908,2007,Female,South Carolina,4124.88
+284,284,848,848,848,High School Graduate,Retail Trade,181505095,37648,2007,Female,South Carolina,4821.11
+285,285,849,849,849,Some College,Retail Trade,155450066,28590,2007,Female,South Carolina,5437.22
+286,286,850,850,850,Advanced Degree,Retail Trade,84178148,10920,2007,Female,South Carolina,7708.62
+287,287,851,851,851,Unavalble,Retail Trade,82948855,34038,2007,Female,South Carolina,2436.95
+288,288,876,876,876,All Education Categories,Finance and Insurance,545682235,21007,2007,Male,South Carolina,25976.21
+289,289,877,877,877,Less Than High School,Finance and Insurance,10472140,943,2007,Male,South Carolina,11105.13
+290,290,878,878,878,High School Graduate,Finance and Insurance,48909806,3285,2007,Male,South Carolina,14888.83
+291,291,879,879,879,Some College,Finance and Insurance,111043945,5303,2007,Male,South Carolina,20939.83
+292,292,880,880,880,Advanced Degree,Finance and Insurance,365596817,10126,2007,Male,South Carolina,36104.76
+293,293,881,881,881,Unavalble,Finance and Insurance,9659527,1350,2007,Male,South Carolina,7155.21
+294,294,882,882,882,All Education Categories,Finance and Insurance,538310786,52395,2007,Female,South Carolina,10274.09
+295,295,883,883,883,Less Than High School,Finance and Insurance,16625650,2382,2007,Female,South Carolina,6979.7
+296,296,884,884,884,High School Graduate,Finance and Insurance,99016428,12056,2007,Female,South Carolina,8213.04
+297,297,885,885,885,Some College,Finance and Insurance,160942868,16787,2007,Female,South Carolina,9587.35
+298,298,886,886,886,Advanced Degree,Finance and Insurance,232916049,16204,2007,Female,South Carolina,14373.98
+299,299,887,887,887,Unavalble,Finance and Insurance,28809790,4966,2007,Female,South Carolina,5801.41
+300,300,936,936,936,All Education Categories,Educational Services,478075271,44939,2007,Male,South Carolina,10638.32
+301,301,937,937,937,Less Than High School,Educational Services,21559387,3125,2007,Male,South Carolina,6899.0
+302,302,938,938,938,High School Graduate,Educational Services,77509946,9129,2007,Male,South Carolina,8490.52
+303,303,939,939,939,Some College,Educational Services,120535941,12067,2007,Male,South Carolina,9988.89
+304,304,940,940,940,Advanced Degree,Educational Services,248518879,18178,2007,Male,South Carolina,13671.41
+305,305,941,941,941,Unavalble,Educational Services,9951119,2440,2007,Male,South Carolina,4078.33
+306,306,942,942,942,All Education Categories,Educational Services,993871830,119268,2007,Female,South Carolina,8333.1
+307,307,943,943,943,Less Than High School,Educational Services,31538753,6425,2007,Female,South Carolina,4908.76
+308,308,944,944,944,High School Graduate,Educational Services,171180664,27181,2007,Female,South Carolina,6297.81
+309,309,945,945,945,Some College,Educational Services,276825134,35354,2007,Female,South Carolina,7830.09
+310,310,946,946,946,Advanced Degree,Educational Services,486362773,44498,2007,Female,South Carolina,10929.99
+311,311,947,947,947,Unavalble,Educational Services,27964506,5810,2007,Female,South Carolina,4813.17
+312,312,948,948,948,All Education Categories,Health Care and Social Assistance,617380894,34036,2007,Male,South Carolina,18139.06
+313,313,949,949,949,Less Than High School,Health Care and Social Assistance,21983832,2893,2007,Male,South Carolina,7598.97
+314,314,950,950,950,High School Graduate,Health Care and Social Assistance,75964190,7205,2007,Male,South Carolina,10543.26
+315,315,951,951,951,Some College,Health Care and Social Assistance,146869120,9760,2007,Male,South Carolina,15048.07
+316,316,952,952,952,Advanced Degree,Health Care and Social Assistance,361917817,11782,2007,Male,South Carolina,30717.86
+317,317,953,953,953,Unavalble,Health Care and Social Assistance,10645936,2396,2007,Male,South Carolina,4443.21
+318,318,954,954,954,All Education Categories,Health Care and Social Assistance,1340719062,169743,2007,Female,South Carolina,7898.52
+319,319,955,955,955,Less Than High School,Health Care and Social Assistance,72283942,14014,2007,Female,South Carolina,5157.98
+320,320,956,956,956,High School Graduate,Health Care and Social Assistance,258711276,41088,2007,Female,South Carolina,6296.52
+321,321,957,957,957,Some College,Health Care and Social Assistance,503445814,63442,2007,Female,South Carolina,7935.53
+322,322,958,958,958,Advanced Degree,Health Care and Social Assistance,441893912,37426,2007,Female,South Carolina,11807.14
+323,323,959,959,959,Unavalble,Health Care and Social Assistance,64384119,13774,2007,Female,South Carolina,4674.32
+324,324,972,972,972,All Education Categories,Accommodation and Food Services,320283965,73026,2007,Male,South Carolina,4385.89
+325,325,973,973,973,Less Than High School,Accommodation and Food Services,45664866,10190,2007,Male,South Carolina,4481.34
+326,326,974,974,974,High School Graduate,Accommodation and Food Services,84791208,16452,2007,Male,South Carolina,5153.85
+327,327,975,975,975,Some College,Accommodation and Food Services,73322962,12302,2007,Male,South Carolina,5960.25
+328,328,976,976,976,Advanced Degree,Accommodation and Food Services,43424191,5373,2007,Male,South Carolina,8081.93
+329,329,977,977,977,Unavalble,Accommodation and Food Services,73080739,28709,2007,Male,South Carolina,2545.57
+330,330,978,978,978,All Education Categories,Accommodation and Food Services,331505284,103370,2007,Female,South Carolina,3206.98
+331,331,979,979,979,Less Than High School,Accommodation and Food Services,45832024,14333,2007,Female,South Carolina,3197.66
+332,332,980,980,980,High School Graduate,Accommodation and Food Services,85716094,23695,2007,Female,South Carolina,3617.48
+333,333,981,981,981,Some College,Accommodation and Food Services,74787412,18616,2007,Female,South Carolina,4017.37
+334,334,982,982,982,Advanced Degree,Accommodation and Food Services,34512701,6668,2007,Female,South Carolina,5175.87
+335,335,983,983,983,Unavalble,Accommodation and Food Services,90657054,40059,2007,Female,South Carolina,2263.09
+336,336,1008,1008,1008,All Education Categories,00,10338665156,901655,2008,Male,South Carolina,11466.32
+337,337,1009,1009,1009,Less Than High School,00,855208551,109066,2008,Male,South Carolina,7841.2
+338,338,1010,1010,1010,High School Graduate,00,2523490531,254581,2008,Male,South Carolina,9912.33
+339,339,1011,1011,1011,Some College,00,2914136395,240944,2008,Male,South Carolina,12094.66
+340,340,1012,1012,1012,Advanced Degree,00,3514498884,177092,2008,Male,South Carolina,19845.61
+341,341,1013,1013,1013,Unavalble,00,531330795,119971,2008,Male,South Carolina,4428.83
+342,342,1014,1014,1014,All Education Categories,00,6736509572,935856,2008,Female,South Carolina,7198.23
+343,343,1015,1015,1015,Less Than High School,00,458016930,90956,2008,Female,South Carolina,5035.59
+344,344,1016,1016,1016,High School Graduate,00,1552616006,247474,2008,Female,South Carolina,6273.86
+345,345,1017,1017,1017,Some College,00,2139989630,277648,2008,Female,South Carolina,7707.56
+346,346,1018,1018,1018,Advanced Degree,00,2121029250,185583,2008,Female,South Carolina,11429.01
+347,347,1019,1019,1019,Unavalble,00,464857756,134193,2008,Female,South Carolina,3464.1
+348,348,1068,1068,1068,All Education Categories,Manufacturing,2346242310,175332,2008,Male,South Carolina,13381.71
+349,349,1069,1069,1069,Less Than High School,Manufacturing,218275307,22264,2008,Male,South Carolina,9803.96
+350,350,1070,1070,1070,High School Graduate,Manufacturing,725216038,60813,2008,Male,South Carolina,11925.35
+351,351,1071,1071,1071,Some College,Manufacturing,745340963,53095,2008,Male,South Carolina,14037.87
+352,352,1072,1072,1072,Advanced Degree,Manufacturing,573150801,27338,2008,Male,South Carolina,20965.35
+353,353,1073,1073,1073,Unavalble,Manufacturing,84259202,11823,2008,Male,South Carolina,7126.72
+354,354,1074,1074,1074,All Education Categories,Manufacturing,695970185,79521,2008,Female,South Carolina,8752.03
+355,355,1075,1075,1075,Less Than High School,Manufacturing,69347040,10285,2008,Female,South Carolina,6742.54
+356,356,1076,1076,1076,High School Graduate,Manufacturing,235674307,29769,2008,Female,South Carolina,7916.77
+357,357,1077,1077,1077,Some College,Manufacturing,228558606,24693,2008,Female,South Carolina,9256.01
+358,358,1078,1078,1078,Advanced Degree,Manufacturing,136889901,10358,2008,Female,South Carolina,13215.86
+359,359,1079,1079,1079,Unavalble,Manufacturing,25500331,4416,2008,Female,South Carolina,5774.53
+360,360,1092,1092,1092,All Education Categories,Retail Trade,842595539,109130,2008,Male,South Carolina,7721.03
+361,361,1093,1093,1093,Less Than High School,Retail Trade,89353951,13489,2008,Male,South Carolina,6624.21
+362,362,1094,1094,1094,High School Graduate,Retail Trade,255088769,31346,2008,Male,South Carolina,8137.84
+363,363,1095,1095,1095,Some College,Retail Trade,245927705,25888,2008,Male,South Carolina,9499.68
+364,364,1096,1096,1096,Advanced Degree,Retail Trade,167663973,12502,2008,Male,South Carolina,13410.97
+365,365,1097,1097,1097,Unavalble,Retail Trade,84561141,25906,2008,Male,South Carolina,3264.15
+366,366,1098,1098,1098,All Education Categories,Retail Trade,587054980,129257,2008,Female,South Carolina,4541.77
+367,367,1099,1099,1099,Less Than High School,Retail Trade,65627399,15619,2008,Female,South Carolina,4201.77
+368,368,1100,1100,1100,High School Graduate,Retail Trade,186899016,38251,2008,Female,South Carolina,4886.12
+369,369,1101,1101,1101,Some College,Retail Trade,162330283,29664,2008,Female,South Carolina,5472.3
+370,370,1102,1102,1102,Advanced Degree,Retail Trade,87636195,11504,2008,Female,South Carolina,7617.89
+371,371,1103,1103,1103,Unavalble,Retail Trade,84562087,34220,2008,Female,South Carolina,2471.13
+372,372,1128,1128,1128,All Education Categories,Finance and Insurance,530032280,20996,2008,Male,South Carolina,25244.44
+373,373,1129,1129,1129,Less Than High School,Finance and Insurance,11159623,1039,2008,Male,South Carolina,10740.73
+374,374,1130,1130,1130,High School Graduate,Finance and Insurance,49472630,3416,2008,Male,South Carolina,14482.62
+375,375,1131,1131,1131,Some College,Finance and Insurance,108951319,5318,2008,Male,South Carolina,20487.27
+376,376,1132,1132,1132,Advanced Degree,Finance and Insurance,350833453,9895,2008,Male,South Carolina,35455.63
+377,377,1133,1133,1133,Unavalble,Finance and Insurance,9615255,1328,2008,Male,South Carolina,7240.4
+378,378,1134,1134,1134,All Education Categories,Finance and Insurance,524382729,51192,2008,Female,South Carolina,10243.45
+379,379,1135,1135,1135,Less Than High School,Finance and Insurance,17762838,2671,2008,Female,South Carolina,6650.26
+380,380,1136,1136,1136,High School Graduate,Finance and Insurance,97262814,11964,2008,Female,South Carolina,8129.62
+381,381,1137,1137,1137,Some College,Finance and Insurance,157417055,16338,2008,Female,South Carolina,9635.03
+382,382,1138,1138,1138,Advanced Degree,Finance and Insurance,225891145,15610,2008,Female,South Carolina,14470.93
+383,383,1139,1139,1139,Unavalble,Finance and Insurance,26048877,4609,2008,Female,South Carolina,5651.74
+384,384,1188,1188,1188,All Education Categories,Educational Services,500422640,46196,2008,Male,South Carolina,10832.6
+385,385,1189,1189,1189,Less Than High School,Educational Services,23569351,3293,2008,Male,South Carolina,7157.41
+386,386,1190,1190,1190,High School Graduate,Educational Services,82415653,9502,2008,Male,South Carolina,8673.51
+387,387,1191,1191,1191,Some College,Educational Services,126643300,12469,2008,Male,South Carolina,10156.65
+388,388,1192,1192,1192,Advanced Degree,Educational Services,256676565,18404,2008,Male,South Carolina,13946.78
+389,389,1193,1193,1193,Unavalble,Educational Services,11117772,2527,2008,Male,South Carolina,4399.59
+390,390,1194,1194,1194,All Education Categories,Educational Services,1024058868,123615,2008,Female,South Carolina,8284.26
+391,391,1195,1195,1195,Less Than High School,Educational Services,34742236,6902,2008,Female,South Carolina,5033.65
+392,392,1196,1196,1196,High School Graduate,Educational Services,178846797,28049,2008,Female,South Carolina,6376.23
+393,393,1197,1197,1197,Some College,Educational Services,288603249,36852,2008,Female,South Carolina,7831.41
+394,394,1198,1198,1198,Advanced Degree,Educational Services,491951760,45717,2008,Female,South Carolina,10760.81
+395,395,1199,1199,1199,Unavalble,Educational Services,29914826,6094,2008,Female,South Carolina,4908.9
+396,396,1200,1200,1200,All Education Categories,Health Care and Social Assistance,648880496,35826,2008,Male,South Carolina,18112.0
+397,397,1201,1201,1201,Less Than High School,Health Care and Social Assistance,24265906,3109,2008,Male,South Carolina,7805.05
+398,398,1202,1202,1202,High School Graduate,Health Care and Social Assistance,81198393,7607,2008,Male,South Carolina,10674.17
+399,399,1203,1203,1203,Some College,Health Care and Social Assistance,154125866,10226,2008,Male,South Carolina,15071.96
+400,400,1204,1204,1204,Advanced Degree,Health Care and Social Assistance,377513896,12398,2008,Male,South Carolina,30449.58
+401,401,1205,1205,1205,Unavalble,Health Care and Social Assistance,11776436,2487,2008,Male,South Carolina,4735.2
+402,402,1206,1206,1206,All Education Categories,Health Care and Social Assistance,1420584685,175988,2008,Female,South Carolina,8072.05
+403,403,1207,1207,1207,Less Than High School,Health Care and Social Assistance,80135232,15005,2008,Female,South Carolina,5340.57
+404,404,1208,1208,1208,High School Graduate,Health Care and Social Assistance,276194235,42856,2008,Female,South Carolina,6444.7
+405,405,1209,1209,1209,Some College,Health Care and Social Assistance,530538322,65350,2008,Female,South Carolina,8118.41
+406,406,1210,1210,1210,Advanced Degree,Health Care and Social Assistance,467347153,38706,2008,Female,South Carolina,12074.28
+407,407,1211,1211,1211,Unavalble,Health Care and Social Assistance,66369743,14071,2008,Female,South Carolina,4716.78
+408,408,1224,1224,1224,All Education Categories,Accommodation and Food Services,331293808,75060,2008,Male,South Carolina,4413.72
+409,409,1225,1225,1225,Less Than High School,Accommodation and Food Services,47511112,10603,2008,Male,South Carolina,4480.91
+410,410,1226,1226,1226,High School Graduate,Accommodation and Food Services,87147635,16891,2008,Male,South Carolina,5159.41
+411,411,1227,1227,1227,Some College,Accommodation and Food Services,76021772,12651,2008,Male,South Carolina,6009.15
+412,412,1228,1228,1228,Advanced Degree,Accommodation and Food Services,46973349,5633,2008,Male,South Carolina,8338.96
+413,413,1229,1229,1229,Unavalble,Accommodation and Food Services,73639940,29282,2008,Male,South Carolina,2514.85
+414,414,1230,1230,1230,All Education Categories,Accommodation and Food Services,340539289,103759,2008,Female,South Carolina,3282.02
+415,415,1231,1231,1231,Less Than High School,Accommodation and Food Services,47469919,14522,2008,Female,South Carolina,3268.83
+416,416,1232,1232,1232,High School Graduate,Accommodation and Food Services,87608750,23745,2008,Female,South Carolina,3689.57
+417,417,1233,1233,1233,Some College,Accommodation and Food Services,78147022,18954,2008,Female,South Carolina,4122.98
+418,418,1234,1234,1234,Advanced Degree,Accommodation and Food Services,37578840,7071,2008,Female,South Carolina,5314.5
+419,419,1235,1235,1235,Unavalble,Accommodation and Food Services,89734757,39467,2008,Female,South Carolina,2273.67
+420,420,1260,1260,1260,All Education Categories,00,9341295128,844672,2009,Male,South Carolina,11059.08
+421,421,1261,1261,1261,Less Than High School,00,754483310,102092,2009,Male,South Carolina,7390.23
+422,422,1262,1262,1262,High School Graduate,00,2246370088,239480,2009,Male,South Carolina,9380.2
+423,423,1263,1263,1263,Some College,00,2639538428,228937,2009,Male,South Carolina,11529.54
+424,424,1264,1264,1264,Advanced Degree,00,3275438898,170836,2009,Male,South Carolina,19173.0
+425,425,1265,1265,1265,Unavalble,00,425464404,103326,2009,Male,South Carolina,4117.69
+426,426,1266,1266,1266,All Education Categories,00,6456373892,900732,2009,Female,South Carolina,7167.92
+427,427,1267,1267,1267,Less Than High School,00,439929062,88565,2009,Female,South Carolina,4967.3
+428,428,1268,1268,1268,High School Graduate,00,1477500061,238572,2009,Female,South Carolina,6193.1
+429,429,1269,1269,1269,Some College,00,2065193120,270031,2009,Female,South Carolina,7647.99
+430,430,1270,1270,1270,Advanced Degree,00,2067738164,183032,2009,Female,South Carolina,11297.14
+431,431,1271,1271,1271,Unavalble,00,406013485,120532,2009,Female,South Carolina,3368.51
+432,432,1320,1320,1320,All Education Categories,Manufacturing,2021500581,162889,2009,Male,South Carolina,12410.3
+433,433,1321,1321,1321,Less Than High School,Manufacturing,183987596,20604,2009,Male,South Carolina,8929.7
+434,434,1322,1322,1322,High School Graduate,Manufacturing,618187258,56728,2009,Male,South Carolina,10897.39
+435,435,1323,1323,1323,Some College,Manufacturing,645281406,49910,2009,Male,South Carolina,12928.9
+436,436,1324,1324,1324,Advanced Degree,Manufacturing,510868110,25959,2009,Male,South Carolina,19679.81
+437,437,1325,1325,1325,Unavalble,Manufacturing,63176210,9689,2009,Male,South Carolina,6520.41
+438,438,1326,1326,1326,All Education Categories,Manufacturing,598702492,72221,2009,Female,South Carolina,8289.87
+439,439,1327,1327,1327,Less Than High School,Manufacturing,57647538,9263,2009,Female,South Carolina,6223.42
+440,440,1328,1328,1328,High School Graduate,Manufacturing,198699970,26941,2009,Female,South Carolina,7375.37
+441,441,1329,1329,1329,Some College,Manufacturing,198159475,22709,2009,Female,South Carolina,8726.03
+442,442,1330,1330,1330,Advanced Degree,Manufacturing,124388638,9744,2009,Female,South Carolina,12765.66
+443,443,1331,1331,1331,Unavalble,Manufacturing,19806872,3563,2009,Female,South Carolina,5559.04
+444,444,1344,1344,1344,All Education Categories,Retail Trade,740476595,100152,2009,Male,South Carolina,7393.53
+445,445,1345,1345,1345,Less Than High School,Retail Trade,78927803,12465,2009,Male,South Carolina,6331.95
+446,446,1346,1346,1346,High School Graduate,Retail Trade,224312860,29040,2009,Male,South Carolina,7724.27
+447,447,1347,1347,1347,Some College,Retail Trade,216757311,24285,2009,Male,South Carolina,8925.56
+448,448,1348,1348,1348,Advanced Degree,Retail Trade,151189369,11951,2009,Male,South Carolina,12650.77
+449,449,1349,1349,1349,Unavalble,Retail Trade,69289252,22412,2009,Male,South Carolina,3091.61
+450,450,1350,1350,1350,All Education Categories,Retail Trade,544239718,119059,2009,Female,South Carolina,4571.18
+451,451,1351,1351,1351,Less Than High School,Retail Trade,62053241,14758,2009,Female,South Carolina,4204.72
+452,452,1352,1352,1352,High School Graduate,Retail Trade,174114101,35963,2009,Female,South Carolina,4841.48
+453,453,1353,1353,1353,Some College,Retail Trade,153130402,28227,2009,Female,South Carolina,5424.96
+454,454,1354,1354,1354,Advanced Degree,Retail Trade,85091547,11250,2009,Female,South Carolina,7563.69
+455,455,1355,1355,1355,Unavalble,Retail Trade,69850426,28862,2009,Female,South Carolina,2420.15
+456,456,1380,1380,1380,All Education Categories,Finance and Insurance,496402686,20830,2009,Male,South Carolina,23831.14
+457,457,1381,1381,1381,Less Than High School,Finance and Insurance,12141199,1130,2009,Male,South Carolina,10744.42
+458,458,1382,1382,1382,High School Graduate,Finance and Insurance,50214641,3493,2009,Male,South Carolina,14375.79
+459,459,1383,1383,1383,Some College,Finance and Insurance,104369381,5314,2009,Male,South Carolina,19640.46
+460,460,1384,1384,1384,Advanced Degree,Finance and Insurance,320467212,9615,2009,Male,South Carolina,33329.92
+461,461,1385,1385,1385,Unavalble,Finance and Insurance,9210253,1277,2009,Male,South Carolina,7212.41
+462,462,1386,1386,1386,All Education Categories,Finance and Insurance,515937448,50300,2009,Female,South Carolina,10257.21
+463,463,1387,1387,1387,Less Than High School,Finance and Insurance,19278541,2816,2009,Female,South Carolina,6846.07
+464,464,1388,1388,1388,High School Graduate,Finance and Insurance,98240273,11878,2009,Female,South Carolina,8270.78
+465,465,1389,1389,1389,Some College,Finance and Insurance,156900540,16237,2009,Female,South Carolina,9663.15
+466,466,1390,1390,1390,Advanced Degree,Finance and Insurance,218344496,15266,2009,Female,South Carolina,14302.67
+467,467,1391,1391,1391,Unavalble,Finance and Insurance,23173598,4104,2009,Female,South Carolina,5646.59
+468,468,1440,1440,1440,All Education Categories,Educational Services,508251066,47854,2009,Male,South Carolina,10620.87
+469,469,1441,1441,1441,Less Than High School,Educational Services,25529239,3590,2009,Male,South Carolina,7111.21
+470,470,1442,1442,1442,High School Graduate,Educational Services,85983686,10019,2009,Male,South Carolina,8582.06
+471,471,1443,1443,1443,Some College,Educational Services,130114957,12997,2009,Male,South Carolina,10011.15
+472,472,1444,1444,1444,Advanced Degree,Educational Services,256019434,18685,2009,Male,South Carolina,13701.87
+473,473,1445,1445,1445,Unavalble,Educational Services,10603750,2564,2009,Male,South Carolina,4135.63
+474,474,1446,1446,1446,All Education Categories,Educational Services,1057539397,126786,2009,Female,South Carolina,8341.14
+475,475,1447,1447,1447,Less Than High School,Educational Services,37948701,7309,2009,Female,South Carolina,5192.05
+476,476,1448,1448,1448,High School Graduate,Educational Services,187260290,28783,2009,Female,South Carolina,6505.93
+477,477,1449,1449,1449,Some College,Educational Services,301690451,38061,2009,Female,South Carolina,7926.5
+478,478,1450,1450,1450,Advanced Degree,Educational Services,502040358,46590,2009,Female,South Carolina,10775.71
+479,479,1451,1451,1451,Unavalble,Educational Services,28599596,6044,2009,Female,South Carolina,4731.9
+480,480,1452,1452,1452,All Education Categories,Health Care and Social Assistance,668117475,35765,2009,Male,South Carolina,18680.76
+481,481,1453,1453,1453,Less Than High School,Health Care and Social Assistance,25503242,3226,2009,Male,South Carolina,7905.53
+482,482,1454,1454,1454,High School Graduate,Health Care and Social Assistance,84261031,7763,2009,Male,South Carolina,10854.18
+483,483,1455,1455,1455,Some College,Health Care and Social Assistance,157705661,10165,2009,Male,South Carolina,15514.58
+484,484,1456,1456,1456,Advanced Degree,Health Care and Social Assistance,388712333,12129,2009,Male,South Carolina,32048.18
+485,485,1457,1457,1457,Unavalble,Health Care and Social Assistance,11935208,2482,2009,Male,South Carolina,4808.71
+486,486,1458,1458,1458,All Education Categories,Health Care and Social Assistance,1429628085,173988,2009,Female,South Carolina,8216.82
+487,487,1459,1459,1459,Less Than High School,Health Care and Social Assistance,84052265,15353,2009,Female,South Carolina,5474.65
+488,488,1460,1460,1460,High School Graduate,Health Care and Social Assistance,281189939,42730,2009,Female,South Carolina,6580.62
+489,489,1461,1461,1461,Some College,Health Care and Social Assistance,531654467,64137,2009,Female,South Carolina,8289.36
+490,490,1462,1462,1462,Advanced Degree,Health Care and Social Assistance,469174768,38054,2009,Female,South Carolina,12329.18
+491,491,1463,1463,1463,Unavalble,Health Care and Social Assistance,63556645,13714,2009,Female,South Carolina,4634.44
+492,492,1476,1476,1476,All Education Categories,Accommodation and Food Services,315424661,73819,2009,Male,South Carolina,4272.95
+493,493,1477,1477,1477,Less Than High School,Accommodation and Food Services,46575267,10872,2009,Male,South Carolina,4283.96
+494,494,1478,1478,1478,High School Graduate,Accommodation and Food Services,83860835,17180,2009,Male,South Carolina,4881.31
+495,495,1479,1479,1479,Some College,Accommodation and Food Services,73659992,13063,2009,Male,South Carolina,5638.83
+496,496,1480,1480,1480,Advanced Degree,Accommodation and Food Services,45814595,5890,2009,Male,South Carolina,7778.37
+497,497,1481,1481,1481,Unavalble,Accommodation and Food Services,65513971,26814,2009,Male,South Carolina,2443.27
+498,498,1482,1482,1482,All Education Categories,Accommodation and Food Services,322014076,100542,2009,Female,South Carolina,3202.78
+499,499,1483,1483,1483,Less Than High School,Accommodation and Food Services,45622868,14309,2009,Female,South Carolina,3188.4
+500,500,1484,1484,1484,High School Graduate,Accommodation and Food Services,83247733,23325,2009,Female,South Carolina,3569.03
+501,501,1485,1485,1485,Some College,Accommodation and Food Services,74722957,18787,2009,Female,South Carolina,3977.38
+502,502,1486,1486,1486,Advanced Degree,Accommodation and Food Services,35806160,7222,2009,Female,South Carolina,4957.93
+503,503,1487,1487,1487,Unavalble,Accommodation and Food Services,82614357,36899,2009,Female,South Carolina,2238.93
+504,504,1512,1512,1512,All Education Categories,00,9141557140,806950,2010,Male,South Carolina,11328.53
+505,505,1513,1513,1513,Less Than High School,00,744618629,97449,2010,Male,South Carolina,7641.11
+506,506,1514,1514,1514,High School Graduate,00,2198969395,228946,2010,Male,South Carolina,9604.75
+507,507,1515,1515,1515,Some College,00,2590916889,221293,2010,Male,South Carolina,11708.08
+508,508,1516,1516,1516,Advanced Degree,00,3227417930,167126,2010,Male,South Carolina,19311.29
+509,509,1517,1517,1517,Unavalble,00,379634297,92135,2010,Male,South Carolina,4120.41
+510,510,1518,1518,1518,All Education Categories,00,6275117910,873775,2010,Female,South Carolina,7181.62
+511,511,1519,1519,1519,Less Than High School,00,441565343,86680,2010,Female,South Carolina,5094.2
+512,512,1520,1520,1520,High School Graduate,00,1441417677,231132,2010,Female,South Carolina,6236.34
+513,513,1521,1521,1521,Some College,00,2014741322,264733,2010,Female,South Carolina,7610.47
+514,514,1522,1522,1522,Advanced Degree,00,2015081333,180959,2010,Female,South Carolina,11135.57
+515,515,1523,1523,1523,Unavalble,00,362312235,110272,2010,Female,South Carolina,3285.62
+516,516,1572,1572,1572,All Education Categories,Manufacturing,1959387967,147159,2010,Male,South Carolina,13314.77
+517,517,1573,1573,1573,Less Than High School,Manufacturing,178044263,18255,2010,Male,South Carolina,9753.18
+518,518,1574,1574,1574,High School Graduate,Manufacturing,600354570,51231,2010,Male,South Carolina,11718.58
+519,519,1575,1575,1575,Some College,Manufacturing,628556994,45736,2010,Male,South Carolina,13743.16
+520,520,1576,1576,1576,Advanced Degree,Manufacturing,498763198,24492,2010,Male,South Carolina,20364.33
+521,521,1577,1577,1577,Unavalble,Manufacturing,53668942,7445,2010,Male,South Carolina,7208.72
+522,522,1578,1578,1578,All Education Categories,Manufacturing,559551178,62699,2010,Female,South Carolina,8924.4
+523,523,1579,1579,1579,Less Than High School,Manufacturing,54070866,7933,2010,Female,South Carolina,6815.94
+524,524,1580,1580,1580,High School Graduate,Manufacturing,183642837,23059,2010,Female,South Carolina,7964.04
+525,525,1581,1581,1581,Some College,Manufacturing,185713248,19964,2010,Female,South Carolina,9302.41
+526,526,1582,1582,1582,Advanced Degree,Manufacturing,119889742,8935,2010,Female,South Carolina,13417.99
+527,527,1583,1583,1583,Unavalble,Manufacturing,16234485,2808,2010,Female,South Carolina,5781.51
+528,528,1596,1596,1596,All Education Categories,Retail Trade,735331671,99710,2010,Male,South Carolina,7374.7
+529,529,1597,1597,1597,Less Than High School,Retail Trade,78954308,12474,2010,Male,South Carolina,6329.51
+530,530,1598,1598,1598,High School Graduate,Retail Trade,221328949,28923,2010,Male,South Carolina,7652.35
+531,531,1599,1599,1599,Some College,Retail Trade,216049571,24452,2010,Male,South Carolina,8835.66
+532,532,1600,1600,1600,Advanced Degree,Retail Trade,153990103,12383,2010,Male,South Carolina,12435.61
+533,533,1601,1601,1601,Unavalble,Retail Trade,65008741,21478,2010,Male,South Carolina,3026.76
+534,534,1602,1602,1602,All Education Categories,Retail Trade,530130676,116451,2010,Female,South Carolina,4552.39
+535,535,1603,1603,1603,Less Than High School,Retail Trade,60931140,14454,2010,Female,South Carolina,4215.52
+536,536,1604,1604,1604,High School Graduate,Retail Trade,168402869,34957,2010,Female,South Carolina,4817.43
+537,537,1605,1605,1605,Some College,Retail Trade,151379059,28069,2010,Female,South Carolina,5393.1
+538,538,1606,1606,1606,Advanced Degree,Retail Trade,84563149,11591,2010,Female,South Carolina,7295.59
+539,539,1607,1607,1607,Unavalble,Retail Trade,64854459,27379,2010,Female,South Carolina,2368.77
+540,540,1632,1632,1632,All Education Categories,Finance and Insurance,479353421,20808,2010,Male,South Carolina,23036.98
+541,541,1633,1633,1633,Less Than High School,Finance and Insurance,12611875,1182,2010,Male,South Carolina,10669.95
+542,542,1634,1634,1634,High School Graduate,Finance and Insurance,50002431,3596,2010,Male,South Carolina,13905.01
+543,543,1635,1635,1635,Some College,Finance and Insurance,100810794,5402,2010,Male,South Carolina,18661.75
+544,544,1636,1636,1636,Advanced Degree,Finance and Insurance,308309815,9554,2010,Male,South Carolina,32270.23
+545,545,1637,1637,1637,Unavalble,Finance and Insurance,7618506,1074,2010,Male,South Carolina,7093.58
+546,546,1638,1638,1638,All Education Categories,Finance and Insurance,486987471,48264,2010,Female,South Carolina,10090.08
+547,547,1639,1639,1639,Less Than High School,Finance and Insurance,19730446,2840,2010,Female,South Carolina,6947.34
+548,548,1640,1640,1640,High School Graduate,Finance and Insurance,94253580,11582,2010,Female,South Carolina,8137.94
+549,549,1641,1641,1641,Some College,Finance and Insurance,148982888,15795,2010,Female,South Carolina,9432.28
+550,550,1642,1642,1642,Advanced Degree,Finance and Insurance,206169152,14843,2010,Female,South Carolina,13889.99
+551,551,1643,1643,1643,Unavalble,Finance and Insurance,17851405,3205,2010,Female,South Carolina,5569.86
+552,552,1692,1692,1692,All Education Categories,Educational Services,504557153,47170,2010,Male,South Carolina,10696.57
+553,553,1693,1693,1693,Less Than High School,Educational Services,26833509,3720,2010,Male,South Carolina,7213.31
+554,554,1694,1694,1694,High School Graduate,Educational Services,87766402,10218,2010,Male,South Carolina,8589.39
+555,555,1695,1695,1695,Some College,Educational Services,130302500,12963,2010,Male,South Carolina,10051.88
+556,556,1696,1696,1696,Advanced Degree,Educational Services,250090143,18092,2010,Male,South Carolina,13823.24
+557,557,1697,1697,1697,Unavalble,Educational Services,9564600,2177,2010,Male,South Carolina,4393.48
+558,558,1698,1698,1698,All Education Categories,Educational Services,1034737139,122076,2010,Female,South Carolina,8476.17
+559,559,1699,1699,1699,Less Than High School,Educational Services,40020995,7313,2010,Female,South Carolina,5472.58
+560,560,1700,1700,1700,High School Graduate,Educational Services,186616441,27893,2010,Female,South Carolina,6690.44
+561,561,1701,1701,1701,Some College,Educational Services,298954865,37063,2010,Female,South Carolina,8066.13
+562,562,1702,1702,1702,Advanced Degree,Educational Services,485845567,44832,2010,Female,South Carolina,10837.03
+563,563,1703,1703,1703,Unavalble,Educational Services,23299271,4975,2010,Female,South Carolina,4683.27
+564,564,1704,1704,1704,All Education Categories,Health Care and Social Assistance,694567844,38062,2010,Male,South Carolina,18248.33
+565,565,1705,1705,1705,Less Than High School,Health Care and Social Assistance,28237781,3562,2010,Male,South Carolina,7927.51
+566,566,1706,1706,1706,High School Graduate,Health Care and Social Assistance,89290919,8461,2010,Male,South Carolina,10553.23
+567,567,1707,1707,1707,Some College,Health Care and Social Assistance,164337891,10854,2010,Male,South Carolina,15140.77
+568,568,1708,1708,1708,Advanced Degree,Health Care and Social Assistance,401275041,12611,2010,Male,South Carolina,31819.45
+569,569,1709,1709,1709,Unavalble,Health Care and Social Assistance,11426212,2573,2010,Male,South Carolina,4440.81
+570,570,1710,1710,1710,All Education Categories,Health Care and Social Assistance,1443601636,181212,2010,Female,South Carolina,7966.37
+571,571,1711,1711,1711,Less Than High School,Health Care and Social Assistance,89949459,16394,2010,Female,South Carolina,5486.73
+572,572,1712,1712,1712,High School Graduate,Health Care and Social Assistance,289330205,44836,2010,Female,South Carolina,6453.08
+573,573,1713,1713,1713,Some College,Health Care and Social Assistance,533102385,66607,2010,Female,South Carolina,8003.7
+574,574,1714,1714,1714,Advanced Degree,Health Care and Social Assistance,470969843,40078,2010,Female,South Carolina,11751.33
+575,575,1715,1715,1715,Unavalble,Health Care and Social Assistance,60249743,13297,2010,Female,South Carolina,4531.08
+576,576,1728,1728,1728,All Education Categories,Accommodation and Food Services,318197235,72700,2010,Male,South Carolina,4376.85
+577,577,1729,1729,1729,Less Than High School,Accommodation and Food Services,47354300,10948,2010,Male,South Carolina,4325.38
+578,578,1730,1730,1730,High School Graduate,Accommodation and Food Services,83698953,17292,2010,Male,South Carolina,4840.33
+579,579,1731,1731,1731,Some College,Accommodation and Food Services,75816935,13241,2010,Male,South Carolina,5725.92
+580,580,1732,1732,1732,Advanced Degree,Accommodation and Food Services,47331703,6181,2010,Male,South Carolina,7657.61
+581,581,1733,1733,1733,Unavalble,Accommodation and Food Services,63995344,25038,2010,Male,South Carolina,2555.93
+582,582,1734,1734,1734,All Education Categories,Accommodation and Food Services,318215267,97202,2010,Female,South Carolina,3273.75
+583,583,1735,1735,1735,Less Than High School,Accommodation and Food Services,44779133,13742,2010,Female,South Carolina,3258.56
+584,584,1736,1736,1736,High School Graduate,Accommodation and Food Services,81872809,22631,2010,Female,South Carolina,3617.73
+585,585,1737,1737,1737,Some College,Accommodation and Food Services,74152627,18551,2010,Female,South Carolina,3997.23
+586,586,1738,1738,1738,Advanced Degree,Accommodation and Food Services,36116068,7412,2010,Female,South Carolina,4872.65
+587,587,1739,1739,1739,Unavalble,Accommodation and Food Services,81294631,34866,2010,Female,South Carolina,2331.63
+588,588,1764,1764,1764,All Education Categories,00,9778769456,820546,2011,Male,South Carolina,11917.39
+589,589,1765,1765,1765,Less Than High School,00,817297601,100630,2011,Male,South Carolina,8121.81
+590,590,1766,1766,1766,High School Graduate,00,2371898121,233804,2011,Male,South Carolina,10144.81
+591,591,1767,1767,1767,Some College,00,2772083809,224981,2011,Male,South Carolina,12321.41
+592,592,1768,1768,1768,Advanced Degree,00,3420066258,167571,2011,Male,South Carolina,20409.65
+593,593,1769,1769,1769,Unavalble,00,397423667,93560,2011,Male,South Carolina,4247.79
+594,594,1770,1770,1770,All Education Categories,00,6516867699,871573,2011,Female,South Carolina,7477.13
+595,595,1771,1771,1771,Less Than High School,00,476832590,88410,2011,Female,South Carolina,5393.42
+596,596,1772,1772,1772,High School Graduate,00,1507029600,230632,2011,Female,South Carolina,6534.35
+597,597,1773,1773,1773,Some College,00,2091638094,263739,2011,Female,South Carolina,7930.71
+598,598,1774,1774,1774,Advanced Degree,00,2076408501,179653,2011,Female,South Carolina,11557.88
+599,599,1775,1775,1775,Unavalble,00,364958914,109138,2011,Female,South Carolina,3344.01
+600,600,1824,1824,1824,All Education Categories,Manufacturing,2236056889,150859,2011,Male,South Carolina,14822.16
+601,601,1825,1825,1825,Less Than High School,Manufacturing,202537758,18971,2011,Male,South Carolina,10676.18
+602,602,1826,1826,1826,High School Graduate,Manufacturing,673971525,52236,2011,Male,South Carolina,12902.43
+603,603,1827,1827,1827,Some College,Manufacturing,708205449,46605,2011,Male,South Carolina,15195.91
+604,604,1828,1828,1828,Advanced Degree,Manufacturing,589854173,25049,2011,Male,South Carolina,23548.01
+605,605,1829,1829,1829,Unavalble,Manufacturing,61487984,7998,2011,Male,South Carolina,7687.92
+606,606,1830,1830,1830,All Education Categories,Manufacturing,616465849,62827,2011,Female,South Carolina,9812.12
+607,607,1831,1831,1831,Less Than High School,Manufacturing,60077401,8093,2011,Female,South Carolina,7423.38
+608,608,1832,1832,1832,High School Graduate,Manufacturing,198051058,22816,2011,Female,South Carolina,8680.36
+609,609,1833,1833,1833,Some College,Manufacturing,202555859,19987,2011,Female,South Carolina,10134.38
+610,610,1834,1834,1834,Advanced Degree,Manufacturing,137558995,9109,2011,Female,South Carolina,15101.44
+611,611,1835,1835,1835,Unavalble,Manufacturing,18222536,2821,2011,Female,South Carolina,6459.6
+612,612,1848,1848,1848,All Education Categories,Retail Trade,759418706,100404,2011,Male,South Carolina,7563.63
+613,613,1849,1849,1849,Less Than High School,Retail Trade,82409333,12639,2011,Male,South Carolina,6520.24
+614,614,1850,1850,1850,High School Graduate,Retail Trade,226758348,28713,2011,Male,South Carolina,7897.41
+615,615,1851,1851,1851,Some College,Retail Trade,222737060,24553,2011,Male,South Carolina,9071.68
+616,616,1852,1852,1852,Advanced Degree,Retail Trade,161311472,12697,2011,Male,South Carolina,12704.69
+617,617,1853,1853,1853,Unavalble,Retail Trade,66202493,21802,2011,Male,South Carolina,3036.53
+618,618,1854,1854,1854,All Education Categories,Retail Trade,549660175,118037,2011,Female,South Carolina,4656.68
+619,619,1855,1855,1855,Less Than High School,Retail Trade,64119631,14553,2011,Female,South Carolina,4405.94
+620,620,1856,1856,1856,High School Graduate,Retail Trade,173445005,34703,2011,Female,South Carolina,4997.98
+621,621,1857,1857,1857,Some College,Retail Trade,157118187,28417,2011,Female,South Carolina,5529.02
+622,622,1858,1858,1858,Advanced Degree,Retail Trade,87837748,12051,2011,Female,South Carolina,7288.83
+623,623,1859,1859,1859,Unavalble,Retail Trade,67139603,28313,2011,Female,South Carolina,2371.33
+624,624,1884,1884,1884,All Education Categories,Finance and Insurance,526735037,20765,2011,Male,South Carolina,25366.48
+625,625,1885,1885,1885,Less Than High School,Finance and Insurance,14333276,1265,2011,Male,South Carolina,11330.65
+626,626,1886,1886,1886,High School Graduate,Finance and Insurance,55399662,3668,2011,Male,South Carolina,15103.51
+627,627,1887,1887,1887,Some College,Finance and Insurance,112003160,5417,2011,Male,South Carolina,20676.23
+628,628,1888,1888,1888,Advanced Degree,Finance and Insurance,338194833,9395,2011,Male,South Carolina,35997.32
+629,629,1889,1889,1889,Unavalble,Finance and Insurance,6804105,1021,2011,Male,South Carolina,6664.16
+630,630,1890,1890,1890,All Education Categories,Finance and Insurance,499590905,47091,2011,Female,South Carolina,10609.05
+631,631,1891,1891,1891,Less Than High School,Finance and Insurance,20963926,2934,2011,Female,South Carolina,7145.17
+632,632,1892,1892,1892,High School Graduate,Finance and Insurance,96162617,11433,2011,Female,South Carolina,8410.97
+633,633,1893,1893,1893,Some College,Finance and Insurance,152019802,15438,2011,Female,South Carolina,9847.12
+634,634,1894,1894,1894,Advanced Degree,Finance and Insurance,214774243,14512,2011,Female,South Carolina,14799.77
+635,635,1895,1895,1895,Unavalble,Finance and Insurance,15670318,2774,2011,Female,South Carolina,5649.0
+636,636,1944,1944,1944,All Education Categories,Educational Services,517036481,45398,2011,Male,South Carolina,11388.97
+637,637,1945,1945,1945,Less Than High School,Educational Services,28897036,3763,2011,Male,South Carolina,7679.25
+638,638,1946,1946,1946,High School Graduate,Educational Services,91165210,10178,2011,Male,South Carolina,8957.08
+639,639,1947,1947,1947,Some College,Educational Services,133671624,12620,2011,Male,South Carolina,10592.05
+640,640,1948,1948,1948,Advanced Degree,Educational Services,253932411,16784,2011,Male,South Carolina,15129.43
+641,641,1949,1949,1949,Unavalble,Educational Services,9370201,2054,2011,Male,South Carolina,4561.93
+642,642,1950,1950,1950,All Education Categories,Educational Services,1032462315,118723,2011,Female,South Carolina,8696.4
+643,643,1951,1951,1951,Less Than High School,Educational Services,42869505,7417,2011,Female,South Carolina,5779.9
+644,644,1952,1952,1952,High School Graduate,Educational Services,188665473,27427,2011,Female,South Carolina,6878.82
+645,645,1953,1953,1953,Some College,Educational Services,300888398,36339,2011,Female,South Carolina,8280.04
+646,646,1954,1954,1954,Advanced Degree,Educational Services,478998027,43104,2011,Female,South Carolina,11112.61
+647,647,1955,1955,1955,Unavalble,Educational Services,21040912,4436,2011,Female,South Carolina,4743.22
+648,648,1956,1956,1956,All Education Categories,Health Care and Social Assistance,730979032,38793,2011,Male,South Carolina,18843.07
+649,649,1957,1957,1957,Less Than High School,Health Care and Social Assistance,32355536,3718,2011,Male,South Carolina,8702.4
+650,650,1958,1958,1958,High School Graduate,Health Care and Social Assistance,97258041,8772,2011,Male,South Carolina,11087.33
+651,651,1959,1959,1959,Some College,Health Care and Social Assistance,174443377,11001,2011,Male,South Carolina,15857.05
+652,652,1960,1960,1960,Advanced Degree,Health Care and Social Assistance,415250401,12779,2011,Male,South Carolina,32494.75
+653,653,1961,1961,1961,Unavalble,Health Care and Social Assistance,11671677,2523,2011,Male,South Carolina,4626.11
+654,654,1962,1962,1962,All Education Categories,Health Care and Social Assistance,1505496411,181357,2011,Female,South Carolina,8301.29
+655,655,1963,1963,1963,Less Than High School,Health Care and Social Assistance,98748802,16953,2011,Female,South Carolina,5824.86
+656,656,1964,1964,1964,High School Graduate,Health Care and Social Assistance,306623367,45240,2011,Female,South Carolina,6777.7
+657,657,1965,1965,1965,Some College,Health Care and Social Assistance,553730846,66124,2011,Female,South Carolina,8374.13
+658,658,1966,1966,1966,Advanced Degree,Health Care and Social Assistance,485860778,40000,2011,Female,South Carolina,12146.52
+659,659,1967,1967,1967,Unavalble,Health Care and Social Assistance,60532618,13040,2011,Female,South Carolina,4642.07
+660,660,1980,1980,1980,All Education Categories,Accommodation and Food Services,325580323,71729,2011,Male,South Carolina,4539.03
+661,661,1981,1981,1981,Less Than High School,Accommodation and Food Services,49375257,10806,2011,Male,South Carolina,4569.24
+662,662,1982,1982,1982,High School Graduate,Accommodation and Food Services,87415715,17072,2011,Male,South Carolina,5120.41
+663,663,1983,1983,1983,Some College,Accommodation and Food Services,77159173,13250,2011,Male,South Carolina,5823.33
+664,664,1984,1984,1984,Advanced Degree,Accommodation and Food Services,46812529,6268,2011,Male,South Carolina,7468.5
+665,665,1985,1985,1985,Unavalble,Accommodation and Food Services,64817649,24333,2011,Male,South Carolina,2663.78
+666,666,1986,1986,1986,All Education Categories,Accommodation and Food Services,325342615,94659,2011,Female,South Carolina,3437.0
+667,667,1987,1987,1987,Less Than High School,Accommodation and Food Services,46014012,13290,2011,Female,South Carolina,3462.3
+668,668,1988,1988,1988,High School Graduate,Accommodation and Food Services,82851069,21825,2011,Female,South Carolina,3796.15
+669,669,1989,1989,1989,Some College,Accommodation and Food Services,75347517,18038,2011,Female,South Carolina,4177.15
+670,670,1990,1990,1990,Advanced Degree,Accommodation and Food Services,37654919,7493,2011,Female,South Carolina,5025.35
+671,671,1991,1991,1991,Unavalble,Accommodation and Food Services,83475098,34013,2011,Female,South Carolina,2454.21
+672,672,2016,2016,2016,All Education Categories,00,10484535870,841106,2012,Male,South Carolina,12465.18
+673,673,2017,2017,2017,Less Than High School,00,905906613,105341,2012,Male,South Carolina,8599.75
+674,674,2018,2018,2018,High School Graduate,00,2559354410,240076,2012,Male,South Carolina,10660.6
+675,675,2019,2019,2019,Some College,00,2967869047,229806,2012,Male,South Carolina,12914.67
+676,676,2020,2020,2020,Advanced Degree,00,3619118447,169467,2012,Male,South Carolina,21355.89
+677,677,2021,2021,2021,Unavalble,00,432287354,96417,2012,Male,South Carolina,4483.52
+678,678,2022,2022,2022,All Education Categories,00,6880260699,875950,2012,Female,South Carolina,7854.63
+679,679,2023,2023,2023,Less Than High School,00,524934749,91466,2012,Female,South Carolina,5739.12
+680,680,2024,2024,2024,High School Graduate,00,1598060356,231734,2012,Female,South Carolina,6896.1
+681,681,2025,2025,2025,Some College,00,2205803033,263646,2012,Female,South Carolina,8366.53
+682,682,2026,2026,2026,Advanced Degree,00,2166289155,178006,2012,Female,South Carolina,12169.75
+683,683,2027,2027,2027,Unavalble,00,385173406,111099,2012,Female,South Carolina,3466.94
+684,684,2076,2076,2076,All Education Categories,Manufacturing,2385993051,157519,2012,Male,South Carolina,15147.33
+685,685,2077,2077,2077,Less Than High School,Manufacturing,225228112,20219,2012,Male,South Carolina,11139.43
+686,686,2078,2078,2078,High School Graduate,Manufacturing,723011044,54267,2012,Male,South Carolina,13323.22
+687,687,2079,2079,2079,Some College,Manufacturing,753824238,48354,2012,Male,South Carolina,15589.7
+688,688,2080,2080,2080,Advanced Degree,Manufacturing,611765905,25872,2012,Male,South Carolina,23645.87
+689,689,2081,2081,2081,Unavalble,Manufacturing,72163752,8808,2012,Male,South Carolina,8192.98
+690,690,2082,2082,2082,All Education Categories,Manufacturing,654678719,64222,2012,Female,South Carolina,10193.99
+691,691,2083,2083,2083,Less Than High School,Manufacturing,65303166,8360,2012,Female,South Carolina,7811.38
+692,692,2084,2084,2084,High School Graduate,Manufacturing,209345675,23094,2012,Female,South Carolina,9064.94
+693,693,2085,2085,2085,Some College,Manufacturing,215663289,20441,2012,Female,South Carolina,10550.53
+694,694,2086,2086,2086,Advanced Degree,Manufacturing,145474034,9312,2012,Female,South Carolina,15622.21
+695,695,2087,2087,2087,Unavalble,Manufacturing,18892555,3014,2012,Female,South Carolina,6268.27
+696,696,2100,2100,2100,All Education Categories,Retail Trade,794242093,100351,2012,Male,South Carolina,7914.64
+697,697,2101,2101,2101,Less Than High School,Retail Trade,87087069,12711,2012,Male,South Carolina,6851.32
+698,698,2102,2102,2102,High School Graduate,Retail Trade,235641441,28542,2012,Male,South Carolina,8255.95
+699,699,2103,2103,2103,Some College,Retail Trade,232268710,24546,2012,Male,South Carolina,9462.59
+700,700,2104,2104,2104,Advanced Degree,Retail Trade,170370840,12818,2012,Male,South Carolina,13291.53
+701,701,2105,2105,2105,Unavalble,Retail Trade,68874033,21733,2012,Male,South Carolina,3169.1
+702,702,2106,2106,2106,All Education Categories,Retail Trade,568883326,117173,2012,Female,South Carolina,4855.07
+703,703,2107,2107,2107,Less Than High School,Retail Trade,67433255,14604,2012,Female,South Carolina,4617.45
+704,704,2108,2108,2108,High School Graduate,Retail Trade,177785510,34021,2012,Female,South Carolina,5225.76
+705,705,2109,2109,2109,Some College,Retail Trade,162634917,28283,2012,Female,South Carolina,5750.27
+706,706,2110,2110,2110,Advanced Degree,Retail Trade,92163711,12373,2012,Female,South Carolina,7448.78
+707,707,2111,2111,2111,Unavalble,Retail Trade,68865933,27893,2012,Female,South Carolina,2468.93
+708,708,2136,2136,2136,All Education Categories,Finance and Insurance,559351020,20771,2012,Male,South Carolina,26929.42
+709,709,2137,2137,2137,Less Than High School,Finance and Insurance,16704231,1383,2012,Male,South Carolina,12078.26
+710,710,2138,2138,2138,High School Graduate,Finance and Insurance,59328108,3774,2012,Male,South Carolina,15720.22
+711,711,2139,2139,2139,Some College,Finance and Insurance,118003135,5412,2012,Male,South Carolina,21803.98
+712,712,2140,2140,2140,Advanced Degree,Finance and Insurance,357802879,9160,2012,Male,South Carolina,39061.45
+713,713,2141,2141,2141,Unavalble,Finance and Insurance,7512668,1043,2012,Male,South Carolina,7202.94
+714,714,2142,2142,2142,All Education Categories,Finance and Insurance,529649869,46780,2012,Female,South Carolina,11322.14
+715,715,2143,2143,2143,Less Than High School,Finance and Insurance,24189007,3154,2012,Female,South Carolina,7669.31
+716,716,2144,2144,2144,High School Graduate,Finance and Insurance,102553459,11471,2012,Female,South Carolina,8940.24
+717,717,2145,2145,2145,Some College,Finance and Insurance,160473858,15313,2012,Female,South Carolina,10479.58
+718,718,2146,2146,2146,Advanced Degree,Finance and Insurance,226640794,14210,2012,Female,South Carolina,15949.39
+719,719,2147,2147,2147,Unavalble,Finance and Insurance,15792751,2632,2012,Female,South Carolina,6000.29
+720,720,2196,2196,2196,All Education Categories,Educational Services,528285688,46585,2012,Male,South Carolina,11340.25
+721,721,2197,2197,2197,Less Than High School,Educational Services,30832925,3934,2012,Male,South Carolina,7837.55
+722,722,2198,2198,2198,High School Graduate,Educational Services,95123041,10443,2012,Male,South Carolina,9108.78
+723,723,2199,2199,2199,Some College,Educational Services,136413753,12852,2012,Male,South Carolina,10614.2
+724,724,2200,2200,2200,Advanced Degree,Educational Services,255827922,17281,2012,Male,South Carolina,14804.0
+725,725,2201,2201,2201,Unavalble,Educational Services,10088048,2074,2012,Male,South Carolina,4864.05
+726,726,2202,2202,2202,All Education Categories,Educational Services,1034377103,115394,2012,Female,South Carolina,8963.87
+727,727,2203,2203,2203,Less Than High School,Educational Services,46537304,7529,2012,Female,South Carolina,6181.07
+728,728,2204,2204,2204,High School Graduate,Educational Services,192500395,26699,2012,Female,South Carolina,7210.02
+729,729,2205,2205,2205,Some College,Educational Services,302853771,35340,2012,Female,South Carolina,8569.72
+730,730,2206,2206,2206,Advanced Degree,Educational Services,469850530,41307,2012,Female,South Carolina,11374.6
+731,731,2207,2207,2207,Unavalble,Educational Services,22635103,4519,2012,Female,South Carolina,5008.87
+732,732,2208,2208,2208,All Education Categories,Health Care and Social Assistance,810548160,38454,2012,Male,South Carolina,21078.38
+733,733,2209,2209,2209,Less Than High School,Health Care and Social Assistance,37282608,3846,2012,Male,South Carolina,9693.87
+734,734,2210,2210,2210,High School Graduate,Health Care and Social Assistance,109776414,8831,2012,Male,South Carolina,12430.8
+735,735,2211,2211,2211,Some College,Health Care and Social Assistance,194628512,10890,2012,Male,South Carolina,17872.22
+736,736,2212,2212,2212,Advanced Degree,Health Care and Social Assistance,456924313,12456,2012,Male,South Carolina,36683.07
+737,737,2213,2213,2213,Unavalble,Health Care and Social Assistance,11936313,2432,2012,Male,South Carolina,4908.02
+738,738,2214,2214,2214,All Education Categories,Health Care and Social Assistance,1643164853,180045,2012,Female,South Carolina,9126.41
+739,739,2215,2215,2215,Less Than High School,Health Care and Social Assistance,112844333,17532,2012,Female,South Carolina,6436.48
+740,740,2216,2216,2216,High School Graduate,Health Care and Social Assistance,339012329,45623,2012,Female,South Carolina,7430.73
+741,741,2217,2217,2217,Some College,Health Care and Social Assistance,600542188,65108,2012,Female,South Carolina,9223.78
+742,742,2218,2218,2218,Advanced Degree,Health Care and Social Assistance,526405379,39054,2012,Female,South Carolina,13478.91
+743,743,2219,2219,2219,Unavalble,Health Care and Social Assistance,64360625,12727,2012,Female,South Carolina,5057.01
+744,744,2232,2232,2232,All Education Categories,Accommodation and Food Services,350621267,77021,2012,Male,South Carolina,4552.28
+745,745,2233,2233,2233,Less Than High School,Accommodation and Food Services,53662509,11798,2012,Male,South Carolina,4548.44
+746,746,2234,2234,2234,High School Graduate,Accommodation and Food Services,94500494,18407,2012,Male,South Carolina,5133.94
+747,747,2235,2235,2235,Some College,Accommodation and Food Services,81847825,14289,2012,Male,South Carolina,5728.03
+748,748,2236,2236,2236,Advanced Degree,Accommodation and Food Services,50907812,6778,2012,Male,South Carolina,7510.74
+749,749,2237,2237,2237,Unavalble,Accommodation and Food Services,69702628,25749,2012,Male,South Carolina,2707.0
+750,750,2238,2238,2238,All Education Categories,Accommodation and Food Services,351212117,100545,2012,Female,South Carolina,3493.08
+751,751,2239,2239,2239,Less Than High School,Accommodation and Food Services,49834451,14105,2012,Female,South Carolina,3533.11
+752,752,2240,2240,2240,High School Graduate,Accommodation and Food Services,88420643,22886,2012,Female,South Carolina,3863.53
+753,753,2241,2241,2241,Some College,Accommodation and Food Services,81335346,19241,2012,Female,South Carolina,4227.19
+754,754,2242,2242,2242,Advanced Degree,Accommodation and Food Services,41032403,8045,2012,Female,South Carolina,5100.36
+755,755,2243,2243,2243,Unavalble,Accommodation and Food Services,90589274,36269,2012,Female,South Carolina,2497.71
+756,756,5244,5244,5244,All Education Categories,"Colleges, Universities, and Professional Schools",183272349,15734,2004,Male,South Carolina,11648.17
+757,757,5245,5245,5245,Less Than High School,"Colleges, Universities, and Professional Schools",5327915,746,2004,Male,South Carolina,7141.98
+758,758,5246,5246,5246,High School Graduate,"Colleges, Universities, and Professional Schools",21194817,2478,2004,Male,South Carolina,8553.19
+759,759,5247,5247,5247,Some College,"Colleges, Universities, and Professional Schools",37823553,3662,2004,Male,South Carolina,10328.66
+760,760,5248,5248,5248,Advanced Degree,"Colleges, Universities, and Professional Schools",116714812,7897,2004,Male,South Carolina,14779.64
+761,761,5249,5249,5249,Unavalble,"Colleges, Universities, and Professional Schools",2211253,951,2004,Male,South Carolina,2325.19
+762,762,5250,5250,5250,All Education Categories,"Colleges, Universities, and Professional Schools",144621788,18120,2004,Female,South Carolina,7981.33
+763,763,5251,5251,5251,Less Than High School,"Colleges, Universities, and Professional Schools",3560839,677,2004,Female,South Carolina,5259.73
+764,764,5252,5252,5252,High School Graduate,"Colleges, Universities, and Professional Schools",22558128,3480,2004,Female,South Carolina,6482.22
+765,765,5253,5253,5253,Some College,"Colleges, Universities, and Professional Schools",38047828,4987,2004,Female,South Carolina,7629.4
+766,766,5254,5254,5254,Advanced Degree,"Colleges, Universities, and Professional Schools",76910764,7383,2004,Female,South Carolina,10417.28
+767,767,5255,5255,5255,Unavalble,"Colleges, Universities, and Professional Schools",3544230,1592,2004,Female,South Carolina,2226.28
+768,768,8928,8928,8928,All Education Categories,"Colleges, Universities, and Professional Schools",185521736,15650,2005,Male,South Carolina,11854.42
+769,769,8929,8929,8929,Less Than High School,"Colleges, Universities, and Professional Schools",5469464,745,2005,Male,South Carolina,7341.56
+770,770,8930,8930,8930,High School Graduate,"Colleges, Universities, and Professional Schools",21680850,2471,2005,Male,South Carolina,8774.12
+771,771,8931,8931,8931,Some College,"Colleges, Universities, and Professional Schools",38628912,3667,2005,Male,South Carolina,10534.2
+772,772,8932,8932,8932,Advanced Degree,"Colleges, Universities, and Professional Schools",117274536,7838,2005,Male,South Carolina,14962.3
+773,773,8933,8933,8933,Unavalble,"Colleges, Universities, and Professional Schools",2467974,929,2005,Male,South Carolina,2656.59
+774,774,8934,8934,8934,All Education Categories,"Colleges, Universities, and Professional Schools",148860956,17988,2005,Female,South Carolina,8275.57
+775,775,8935,8935,8935,Less Than High School,"Colleges, Universities, and Professional Schools",3728646,669,2005,Female,South Carolina,5573.46
+776,776,8936,8936,8936,High School Graduate,"Colleges, Universities, and Professional Schools",22930800,3429,2005,Female,South Carolina,6687.31
+777,777,8937,8937,8937,Some College,"Colleges, Universities, and Professional Schools",39260482,4977,2005,Female,South Carolina,7888.38
+778,778,8938,8938,8938,Advanced Degree,"Colleges, Universities, and Professional Schools",79233457,7444,2005,Female,South Carolina,10643.94
+779,779,8939,8939,8939,Unavalble,"Colleges, Universities, and Professional Schools",3707570,1469,2005,Female,South Carolina,2523.87
+780,780,12624,12624,12624,All Education Categories,"Colleges, Universities, and Professional Schools",191587270,15475,2006,Male,South Carolina,12380.44
+781,781,12625,12625,12625,Less Than High School,"Colleges, Universities, and Professional Schools",5695628,745,2006,Male,South Carolina,7645.14
+782,782,12626,12626,12626,High School Graduate,"Colleges, Universities, and Professional Schools",22913241,2486,2006,Male,South Carolina,9216.91
+783,783,12627,12627,12627,Some College,"Colleges, Universities, and Professional Schools",40344091,3638,2006,Male,South Carolina,11089.63
+784,784,12628,12628,12628,Advanced Degree,"Colleges, Universities, and Professional Schools",119834086,7710,2006,Male,South Carolina,15542.68
+785,785,12629,12629,12629,Unavalble,"Colleges, Universities, and Professional Schools",2800225,897,2006,Male,South Carolina,3121.77
+786,786,12630,12630,12630,All Education Categories,"Colleges, Universities, and Professional Schools",157119049,17687,2006,Female,South Carolina,8883.31
+787,787,12631,12631,12631,Less Than High School,"Colleges, Universities, and Professional Schools",4073380,694,2006,Female,South Carolina,5869.42
+788,788,12632,12632,12632,High School Graduate,"Colleges, Universities, and Professional Schools",24255913,3422,2006,Female,South Carolina,7088.23
+789,789,12633,12633,12633,Some College,"Colleges, Universities, and Professional Schools",41698834,4999,2006,Female,South Carolina,8341.44
+790,790,12634,12634,12634,Advanced Degree,"Colleges, Universities, and Professional Schools",83568794,7377,2006,Female,South Carolina,11328.29
+791,791,12635,12635,12635,Unavalble,"Colleges, Universities, and Professional Schools",3522127,1194,2006,Female,South Carolina,2949.86
+792,792,16320,16320,16320,All Education Categories,"Colleges, Universities, and Professional Schools",207895944,16438,2007,Male,South Carolina,12647.28
+793,793,16321,16321,16321,Less Than High School,"Colleges, Universities, and Professional Schools",6634964,825,2007,Male,South Carolina,8042.38
+794,794,16322,16322,16322,High School Graduate,"Colleges, Universities, and Professional Schools",25693978,2690,2007,Male,South Carolina,9551.66
+795,795,16323,16323,16323,Some College,"Colleges, Universities, and Professional Schools",44711625,3936,2007,Male,South Carolina,11359.66
+796,796,16324,16324,16324,Advanced Degree,"Colleges, Universities, and Professional Schools",128076716,8063,2007,Male,South Carolina,15884.5
+797,797,16325,16325,16325,Unavalble,"Colleges, Universities, and Professional Schools",2778662,923,2007,Male,South Carolina,3010.47
+798,798,16326,16326,16326,All Education Categories,"Colleges, Universities, and Professional Schools",176293422,19138,2007,Female,South Carolina,9211.7
+799,799,16327,16327,16327,Less Than High School,"Colleges, Universities, and Professional Schools",4828188,766,2007,Female,South Carolina,6303.12
+800,800,16328,16328,16328,High School Graduate,"Colleges, Universities, and Professional Schools",27330096,3671,2007,Female,South Carolina,7444.86
+801,801,16329,16329,16329,Some College,"Colleges, Universities, and Professional Schools",47355461,5493,2007,Female,South Carolina,8621.06
+802,802,16330,16330,16330,Advanced Degree,"Colleges, Universities, and Professional Schools",92904728,7929,2007,Female,South Carolina,11717.08
+803,803,16331,16331,16331,Unavalble,"Colleges, Universities, and Professional Schools",3874949,1279,2007,Female,South Carolina,3029.67
+804,804,20028,20028,20028,All Education Categories,"Colleges, Universities, and Professional Schools",225805702,17223,2008,Male,South Carolina,13110.71
+805,805,20029,20029,20029,Less Than High School,"Colleges, Universities, and Professional Schools",7700324,916,2008,Male,South Carolina,8406.47
+806,806,20030,20030,20030,High School Graduate,"Colleges, Universities, and Professional Schools",28552219,2881,2008,Male,South Carolina,9910.52
+807,807,20031,20031,20031,Some College,"Colleges, Universities, and Professional Schools",49317867,4184,2008,Male,South Carolina,11787.25
+808,808,20032,20032,20032,Advanced Degree,"Colleges, Universities, and Professional Schools",137384740,8323,2008,Male,South Carolina,16506.64
+809,809,20033,20033,20033,Unavalble,"Colleges, Universities, and Professional Schools",2850553,918,2008,Male,South Carolina,3105.18
+810,810,20034,20034,20034,All Education Categories,"Colleges, Universities, and Professional Schools",190906665,19976,2008,Female,South Carolina,9556.8
+811,811,20035,20035,20035,Less Than High School,"Colleges, Universities, and Professional Schools",5600627,854,2008,Female,South Carolina,6558.11
+812,812,20036,20036,20036,High School Graduate,"Colleges, Universities, and Professional Schools",29907655,3855,2008,Female,South Carolina,7758.15
+813,813,20037,20037,20037,Some College,"Colleges, Universities, and Professional Schools",51910366,5773,2008,Female,South Carolina,8991.92
+814,814,20038,20038,20038,Advanced Degree,"Colleges, Universities, and Professional Schools",99452269,8173,2008,Female,South Carolina,12168.39
+815,815,20039,20039,20039,Unavalble,"Colleges, Universities, and Professional Schools",4035748,1321,2008,Female,South Carolina,3055.07
+816,816,23736,23736,23736,All Education Categories,"Colleges, Universities, and Professional Schools",221044057,17169,2009,Male,South Carolina,12874.6
+817,817,23737,23737,23737,Less Than High School,"Colleges, Universities, and Professional Schools",8046993,969,2009,Male,South Carolina,8304.43
+818,818,23738,23738,23738,High School Graduate,"Colleges, Universities, and Professional Schools",28685852,2922,2009,Male,South Carolina,9817.2
+819,819,23739,23739,23739,Some College,"Colleges, Universities, and Professional Schools",48919896,4221,2009,Male,South Carolina,11589.65
+820,820,23740,23740,23740,Advanced Degree,"Colleges, Universities, and Professional Schools",132590528,8175,2009,Male,South Carolina,16219.02
+821,821,23741,23741,23741,Unavalble,"Colleges, Universities, and Professional Schools",2800788,881,2009,Male,South Carolina,3179.1
+822,822,23742,23742,23742,All Education Categories,"Colleges, Universities, and Professional Schools",190107796,20071,2009,Female,South Carolina,9471.77
+823,823,23743,23743,23743,Less Than High School,"Colleges, Universities, and Professional Schools",6027103,899,2009,Female,South Carolina,6704.23
+824,824,23744,23744,23744,High School Graduate,"Colleges, Universities, and Professional Schools",30099774,3876,2009,Female,South Carolina,7765.68
+825,825,23745,23745,23745,Some College,"Colleges, Universities, and Professional Schools",52118211,5846,2009,Female,South Carolina,8915.19
+826,826,23746,23746,23746,Advanced Degree,"Colleges, Universities, and Professional Schools",97833395,8189,2009,Female,South Carolina,11946.93
+827,827,23747,23747,23747,Unavalble,"Colleges, Universities, and Professional Schools",4029313,1261,2009,Female,South Carolina,3195.33
+828,828,27420,27420,27420,All Education Categories,"Colleges, Universities, and Professional Schools",222780750,16676,2010,Male,South Carolina,13359.36
+829,829,27421,27421,27421,Less Than High School,"Colleges, Universities, and Professional Schools",8739096,1006,2010,Male,South Carolina,8686.97
+830,830,27422,27422,27422,High School Graduate,"Colleges, Universities, and Professional Schools",29832474,2957,2010,Male,South Carolina,10088.76
+831,831,27423,27423,27423,Some College,"Colleges, Universities, and Professional Schools",49812369,4183,2010,Male,South Carolina,11908.29
+832,832,27424,27424,27424,Advanced Degree,"Colleges, Universities, and Professional Schools",131885676,7899,2010,Male,South Carolina,16696.5
+833,833,27425,27425,27425,Unavalble,"Colleges, Universities, and Professional Schools",2511136,631,2010,Male,South Carolina,3979.61
+834,834,27426,27426,27426,All Education Categories,"Colleges, Universities, and Professional Schools",191380554,19337,2010,Female,South Carolina,9897.12
+835,835,27427,27427,27427,Less Than High School,"Colleges, Universities, and Professional Schools",6747018,940,2010,Female,South Carolina,7177.68
+836,836,27428,27428,27428,High School Graduate,"Colleges, Universities, and Professional Schools",30829909,3842,2010,Female,South Carolina,8024.44
+837,837,27429,27429,27429,Some College,"Colleges, Universities, and Professional Schools",53023009,5771,2010,Female,South Carolina,9187.84
+838,838,27430,27430,27430,Advanced Degree,"Colleges, Universities, and Professional Schools",97080376,7930,2010,Female,South Carolina,12242.17
+839,839,27431,27431,27431,Unavalble,"Colleges, Universities, and Professional Schools",3700242,855,2010,Female,South Carolina,4327.77
+840,840,31116,31116,31116,All Education Categories,"Colleges, Universities, and Professional Schools",239717705,14864,2011,Male,South Carolina,16127.4
+841,841,31117,31117,31117,Less Than High School,"Colleges, Universities, and Professional Schools",10141657,951,2011,Male,South Carolina,10664.2
+842,842,31118,31118,31118,High School Graduate,"Colleges, Universities, and Professional Schools",32985530,2774,2011,Male,South Carolina,11890.96
+843,843,31119,31119,31119,Some College,"Colleges, Universities, and Professional Schools",53914169,3783,2011,Male,South Carolina,14251.7
+844,844,31120,31120,31120,Advanced Degree,"Colleges, Universities, and Professional Schools",139987265,6785,2011,Male,South Carolina,20631.87
+845,845,31121,31121,31121,Unavalble,"Colleges, Universities, and Professional Schools",2689084,571,2011,Male,South Carolina,4709.43
+846,846,31122,31122,31122,All Education Categories,"Colleges, Universities, and Professional Schools",213387496,17253,2011,Female,South Carolina,12368.14
+847,847,31123,31123,31123,Less Than High School,"Colleges, Universities, and Professional Schools",8393725,905,2011,Female,South Carolina,9274.83
+848,848,31124,31124,31124,High School Graduate,"Colleges, Universities, and Professional Schools",34721668,3540,2011,Female,South Carolina,9808.38
+849,849,31125,31125,31125,Some College,"Colleges, Universities, and Professional Schools",59337434,5200,2011,Female,South Carolina,11411.05
+850,850,31126,31126,31126,Advanced Degree,"Colleges, Universities, and Professional Schools",106941695,6859,2011,Female,South Carolina,15591.44
+851,851,31127,31127,31127,Unavalble,"Colleges, Universities, and Professional Schools",3992974,748,2011,Female,South Carolina,5338.2
+852,852,34824,34824,34824,All Education Categories,"Colleges, Universities, and Professional Schools",250132912,17641,2012,Male,South Carolina,14179.07
+853,853,34825,34825,34825,Less Than High School,"Colleges, Universities, and Professional Schools",11065166,1177,2012,Male,South Carolina,9401.16
+854,854,34826,34826,34826,High School Graduate,"Colleges, Universities, and Professional Schools",35455751,3281,2012,Male,South Carolina,10806.39
+855,855,34827,34827,34827,Some College,"Colleges, Universities, and Professional Schools",56437729,4458,2012,Male,South Carolina,12659.88
+856,856,34828,34828,34828,Advanced Degree,"Colleges, Universities, and Professional Schools",144299632,8062,2012,Male,South Carolina,17898.74
+857,857,34829,34829,34829,Unavalble,"Colleges, Universities, and Professional Schools",2874634,663,2012,Male,South Carolina,4335.8
+858,858,34830,34830,34830,All Education Categories,"Colleges, Universities, and Professional Schools",219695420,20736,2012,Female,South Carolina,10594.88
+859,859,34831,34831,34831,Less Than High School,"Colleges, Universities, and Professional Schools",9280014,1157,2012,Female,South Carolina,8020.76
+860,860,34832,34832,34832,High School Graduate,"Colleges, Universities, and Professional Schools",36603405,4185,2012,Female,South Carolina,8746.33
+861,861,34833,34833,34833,Some College,"Colleges, Universities, and Professional Schools",61811502,6249,2012,Female,South Carolina,9891.42
+862,862,34834,34834,34834,Advanced Degree,"Colleges, Universities, and Professional Schools",108019750,8268,2012,Female,South Carolina,13064.8
+863,863,34835,34835,34835,Unavalble,"Colleges, Universities, and Professional Schools",3980749,876,2012,Female,South Carolina,4544.23
+864,864,36456,36456,36456,All Education Categories,Educational Services,406521034,42996,2004,Male,South Carolina,9454.86
+865,865,36457,36457,36457,Less Than High School,Educational Services,16755129,2820,2004,Male,South Carolina,5941.54
+866,866,36458,36458,36458,High School Graduate,Educational Services,62012729,8424,2004,Male,South Carolina,7361.44
+867,867,36459,36459,36459,Some College,Educational Services,98779215,11277,2004,Male,South Carolina,8759.35
+868,868,36460,36460,36460,Advanced Degree,Educational Services,221161684,18033,2004,Male,South Carolina,12264.28
+869,869,36461,36461,36461,Unavalble,Educational Services,7812276,2441,2004,Male,South Carolina,3200.44
+870,870,36462,36462,36462,All Education Categories,Educational Services,834911386,115549,2004,Female,South Carolina,7225.6
+871,871,36463,36463,36463,Less Than High School,Educational Services,23296812,5911,2004,Female,South Carolina,3941.26
+872,872,36464,36464,36464,High School Graduate,Educational Services,140243461,26199,2004,Female,South Carolina,5353.01
+873,873,36465,36465,36465,Some College,Educational Services,224363208,33193,2004,Female,South Carolina,6759.35
+874,874,36466,36466,36466,Advanced Degree,Educational Services,425831715,44529,2004,Female,South Carolina,9563.02
+875,875,36467,36467,36467,Unavalble,Educational Services,21176189,5718,2004,Female,South Carolina,3703.43
+876,876,36552,36552,36552,All Education Categories,Accommodation,48562098,9272,2004,Male,South Carolina,5237.5
+877,877,36553,36553,36553,Less Than High School,Accommodation,7442923,1720,2004,Male,South Carolina,4327.28
+878,878,36554,36554,36554,High School Graduate,Accommodation,14495311,2827,2004,Male,South Carolina,5127.45
+879,879,36555,36555,36555,Some College,Accommodation,12917309,2105,2004,Male,South Carolina,6136.49
+880,880,36556,36556,36556,Advanced Degree,Accommodation,9089712,1111,2004,Male,South Carolina,8181.56
+881,881,36557,36557,36557,Unavalble,Accommodation,4616843,1511,2004,Male,South Carolina,3055.49
+882,882,36558,36558,36558,All Education Categories,Accommodation,55059748,15463,2004,Female,South Carolina,3560.74
+883,883,36559,36559,36559,Less Than High School,Accommodation,9244331,3168,2004,Female,South Carolina,2918.03
+884,884,36560,36560,36560,High School Graduate,Accommodation,16914752,4962,2004,Female,South Carolina,3408.86
+885,885,36561,36561,36561,Some College,Accommodation,14624881,3624,2004,Female,South Carolina,4035.56
+886,886,36562,36562,36562,Advanced Degree,Accommodation,7154087,1286,2004,Female,South Carolina,5563.05
+887,887,36563,36563,36563,Unavalble,Accommodation,7121697,2423,2004,Female,South Carolina,2939.21
+888,888,37632,37632,37632,All Education Categories,Educational Services,420160244,42950,2005,Male,South Carolina,9782.54
+889,889,37633,37633,37633,Less Than High School,Educational Services,17593573,2827,2005,Male,South Carolina,6223.41
+890,890,37634,37634,37634,High School Graduate,Educational Services,64962793,8432,2005,Male,South Carolina,7704.32
+891,891,37635,37635,37635,Some College,Educational Services,103160720,11313,2005,Male,South Carolina,9118.78
+892,892,37636,37636,37636,Advanced Degree,Educational Services,226095326,17939,2005,Male,South Carolina,12603.56
+893,893,37637,37637,37637,Unavalble,Educational Services,8347830,2438,2005,Male,South Carolina,3424.05
+894,894,37638,37638,37638,All Education Categories,Educational Services,865680122,115282,2005,Female,South Carolina,7509.24
+895,895,37639,37639,37639,Less Than High School,Educational Services,24624822,5893,2005,Female,South Carolina,4178.66
+896,896,37640,37640,37640,High School Graduate,Educational Services,145583576,26101,2005,Female,South Carolina,5577.7
+897,897,37641,37641,37641,Some College,Educational Services,234662537,33284,2005,Female,South Carolina,7050.31
+898,898,37642,37642,37642,Advanced Degree,Educational Services,437398277,44203,2005,Female,South Carolina,9895.22
+899,899,37643,37643,37643,Unavalble,Educational Services,23410910,5801,2005,Female,South Carolina,4035.67
+900,900,37728,37728,37728,All Education Categories,Accommodation,49435036,9275,2005,Male,South Carolina,5329.92
+901,901,37729,37729,37729,Less Than High School,Accommodation,7585433,1713,2005,Male,South Carolina,4428.16
+902,902,37730,37730,37730,High School Graduate,Accommodation,14618372,2789,2005,Male,South Carolina,5241.44
+903,903,37731,37731,37731,Some College,Accommodation,13313606,2133,2005,Male,South Carolina,6241.73
+904,904,37732,37732,37732,Advanced Degree,Accommodation,9165022,1126,2005,Male,South Carolina,8139.45
+905,905,37733,37733,37733,Unavalble,Accommodation,4752603,1514,2005,Male,South Carolina,3139.1
+906,906,37734,37734,37734,All Education Categories,Accommodation,56840462,15356,2005,Female,South Carolina,3701.51
+907,907,37735,37735,37735,Less Than High School,Accommodation,9488768,3168,2005,Female,South Carolina,2995.19
+908,908,37736,37736,37736,High School Graduate,Accommodation,17373407,4929,2005,Female,South Carolina,3524.73
+909,909,37737,37737,37737,Some College,Accommodation,15235452,3684,2005,Female,South Carolina,4135.57
+910,910,37738,37738,37738,Advanced Degree,Accommodation,7723849,1319,2005,Female,South Carolina,5855.84
+911,911,37739,37739,37739,Unavalble,Accommodation,7018986,2256,2005,Female,South Carolina,3111.25
+912,912,38820,38820,38820,All Education Categories,Educational Services,446101345,42431,2006,Male,South Carolina,10513.57
+913,913,38821,38821,38821,Less Than High School,Educational Services,19294226,2871,2006,Male,South Carolina,6720.39
+914,914,38822,38822,38822,High School Graduate,Educational Services,70886480,8523,2006,Male,South Carolina,8317.08
+915,915,38823,38823,38823,Some College,Educational Services,111131683,11283,2006,Male,South Carolina,9849.48
+916,916,38824,38824,38824,Advanced Degree,Educational Services,235405010,17388,2006,Male,South Carolina,13538.36
+917,917,38825,38825,38825,Unavalble,Educational Services,9383946,2366,2006,Male,South Carolina,3966.16
+918,918,38826,38826,38826,All Education Categories,Educational Services,924678108,111814,2006,Female,South Carolina,8269.79
+919,919,38827,38827,38827,Less Than High School,Educational Services,27515551,5832,2006,Female,South Carolina,4718.03
+920,920,38828,38828,38828,High School Graduate,Educational Services,156893702,25576,2006,Female,South Carolina,6134.41
+921,921,38829,38829,38829,Some College,Educational Services,253460178,32819,2006,Female,South Carolina,7722.97
+922,922,38830,38830,38830,Advanced Degree,Educational Services,461153210,42125,2006,Female,South Carolina,10947.26
+923,923,38831,38831,38831,Unavalble,Educational Services,25655468,5462,2006,Female,South Carolina,4697.08
+924,924,38916,38916,38916,All Education Categories,Accommodation,57784437,9438,2006,Male,South Carolina,6122.53
+925,925,38917,38917,38917,Less Than High School,Accommodation,8486869,1693,2006,Male,South Carolina,5012.92
+926,926,38918,38918,38918,High School Graduate,Accommodation,16872383,2866,2006,Male,South Carolina,5887.08
+927,927,38919,38919,38919,Some College,Accommodation,15632957,2204,2006,Male,South Carolina,7092.99
+928,928,38920,38920,38920,Advanced Degree,Accommodation,11662636,1196,2006,Male,South Carolina,9751.37
+929,929,38921,38921,38921,Unavalble,Accommodation,5129593,1478,2006,Male,South Carolina,3470.63
+930,930,38922,38922,38922,All Education Categories,Accommodation,66141519,15553,2006,Female,South Carolina,4252.65
+931,931,38923,38923,38923,Less Than High School,Accommodation,10709691,3163,2006,Female,South Carolina,3385.93
+932,932,38924,38924,38924,High School Graduate,Accommodation,20112444,4993,2006,Female,South Carolina,4028.13
+933,933,38925,38925,38925,Some College,Accommodation,17793344,3748,2006,Female,South Carolina,4747.42
+934,934,38926,38926,38926,Advanced Degree,Accommodation,9652528,1425,2006,Female,South Carolina,6773.7
+935,935,38927,38927,38927,Unavalble,Accommodation,7873512,2224,2006,Female,South Carolina,3540.25
+936,936,40008,40008,40008,All Education Categories,Educational Services,478075271,44939,2007,Male,South Carolina,10638.32
+937,937,40009,40009,40009,Less Than High School,Educational Services,21559387,3125,2007,Male,South Carolina,6899.0
+938,938,40010,40010,40010,High School Graduate,Educational Services,77509946,9129,2007,Male,South Carolina,8490.52
+939,939,40011,40011,40011,Some College,Educational Services,120535941,12067,2007,Male,South Carolina,9988.89
+940,940,40012,40012,40012,Advanced Degree,Educational Services,248518879,18178,2007,Male,South Carolina,13671.41
+941,941,40013,40013,40013,Unavalble,Educational Services,9951119,2440,2007,Male,South Carolina,4078.33
+942,942,40014,40014,40014,All Education Categories,Educational Services,993871830,119268,2007,Female,South Carolina,8333.1
+943,943,40015,40015,40015,Less Than High School,Educational Services,31538753,6425,2007,Female,South Carolina,4908.76
+944,944,40016,40016,40016,High School Graduate,Educational Services,171180664,27181,2007,Female,South Carolina,6297.81
+945,945,40017,40017,40017,Some College,Educational Services,276825134,35354,2007,Female,South Carolina,7830.09
+946,946,40018,40018,40018,Advanced Degree,Educational Services,486362773,44498,2007,Female,South Carolina,10929.99
+947,947,40019,40019,40019,Unavalble,Educational Services,27964506,5810,2007,Female,South Carolina,4813.17
+948,948,40104,40104,40104,All Education Categories,Accommodation,65347622,10146,2007,Male,South Carolina,6440.73
+949,949,40105,40105,40105,Less Than High School,Accommodation,9399395,1815,2007,Male,South Carolina,5178.73
+950,950,40106,40106,40106,High School Graduate,Accommodation,19045519,3081,2007,Male,South Carolina,6181.6
+951,951,40107,40107,40107,Some College,Accommodation,17633336,2378,2007,Male,South Carolina,7415.2
+952,952,40108,40108,40108,Advanced Degree,Accommodation,13400143,1282,2007,Male,South Carolina,10452.53
+953,953,40109,40109,40109,Unavalble,Accommodation,5869229,1590,2007,Male,South Carolina,3691.34
+954,954,40110,40110,40110,All Education Categories,Accommodation,70833389,16264,2007,Female,South Carolina,4355.23
+955,955,40111,40111,40111,Less Than High School,Accommodation,11186260,3234,2007,Female,South Carolina,3458.95
+956,956,40112,40112,40112,High School Graduate,Accommodation,21154185,5197,2007,Female,South Carolina,4070.46
+957,957,40113,40113,40113,Some College,Accommodation,19291195,4010,2007,Female,South Carolina,4810.77
+958,958,40114,40114,40114,Advanced Degree,Accommodation,10913300,1518,2007,Female,South Carolina,7189.26
+959,959,40115,40115,40115,Unavalble,Accommodation,8288449,2304,2007,Female,South Carolina,3597.42
+960,960,41196,41196,41196,All Education Categories,Educational Services,500422640,46196,2008,Male,South Carolina,10832.6
+961,961,41197,41197,41197,Less Than High School,Educational Services,23569351,3293,2008,Male,South Carolina,7157.41
+962,962,41198,41198,41198,High School Graduate,Educational Services,82415653,9502,2008,Male,South Carolina,8673.51
+963,963,41199,41199,41199,Some College,Educational Services,126643300,12469,2008,Male,South Carolina,10156.65
+964,964,41200,41200,41200,Advanced Degree,Educational Services,256676565,18404,2008,Male,South Carolina,13946.78
+965,965,41201,41201,41201,Unavalble,Educational Services,11117772,2527,2008,Male,South Carolina,4399.59
+966,966,41202,41202,41202,All Education Categories,Educational Services,1024058868,123615,2008,Female,South Carolina,8284.26
+967,967,41203,41203,41203,Less Than High School,Educational Services,34742236,6902,2008,Female,South Carolina,5033.65
+968,968,41204,41204,41204,High School Graduate,Educational Services,178846797,28049,2008,Female,South Carolina,6376.23
+969,969,41205,41205,41205,Some College,Educational Services,288603249,36852,2008,Female,South Carolina,7831.41
+970,970,41206,41206,41206,Advanced Degree,Educational Services,491951760,45717,2008,Female,South Carolina,10760.81
+971,971,41207,41207,41207,Unavalble,Educational Services,29914826,6094,2008,Female,South Carolina,4908.9
+972,972,41292,41292,41292,All Education Categories,Accommodation,65714170,10332,2008,Male,South Carolina,6360.26
+973,973,41293,41293,41293,Less Than High School,Accommodation,9543204,1842,2008,Male,South Carolina,5180.89
+974,974,41294,41294,41294,High School Graduate,Accommodation,19150364,3102,2008,Male,South Carolina,6173.55
+975,975,41295,41295,41295,Some College,Accommodation,17737254,2423,2008,Male,South Carolina,7320.37
+976,976,41296,41296,41296,Advanced Degree,Accommodation,13349420,1309,2008,Male,South Carolina,10198.18
+977,977,41297,41297,41297,Unavalble,Accommodation,5933928,1655,2008,Male,South Carolina,3585.45
+978,978,41298,41298,41298,All Education Categories,Accommodation,70841665,15940,2008,Female,South Carolina,4444.27
+979,979,41299,41299,41299,Less Than High School,Accommodation,11279219,3160,2008,Female,South Carolina,3569.37
+980,980,41300,41300,41300,High School Graduate,Accommodation,21054881,5015,2008,Female,South Carolina,4198.38
+981,981,41301,41301,41301,Some College,Accommodation,19671483,4018,2008,Female,South Carolina,4895.84
+982,982,41302,41302,41302,Advanced Degree,Accommodation,10974464,1531,2008,Female,South Carolina,7168.17
+983,983,41303,41303,41303,Unavalble,Accommodation,7861618,2216,2008,Female,South Carolina,3547.66
+984,984,42384,42384,42384,All Education Categories,Educational Services,508251066,47854,2009,Male,South Carolina,10620.87
+985,985,42385,42385,42385,Less Than High School,Educational Services,25529239,3590,2009,Male,South Carolina,7111.21
+986,986,42386,42386,42386,High School Graduate,Educational Services,85983686,10019,2009,Male,South Carolina,8582.06
+987,987,42387,42387,42387,Some College,Educational Services,130114957,12997,2009,Male,South Carolina,10011.15
+988,988,42388,42388,42388,Advanced Degree,Educational Services,256019434,18685,2009,Male,South Carolina,13701.87
+989,989,42389,42389,42389,Unavalble,Educational Services,10603750,2564,2009,Male,South Carolina,4135.63
+990,990,42390,42390,42390,All Education Categories,Educational Services,1057539397,126786,2009,Female,South Carolina,8341.14
+991,991,42391,42391,42391,Less Than High School,Educational Services,37948701,7309,2009,Female,South Carolina,5192.05
+992,992,42392,42392,42392,High School Graduate,Educational Services,187260290,28783,2009,Female,South Carolina,6505.93
+993,993,42393,42393,42393,Some College,Educational Services,301690451,38061,2009,Female,South Carolina,7926.5
+994,994,42394,42394,42394,Advanced Degree,Educational Services,502040358,46590,2009,Female,South Carolina,10775.71
+995,995,42395,42395,42395,Unavalble,Educational Services,28599596,6044,2009,Female,South Carolina,4731.9
+996,996,42480,42480,42480,All Education Categories,Accommodation,59295832,10070,2009,Male,South Carolina,5888.36
+997,997,42481,42481,42481,Less Than High School,Accommodation,8678869,1828,2009,Male,South Carolina,4747.74
+998,998,42482,42482,42482,High School Graduate,Accommodation,17166414,3013,2009,Male,South Carolina,5697.45
+999,999,42483,42483,42483,Some College,Accommodation,15901920,2427,2009,Male,South Carolina,6552.09
+1000,1000,42484,42484,42484,Advanced Degree,Accommodation,12787747,1348,2009,Male,South Carolina,9486.46
+1001,1001,42485,42485,42485,Unavalble,Accommodation,4760883,1454,2009,Male,South Carolina,3274.33
+1002,1002,42486,42486,42486,All Education Categories,Accommodation,62271082,15098,2009,Female,South Carolina,4124.46
+1003,1003,42487,42487,42487,Less Than High School,Accommodation,9986989,3012,2009,Female,South Carolina,3315.73
+1004,1004,42488,42488,42488,High School Graduate,Accommodation,18530944,4730,2009,Female,South Carolina,3917.75
+1005,1005,42489,42489,42489,Some College,Accommodation,17535500,3820,2009,Female,South Carolina,4590.45
+1006,1006,42490,42490,42490,Advanced Degree,Accommodation,9890366,1557,2009,Female,South Carolina,6352.19
+1007,1007,42491,42491,42491,Unavalble,Accommodation,6327284,1979,2009,Female,South Carolina,3197.21
+1008,1008,43560,43560,43560,All Education Categories,Educational Services,504557153,47170,2010,Male,South Carolina,10696.57
+1009,1009,43561,43561,43561,Less Than High School,Educational Services,26833509,3720,2010,Male,South Carolina,7213.31
+1010,1010,43562,43562,43562,High School Graduate,Educational Services,87766402,10218,2010,Male,South Carolina,8589.39
+1011,1011,43563,43563,43563,Some College,Educational Services,130302500,12963,2010,Male,South Carolina,10051.88
+1012,1012,43564,43564,43564,Advanced Degree,Educational Services,250090143,18092,2010,Male,South Carolina,13823.24
+1013,1013,43565,43565,43565,Unavalble,Educational Services,9564600,2177,2010,Male,South Carolina,4393.48
+1014,1014,43566,43566,43566,All Education Categories,Educational Services,1034737139,122076,2010,Female,South Carolina,8476.17
+1015,1015,43567,43567,43567,Less Than High School,Educational Services,40020995,7313,2010,Female,South Carolina,5472.58
+1016,1016,43568,43568,43568,High School Graduate,Educational Services,186616441,27893,2010,Female,South Carolina,6690.44
+1017,1017,43569,43569,43569,Some College,Educational Services,298954865,37063,2010,Female,South Carolina,8066.13
+1018,1018,43570,43570,43570,Advanced Degree,Educational Services,485845567,44832,2010,Female,South Carolina,10837.03
+1019,1019,43571,43571,43571,Unavalble,Educational Services,23299271,4975,2010,Female,South Carolina,4683.27
+1020,1020,43656,43656,43656,All Education Categories,Accommodation,56088047,9941,2010,Male,South Carolina,5642.09
+1021,1021,43657,43657,43657,Less Than High School,Accommodation,8385412,1810,2010,Male,South Carolina,4632.82
+1022,1022,43658,43658,43658,High School Graduate,Accommodation,16215261,3017,2010,Male,South Carolina,5374.63
+1023,1023,43659,43659,43659,Some College,Accommodation,15050654,2429,2010,Male,South Carolina,6196.23
+1024,1024,43660,43660,43660,Advanced Degree,Accommodation,12334796,1366,2010,Male,South Carolina,9029.87
+1025,1025,43661,43661,43661,Unavalble,Accommodation,4101924,1318,2010,Male,South Carolina,3112.23
+1026,1026,43662,43662,43662,All Education Categories,Accommodation,57937195,14320,2010,Female,South Carolina,4045.89
+1027,1027,43663,43663,43663,Less Than High School,Accommodation,9300259,2830,2010,Female,South Carolina,3286.31
+1028,1028,43664,43664,43664,High School Graduate,Accommodation,17428568,4504,2010,Female,South Carolina,3869.58
+1029,1029,43665,43665,43665,Some College,Accommodation,16580055,3711,2010,Female,South Carolina,4467.81
+1030,1030,43666,43666,43666,Advanced Degree,Accommodation,9250409,1558,2010,Female,South Carolina,5937.36
+1031,1031,43667,43667,43667,Unavalble,Accommodation,5377905,1717,2010,Female,South Carolina,3132.15
+1032,1032,44724,44724,44724,All Education Categories,Educational Services,517036481,45398,2011,Male,South Carolina,11388.97
+1033,1033,44725,44725,44725,Less Than High School,Educational Services,28897036,3763,2011,Male,South Carolina,7679.25
+1034,1034,44726,44726,44726,High School Graduate,Educational Services,91165210,10178,2011,Male,South Carolina,8957.08
+1035,1035,44727,44727,44727,Some College,Educational Services,133671624,12620,2011,Male,South Carolina,10592.05
+1036,1036,44728,44728,44728,Advanced Degree,Educational Services,253932411,16784,2011,Male,South Carolina,15129.43
+1037,1037,44729,44729,44729,Unavalble,Educational Services,9370201,2054,2011,Male,South Carolina,4561.93
+1038,1038,44730,44730,44730,All Education Categories,Educational Services,1032462315,118723,2011,Female,South Carolina,8696.4
+1039,1039,44731,44731,44731,Less Than High School,Educational Services,42869505,7417,2011,Female,South Carolina,5779.9
+1040,1040,44732,44732,44732,High School Graduate,Educational Services,188665473,27427,2011,Female,South Carolina,6878.82
+1041,1041,44733,44733,44733,Some College,Educational Services,300888398,36339,2011,Female,South Carolina,8280.04
+1042,1042,44734,44734,44734,Advanced Degree,Educational Services,478998027,43104,2011,Female,South Carolina,11112.61
+1043,1043,44735,44735,44735,Unavalble,Educational Services,21040912,4436,2011,Female,South Carolina,4743.22
+1044,1044,44820,44820,44820,All Education Categories,Accommodation,59953502,10093,2011,Male,South Carolina,5940.11
+1045,1045,44821,44821,44821,Less Than High School,Accommodation,8647087,1792,2011,Male,South Carolina,4825.38
+1046,1046,44822,44822,44822,High School Graduate,Accommodation,17052552,3045,2011,Male,South Carolina,5600.18
+1047,1047,44823,44823,44823,Some College,Accommodation,16273244,2494,2011,Male,South Carolina,6524.96
+1048,1048,44824,44824,44824,Advanced Degree,Accommodation,13742395,1446,2011,Male,South Carolina,9503.73
+1049,1049,44825,44825,44825,Unavalble,Accommodation,4238224,1317,2011,Male,South Carolina,3218.09
+1050,1050,44826,44826,44826,All Education Categories,Accommodation,60990968,14420,2011,Female,South Carolina,4229.61
+1051,1051,44827,44827,44827,Less Than High School,Accommodation,9741269,2816,2011,Female,South Carolina,3459.26
+1052,1052,44828,44828,44828,High School Graduate,Accommodation,18093363,4496,2011,Female,South Carolina,4024.32
+1053,1053,44829,44829,44829,Some College,Accommodation,17562190,3747,2011,Female,South Carolina,4687.0
+1054,1054,44830,44830,44830,Advanced Degree,Accommodation,10236678,1627,2011,Female,South Carolina,6291.75
+1055,1055,44831,44831,44831,Unavalble,Accommodation,5357467,1735,2011,Female,South Carolina,3087.88
+1056,1056,45900,45900,45900,All Education Categories,Educational Services,528285688,46585,2012,Male,South Carolina,11340.25
+1057,1057,45901,45901,45901,Less Than High School,Educational Services,30832925,3934,2012,Male,South Carolina,7837.55
+1058,1058,45902,45902,45902,High School Graduate,Educational Services,95123041,10443,2012,Male,South Carolina,9108.78
+1059,1059,45903,45903,45903,Some College,Educational Services,136413753,12852,2012,Male,South Carolina,10614.2
+1060,1060,45904,45904,45904,Advanced Degree,Educational Services,255827922,17281,2012,Male,South Carolina,14804.0
+1061,1061,45905,45905,45905,Unavalble,Educational Services,10088048,2074,2012,Male,South Carolina,4864.05
+1062,1062,45906,45906,45906,All Education Categories,Educational Services,1034377103,115394,2012,Female,South Carolina,8963.87
+1063,1063,45907,45907,45907,Less Than High School,Educational Services,46537304,7529,2012,Female,South Carolina,6181.07
+1064,1064,45908,45908,45908,High School Graduate,Educational Services,192500395,26699,2012,Female,South Carolina,7210.02
+1065,1065,45909,45909,45909,Some College,Educational Services,302853771,35340,2012,Female,South Carolina,8569.72
+1066,1066,45910,45910,45910,Advanced Degree,Educational Services,469850530,41307,2012,Female,South Carolina,11374.6
+1067,1067,45911,45911,45911,Unavalble,Educational Services,22635103,4519,2012,Female,South Carolina,5008.87
+1068,1068,45996,45996,45996,All Education Categories,Accommodation,63564559,10016,2012,Male,South Carolina,6346.3
+1069,1069,45997,45997,45997,Less Than High School,Accommodation,9272614,1798,2012,Male,South Carolina,5157.18
+1070,1070,45998,45998,45998,High School Graduate,Accommodation,17982544,3037,2012,Male,South Carolina,5921.15
+1071,1071,45999,45999,45999,Some College,Accommodation,17081384,2488,2012,Male,South Carolina,6865.51
+1072,1072,46000,46000,46000,Advanced Degree,Accommodation,14944272,1452,2012,Male,South Carolina,10292.2
+1073,1073,46001,46001,46001,Unavalble,Accommodation,4283745,1241,2012,Male,South Carolina,3451.85
+1074,1074,46002,46002,46002,All Education Categories,Accommodation,66074973,14710,2012,Female,South Carolina,4491.84
+1075,1075,46003,46003,46003,Less Than High School,Accommodation,10654276,2892,2012,Female,South Carolina,3684.05
+1076,1076,46004,46004,46004,High School Graduate,Accommodation,19465520,4583,2012,Female,South Carolina,4247.33
+1077,1077,46005,46005,46005,Some College,Accommodation,19160965,3888,2012,Female,South Carolina,4928.23
+1078,1078,46006,46006,46006,Advanced Degree,Accommodation,11223028,1669,2012,Female,South Carolina,6724.4
+1079,1079,46007,46007,46007,Unavalble,Accommodation,5571185,1678,2012,Female,South Carolina,3320.13

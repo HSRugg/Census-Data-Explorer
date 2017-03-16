@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,All Education Categories,00,15173808788,1399623,2004,Male,Indiana,10841.35
+1,1,1,1,Less Than High School,00,1020704981,133832,2004,Male,Indiana,7626.76
+2,2,2,2,High School Graduate,00,4031170194,420948,2004,Male,Indiana,9576.41
+3,3,3,3,Some College,00,4269318069,370541,2004,Male,Indiana,11521.85
+4,4,4,4,Advanced Degree,00,5056656093,280580,2004,Male,Indiana,18022.15
+5,5,5,5,Unavalble,00,795959451,193722,2004,Male,Indiana,4108.77
+6,6,6,6,All Education Categories,00,8755675815,1349205,2004,Female,Indiana,6489.51
+7,7,7,7,Less Than High School,00,437241505,94374,2004,Female,Indiana,4633.07
+8,8,8,8,High School Graduate,00,2190548239,383330,2004,Female,Indiana,5714.52
+9,9,9,9,Some College,00,2744755896,394221,2004,Female,Indiana,6962.48
+10,10,10,10,Advanced Degree,00,2745755636,267105,2004,Female,Indiana,10279.69
+11,11,11,11,Unavalble,00,637374538,210175,2004,Female,Indiana,3032.59
+12,12,60,60,All Education Categories,Manufacturing,5331554757,399113,2004,Male,Indiana,13358.51
+13,13,61,61,Less Than High School,Manufacturing,398395572,40743,2004,Male,Indiana,9778.26
+14,14,62,62,High School Graduate,Manufacturing,1683643373,143298,2004,Male,Indiana,11749.25
+15,15,63,63,Some College,Manufacturing,1645722498,117313,2004,Male,Indiana,14028.48
+16,16,64,64,Advanced Degree,Manufacturing,1394639419,67224,2004,Male,Indiana,20746.15
+17,17,65,65,Unavalble,Manufacturing,209153895,30535,2004,Male,Indiana,6849.64
+18,18,66,66,All Education Categories,Manufacturing,1570229018,173095,2004,Female,Indiana,9071.49
+19,19,67,67,Less Than High School,Manufacturing,102148177,15379,2004,Female,Indiana,6642.06
+20,20,68,68,High School Graduate,Manufacturing,521148574,66224,2004,Female,Indiana,7869.48
+21,21,69,69,Some College,Manufacturing,499028710,52747,2004,Female,Indiana,9460.8
+22,22,70,70,Advanced Degree,Manufacturing,377485406,26073,2004,Female,Indiana,14478.02
+23,23,71,71,Unavalble,Manufacturing,70418151,12672,2004,Female,Indiana,5556.99
+24,24,84,84,All Education Categories,Retail Trade,1071488636,154283,2004,Male,Indiana,6944.96
+25,25,85,85,Less Than High School,Retail Trade,91331988,15487,2004,Male,Indiana,5897.33
+26,26,86,86,High School Graduate,Retail Trade,343967679,46406,2004,Male,Indiana,7412.14
+27,27,87,87,Some College,Retail Trade,302421428,34734,2004,Male,Indiana,8706.78
+28,28,88,88,Advanced Degree,Retail Trade,208608856,17170,2004,Male,Indiana,12149.61
+29,29,89,89,Unavalble,Retail Trade,125158685,40486,2004,Male,Indiana,3091.41
+30,30,90,90,All Education Categories,Retail Trade,710866229,179996,2004,Female,Indiana,3949.34
+31,31,91,91,Less Than High School,Retail Trade,60055466,16549,2004,Female,Indiana,3628.95
+32,32,92,92,High School Graduate,Retail Trade,254416161,59972,2004,Female,Indiana,4242.25
+33,33,93,93,Some College,Retail Trade,192926863,40775,2004,Female,Indiana,4731.5
+34,34,94,94,Advanced Degree,Retail Trade,98064472,15526,2004,Female,Indiana,6316.15
+35,35,95,95,Unavalble,Retail Trade,105403267,47174,2004,Female,Indiana,2234.35
+36,36,120,120,All Education Categories,Finance and Insurance,710552935,31535,2004,Male,Indiana,22532.2
+37,37,121,121,Less Than High School,Finance and Insurance,10422000,1039,2004,Male,Indiana,10030.8
+38,38,122,122,High School Graduate,Finance and Insurance,64930041,4794,2004,Male,Indiana,13544.02
+39,39,123,123,Some College,Finance and Insurance,138140222,7657,2004,Male,Indiana,18041.04
+40,40,124,124,Advanced Degree,Finance and Insurance,482685948,15802,2004,Male,Indiana,30545.88
+41,41,125,125,Unavalble,Finance and Insurance,14374724,2244,2004,Male,Indiana,6405.85
+42,42,126,126,All Education Categories,Finance and Insurance,649340473,71193,2004,Female,Indiana,9120.85
+43,43,127,127,Less Than High School,Finance and Insurance,13427518,2137,2004,Female,Indiana,6283.35
+44,44,128,128,High School Graduate,Finance and Insurance,125161944,17130,2004,Female,Indiana,7306.59
+45,45,129,129,Some College,Finance and Insurance,189234626,21790,2004,Female,Indiana,8684.47
+46,46,130,130,Advanced Degree,Finance and Insurance,284155597,22588,2004,Female,Indiana,12579.94
+47,47,131,131,Unavalble,Finance and Insurance,37360788,7549,2004,Female,Indiana,4949.1
+48,48,180,180,All Education Categories,Educational Services,856544748,80132,2004,Male,Indiana,10689.17
+49,49,181,181,Less Than High School,Educational Services,24122912,3700,2004,Male,Indiana,6519.71
+50,50,182,182,High School Graduate,Educational Services,123631110,15062,2004,Male,Indiana,8208.15
+51,51,183,183,Some College,Educational Services,190895358,19411,2004,Male,Indiana,9834.39
+52,52,184,184,Advanced Degree,Educational Services,500928315,35553,2004,Male,Indiana,14089.62
+53,53,185,185,Unavalble,Educational Services,16967053,6405,2004,Male,Indiana,2649.03
+54,54,186,186,All Education Categories,Educational Services,1239589978,169159,2004,Female,Indiana,7327.96
+55,55,187,187,Less Than High School,Educational Services,27750051,6621,2004,Female,Indiana,4191.22
+56,56,188,188,High School Graduate,Educational Services,219016203,41126,2004,Female,Indiana,5325.49
+57,57,189,189,Some College,Educational Services,322721163,47197,2004,Female,Indiana,6837.75
+58,58,190,190,Advanced Degree,Educational Services,635508616,62256,2004,Female,Indiana,10207.99
+59,59,191,191,Unavalble,Educational Services,34593945,11959,2004,Female,Indiana,2892.71
+60,60,192,192,All Education Categories,Health Care and Social Assistance,832077573,57553,2004,Male,Indiana,14457.59
+61,61,193,193,Less Than High School,Health Care and Social Assistance,27235317,4093,2004,Male,Indiana,6654.12
+62,62,194,194,High School Graduate,Health Care and Social Assistance,106839757,12358,2004,Male,Indiana,8645.39
+63,63,195,195,Some College,Health Care and Social Assistance,190436111,15731,2004,Male,Indiana,12105.79
+64,64,196,196,Advanced Degree,Health Care and Social Assistance,485723605,19560,2004,Male,Indiana,24832.5
+65,65,197,197,Unavalble,Health Care and Social Assistance,21842784,5810,2004,Male,Indiana,3759.52
+66,66,198,198,All Education Categories,Health Care and Social Assistance,1893243221,273554,2004,Female,Indiana,6920.91
+67,67,199,199,Less Than High School,Health Care and Social Assistance,77523864,15654,2004,Female,Indiana,4952.34
+68,68,200,200,High School Graduate,Health Care and Social Assistance,387869164,66704,2004,Female,Indiana,5814.78
+69,69,201,201,Some College,Health Care and Social Assistance,706406548,99731,2004,Female,Indiana,7083.12
+70,70,202,202,Advanced Degree,Health Care and Social Assistance,598315626,60608,2004,Female,Indiana,9871.89
+71,71,203,203,Unavalble,Health Care and Social Assistance,123128019,30858,2004,Female,Indiana,3990.15
+72,72,216,216,All Education Categories,Accommodation and Food Services,310306529,89229,2004,Male,Indiana,3477.64
+73,73,217,217,Less Than High School,Accommodation and Food Services,39444348,10130,2004,Male,Indiana,3893.82
+74,74,218,218,High School Graduate,Accommodation and Food Services,83227985,18677,2004,Male,Indiana,4456.18
+75,75,219,219,Some College,Accommodation and Food Services,65718407,13339,2004,Male,Indiana,4926.79
+76,76,220,220,Advanced Degree,Accommodation and Food Services,36601114,6137,2004,Male,Indiana,5964.01
+77,77,221,221,Unavalble,Accommodation and Food Services,85314674,40946,2004,Male,Indiana,2083.59
+78,78,222,222,All Education Categories,Accommodation and Food Services,345687440,127456,2004,Female,Indiana,2712.21
+79,79,223,223,Less Than High School,Accommodation and Food Services,37032969,12817,2004,Female,Indiana,2889.36
+80,80,224,224,High School Graduate,Accommodation and Food Services,95250848,30026,2004,Female,Indiana,3172.28
+81,81,225,225,Some College,Accommodation and Food Services,77167290,22229,2004,Female,Indiana,3471.47
+82,82,226,226,Advanced Degree,Accommodation and Food Services,34018325,8561,2004,Female,Indiana,3973.64
+83,83,227,227,Unavalble,Accommodation and Food Services,102218008,53823,2004,Female,Indiana,1899.15
+84,84,252,252,All Education Categories,00,15461842137,1414316,2005,Male,Indiana,10932.38
+85,85,253,253,Less Than High School,00,1047806462,136432,2005,Male,Indiana,7680.06
+86,86,254,254,High School Graduate,00,4099671019,424649,2005,Male,Indiana,9654.26
+87,87,255,255,Some College,00,4377439931,375923,2005,Male,Indiana,11644.51
+88,88,256,256,Advanced Degree,00,5150553122,283852,2005,Male,Indiana,18145.21
+89,89,257,257,Unavalble,00,786371604,193460,2005,Male,Indiana,4064.78
+90,90,258,258,All Education Categories,00,8777900754,1358633,2005,Female,Indiana,6460.83
+91,91,259,259,Less Than High School,00,443169547,96328,2005,Female,Indiana,4600.63
+92,92,260,260,High School Graduate,00,2177568354,383966,2005,Female,Indiana,5671.25
+93,93,261,261,Some College,00,2761219153,398729,2005,Female,Indiana,6925.05
+94,94,262,262,Advanced Degree,00,2769743245,270438,2005,Female,Indiana,10241.69
+95,95,263,263,Unavalble,00,626200454,209172,2005,Female,Indiana,2993.71
+96,96,312,312,All Education Categories,Manufacturing,5457684329,404255,2005,Male,Indiana,13500.6
+97,97,313,313,Less Than High School,Manufacturing,408954611,41676,2005,Male,Indiana,9812.71
+98,98,314,314,High School Graduate,Manufacturing,1712031523,144259,2005,Male,Indiana,11867.76
+99,99,315,315,Some College,Manufacturing,1690473233,118719,2005,Male,Indiana,14239.28
+100,100,316,316,Advanced Degree,Manufacturing,1430930153,67760,2005,Male,Indiana,21117.62
+101,101,317,317,Unavalble,Manufacturing,215294809,31840,2005,Male,Indiana,6761.77
+102,102,318,318,All Education Categories,Manufacturing,1573498710,173070,2005,Female,Indiana,9091.69
+103,103,319,319,Less Than High School,Manufacturing,102984474,15660,2005,Female,Indiana,6576.28
+104,104,320,320,High School Graduate,Manufacturing,513436184,65338,2005,Female,Indiana,7858.16
+105,105,321,321,Some College,Manufacturing,502141875,52830,2005,Female,Indiana,9504.86
+106,106,322,322,Advanced Degree,Manufacturing,386083388,26356,2005,Female,Indiana,14648.79
+107,107,323,323,Unavalble,Manufacturing,68852789,12886,2005,Female,Indiana,5343.22
+108,108,336,336,All Education Categories,Retail Trade,1061932057,151664,2005,Male,Indiana,7001.87
+109,109,337,337,Less Than High School,Retail Trade,90723826,15329,2005,Male,Indiana,5918.44
+110,110,338,338,High School Graduate,Retail Trade,339060546,45759,2005,Male,Indiana,7409.7
+111,111,339,339,Some College,Retail Trade,300712931,34497,2005,Male,Indiana,8717.07
+112,112,340,340,Advanced Degree,Retail Trade,211022573,16950,2005,Male,Indiana,12449.71
+113,113,341,341,Unavalble,Retail Trade,120412180,39128,2005,Male,Indiana,3077.39
+114,114,342,342,All Education Categories,Retail Trade,706211638,176978,2005,Female,Indiana,3990.39
+115,115,343,343,Less Than High School,Retail Trade,59866048,16261,2005,Female,Indiana,3681.57
+116,116,344,344,High School Graduate,Retail Trade,251436295,58814,2005,Female,Indiana,4275.11
+117,117,345,345,Some College,Retail Trade,193397641,40427,2005,Female,Indiana,4783.87
+118,118,346,346,Advanced Degree,Retail Trade,99431375,15507,2005,Female,Indiana,6412.03
+119,119,347,347,Unavalble,Retail Trade,102080279,45969,2005,Female,Indiana,2220.63
+120,120,372,372,All Education Categories,Finance and Insurance,708864855,30869,2005,Male,Indiana,22963.65
+121,121,373,373,Less Than High School,Finance and Insurance,10806083,1022,2005,Male,Indiana,10573.47
+122,122,374,374,High School Graduate,Finance and Insurance,65073862,4721,2005,Male,Indiana,13783.91
+123,123,375,375,Some College,Finance and Insurance,137014062,7569,2005,Male,Indiana,18102.0
+124,124,376,376,Advanced Degree,Finance and Insurance,482831678,15489,2005,Male,Indiana,31172.55
+125,125,377,377,Unavalble,Finance and Insurance,13139171,2067,2005,Male,Indiana,6356.64
+126,126,378,378,All Education Categories,Finance and Insurance,636535958,68450,2005,Female,Indiana,9299.28
+127,127,379,379,Less Than High School,Finance and Insurance,13196883,2116,2005,Female,Indiana,6236.71
+128,128,380,380,High School Graduate,Finance and Insurance,119915876,16465,2005,Female,Indiana,7283.08
+129,129,381,381,Some College,Finance and Insurance,186725283,21120,2005,Female,Indiana,8841.16
+130,130,382,382,Advanced Degree,Finance and Insurance,283864643,22013,2005,Female,Indiana,12895.32
+131,131,383,383,Unavalble,Finance and Insurance,32833273,6736,2005,Female,Indiana,4874.3
+132,132,432,432,All Education Categories,Educational Services,840288352,80131,2005,Male,Indiana,10486.43
+133,133,433,433,Less Than High School,Educational Services,23827453,3726,2005,Male,Indiana,6394.91
+134,134,434,434,High School Graduate,Educational Services,120978931,15156,2005,Male,Indiana,7982.25
+135,135,435,435,Some College,Educational Services,188653061,19606,2005,Male,Indiana,9622.21
+136,136,436,436,Advanced Degree,Educational Services,490801526,35338,2005,Male,Indiana,13888.77
+137,137,437,437,Unavalble,Educational Services,16027381,6305,2005,Male,Indiana,2542.01
+138,138,438,438,All Education Categories,Educational Services,1210642872,170502,2005,Female,Indiana,7100.46
+139,139,439,439,Less Than High School,Educational Services,27761540,6784,2005,Female,Indiana,4092.21
+140,140,440,440,High School Graduate,Educational Services,213607276,41401,2005,Female,Indiana,5159.47
+141,141,441,441,Some College,Educational Services,317756791,48091,2005,Female,Indiana,6607.41
+142,142,442,442,Advanced Degree,Educational Services,617410432,62351,2005,Female,Indiana,9902.17
+143,143,443,443,Unavalble,Educational Services,34106834,11874,2005,Female,Indiana,2872.4
+144,144,444,444,All Education Categories,Health Care and Social Assistance,836418543,58148,2005,Male,Indiana,14384.3
+145,145,445,445,Less Than High School,Health Care and Social Assistance,26980337,4138,2005,Male,Indiana,6520.14
+146,146,446,446,High School Graduate,Health Care and Social Assistance,107163917,12577,2005,Male,Indiana,8520.63
+147,147,447,447,Some College,Health Care and Social Assistance,191198915,16020,2005,Male,Indiana,11935.01
+148,148,448,448,Advanced Degree,Health Care and Social Assistance,491188973,19872,2005,Male,Indiana,24717.64
+149,149,449,449,Unavalble,Health Care and Social Assistance,19886401,5541,2005,Male,Indiana,3588.96
+150,150,450,450,All Education Categories,Health Care and Social Assistance,1912754277,275704,2005,Female,Indiana,6937.71
+151,151,451,451,Less Than High School,Health Care and Social Assistance,78611251,15952,2005,Female,Indiana,4927.99
+152,152,452,452,High School Graduate,Health Care and Social Assistance,392404315,67481,2005,Female,Indiana,5815.03
+153,153,453,453,Some College,Health Care and Social Assistance,715642617,100968,2005,Female,Indiana,7087.82
+154,154,454,454,Advanced Degree,Health Care and Social Assistance,607330695,61343,2005,Female,Indiana,9900.57
+155,155,455,455,Unavalble,Health Care and Social Assistance,118765398,29960,2005,Female,Indiana,3964.13
+156,156,468,468,All Education Categories,Accommodation and Food Services,312543185,89627,2005,Male,Indiana,3487.15
+157,157,469,469,Less Than High School,Accommodation and Food Services,40666739,10494,2005,Male,Indiana,3875.24
+158,158,470,470,High School Graduate,Accommodation and Food Services,83979914,18928,2005,Male,Indiana,4436.81
+159,159,471,471,Some College,Accommodation and Food Services,66764753,13503,2005,Male,Indiana,4944.44
+160,160,472,472,Advanced Degree,Accommodation and Food Services,37444870,6209,2005,Male,Indiana,6030.74
+161,161,473,473,Unavalble,Accommodation and Food Services,83686908,40492,2005,Male,Indiana,2066.75
+162,162,474,474,All Education Categories,Accommodation and Food Services,350892390,129589,2005,Female,Indiana,2707.73
+163,163,475,475,Less Than High School,Accommodation and Food Services,37830993,13092,2005,Female,Indiana,2889.63
+164,164,476,476,High School Graduate,Accommodation and Food Services,95844258,30209,2005,Female,Indiana,3172.71
+165,165,477,477,Some College,Accommodation and Food Services,78053194,22491,2005,Female,Indiana,3470.42
+166,166,478,478,Advanced Degree,Accommodation and Food Services,35107447,8819,2005,Female,Indiana,3980.89
+167,167,479,479,Unavalble,Accommodation and Food Services,104056498,54979,2005,Female,Indiana,1892.66
+168,168,504,504,All Education Categories,00,16855301898,1431946,2006,Male,Indiana,11770.91
+169,169,505,505,Less Than High School,00,1151902969,140535,2006,Male,Indiana,8196.56
+170,170,506,506,High School Graduate,00,4467179250,431240,2006,Male,Indiana,10358.92
+171,171,507,507,Some College,00,4774416701,382701,2006,Male,Indiana,12475.58
+172,172,508,508,Advanced Degree,00,5623703227,286086,2006,Male,Indiana,19657.39
+173,173,509,509,Unavalble,00,838099751,191383,2006,Male,Indiana,4379.18
+174,174,510,510,All Education Categories,00,9495492285,1365900,2006,Female,Indiana,6951.82
+175,175,511,511,Less Than High School,00,489551220,98517,2006,Female,Indiana,4969.21
+176,176,512,512,High School Graduate,00,2361647766,386631,2006,Female,Indiana,6108.27
+177,177,513,513,Some College,00,3000833475,402619,2006,Female,Indiana,7453.28
+178,178,514,514,Advanced Degree,00,2993524238,271289,2006,Female,Indiana,11034.45
+179,179,515,515,Unavalble,00,649935586,206844,2006,Female,Indiana,3142.15
+180,180,564,564,All Education Categories,Manufacturing,6005275515,405832,2006,Male,Indiana,14797.44
+181,181,565,565,Less Than High School,Manufacturing,449286457,42366,2006,Male,Indiana,10604.88
+182,182,566,566,High School Graduate,Manufacturing,1857068180,144372,2006,Male,Indiana,12863.08
+183,183,567,567,Some College,Manufacturing,1851431683,119663,2006,Male,Indiana,15472.05
+184,184,568,568,Advanced Degree,Manufacturing,1609343448,67690,2006,Male,Indiana,23775.2
+185,185,569,569,Unavalble,Manufacturing,238145746,31740,2006,Male,Indiana,7503.02
+186,186,570,570,All Education Categories,Manufacturing,1722910770,172396,2006,Female,Indiana,9993.91
+187,187,571,571,Less Than High School,Manufacturing,113850950,15652,2006,Female,Indiana,7273.89
+188,188,572,572,High School Graduate,Manufacturing,553411239,64630,2006,Female,Indiana,8562.76
+189,189,573,573,Some College,Manufacturing,547838143,52943,2006,Female,Indiana,10347.7
+190,190,574,574,Advanced Degree,Manufacturing,435969855,26630,2006,Female,Indiana,16371.38
+191,191,575,575,Unavalble,Manufacturing,71840584,12540,2006,Female,Indiana,5728.91
+192,192,588,588,All Education Categories,Retail Trade,1104703525,152000,2006,Male,Indiana,7267.79
+193,193,589,589,Less Than High School,Retail Trade,96474273,15590,2006,Male,Indiana,6188.22
+194,194,590,590,High School Graduate,Retail Trade,355288398,45985,2006,Male,Indiana,7726.18
+195,195,591,591,Some College,Retail Trade,315758111,34740,2006,Male,Indiana,9089.18
+196,196,592,592,Advanced Degree,Retail Trade,214215025,17063,2006,Male,Indiana,12554.36
+197,197,593,593,Unavalble,Retail Trade,122967719,38621,2006,Male,Indiana,3183.96
+198,198,594,594,All Education Categories,Retail Trade,754362886,179532,2006,Female,Indiana,4201.83
+199,199,595,595,Less Than High School,Retail Trade,64150123,16541,2006,Female,Indiana,3878.25
+200,200,596,596,High School Graduate,Retail Trade,267651992,59364,2006,Female,Indiana,4508.66
+201,201,597,597,Some College,Retail Trade,208010245,41421,2006,Female,Indiana,5021.85
+202,202,598,598,Advanced Degree,Retail Trade,106853971,15979,2006,Female,Indiana,6687.15
+203,203,599,599,Unavalble,Retail Trade,107696555,46228,2006,Female,Indiana,2329.68
+204,204,624,624,All Education Categories,Finance and Insurance,762460324,31523,2006,Male,Indiana,24187.43
+205,205,625,625,Less Than High School,Finance and Insurance,12175029,1099,2006,Male,Indiana,11078.28
+206,206,626,626,High School Graduate,Finance and Insurance,74444235,4893,2006,Male,Indiana,15214.44
+207,207,627,627,Some College,Finance and Insurance,149812390,7781,2006,Male,Indiana,19253.62
+208,208,628,628,Advanced Degree,Finance and Insurance,512300849,15714,2006,Male,Indiana,32601.56
+209,209,629,629,Unavalble,Finance and Insurance,13727821,2036,2006,Male,Indiana,6742.54
+210,210,630,630,All Education Categories,Finance and Insurance,685697314,68780,2006,Female,Indiana,9969.43
+211,211,631,631,Less Than High School,Finance and Insurance,15010256,2218,2006,Female,Indiana,6767.47
+212,212,632,632,High School Graduate,Finance and Insurance,129347279,16575,2006,Female,Indiana,7803.76
+213,213,633,633,Some College,Finance and Insurance,200772341,21373,2006,Female,Indiana,9393.74
+214,214,634,634,Advanced Degree,Finance and Insurance,307755538,22208,2006,Female,Indiana,13857.87
+215,215,635,635,Unavalble,Finance and Insurance,32811901,6405,2006,Female,Indiana,5122.86
+216,216,684,684,All Education Categories,Educational Services,887879224,80049,2006,Male,Indiana,11091.7
+217,217,685,685,Less Than High School,Educational Services,26086439,3797,2006,Male,Indiana,6870.28
+218,218,686,686,High School Graduate,Educational Services,131349375,15402,2006,Male,Indiana,8528.07
+219,219,687,687,Some College,Educational Services,202913163,19913,2006,Male,Indiana,10189.98
+220,220,688,688,Advanced Degree,Educational Services,511750553,35156,2006,Male,Indiana,14556.56
+221,221,689,689,Unavalble,Educational Services,15779694,5781,2006,Male,Indiana,2729.58
+222,222,690,690,All Education Categories,Educational Services,1313378143,171029,2006,Female,Indiana,7679.27
+223,223,691,691,Less Than High School,Educational Services,31040327,6839,2006,Female,Indiana,4538.72
+224,224,692,692,High School Graduate,Educational Services,236146148,41670,2006,Female,Indiana,5667.05
+225,225,693,693,Some College,Educational Services,350382015,48860,2006,Female,Indiana,7171.14
+226,226,694,694,Advanced Degree,Educational Services,660852432,62409,2006,Female,Indiana,10589.06
+227,227,695,695,Unavalble,Educational Services,34957222,11251,2006,Female,Indiana,3107.03
+228,228,696,696,All Education Categories,Health Care and Social Assistance,879341256,57260,2006,Male,Indiana,15356.99
+229,229,697,697,Less Than High School,Health Care and Social Assistance,29143953,4197,2006,Male,Indiana,6944.0
+230,230,698,698,High School Graduate,Health Care and Social Assistance,114150283,12508,2006,Male,Indiana,9126.18
+231,231,699,699,Some College,Health Care and Social Assistance,200977971,15724,2006,Male,Indiana,12781.61
+232,232,700,700,Advanced Degree,Health Care and Social Assistance,513606409,19401,2006,Male,Indiana,26473.19
+233,233,701,701,Unavalble,Health Care and Social Assistance,21462640,5429,2006,Male,Indiana,3953.33
+234,234,702,702,All Education Categories,Health Care and Social Assistance,2041852264,271373,2006,Female,Indiana,7524.15
+235,235,703,703,Less Than High School,Health Care and Social Assistance,86871062,16234,2006,Female,Indiana,5351.18
+236,236,704,704,High School Graduate,Health Care and Social Assistance,427755171,67515,2006,Female,Indiana,6335.71
+237,237,705,705,Some College,Health Care and Social Assistance,769539026,99739,2006,Female,Indiana,7715.53
+238,238,706,706,Advanced Degree,Health Care and Social Assistance,636634446,59387,2006,Female,Indiana,10720.1
+239,239,707,707,Unavalble,Health Care and Social Assistance,121052559,28499,2006,Female,Indiana,4247.61
+240,240,720,720,All Education Categories,Accommodation and Food Services,338083933,91952,2006,Male,Indiana,3676.74
+241,241,721,721,Less Than High School,Accommodation and Food Services,44399641,10983,2006,Male,Indiana,4042.58
+242,242,722,722,High School Graduate,Accommodation and Food Services,91408798,19789,2006,Male,Indiana,4619.17
+243,243,723,723,Some College,Accommodation and Food Services,73169313,14184,2006,Male,Indiana,5158.58
+244,244,724,724,Advanced Degree,Accommodation and Food Services,40840002,6502,2006,Male,Indiana,6281.14
+245,245,725,725,Unavalble,Accommodation and Food Services,88266178,40493,2006,Male,Indiana,2179.79
+246,246,726,726,All Education Categories,Accommodation and Food Services,386661595,134945,2006,Female,Indiana,2865.33
+247,247,727,727,Less Than High School,Accommodation and Food Services,42033445,13816,2006,Female,Indiana,3042.37
+248,248,728,728,High School Graduate,Accommodation and Food Services,105001070,31372,2006,Female,Indiana,3346.97
+249,249,729,729,Some College,Accommodation and Food Services,86905861,23808,2006,Female,Indiana,3650.28
+250,250,730,730,Advanced Degree,Accommodation and Food Services,39366696,9407,2006,Female,Indiana,4184.83
+251,251,731,731,Unavalble,Accommodation and Food Services,113354523,56542,2006,Female,Indiana,2004.78
+252,252,756,756,All Education Categories,00,17491175912,1429986,2007,Male,Indiana,12231.71
+253,253,757,757,Less Than High School,00,1198632587,142064,2007,Male,Indiana,8437.27
+254,254,758,758,High School Graduate,00,4602586178,431802,2007,Male,Indiana,10659.02
+255,255,759,759,Some College,00,4971708289,384200,2007,Male,Indiana,12940.42
+256,256,760,760,Advanced Degree,00,5896845496,285605,2007,Male,Indiana,20646.86
+257,257,761,761,Unavalble,00,821403362,186314,2007,Male,Indiana,4408.7
+258,258,762,762,All Education Categories,00,9901040674,1367021,2007,Female,Indiana,7242.79
+259,259,763,763,Less Than High School,00,516642045,100123,2007,Female,Indiana,5160.07
+260,260,764,764,High School Graduate,00,2438668163,384676,2007,Female,Indiana,6339.54
+261,261,765,765,Some College,00,3145412939,405755,2007,Female,Indiana,7752.0
+262,262,766,766,Advanced Degree,00,3155032445,272898,2007,Female,Indiana,11561.21
+263,263,767,767,Unavalble,00,645285082,203568,2007,Female,Indiana,3169.87
+264,264,816,816,All Education Categories,Manufacturing,6020614176,394924,2007,Male,Indiana,15244.99
+265,265,817,817,Less Than High School,Manufacturing,445966413,41642,2007,Male,Indiana,10709.53
+266,266,818,818,High School Graduate,Manufacturing,1846197593,140810,2007,Male,Indiana,13111.27
+267,267,819,819,Some College,Manufacturing,1856130452,116997,2007,Male,Indiana,15864.77
+268,268,820,820,Advanced Degree,Manufacturing,1658423788,66065,2007,Male,Indiana,25102.91
+269,269,821,821,Unavalble,Manufacturing,213895931,29409,2007,Male,Indiana,7273.15
+270,270,822,822,All Education Categories,Manufacturing,1741878958,167888,2007,Female,Indiana,10375.24
+271,271,823,823,Less Than High School,Manufacturing,113468245,15477,2007,Female,Indiana,7331.41
+272,272,824,824,High School Graduate,Manufacturing,547919922,62337,2007,Female,Indiana,8789.64
+273,273,825,825,Some College,Manufacturing,556081470,51906,2007,Female,Indiana,10713.24
+274,274,826,826,Advanced Degree,Manufacturing,456681911,26301,2007,Female,Indiana,17363.67
+275,275,827,827,Unavalble,Manufacturing,67727410,11867,2007,Female,Indiana,5707.21
+276,276,840,840,All Education Categories,Retail Trade,1096963532,145148,2007,Male,Indiana,7557.55
+277,277,841,841,Less Than High School,Retail Trade,96979586,15036,2007,Male,Indiana,6449.83
+278,278,842,842,High School Graduate,Retail Trade,350389534,44064,2007,Male,Indiana,7951.83
+279,279,843,843,Some College,Retail Trade,315887659,33586,2007,Male,Indiana,9405.34
+280,280,844,844,Advanced Degree,Retail Trade,215965579,16542,2007,Male,Indiana,13055.59
+281,281,845,845,Unavalble,Retail Trade,117741175,35920,2007,Male,Indiana,3277.87
+282,282,846,846,All Education Categories,Retail Trade,738519561,170989,2007,Female,Indiana,4319.11
+283,283,847,847,Less Than High School,Retail Trade,64037514,15863,2007,Female,Indiana,4036.91
+284,284,848,848,High School Graduate,Retail Trade,260138814,55942,2007,Female,Indiana,4650.15
+285,285,849,849,Some College,Retail Trade,205330259,39842,2007,Female,Indiana,5153.61
+286,286,850,850,Advanced Degree,Retail Trade,105655822,15524,2007,Female,Indiana,6805.97
+287,287,851,851,Unavalble,Retail Trade,103357152,43817,2007,Female,Indiana,2358.84
+288,288,876,876,All Education Categories,Finance and Insurance,789143117,31646,2007,Male,Indiana,24936.58
+289,289,877,877,Less Than High School,Finance and Insurance,13993956,1196,2007,Male,Indiana,11700.63
+290,290,878,878,High School Graduate,Finance and Insurance,77715950,5054,2007,Male,Indiana,15377.12
+291,291,879,879,Some College,Finance and Insurance,156939568,7917,2007,Male,Indiana,19823.11
+292,292,880,880,Advanced Degree,Finance and Insurance,526664335,15582,2007,Male,Indiana,33799.53
+293,293,881,881,Unavalble,Finance and Insurance,13829307,1897,2007,Male,Indiana,7290.09
+294,294,882,882,All Education Categories,Finance and Insurance,720869628,68383,2007,Female,Indiana,10541.65
+295,295,883,883,Less Than High School,Finance and Insurance,16677366,2366,2007,Female,Indiana,7048.76
+296,296,884,884,High School Graduate,Finance and Insurance,136115109,16563,2007,Female,Indiana,8218.02
+297,297,885,885,Some College,Finance and Insurance,211461458,21407,2007,Female,Indiana,9878.15
+298,298,886,886,Advanced Degree,Finance and Insurance,324484618,21950,2007,Female,Indiana,14782.9
+299,299,887,887,Unavalble,Finance and Insurance,32131076,6097,2007,Female,Indiana,5269.98
+300,300,936,936,All Education Categories,Educational Services,901259277,78352,2007,Male,Indiana,11502.7
+301,301,937,937,Less Than High School,Educational Services,28193849,3828,2007,Male,Indiana,7365.16
+302,302,938,938,High School Graduate,Educational Services,136956073,15211,2007,Male,Indiana,9003.75
+303,303,939,939,Some College,Educational Services,210121498,19613,2007,Male,Indiana,10713.38
+304,304,940,940,Advanced Degree,Educational Services,510361564,33832,2007,Male,Indiana,15085.17
+305,305,941,941,Unavalble,Educational Services,15626293,5868,2007,Male,Indiana,2662.97
+306,306,942,942,All Education Categories,Educational Services,1355071398,166744,2007,Female,Indiana,8126.66
+307,307,943,943,Less Than High School,Educational Services,34177718,6911,2007,Female,Indiana,4945.41
+308,308,944,944,High School Graduate,Educational Services,245199598,40774,2007,Female,Indiana,6013.63
+309,309,945,945,Some College,Educational Services,365810210,48018,2007,Female,Indiana,7618.19
+310,310,946,946,Advanced Degree,Educational Services,675547482,59985,2007,Female,Indiana,11261.94
+311,311,947,947,Unavalble,Educational Services,34336391,11057,2007,Female,Indiana,3105.4
+312,312,948,948,All Education Categories,Health Care and Social Assistance,946135434,59293,2007,Male,Indiana,15956.95
+313,313,949,949,Less Than High School,Health Care and Social Assistance,31800899,4366,2007,Male,Indiana,7283.76
+314,314,950,950,High School Graduate,Health Care and Social Assistance,123514213,13045,2007,Male,Indiana,9468.32
+315,315,951,951,Some College,Health Care and Social Assistance,217876617,16369,2007,Male,Indiana,13310.32
+316,316,952,952,Advanced Degree,Health Care and Social Assistance,550913287,19986,2007,Male,Indiana,27564.96
+317,317,953,953,Unavalble,Health Care and Social Assistance,22030417,5526,2007,Male,Indiana,3986.68
+318,318,954,954,All Education Categories,Health Care and Social Assistance,2184267859,280469,2007,Female,Indiana,7787.91
+319,319,955,955,Less Than High School,Health Care and Social Assistance,94785838,17082,2007,Female,Indiana,5548.87
+320,320,956,956,High School Graduate,Health Care and Social Assistance,454551545,69650,2007,Female,Indiana,6526.22
+321,321,957,957,Some College,Health Care and Social Assistance,819561081,102736,2007,Female,Indiana,7977.35
+322,322,958,958,Advanced Degree,Health Care and Social Assistance,690783824,62005,2007,Female,Indiana,11140.78
+323,323,959,959,Unavalble,Health Care and Social Assistance,124585571,28997,2007,Female,Indiana,4296.5
+324,324,972,972,All Education Categories,Accommodation and Food Services,358142567,94508,2007,Male,Indiana,3789.55
+325,325,973,973,Less Than High School,Accommodation and Food Services,48264276,11625,2007,Male,Indiana,4151.77
+326,326,974,974,High School Graduate,Accommodation and Food Services,98011739,20616,2007,Male,Indiana,4754.16
+327,327,975,975,Some College,Accommodation and Food Services,78537206,14881,2007,Male,Indiana,5277.68
+328,328,976,976,Advanced Degree,Accommodation and Food Services,44668966,6794,2007,Male,Indiana,6574.77
+329,329,977,977,Unavalble,Accommodation and Food Services,88660379,40591,2007,Male,Indiana,2184.24
+330,330,978,978,All Education Categories,Accommodation and Food Services,404027321,136715,2007,Female,Indiana,2955.25
+331,331,979,979,Less Than High School,Accommodation and Food Services,44839912,14181,2007,Female,Indiana,3161.97
+332,332,980,980,High School Graduate,Accommodation and Food Services,110993857,31930,2007,Female,Indiana,3476.16
+333,333,981,981,Some College,Accommodation and Food Services,92435406,24477,2007,Female,Indiana,3776.42
+334,334,982,982,Advanced Degree,Accommodation and Food Services,42428374,9799,2007,Female,Indiana,4329.87
+335,335,983,983,Unavalble,Accommodation and Food Services,113329772,56329,2007,Female,Indiana,2011.93
+336,336,1008,1008,All Education Categories,00,17787096783,1424787,2008,Male,Indiana,12484.04
+337,337,1009,1009,Less Than High School,00,1235557452,143464,2008,Male,Indiana,8612.32
+338,338,1010,1010,High School Graduate,00,4675630591,431090,2008,Male,Indiana,10846.07
+339,339,1011,1011,Some College,00,5045667419,384479,2008,Male,Indiana,13123.39
+340,340,1012,1012,Advanced Degree,00,6020948136,283824,2008,Male,Indiana,21213.67
+341,341,1013,1013,Unavalble,00,809293185,181929,2008,Male,Indiana,4448.4
+342,342,1014,1014,All Education Categories,00,10379864001,1379239,2008,Female,Indiana,7525.79
+343,343,1015,1015,Less Than High School,00,549693703,102608,2008,Female,Indiana,5357.22
+344,344,1016,1016,High School Graduate,00,2532004053,387069,2008,Female,Indiana,6541.48
+345,345,1017,1017,Some College,00,3311251405,412175,2008,Female,Indiana,8033.61
+346,346,1018,1018,Advanced Degree,00,3339086891,277805,2008,Female,Indiana,12019.53
+347,347,1019,1019,Unavalble,00,647827949,199581,2008,Female,Indiana,3245.94
+348,348,1068,1068,All Education Categories,Manufacturing,5991140838,385924,2008,Male,Indiana,15524.15
+349,349,1069,1069,Less Than High School,Manufacturing,446036197,41452,2008,Male,Indiana,10760.31
+350,350,1070,1070,High School Graduate,Manufacturing,1823905901,137574,2008,Male,Indiana,13257.64
+351,351,1071,1071,Some College,Manufacturing,1844491122,114549,2008,Male,Indiana,16102.2
+352,352,1072,1072,Advanced Degree,Manufacturing,1672401273,64428,2008,Male,Indiana,25957.68
+353,353,1073,1073,Unavalble,Manufacturing,204306345,27920,2008,Male,Indiana,7317.56
+354,354,1074,1074,All Education Categories,Manufacturing,1759176781,163076,2008,Female,Indiana,10787.47
+355,355,1075,1075,Less Than High School,Manufacturing,113850130,15301,2008,Female,Indiana,7440.7
+356,356,1076,1076,High School Graduate,Manufacturing,538434798,60185,2008,Female,Indiana,8946.33
+357,357,1077,1077,Some College,Manufacturing,560273793,50534,2008,Female,Indiana,11087.07
+358,358,1078,1078,Advanced Degree,Manufacturing,483218653,25808,2008,Female,Indiana,18723.6
+359,359,1079,1079,Unavalble,Manufacturing,63399406,11247,2008,Female,Indiana,5637.01
+360,360,1092,1092,All Education Categories,Retail Trade,1119752260,148642,2008,Male,Indiana,7533.22
+361,361,1093,1093,Less Than High School,Retail Trade,100904370,15516,2008,Male,Indiana,6503.25
+362,362,1094,1094,High School Graduate,Retail Trade,359166780,44938,2008,Male,Indiana,7992.5
+363,363,1095,1095,Some College,Retail Trade,321373063,34329,2008,Male,Indiana,9361.56
+364,364,1096,1096,Advanced Degree,Retail Trade,218809239,17015,2008,Male,Indiana,12859.78
+365,365,1097,1097,Unavalble,Retail Trade,119498809,36843,2008,Male,Indiana,3243.46
+366,366,1098,1098,All Education Categories,Retail Trade,771467333,173278,2008,Female,Indiana,4452.19
+367,367,1099,1099,Less Than High School,Retail Trade,67022433,16041,2008,Female,Indiana,4178.2
+368,368,1100,1100,High School Graduate,Retail Trade,270031215,56427,2008,Female,Indiana,4785.5
+369,369,1101,1101,Some College,Retail Trade,216748526,40899,2008,Female,Indiana,5299.6
+370,370,1102,1102,Advanced Degree,Retail Trade,114520661,16209,2008,Female,Indiana,7065.25
+371,371,1103,1103,Unavalble,Retail Trade,103144498,43703,2008,Female,Indiana,2360.12
+372,372,1128,1128,All Education Categories,Finance and Insurance,789326213,31292,2008,Male,Indiana,25224.54
+373,373,1129,1129,Less Than High School,Finance and Insurance,14579279,1277,2008,Male,Indiana,11416.82
+374,374,1130,1130,High School Graduate,Finance and Insurance,81920923,5185,2008,Male,Indiana,15799.6
+375,375,1131,1131,Some College,Finance and Insurance,154848688,7872,2008,Male,Indiana,19670.82
+376,376,1132,1132,Advanced Degree,Finance and Insurance,524363728,15019,2008,Male,Indiana,34913.36
+377,377,1133,1133,Unavalble,Finance and Insurance,13613595,1938,2008,Male,Indiana,7024.56
+378,378,1134,1134,All Education Categories,Finance and Insurance,712258830,66801,2008,Female,Indiana,10662.4
+379,379,1135,1135,Less Than High School,Finance and Insurance,17994704,2488,2008,Female,Indiana,7232.6
+380,380,1136,1136,High School Graduate,Finance and Insurance,136697937,16361,2008,Female,Indiana,8355.11
+381,381,1137,1137,Some College,Finance and Insurance,211086778,20955,2008,Female,Indiana,10073.34
+382,382,1138,1138,Advanced Degree,Finance and Insurance,315155001,21167,2008,Female,Indiana,14888.98
+383,383,1139,1139,Unavalble,Finance and Insurance,31324410,5830,2008,Female,Indiana,5372.97
+384,384,1188,1188,All Education Categories,Educational Services,944875034,78742,2008,Male,Indiana,11999.63
+385,385,1189,1189,Less Than High School,Educational Services,31483249,4095,2008,Male,Indiana,7688.22
+386,386,1190,1190,High School Graduate,Educational Services,145839110,15665,2008,Male,Indiana,9309.87
+387,387,1191,1191,Some College,Educational Services,221805006,20004,2008,Male,Indiana,11088.03
+388,388,1192,1192,Advanced Degree,Educational Services,528632047,33411,2008,Male,Indiana,15822.1
+389,389,1193,1193,Unavalble,Educational Services,17115623,5567,2008,Male,Indiana,3074.48
+390,390,1194,1194,All Education Categories,Educational Services,1434719864,171211,2008,Female,Indiana,8379.83
+391,391,1195,1195,Less Than High School,Educational Services,38777144,7500,2008,Female,Indiana,5170.29
+392,392,1196,1196,High School Graduate,Educational Services,264178850,41901,2008,Female,Indiana,6304.83
+393,393,1197,1197,Some College,Educational Services,392628127,49841,2008,Female,Indiana,7877.61
+394,394,1198,1198,Advanced Degree,Educational Services,702466248,61272,2008,Female,Indiana,11464.72
+395,395,1199,1199,Unavalble,Educational Services,36669495,10698,2008,Female,Indiana,3427.7
+396,396,1200,1200,All Education Categories,Health Care and Social Assistance,1026656735,62428,2008,Male,Indiana,16445.45
+397,397,1201,1201,Less Than High School,Health Care and Social Assistance,36588008,4704,2008,Male,Indiana,7778.06
+398,398,1202,1202,High School Graduate,Health Care and Social Assistance,138195363,14004,2008,Male,Indiana,9868.28
+399,399,1203,1203,Some College,Health Care and Social Assistance,237106304,17302,2008,Male,Indiana,13703.98
+400,400,1204,1204,Advanced Degree,Health Care and Social Assistance,591369501,20873,2008,Male,Indiana,28331.79
+401,401,1205,1205,Unavalble,Health Care and Social Assistance,23397559,5546,2008,Male,Indiana,4218.82
+402,402,1206,1206,All Education Categories,Health Care and Social Assistance,2432263197,295446,2008,Female,Indiana,8232.51
+403,403,1207,1207,Less Than High School,Health Care and Social Assistance,108464049,18440,2008,Female,Indiana,5882.0
+404,404,1208,1208,High School Graduate,Health Care and Social Assistance,506232973,73834,2008,Female,Indiana,6856.37
+405,405,1209,1209,Some College,Health Care and Social Assistance,909225582,108203,2008,Female,Indiana,8402.96
+406,406,1210,1210,Advanced Degree,Health Care and Social Assistance,775977908,65914,2008,Female,Indiana,11772.58
+407,407,1211,1211,Unavalble,Health Care and Social Assistance,132362684,29055,2008,Female,Indiana,4555.59
+408,408,1224,1224,All Education Categories,Accommodation and Food Services,355581915,93489,2008,Male,Indiana,3803.46
+409,409,1225,1225,Less Than High School,Accommodation and Food Services,48895036,11687,2008,Male,Indiana,4183.71
+410,410,1226,1226,High School Graduate,Accommodation and Food Services,97876309,20602,2008,Male,Indiana,4750.82
+411,411,1227,1227,Some College,Accommodation and Food Services,78959879,14985,2008,Male,Indiana,5269.26
+412,412,1228,1228,Advanced Degree,Accommodation and Food Services,44289126,6966,2008,Male,Indiana,6357.9
+413,413,1229,1229,Unavalble,Accommodation and Food Services,85561565,39249,2008,Male,Indiana,2179.97
+414,414,1230,1230,All Education Categories,Accommodation and Food Services,407485649,135996,2008,Female,Indiana,2996.31
+415,415,1231,1231,Less Than High School,Accommodation and Food Services,46088024,14360,2008,Female,Indiana,3209.47
+416,416,1232,1232,High School Graduate,Accommodation and Food Services,111231654,31952,2008,Female,Indiana,3481.21
+417,417,1233,1233,Some College,Accommodation and Food Services,94254390,24828,2008,Female,Indiana,3796.29
+418,418,1234,1234,Advanced Degree,Accommodation and Food Services,44388710,10148,2008,Female,Indiana,4374.13
+419,419,1235,1235,Unavalble,Accommodation and Food Services,111522871,54707,2008,Female,Indiana,2038.55
+420,420,1260,1260,All Education Categories,00,15503923258,1332747,2009,Male,Indiana,11633.06
+421,421,1261,1261,Less Than High School,00,1063914133,133460,2009,Male,Indiana,7971.78
+422,422,1262,1262,High School Graduate,00,4044657394,401547,2009,Male,Indiana,10072.69
+423,423,1263,1263,Some College,00,4429481635,362843,2009,Male,Indiana,12207.71
+424,424,1264,1264,Advanced Degree,00,5316773365,272966,2009,Male,Indiana,19477.79
+425,425,1265,1265,Unavalble,00,649096731,161931,2009,Male,Indiana,4008.48
+426,426,1266,1266,All Education Categories,00,9813994524,1343515,2009,Female,Indiana,7304.72
+427,427,1267,1267,Less Than High School,00,522776469,100679,2009,Female,Indiana,5192.51
+428,428,1268,1268,High School Graduate,00,2370304992,374176,2009,Female,Indiana,6334.73
+429,429,1269,1269,Some College,00,3157273580,404709,2009,Female,Indiana,7801.34
+430,430,1270,1270,Advanced Degree,00,3182676747,276055,2009,Female,Indiana,11529.14
+431,431,1271,1271,Unavalble,00,580962735,187897,2009,Female,Indiana,3091.92
+432,432,1320,1320,All Education Categories,Manufacturing,4745437438,335377,2009,Male,Indiana,14149.56
+433,433,1321,1321,Less Than High School,Manufacturing,338573291,35197,2009,Male,Indiana,9619.38
+434,434,1322,1322,High School Graduate,Manufacturing,1435202641,120011,2009,Male,Indiana,11958.93
+435,435,1323,1323,Some College,Manufacturing,1481704764,101520,2009,Male,Indiana,14595.2
+436,436,1324,1324,Advanced Degree,Manufacturing,1360243050,58102,2009,Male,Indiana,23411.29
+437,437,1325,1325,Unavalble,Manufacturing,129713693,20546,2009,Male,Indiana,6313.33
+438,438,1326,1326,All Education Categories,Manufacturing,1436497695,139026,2009,Female,Indiana,10332.58
+439,439,1327,1327,Less Than High School,Manufacturing,87416773,12684,2009,Female,Indiana,6891.89
+440,440,1328,1328,High School Graduate,Manufacturing,427084304,51035,2009,Female,Indiana,8368.46
+441,441,1329,1329,Some College,Manufacturing,459957916,43808,2009,Female,Indiana,10499.4
+442,442,1330,1330,Advanced Degree,Manufacturing,418993390,23178,2009,Female,Indiana,18077.2
+443,443,1331,1331,Unavalble,Manufacturing,43045312,8322,2009,Female,Indiana,5172.47
+444,444,1344,1344,All Education Categories,Retail Trade,1002258913,141409,2009,Male,Indiana,7087.66
+445,445,1345,1345,Less Than High School,Retail Trade,92128040,14966,2009,Male,Indiana,6155.82
+446,446,1346,1346,High School Graduate,Retail Trade,322448312,42710,2009,Male,Indiana,7549.71
+447,447,1347,1347,Some College,Retail Trade,288868687,33037,2009,Male,Indiana,8743.79
+448,448,1348,1348,Advanced Degree,Retail Trade,195881287,16536,2009,Male,Indiana,11845.75
+449,449,1349,1349,Unavalble,Retail Trade,102932587,34159,2009,Male,Indiana,3013.34
+450,450,1350,1350,All Education Categories,Retail Trade,720981546,167172,2009,Female,Indiana,4312.81
+451,451,1351,1351,Less Than High School,Retail Trade,63679122,15744,2009,Female,Indiana,4044.66
+452,452,1352,1352,High School Graduate,Retail Trade,251808721,54410,2009,Female,Indiana,4627.99
+453,453,1353,1353,Some College,Retail Trade,204712976,40048,2009,Female,Indiana,5111.69
+454,454,1354,1354,Advanced Degree,Retail Trade,108725006,16231,2009,Female,Indiana,6698.6
+455,455,1355,1355,Unavalble,Retail Trade,92055722,40738,2009,Female,Indiana,2259.7
+456,456,1380,1380,All Education Categories,Finance and Insurance,653775073,29642,2009,Male,Indiana,22055.7
+457,457,1381,1381,Less Than High School,Finance and Insurance,14047075,1266,2009,Male,Indiana,11095.64
+458,458,1382,1382,High School Graduate,Finance and Insurance,72778228,4978,2009,Male,Indiana,14619.97
+459,459,1383,1383,Some College,Finance and Insurance,136126890,7460,2009,Male,Indiana,18247.57
+460,460,1384,1384,Advanced Degree,Finance and Insurance,419097329,14141,2009,Male,Indiana,29637.04
+461,461,1385,1385,Unavalble,Finance and Insurance,11725552,1796,2009,Male,Indiana,6528.7
+462,462,1386,1386,All Education Categories,Finance and Insurance,648593436,64236,2009,Female,Indiana,10097.04
+463,463,1387,1387,Less Than High School,Finance and Insurance,18297969,2552,2009,Female,Indiana,7170.05
+464,464,1388,1388,High School Graduate,Finance and Insurance,129381344,15861,2009,Female,Indiana,8157.2
+465,465,1389,1389,Some College,Finance and Insurance,196562532,20313,2009,Female,Indiana,9676.69
+466,466,1390,1390,Advanced Degree,Finance and Insurance,277270914,20201,2009,Female,Indiana,13725.6
+467,467,1391,1391,Unavalble,Finance and Insurance,27080678,5309,2009,Female,Indiana,5100.9
+468,468,1440,1440,All Education Categories,Educational Services,962539846,82027,2009,Male,Indiana,11734.43
+469,469,1441,1441,Less Than High School,Educational Services,34325212,4499,2009,Male,Indiana,7629.52
+470,470,1442,1442,High School Graduate,Educational Services,152114947,16687,2009,Male,Indiana,9115.78
+471,471,1443,1443,Some College,Educational Services,227948866,20948,2009,Male,Indiana,10881.65
+472,472,1444,1444,Advanced Degree,Educational Services,530569145,34076,2009,Male,Indiana,15570.17
+473,473,1445,1445,Unavalble,Educational Services,17581676,5817,2009,Male,Indiana,3022.46
+474,474,1446,1446,All Education Categories,Educational Services,1459877020,176220,2009,Female,Indiana,8284.4
+475,475,1447,1447,Less Than High School,Educational Services,42287614,7962,2009,Female,Indiana,5311.18
+476,476,1448,1448,High School Graduate,Educational Services,271387303,43065,2009,Female,Indiana,6301.81
+477,477,1449,1449,Some College,Educational Services,404304496,51731,2009,Female,Indiana,7815.52
+478,478,1450,1450,Advanced Degree,Educational Services,705198001,62396,2009,Female,Indiana,11301.97
+479,479,1451,1451,Unavalble,Educational Services,36699606,11066,2009,Female,Indiana,3316.43
+480,480,1452,1452,All Education Categories,Health Care and Social Assistance,1039641600,65192,2009,Male,Indiana,15947.38
+481,481,1453,1453,Less Than High School,Health Care and Social Assistance,39407144,5114,2009,Male,Indiana,7705.74
+482,482,1454,1454,High School Graduate,Health Care and Social Assistance,144519796,14910,2009,Male,Indiana,9692.81
+483,483,1455,1455,Some College,Health Care and Social Assistance,242297448,18037,2009,Male,Indiana,13433.36
+484,484,1456,1456,Advanced Degree,Health Care and Social Assistance,587978822,21190,2009,Male,Indiana,27747.94
+485,485,1457,1457,Unavalble,Health Care and Social Assistance,25438390,5941,2009,Male,Indiana,4281.84
+486,486,1458,1458,All Education Categories,Health Care and Social Assistance,2487517213,304350,2009,Female,Indiana,8173.21
+487,487,1459,1459,Less Than High School,Health Care and Social Assistance,117262917,19824,2009,Female,Indiana,5915.2
+488,488,1460,1460,High School Graduate,Health Care and Social Assistance,524605964,76241,2009,Female,Indiana,6880.89
+489,489,1461,1461,Some College,Health Care and Social Assistance,929049709,110836,2009,Female,Indiana,8382.2
+490,490,1462,1462,Advanced Degree,Health Care and Social Assistance,786856622,67982,2009,Female,Indiana,11574.48
+491,491,1463,1463,Unavalble,Health Care and Social Assistance,129742002,29468,2009,Female,Indiana,4402.81
+492,492,1476,1476,All Education Categories,Accommodation and Food Services,346256861,93883,2009,Male,Indiana,3688.17
+493,493,1477,1477,Less Than High School,Accommodation and Food Services,48658369,12127,2009,Male,Indiana,4012.4
+494,494,1478,1478,High School Graduate,Accommodation and Food Services,96109413,21114,2009,Male,Indiana,4551.93
+495,495,1479,1479,Some College,Accommodation and Food Services,77658068,15432,2009,Male,Indiana,5032.28
+496,496,1480,1480,Advanced Degree,Accommodation and Food Services,43223528,7226,2009,Male,Indiana,5981.67
+497,497,1481,1481,Unavalble,Accommodation and Food Services,80607482,37984,2009,Male,Indiana,2122.14
+498,498,1482,1482,All Education Categories,Accommodation and Food Services,394936862,135135,2009,Female,Indiana,2922.54
+499,499,1483,1483,Less Than High School,Accommodation and Food Services,45047582,14404,2009,Female,Indiana,3127.44
+500,500,1484,1484,High School Graduate,Accommodation and Food Services,107353242,31762,2009,Female,Indiana,3379.93
+501,501,1485,1485,Some College,Accommodation and Food Services,92373636,25139,2009,Female,Indiana,3674.52
+502,502,1486,1486,Advanced Degree,Accommodation and Food Services,43960734,10605,2009,Female,Indiana,4145.28
+503,503,1487,1487,Unavalble,Accommodation and Food Services,106201667,53225,2009,Female,Indiana,1995.33
+504,504,1512,1512,All Education Categories,00,15303144889,1284635,2010,Male,Indiana,11912.45
+505,505,1513,1513,Less Than High School,00,1066819378,129426,2010,Male,Indiana,8242.7
+506,506,1514,1514,High School Graduate,00,3991669252,387460,2010,Male,Indiana,10302.15
+507,507,1515,1515,Some College,00,4366666435,352191,2010,Male,Indiana,12398.57
+508,508,1516,1516,Advanced Degree,00,5275197962,266457,2010,Male,Indiana,19797.56
+509,509,1517,1517,Unavalble,00,602791861,149101,2010,Male,Indiana,4042.84
+510,510,1518,1518,All Education Categories,00,9638185545,1314622,2010,Female,Indiana,7331.53
+511,511,1519,1519,Less Than High School,00,531441183,100433,2010,Female,Indiana,5291.5
+512,512,1520,1520,High School Graduate,00,2326531177,366305,2010,Female,Indiana,6351.35
+513,513,1521,1521,Some College,00,3099234924,399526,2010,Female,Indiana,7757.28
+514,514,1522,1522,Advanced Degree,00,3151684053,274662,2010,Female,Indiana,11474.77
+515,515,1523,1523,Unavalble,00,529294208,173695,2010,Female,Indiana,3047.26
+516,516,1572,1572,All Education Categories,Manufacturing,4777274488,310048,2010,Male,Indiana,15408.18
+517,517,1573,1573,Less Than High School,Manufacturing,349394000,32511,2010,Male,Indiana,10746.95
+518,518,1574,1574,High School Graduate,Manufacturing,1454119604,111502,2010,Male,Indiana,13041.2
+519,519,1575,1575,Some College,Manufacturing,1489036284,94938,2010,Male,Indiana,15684.3
+520,520,1576,1576,Advanced Degree,Manufacturing,1362858458,54629,2010,Male,Indiana,24947.53
+521,521,1577,1577,Unavalble,Manufacturing,121866143,16468,2010,Male,Indiana,7400.18
+522,522,1578,1578,All Education Categories,Manufacturing,1469058400,127433,2010,Female,Indiana,11528.08
+523,523,1579,1579,Less Than High School,Manufacturing,90959665,11764,2010,Female,Indiana,7732.04
+524,524,1580,1580,High School Graduate,Manufacturing,427338053,46509,2010,Female,Indiana,9188.29
+525,525,1581,1581,Some College,Manufacturing,469785446,40599,2010,Female,Indiana,11571.36
+526,526,1582,1582,Advanced Degree,Manufacturing,442124220,21949,2010,Female,Indiana,20143.25
+527,527,1583,1583,Unavalble,Manufacturing,38851016,6611,2010,Female,Indiana,5876.72
+528,528,1596,1596,All Education Categories,Retail Trade,974248663,138141,2010,Male,Indiana,7052.57
+529,529,1597,1597,Less Than High School,Retail Trade,90653786,14692,2010,Male,Indiana,6170.28
+530,530,1598,1598,High School Graduate,Retail Trade,313617169,42015,2010,Male,Indiana,7464.41
+531,531,1599,1599,Some College,Retail Trade,282946817,32721,2010,Male,Indiana,8647.25
+532,532,1600,1600,Advanced Degree,Retail Trade,190951040,16595,2010,Male,Indiana,11506.54
+533,533,1601,1601,Unavalble,Retail Trade,96079850,32118,2010,Male,Indiana,2991.46
+534,534,1602,1602,All Education Categories,Retail Trade,694758856,160924,2010,Female,Indiana,4317.31
+535,535,1603,1603,Less Than High School,Retail Trade,62291077,15271,2010,Female,Indiana,4079.04
+536,536,1604,1604,High School Graduate,Retail Trade,241711614,52342,2010,Female,Indiana,4617.93
+537,537,1605,1605,Some College,Retail Trade,198954435,39310,2010,Female,Indiana,5061.17
+538,538,1606,1606,Advanced Degree,Retail Trade,106819646,16334,2010,Female,Indiana,6539.71
+539,539,1607,1607,Unavalble,Retail Trade,84982085,37666,2010,Female,Indiana,2256.2
+540,540,1632,1632,All Education Categories,Finance and Insurance,703291066,29975,2010,Male,Indiana,23462.59
+541,541,1633,1633,Less Than High School,Finance and Insurance,15740780,1393,2010,Male,Indiana,11299.91
+542,542,1634,1634,High School Graduate,Finance and Insurance,77148869,5176,2010,Male,Indiana,14905.11
+543,543,1635,1635,Some College,Finance and Insurance,144395556,7630,2010,Male,Indiana,18924.71
+544,544,1636,1636,Advanced Degree,Finance and Insurance,455474180,14144,2010,Male,Indiana,32202.64
+545,545,1637,1637,Unavalble,Finance and Insurance,10531681,1632,2010,Male,Indiana,6453.24
+546,546,1638,1638,All Education Categories,Finance and Insurance,668147549,63302,2010,Female,Indiana,10554.92
+547,547,1639,1639,Less Than High School,Finance and Insurance,19687428,2704,2010,Female,Indiana,7280.85
+548,548,1640,1640,High School Graduate,Finance and Insurance,130113120,15866,2010,Female,Indiana,8200.75
+549,549,1641,1641,Some College,Finance and Insurance,200986021,20339,2010,Female,Indiana,9881.8
+550,550,1642,1642,Advanced Degree,Finance and Insurance,296217867,20094,2010,Female,Indiana,14741.61
+551,551,1643,1643,Unavalble,Finance and Insurance,21143114,4300,2010,Female,Indiana,4917.0
+552,552,1692,1692,All Education Categories,Educational Services,958305558,84696,2010,Male,Indiana,11314.65
+553,553,1693,1693,Less Than High School,Educational Services,36302091,4959,2010,Male,Indiana,7320.45
+554,554,1694,1694,High School Graduate,Educational Services,154170952,17746,2010,Male,Indiana,8687.65
+555,555,1695,1695,Some College,Educational Services,228207513,21889,2010,Male,Indiana,10425.67
+556,556,1696,1696,Advanced Degree,Educational Services,523202283,34455,2010,Male,Indiana,15185.09
+557,557,1697,1697,Unavalble,Educational Services,16422719,5647,2010,Male,Indiana,2908.22
+558,558,1698,1698,All Education Categories,Educational Services,1437463044,179988,2010,Female,Indiana,7986.44
+559,559,1699,1699,Less Than High School,Educational Services,45141270,8756,2010,Female,Indiana,5155.47
+560,560,1700,1700,High School Graduate,Educational Services,270760467,44286,2010,Female,Indiana,6113.91
+561,561,1701,1701,Some College,Educational Services,402428595,53393,2010,Female,Indiana,7537.1
+562,562,1702,1702,Advanced Degree,Educational Services,686714215,63248,2010,Female,Indiana,10857.49
+563,563,1703,1703,Unavalble,Educational Services,32418497,10304,2010,Female,Indiana,3146.21
+564,564,1704,1704,All Education Categories,Health Care and Social Assistance,1049675973,68325,2010,Male,Indiana,15362.99
+565,565,1705,1705,Less Than High School,Health Care and Social Assistance,42505061,5597,2010,Male,Indiana,7594.26
+566,566,1706,1706,High School Graduate,Health Care and Social Assistance,148582938,15872,2010,Male,Indiana,9361.32
+567,567,1707,1707,Some College,Health Care and Social Assistance,244837812,18908,2010,Male,Indiana,12948.9
+568,568,1708,1708,Advanced Degree,Health Care and Social Assistance,588640821,21615,2010,Male,Indiana,27232.98
+569,569,1709,1709,Unavalble,Health Care and Social Assistance,25109341,6333,2010,Male,Indiana,3964.84
+570,570,1710,1710,All Education Categories,Health Care and Social Assistance,2429917648,310595,2010,Female,Indiana,7823.43
+571,571,1711,1711,Less Than High School,Health Care and Social Assistance,121192306,20929,2010,Female,Indiana,5790.64
+572,572,1712,1712,High School Graduate,Health Care and Social Assistance,520116092,78695,2010,Female,Indiana,6609.26
+573,573,1713,1713,Some College,Health Care and Social Assistance,902514732,112762,2010,Female,Indiana,8003.71
+574,574,1714,1714,Advanced Degree,Health Care and Social Assistance,766155402,69506,2010,Female,Indiana,11022.87
+575,575,1715,1715,Unavalble,Health Care and Social Assistance,119939115,28704,2010,Female,Indiana,4178.48
+576,576,1728,1728,All Education Categories,Accommodation and Food Services,345545180,91613,2010,Male,Indiana,3771.79
+577,577,1729,1729,Less Than High School,Accommodation and Food Services,48520377,11833,2010,Male,Indiana,4100.43
+578,578,1730,1730,High School Graduate,Accommodation and Food Services,95204369,20766,2010,Male,Indiana,4584.63
+579,579,1731,1731,Some College,Accommodation and Food Services,77655853,15449,2010,Male,Indiana,5026.59
+580,580,1732,1732,Advanced Degree,Accommodation and Food Services,44087552,7458,2010,Male,Indiana,5911.44
+581,581,1733,1733,Unavalble,Accommodation and Food Services,80077029,36108,2010,Male,Indiana,2217.71
+582,582,1734,1734,All Education Categories,Accommodation and Food Services,388776423,129354,2010,Female,Indiana,3005.52
+583,583,1735,1735,Less Than High School,Accommodation and Food Services,44333547,13792,2010,Female,Indiana,3214.44
+584,584,1736,1736,High School Graduate,Accommodation and Food Services,104762606,30412,2010,Female,Indiana,3444.78
+585,585,1737,1737,Some College,Accommodation and Food Services,91195896,24464,2010,Female,Indiana,3727.76
+586,586,1738,1738,Advanced Degree,Accommodation and Food Services,44402981,10644,2010,Female,Indiana,4171.64
+587,587,1739,1739,Unavalble,Accommodation and Food Services,104081394,50041,2010,Female,Indiana,2079.92
+588,588,1764,1764,All Education Categories,00,16826363366,1331547,2011,Male,Indiana,12636.7
+589,589,1765,1765,Less Than High School,00,1203220723,137566,2011,Male,Indiana,8746.5
+590,590,1766,1766,High School Graduate,00,4390463072,402579,2011,Male,Indiana,10905.84
+591,591,1767,1767,Some College,00,4799841089,364733,2011,Male,Indiana,13159.88
+592,592,1768,1768,Advanced Degree,00,5779620349,271330,2011,Male,Indiana,21301.07
+593,593,1769,1769,Unavalble,00,653218133,155339,2011,Male,Indiana,4205.11
+594,594,1770,1770,All Education Categories,00,10043417226,1321790,2011,Female,Indiana,7598.35
+595,595,1771,1771,Less Than High School,00,578211277,103553,2011,Female,Indiana,5583.72
+596,596,1772,1772,High School Graduate,00,2433907836,367597,2011,Female,Indiana,6621.13
+597,597,1773,1773,Some College,00,3223534118,401126,2011,Female,Indiana,8036.21
+598,598,1774,1774,Advanced Degree,00,3269941618,275403,2011,Female,Indiana,11873.3
+599,599,1775,1775,Unavalble,00,537822377,174112,2011,Female,Indiana,3088.94
+600,600,1824,1824,All Education Categories,Manufacturing,5398382320,330645,2011,Male,Indiana,16326.82
+601,601,1825,1825,Less Than High School,Manufacturing,406187810,35758,2011,Male,Indiana,11359.35
+602,602,1826,1826,High School Graduate,Manufacturing,1632731152,118125,2011,Male,Indiana,13822.06
+603,603,1827,1827,Some College,Manufacturing,1675519353,100227,2011,Male,Indiana,16717.25
+604,604,1828,1828,Advanced Degree,Manufacturing,1533309034,56677,2011,Male,Indiana,27053.46
+605,605,1829,1829,Unavalble,Manufacturing,150634971,19858,2011,Male,Indiana,7585.61
+606,606,1830,1830,All Education Categories,Manufacturing,1561433056,131321,2011,Female,Indiana,11890.2
+607,607,1831,1831,Less Than High School,Manufacturing,102531755,12474,2011,Female,Indiana,8219.64
+608,608,1832,1832,High School Graduate,Manufacturing,456509341,47529,2011,Female,Indiana,9604.86
+609,609,1833,1833,Some College,Manufacturing,498156460,41785,2011,Female,Indiana,11921.9
+610,610,1834,1834,Advanced Degree,Manufacturing,461231350,22433,2011,Female,Indiana,20560.4
+611,611,1835,1835,Unavalble,Manufacturing,43004150,7099,2011,Female,Indiana,6057.78
+612,612,1848,1848,All Education Categories,Retail Trade,1054244148,141601,2011,Male,Indiana,7445.17
+613,613,1849,1849,Less Than High School,Retail Trade,99254226,15125,2011,Male,Indiana,6562.26
+614,614,1850,1850,High School Graduate,Retail Trade,335303498,42562,2011,Male,Indiana,7878.0
+615,615,1851,1851,Some College,Retail Trade,305939625,33548,2011,Male,Indiana,9119.46
+616,616,1852,1852,Advanced Degree,Retail Trade,211186237,17169,2011,Male,Indiana,12300.44
+617,617,1853,1853,Unavalble,Retail Trade,102560562,33197,2011,Male,Indiana,3089.45
+618,618,1854,1854,All Education Categories,Retail Trade,734678742,162959,2011,Female,Indiana,4508.37
+619,619,1855,1855,Less Than High School,Retail Trade,66097069,15261,2011,Female,Indiana,4331.11
+620,620,1856,1856,High School Graduate,Retail Trade,253051684,51740,2011,Female,Indiana,4890.83
+621,621,1857,1857,Some College,Retail Trade,211160181,39820,2011,Female,Indiana,5302.87
+622,622,1858,1858,Advanced Degree,Retail Trade,114414644,16911,2011,Female,Indiana,6765.69
+623,623,1859,1859,Unavalble,Retail Trade,89955164,39227,2011,Female,Indiana,2293.2
+624,624,1884,1884,All Education Categories,Finance and Insurance,807640980,30474,2011,Male,Indiana,26502.62
+625,625,1885,1885,Less Than High School,Finance and Insurance,18892262,1567,2011,Male,Indiana,12056.33
+626,626,1886,1886,High School Graduate,Finance and Insurance,87354356,5450,2011,Male,Indiana,16028.32
+627,627,1887,1887,Some College,Finance and Insurance,164541397,7823,2011,Male,Indiana,21033.03
+628,628,1888,1888,Advanced Degree,Finance and Insurance,526449081,14047,2011,Male,Indiana,37477.69
+629,629,1889,1889,Unavalble,Finance and Insurance,10403883,1586,2011,Male,Indiana,6559.83
+630,630,1890,1890,All Education Categories,Finance and Insurance,717078090,62836,2011,Female,Indiana,11411.9
+631,631,1891,1891,Less Than High School,Finance and Insurance,21789011,2856,2011,Female,Indiana,7629.21
+632,632,1892,1892,High School Graduate,Finance and Insurance,137052179,15840,2011,Female,Indiana,8652.28
+633,633,1893,1893,Some College,Finance and Insurance,214493758,20291,2011,Female,Indiana,10570.88
+634,634,1894,1894,Advanced Degree,Finance and Insurance,324079166,19940,2011,Female,Indiana,16252.72
+635,635,1895,1895,Unavalble,Finance and Insurance,19663975,3911,2011,Female,Indiana,5027.86
+636,636,1944,1944,All Education Categories,Educational Services,979848082,84724,2011,Male,Indiana,11565.18
+637,637,1945,1945,Less Than High School,Educational Services,38609144,5167,2011,Male,Indiana,7472.26
+638,638,1946,1946,High School Graduate,Educational Services,157404153,17991,2011,Male,Indiana,8749.05
+639,639,1947,1947,Some College,Educational Services,232699184,22059,2011,Male,Indiana,10548.95
+640,640,1948,1948,Advanced Degree,Educational Services,536244504,34145,2011,Male,Indiana,15704.92
+641,641,1949,1949,Unavalble,Educational Services,14891098,5362,2011,Male,Indiana,2777.15
+642,642,1950,1950,All Education Categories,Educational Services,1413718176,178513,2011,Female,Indiana,7919.41
+643,643,1951,1951,Less Than High School,Educational Services,47637618,9099,2011,Female,Indiana,5235.48
+644,644,1952,1952,High School Graduate,Educational Services,266985863,43983,2011,Female,Indiana,6070.21
+645,645,1953,1953,Some College,Educational Services,399053457,53333,2011,Female,Indiana,7482.3
+646,646,1954,1954,Advanced Degree,Educational Services,672501450,62450,2011,Female,Indiana,10768.64
+647,647,1955,1955,Unavalble,Educational Services,27539788,9648,2011,Female,Indiana,2854.46
+648,648,1956,1956,All Education Categories,Health Care and Social Assistance,1116795873,69524,2011,Male,Indiana,16063.46
+649,649,1957,1957,Less Than High School,Health Care and Social Assistance,48312502,5940,2011,Male,Indiana,8133.42
+650,650,1958,1958,High School Graduate,Health Care and Social Assistance,161644222,16365,2011,Male,Indiana,9877.43
+651,651,1959,1959,Some College,Health Care and Social Assistance,261589244,19177,2011,Male,Indiana,13640.78
+652,652,1960,1960,Advanced Degree,Health Care and Social Assistance,620193807,21818,2011,Male,Indiana,28425.79
+653,653,1961,1961,Unavalble,Health Care and Social Assistance,25056098,6224,2011,Male,Indiana,4025.72
+654,654,1962,1962,All Education Categories,Health Care and Social Assistance,2520263104,308875,2011,Female,Indiana,8159.49
+655,655,1963,1963,Less Than High School,Health Care and Social Assistance,131743637,21679,2011,Female,Indiana,6077.02
+656,656,1964,1964,High School Graduate,Health Care and Social Assistance,545626420,79012,2011,Female,Indiana,6905.61
+657,657,1965,1965,Some College,Health Care and Social Assistance,931036489,111364,2011,Female,Indiana,8360.3
+658,658,1966,1966,Advanced Degree,Health Care and Social Assistance,793727645,68942,2011,Female,Indiana,11512.98
+659,659,1967,1967,Unavalble,Health Care and Social Assistance,118128913,27878,2011,Female,Indiana,4237.35
+660,660,1980,1980,All Education Categories,Accommodation and Food Services,366991330,92933,2011,Male,Indiana,3948.99
+661,661,1981,1981,Less Than High School,Accommodation and Food Services,51881510,12021,2011,Male,Indiana,4315.91
+662,662,1982,1982,High School Graduate,Accommodation and Food Services,101009152,20995,2011,Male,Indiana,4811.11
+663,663,1983,1983,Some College,Accommodation and Food Services,82696928,15799,2011,Male,Indiana,5234.31
+664,664,1984,1984,Advanced Degree,Accommodation and Food Services,47622924,7879,2011,Male,Indiana,6044.29
+665,665,1985,1985,Unavalble,Accommodation and Food Services,83780815,36239,2011,Male,Indiana,2311.9
+666,666,1986,1986,All Education Categories,Accommodation and Food Services,409824001,129343,2011,Female,Indiana,3168.51
+667,667,1987,1987,Less Than High School,Accommodation and Food Services,46422064,13650,2011,Female,Indiana,3400.88
+668,668,1988,1988,High School Graduate,Accommodation and Food Services,108956154,29905,2011,Female,Indiana,3643.41
+669,669,1989,1989,Some College,Accommodation and Food Services,95810760,24438,2011,Female,Indiana,3920.56
+670,670,1990,1990,Advanced Degree,Accommodation and Food Services,47876085,10997,2011,Female,Indiana,4353.56
+671,671,1991,1991,Unavalble,Accommodation and Food Services,110758938,50353,2011,Female,Indiana,2199.65
+672,672,2016,2016,All Education Categories,00,18178306617,1367250,2012,Male,Indiana,13295.53
+673,673,2017,2017,Less Than High School,00,1376055152,145042,2012,Male,Indiana,9487.29
+674,674,2018,2018,High School Graduate,00,4819782017,414075,2012,Male,Indiana,11639.88
+675,675,2019,2019,Some College,00,5195170622,373151,2012,Male,Indiana,13922.44
+676,676,2020,2020,Advanced Degree,00,6032755542,272844,2012,Male,Indiana,22110.64
+677,677,2021,2021,Unavalble,00,754543284,162138,2012,Male,Indiana,4653.71
+678,678,2022,2022,All Education Categories,00,10796101705,1336281,2012,Female,Indiana,8079.22
+679,679,2023,2023,Less Than High School,00,654674707,107592,2012,Female,Indiana,6084.79
+680,680,2024,2024,High School Graduate,00,2636460782,370143,2012,Female,Indiana,7122.82
+681,681,2025,2025,Some College,00,3468194967,404072,2012,Female,Indiana,8583.11
+682,682,2026,2026,Advanced Degree,00,3437742278,275140,2012,Female,Indiana,12494.52
+683,683,2027,2027,Unavalble,00,599028971,179334,2012,Female,Indiana,3340.3
+684,684,2076,2076,All Education Categories,Manufacturing,5791230635,342437,2012,Male,Indiana,16911.81
+685,685,2077,2077,Less Than High School,Manufacturing,458676329,37902,2012,Male,Indiana,12101.64
+686,686,2078,2078,High School Graduate,Manufacturing,1768916315,121421,2012,Male,Indiana,14568.45
+687,687,2079,2079,Some College,Manufacturing,1789576630,102692,2012,Male,Indiana,17426.64
+688,688,2080,2080,Advanced Degree,Manufacturing,1588420189,57940,2012,Male,Indiana,27414.92
+689,689,2081,2081,Unavalble,Manufacturing,185641172,22481,2012,Male,Indiana,8257.69
+690,690,2082,2082,All Education Categories,Manufacturing,1653264520,134036,2012,Female,Indiana,12334.48
+691,691,2083,2083,Less Than High School,Manufacturing,115404882,13113,2012,Female,Indiana,8800.8
+692,692,2084,2084,High School Graduate,Manufacturing,487194834,47865,2012,Female,Indiana,10178.52
+693,693,2085,2085,Some College,Manufacturing,529188155,42533,2012,Female,Indiana,12441.83
+694,694,2086,2086,Advanced Degree,Manufacturing,470157267,22995,2012,Female,Indiana,20446.07
+695,695,2087,2087,Unavalble,Manufacturing,51319381,7530,2012,Female,Indiana,6815.32
+696,696,2100,2100,All Education Categories,Retail Trade,1135259324,142797,2012,Male,Indiana,7950.16
+697,697,2101,2101,Less Than High School,Retail Trade,109887086,15463,2012,Male,Indiana,7106.45
+698,698,2102,2102,High School Graduate,Retail Trade,361434719,42583,2012,Male,Indiana,8487.77
+699,699,2103,2103,Some College,Retail Trade,327945073,33951,2012,Male,Indiana,9659.36
+700,700,2104,2104,Advanced Degree,Retail Trade,224231377,17609,2012,Male,Indiana,12733.91
+701,701,2105,2105,Unavalble,Retail Trade,111761069,33190,2012,Male,Indiana,3367.31
+702,702,2106,2106,All Education Categories,Retail Trade,782718927,162856,2012,Female,Indiana,4806.2
+703,703,2107,2107,Less Than High School,Retail Trade,71927991,15436,2012,Female,Indiana,4659.76
+704,704,2108,2108,High School Graduate,Retail Trade,265069674,50832,2012,Female,Indiana,5214.62
+705,705,2109,2109,Some College,Retail Trade,225736201,39811,2012,Female,Indiana,5670.2
+706,706,2110,2110,Advanced Degree,Retail Trade,122266055,17254,2012,Female,Indiana,7086.24
+707,707,2111,2111,Unavalble,Retail Trade,97719006,39522,2012,Female,Indiana,2472.52
+708,708,2136,2136,All Education Categories,Finance and Insurance,843537587,30164,2012,Male,Indiana,27965.04
+709,709,2137,2137,Less Than High School,Finance and Insurance,21639946,1654,2012,Male,Indiana,13083.4
+710,710,2138,2138,High School Graduate,Finance and Insurance,95366534,5521,2012,Male,Indiana,17273.42
+711,711,2139,2139,Some College,Finance and Insurance,173283242,7775,2012,Male,Indiana,22287.23
+712,712,2140,2140,Advanced Degree,Finance and Insurance,542567078,13695,2012,Male,Indiana,39617.9
+713,713,2141,2141,Unavalble,Finance and Insurance,10680788,1520,2012,Male,Indiana,7026.83
+714,714,2142,2142,All Education Categories,Finance and Insurance,740403743,60557,2012,Female,Indiana,12226.56
+715,715,2143,2143,Less Than High School,Finance and Insurance,24243943,2897,2012,Female,Indiana,8368.64
+716,716,2144,2144,High School Graduate,Finance and Insurance,144325870,15362,2012,Female,Indiana,9394.99
+717,717,2145,2145,Some College,Finance and Insurance,224050505,19580,2012,Female,Indiana,11442.82
+718,718,2146,2146,Advanced Degree,Finance and Insurance,327768548,19045,2012,Female,Indiana,17210.22
+719,719,2147,2147,Unavalble,Finance and Insurance,20014877,3673,2012,Female,Indiana,5449.19
+720,720,2196,2196,All Education Categories,Educational Services,1018331254,83594,2012,Male,Indiana,12181.87
+721,721,2197,2197,Less Than High School,Educational Services,43943594,5364,2012,Male,Indiana,8192.32
+722,722,2198,2198,High School Graduate,Educational Services,170393654,18115,2012,Male,Indiana,9406.22
+723,723,2199,2199,Some College,Educational Services,245751083,21894,2012,Male,Indiana,11224.59
+724,724,2200,2200,Advanced Degree,Educational Services,541673933,32905,2012,Male,Indiana,16461.75
+725,725,2201,2201,Unavalble,Educational Services,16568989,5315,2012,Male,Indiana,3117.4
+726,726,2202,2202,All Education Categories,Educational Services,1516208930,176501,2012,Female,Indiana,8590.37
+727,727,2203,2203,Less Than High School,Educational Services,56118304,9480,2012,Female,Indiana,5919.65
+728,728,2204,2204,High School Graduate,Educational Services,296493500,43930,2012,Female,Indiana,6749.23
+729,729,2205,2205,Some College,Educational Services,433281823,53042,2012,Female,Indiana,8168.66
+730,730,2206,2206,Advanced Degree,Educational Services,698571069,60498,2012,Female,Indiana,11547.01
+731,731,2207,2207,Unavalble,Educational Services,31744233,9551,2012,Female,Indiana,3323.66
+732,732,2208,2208,All Education Categories,Health Care and Social Assistance,1234897656,70606,2012,Male,Indiana,17489.98
+733,733,2209,2209,Less Than High School,Health Care and Social Assistance,56818210,6224,2012,Male,Indiana,9128.89
+734,734,2210,2210,High School Graduate,Health Care and Social Assistance,183226727,16964,2012,Male,Indiana,10800.92
+735,735,2211,2211,Some College,Health Care and Social Assistance,290729938,19545,2012,Male,Indiana,14874.9
+736,736,2212,2212,Advanced Degree,Health Care and Social Assistance,678653914,21985,2012,Male,Indiana,30868.95
+737,737,2213,2213,Unavalble,Health Care and Social Assistance,25468867,5890,2012,Male,Indiana,4324.09
+738,738,2214,2214,All Education Categories,Health Care and Social Assistance,2765574779,315829,2012,Female,Indiana,8756.56
+739,739,2215,2215,Less Than High School,Health Care and Social Assistance,152349055,22913,2012,Female,Indiana,6649.02
+740,740,2216,2216,High School Graduate,Health Care and Social Assistance,606346942,81237,2012,Female,Indiana,7463.93
+741,741,2217,2217,Some College,Health Care and Social Assistance,1013665220,113216,2012,Female,Indiana,8953.37
+742,742,2218,2218,Advanced Degree,Health Care and Social Assistance,863950495,70260,2012,Female,Indiana,12296.48
+743,743,2219,2219,Unavalble,Health Care and Social Assistance,129263067,28202,2012,Female,Indiana,4583.47
+744,744,2232,2232,All Education Categories,Accommodation and Food Services,403232033,96687,2012,Male,Indiana,4170.49
+745,745,2233,2233,Less Than High School,Accommodation and Food Services,57275074,12554,2012,Male,Indiana,4562.3
+746,746,2234,2234,High School Graduate,Accommodation and Food Services,109688990,21672,2012,Male,Indiana,5061.32
+747,747,2235,2235,Some College,Accommodation and Food Services,90318543,16527,2012,Male,Indiana,5464.91
+748,748,2236,2236,Advanced Degree,Accommodation and Food Services,51600596,8264,2012,Male,Indiana,6244.02
+749,749,2237,2237,Unavalble,Accommodation and Food Services,94348831,37670,2012,Male,Indiana,2504.61
+750,750,2238,2238,All Education Categories,Accommodation and Food Services,450876983,135329,2012,Female,Indiana,3331.71
+751,751,2239,2239,Less Than High School,Accommodation and Food Services,51242126,14147,2012,Female,Indiana,3622.12
+752,752,2240,2240,High School Graduate,Accommodation and Food Services,117762607,30644,2012,Female,Indiana,3842.93
+753,753,2241,2241,Some College,Accommodation and Food Services,104393727,25329,2012,Female,Indiana,4121.51
+754,754,2242,2242,Advanced Degree,Accommodation and Food Services,51771586,11473,2012,Female,Indiana,4512.47
+755,755,2243,2243,Unavalble,Accommodation and Food Services,125706937,53737,2012,Female,Indiana,2339.3
+756,756,5244,5244,All Education Categories,"Colleges, Universities, and Professional Schools",430263823,33728,2004,Male,Indiana,12756.87
+757,757,5245,5245,Less Than High School,"Colleges, Universities, and Professional Schools",9310624,1227,2004,Male,Indiana,7588.12
+758,758,5246,5246,High School Graduate,"Colleges, Universities, and Professional Schools",47902516,5114,2004,Male,Indiana,9366.94
+759,759,5247,5247,Some College,"Colleges, Universities, and Professional Schools",84068561,7332,2004,Male,Indiana,11465.98
+760,760,5248,5248,Advanced Degree,"Colleges, Universities, and Professional Schools",282313702,16868,2004,Male,Indiana,16736.64
+761,761,5249,5249,Unavalble,"Colleges, Universities, and Professional Schools",6668420,3188,2004,Male,Indiana,2091.73
+762,762,5250,5250,All Education Categories,"Colleges, Universities, and Professional Schools",325968451,40162,2004,Female,Indiana,8116.34
+763,763,5251,5251,Less Than High School,"Colleges, Universities, and Professional Schools",6512783,1186,2004,Female,Indiana,5491.39
+764,764,5252,5252,High School Graduate,"Colleges, Universities, and Professional Schools",53481170,7985,2004,Female,Indiana,6697.7
+765,765,5253,5253,Some College,"Colleges, Universities, and Professional Schools",85291929,10756,2004,Female,Indiana,7929.71
+766,766,5254,5254,Advanced Degree,"Colleges, Universities, and Professional Schools",172399514,15457,2004,Female,Indiana,11153.49
+767,767,5255,5255,Unavalble,"Colleges, Universities, and Professional Schools",8283055,4777,2004,Female,Indiana,1733.94
+768,768,8928,8928,All Education Categories,"Colleges, Universities, and Professional Schools",438112909,33595,2005,Male,Indiana,13041.02
+769,769,8929,8929,Less Than High School,"Colleges, Universities, and Professional Schools",9258029,1225,2005,Male,Indiana,7557.57
+770,770,8930,8930,High School Graduate,"Colleges, Universities, and Professional Schools",47621568,5053,2005,Male,Indiana,9424.41
+771,771,8931,8931,Some College,"Colleges, Universities, and Professional Schools",85859576,7366,2005,Male,Indiana,11656.2
+772,772,8932,8932,Advanced Degree,"Colleges, Universities, and Professional Schools",289369635,16849,2005,Male,Indiana,17174.29
+773,773,8933,8933,Unavalble,"Colleges, Universities, and Professional Schools",6004100,3103,2005,Male,Indiana,1934.93
+774,774,8934,8934,All Education Categories,"Colleges, Universities, and Professional Schools",327592847,40020,2005,Female,Indiana,8185.73
+775,775,8935,8935,Less Than High School,"Colleges, Universities, and Professional Schools",6444166,1189,2005,Female,Indiana,5419.82
+776,776,8936,8936,High School Graduate,"Colleges, Universities, and Professional Schools",52181452,7892,2005,Female,Indiana,6611.94
+777,777,8937,8937,Some College,"Colleges, Universities, and Professional Schools",85129107,10816,2005,Female,Indiana,7870.66
+778,778,8938,8938,Advanced Degree,"Colleges, Universities, and Professional Schools",176122404,15612,2005,Female,Indiana,11281.22
+779,779,8939,8939,Unavalble,"Colleges, Universities, and Professional Schools",7715719,4510,2005,Female,Indiana,1710.8
+780,780,12612,12612,All Education Categories,"Colleges, Universities, and Professional Schools",443441366,32960,2006,Male,Indiana,13453.92
+781,781,12613,12613,Less Than High School,"Colleges, Universities, and Professional Schools",9684543,1238,2006,Male,Indiana,7822.73
+782,782,12614,12614,High School Graduate,"Colleges, Universities, and Professional Schools",49185532,5075,2006,Male,Indiana,9691.73
+783,783,12615,12615,Some College,"Colleges, Universities, and Professional Schools",88050993,7369,2006,Male,Indiana,11948.84
+784,784,12616,12616,Advanced Degree,"Colleges, Universities, and Professional Schools",290860670,16561,2006,Male,Indiana,17562.99
+785,785,12617,12617,Unavalble,"Colleges, Universities, and Professional Schools",5659628,2717,2006,Male,Indiana,2083.04
+786,786,12618,12618,All Education Categories,"Colleges, Universities, and Professional Schools",337178580,39029,2006,Female,Indiana,8639.18
+787,787,12619,12619,Less Than High School,"Colleges, Universities, and Professional Schools",6876706,1206,2006,Female,Indiana,5702.08
+788,788,12620,12620,High School Graduate,"Colleges, Universities, and Professional Schools",53891206,7783,2006,Female,Indiana,6924.22
+789,789,12621,12621,Some College,"Colleges, Universities, and Professional Schools",88387773,10720,2006,Female,Indiana,8245.13
+790,790,12622,12622,Advanced Degree,"Colleges, Universities, and Professional Schools",180646533,15386,2006,Female,Indiana,11740.97
+791,791,12623,12623,Unavalble,"Colleges, Universities, and Professional Schools",7376362,3935,2006,Female,Indiana,1874.55
+792,792,16308,16308,All Education Categories,"Colleges, Universities, and Professional Schools",444945745,32875,2007,Male,Indiana,13534.47
+793,793,16309,16309,Less Than High School,"Colleges, Universities, and Professional Schools",10279710,1260,2007,Male,Indiana,8158.5
+794,794,16310,16310,High School Graduate,"Colleges, Universities, and Professional Schools",50759225,5080,2007,Male,Indiana,9991.97
+795,795,16311,16311,Some College,"Colleges, Universities, and Professional Schools",90103278,7394,2007,Male,Indiana,12186.0
+796,796,16312,16312,Advanced Degree,"Colleges, Universities, and Professional Schools",288251746,16241,2007,Male,Indiana,17748.4
+797,797,16313,16313,Unavalble,"Colleges, Universities, and Professional Schools",5551785,2900,2007,Male,Indiana,1914.41
+798,798,16314,16314,All Education Categories,"Colleges, Universities, and Professional Schools",345037485,38948,2007,Female,Indiana,8858.93
+799,799,16315,16315,Less Than High School,"Colleges, Universities, and Professional Schools",7384187,1222,2007,Female,Indiana,6042.71
+800,800,16316,16316,High School Graduate,"Colleges, Universities, and Professional Schools",55623721,7723,2007,Female,Indiana,7202.35
+801,801,16317,16317,Some College,"Colleges, Universities, and Professional Schools",91146974,10686,2007,Female,Indiana,8529.57
+802,802,16318,16318,Advanced Degree,"Colleges, Universities, and Professional Schools",184096381,15231,2007,Female,Indiana,12086.95
+803,803,16319,16319,Unavalble,"Colleges, Universities, and Professional Schools",6786222,4085,2007,Female,Indiana,1661.25
+804,804,20004,20004,All Education Categories,"Colleges, Universities, and Professional Schools",471987652,32174,2008,Male,Indiana,14669.85
+805,805,20005,20005,Less Than High School,"Colleges, Universities, and Professional Schools",11763644,1329,2008,Male,Indiana,8851.5
+806,806,20006,20006,High School Graduate,"Colleges, Universities, and Professional Schools",54687583,5106,2008,Male,Indiana,10710.45
+807,807,20007,20007,Some College,"Colleges, Universities, and Professional Schools",96439412,7371,2008,Male,Indiana,13083.63
+808,808,20008,20008,Advanced Degree,"Colleges, Universities, and Professional Schools",303055378,15767,2008,Male,Indiana,19220.86
+809,809,20009,20009,Unavalble,"Colleges, Universities, and Professional Schools",6041635,2601,2008,Male,Indiana,2322.81
+810,810,20010,20010,All Education Categories,"Colleges, Universities, and Professional Schools",370135215,38727,2008,Female,Indiana,9557.55
+811,811,20011,20011,Less Than High School,"Colleges, Universities, and Professional Schools",8588520,1305,2008,Female,Indiana,6581.24
+812,812,20012,20012,High School Graduate,"Colleges, Universities, and Professional Schools",60087864,7733,2008,Female,Indiana,7770.32
+813,813,20013,20013,Some College,"Colleges, Universities, and Professional Schools",98792530,10765,2008,Female,Indiana,9177.2
+814,814,20014,20014,Advanced Degree,"Colleges, Universities, and Professional Schools",195568754,15101,2008,Female,Indiana,12950.72
+815,815,20015,20015,Unavalble,"Colleges, Universities, and Professional Schools",7097547,3824,2008,Female,Indiana,1856.05
+816,816,23688,23688,All Education Categories,"Colleges, Universities, and Professional Schools",479941114,33361,2009,Male,Indiana,14386.29
+817,817,23689,23689,Less Than High School,"Colleges, Universities, and Professional Schools",12874479,1476,2009,Male,Indiana,8722.55
+818,818,23690,23690,High School Graduate,"Colleges, Universities, and Professional Schools",56882382,5414,2009,Male,Indiana,10506.54
+819,819,23691,23691,Some College,"Colleges, Universities, and Professional Schools",99221071,7701,2009,Male,Indiana,12884.18
+820,820,23692,23692,Advanced Degree,"Colleges, Universities, and Professional Schools",304374876,15896,2009,Male,Indiana,19147.89
+821,821,23693,23693,Unavalble,"Colleges, Universities, and Professional Schools",6588307,2873,2009,Male,Indiana,2293.18
+822,822,23694,23694,All Education Categories,"Colleges, Universities, and Professional Schools",380704863,39993,2009,Female,Indiana,9519.29
+823,823,23695,23695,Less Than High School,"Colleges, Universities, and Professional Schools",9497051,1428,2009,Female,Indiana,6650.6
+824,824,23696,23696,High School Graduate,"Colleges, Universities, and Professional Schools",61829583,7963,2009,Female,Indiana,7764.61
+825,825,23697,23697,Some College,"Colleges, Universities, and Professional Schools",101991113,11154,2009,Female,Indiana,9143.9
+826,826,23698,23698,Advanced Degree,"Colleges, Universities, and Professional Schools",199696198,15389,2009,Female,Indiana,12976.55
+827,827,23699,23699,Unavalble,"Colleges, Universities, and Professional Schools",7690918,4059,2009,Female,Indiana,1894.78
+828,828,27384,27384,All Education Categories,"Colleges, Universities, and Professional Schools",489593585,34382,2010,Male,Indiana,14239.82
+829,829,27385,27385,Less Than High School,"Colleges, Universities, and Professional Schools",14036590,1649,2010,Male,Indiana,8512.18
+830,830,27386,27386,High School Graduate,"Colleges, Universities, and Professional Schools",59342350,5788,2010,Male,Indiana,10252.65
+831,831,27387,27387,Some College,"Colleges, Universities, and Professional Schools",101929164,8036,2010,Male,Indiana,12684.07
+832,832,27388,27388,Advanced Degree,"Colleges, Universities, and Professional Schools",308448066,16197,2010,Male,Indiana,19043.53
+833,833,27389,27389,Unavalble,"Colleges, Universities, and Professional Schools",5837414,2711,2010,Male,Indiana,2153.23
+834,834,27390,27390,All Education Categories,"Colleges, Universities, and Professional Schools",385315737,40615,2010,Female,Indiana,9487.03
+835,835,27391,27391,Less Than High School,"Colleges, Universities, and Professional Schools",10466997,1568,2010,Female,Indiana,6675.38
+836,836,27392,27392,High School Graduate,"Colleges, Universities, and Professional Schools",62707967,8227,2010,Female,Indiana,7622.22
+837,837,27393,27393,Some College,"Colleges, Universities, and Professional Schools",103493461,11519,2010,Female,Indiana,8984.59
+838,838,27394,27394,Advanced Degree,"Colleges, Universities, and Professional Schools",201890252,15679,2010,Female,Indiana,12876.48
+839,839,27395,27395,Unavalble,"Colleges, Universities, and Professional Schools",6757060,3622,2010,Female,Indiana,1865.56
+840,840,31056,31056,All Education Categories,"Colleges, Universities, and Professional Schools",535123790,35170,2011,Male,Indiana,15215.35
+841,841,31057,31057,Less Than High School,"Colleges, Universities, and Professional Schools",16287469,1785,2011,Male,Indiana,9124.63
+842,842,31058,31058,High School Graduate,"Colleges, Universities, and Professional Schools",65566624,6074,2011,Male,Indiana,10794.64
+843,843,31059,31059,Some College,"Colleges, Universities, and Professional Schools",111293502,8315,2011,Male,Indiana,13384.67
+844,844,31060,31060,Advanced Degree,"Colleges, Universities, and Professional Schools",335905485,16319,2011,Male,Indiana,20583.71
+845,845,31061,31061,Unavalble,"Colleges, Universities, and Professional Schools",6070709,2677,2011,Male,Indiana,2267.73
+846,846,31062,31062,All Education Categories,"Colleges, Universities, and Professional Schools",424992864,41794,2011,Female,Indiana,10168.75
+847,847,31063,31063,Less Than High School,"Colleges, Universities, and Professional Schools",12692296,1754,2011,Female,Indiana,7236.2
+848,848,31064,31064,High School Graduate,"Colleges, Universities, and Professional Schools",68923043,8509,2011,Female,Indiana,8100.02
+849,849,31065,31065,Some College,"Colleges, Universities, and Professional Schools",114076816,11898,2011,Female,Indiana,9587.9
+850,850,31066,31066,Advanced Degree,"Colleges, Universities, and Professional Schools",222697181,16048,2011,Female,Indiana,13876.94
+851,851,31067,31067,Unavalble,"Colleges, Universities, and Professional Schools",6603528,3586,2011,Female,Indiana,1841.47
+852,852,34740,34740,All Education Categories,"Colleges, Universities, and Professional Schools",534997764,33857,2012,Male,Indiana,15801.69
+853,853,34741,34741,Less Than High School,"Colleges, Universities, and Professional Schools",17999233,1824,2012,Male,Indiana,9868.0
+854,854,34742,34742,High School Graduate,"Colleges, Universities, and Professional Schools",68194921,5988,2012,Male,Indiana,11388.6
+855,855,34743,34743,Some College,"Colleges, Universities, and Professional Schools",112975771,8045,2012,Male,Indiana,14042.98
+856,856,34744,34744,Advanced Degree,"Colleges, Universities, and Professional Schools",329356641,15451,2012,Male,Indiana,21316.2
+857,857,34745,34745,Unavalble,"Colleges, Universities, and Professional Schools",6471198,2549,2012,Male,Indiana,2538.72
+858,858,34746,34746,All Education Categories,"Colleges, Universities, and Professional Schools",432122903,40140,2012,Female,Indiana,10765.39
+859,859,34747,34747,Less Than High School,"Colleges, Universities, and Professional Schools",14426281,1818,2012,Female,Indiana,7935.25
+860,860,34748,34748,High School Graduate,"Colleges, Universities, and Professional Schools",71615000,8155,2012,Female,Indiana,8781.73
+861,861,34749,34749,Some College,"Colleges, Universities, and Professional Schools",116956864,11405,2012,Female,Indiana,10254.88
+862,862,34750,34750,Advanced Degree,"Colleges, Universities, and Professional Schools",221761103,15210,2012,Female,Indiana,14579.95
+863,863,34751,34751,Unavalble,"Colleges, Universities, and Professional Schools",7363654,3552,2012,Female,Indiana,2073.1
+864,864,36372,36372,All Education Categories,Educational Services,856544748,80132,2004,Male,Indiana,10689.17
+865,865,36373,36373,Less Than High School,Educational Services,24122912,3700,2004,Male,Indiana,6519.71
+866,866,36374,36374,High School Graduate,Educational Services,123631110,15062,2004,Male,Indiana,8208.15
+867,867,36375,36375,Some College,Educational Services,190895358,19411,2004,Male,Indiana,9834.39
+868,868,36376,36376,Advanced Degree,Educational Services,500928315,35553,2004,Male,Indiana,14089.62
+869,869,36377,36377,Unavalble,Educational Services,16967053,6405,2004,Male,Indiana,2649.03
+870,870,36378,36378,All Education Categories,Educational Services,1239589978,169159,2004,Female,Indiana,7327.96
+871,871,36379,36379,Less Than High School,Educational Services,27750051,6621,2004,Female,Indiana,4191.22
+872,872,36380,36380,High School Graduate,Educational Services,219016203,41126,2004,Female,Indiana,5325.49
+873,873,36381,36381,Some College,Educational Services,322721163,47197,2004,Female,Indiana,6837.75
+874,874,36382,36382,Advanced Degree,Educational Services,635508616,62256,2004,Female,Indiana,10207.99
+875,875,36383,36383,Unavalble,Educational Services,34593945,11959,2004,Female,Indiana,2892.71
+876,876,36468,36468,All Education Categories,Accommodation,33547643,6820,2004,Male,Indiana,4919.01
+877,877,36469,36469,Less Than High School,Accommodation,4642855,1056,2004,Male,Indiana,4396.64
+878,878,36470,36470,High School Graduate,Accommodation,9733830,1904,2004,Male,Indiana,5112.31
+879,879,36471,36471,Some College,Accommodation,8632782,1411,2004,Male,Indiana,6118.2
+880,880,36472,36472,Advanced Degree,Accommodation,6410245,766,2004,Male,Indiana,8368.47
+881,881,36473,36473,Unavalble,Accommodation,4127932,1682,2004,Male,Indiana,2454.18
+882,882,36474,36474,All Education Categories,Accommodation,39784431,11576,2004,Female,Indiana,3436.8
+883,883,36475,36475,Less Than High School,Accommodation,5406631,1738,2004,Female,Indiana,3110.83
+884,884,36476,36476,High School Graduate,Accommodation,12635682,3628,2004,Female,Indiana,3482.82
+885,885,36477,36477,Some College,Accommodation,10266597,2639,2004,Female,Indiana,3890.34
+886,886,36478,36478,Advanced Degree,Accommodation,5017716,1063,2004,Female,Indiana,4720.33
+887,887,36479,36479,Unavalble,Accommodation,6457805,2508,2004,Female,Indiana,2574.88
+888,888,37548,37548,All Education Categories,Educational Services,840288352,80131,2005,Male,Indiana,10486.43
+889,889,37549,37549,Less Than High School,Educational Services,23827453,3726,2005,Male,Indiana,6394.91
+890,890,37550,37550,High School Graduate,Educational Services,120978931,15156,2005,Male,Indiana,7982.25
+891,891,37551,37551,Some College,Educational Services,188653061,19606,2005,Male,Indiana,9622.21
+892,892,37552,37552,Advanced Degree,Educational Services,490801526,35338,2005,Male,Indiana,13888.77
+893,893,37553,37553,Unavalble,Educational Services,16027381,6305,2005,Male,Indiana,2542.01
+894,894,37554,37554,All Education Categories,Educational Services,1210642872,170502,2005,Female,Indiana,7100.46
+895,895,37555,37555,Less Than High School,Educational Services,27761540,6784,2005,Female,Indiana,4092.21
+896,896,37556,37556,High School Graduate,Educational Services,213607276,41401,2005,Female,Indiana,5159.47
+897,897,37557,37557,Some College,Educational Services,317756791,48091,2005,Female,Indiana,6607.41
+898,898,37558,37558,Advanced Degree,Educational Services,617410432,62351,2005,Female,Indiana,9902.17
+899,899,37559,37559,Unavalble,Educational Services,34106834,11874,2005,Female,Indiana,2872.4
+900,900,37644,37644,All Education Categories,Accommodation,33408564,6650,2005,Male,Indiana,5023.84
+901,901,37645,37645,Less Than High School,Accommodation,4613540,1046,2005,Male,Indiana,4410.65
+902,902,37646,37646,High School Graduate,Accommodation,9584627,1871,2005,Male,Indiana,5122.73
+903,903,37647,37647,Some College,Accommodation,8636503,1387,2005,Male,Indiana,6226.75
+904,904,37648,37648,Advanced Degree,Accommodation,6747505,782,2005,Male,Indiana,8628.52
+905,905,37649,37649,Unavalble,Accommodation,3826389,1563,2005,Male,Indiana,2448.11
+906,906,37650,37650,All Education Categories,Accommodation,39590324,11476,2005,Female,Indiana,3449.84
+907,907,37651,37651,Less Than High School,Accommodation,5356258,1720,2005,Female,Indiana,3114.1
+908,908,37652,37652,High School Graduate,Accommodation,12380925,3544,2005,Female,Indiana,3493.49
+909,909,37653,37653,Some College,Accommodation,10240717,2616,2005,Female,Indiana,3914.65
+910,910,37654,37654,Advanced Degree,Accommodation,5220640,1053,2005,Female,Indiana,4957.87
+911,911,37655,37655,Unavalble,Accommodation,6391783,2543,2005,Female,Indiana,2513.48
+912,912,38724,38724,All Education Categories,Educational Services,887879224,80049,2006,Male,Indiana,11091.7
+913,913,38725,38725,Less Than High School,Educational Services,26086439,3797,2006,Male,Indiana,6870.28
+914,914,38726,38726,High School Graduate,Educational Services,131349375,15402,2006,Male,Indiana,8528.07
+915,915,38727,38727,Some College,Educational Services,202913163,19913,2006,Male,Indiana,10189.98
+916,916,38728,38728,Advanced Degree,Educational Services,511750553,35156,2006,Male,Indiana,14556.56
+917,917,38729,38729,Unavalble,Educational Services,15779694,5781,2006,Male,Indiana,2729.58
+918,918,38730,38730,All Education Categories,Educational Services,1313378143,171029,2006,Female,Indiana,7679.27
+919,919,38731,38731,Less Than High School,Educational Services,31040327,6839,2006,Female,Indiana,4538.72
+920,920,38732,38732,High School Graduate,Educational Services,236146148,41670,2006,Female,Indiana,5667.05
+921,921,38733,38733,Some College,Educational Services,350382015,48860,2006,Female,Indiana,7171.14
+922,922,38734,38734,Advanced Degree,Educational Services,660852432,62409,2006,Female,Indiana,10589.06
+923,923,38735,38735,Unavalble,Educational Services,34957222,11251,2006,Female,Indiana,3107.03
+924,924,38820,38820,All Education Categories,Accommodation,35155593,6511,2006,Male,Indiana,5399.42
+925,925,38821,38821,Less Than High School,Accommodation,4671949,1005,2006,Male,Indiana,4648.71
+926,926,38822,38822,High School Graduate,Accommodation,10057683,1838,2006,Male,Indiana,5472.08
+927,927,38823,38823,Some College,Accommodation,9022670,1345,2006,Male,Indiana,6708.3
+928,928,38824,38824,Advanced Degree,Accommodation,7601713,776,2006,Male,Indiana,9796.02
+929,929,38825,38825,Unavalble,Accommodation,3801578,1546,2006,Male,Indiana,2458.98
+930,930,38826,38826,All Education Categories,Accommodation,41698029,11578,2006,Female,Indiana,3601.49
+931,931,38827,38827,Less Than High School,Accommodation,5709011,1748,2006,Female,Indiana,3266.02
+932,932,38828,38828,High School Graduate,Accommodation,13076896,3566,2006,Female,Indiana,3667.1
+933,933,38829,38829,Some College,Accommodation,10855060,2669,2006,Female,Indiana,4067.09
+934,934,38830,38830,Advanced Degree,Accommodation,5532786,1088,2006,Female,Indiana,5085.28
+935,935,38831,38831,Unavalble,Accommodation,6524277,2506,2006,Female,Indiana,2603.46
+936,936,39900,39900,All Education Categories,Educational Services,901259277,78352,2007,Male,Indiana,11502.7
+937,937,39901,39901,Less Than High School,Educational Services,28193849,3828,2007,Male,Indiana,7365.16
+938,938,39902,39902,High School Graduate,Educational Services,136956073,15211,2007,Male,Indiana,9003.75
+939,939,39903,39903,Some College,Educational Services,210121498,19613,2007,Male,Indiana,10713.38
+940,940,39904,39904,Advanced Degree,Educational Services,510361564,33832,2007,Male,Indiana,15085.17
+941,941,39905,39905,Unavalble,Educational Services,15626293,5868,2007,Male,Indiana,2662.97
+942,942,39906,39906,All Education Categories,Educational Services,1355071398,166744,2007,Female,Indiana,8126.66
+943,943,39907,39907,Less Than High School,Educational Services,34177718,6911,2007,Female,Indiana,4945.41
+944,944,39908,39908,High School Graduate,Educational Services,245199598,40774,2007,Female,Indiana,6013.63
+945,945,39909,39909,Some College,Educational Services,365810210,48018,2007,Female,Indiana,7618.19
+946,946,39910,39910,Advanced Degree,Educational Services,675547482,59985,2007,Female,Indiana,11261.94
+947,947,39911,39911,Unavalble,Educational Services,34336391,11057,2007,Female,Indiana,3105.4
+948,948,39996,39996,All Education Categories,Accommodation,45158084,7467,2007,Male,Indiana,6047.69
+949,949,39997,39997,Less Than High School,Accommodation,6178057,1182,2007,Male,Indiana,5226.78
+950,950,39998,39998,High School Graduate,Accommodation,13378294,2141,2007,Male,Indiana,6248.62
+951,951,39999,39999,Some College,Accommodation,11448011,1600,2007,Male,Indiana,7155.01
+952,952,40000,40000,Advanced Degree,Accommodation,9130198,902,2007,Male,Indiana,10122.17
+953,953,40001,40001,Unavalble,Accommodation,5023524,1642,2007,Male,Indiana,3059.39
+954,954,40002,40002,All Education Categories,Accommodation,53404826,12581,2007,Female,Indiana,4244.88
+955,955,40003,40003,Less Than High School,Accommodation,6809621,1868,2007,Female,Indiana,3645.41
+956,956,40004,40004,High School Graduate,Accommodation,16871116,3886,2007,Female,Indiana,4341.51
+957,957,40005,40005,Some College,Accommodation,14273647,2975,2007,Female,Indiana,4797.86
+958,958,40006,40006,Advanced Degree,Accommodation,7814958,1238,2007,Female,Indiana,6312.57
+959,959,40007,40007,Unavalble,Accommodation,7635483,2615,2007,Female,Indiana,2919.88
+960,960,41088,41088,All Education Categories,Educational Services,944875034,78742,2008,Male,Indiana,11999.63
+961,961,41089,41089,Less Than High School,Educational Services,31483249,4095,2008,Male,Indiana,7688.22
+962,962,41090,41090,High School Graduate,Educational Services,145839110,15665,2008,Male,Indiana,9309.87
+963,963,41091,41091,Some College,Educational Services,221805006,20004,2008,Male,Indiana,11088.03
+964,964,41092,41092,Advanced Degree,Educational Services,528632047,33411,2008,Male,Indiana,15822.1
+965,965,41093,41093,Unavalble,Educational Services,17115623,5567,2008,Male,Indiana,3074.48
+966,966,41094,41094,All Education Categories,Educational Services,1434719864,171211,2008,Female,Indiana,8379.83
+967,967,41095,41095,Less Than High School,Educational Services,38777144,7500,2008,Female,Indiana,5170.29
+968,968,41096,41096,High School Graduate,Educational Services,264178850,41901,2008,Female,Indiana,6304.83
+969,969,41097,41097,Some College,Educational Services,392628127,49841,2008,Female,Indiana,7877.61
+970,970,41098,41098,Advanced Degree,Educational Services,702466248,61272,2008,Female,Indiana,11464.72
+971,971,41099,41099,Unavalble,Educational Services,36669495,10698,2008,Female,Indiana,3427.7
+972,972,41184,41184,All Education Categories,Accommodation,42471876,7479,2008,Male,Indiana,5678.82
+973,973,41185,41185,Less Than High School,Accommodation,5908742,1174,2008,Male,Indiana,5033.0
+974,974,41186,41186,High School Graduate,Accommodation,12565729,2188,2008,Male,Indiana,5743.02
+975,975,41187,41187,Some College,Accommodation,11176363,1621,2008,Male,Indiana,6894.73
+976,976,41188,41188,Advanced Degree,Accommodation,8379201,905,2008,Male,Indiana,9258.79
+977,977,41189,41189,Unavalble,Accommodation,4441841,1591,2008,Male,Indiana,2791.85
+978,978,41190,41190,All Education Categories,Accommodation,50486900,12673,2008,Female,Indiana,3983.82
+979,979,41191,41191,Less Than High School,Accommodation,6755851,1882,2008,Female,Indiana,3589.72
+980,980,41192,41192,High School Graduate,Accommodation,15789428,3895,2008,Female,Indiana,4053.77
+981,981,41193,41193,Some College,Accommodation,13569217,3017,2008,Female,Indiana,4497.59
+982,982,41194,41194,Advanced Degree,Accommodation,7115309,1258,2008,Female,Indiana,5656.05
+983,983,41195,41195,Unavalble,Accommodation,7257094,2621,2008,Female,Indiana,2768.83
+984,984,42276,42276,All Education Categories,Educational Services,962539846,82027,2009,Male,Indiana,11734.43
+985,985,42277,42277,Less Than High School,Educational Services,34325212,4499,2009,Male,Indiana,7629.52
+986,986,42278,42278,High School Graduate,Educational Services,152114947,16687,2009,Male,Indiana,9115.78
+987,987,42279,42279,Some College,Educational Services,227948866,20948,2009,Male,Indiana,10881.65
+988,988,42280,42280,Advanced Degree,Educational Services,530569145,34076,2009,Male,Indiana,15570.17
+989,989,42281,42281,Unavalble,Educational Services,17581676,5817,2009,Male,Indiana,3022.46
+990,990,42282,42282,All Education Categories,Educational Services,1459877020,176220,2009,Female,Indiana,8284.4
+991,991,42283,42283,Less Than High School,Educational Services,42287614,7962,2009,Female,Indiana,5311.18
+992,992,42284,42284,High School Graduate,Educational Services,271387303,43065,2009,Female,Indiana,6301.81
+993,993,42285,42285,Some College,Educational Services,404304496,51731,2009,Female,Indiana,7815.52
+994,994,42286,42286,Advanced Degree,Educational Services,705198001,62396,2009,Female,Indiana,11301.97
+995,995,42287,42287,Unavalble,Educational Services,36699606,11066,2009,Female,Indiana,3316.43
+996,996,42372,42372,All Education Categories,Accommodation,38017553,7273,2009,Male,Indiana,5227.22
+997,997,42373,42373,Less Than High School,Accommodation,5390740,1164,2009,Male,Indiana,4631.22
+998,998,42374,42374,High School Graduate,Accommodation,11479211,2124,2009,Male,Indiana,5404.52
+999,999,42375,42375,Some College,Accommodation,9821308,1581,2009,Male,Indiana,6212.09
+1000,1000,42376,42376,Advanced Degree,Accommodation,7352745,894,2009,Male,Indiana,8224.55
+1001,1001,42377,42377,Unavalble,Accommodation,3973549,1510,2009,Male,Indiana,2631.49
+1002,1002,42378,42378,All Education Categories,Accommodation,46670202,12416,2009,Female,Indiana,3758.88
+1003,1003,42379,42379,Less Than High School,Accommodation,6251981,1842,2009,Female,Indiana,3394.13
+1004,1004,42380,42380,High School Graduate,Accommodation,14576710,3812,2009,Female,Indiana,3823.9
+1005,1005,42381,42381,Some College,Accommodation,12805258,3029,2009,Female,Indiana,4227.55
+1006,1006,42382,42382,Advanced Degree,Accommodation,6632635,1299,2009,Female,Indiana,5105.95
+1007,1007,42383,42383,Unavalble,Accommodation,6403617,2434,2009,Female,Indiana,2630.9
+1008,1008,43464,43464,All Education Categories,Educational Services,958305558,84696,2010,Male,Indiana,11314.65
+1009,1009,43465,43465,Less Than High School,Educational Services,36302091,4959,2010,Male,Indiana,7320.45
+1010,1010,43466,43466,High School Graduate,Educational Services,154170952,17746,2010,Male,Indiana,8687.65
+1011,1011,43467,43467,Some College,Educational Services,228207513,21889,2010,Male,Indiana,10425.67
+1012,1012,43468,43468,Advanced Degree,Educational Services,523202283,34455,2010,Male,Indiana,15185.09
+1013,1013,43469,43469,Unavalble,Educational Services,16422719,5647,2010,Male,Indiana,2908.22
+1014,1014,43470,43470,All Education Categories,Educational Services,1437463044,179988,2010,Female,Indiana,7986.44
+1015,1015,43471,43471,Less Than High School,Educational Services,45141270,8756,2010,Female,Indiana,5155.47
+1016,1016,43472,43472,High School Graduate,Educational Services,270760467,44286,2010,Female,Indiana,6113.91
+1017,1017,43473,43473,Some College,Educational Services,402428595,53393,2010,Female,Indiana,7537.1
+1018,1018,43474,43474,Advanced Degree,Educational Services,686714215,63248,2010,Female,Indiana,10857.49
+1019,1019,43475,43475,Unavalble,Educational Services,32418497,10304,2010,Female,Indiana,3146.21
+1020,1020,43560,43560,All Education Categories,Accommodation,34499246,6703,2010,Male,Indiana,5146.84
+1021,1021,43561,43561,Less Than High School,Accommodation,4905570,1042,2010,Male,Indiana,4707.84
+1022,1022,43562,43562,High School Graduate,Accommodation,10242200,1927,2010,Male,Indiana,5315.1
+1023,1023,43563,43563,Some College,Accommodation,9203406,1488,2010,Male,Indiana,6185.08
+1024,1024,43564,43564,Advanced Degree,Accommodation,6858602,869,2010,Male,Indiana,7892.52
+1025,1025,43565,43565,Unavalble,Accommodation,3289469,1378,2010,Male,Indiana,2387.13
+1026,1026,43566,43566,All Education Categories,Accommodation,42527340,11241,2010,Female,Indiana,3783.23
+1027,1027,43567,43567,Less Than High School,Accommodation,5760606,1674,2010,Female,Indiana,3441.22
+1028,1028,43568,43568,High School Graduate,Accommodation,13386825,3516,2010,Female,Indiana,3807.4
+1029,1029,43569,43569,Some College,Accommodation,11807322,2789,2010,Female,Indiana,4233.53
+1030,1030,43570,43570,Advanced Degree,Accommodation,6210152,1245,2010,Female,Indiana,4988.07
+1031,1031,43571,43571,Unavalble,Accommodation,5362435,2016,2010,Female,Indiana,2659.94
+1032,1032,44640,44640,All Education Categories,Educational Services,979848082,84724,2011,Male,Indiana,11565.18
+1033,1033,44641,44641,Less Than High School,Educational Services,38609144,5167,2011,Male,Indiana,7472.26
+1034,1034,44642,44642,High School Graduate,Educational Services,157404153,17991,2011,Male,Indiana,8749.05
+1035,1035,44643,44643,Some College,Educational Services,232699184,22059,2011,Male,Indiana,10548.95
+1036,1036,44644,44644,Advanced Degree,Educational Services,536244504,34145,2011,Male,Indiana,15704.92
+1037,1037,44645,44645,Unavalble,Educational Services,14891098,5362,2011,Male,Indiana,2777.15
+1038,1038,44646,44646,All Education Categories,Educational Services,1413718176,178513,2011,Female,Indiana,7919.41
+1039,1039,44647,44647,Less Than High School,Educational Services,47637618,9099,2011,Female,Indiana,5235.48
+1040,1040,44648,44648,High School Graduate,Educational Services,266985863,43983,2011,Female,Indiana,6070.21
+1041,1041,44649,44649,Some College,Educational Services,399053457,53333,2011,Female,Indiana,7482.3
+1042,1042,44650,44650,Advanced Degree,Educational Services,672501450,62450,2011,Female,Indiana,10768.64
+1043,1043,44651,44651,Unavalble,Educational Services,27539788,9648,2011,Female,Indiana,2854.46
+1044,1044,44736,44736,All Education Categories,Accommodation,41294098,7180,2011,Male,Indiana,5751.27
+1045,1045,44737,44737,Less Than High School,Accommodation,5746526,1118,2011,Male,Indiana,5140.01
+1046,1046,44738,44738,High School Graduate,Accommodation,12143793,2072,2011,Male,Indiana,5860.9
+1047,1047,44739,44739,Some College,Accommodation,10907125,1599,2011,Male,Indiana,6821.22
+1048,1048,44740,44740,Advanced Degree,Accommodation,8652708,957,2011,Male,Indiana,9041.49
+1049,1049,44741,44741,Unavalble,Accommodation,3843945,1435,2011,Male,Indiana,2678.71
+1050,1050,44742,44742,All Education Categories,Accommodation,47663375,11760,2011,Female,Indiana,4053.01
+1051,1051,44743,44743,Less Than High School,Accommodation,6280191,1699,2011,Female,Indiana,3696.4
+1052,1052,44744,44744,High School Graduate,Accommodation,14572674,3586,2011,Female,Indiana,4063.77
+1053,1053,44745,44745,Some College,Accommodation,13161924,2921,2011,Female,Indiana,4505.97
+1054,1054,44746,44746,Advanced Degree,Accommodation,7309708,1340,2011,Female,Indiana,5455.01
+1055,1055,44747,44747,Unavalble,Accommodation,6338878,2214,2011,Female,Indiana,2863.09
+1056,1056,45816,45816,All Education Categories,Educational Services,1018331254,83594,2012,Male,Indiana,12181.87
+1057,1057,45817,45817,Less Than High School,Educational Services,43943594,5364,2012,Male,Indiana,8192.32
+1058,1058,45818,45818,High School Graduate,Educational Services,170393654,18115,2012,Male,Indiana,9406.22
+1059,1059,45819,45819,Some College,Educational Services,245751083,21894,2012,Male,Indiana,11224.59
+1060,1060,45820,45820,Advanced Degree,Educational Services,541673933,32905,2012,Male,Indiana,16461.75
+1061,1061,45821,45821,Unavalble,Educational Services,16568989,5315,2012,Male,Indiana,3117.4
+1062,1062,45822,45822,All Education Categories,Educational Services,1516208930,176501,2012,Female,Indiana,8590.37
+1063,1063,45823,45823,Less Than High School,Educational Services,56118304,9480,2012,Female,Indiana,5919.65
+1064,1064,45824,45824,High School Graduate,Educational Services,296493500,43930,2012,Female,Indiana,6749.23
+1065,1065,45825,45825,Some College,Educational Services,433281823,53042,2012,Female,Indiana,8168.66
+1066,1066,45826,45826,Advanced Degree,Educational Services,698571069,60498,2012,Female,Indiana,11547.01
+1067,1067,45827,45827,Unavalble,Educational Services,31744233,9551,2012,Female,Indiana,3323.66
+1068,1068,45912,45912,All Education Categories,Accommodation,44418115,7494,2012,Male,Indiana,5927.16
+1069,1069,45913,45913,Less Than High School,Accommodation,6078671,1139,2012,Male,Indiana,5336.85
+1070,1070,45914,45914,High School Graduate,Accommodation,13045198,2154,2012,Male,Indiana,6056.27
+1071,1071,45915,45915,Some College,Accommodation,11961594,1690,2012,Male,Indiana,7077.87
+1072,1072,45916,45916,Advanced Degree,Accommodation,9334784,1006,2012,Male,Indiana,9279.11
+1073,1073,45917,45917,Unavalble,Accommodation,3997867,1505,2012,Male,Indiana,2656.39
+1074,1074,45918,45918,All Education Categories,Accommodation,52037478,12374,2012,Female,Indiana,4205.39
+1075,1075,45919,45919,Less Than High School,Accommodation,7005490,1790,2012,Female,Indiana,3913.68
+1076,1076,45920,45920,High School Graduate,Accommodation,15633307,3692,2012,Female,Indiana,4234.37
+1077,1077,45921,45921,Some College,Accommodation,14315374,3057,2012,Female,Indiana,4682.82
+1078,1078,45922,45922,Advanced Degree,Accommodation,7999025,1426,2012,Female,Indiana,5609.41
+1079,1079,45923,45923,Unavalble,Accommodation,7084283,2409,2012,Female,Indiana,2940.76

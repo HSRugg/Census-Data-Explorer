@@ -1,6 +1,6 @@
 var make_line_for_state = function(state) {
     d3.select("svg").remove();
-    var path_to_data = "https://cdn.rawgit.com/HSRugg/DSI-SF-4-HSRugg/master/data/census_data/"+state+"_small_all_eds.csv"
+    var path_to_data = "data_by_state/data_by_state"+state+"_small_all_eds.csv"
     d3.csv(path_to_data, function(data) {
     console.log(state);
 

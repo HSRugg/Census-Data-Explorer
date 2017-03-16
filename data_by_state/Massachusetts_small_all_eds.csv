@@ -1,0 +1,241 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,252,252,252,All Education Categories,00,30061703591,1472395,2011,Male,Massachusetts,20416.87
+1,1,253,253,253,Less Than High School,00,1628052362,141176,2011,Male,Massachusetts,11532.08
+2,2,254,254,254,High School Graduate,00,4288992600,299578,2011,Male,Massachusetts,14316.78
+3,3,255,255,255,Some College,00,6546118048,358214,2011,Male,Massachusetts,18274.32
+4,4,256,256,256,Advanced Degree,00,16791955365,501234,2011,Male,Massachusetts,33501.23
+5,5,257,257,257,Unavalble,00,806585215,172192,2011,Male,Massachusetts,4684.22
+6,6,258,258,258,All Education Categories,00,17657775423,1554557,2011,Female,Massachusetts,11358.72
+7,7,259,259,259,Less Than High School,00,892097155,116106,2011,Female,Massachusetts,7683.47
+8,8,260,260,260,High School Graduate,00,2562651532,295517,2011,Female,Massachusetts,8671.76
+9,9,261,261,261,Some College,00,4485938146,415806,2011,Female,Massachusetts,10788.54
+10,10,262,262,262,Advanced Degree,00,8926298238,518022,2011,Female,Massachusetts,17231.5
+11,11,263,263,263,Unavalble,00,790790352,209106,2011,Female,Massachusetts,3781.77
+12,12,312,312,312,All Education Categories,Manufacturing,4016000431,176136,2011,Male,Massachusetts,22800.57
+13,13,313,313,313,Less Than High School,Manufacturing,264113380,19045,2011,Male,Massachusetts,13867.86
+14,14,314,314,314,High School Graduate,Manufacturing,744089364,43361,2011,Male,Massachusetts,17160.34
+15,15,315,315,315,Some College,Manufacturing,1072484982,49591,2011,Male,Massachusetts,21626.61
+16,16,316,316,316,Advanced Degree,Manufacturing,1864689038,55002,2011,Male,Massachusetts,33902.2
+17,17,317,317,317,Unavalble,Manufacturing,70623667,9137,2011,Male,Massachusetts,7729.42
+18,18,318,318,318,All Education Categories,Manufacturing,1143499727,77930,2011,Female,Massachusetts,14673.42
+19,19,319,319,319,Less Than High School,Manufacturing,83478996,8860,2011,Female,Massachusetts,9422.01
+20,20,320,320,320,High School Graduate,Manufacturing,216827957,18951,2011,Female,Massachusetts,11441.5
+21,21,321,321,321,Some College,Manufacturing,322027210,22562,2011,Female,Massachusetts,14272.99
+22,22,322,322,322,Advanced Degree,Manufacturing,493743040,22845,2011,Female,Massachusetts,21612.74
+23,23,323,323,323,Unavalble,Manufacturing,27422524,4712,2011,Female,Massachusetts,5819.72
+24,24,336,336,336,All Education Categories,Retail Trade,1456513575,170366,2011,Male,Massachusetts,8549.32
+25,25,337,337,337,Less Than High School,Retail Trade,135043301,17679,2011,Male,Massachusetts,7638.63
+26,26,338,338,338,High School Graduate,Retail Trade,358003337,38817,2011,Male,Massachusetts,9222.85
+27,27,339,339,339,Some College,Retail Trade,404462639,37942,2011,Male,Massachusetts,10660.02
+28,28,340,340,340,Advanced Degree,Retail Trade,415559823,29345,2011,Male,Massachusetts,14161.18
+29,29,341,341,341,Unavalble,Retail Trade,143444475,46584,2011,Male,Massachusetts,3079.26
+30,30,342,342,342,All Education Categories,Retail Trade,860611560,166721,2011,Female,Massachusetts,5161.99
+31,31,343,343,343,Less Than High School,Retail Trade,71204635,14392,2011,Female,Massachusetts,4947.51
+32,32,344,344,344,High School Graduate,Retail Trade,207018418,37658,2011,Female,Massachusetts,5497.33
+33,33,345,345,345,Some College,Retail Trade,233520577,36603,2011,Female,Massachusetts,6379.82
+34,34,346,346,346,Advanced Degree,Retail Trade,225583015,26197,2011,Female,Massachusetts,8611.02
+35,35,347,347,347,Unavalble,Retail Trade,123284916,51871,2011,Female,Massachusetts,2376.76
+36,36,372,372,372,All Education Categories,Finance and Insurance,4449920911,74903,2011,Male,Massachusetts,59409.11
+37,37,373,373,373,Less Than High School,Finance and Insurance,113938212,3356,2011,Male,Massachusetts,33950.6
+38,38,374,374,374,High School Graduate,Finance and Insurance,326499811,8857,2011,Male,Massachusetts,36863.48
+39,39,375,375,375,Some College,Finance and Insurance,684186165,15134,2011,Male,Massachusetts,45208.55
+40,40,376,376,376,Advanced Degree,Finance and Insurance,3281747850,43540,2011,Male,Massachusetts,75373.17
+41,41,377,377,377,Unavalble,Finance and Insurance,43548874,4016,2011,Male,Massachusetts,10843.84
+42,42,378,378,378,All Education Categories,Finance and Insurance,2136599679,94790,2011,Female,Massachusetts,22540.35
+43,43,379,379,379,Less Than High School,Finance and Insurance,60794265,3929,2011,Female,Massachusetts,15473.22
+44,44,380,380,380,High School Graduate,Finance and Insurance,214423765,14099,2011,Female,Massachusetts,15208.44
+45,45,381,381,381,Some College,Finance and Insurance,428400027,23875,2011,Female,Massachusetts,17943.46
+46,46,382,382,382,Advanced Degree,Finance and Insurance,1385582882,47209,2011,Female,Massachusetts,29349.97
+47,47,383,383,383,Unavalble,Finance and Insurance,47398739,5678,2011,Female,Massachusetts,8347.79
+48,48,432,432,432,All Education Categories,Educational Services,1800352560,125854,2011,Male,Massachusetts,14305.09
+49,49,433,433,433,Less Than High School,Educational Services,84037783,7450,2011,Male,Massachusetts,11280.24
+50,50,434,434,434,High School Graduate,Educational Services,246649209,20123,2011,Male,Massachusetts,12257.08
+51,51,435,435,435,Some College,Educational Services,401694490,29265,2011,Male,Massachusetts,13726.11
+52,52,436,436,436,Advanced Degree,Educational Services,1034736526,58485,2011,Male,Massachusetts,17692.34
+53,53,437,437,437,Unavalble,Educational Services,33234553,10530,2011,Male,Massachusetts,3156.18
+54,54,438,438,438,All Education Categories,Educational Services,2014104269,190082,2011,Female,Massachusetts,10595.98
+55,55,439,439,439,Less Than High School,Educational Services,75849759,8762,2011,Female,Massachusetts,8656.67
+56,56,440,440,440,High School Graduate,Educational Services,273278733,31306,2011,Female,Massachusetts,8729.28
+57,57,441,441,441,Some College,Educational Services,482899725,47648,2011,Female,Massachusetts,10134.73
+58,58,442,442,442,Advanced Degree,Educational Services,1129824672,84176,2011,Female,Massachusetts,13422.17
+59,59,443,443,443,Unavalble,Educational Services,52251380,18190,2011,Female,Massachusetts,2872.53
+60,60,444,444,444,All Education Categories,Health Care and Social Assistance,1999390304,119437,2011,Male,Massachusetts,16740.12
+61,61,445,445,445,Less Than High School,Health Care and Social Assistance,115371410,10556,2011,Male,Massachusetts,10929.46
+62,62,446,446,446,High School Graduate,Health Care and Social Assistance,267541777,21507,2011,Male,Massachusetts,12439.75
+63,63,447,447,447,Some College,Health Care and Social Assistance,467877512,30749,2011,Male,Massachusetts,15216.02
+64,64,448,448,448,Advanced Degree,Health Care and Social Assistance,1095875222,45429,2011,Male,Massachusetts,24122.81
+65,65,449,449,449,Unavalble,Health Care and Social Assistance,52724383,11195,2011,Male,Massachusetts,4709.64
+66,66,450,450,450,All Education Categories,Health Care and Social Assistance,4262314183,392951,2011,Female,Massachusetts,10846.94
+67,67,451,451,451,Less Than High School,Health Care and Social Assistance,219594402,27258,2011,Female,Massachusetts,8056.15
+68,68,452,452,452,High School Graduate,Health Care and Social Assistance,619395355,71182,2011,Female,Massachusetts,8701.57
+69,69,453,453,453,Some College,Health Care and Social Assistance,1290842775,124669,2011,Female,Massachusetts,10354.16
+70,70,454,454,454,Advanced Degree,Health Care and Social Assistance,1959174326,135812,2011,Female,Massachusetts,14425.63
+71,71,455,455,455,Unavalble,Health Care and Social Assistance,173307325,34030,2011,Female,Massachusetts,5092.78
+72,72,468,468,468,All Education Categories,Accommodation and Food Services,612757047,112444,2011,Male,Massachusetts,5449.44
+73,73,469,469,469,Less Than High School,Accommodation and Food Services,97357545,17642,2011,Male,Massachusetts,5518.51
+74,74,470,470,470,High School Graduate,Accommodation and Food Services,149259489,24367,2011,Male,Massachusetts,6125.48
+75,75,471,471,471,Some College,Accommodation and Food Services,151792616,22568,2011,Male,Massachusetts,6726.01
+76,76,472,472,472,Advanced Degree,Accommodation and Food Services,127889293,16612,2011,Male,Massachusetts,7698.61
+77,77,473,473,473,Unavalble,Accommodation and Food Services,86458104,31256,2011,Male,Massachusetts,2766.13
+78,78,474,474,474,All Education Categories,Accommodation and Food Services,524581071,132197,2011,Female,Massachusetts,3968.18
+79,79,475,475,475,Less Than High School,Accommodation and Food Services,63965113,15215,2011,Female,Massachusetts,4204.08
+80,80,476,476,476,High School Graduate,Accommodation and Food Services,116011402,26864,2011,Female,Massachusetts,4318.47
+81,81,477,477,477,Some College,Accommodation and Food Services,127720236,27135,2011,Female,Massachusetts,4706.84
+82,82,478,478,478,Advanced Degree,Accommodation and Food Services,104262216,18874,2011,Female,Massachusetts,5524.12
+83,83,479,479,479,Unavalble,Accommodation and Food Services,112622104,44110,2011,Female,Massachusetts,2553.21
+84,84,504,504,504,All Education Categories,00,30245285917,1501870,2012,Male,Massachusetts,20138.42
+85,85,505,505,505,Less Than High School,00,1756998453,146407,2012,Male,Massachusetts,12000.78
+86,86,506,506,506,High School Graduate,00,4554505381,308601,2012,Male,Massachusetts,14758.56
+87,87,507,507,507,Some College,00,6808732265,366689,2012,Male,Massachusetts,18568.14
+88,88,508,508,508,Advanced Degree,00,16248369969,505142,2012,Male,Massachusetts,32165.95
+89,89,509,509,509,Unavalble,00,876679850,175032,2012,Male,Massachusetts,5008.68
+90,90,510,510,510,All Education Categories,00,18743524968,1574086,2012,Female,Massachusetts,11907.56
+91,91,511,511,511,Less Than High School,00,983459048,119478,2012,Female,Massachusetts,8231.3
+92,92,512,512,512,High School Graduate,00,2777547433,300148,2012,Female,Massachusetts,9253.93
+93,93,513,513,513,Some College,00,4810576204,422345,2012,Female,Massachusetts,11390.16
+94,94,514,514,514,Advanced Degree,00,9317486665,521711,2012,Female,Massachusetts,17859.48
+95,95,515,515,515,Unavalble,00,854455618,210405,2012,Female,Massachusetts,4061.0
+96,96,564,564,564,All Education Categories,Manufacturing,4134424579,175175,2012,Male,Massachusetts,23601.68
+97,97,565,565,565,Less Than High School,Manufacturing,276344053,19182,2012,Male,Massachusetts,14406.43
+98,98,566,566,566,High School Graduate,Manufacturing,769675524,43249,2012,Male,Massachusetts,17796.38
+99,99,567,567,567,Some College,Manufacturing,1099072453,49300,2012,Male,Massachusetts,22293.56
+100,100,568,568,568,Advanced Degree,Manufacturing,1912414641,54293,2012,Male,Massachusetts,35223.96
+101,101,569,569,569,Unavalble,Manufacturing,76917908,9150,2012,Male,Massachusetts,8406.33
+102,102,570,570,570,All Education Categories,Manufacturing,1211977899,77115,2012,Female,Massachusetts,15716.5
+103,103,571,571,571,Less Than High School,Manufacturing,87736926,8793,2012,Female,Massachusetts,9978.04
+104,104,572,572,572,High School Graduate,Manufacturing,226738163,18625,2012,Female,Massachusetts,12173.86
+105,105,573,573,573,Some College,Manufacturing,337944305,22291,2012,Female,Massachusetts,15160.57
+106,106,574,574,574,Advanced Degree,Manufacturing,530046506,22588,2012,Female,Massachusetts,23465.84
+107,107,575,575,575,Unavalble,Manufacturing,29511998,4819,2012,Female,Massachusetts,6124.09
+108,108,588,588,588,All Education Categories,Retail Trade,1542807468,173145,2012,Male,Massachusetts,8910.49
+109,109,589,589,589,Less Than High School,Retail Trade,146206635,18214,2012,Male,Massachusetts,8027.16
+110,110,590,590,590,High School Graduate,Retail Trade,383201526,39769,2012,Male,Massachusetts,9635.68
+111,111,591,591,591,Some College,Retail Trade,428590609,38859,2012,Male,Massachusetts,11029.38
+112,112,592,592,592,Advanced Degree,Retail Trade,433578912,30021,2012,Male,Massachusetts,14442.52
+113,113,593,593,593,Unavalble,Retail Trade,151229786,46283,2012,Male,Massachusetts,3267.5
+114,114,594,594,594,All Education Categories,Retail Trade,933207190,169976,2012,Female,Massachusetts,5490.23
+115,115,595,595,595,Less Than High School,Retail Trade,78466362,14735,2012,Female,Massachusetts,5325.17
+116,116,596,596,596,High School Graduate,Retail Trade,223715848,38215,2012,Female,Massachusetts,5854.14
+117,117,597,597,597,Some College,Retail Trade,254681713,37721,2012,Female,Massachusetts,6751.72
+118,118,598,598,598,Advanced Degree,Retail Trade,244233468,27134,2012,Female,Massachusetts,9001.01
+119,119,599,599,599,Unavalble,Retail Trade,132109800,52170,2012,Female,Massachusetts,2532.29
+120,120,624,624,624,All Education Categories,Finance and Insurance,4473600902,74170,2012,Male,Massachusetts,60315.5
+121,121,625,625,625,Less Than High School,Finance and Insurance,120671414,3499,2012,Male,Massachusetts,34487.4
+122,122,626,626,626,High School Graduate,Finance and Insurance,337384565,8992,2012,Male,Massachusetts,37520.53
+123,123,627,627,627,Some College,Finance and Insurance,706867215,15105,2012,Male,Massachusetts,46796.9
+124,124,628,628,628,Advanced Degree,Finance and Insurance,3261308942,42426,2012,Male,Massachusetts,76870.53
+125,125,629,629,629,Unavalble,Finance and Insurance,47368766,4148,2012,Male,Massachusetts,11419.66
+126,126,630,630,630,All Education Categories,Finance and Insurance,2196070048,92845,2012,Female,Massachusetts,23653.08
+127,127,631,631,631,Less Than High School,Finance and Insurance,65521268,3985,2012,Female,Massachusetts,16441.97
+128,128,632,632,632,High School Graduate,Finance and Insurance,227281413,13943,2012,Female,Massachusetts,16300.75
+129,129,633,633,633,Some College,Finance and Insurance,447553562,23612,2012,Female,Massachusetts,18954.5
+130,130,634,634,634,Advanced Degree,Finance and Insurance,1407146608,45952,2012,Female,Massachusetts,30622.1
+131,131,635,635,635,Unavalble,Finance and Insurance,48567197,5353,2012,Female,Massachusetts,9072.89
+132,132,684,684,684,All Education Categories,Educational Services,2000460738,127169,2012,Male,Massachusetts,15730.73
+133,133,685,685,685,Less Than High School,Educational Services,98041983,7757,2012,Male,Massachusetts,12639.16
+134,134,686,686,686,High School Graduate,Educational Services,278568510,20727,2012,Male,Massachusetts,13439.89
+135,135,687,687,687,Some College,Educational Services,453329223,29807,2012,Male,Massachusetts,15208.82
+136,136,688,688,688,Advanced Degree,Educational Services,1133339083,58304,2012,Male,Massachusetts,19438.44
+137,137,689,689,689,Unavalble,Educational Services,37181938,10574,2012,Male,Massachusetts,3516.36
+138,138,690,690,690,All Education Categories,Educational Services,2253353650,190706,2012,Female,Massachusetts,11815.85
+139,139,691,691,691,Less Than High School,Educational Services,91113180,9176,2012,Female,Massachusetts,9929.51
+140,140,692,692,692,High School Graduate,Educational Services,312780211,31924,2012,Female,Massachusetts,9797.65
+141,141,693,693,693,Some College,Educational Services,548045638,48499,2012,Female,Massachusetts,11300.14
+142,142,694,694,694,Advanced Degree,Educational Services,1244252488,84212,2012,Female,Massachusetts,14775.24
+143,143,695,695,695,Unavalble,Educational Services,57162134,16895,2012,Female,Massachusetts,3383.38
+144,144,696,696,696,All Education Categories,Health Care and Social Assistance,2146415822,122274,2012,Male,Massachusetts,17554.15
+145,145,697,697,697,Less Than High School,Health Care and Social Assistance,128114632,11084,2012,Male,Massachusetts,11558.52
+146,146,698,698,698,High School Graduate,Health Care and Social Assistance,293780066,22438,2012,Male,Massachusetts,13092.97
+147,147,699,699,699,Some College,Health Care and Social Assistance,505089517,31678,2012,Male,Massachusetts,15944.49
+148,148,700,700,700,Advanced Degree,Health Care and Social Assistance,1164456855,46090,2012,Male,Massachusetts,25264.85
+149,149,701,701,701,Unavalble,Health Care and Social Assistance,54974752,10984,2012,Male,Massachusetts,5004.98
+150,150,702,702,702,All Education Categories,Health Care and Social Assistance,4596565853,400177,2012,Female,Massachusetts,11486.33
+151,151,703,703,703,Less Than High School,Health Care and Social Assistance,245510438,28591,2012,Female,Massachusetts,8586.98
+152,152,704,704,704,High School Graduate,Health Care and Social Assistance,677415864,73029,2012,Female,Massachusetts,9275.98
+153,153,705,705,705,Some College,Health Care and Social Assistance,1390156346,126733,2012,Female,Massachusetts,10969.17
+154,154,706,706,706,Advanced Degree,Health Care and Social Assistance,2098741250,137649,2012,Female,Massachusetts,15247.05
+155,155,707,707,707,Unavalble,Health Care and Social Assistance,184741956,34175,2012,Female,Massachusetts,5405.76
+156,156,720,720,720,All Education Categories,Accommodation and Food Services,674228498,116910,2012,Male,Massachusetts,5767.07
+157,157,721,721,721,Less Than High School,Accommodation and Food Services,107444146,18225,2012,Male,Massachusetts,5895.43
+158,158,722,722,722,High School Graduate,Accommodation and Food Services,165093007,25351,2012,Male,Massachusetts,6512.29
+159,159,723,723,723,Some College,Accommodation and Food Services,166289189,23487,2012,Male,Massachusetts,7080.05
+160,160,724,724,724,Advanced Degree,Accommodation and Food Services,137605873,17229,2012,Male,Massachusetts,7986.88
+161,161,725,725,725,Unavalble,Accommodation and Food Services,97796284,32618,2012,Male,Massachusetts,2998.23
+162,162,726,726,726,All Education Categories,Accommodation and Food Services,583302250,137403,2012,Female,Massachusetts,4245.19
+163,163,727,727,727,Less Than High School,Accommodation and Food Services,71502698,15695,2012,Female,Massachusetts,4555.76
+164,164,728,728,728,High School Graduate,Accommodation and Food Services,128418010,27705,2012,Female,Massachusetts,4635.19
+165,165,729,729,729,Some College,Accommodation and Food Services,141541511,28193,2012,Female,Massachusetts,5020.45
+166,166,730,730,730,Advanced Degree,Accommodation and Food Services,115564229,19777,2012,Female,Massachusetts,5843.36
+167,167,731,731,731,Unavalble,Accommodation and Food Services,126275803,46033,2012,Female,Massachusetts,2743.16
+168,168,2832,2832,2832,All Education Categories,Educational Services,1800352560,125854,2011,Male,Massachusetts,14305.09
+169,169,2833,2833,2833,Less Than High School,Educational Services,84037783,7450,2011,Male,Massachusetts,11280.24
+170,170,2834,2834,2834,High School Graduate,Educational Services,246649209,20123,2011,Male,Massachusetts,12257.08
+171,171,2835,2835,2835,Some College,Educational Services,401694490,29265,2011,Male,Massachusetts,13726.11
+172,172,2836,2836,2836,Advanced Degree,Educational Services,1034736526,58485,2011,Male,Massachusetts,17692.34
+173,173,2837,2837,2837,Unavalble,Educational Services,33234553,10530,2011,Male,Massachusetts,3156.18
+174,174,2838,2838,2838,All Education Categories,Educational Services,2014104269,190082,2011,Female,Massachusetts,10595.98
+175,175,2839,2839,2839,Less Than High School,Educational Services,75849759,8762,2011,Female,Massachusetts,8656.67
+176,176,2840,2840,2840,High School Graduate,Educational Services,273278733,31306,2011,Female,Massachusetts,8729.28
+177,177,2841,2841,2841,Some College,Educational Services,482899725,47648,2011,Female,Massachusetts,10134.73
+178,178,2842,2842,2842,Advanced Degree,Educational Services,1129824672,84176,2011,Female,Massachusetts,13422.17
+179,179,2843,2843,2843,Unavalble,Educational Services,52251380,18190,2011,Female,Massachusetts,2872.53
+180,180,2928,2928,2928,All Education Categories,Accommodation,115158609,13062,2011,Male,Massachusetts,8816.31
+181,181,2929,2929,2929,Less Than High School,Accommodation,18747021,2485,2011,Male,Massachusetts,7544.07
+182,182,2930,2930,2930,High School Graduate,Accommodation,28289363,3336,2011,Male,Massachusetts,8480.02
+183,183,2931,2931,2931,Some College,Accommodation,31871370,3270,2011,Male,Massachusetts,9746.6
+184,184,2932,2932,2932,Advanced Degree,Accommodation,29728798,2422,2011,Male,Massachusetts,12274.48
+185,185,2933,2933,2933,Unavalble,Accommodation,6522057,1548,2011,Male,Massachusetts,4213.22
+186,186,2934,2934,2934,All Education Categories,Accommodation,99398865,14929,2011,Female,Massachusetts,6658.11
+187,187,2935,2935,2935,Less Than High School,Accommodation,14126904,2526,2011,Female,Massachusetts,5592.6
+188,188,2936,2936,2936,High School Graduate,Accommodation,21919403,3552,2011,Female,Massachusetts,6171.0
+189,189,2937,2937,2937,Some College,Accommodation,27579867,3829,2011,Female,Massachusetts,7202.89
+190,190,2938,2938,2938,Advanced Degree,Accommodation,26570684,2837,2011,Female,Massachusetts,9365.77
+191,191,2939,2939,2939,Unavalble,Accommodation,9202007,2185,2011,Female,Massachusetts,4211.44
+192,192,3996,3996,3996,All Education Categories,Educational Services,2000460738,127169,2012,Male,Massachusetts,15730.73
+193,193,3997,3997,3997,Less Than High School,Educational Services,98041983,7757,2012,Male,Massachusetts,12639.16
+194,194,3998,3998,3998,High School Graduate,Educational Services,278568510,20727,2012,Male,Massachusetts,13439.89
+195,195,3999,3999,3999,Some College,Educational Services,453329223,29807,2012,Male,Massachusetts,15208.82
+196,196,4000,4000,4000,Advanced Degree,Educational Services,1133339083,58304,2012,Male,Massachusetts,19438.44
+197,197,4001,4001,4001,Unavalble,Educational Services,37181938,10574,2012,Male,Massachusetts,3516.36
+198,198,4002,4002,4002,All Education Categories,Educational Services,2253353650,190706,2012,Female,Massachusetts,11815.85
+199,199,4003,4003,4003,Less Than High School,Educational Services,91113180,9176,2012,Female,Massachusetts,9929.51
+200,200,4004,4004,4004,High School Graduate,Educational Services,312780211,31924,2012,Female,Massachusetts,9797.65
+201,201,4005,4005,4005,Some College,Educational Services,548045638,48499,2012,Female,Massachusetts,11300.14
+202,202,4006,4006,4006,Advanced Degree,Educational Services,1244252488,84212,2012,Female,Massachusetts,14775.24
+203,203,4007,4007,4007,Unavalble,Educational Services,57162134,16895,2012,Female,Massachusetts,3383.38
+204,204,4092,4092,4092,All Education Categories,Accommodation,118807789,13022,2012,Male,Massachusetts,9123.62
+205,205,4093,4093,4093,Less Than High School,Accommodation,19774825,2476,2012,Male,Massachusetts,7986.6
+206,206,4094,4094,4094,High School Graduate,Accommodation,30018883,3380,2012,Male,Massachusetts,8881.33
+207,207,4095,4095,4095,Some College,Accommodation,33257211,3289,2012,Male,Massachusetts,10111.65
+208,208,4096,4096,4096,Advanced Degree,Accommodation,29197816,2430,2012,Male,Massachusetts,12015.56
+209,209,4097,4097,4097,Unavalble,Accommodation,6559054,1448,2012,Male,Massachusetts,4529.73
+210,210,4098,4098,4098,All Education Categories,Accommodation,107220541,15113,2012,Female,Massachusetts,7094.59
+211,211,4099,4099,4099,Less Than High School,Accommodation,15553343,2562,2012,Female,Massachusetts,6070.78
+212,212,4100,4100,4100,High School Graduate,Accommodation,23764431,3614,2012,Female,Massachusetts,6575.66
+213,213,4101,4101,4101,Some College,Accommodation,29902780,3912,2012,Female,Massachusetts,7643.86
+214,214,4102,4102,4102,Advanced Degree,Accommodation,28471262,2921,2012,Female,Massachusetts,9747.09
+215,215,4103,4103,4103,Unavalble,Accommodation,9528726,2104,2012,Female,Massachusetts,4528.86
+216,216,10884,10884,10884,All Education Categories,"Colleges, Universities, and Professional Schools",897488286,56905,2011,Male,Massachusetts,15771.69
+217,217,10885,10885,10885,Less Than High School,"Colleges, Universities, and Professional Schools",40179700,3241,2011,Male,Massachusetts,12397.32
+218,218,10886,10886,10886,High School Graduate,"Colleges, Universities, and Professional Schools",106002093,7909,2011,Male,Massachusetts,13402.72
+219,219,10887,10887,10887,Some College,"Colleges, Universities, and Professional Schools",181796530,12163,2011,Male,Massachusetts,14946.69
+220,220,10888,10888,10888,Advanced Degree,"Colleges, Universities, and Professional Schools",553043890,27659,2011,Male,Massachusetts,19995.08
+221,221,10889,10889,10889,Unavalble,"Colleges, Universities, and Professional Schools",16466072,5933,2011,Male,Massachusetts,2775.34
+222,222,10890,10890,10890,All Education Categories,"Colleges, Universities, and Professional Schools",740395025,65557,2011,Female,Massachusetts,11293.91
+223,223,10891,10891,10891,Less Than High School,"Colleges, Universities, and Professional Schools",28921963,2889,2011,Female,Massachusetts,10011.06
+224,224,10892,10892,10892,High School Graduate,"Colleges, Universities, and Professional Schools",91150981,8721,2011,Female,Massachusetts,10451.9
+225,225,10893,10893,10893,Some College,"Colleges, Universities, and Professional Schools",169398832,14548,2011,Female,Massachusetts,11644.13
+226,226,10894,10894,10894,Advanced Degree,"Colleges, Universities, and Professional Schools",429685040,28776,2011,Female,Massachusetts,14932.06
+227,227,10895,10895,10895,Unavalble,"Colleges, Universities, and Professional Schools",21238209,10623,2011,Female,Massachusetts,1999.27
+228,228,14556,14556,14556,All Education Categories,"Colleges, Universities, and Professional Schools",969927687,57654,2012,Male,Massachusetts,16823.25
+229,229,14557,14557,14557,Less Than High School,"Colleges, Universities, and Professional Schools",44882686,3367,2012,Male,Massachusetts,13330.17
+230,230,14558,14558,14558,High School Graduate,"Colleges, Universities, and Professional Schools",118168143,8199,2012,Male,Massachusetts,14412.51
+231,231,14559,14559,14559,Some College,"Colleges, Universities, and Professional Schools",200308495,12443,2012,Male,Massachusetts,16098.09
+232,232,14560,14560,14560,Advanced Degree,"Colleges, Universities, and Professional Schools",588472393,27766,2012,Male,Massachusetts,21193.99
+233,233,14561,14561,14561,Unavalble,"Colleges, Universities, and Professional Schools",18095970,5879,2012,Male,Massachusetts,3078.07
+234,234,14562,14562,14562,All Education Categories,"Colleges, Universities, and Professional Schools",820060646,65618,2012,Female,Massachusetts,12497.5
+235,235,14563,14563,14563,Less Than High School,"Colleges, Universities, and Professional Schools",33301669,3057,2012,Female,Massachusetts,10893.58
+236,236,14564,14564,14564,High School Graduate,"Colleges, Universities, and Professional Schools",103258967,8986,2012,Female,Massachusetts,11491.09
+237,237,14565,14565,14565,Some College,"Colleges, Universities, and Professional Schools",190001360,14984,2012,Female,Massachusetts,12680.28
+238,238,14566,14566,14566,Advanced Degree,"Colleges, Universities, and Professional Schools",471111069,29345,2012,Female,Massachusetts,16054.22
+239,239,14567,14567,14567,Unavalble,"Colleges, Universities, and Professional Schools",22387581,9245,2012,Female,Massachusetts,2421.59

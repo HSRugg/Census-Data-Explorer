@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,0,All Education Categories,00,6491020387,672301,2004,Male,Oklahoma,9654.93
+1,1,1,1,1,Less Than High School,00,489800558,71892,2004,Male,Oklahoma,6813.01
+2,2,2,2,2,High School Graduate,00,1609403234,186318,2004,Male,Oklahoma,8637.94
+3,3,3,3,3,Some College,00,1835400161,178652,2004,Male,Oklahoma,10273.61
+4,4,4,4,4,Advanced Degree,00,2156889101,132075,2004,Male,Oklahoma,16330.79
+5,5,5,5,5,Unavalble,00,399527333,103365,2004,Male,Oklahoma,3865.21
+6,6,6,6,6,All Education Categories,00,4015541844,675627,2004,Female,Oklahoma,5943.43
+7,7,7,7,7,Less Than High School,00,224002270,53130,2004,Female,Oklahoma,4216.12
+8,8,8,8,8,High School Graduate,00,896738640,171741,2004,Female,Oklahoma,5221.46
+9,9,9,9,9,Some College,00,1276584779,200224,2004,Female,Oklahoma,6375.78
+10,10,10,10,10,Advanced Degree,00,1284492360,139354,2004,Female,Oklahoma,9217.48
+11,11,11,11,11,Unavalble,00,333723797,111177,2004,Female,Oklahoma,3001.73
+12,12,60,60,60,All Education Categories,Manufacturing,1116837025,106066,2004,Male,Oklahoma,10529.64
+13,13,61,61,61,Less Than High School,Manufacturing,110103106,13787,2004,Male,Oklahoma,7986.01
+14,14,62,62,62,High School Graduate,Manufacturing,358493895,36802,2004,Male,Oklahoma,9741.15
+15,15,63,63,63,Some College,Manufacturing,351632921,31122,2004,Male,Oklahoma,11298.53
+16,16,64,64,64,Advanced Degree,Manufacturing,242602432,14882,2004,Male,Oklahoma,16301.74
+17,17,65,65,65,Unavalble,Manufacturing,54004672,9475,2004,Male,Oklahoma,5699.7
+18,18,66,66,66,All Education Categories,Manufacturing,267829241,36925,2004,Female,Oklahoma,7253.33
+19,19,67,67,67,Less Than High School,Manufacturing,27887733,4867,2004,Female,Oklahoma,5729.96
+20,20,68,68,68,High School Graduate,Manufacturing,84944053,12624,2004,Female,Oklahoma,6728.77
+21,21,69,69,69,Some College,Manufacturing,85125963,11063,2004,Female,Oklahoma,7694.65
+22,22,70,70,70,Advanced Degree,Manufacturing,55807760,5207,2004,Female,Oklahoma,10717.83
+23,23,71,71,71,Unavalble,Manufacturing,14063732,3165,2004,Female,Oklahoma,4443.52
+24,24,84,84,84,All Education Categories,Retail Trade,550760901,81472,2004,Male,Oklahoma,6760.12
+25,25,85,85,85,Less Than High School,Retail Trade,49769411,8461,2004,Male,Oklahoma,5882.21
+26,26,86,86,86,High School Graduate,Retail Trade,162952623,22644,2004,Male,Oklahoma,7196.28
+27,27,87,87,87,Some College,Retail Trade,157340909,18699,2004,Male,Oklahoma,8414.4
+28,28,88,88,88,Advanced Degree,Retail Trade,107077675,8721,2004,Male,Oklahoma,12278.14
+29,29,89,89,89,Unavalble,Retail Trade,73620282,22947,2004,Male,Oklahoma,3208.27
+30,30,90,90,90,All Education Categories,Retail Trade,330754092,85992,2004,Female,Oklahoma,3846.34
+31,31,91,91,91,Less Than High School,Retail Trade,31886868,8820,2004,Female,Oklahoma,3615.29
+32,32,92,92,92,High School Graduate,Retail Trade,105970179,25636,2004,Female,Oklahoma,4133.65
+33,33,93,93,93,Some College,Retail Trade,89680538,19538,2004,Female,Oklahoma,4590.06
+34,34,94,94,94,Advanced Degree,Retail Trade,46378067,7558,2004,Female,Oklahoma,6136.29
+35,35,95,95,95,Unavalble,Retail Trade,56838440,24439,2004,Female,Oklahoma,2325.73
+36,36,120,120,120,All Education Categories,Finance and Insurance,272653096,16051,2004,Male,Oklahoma,16986.67
+37,37,121,121,121,Less Than High School,Finance and Insurance,6365093,685,2004,Male,Oklahoma,9292.11
+38,38,122,122,122,High School Graduate,Finance and Insurance,28989458,2594,2004,Male,Oklahoma,11175.58
+39,39,123,123,123,Some College,Finance and Insurance,57337300,3973,2004,Male,Oklahoma,14431.74
+40,40,124,124,124,Advanced Degree,Finance and Insurance,171306245,7145,2004,Male,Oklahoma,23975.68
+41,41,125,125,125,Unavalble,Finance and Insurance,8655000,1654,2004,Male,Oklahoma,5232.77
+42,42,126,126,126,All Education Categories,Finance and Insurance,300291458,39269,2004,Female,Oklahoma,7647.04
+43,43,127,127,127,Less Than High School,Finance and Insurance,8004220,1454,2004,Female,Oklahoma,5504.97
+44,44,128,128,128,High School Graduate,Finance and Insurance,58222163,9091,2004,Female,Oklahoma,6404.37
+45,45,129,129,129,Some College,Finance and Insurance,91180363,12205,2004,Female,Oklahoma,7470.74
+46,46,130,130,130,Advanced Degree,Finance and Insurance,118737810,11205,2004,Female,Oklahoma,10596.86
+47,47,131,131,131,Unavalble,Finance and Insurance,24146902,5314,2004,Female,Oklahoma,4544.02
+48,48,180,180,180,All Education Categories,Educational Services,402764980,46020,2004,Male,Oklahoma,8751.96
+49,49,181,181,181,Less Than High School,Educational Services,15596589,2814,2004,Male,Oklahoma,5542.5
+50,50,182,182,182,High School Graduate,Educational Services,67061815,9608,2004,Male,Oklahoma,6979.79
+51,51,183,183,183,Some College,Educational Services,96919511,11864,2004,Male,Oklahoma,8169.21
+52,52,184,184,184,Advanced Degree,Educational Services,215670613,18897,2004,Male,Oklahoma,11412.96
+53,53,185,185,185,Unavalble,Educational Services,7516451,2838,2004,Male,Oklahoma,2648.5
+54,54,186,186,186,All Education Categories,Educational Services,605935921,98217,2004,Female,Oklahoma,6169.36
+55,55,187,187,187,Less Than High School,Educational Services,16266163,4351,2004,Female,Oklahoma,3738.49
+56,56,188,188,188,High School Graduate,Educational Services,114511174,23338,2004,Female,Oklahoma,4906.64
+57,57,189,189,189,Some College,Educational Services,170762783,29062,2004,Female,Oklahoma,5875.81
+58,58,190,190,190,Advanced Degree,Educational Services,290183356,36669,2004,Female,Oklahoma,7913.59
+59,59,191,191,191,Unavalble,Educational Services,14212446,4798,2004,Female,Oklahoma,2962.16
+60,60,192,192,192,All Education Categories,Health Care and Social Assistance,439216414,35144,2004,Male,Oklahoma,12497.62
+61,61,193,193,193,Less Than High School,Health Care and Social Assistance,16668261,2764,2004,Male,Oklahoma,6030.49
+62,62,194,194,194,High School Graduate,Health Care and Social Assistance,61401689,7474,2004,Male,Oklahoma,8215.37
+63,63,195,195,195,Some College,Health Care and Social Assistance,112811597,10282,2004,Male,Oklahoma,10971.76
+64,64,196,196,196,Advanced Degree,Health Care and Social Assistance,234036869,10593,2004,Male,Oklahoma,22093.54
+65,65,197,197,197,Unavalble,Health Care and Social Assistance,14297999,4032,2004,Male,Oklahoma,3546.13
+66,66,198,198,198,All Education Categories,Health Care and Social Assistance,899930027,145417,2004,Female,Oklahoma,6188.62
+67,67,199,199,199,Less Than High School,Health Care and Social Assistance,45597953,10926,2004,Female,Oklahoma,4173.34
+68,68,200,200,200,High School Graduate,Health Care and Social Assistance,179172553,35047,2004,Female,Oklahoma,5112.35
+69,69,201,201,201,Some College,Health Care and Social Assistance,335481059,51893,2004,Female,Oklahoma,6464.86
+70,70,202,202,202,Advanced Degree,Health Care and Social Assistance,274552145,29594,2004,Female,Oklahoma,9277.29
+71,71,203,203,203,Unavalble,Health Care and Social Assistance,65126316,17957,2004,Female,Oklahoma,3626.79
+72,72,216,216,216,All Education Categories,Accommodation and Food Services,170298342,47025,2004,Male,Oklahoma,3621.44
+73,73,217,217,217,Less Than High School,Accommodation and Food Services,23210763,5847,2004,Male,Oklahoma,3969.69
+74,74,218,218,218,High School Graduate,Accommodation and Food Services,40293046,9020,2004,Male,Oklahoma,4467.08
+75,75,219,219,219,Some College,Accommodation and Food Services,35504523,7148,2004,Male,Oklahoma,4967.06
+76,76,220,220,220,Advanced Degree,Accommodation and Food Services,19735920,3275,2004,Male,Oklahoma,6026.24
+77,77,221,221,221,Unavalble,Accommodation and Food Services,51554090,21736,2004,Male,Oklahoma,2371.83
+78,78,222,222,222,All Education Categories,Accommodation and Food Services,167281394,60396,2004,Female,Oklahoma,2769.74
+79,79,223,223,223,Less Than High School,Accommodation and Food Services,20463615,6964,2004,Female,Oklahoma,2938.49
+80,80,224,224,224,High School Graduate,Accommodation and Food Services,38962338,12068,2004,Female,Oklahoma,3228.57
+81,81,225,225,225,Some College,Accommodation and Food Services,34475972,9761,2004,Female,Oklahoma,3532.01
+82,82,226,226,226,Advanced Degree,Accommodation and Food Services,15834042,3836,2004,Female,Oklahoma,4127.75
+83,83,227,227,227,Unavalble,Accommodation and Food Services,57545427,27768,2004,Female,Oklahoma,2072.36
+84,84,252,252,252,All Education Categories,00,6747776322,682412,2005,Male,Oklahoma,9888.13
+85,85,253,253,253,Less Than High School,00,510590248,73799,2005,Male,Oklahoma,6918.66
+86,86,254,254,254,High School Graduate,00,1671479034,189413,2005,Male,Oklahoma,8824.52
+87,87,255,255,255,Some College,00,1920097114,181447,2005,Male,Oklahoma,10582.14
+88,88,256,256,256,Advanced Degree,00,2234680460,132764,2005,Male,Oklahoma,16831.98
+89,89,257,257,257,Unavalble,00,410929467,104989,2005,Male,Oklahoma,3914.02
+90,90,258,258,258,All Education Categories,00,4127927300,688662,2005,Female,Oklahoma,5994.13
+91,91,259,259,259,Less Than High School,00,231277323,54751,2005,Female,Oklahoma,4224.17
+92,92,260,260,260,High School Graduate,00,916985562,174308,2005,Female,Oklahoma,5260.72
+93,93,261,261,261,Some College,00,1316822616,204503,2005,Female,Oklahoma,6439.14
+94,94,262,262,262,Advanced Degree,00,1326229129,142726,2005,Female,Oklahoma,9292.13
+95,95,263,263,263,Unavalble,00,336612670,112374,2005,Female,Oklahoma,2995.47
+96,96,312,312,312,All Education Categories,Manufacturing,1123807932,107031,2005,Male,Oklahoma,10499.84
+97,97,313,313,313,Less Than High School,Manufacturing,112029961,14191,2005,Male,Oklahoma,7894.44
+98,98,314,314,314,High School Graduate,Manufacturing,360952405,36988,2005,Male,Oklahoma,9758.64
+99,99,315,315,315,Some College,Manufacturing,351578957,31219,2005,Male,Oklahoma,11261.7
+100,100,316,316,316,Advanced Degree,Manufacturing,240398250,14444,2005,Male,Oklahoma,16643.47
+101,101,317,317,317,Unavalble,Manufacturing,58848359,10190,2005,Male,Oklahoma,5775.11
+102,102,318,318,318,All Education Categories,Manufacturing,259923720,36665,2005,Female,Oklahoma,7089.15
+103,103,319,319,319,Less Than High School,Manufacturing,27544257,5048,2005,Female,Oklahoma,5456.47
+104,104,320,320,320,High School Graduate,Manufacturing,82264646,12455,2005,Female,Oklahoma,6604.95
+105,105,321,321,321,Some College,Manufacturing,82714007,10912,2005,Female,Oklahoma,7580.1
+106,106,322,322,322,Advanced Degree,Manufacturing,53393655,5034,2005,Female,Oklahoma,10606.61
+107,107,323,323,323,Unavalble,Manufacturing,14007156,3216,2005,Female,Oklahoma,4355.46
+108,108,336,336,336,All Education Categories,Retail Trade,535170662,78427,2005,Male,Oklahoma,6823.81
+109,109,337,337,337,Less Than High School,Retail Trade,48574548,8288,2005,Male,Oklahoma,5860.83
+110,110,338,338,338,High School Graduate,Retail Trade,158823263,22083,2005,Male,Oklahoma,7192.11
+111,111,339,339,339,Some College,Retail Trade,154370039,18085,2005,Male,Oklahoma,8535.81
+112,112,340,340,340,Advanced Degree,Retail Trade,104576131,8308,2005,Male,Oklahoma,12587.4
+113,113,341,341,341,Unavalble,Retail Trade,68826681,21663,2005,Male,Oklahoma,3177.15
+114,114,342,342,342,All Education Categories,Retail Trade,322625497,83266,2005,Female,Oklahoma,3874.64
+115,115,343,343,343,Less Than High School,Retail Trade,31410285,8645,2005,Female,Oklahoma,3633.35
+116,116,344,344,344,High School Graduate,Retail Trade,103340323,24815,2005,Female,Oklahoma,4164.43
+117,117,345,345,345,Some College,Retail Trade,87567711,19038,2005,Female,Oklahoma,4599.63
+118,118,346,346,346,Advanced Degree,Retail Trade,46225323,7279,2005,Female,Oklahoma,6350.5
+119,119,347,347,347,Unavalble,Retail Trade,54081854,23489,2005,Female,Oklahoma,2302.43
+120,120,372,372,372,All Education Categories,Finance and Insurance,285391703,16441,2005,Male,Oklahoma,17358.54
+121,121,373,373,373,Less Than High School,Finance and Insurance,6419491,711,2005,Male,Oklahoma,9028.82
+122,122,374,374,374,High School Graduate,Finance and Insurance,30087718,2648,2005,Male,Oklahoma,11362.43
+123,123,375,375,375,Some College,Finance and Insurance,60254583,4094,2005,Male,Oklahoma,14717.78
+124,124,376,376,376,Advanced Degree,Finance and Insurance,180224942,7362,2005,Male,Oklahoma,24480.43
+125,125,377,377,377,Unavalble,Finance and Insurance,8404969,1626,2005,Male,Oklahoma,5169.11
+126,126,378,378,378,All Education Categories,Finance and Insurance,302981346,38598,2005,Female,Oklahoma,7849.66
+127,127,379,379,379,Less Than High School,Finance and Insurance,7878125,1401,2005,Female,Oklahoma,5623.22
+128,128,380,380,380,High School Graduate,Finance and Insurance,58314678,8987,2005,Female,Oklahoma,6488.78
+129,129,381,381,381,Some College,Finance and Insurance,91776814,11979,2005,Female,Oklahoma,7661.48
+130,130,382,382,382,Advanced Degree,Finance and Insurance,121882011,11119,2005,Female,Oklahoma,10961.6
+131,131,383,383,383,Unavalble,Finance and Insurance,23129718,5113,2005,Female,Oklahoma,4523.71
+132,132,432,432,432,All Education Categories,Educational Services,410336928,49017,2005,Male,Oklahoma,8371.32
+133,133,433,433,433,Less Than High School,Educational Services,16699014,3040,2005,Male,Oklahoma,5493.1
+134,134,434,434,434,High School Graduate,Educational Services,70216253,10270,2005,Male,Oklahoma,6837.03
+135,135,435,435,435,Some College,Educational Services,101526527,12776,2005,Male,Oklahoma,7946.66
+136,136,436,436,436,Advanced Degree,Educational Services,213513584,19646,2005,Male,Oklahoma,10868.04
+137,137,437,437,437,Unavalble,Educational Services,8381549,3285,2005,Male,Oklahoma,2551.46
+138,138,438,438,438,All Education Categories,Educational Services,653428388,107345,2005,Female,Oklahoma,6087.18
+139,139,439,439,439,Less Than High School,Educational Services,18481765,4924,2005,Female,Oklahoma,3753.4
+140,140,440,440,440,High School Graduate,Educational Services,123336359,25212,2005,Female,Oklahoma,4891.97
+141,141,441,441,441,Some College,Educational Services,185764950,31796,2005,Female,Oklahoma,5842.4
+142,142,442,442,442,Advanced Degree,Educational Services,308375709,39656,2005,Female,Oklahoma,7776.27
+143,143,443,443,443,Unavalble,Educational Services,17469604,5756,2005,Female,Oklahoma,3035.03
+144,144,444,444,444,All Education Categories,Health Care and Social Assistance,451390297,34601,2005,Male,Oklahoma,13045.59
+145,145,445,445,445,Less Than High School,Health Care and Social Assistance,17207359,2765,2005,Male,Oklahoma,6223.28
+146,146,446,446,446,High School Graduate,Health Care and Social Assistance,63022555,7420,2005,Male,Oklahoma,8493.61
+147,147,447,447,447,Some College,Health Care and Social Assistance,115708627,10152,2005,Male,Oklahoma,11397.62
+148,148,448,448,448,Advanced Degree,Health Care and Social Assistance,241285368,10462,2005,Male,Oklahoma,23063.03
+149,149,449,449,449,Unavalble,Health Care and Social Assistance,14166387,3802,2005,Male,Oklahoma,3726.04
+150,150,450,450,450,All Education Categories,Health Care and Social Assistance,908401837,142550,2005,Female,Oklahoma,6372.51
+151,151,451,451,451,Less Than High School,Health Care and Social Assistance,46118279,10831,2005,Female,Oklahoma,4257.99
+152,152,452,452,452,High School Graduate,Health Care and Social Assistance,180721451,34416,2005,Female,Oklahoma,5251.09
+153,153,453,453,453,Some College,Health Care and Social Assistance,339651214,51218,2005,Female,Oklahoma,6631.48
+154,154,454,454,454,Advanced Degree,Health Care and Social Assistance,278738871,29056,2005,Female,Oklahoma,9593.16
+155,155,455,455,455,Unavalble,Health Care and Social Assistance,63172023,17029,2005,Female,Oklahoma,3709.67
+156,156,468,468,468,All Education Categories,Accommodation and Food Services,168044810,48849,2005,Male,Oklahoma,3440.09
+157,157,469,469,469,Less Than High School,Accommodation and Food Services,22768719,6113,2005,Male,Oklahoma,3724.64
+158,158,470,470,470,High School Graduate,Accommodation and Food Services,39905224,9490,2005,Male,Oklahoma,4204.98
+159,159,471,471,471,Some College,Accommodation and Food Services,35524865,7468,2005,Male,Oklahoma,4756.94
+160,160,472,472,472,Advanced Degree,Accommodation and Food Services,19393430,3351,2005,Male,Oklahoma,5787.36
+161,161,473,473,473,Unavalble,Accommodation and Food Services,50452573,22427,2005,Male,Oklahoma,2249.64
+162,162,474,474,474,All Education Categories,Accommodation and Food Services,168389865,62906,2005,Female,Oklahoma,2676.85
+163,163,475,475,475,Less Than High School,Accommodation and Food Services,20611502,7245,2005,Female,Oklahoma,2844.93
+164,164,476,476,476,High School Graduate,Accommodation and Food Services,38813849,12412,2005,Female,Oklahoma,3127.12
+165,165,477,477,477,Some College,Accommodation and Food Services,34683711,10162,2005,Female,Oklahoma,3413.08
+166,166,478,478,478,Advanced Degree,Accommodation and Food Services,15632707,3972,2005,Female,Oklahoma,3935.73
+167,167,479,479,479,Unavalble,Accommodation and Food Services,58648095,29116,2005,Female,Oklahoma,2014.29
+168,168,504,504,504,All Education Categories,00,7837316471,715307,2006,Male,Oklahoma,10956.58
+169,169,505,505,505,Less Than High School,00,601410881,78497,2006,Male,Oklahoma,7661.58
+170,170,506,506,506,High School Graduate,00,1947133983,199254,2006,Male,Oklahoma,9772.12
+171,171,507,507,507,Some College,00,2225358842,190874,2006,Male,Oklahoma,11658.78
+172,172,508,508,508,Advanced Degree,00,2574707087,136489,2006,Male,Oklahoma,18863.84
+173,173,509,509,509,Unavalble,00,488705677,110193,2006,Male,Oklahoma,4435.0
+174,174,510,510,510,All Education Categories,00,4555936491,709979,2006,Female,Oklahoma,6417.0
+175,175,511,511,511,Less Than High School,00,260816323,57311,2006,Female,Oklahoma,4550.89
+176,176,512,512,512,High School Graduate,00,1012287989,179517,2006,Female,Oklahoma,5638.95
+177,177,513,513,513,Some College,00,1458001797,211812,2006,Female,Oklahoma,6883.47
+178,178,514,514,514,Advanced Degree,00,1450920115,145647,2006,Female,Oklahoma,9961.89
+179,179,515,515,515,Unavalble,00,373910266,115692,2006,Female,Oklahoma,3231.95
+180,180,564,564,564,All Education Categories,Manufacturing,1306484856,112722,2006,Male,Oklahoma,11590.33
+181,181,565,565,565,Less Than High School,Manufacturing,131163567,14983,2006,Male,Oklahoma,8754.16
+182,182,566,566,566,High School Graduate,Manufacturing,416375897,38609,2006,Male,Oklahoma,10784.43
+183,183,567,567,567,Some College,Manufacturing,408379406,32877,2006,Male,Oklahoma,12421.43
+184,184,568,568,568,Advanced Degree,Manufacturing,279686040,15290,2006,Male,Oklahoma,18292.09
+185,185,569,569,569,Unavalble,Manufacturing,70879946,10965,2006,Male,Oklahoma,6464.2
+186,186,570,570,570,All Education Categories,Manufacturing,291242604,37230,2006,Female,Oklahoma,7822.79
+187,187,571,571,571,Less Than High School,Manufacturing,30781923,5098,2006,Female,Oklahoma,6038.04
+188,188,572,572,572,High School Graduate,Manufacturing,90254877,12449,2006,Female,Oklahoma,7249.97
+189,189,573,573,573,Some College,Manufacturing,93223640,11143,2006,Female,Oklahoma,8366.12
+190,190,574,574,574,Advanced Degree,Manufacturing,60910216,5251,2006,Female,Oklahoma,11599.74
+191,191,575,575,575,Unavalble,Manufacturing,16071948,3287,2006,Female,Oklahoma,4889.55
+192,192,588,588,588,All Education Categories,Retail Trade,581717257,80423,2006,Male,Oklahoma,7233.22
+193,193,589,589,589,Less Than High School,Retail Trade,52717847,8477,2006,Male,Oklahoma,6218.93
+194,194,590,590,590,High School Graduate,Retail Trade,170985429,22300,2006,Male,Oklahoma,7667.51
+195,195,591,591,591,Some College,Retail Trade,169171447,18462,2006,Male,Oklahoma,9163.22
+196,196,592,592,592,Advanced Degree,Retail Trade,114170759,8398,2006,Male,Oklahoma,13594.99
+197,197,593,593,593,Unavalble,Retail Trade,74671774,22785,2006,Male,Oklahoma,3277.23
+198,198,594,594,594,All Education Categories,Retail Trade,355434500,86728,2006,Female,Oklahoma,4098.27
+199,199,595,595,595,Less Than High School,Retail Trade,34388902,8990,2006,Female,Oklahoma,3825.24
+200,200,596,596,596,High School Graduate,Retail Trade,112035456,25546,2006,Female,Oklahoma,4385.64
+201,201,597,597,597,Some College,Retail Trade,96905933,19818,2006,Female,Oklahoma,4889.79
+202,202,598,598,598,Advanced Degree,Retail Trade,51616840,7587,2006,Female,Oklahoma,6803.33
+203,203,599,599,599,Unavalble,Retail Trade,60487369,24787,2006,Female,Oklahoma,2440.29
+204,204,624,624,624,All Education Categories,Finance and Insurance,336153124,17034,2006,Male,Oklahoma,19734.24
+205,205,625,625,625,Less Than High School,Finance and Insurance,7438637,754,2006,Male,Oklahoma,9865.57
+206,206,626,626,626,High School Graduate,Finance and Insurance,35330077,2800,2006,Male,Oklahoma,12617.88
+207,207,627,627,627,Some College,Finance and Insurance,68728682,4254,2006,Male,Oklahoma,16156.25
+208,208,628,628,628,Advanced Degree,Finance and Insurance,215329481,7501,2006,Male,Oklahoma,28706.77
+209,209,629,629,629,Unavalble,Finance and Insurance,9326247,1725,2006,Male,Oklahoma,5406.52
+210,210,630,630,630,All Education Categories,Finance and Insurance,333540867,39762,2006,Female,Oklahoma,8388.43
+211,211,631,631,631,Less Than High School,Finance and Insurance,8925161,1507,2006,Female,Oklahoma,5922.47
+212,212,632,632,632,High School Graduate,Finance and Insurance,63652452,9177,2006,Female,Oklahoma,6936.08
+213,213,633,633,633,Some College,Finance and Insurance,101395334,12353,2006,Female,Oklahoma,8208.15
+214,214,634,634,634,Advanced Degree,Finance and Insurance,133873967,11363,2006,Female,Oklahoma,11781.57
+215,215,635,635,635,Unavalble,Finance and Insurance,25693951,5361,2006,Female,Oklahoma,4792.75
+216,216,684,684,684,All Education Categories,Educational Services,445501403,48529,2006,Male,Oklahoma,9180.11
+217,217,685,685,685,Less Than High School,Educational Services,18063356,3043,2006,Male,Oklahoma,5936.04
+218,218,686,686,686,High School Graduate,Educational Services,76113403,10357,2006,Male,Oklahoma,7348.98
+219,219,687,687,687,Some College,Educational Services,110719564,12825,2006,Male,Oklahoma,8633.1
+220,220,688,688,688,Advanced Degree,Educational Services,231553214,19284,2006,Male,Oklahoma,12007.53
+221,221,689,689,689,Unavalble,Educational Services,9051865,3020,2006,Male,Oklahoma,2997.31
+222,222,690,690,690,All Education Categories,Educational Services,703814530,108693,2006,Female,Oklahoma,6475.25
+223,223,691,691,691,Less Than High School,Educational Services,20448688,5104,2006,Female,Oklahoma,4006.4
+224,224,692,692,692,High School Graduate,Educational Services,133204337,25609,2006,Female,Oklahoma,5201.47
+225,225,693,693,693,Some College,Educational Services,201904624,32580,2006,Female,Oklahoma,6197.2
+226,226,694,694,694,Advanced Degree,Educational Services,328982940,39757,2006,Female,Oklahoma,8274.84
+227,227,695,695,695,Unavalble,Educational Services,19273942,5643,2006,Female,Oklahoma,3415.55
+228,228,696,696,696,All Education Categories,Health Care and Social Assistance,483942170,36115,2006,Male,Oklahoma,13400.03
+229,229,697,697,697,Less Than High School,Health Care and Social Assistance,18720161,2909,2006,Male,Oklahoma,6435.26
+230,230,698,698,698,High School Graduate,Health Care and Social Assistance,68242520,7861,2006,Male,Oklahoma,8681.15
+231,231,699,699,699,Some College,Health Care and Social Assistance,124552313,10620,2006,Male,Oklahoma,11728.09
+232,232,700,700,700,Advanced Degree,Health Care and Social Assistance,256813541,10782,2006,Male,Oklahoma,23818.73
+233,233,701,701,701,Unavalble,Health Care and Social Assistance,15613635,3942,2006,Male,Oklahoma,3960.84
+234,234,702,702,702,All Education Categories,Health Care and Social Assistance,993536612,148243,2006,Female,Oklahoma,6702.08
+235,235,703,703,703,Less Than High School,Health Care and Social Assistance,50999339,11255,2006,Female,Oklahoma,4531.26
+236,236,704,704,704,High School Graduate,Health Care and Social Assistance,197890521,35772,2006,Female,Oklahoma,5531.99
+237,237,705,705,705,Some College,Health Care and Social Assistance,373135215,53493,2006,Female,Oklahoma,6975.4
+238,238,706,706,706,Advanced Degree,Health Care and Social Assistance,303513623,30115,2006,Female,Oklahoma,10078.49
+239,239,707,707,707,Unavalble,Health Care and Social Assistance,67997913,17608,2006,Female,Oklahoma,3861.76
+240,240,720,720,720,All Education Categories,Accommodation and Food Services,184019415,49351,2006,Male,Oklahoma,3728.79
+241,241,721,721,721,Less Than High School,Accommodation and Food Services,25333513,6280,2006,Male,Oklahoma,4034.0
+242,242,722,722,722,High School Graduate,Accommodation and Food Services,44567436,9807,2006,Male,Oklahoma,4544.45
+243,243,723,723,723,Some College,Accommodation and Food Services,38793464,7652,2006,Male,Oklahoma,5069.72
+244,244,724,724,724,Advanced Degree,Accommodation and Food Services,20992500,3395,2006,Male,Oklahoma,6183.36
+245,245,725,725,725,Unavalble,Accommodation and Food Services,54332502,22216,2006,Male,Oklahoma,2445.65
+246,246,726,726,726,All Education Categories,Accommodation and Food Services,186588851,64324,2006,Female,Oklahoma,2900.77
+247,247,727,727,727,Less Than High School,Accommodation and Food Services,23206578,7512,2006,Female,Oklahoma,3089.27
+248,248,728,728,728,High School Graduate,Accommodation and Food Services,43033904,12706,2006,Female,Oklahoma,3386.9
+249,249,729,729,729,Some College,Accommodation and Food Services,38519187,10485,2006,Female,Oklahoma,3673.74
+250,250,730,730,730,Advanced Degree,Accommodation and Food Services,17590701,4157,2006,Female,Oklahoma,4231.59
+251,251,731,731,731,Unavalble,Accommodation and Food Services,64238481,29465,2006,Female,Oklahoma,2180.16
+252,252,756,756,756,All Education Categories,00,8194439178,722383,2007,Male,Oklahoma,11343.62
+253,253,757,757,757,Less Than High School,00,638661416,80816,2007,Male,Oklahoma,7902.66
+254,254,758,758,758,High School Graduate,00,2039481033,202574,2007,Male,Oklahoma,10067.83
+255,255,759,759,759,Some College,00,2332869461,193382,2007,Male,Oklahoma,12063.53
+256,256,760,760,760,Advanced Degree,00,2675619757,136159,2007,Male,Oklahoma,19650.7
+257,257,761,761,761,Unavalble,00,507807511,109452,2007,Male,Oklahoma,4639.55
+258,258,762,762,762,All Education Categories,00,4816437248,718854,2007,Female,Oklahoma,6700.16
+259,259,763,763,763,Less Than High School,00,281272112,59467,2007,Female,Oklahoma,4729.89
+260,260,764,764,764,High School Graduate,00,1073869520,182281,2007,Female,Oklahoma,5891.29
+261,261,765,765,765,Some College,00,1550479740,215732,2007,Female,Oklahoma,7187.06
+262,262,766,766,766,Advanced Degree,00,1527388847,146026,2007,Female,Oklahoma,10459.7
+263,263,767,767,767,Unavalble,00,383427030,115349,2007,Female,Oklahoma,3324.06
+264,264,816,816,816,All Education Categories,Manufacturing,1358465607,113155,2007,Male,Oklahoma,12005.35
+265,265,817,817,817,Less Than High School,Manufacturing,138577569,15296,2007,Male,Oklahoma,9059.73
+266,266,818,818,818,High School Graduate,Manufacturing,431904213,38602,2007,Male,Oklahoma,11188.65
+267,267,819,819,819,Some College,Manufacturing,422890158,32708,2007,Male,Oklahoma,12929.26
+268,268,820,820,820,Advanced Degree,Manufacturing,287304264,15073,2007,Male,Oklahoma,19060.85
+269,269,821,821,821,Unavalble,Manufacturing,77789403,11478,2007,Male,Oklahoma,6777.26
+270,270,822,822,822,All Education Categories,Manufacturing,295875015,37194,2007,Female,Oklahoma,7954.91
+271,271,823,823,823,Less Than High School,Manufacturing,31727730,5207,2007,Female,Oklahoma,6093.28
+272,272,824,824,824,High School Graduate,Manufacturing,90540359,12319,2007,Female,Oklahoma,7349.65
+273,273,825,825,825,Some College,Manufacturing,94446508,11121,2007,Female,Oklahoma,8492.63
+274,274,826,826,826,Advanced Degree,Manufacturing,62242787,5174,2007,Female,Oklahoma,12029.92
+275,275,827,827,827,Unavalble,Manufacturing,16917630,3373,2007,Female,Oklahoma,5015.6
+276,276,840,840,840,All Education Categories,Retail Trade,589698883,79389,2007,Male,Oklahoma,7427.97
+277,277,841,841,841,Less Than High School,Retail Trade,55048645,8577,2007,Male,Oklahoma,6418.17
+278,278,842,842,842,High School Graduate,Retail Trade,175444166,22124,2007,Male,Oklahoma,7930.04
+279,279,843,843,843,Some College,Retail Trade,169972515,18218,2007,Male,Oklahoma,9329.92
+280,280,844,844,844,Advanced Degree,Retail Trade,114887990,8271,2007,Male,Oklahoma,13890.46
+281,281,845,845,845,Unavalble,Retail Trade,74345566,22199,2007,Male,Oklahoma,3349.05
+282,282,846,846,846,All Education Categories,Retail Trade,370896649,86168,2007,Female,Oklahoma,4304.34
+283,283,847,847,847,Less Than High School,Retail Trade,36818587,9079,2007,Female,Oklahoma,4055.36
+284,284,848,848,848,High School Graduate,Retail Trade,117811341,25261,2007,Female,Oklahoma,4663.76
+285,285,849,849,849,Some College,Retail Trade,102283626,19785,2007,Female,Oklahoma,5169.76
+286,286,850,850,850,Advanced Degree,Retail Trade,53065646,7504,2007,Female,Oklahoma,7071.65
+287,287,851,851,851,Unavalble,Retail Trade,60917449,24539,2007,Female,Oklahoma,2482.47
+288,288,876,876,876,All Education Categories,Finance and Insurance,322952293,16854,2007,Male,Oklahoma,19161.76
+289,289,877,877,877,Less Than High School,Finance and Insurance,7541799,810,2007,Male,Oklahoma,9310.86
+290,290,878,878,878,High School Graduate,Finance and Insurance,35802160,2873,2007,Male,Oklahoma,12461.59
+291,291,879,879,879,Some College,Finance and Insurance,69364929,4277,2007,Male,Oklahoma,16218.13
+292,292,880,880,880,Advanced Degree,Finance and Insurance,200198281,7167,2007,Male,Oklahoma,27933.34
+293,293,881,881,881,Unavalble,Finance and Insurance,10045123,1728,2007,Male,Oklahoma,5813.15
+294,294,882,882,882,All Education Categories,Finance and Insurance,321005672,37884,2007,Female,Oklahoma,8473.38
+295,295,883,883,883,Less Than High School,Finance and Insurance,9524303,1577,2007,Female,Oklahoma,6039.51
+296,296,884,884,884,High School Graduate,Finance and Insurance,62537218,8808,2007,Female,Oklahoma,7100.05
+297,297,885,885,885,Some College,Finance and Insurance,98365268,11784,2007,Female,Oklahoma,8347.36
+298,298,886,886,886,Advanced Degree,Finance and Insurance,124964169,10412,2007,Female,Oklahoma,12001.94
+299,299,887,887,887,Unavalble,Finance and Insurance,25614714,5302,2007,Female,Oklahoma,4831.14
+300,300,936,936,936,All Education Categories,Educational Services,473659414,48287,2007,Male,Oklahoma,9809.25
+301,301,937,937,937,Less Than High School,Educational Services,19555944,3090,2007,Male,Oklahoma,6328.78
+302,302,938,938,938,High School Graduate,Educational Services,81295770,10412,2007,Male,Oklahoma,7807.89
+303,303,939,939,939,Some College,Educational Services,118287651,12886,2007,Male,Oklahoma,9179.55
+304,304,940,940,940,Advanced Degree,Educational Services,245402538,19051,2007,Male,Oklahoma,12881.35
+305,305,941,941,941,Unavalble,Educational Services,9117512,2848,2007,Male,Oklahoma,3201.37
+306,306,942,942,942,All Education Categories,Educational Services,750471448,107428,2007,Female,Oklahoma,6985.81
+307,307,943,943,943,Less Than High School,Educational Services,22666199,5203,2007,Female,Oklahoma,4356.37
+308,308,944,944,944,High School Graduate,Educational Services,142867560,25417,2007,Female,Oklahoma,5620.95
+309,309,945,945,945,Some College,Educational Services,217588790,32536,2007,Female,Oklahoma,6687.63
+310,310,946,946,946,Advanced Degree,Educational Services,348162718,39020,2007,Female,Oklahoma,8922.67
+311,311,947,947,947,Unavalble,Educational Services,19186180,5252,2007,Female,Oklahoma,3653.12
+312,312,948,948,948,All Education Categories,Health Care and Social Assistance,518223055,36689,2007,Male,Oklahoma,14124.75
+313,313,949,949,949,Less Than High School,Health Care and Social Assistance,20131881,3028,2007,Male,Oklahoma,6648.57
+314,314,950,950,950,High School Graduate,Health Care and Social Assistance,73307614,8108,2007,Male,Oklahoma,9041.39
+315,315,951,951,951,Some College,Health Care and Social Assistance,132820302,10810,2007,Male,Oklahoma,12286.8
+316,316,952,952,952,Advanced Degree,Health Care and Social Assistance,276386777,10877,2007,Male,Oklahoma,25410.2
+317,317,953,953,953,Unavalble,Health Care and Social Assistance,15576482,3866,2007,Male,Oklahoma,4029.1
+318,318,954,954,954,All Education Categories,Health Care and Social Assistance,1051143246,152238,2007,Female,Oklahoma,6904.6
+319,319,955,955,955,Less Than High School,Health Care and Social Assistance,54695342,11734,2007,Female,Oklahoma,4661.27
+320,320,956,956,956,High School Graduate,Health Care and Social Assistance,211177224,36987,2007,Female,Oklahoma,5709.5
+321,321,957,957,957,Some College,Health Care and Social Assistance,394694913,54918,2007,Female,Oklahoma,7186.99
+322,322,958,958,958,Advanced Degree,Health Care and Social Assistance,320880539,30787,2007,Female,Oklahoma,10422.6
+323,323,959,959,959,Unavalble,Health Care and Social Assistance,69695229,17813,2007,Female,Oklahoma,3912.6
+324,324,972,972,972,All Education Categories,Accommodation and Food Services,186465196,49939,2007,Male,Oklahoma,3733.86
+325,325,973,973,973,Less Than High School,Accommodation and Food Services,26126605,6522,2007,Male,Oklahoma,4005.92
+326,326,974,974,974,High School Graduate,Accommodation and Food Services,45764007,10074,2007,Male,Oklahoma,4542.78
+327,327,975,975,975,Some College,Accommodation and Food Services,40043305,7912,2007,Male,Oklahoma,5061.09
+328,328,976,976,976,Advanced Degree,Accommodation and Food Services,21648544,3451,2007,Male,Oklahoma,6273.12
+329,329,977,977,977,Unavalble,Accommodation and Food Services,52882735,21980,2007,Male,Oklahoma,2405.95
+330,330,978,978,978,All Education Categories,Accommodation and Food Services,190117669,65394,2007,Female,Oklahoma,2907.26
+331,331,979,979,979,Less Than High School,Accommodation and Food Services,24203422,7899,2007,Female,Oklahoma,3064.11
+332,332,980,980,980,High School Graduate,Accommodation and Food Services,44613509,13174,2007,Female,Oklahoma,3386.48
+333,333,981,981,981,Some College,Accommodation and Food Services,39907686,10913,2007,Female,Oklahoma,3656.89
+334,334,982,982,982,Advanced Degree,Accommodation and Food Services,18230131,4360,2007,Female,Oklahoma,4181.22
+335,335,983,983,983,Unavalble,Accommodation and Food Services,63162922,29047,2007,Female,Oklahoma,2174.51
+336,336,1008,1008,1008,All Education Categories,00,8795380423,744859,2008,Male,Oklahoma,11808.11
+337,337,1009,1009,1009,Less Than High School,00,717695677,85912,2008,Male,Oklahoma,8353.85
+338,338,1010,1010,1010,High School Graduate,00,2227146992,210666,2008,Male,Oklahoma,10571.93
+339,339,1011,1011,1011,Some College,00,2512716859,200293,2008,Male,Oklahoma,12545.21
+340,340,1012,1012,1012,Advanced Degree,00,2794317065,137222,2008,Male,Oklahoma,20363.48
+341,341,1013,1013,1013,Unavalble,00,543503830,110766,2008,Male,Oklahoma,4906.77
+342,342,1014,1014,1014,All Education Categories,00,5199689273,740235,2008,Female,Oklahoma,7024.38
+343,343,1015,1015,1015,Less Than High School,00,319127336,63712,2008,Female,Oklahoma,5008.9
+344,344,1016,1016,1016,High School Graduate,00,1165820171,188830,2008,Female,Oklahoma,6173.91
+345,345,1017,1017,1017,Some College,00,1680935710,223264,2008,Female,Oklahoma,7528.92
+346,346,1018,1018,1018,Advanced Degree,00,1624513501,147980,2008,Female,Oklahoma,10977.93
+347,347,1019,1019,1019,Unavalble,00,409292556,116449,2008,Female,Oklahoma,3514.78
+348,348,1068,1068,1068,All Education Categories,Manufacturing,1418953441,115285,2008,Male,Oklahoma,12308.22
+349,349,1069,1069,1069,Less Than High School,Manufacturing,149966852,15995,2008,Male,Oklahoma,9375.86
+350,350,1070,1070,1070,High School Graduate,Manufacturing,451316102,39231,2008,Male,Oklahoma,11504.07
+351,351,1071,1071,1071,Some College,Manufacturing,441560847,33441,2008,Male,Oklahoma,13204.18
+352,352,1072,1072,1072,Advanced Degree,Manufacturing,296373427,15459,2008,Male,Oklahoma,19171.58
+353,353,1073,1073,1073,Unavalble,Manufacturing,79736213,11159,2008,Male,Oklahoma,7145.46
+354,354,1074,1074,1074,All Education Categories,Manufacturing,313610703,37885,2008,Female,Oklahoma,8277.96
+355,355,1075,1075,1075,Less Than High School,Manufacturing,35108972,5456,2008,Female,Oklahoma,6434.93
+356,356,1076,1076,1076,High School Graduate,Manufacturing,95601703,12433,2008,Female,Oklahoma,7689.35
+357,357,1077,1077,1077,Some College,Manufacturing,99568024,11355,2008,Female,Oklahoma,8768.65
+358,358,1078,1078,1078,Advanced Degree,Manufacturing,65433377,5313,2008,Female,Oklahoma,12315.71
+359,359,1079,1079,1079,Unavalble,Manufacturing,17898626,3327,2008,Female,Oklahoma,5379.81
+360,360,1092,1092,1092,All Education Categories,Retail Trade,617882190,79993,2008,Male,Oklahoma,7724.2
+361,361,1093,1093,1093,Less Than High School,Retail Trade,59073920,8925,2008,Male,Oklahoma,6618.93
+362,362,1094,1094,1094,High School Graduate,Retail Trade,184744017,22580,2008,Male,Oklahoma,8181.75
+363,363,1095,1095,1095,Some College,Retail Trade,179870183,18702,2008,Male,Oklahoma,9617.7
+364,364,1096,1096,1096,Advanced Degree,Retail Trade,118134373,8471,2008,Male,Oklahoma,13945.74
+365,365,1097,1097,1097,Unavalble,Retail Trade,76059698,21316,2008,Male,Oklahoma,3568.2
+366,366,1098,1098,1098,All Education Categories,Retail Trade,395209911,88084,2008,Female,Oklahoma,4486.74
+367,367,1099,1099,1099,Less Than High School,Retail Trade,39965595,9488,2008,Female,Oklahoma,4212.23
+368,368,1100,1100,1100,High School Graduate,Retail Trade,124066168,25957,2008,Female,Oklahoma,4779.68
+369,369,1101,1101,1101,Some College,Retail Trade,109695325,20637,2008,Female,Oklahoma,5315.47
+370,370,1102,1102,1102,Advanced Degree,Retail Trade,56969577,7972,2008,Female,Oklahoma,7146.21
+371,371,1103,1103,1103,Unavalble,Retail Trade,64513247,24030,2008,Female,Oklahoma,2684.7
+372,372,1128,1128,1128,All Education Categories,Finance and Insurance,365776532,17555,2008,Male,Oklahoma,20836.03
+373,373,1129,1129,1129,Less Than High School,Finance and Insurance,8362086,851,2008,Male,Oklahoma,9826.19
+374,374,1130,1130,1130,High School Graduate,Finance and Insurance,40203287,2997,2008,Male,Oklahoma,13414.51
+375,375,1131,1131,1131,Some College,Finance and Insurance,77233197,4460,2008,Male,Oklahoma,17316.86
+376,376,1132,1132,1132,Advanced Degree,Finance and Insurance,229917646,7459,2008,Male,Oklahoma,30824.19
+377,377,1133,1133,1133,Unavalble,Finance and Insurance,10060315,1787,2008,Male,Oklahoma,5629.72
+378,378,1134,1134,1134,All Education Categories,Finance and Insurance,375395035,39941,2008,Female,Oklahoma,9398.74
+379,379,1135,1135,1135,Less Than High School,Finance and Insurance,11324151,1762,2008,Female,Oklahoma,6426.87
+380,380,1136,1136,1136,High School Graduate,Finance and Insurance,70804624,9277,2008,Female,Oklahoma,7632.28
+381,381,1137,1137,1137,Some College,Finance and Insurance,114129539,12454,2008,Female,Oklahoma,9164.09
+382,382,1138,1138,1138,Advanced Degree,Finance and Insurance,152294639,11116,2008,Female,Oklahoma,13700.49
+383,383,1139,1139,1139,Unavalble,Finance and Insurance,26842082,5332,2008,Female,Oklahoma,5034.15
+384,384,1188,1188,1188,All Education Categories,Educational Services,468901676,46091,2008,Male,Oklahoma,10173.39
+385,385,1189,1189,1189,Less Than High School,Educational Services,20875234,3086,2008,Male,Oklahoma,6764.5
+386,386,1190,1190,1190,High School Graduate,Educational Services,83326955,10177,2008,Male,Oklahoma,8187.77
+387,387,1191,1191,1191,Some College,Educational Services,119359011,12440,2008,Male,Oklahoma,9594.78
+388,388,1192,1192,1192,Advanced Degree,Educational Services,236131681,17706,2008,Male,Oklahoma,13336.25
+389,389,1193,1193,1193,Unavalble,Educational Services,9208796,2683,2008,Male,Oklahoma,3432.28
+390,390,1194,1194,1194,All Education Categories,Educational Services,795800986,106379,2008,Female,Oklahoma,7480.81
+391,391,1195,1195,1195,Less Than High School,Educational Services,25685089,5425,2008,Female,Oklahoma,4734.58
+392,392,1196,1196,1196,High School Graduate,Educational Services,152888645,25338,2008,Female,Oklahoma,6033.97
+393,393,1197,1197,1197,Some College,Educational Services,233628984,32612,2008,Female,Oklahoma,7163.9
+394,394,1198,1198,1198,Advanced Degree,Educational Services,364323409,38146,2008,Female,Oklahoma,9550.76
+395,395,1199,1199,1199,Unavalble,Educational Services,19274859,4858,2008,Female,Oklahoma,3967.65
+396,396,1200,1200,1200,All Education Categories,Health Care and Social Assistance,574625220,38438,2008,Male,Oklahoma,14949.4
+397,397,1201,1201,1201,Less Than High School,Health Care and Social Assistance,23677191,3336,2008,Male,Oklahoma,7097.48
+398,398,1202,1202,1202,High School Graduate,Health Care and Social Assistance,82749446,8650,2008,Male,Oklahoma,9566.41
+399,399,1203,1203,1203,Some College,Health Care and Social Assistance,146337553,11302,2008,Male,Oklahoma,12947.93
+400,400,1204,1204,1204,Advanced Degree,Health Care and Social Assistance,305076146,11194,2008,Male,Oklahoma,27253.54
+401,401,1205,1205,1205,Unavalble,Health Care and Social Assistance,16784884,3957,2008,Male,Oklahoma,4241.82
+402,402,1206,1206,1206,All Education Categories,Health Care and Social Assistance,1162353749,158573,2008,Female,Oklahoma,7330.09
+403,403,1207,1207,1207,Less Than High School,Health Care and Social Assistance,63959127,12674,2008,Female,Oklahoma,5046.48
+404,404,1208,1208,1208,High School Graduate,Health Care and Social Assistance,236256173,38824,2008,Female,Oklahoma,6085.31
+405,405,1209,1209,1209,Some College,Health Care and Social Assistance,435331205,56966,2008,Female,Oklahoma,7641.95
+406,406,1210,1210,1210,Advanced Degree,Health Care and Social Assistance,350169877,31704,2008,Female,Oklahoma,11044.97
+407,407,1211,1211,1211,Unavalble,Health Care and Social Assistance,76637369,18405,2008,Female,Oklahoma,4163.94
+408,408,1224,1224,1224,All Education Categories,Accommodation and Food Services,206951523,52623,2008,Male,Oklahoma,3932.72
+409,409,1225,1225,1225,Less Than High School,Accommodation and Food Services,29615375,6976,2008,Male,Oklahoma,4245.32
+410,410,1226,1226,1226,High School Graduate,Accommodation and Food Services,50980226,10722,2008,Male,Oklahoma,4754.73
+411,411,1227,1227,1227,Some College,Accommodation and Food Services,44198214,8395,2008,Male,Oklahoma,5264.83
+412,412,1228,1228,1228,Advanced Degree,Accommodation and Food Services,23344592,3692,2008,Male,Oklahoma,6323.02
+413,413,1229,1229,1229,Unavalble,Accommodation and Food Services,58813116,22839,2008,Male,Oklahoma,2575.12
+414,414,1230,1230,1230,All Education Categories,Accommodation and Food Services,216341489,69119,2008,Female,Oklahoma,3129.99
+415,415,1231,1231,1231,Less Than High School,Accommodation and Food Services,28310226,8586,2008,Female,Oklahoma,3297.25
+416,416,1232,1232,1232,High School Graduate,Accommodation and Food Services,51104002,14164,2008,Female,Oklahoma,3608.02
+417,417,1233,1233,1233,Some College,Accommodation and Food Services,46552778,11880,2008,Female,Oklahoma,3918.58
+418,418,1234,1234,1234,Advanced Degree,Accommodation and Food Services,20873497,4738,2008,Female,Oklahoma,4405.55
+419,419,1235,1235,1235,Unavalble,Accommodation and Food Services,69500987,29751,2008,Female,Oklahoma,2336.09
+420,420,1260,1260,1260,All Education Categories,00,8247254002,736111,2009,Male,Oklahoma,11203.82
+421,421,1261,1261,1261,Less Than High School,00,695390071,87069,2009,Male,Oklahoma,7986.66
+422,422,1262,1262,1262,High School Graduate,00,2106537051,209643,2009,Male,Oklahoma,10048.21
+423,423,1263,1263,1263,Some College,00,2371987183,199042,2009,Male,Oklahoma,11917.02
+424,424,1264,1264,1264,Advanced Degree,00,2585600345,135761,2009,Male,Oklahoma,19045.24
+425,425,1265,1265,1265,Unavalble,00,487739351,104596,2009,Male,Oklahoma,4663.08
+426,426,1266,1266,1266,All Education Categories,00,5168814304,741752,2009,Female,Oklahoma,6968.39
+427,427,1267,1267,1267,Less Than High School,00,332462534,65955,2009,Female,Oklahoma,5040.75
+428,428,1268,1268,1268,High School Graduate,00,1171685382,189798,2009,Female,Oklahoma,6173.33
+429,429,1269,1269,1269,Some College,00,1684651324,225166,2009,Female,Oklahoma,7481.82
+430,430,1270,1270,1270,Advanced Degree,00,1590084741,148881,2009,Female,Oklahoma,10680.24
+431,431,1271,1271,1271,Unavalble,00,389930325,111952,2009,Female,Oklahoma,3483.01
+432,432,1320,1320,1320,All Education Categories,Manufacturing,1251510304,107045,2009,Male,Oklahoma,11691.44
+433,433,1321,1321,1321,Less Than High School,Manufacturing,129647247,14752,2009,Male,Oklahoma,8788.45
+434,434,1322,1322,1322,High School Graduate,Manufacturing,398201108,36853,2009,Male,Oklahoma,10805.12
+435,435,1323,1323,1323,Some College,Manufacturing,390713708,31317,2009,Male,Oklahoma,12476.09
+436,436,1324,1324,1324,Advanced Degree,Manufacturing,271067295,14497,2009,Male,Oklahoma,18698.16
+437,437,1325,1325,1325,Unavalble,Manufacturing,61880946,9626,2009,Male,Oklahoma,6428.52
+438,438,1326,1326,1326,All Education Categories,Manufacturing,272784405,34768,2009,Female,Oklahoma,7845.85
+439,439,1327,1327,1327,Less Than High School,Manufacturing,29353574,4912,2009,Female,Oklahoma,5975.89
+440,440,1328,1328,1328,High School Graduate,Manufacturing,82923674,11484,2009,Female,Oklahoma,7220.8
+441,441,1329,1329,1329,Some College,Manufacturing,87951777,10549,2009,Female,Oklahoma,8337.45
+442,442,1330,1330,1330,Advanced Degree,Manufacturing,58830228,4977,2009,Female,Oklahoma,11820.42
+443,443,1331,1331,1331,Unavalble,Manufacturing,13725152,2847,2009,Female,Oklahoma,4820.92
+444,444,1344,1344,1344,All Education Categories,Retail Trade,592397375,78906,2009,Male,Oklahoma,7507.63
+445,445,1345,1345,1345,Less Than High School,Retail Trade,58649598,9048,2009,Male,Oklahoma,6482.05
+446,446,1346,1346,1346,High School Graduate,Retail Trade,178996569,22326,2009,Male,Oklahoma,8017.4
+447,447,1347,1347,1347,Some College,Retail Trade,173595569,18724,2009,Male,Oklahoma,9271.29
+448,448,1348,1348,1348,Advanced Degree,Retail Trade,112822868,8535,2009,Male,Oklahoma,13218.85
+449,449,1349,1349,1349,Unavalble,Retail Trade,68332772,20273,2009,Male,Oklahoma,3370.63
+450,450,1350,1350,1350,All Education Categories,Retail Trade,383658039,86858,2009,Female,Oklahoma,4417.07
+451,451,1351,1351,1351,Less Than High School,Retail Trade,40568392,9728,2009,Female,Oklahoma,4170.27
+452,452,1352,1352,1352,High School Graduate,Retail Trade,121227484,25633,2009,Female,Oklahoma,4729.35
+453,453,1353,1353,1353,Some College,Retail Trade,108729525,20824,2009,Female,Oklahoma,5221.36
+454,454,1354,1354,1354,Advanced Degree,Retail Trade,55633960,8217,2009,Female,Oklahoma,6770.59
+455,455,1355,1355,1355,Unavalble,Retail Trade,57498677,22455,2009,Female,Oklahoma,2560.62
+456,456,1380,1380,1380,All Education Categories,Finance and Insurance,345761565,17874,2009,Male,Oklahoma,19344.39
+457,457,1381,1381,1381,Less Than High School,Finance and Insurance,9482766,969,2009,Male,Oklahoma,9786.14
+458,458,1382,1382,1382,High School Graduate,Finance and Insurance,41818632,3224,2009,Male,Oklahoma,12971.04
+459,459,1383,1383,1383,Some College,Finance and Insurance,76660181,4625,2009,Male,Oklahoma,16575.17
+460,460,1384,1384,1384,Advanced Degree,Finance and Insurance,208177294,7376,2009,Male,Oklahoma,28223.6
+461,461,1385,1385,1385,Unavalble,Finance and Insurance,9622692,1680,2009,Male,Oklahoma,5727.79
+462,462,1386,1386,1386,All Education Categories,Finance and Insurance,381742464,40604,2009,Female,Oklahoma,9401.6
+463,463,1387,1387,1387,Less Than High School,Finance and Insurance,12971218,1949,2009,Female,Oklahoma,6655.32
+464,464,1388,1388,1388,High School Graduate,Finance and Insurance,74228646,9538,2009,Female,Oklahoma,7782.41
+465,465,1389,1389,1389,Some College,Finance and Insurance,117525580,12650,2009,Female,Oklahoma,9290.56
+466,466,1390,1390,1390,Advanced Degree,Finance and Insurance,149724875,11032,2009,Female,Oklahoma,13571.87
+467,467,1391,1391,1391,Unavalble,Finance and Insurance,27292143,5435,2009,Female,Oklahoma,5021.55
+468,468,1440,1440,1440,All Education Categories,Educational Services,478168784,46380,2009,Male,Oklahoma,10309.81
+469,469,1441,1441,1441,Less Than High School,Educational Services,22415743,3236,2009,Male,Oklahoma,6926.99
+470,470,1442,1442,1442,High School Graduate,Educational Services,86841543,10463,2009,Male,Oklahoma,8299.87
+471,471,1443,1443,1443,Some College,Educational Services,121811855,12637,2009,Male,Oklahoma,9639.3
+472,472,1444,1444,1444,Advanced Degree,Educational Services,238264799,17556,2009,Male,Oklahoma,13571.7
+473,473,1445,1445,1445,Unavalble,Educational Services,8834844,2487,2009,Male,Oklahoma,3552.41
+474,474,1446,1446,1446,All Education Categories,Educational Services,821698870,108822,2009,Female,Oklahoma,7550.85
+475,475,1447,1447,1447,Less Than High School,Educational Services,28946858,5935,2009,Female,Oklahoma,4877.31
+476,476,1448,1448,1448,High School Graduate,Educational Services,159942695,26093,2009,Female,Oklahoma,6129.72
+477,477,1449,1449,1449,Some College,Educational Services,243760764,33567,2009,Female,Oklahoma,7261.92
+478,478,1450,1450,1450,Advanced Degree,Educational Services,369525717,38343,2009,Female,Oklahoma,9637.37
+479,479,1451,1451,1451,Unavalble,Educational Services,19522836,4883,2009,Female,Oklahoma,3998.12
+480,480,1452,1452,1452,All Education Categories,Health Care and Social Assistance,586985491,39138,2009,Male,Oklahoma,14997.84
+481,481,1453,1453,1453,Less Than High School,Health Care and Social Assistance,25368165,3502,2009,Male,Oklahoma,7243.91
+482,482,1454,1454,1454,High School Graduate,Health Care and Social Assistance,86055381,8988,2009,Male,Oklahoma,9574.47
+483,483,1455,1455,1455,Some College,Health Care and Social Assistance,150515630,11540,2009,Male,Oklahoma,13042.95
+484,484,1456,1456,1456,Advanced Degree,Health Care and Social Assistance,308801067,11335,2009,Male,Oklahoma,27243.15
+485,485,1457,1457,1457,Unavalble,Health Care and Social Assistance,16245249,3773,2009,Male,Oklahoma,4305.66
+486,486,1458,1458,1458,All Education Categories,Health Care and Social Assistance,1204886954,162804,2009,Female,Oklahoma,7400.84
+487,487,1459,1459,1459,Less Than High School,Health Care and Social Assistance,69482678,13469,2009,Female,Oklahoma,5158.71
+488,488,1460,1460,1460,High School Graduate,Health Care and Social Assistance,248117952,39990,2009,Female,Oklahoma,6204.5
+489,489,1461,1461,1461,Some College,Health Care and Social Assistance,450115960,58407,2009,Female,Oklahoma,7706.54
+490,490,1462,1462,1462,Advanced Degree,Health Care and Social Assistance,361490334,32682,2009,Female,Oklahoma,11060.84
+491,491,1463,1463,1463,Unavalble,Health Care and Social Assistance,75680029,18256,2009,Female,Oklahoma,4145.49
+492,492,1476,1476,1476,All Education Categories,Accommodation and Food Services,211555449,53919,2009,Male,Oklahoma,3923.58
+493,493,1477,1477,1477,Less Than High School,Accommodation and Food Services,31175943,7332,2009,Male,Oklahoma,4252.04
+494,494,1478,1478,1478,High School Graduate,Accommodation and Food Services,53094560,11304,2009,Male,Oklahoma,4696.97
+495,495,1479,1479,1479,Some College,Accommodation and Food Services,45819132,8914,2009,Male,Oklahoma,5140.13
+496,496,1480,1480,1480,Advanced Degree,Accommodation and Food Services,23537507,3913,2009,Male,Oklahoma,6015.21
+497,497,1481,1481,1481,Unavalble,Accommodation and Food Services,57928307,22457,2009,Male,Oklahoma,2579.52
+498,498,1482,1482,1482,All Education Categories,Accommodation and Food Services,220788709,69865,2009,Female,Oklahoma,3160.22
+499,499,1483,1483,1483,Less Than High School,Accommodation and Food Services,29876693,8983,2009,Female,Oklahoma,3325.91
+500,500,1484,1484,1484,High School Graduate,Accommodation and Food Services,52860612,14513,2009,Female,Oklahoma,3642.29
+501,501,1485,1485,1485,Some College,Accommodation and Food Services,48413580,12375,2009,Female,Oklahoma,3912.21
+502,502,1486,1486,1486,Advanced Degree,Accommodation and Food Services,21983676,5070,2009,Female,Oklahoma,4336.03
+503,503,1487,1487,1487,Unavalble,Accommodation and Food Services,67654149,28924,2009,Female,Oklahoma,2339.03
+504,504,1512,1512,1512,All Education Categories,00,7844742798,692330,2010,Male,Oklahoma,11330.93
+505,505,1513,1513,1513,Less Than High School,00,661214061,82405,2010,Male,Oklahoma,8023.96
+506,506,1514,1514,1514,High School Graduate,00,1989289722,197729,2010,Male,Oklahoma,10060.69
+507,507,1515,1515,1515,Some College,00,2264106258,189636,2010,Male,Oklahoma,11939.22
+508,508,1516,1516,1516,Advanced Degree,00,2521556081,131290,2010,Male,Oklahoma,19206.0
+509,509,1517,1517,1517,Unavalble,00,408576676,91270,2010,Male,Oklahoma,4476.57
+510,510,1518,1518,1518,All Education Categories,00,5025603969,714659,2010,Female,Oklahoma,7032.17
+511,511,1519,1519,1519,Less Than High School,00,336116412,65334,2010,Female,Oklahoma,5144.59
+512,512,1520,1520,1520,High School Graduate,00,1146128100,183828,2010,Female,Oklahoma,6234.79
+513,513,1521,1521,1521,Some College,00,1637930801,218731,2010,Female,Oklahoma,7488.33
+514,514,1522,1522,1522,Advanced Degree,00,1554983133,145264,2010,Female,Oklahoma,10704.53
+515,515,1523,1523,1523,Unavalble,00,350445522,101503,2010,Female,Oklahoma,3452.56
+516,516,1572,1572,1572,All Education Categories,Manufacturing,1066345309,90333,2010,Male,Oklahoma,11804.6
+517,517,1573,1573,1573,Less Than High School,Manufacturing,113029718,12545,2010,Male,Oklahoma,9009.94
+518,518,1574,1574,1574,High School Graduate,Manufacturing,343575863,31376,2010,Male,Oklahoma,10950.28
+519,519,1575,1575,1575,Some College,Manufacturing,337812292,26956,2010,Male,Oklahoma,12531.99
+520,520,1576,1576,1576,Advanced Degree,Manufacturing,227873007,12786,2010,Male,Oklahoma,17822.07
+521,521,1577,1577,1577,Unavalble,Manufacturing,44054428,6670,2010,Male,Oklahoma,6604.86
+522,522,1578,1578,1578,All Education Categories,Manufacturing,241480478,30091,2010,Female,Oklahoma,8025.01
+523,523,1579,1579,1579,Less Than High School,Manufacturing,26854359,4320,2010,Female,Oklahoma,6216.29
+524,524,1580,1580,1580,High School Graduate,Manufacturing,73618904,9941,2010,Female,Oklahoma,7405.58
+525,525,1581,1581,1581,Some College,Manufacturing,78255776,9238,2010,Female,Oklahoma,8471.07
+526,526,1582,1582,1582,Advanced Degree,Manufacturing,52269960,4447,2010,Female,Oklahoma,11753.98
+527,527,1583,1583,1583,Unavalble,Manufacturing,10481478,2145,2010,Female,Oklahoma,4886.47
+528,528,1596,1596,1596,All Education Categories,Retail Trade,584203998,79633,2010,Male,Oklahoma,7336.2
+529,529,1597,1597,1597,Less Than High School,Retail Trade,59017750,9276,2010,Male,Oklahoma,6362.41
+530,530,1598,1598,1598,High School Graduate,Retail Trade,175712296,22541,2010,Male,Oklahoma,7795.23
+531,531,1599,1599,1599,Some College,Retail Trade,171373340,19130,2010,Male,Oklahoma,8958.36
+532,532,1600,1600,1600,Advanced Degree,Retail Trade,111862019,8808,2010,Male,Oklahoma,12700.05
+533,533,1601,1601,1601,Unavalble,Retail Trade,66238593,19878,2010,Male,Oklahoma,3332.26
+534,534,1602,1602,1602,All Education Categories,Retail Trade,381169875,85433,2010,Female,Oklahoma,4461.62
+535,535,1603,1603,1603,Less Than High School,Retail Trade,40838237,9698,2010,Female,Oklahoma,4211.0
+536,536,1604,1604,1604,High School Graduate,Retail Trade,119180516,25115,2010,Female,Oklahoma,4745.39
+537,537,1605,1605,1605,Some College,Retail Trade,108715590,20903,2010,Female,Oklahoma,5200.96
+538,538,1606,1606,1606,Advanced Degree,Retail Trade,57876868,8534,2010,Female,Oklahoma,6781.92
+539,539,1607,1607,1607,Unavalble,Retail Trade,54558663,21183,2010,Female,Oklahoma,2575.59
+540,540,1632,1632,1632,All Education Categories,Finance and Insurance,352143061,17702,2010,Male,Oklahoma,19892.84
+541,541,1633,1633,1633,Less Than High School,Finance and Insurance,10398565,1031,2010,Male,Oklahoma,10085.9
+542,542,1634,1634,1634,High School Graduate,Finance and Insurance,43351492,3273,2010,Male,Oklahoma,13245.19
+543,543,1635,1635,1635,Some College,Finance and Insurance,78441729,4619,2010,Male,Oklahoma,16982.41
+544,544,1636,1636,1636,Advanced Degree,Finance and Insurance,211525953,7251,2010,Male,Oklahoma,29171.97
+545,545,1637,1637,1637,Unavalble,Finance and Insurance,8425321,1530,2010,Male,Oklahoma,5506.75
+546,546,1638,1638,1638,All Education Categories,Finance and Insurance,366754849,38958,2010,Female,Oklahoma,9414.11
+547,547,1639,1639,1639,Less Than High School,Finance and Insurance,13398418,1999,2010,Female,Oklahoma,6702.56
+548,548,1640,1640,1640,High School Graduate,Finance and Insurance,72364818,9243,2010,Female,Oklahoma,7829.15
+549,549,1641,1641,1641,Some College,Finance and Insurance,113166804,12230,2010,Female,Oklahoma,9253.21
+550,550,1642,1642,1642,Advanced Degree,Finance and Insurance,143880981,10669,2010,Female,Oklahoma,13485.89
+551,551,1643,1643,1643,Unavalble,Finance and Insurance,23943827,4816,2010,Female,Oklahoma,4971.72
+552,552,1692,1692,1692,All Education Categories,Educational Services,471462150,46036,2010,Male,Oklahoma,10241.16
+553,553,1693,1693,1693,Less Than High School,Educational Services,23682396,3425,2010,Male,Oklahoma,6914.57
+554,554,1694,1694,1694,High School Graduate,Educational Services,87670009,10586,2010,Male,Oklahoma,8281.69
+555,555,1695,1695,1695,Some College,Educational Services,120837393,12518,2010,Male,Oklahoma,9653.09
+556,556,1696,1696,1696,Advanced Degree,Educational Services,230268922,16761,2010,Male,Oklahoma,13738.38
+557,557,1697,1697,1697,Unavalble,Educational Services,9003430,2746,2010,Male,Oklahoma,3278.74
+558,558,1698,1698,1698,All Education Categories,Educational Services,812543745,107391,2010,Female,Oklahoma,7566.22
+559,559,1699,1699,1699,Less Than High School,Educational Services,31643707,6297,2010,Female,Oklahoma,5025.2
+560,560,1700,1700,1700,High School Graduate,Educational Services,161080599,25820,2010,Female,Oklahoma,6238.6
+561,561,1701,1701,1701,Some College,Educational Services,243181133,33297,2010,Female,Oklahoma,7303.39
+562,562,1702,1702,1702,Advanced Degree,Educational Services,357431559,37084,2010,Female,Oklahoma,9638.43
+563,563,1703,1703,1703,Unavalble,Educational Services,19206747,4893,2010,Female,Oklahoma,3925.35
+564,564,1704,1704,1704,All Education Categories,Health Care and Social Assistance,594930494,39848,2010,Male,Oklahoma,14930.0
+565,565,1705,1705,1705,Less Than High School,Health Care and Social Assistance,28114476,3786,2010,Male,Oklahoma,7425.9
+566,566,1706,1706,1706,High School Graduate,Health Care and Social Assistance,90034084,9423,2010,Male,Oklahoma,9554.72
+567,567,1707,1707,1707,Some College,Health Care and Social Assistance,153370615,11710,2010,Male,Oklahoma,13097.41
+568,568,1708,1708,1708,Advanced Degree,Health Care and Social Assistance,307672168,11179,2010,Male,Oklahoma,27522.33
+569,569,1709,1709,1709,Unavalble,Health Care and Social Assistance,15739152,3750,2010,Male,Oklahoma,4197.11
+570,570,1710,1710,1710,All Education Categories,Health Care and Social Assistance,1187828238,161125,2010,Female,Oklahoma,7372.09
+571,571,1711,1711,1711,Less Than High School,Health Care and Social Assistance,74356328,13984,2010,Female,Oklahoma,5317.24
+572,572,1712,1712,1712,High School Graduate,Health Care and Social Assistance,250544909,40121,2010,Female,Oklahoma,6244.73
+573,573,1713,1713,1713,Some College,Health Care and Social Assistance,441474337,57481,2010,Female,Oklahoma,7680.35
+574,574,1714,1714,1714,Advanced Degree,Health Care and Social Assistance,349144282,32153,2010,Female,Oklahoma,10858.84
+575,575,1715,1715,1715,Unavalble,Health Care and Social Assistance,72308381,17385,2010,Female,Oklahoma,4159.24
+576,576,1728,1728,1728,All Education Categories,Accommodation and Food Services,207605773,52965,2010,Male,Oklahoma,3919.68
+577,577,1729,1729,1729,Less Than High School,Accommodation and Food Services,31265600,7533,2010,Male,Oklahoma,4150.48
+578,578,1730,1730,1730,High School Graduate,Accommodation and Food Services,52713072,11555,2010,Male,Oklahoma,4561.93
+579,579,1731,1731,1731,Some College,Accommodation and Food Services,45887937,9298,2010,Male,Oklahoma,4935.25
+580,580,1732,1732,1732,Advanced Degree,Accommodation and Food Services,24327426,4213,2010,Male,Oklahoma,5774.37
+581,581,1733,1733,1733,Unavalble,Accommodation and Food Services,53411738,20365,2010,Male,Oklahoma,2622.72
+582,582,1734,1734,1734,All Education Categories,Accommodation and Food Services,213764247,66519,2010,Female,Oklahoma,3213.58
+583,583,1735,1735,1735,Less Than High School,Accommodation and Food Services,29232439,8652,2010,Female,Oklahoma,3378.69
+584,584,1736,1736,1736,High School Graduate,Accommodation and Food Services,51193862,14003,2010,Female,Oklahoma,3655.92
+585,585,1737,1737,1737,Some College,Accommodation and Food Services,47357681,12162,2010,Female,Oklahoma,3893.91
+586,586,1738,1738,1738,Advanced Degree,Accommodation and Food Services,22617840,5217,2010,Female,Oklahoma,4335.41
+587,587,1739,1739,1739,Unavalble,Accommodation and Food Services,63362425,26485,2010,Female,Oklahoma,2392.39
+588,588,1764,1764,1764,All Education Categories,00,8633392886,710547,2011,Male,Oklahoma,12150.35
+589,589,1765,1765,1765,Less Than High School,00,754293946,86914,2011,Male,Oklahoma,8678.62
+590,590,1766,1766,1766,High School Graduate,00,2212507412,203614,2011,Male,Oklahoma,10866.19
+591,591,1767,1767,1767,Some College,00,2501631308,194510,2011,Male,Oklahoma,12861.2
+592,592,1768,1768,1768,Advanced Degree,00,2725699978,133008,2011,Male,Oklahoma,20492.75
+593,593,1769,1769,1769,Unavalble,00,439260242,92502,2011,Male,Oklahoma,4748.66
+594,594,1770,1770,1770,All Education Categories,00,5178151233,711444,2011,Female,Oklahoma,7278.37
+595,595,1771,1771,1771,Less Than High School,00,361053288,66719,2011,Female,Oklahoma,5411.55
+596,596,1772,1772,1772,High School Graduate,00,1185849234,182772,2011,Female,Oklahoma,6488.13
+597,597,1773,1773,1773,Some College,00,1684133637,217446,2011,Female,Oklahoma,7745.07
+598,598,1774,1774,1774,Advanced Degree,00,1599093790,145047,2011,Female,Oklahoma,11024.66
+599,599,1775,1775,1775,Unavalble,00,348021284,99460,2011,Female,Oklahoma,3499.11
+600,600,1824,1824,1824,All Education Categories,Manufacturing,1246392086,94440,2011,Male,Oklahoma,13197.71
+601,601,1825,1825,1825,Less Than High School,Manufacturing,132598971,13164,2011,Male,Oklahoma,10072.85
+602,602,1826,1826,1826,High School Graduate,Manufacturing,401142874,32568,2011,Male,Oklahoma,12317.09
+603,603,1827,1827,1827,Some College,Manufacturing,394365879,27945,2011,Male,Oklahoma,14112.22
+604,604,1828,1828,1828,Advanced Degree,Manufacturing,264429959,13211,2011,Male,Oklahoma,20015.89
+605,605,1829,1829,1829,Unavalble,Manufacturing,53854404,7553,2011,Male,Oklahoma,7130.2
+606,606,1830,1830,1830,All Education Categories,Manufacturing,262962906,29779,2011,Female,Oklahoma,8830.48
+607,607,1831,1831,1831,Less Than High School,Manufacturing,29073537,4293,2011,Female,Oklahoma,6772.31
+608,608,1832,1832,1832,High School Graduate,Manufacturing,79077243,9712,2011,Female,Oklahoma,8142.22
+609,609,1833,1833,1833,Some College,Manufacturing,85879092,9155,2011,Female,Oklahoma,9380.57
+610,610,1834,1834,1834,Advanced Degree,Manufacturing,58298850,4520,2011,Female,Oklahoma,12897.98
+611,611,1835,1835,1835,Unavalble,Manufacturing,10634183,2099,2011,Female,Oklahoma,5066.31
+612,612,1848,1848,1848,All Education Categories,Retail Trade,613580147,80000,2011,Male,Oklahoma,7669.75
+613,613,1849,1849,1849,Less Than High School,Retail Trade,63289860,9432,2011,Male,Oklahoma,6710.12
+614,614,1850,1850,1850,High School Graduate,Retail Trade,183450703,22499,2011,Male,Oklahoma,8153.73
+615,615,1851,1851,1851,Some College,Retail Trade,181198231,19263,2011,Male,Oklahoma,9406.54
+616,616,1852,1852,1852,Advanced Degree,Retail Trade,117521292,9050,2011,Male,Oklahoma,12985.78
+617,617,1853,1853,1853,Unavalble,Retail Trade,68120061,19757,2011,Male,Oklahoma,3447.89
+618,618,1854,1854,1854,All Education Categories,Retail Trade,398533443,84724,2011,Female,Oklahoma,4703.9
+619,619,1855,1855,1855,Less Than High School,Retail Trade,43511404,9594,2011,Female,Oklahoma,4535.27
+620,620,1856,1856,1856,High School Graduate,Retail Trade,123851054,24402,2011,Female,Oklahoma,5075.45
+621,621,1857,1857,1857,Some College,Retail Trade,114354621,20744,2011,Female,Oklahoma,5512.66
+622,622,1858,1858,1858,Advanced Degree,Retail Trade,60707418,8768,2011,Female,Oklahoma,6923.75
+623,623,1859,1859,1859,Unavalble,Retail Trade,56108946,21216,2011,Female,Oklahoma,2644.65
+624,624,1884,1884,1884,All Education Categories,Finance and Insurance,365553671,17403,2011,Male,Oklahoma,21005.21
+625,625,1885,1885,1885,Less Than High School,Finance and Insurance,11599460,1083,2011,Male,Oklahoma,10710.49
+626,626,1886,1886,1886,High School Graduate,Finance and Insurance,46366091,3360,2011,Male,Oklahoma,13799.43
+627,627,1887,1887,1887,Some College,Finance and Insurance,81517643,4567,2011,Male,Oklahoma,17849.28
+628,628,1888,1888,1888,Advanced Degree,Finance and Insurance,217885918,6947,2011,Male,Oklahoma,31364.03
+629,629,1889,1889,1889,Unavalble,Finance and Insurance,8184559,1446,2011,Male,Oklahoma,5660.14
+630,630,1890,1890,1890,All Education Categories,Finance and Insurance,368077590,37499,2011,Female,Oklahoma,9815.66
+631,631,1891,1891,1891,Less Than High School,Finance and Insurance,14397079,2085,2011,Female,Oklahoma,6905.07
+632,632,1892,1892,1892,High School Graduate,Finance and Insurance,72888039,8993,2011,Female,Oklahoma,8104.97
+633,633,1893,1893,1893,Some College,Finance and Insurance,114220913,11890,2011,Female,Oklahoma,9606.47
+634,634,1894,1894,1894,Advanced Degree,Finance and Insurance,145342961,10232,2011,Female,Oklahoma,14204.75
+635,635,1895,1895,1895,Unavalble,Finance and Insurance,21228598,4300,2011,Female,Oklahoma,4936.88
+636,636,1944,1944,1944,All Education Categories,Educational Services,469767993,45972,2011,Male,Oklahoma,10218.57
+637,637,1945,1945,1945,Less Than High School,Educational Services,24879596,3512,2011,Male,Oklahoma,7084.17
+638,638,1946,1946,1946,High School Graduate,Educational Services,88545274,10620,2011,Male,Oklahoma,8337.6
+639,639,1947,1947,1947,Some College,Educational Services,122000706,12603,2011,Male,Oklahoma,9680.29
+640,640,1948,1948,1948,Advanced Degree,Educational Services,226185449,16607,2011,Male,Oklahoma,13619.89
+641,641,1949,1949,1949,Unavalble,Educational Services,8156967,2631,2011,Male,Oklahoma,3100.33
+642,642,1950,1950,1950,All Education Categories,Educational Services,790112734,105307,2011,Female,Oklahoma,7502.95
+643,643,1951,1951,1951,Less Than High School,Educational Services,33078723,6384,2011,Female,Oklahoma,5181.5
+644,644,1952,1952,1952,High School Graduate,Educational Services,158758442,25349,2011,Female,Oklahoma,6262.91
+645,645,1953,1953,1953,Some College,Educational Services,238258003,32754,2011,Female,Oklahoma,7274.17
+646,646,1954,1954,1954,Advanced Degree,Educational Services,342762219,36251,2011,Female,Oklahoma,9455.25
+647,647,1955,1955,1955,Unavalble,Educational Services,17255347,4569,2011,Female,Oklahoma,3776.61
+648,648,1956,1956,1956,All Education Categories,Health Care and Social Assistance,614102927,40984,2011,Male,Oklahoma,14983.97
+649,649,1957,1957,1957,Less Than High School,Health Care and Social Assistance,31112044,3993,2011,Male,Oklahoma,7791.65
+650,650,1958,1958,1958,High School Graduate,Health Care and Social Assistance,96183500,9801,2011,Male,Oklahoma,9813.64
+651,651,1959,1959,1959,Some College,Health Care and Social Assistance,158133208,12020,2011,Male,Oklahoma,13155.84
+652,652,1960,1960,1960,Advanced Degree,Health Care and Social Assistance,312519615,11339,2011,Male,Oklahoma,27561.48
+653,653,1961,1961,1961,Unavalble,Health Care and Social Assistance,16154560,3830,2011,Male,Oklahoma,4217.9
+654,654,1962,1962,1962,All Education Categories,Health Care and Social Assistance,1209165988,161031,2011,Female,Oklahoma,7508.9
+655,655,1963,1963,1963,Less Than High School,Health Care and Social Assistance,79127330,14409,2011,Female,Oklahoma,5491.52
+656,656,1964,1964,1964,High School Graduate,Health Care and Social Assistance,259394550,40423,2011,Female,Oklahoma,6417.0
+657,657,1965,1965,1965,Some College,Health Care and Social Assistance,448039136,57301,2011,Female,Oklahoma,7819.05
+658,658,1966,1966,1966,Advanced Degree,Health Care and Social Assistance,353533894,32285,2011,Female,Oklahoma,10950.41
+659,659,1967,1967,1967,Unavalble,Health Care and Social Assistance,69071079,16613,2011,Female,Oklahoma,4157.65
+660,660,1980,1980,1980,All Education Categories,Accommodation and Food Services,211959291,52938,2011,Male,Oklahoma,4003.92
+661,661,1981,1981,1981,Less Than High School,Accommodation and Food Services,32555049,7636,2011,Male,Oklahoma,4263.36
+662,662,1982,1982,1982,High School Graduate,Accommodation and Food Services,53979200,11563,2011,Male,Oklahoma,4668.27
+663,663,1983,1983,1983,Some College,Accommodation and Food Services,47275354,9354,2011,Male,Oklahoma,5054.03
+664,664,1984,1984,1984,Advanced Degree,Accommodation and Food Services,25292417,4427,2011,Male,Oklahoma,5713.22
+665,665,1985,1985,1985,Unavalble,Accommodation and Food Services,52857271,19957,2011,Male,Oklahoma,2648.56
+666,666,1986,1986,1986,All Education Categories,Accommodation and Food Services,219170188,66824,2011,Female,Oklahoma,3279.81
+667,667,1987,1987,1987,Less Than High School,Accommodation and Food Services,30195566,8692,2011,Female,Oklahoma,3473.95
+668,668,1988,1988,1988,High School Graduate,Accommodation and Food Services,52079174,13961,2011,Female,Oklahoma,3730.33
+669,669,1989,1989,1989,Some College,Accommodation and Food Services,48541820,12286,2011,Female,Oklahoma,3950.99
+670,670,1990,1990,1990,Advanced Degree,Accommodation and Food Services,23532441,5435,2011,Female,Oklahoma,4329.8
+671,671,1991,1991,1991,Unavalble,Accommodation and Food Services,64821188,26450,2011,Female,Oklahoma,2450.71
+672,672,2016,2016,2016,All Education Categories,00,9711009396,735309,2012,Male,Oklahoma,13206.71
+673,673,2017,2017,2017,Less Than High School,00,889114908,92301,2012,Male,Oklahoma,9632.78
+674,674,2018,2018,2018,High School Graduate,00,2509615979,211695,2012,Male,Oklahoma,11854.87
+675,675,2019,2019,2019,Some College,00,2798862107,201054,2012,Male,Oklahoma,13920.95
+676,676,2020,2020,2020,Advanced Degree,00,2998583029,135019,2012,Male,Oklahoma,22208.6
+677,677,2021,2021,2021,Unavalble,00,514833372,95240,2012,Male,Oklahoma,5405.64
+678,678,2022,2022,2022,All Education Categories,00,5636266854,721931,2012,Female,Oklahoma,7807.21
+679,679,2023,2023,2023,Less Than High School,00,415281428,69844,2012,Female,Oklahoma,5945.84
+680,680,2024,2024,2024,High School Graduate,00,1299257437,185700,2012,Female,Oklahoma,6996.54
+681,681,2025,2025,2025,Some College,00,1824116820,220007,2012,Female,Oklahoma,8291.18
+682,682,2026,2026,2026,Advanced Degree,00,1702493257,145396,2012,Female,Oklahoma,11709.35
+683,683,2027,2027,2027,Unavalble,00,395117913,100983,2012,Female,Oklahoma,3912.72
+684,684,2076,2076,2076,All Education Categories,Manufacturing,1408949241,101242,2012,Male,Oklahoma,13916.65
+685,685,2077,2077,2077,Less Than High School,Manufacturing,157620912,14497,2012,Male,Oklahoma,10872.66
+686,686,2078,2078,2078,High School Graduate,Manufacturing,446985978,34503,2012,Male,Oklahoma,12954.99
+687,687,2079,2079,2079,Some College,Manufacturing,437428392,29616,2012,Male,Oklahoma,14770.0
+688,688,2080,2080,2080,Advanced Degree,Manufacturing,296638967,13954,2012,Male,Oklahoma,21258.35
+689,689,2081,2081,2081,Unavalble,Manufacturing,70274992,8672,2012,Male,Oklahoma,8103.67
+690,690,2082,2082,2082,All Education Categories,Manufacturing,296223402,30646,2012,Female,Oklahoma,9665.97
+691,691,2083,2083,2083,Less Than High School,Manufacturing,34194582,4493,2012,Female,Oklahoma,7610.63
+692,692,2084,2084,2084,High School Graduate,Manufacturing,87319664,9847,2012,Female,Oklahoma,8867.64
+693,693,2085,2085,2085,Some College,Manufacturing,94599994,9406,2012,Female,Oklahoma,10057.41
+694,694,2086,2086,2086,Advanced Degree,Manufacturing,67032502,4737,2012,Female,Oklahoma,14150.83
+695,695,2087,2087,2087,Unavalble,Manufacturing,13076661,2163,2012,Female,Oklahoma,6045.61
+696,696,2100,2100,2100,All Education Categories,Retail Trade,663290087,80234,2012,Male,Oklahoma,8266.95
+697,697,2101,2101,2101,Less Than High School,Retail Trade,70020999,9626,2012,Male,Oklahoma,7274.15
+698,698,2102,2102,2102,High School Graduate,Retail Trade,198637394,22458,2012,Male,Oklahoma,8844.84
+699,699,2103,2103,2103,Some College,Retail Trade,195721213,19314,2012,Male,Oklahoma,10133.64
+700,700,2104,2104,2104,Advanced Degree,Retail Trade,125402332,9086,2012,Male,Oklahoma,13801.71
+701,701,2105,2105,2105,Unavalble,Retail Trade,73508150,19749,2012,Male,Oklahoma,3722.12
+702,702,2106,2106,2106,All Education Categories,Retail Trade,427933801,85656,2012,Female,Oklahoma,4995.96
+703,703,2107,2107,2107,Less Than High School,Retail Trade,47071116,9675,2012,Female,Oklahoma,4865.23
+704,704,2108,2108,2108,High School Graduate,Retail Trade,130699386,24128,2012,Female,Oklahoma,5416.92
+705,705,2109,2109,2109,Some College,Retail Trade,122379752,20844,2012,Female,Oklahoma,5871.22
+706,706,2110,2110,2110,Advanced Degree,Retail Trade,65695076,8943,2012,Female,Oklahoma,7345.98
+707,707,2111,2111,2111,Unavalble,Retail Trade,62088471,22067,2012,Female,Oklahoma,2813.63
+708,708,2136,2136,2136,All Education Categories,Finance and Insurance,397307068,17712,2012,Male,Oklahoma,22431.52
+709,709,2137,2137,2137,Less Than High School,Finance and Insurance,14510505,1217,2012,Male,Oklahoma,11923.18
+710,710,2138,2138,2138,High School Graduate,Finance and Insurance,52842428,3499,2012,Male,Oklahoma,15102.15
+711,711,2139,2139,2139,Some College,Finance and Insurance,90422590,4688,2012,Male,Oklahoma,19288.1
+712,712,2140,2140,2140,Advanced Degree,Finance and Insurance,230330695,6877,2012,Male,Oklahoma,33492.9
+713,713,2141,2141,2141,Unavalble,Finance and Insurance,9200850,1431,2012,Male,Oklahoma,6429.66
+714,714,2142,2142,2142,All Education Categories,Finance and Insurance,398178827,37950,2012,Female,Oklahoma,10492.2
+715,715,2143,2143,2143,Less Than High School,Finance and Insurance,17342346,2268,2012,Female,Oklahoma,7646.54
+716,716,2144,2144,2144,High School Graduate,Finance and Insurance,79770752,9192,2012,Female,Oklahoma,8678.28
+717,717,2145,2145,2145,Some College,Finance and Insurance,122461860,11952,2012,Female,Oklahoma,10246.14
+718,718,2146,2146,2146,Advanced Degree,Finance and Insurance,154749514,10145,2012,Female,Oklahoma,15253.77
+719,719,2147,2147,2147,Unavalble,Finance and Insurance,23854354,4394,2012,Female,Oklahoma,5428.85
+720,720,2196,2196,2196,All Education Categories,Educational Services,482818749,46087,2012,Male,Oklahoma,10476.25
+721,721,2197,2197,2197,Less Than High School,Educational Services,27310691,3682,2012,Male,Oklahoma,7417.35
+722,722,2198,2198,2198,High School Graduate,Educational Services,93152308,10850,2012,Male,Oklahoma,8585.47
+723,723,2199,2199,2199,Some College,Educational Services,125026396,12644,2012,Male,Oklahoma,9888.2
+724,724,2200,2200,2200,Advanced Degree,Educational Services,227062444,16217,2012,Male,Oklahoma,14001.51
+725,725,2201,2201,2201,Unavalble,Educational Services,10266911,2694,2012,Male,Oklahoma,3811.03
+726,726,2202,2202,2202,All Education Categories,Educational Services,797658242,105918,2012,Female,Oklahoma,7530.9
+727,727,2203,2203,2203,Less Than High School,Educational Services,37318634,6879,2012,Female,Oklahoma,5425.01
+728,728,2204,2204,2204,High School Graduate,Educational Services,163800758,25631,2012,Female,Oklahoma,6390.73
+729,729,2205,2205,2205,Some College,Educational Services,242160951,33083,2012,Female,Oklahoma,7319.8
+730,730,2206,2206,2206,Advanced Degree,Educational Services,334224289,35501,2012,Female,Oklahoma,9414.5
+731,731,2207,2207,2207,Unavalble,Educational Services,20153611,4825,2012,Female,Oklahoma,4176.91
+732,732,2208,2208,2208,All Education Categories,Health Care and Social Assistance,675632889,41533,2012,Male,Oklahoma,16267.38
+733,733,2209,2209,2209,Less Than High School,Health Care and Social Assistance,36886802,4233,2012,Male,Oklahoma,8714.1
+734,734,2210,2210,2210,High School Graduate,Health Care and Social Assistance,109222912,10113,2012,Male,Oklahoma,10800.25
+735,735,2211,2211,2211,Some College,Health Care and Social Assistance,174508018,12105,2012,Male,Oklahoma,14416.19
+736,736,2212,2212,2212,Advanced Degree,Health Care and Social Assistance,338466494,11373,2012,Male,Oklahoma,29760.53
+737,737,2213,2213,2213,Unavalble,Health Care and Social Assistance,16548663,3709,2012,Male,Oklahoma,4461.76
+738,738,2214,2214,2214,All Education Categories,Health Care and Social Assistance,1327163684,162445,2012,Female,Oklahoma,8169.93
+739,739,2215,2215,2215,Less Than High School,Health Care and Social Assistance,91691580,15107,2012,Female,Oklahoma,6069.48
+740,740,2216,2216,2216,High School Graduate,Health Care and Social Assistance,288615960,41147,2012,Female,Oklahoma,7014.26
+741,741,2217,2217,2217,Some College,Health Care and Social Assistance,489412325,57401,2012,Female,Oklahoma,8526.2
+742,742,2218,2218,2218,Advanced Degree,Health Care and Social Assistance,382102183,32307,2012,Female,Oklahoma,11827.23
+743,743,2219,2219,2219,Unavalble,Health Care and Social Assistance,75341636,16483,2012,Female,Oklahoma,4570.87
+744,744,2232,2232,2232,All Education Categories,Accommodation and Food Services,241086703,55589,2012,Male,Oklahoma,4336.95
+745,745,2233,2233,2233,Less Than High School,Accommodation and Food Services,37090527,7998,2012,Male,Oklahoma,4637.48
+746,746,2234,2234,2234,High School Graduate,Accommodation and Food Services,61774577,12197,2012,Male,Oklahoma,5064.74
+747,747,2235,2235,2235,Some College,Accommodation and Food Services,54427641,9970,2012,Male,Oklahoma,5459.14
+748,748,2236,2236,2236,Advanced Degree,Accommodation and Food Services,28585613,4779,2012,Male,Oklahoma,5981.51
+749,749,2237,2237,2237,Unavalble,Accommodation and Food Services,59208346,20645,2012,Male,Oklahoma,2867.93
+750,750,2238,2238,2238,All Education Categories,Accommodation and Food Services,255211786,70708,2012,Female,Oklahoma,3609.38
+751,751,2239,2239,2239,Less Than High School,Accommodation and Food Services,35336212,9304,2012,Female,Oklahoma,3797.96
+752,752,2240,2240,2240,High School Graduate,Accommodation and Food Services,60591235,14863,2012,Female,Oklahoma,4076.65
+753,753,2241,2241,2241,Some College,Accommodation and Food Services,57252739,13316,2012,Female,Oklahoma,4299.54
+754,754,2242,2242,2242,Advanced Degree,Accommodation and Food Services,27365927,5941,2012,Female,Oklahoma,4606.28
+755,755,2243,2243,2243,Unavalble,Accommodation and Food Services,74665673,27284,2012,Female,Oklahoma,2736.61
+756,756,5232,5232,5232,All Education Categories,"Colleges, Universities, and Professional Schools",182000311,16399,2004,Male,Oklahoma,11098.26
+757,757,5233,5233,5233,Less Than High School,"Colleges, Universities, and Professional Schools",5029737,757,2004,Male,Oklahoma,6644.3
+758,758,5234,5234,5234,High School Graduate,"Colleges, Universities, and Professional Schools",23133922,2844,2004,Male,Oklahoma,8134.29
+759,759,5235,5235,5235,Some College,"Colleges, Universities, and Professional Schools",38961021,4031,2004,Male,Oklahoma,9665.35
+760,760,5236,5236,5236,Advanced Degree,"Colleges, Universities, and Professional Schools",112234556,8005,2004,Male,Oklahoma,14020.56
+761,761,5237,5237,5237,Unavalble,"Colleges, Universities, and Professional Schools",2641076,763,2004,Male,Oklahoma,3461.44
+762,762,5238,5238,5238,All Education Categories,"Colleges, Universities, and Professional Schools",141260019,18517,2004,Female,Oklahoma,7628.67
+763,763,5239,5239,5239,Less Than High School,"Colleges, Universities, and Professional Schools",3416326,675,2004,Female,Oklahoma,5061.22
+764,764,5240,5240,5240,High School Graduate,"Colleges, Universities, and Professional Schools",23779983,3928,2004,Female,Oklahoma,6053.97
+765,765,5241,5241,5241,Some College,"Colleges, Universities, and Professional Schools",38839678,5562,2004,Female,Oklahoma,6983.04
+766,766,5242,5242,5242,Advanced Degree,"Colleges, Universities, and Professional Schools",71584945,7391,2004,Female,Oklahoma,9685.42
+767,767,5243,5243,5243,Unavalble,"Colleges, Universities, and Professional Schools",3639088,961,2004,Female,Oklahoma,3786.77
+768,768,8904,8904,8904,All Education Categories,"Colleges, Universities, and Professional Schools",168651019,16400,2005,Male,Oklahoma,10283.6
+769,769,8905,8905,8905,Less Than High School,"Colleges, Universities, and Professional Schools",4884544,777,2005,Male,Oklahoma,6286.41
+770,770,8906,8906,8906,High School Graduate,"Colleges, Universities, and Professional Schools",21984130,2873,2005,Male,Oklahoma,7651.98
+771,771,8907,8907,8907,Some College,"Colleges, Universities, and Professional Schools",36995679,4049,2005,Male,Oklahoma,9136.99
+772,772,8908,8908,8908,Advanced Degree,"Colleges, Universities, and Professional Schools",102237155,7886,2005,Male,Oklahoma,12964.39
+773,773,8909,8909,8909,Unavalble,"Colleges, Universities, and Professional Schools",2549511,816,2005,Male,Oklahoma,3124.4
+774,774,8910,8910,8910,All Education Categories,"Colleges, Universities, and Professional Schools",135164182,18971,2005,Female,Oklahoma,7124.78
+775,775,8911,8911,8911,Less Than High School,"Colleges, Universities, and Professional Schools",3311814,684,2005,Female,Oklahoma,4841.83
+776,776,8912,8912,8912,High School Graduate,"Colleges, Universities, and Professional Schools",22653041,3964,2005,Female,Oklahoma,5714.69
+777,777,8913,8913,8913,Some College,"Colleges, Universities, and Professional Schools",37497690,5673,2005,Female,Oklahoma,6609.85
+778,778,8914,8914,8914,Advanced Degree,"Colleges, Universities, and Professional Schools",67751441,7521,2005,Female,Oklahoma,9008.3
+779,779,8915,8915,8915,Unavalble,"Colleges, Universities, and Professional Schools",3950196,1129,2005,Female,Oklahoma,3498.84
+780,780,12576,12576,12576,All Education Categories,"Colleges, Universities, and Professional Schools",188518405,16028,2006,Male,Oklahoma,11761.82
+781,781,12577,12577,12577,Less Than High School,"Colleges, Universities, and Professional Schools",5362730,767,2006,Male,Oklahoma,6991.83
+782,782,12578,12578,12578,High School Graduate,"Colleges, Universities, and Professional Schools",24728531,2886,2006,Male,Oklahoma,8568.44
+783,783,12579,12579,12579,Some College,"Colleges, Universities, and Professional Schools",41487893,4025,2006,Male,Oklahoma,10307.55
+784,784,12580,12580,12580,Advanced Degree,"Colleges, Universities, and Professional Schools",113948615,7643,2006,Male,Oklahoma,14908.89
+785,785,12581,12581,12581,Unavalble,"Colleges, Universities, and Professional Schools",2990636,707,2006,Male,Oklahoma,4230.04
+786,786,12582,12582,12582,All Education Categories,"Colleges, Universities, and Professional Schools",150359255,18965,2006,Female,Oklahoma,7928.25
+787,787,12583,12583,12583,Less Than High School,"Colleges, Universities, and Professional Schools",3855553,707,2006,Female,Oklahoma,5453.4
+788,788,12584,12584,12584,High School Graduate,"Colleges, Universities, and Professional Schools",25284993,4006,2006,Female,Oklahoma,6311.78
+789,789,12585,12585,12585,Some College,"Colleges, Universities, and Professional Schools",42198034,5821,2006,Female,Oklahoma,7249.28
+790,790,12586,12586,12586,Advanced Degree,"Colleges, Universities, and Professional Schools",74726751,7440,2006,Female,Oklahoma,10043.92
+791,791,12587,12587,12587,Unavalble,"Colleges, Universities, and Professional Schools",4293925,990,2006,Female,Oklahoma,4337.3
+792,792,16236,16236,16236,All Education Categories,"Colleges, Universities, and Professional Schools",209460677,17079,2007,Male,Oklahoma,12264.22
+793,793,16237,16237,16237,Less Than High School,"Colleges, Universities, and Professional Schools",6296791,849,2007,Male,Oklahoma,7416.71
+794,794,16238,16238,16238,High School Graduate,"Colleges, Universities, and Professional Schools",27853657,3142,2007,Male,Oklahoma,8864.94
+795,795,16239,16239,16239,Some College,"Colleges, Universities, and Professional Schools",46724381,4351,2007,Male,Oklahoma,10738.77
+796,796,16240,16240,16240,Advanced Degree,"Colleges, Universities, and Professional Schools",125336747,7977,2007,Male,Oklahoma,15712.27
+797,797,16241,16241,16241,Unavalble,"Colleges, Universities, and Professional Schools",3249101,759,2007,Male,Oklahoma,4280.77
+798,798,16242,16242,16242,All Education Categories,"Colleges, Universities, and Professional Schools",169298623,20296,2007,Female,Oklahoma,8341.48
+799,799,16243,16243,16243,Less Than High School,"Colleges, Universities, and Professional Schools",4594212,799,2007,Female,Oklahoma,5749.95
+800,800,16244,16244,16244,High School Graduate,"Colleges, Universities, and Professional Schools",28772089,4310,2007,Female,Oklahoma,6675.66
+801,801,16245,16245,16245,Some College,"Colleges, Universities, and Professional Schools",47787915,6234,2007,Female,Oklahoma,7665.69
+802,802,16246,16246,16246,Advanced Degree,"Colleges, Universities, and Professional Schools",83598195,7895,2007,Female,Oklahoma,10588.75
+803,803,16247,16247,16247,Unavalble,"Colleges, Universities, and Professional Schools",4546212,1057,2007,Female,Oklahoma,4301.05
+804,804,19908,19908,19908,All Education Categories,"Colleges, Universities, and Professional Schools",184607003,14516,2008,Male,Oklahoma,12717.48
+805,805,19909,19909,19909,Less Than High School,"Colleges, Universities, and Professional Schools",5940701,760,2008,Male,Oklahoma,7816.71
+806,806,19910,19910,19910,High School Graduate,"Colleges, Universities, and Professional Schools",25020968,2699,2008,Male,Oklahoma,9270.46
+807,807,19911,19911,19911,Some College,"Colleges, Universities, and Professional Schools",41386522,3717,2008,Male,Oklahoma,11134.39
+808,808,19912,19912,19912,Advanced Degree,"Colleges, Universities, and Professional Schools",109242564,6696,2008,Male,Oklahoma,16314.6
+809,809,19913,19913,19913,Unavalble,"Colleges, Universities, and Professional Schools",3016249,645,2008,Male,Oklahoma,4676.36
+810,810,19914,19914,19914,All Education Categories,"Colleges, Universities, and Professional Schools",154296659,17473,2008,Female,Oklahoma,8830.58
+811,811,19915,19915,19915,Less Than High School,"Colleges, Universities, and Professional Schools",4463603,713,2008,Female,Oklahoma,6260.31
+812,812,19916,19916,19916,High School Graduate,"Colleges, Universities, and Professional Schools",26504437,3735,2008,Female,Oklahoma,7096.23
+813,813,19917,19917,19917,Some College,"Colleges, Universities, and Professional Schools",43977330,5429,2008,Female,Oklahoma,8100.45
+814,814,19918,19918,19918,Advanced Degree,"Colleges, Universities, and Professional Schools",75129152,6765,2008,Female,Oklahoma,11105.57
+815,815,19919,19919,19919,Unavalble,"Colleges, Universities, and Professional Schools",4222138,832,2008,Female,Oklahoma,5074.69
+816,816,23592,23592,23592,All Education Categories,"Colleges, Universities, and Professional Schools",190100639,14642,2009,Male,Oklahoma,12983.24
+817,817,23593,23593,23593,Less Than High School,"Colleges, Universities, and Professional Schools",6560109,821,2009,Male,Oklahoma,7990.39
+818,818,23594,23594,23594,High School Graduate,"Colleges, Universities, and Professional Schools",26191199,2795,2009,Male,Oklahoma,9370.73
+819,819,23595,23595,23595,Some College,"Colleges, Universities, and Professional Schools",42416727,3767,2009,Male,Oklahoma,11260.08
+820,820,23596,23596,23596,Advanced Degree,"Colleges, Universities, and Professional Schools",112125542,6630,2009,Male,Oklahoma,16911.85
+821,821,23597,23597,23597,Unavalble,"Colleges, Universities, and Professional Schools",2807062,629,2009,Male,Oklahoma,4462.74
+822,822,23598,23598,23598,All Education Categories,"Colleges, Universities, and Professional Schools",162550692,18218,2009,Female,Oklahoma,8922.53
+823,823,23599,23599,23599,Less Than High School,"Colleges, Universities, and Professional Schools",5124051,807,2009,Female,Oklahoma,6349.51
+824,824,23600,23600,23600,High School Graduate,"Colleges, Universities, and Professional Schools",28262598,3931,2009,Female,Oklahoma,7189.67
+825,825,23601,23601,23601,Some College,"Colleges, Universities, and Professional Schools",46543829,5656,2009,Female,Oklahoma,8229.11
+826,826,23602,23602,23602,Advanced Degree,"Colleges, Universities, and Professional Schools",78303177,6929,2009,Female,Oklahoma,11300.79
+827,827,23603,23603,23603,Unavalble,"Colleges, Universities, and Professional Schools",4317036,895,2009,Female,Oklahoma,4823.5
+828,828,27252,27252,27252,All Education Categories,"Colleges, Universities, and Professional Schools",186395047,13860,2010,Male,Oklahoma,13448.42
+829,829,27253,27253,27253,Less Than High School,"Colleges, Universities, and Professional Schools",6927070,831,2010,Male,Oklahoma,8335.82
+830,830,27254,27254,27254,High School Graduate,"Colleges, Universities, and Professional Schools",26297768,2724,2010,Male,Oklahoma,9654.1
+831,831,27255,27255,27255,Some College,"Colleges, Universities, and Professional Schools",41846555,3540,2010,Male,Oklahoma,11821.06
+832,832,27256,27256,27256,Advanced Degree,"Colleges, Universities, and Professional Schools",108676814,6160,2010,Male,Oklahoma,17642.34
+833,833,27257,27257,27257,Unavalble,"Colleges, Universities, and Professional Schools",2646840,605,2010,Male,Oklahoma,4374.94
+834,834,27258,27258,27258,All Education Categories,"Colleges, Universities, and Professional Schools",160157845,17184,2010,Female,Oklahoma,9320.17
+835,835,27259,27259,27259,Less Than High School,"Colleges, Universities, and Professional Schools",5682233,837,2010,Female,Oklahoma,6788.81
+836,836,27260,27260,27260,High School Graduate,"Colleges, Universities, and Professional Schools",28364320,3755,2010,Female,Oklahoma,7553.75
+837,837,27261,27261,27261,Some College,"Colleges, Universities, and Professional Schools",46403521,5413,2010,Female,Oklahoma,8572.61
+838,838,27262,27262,27262,Advanced Degree,"Colleges, Universities, and Professional Schools",75978608,6447,2010,Female,Oklahoma,11785.11
+839,839,27263,27263,27263,Unavalble,"Colleges, Universities, and Professional Schools",3729163,731,2010,Female,Oklahoma,5101.45
+840,840,30900,30900,30900,All Education Categories,"Colleges, Universities, and Professional Schools",186528459,14525,2011,Male,Oklahoma,12841.89
+841,841,30901,30901,30901,Less Than High School,"Colleges, Universities, and Professional Schools",7522465,936,2011,Male,Oklahoma,8036.82
+842,842,30902,30902,30902,High School Graduate,"Colleges, Universities, and Professional Schools",26925936,2905,2011,Male,Oklahoma,9268.82
+843,843,30903,30903,30903,Some College,"Colleges, Universities, and Professional Schools",42576398,3768,2011,Male,Oklahoma,11299.47
+844,844,30904,30904,30904,Advanced Degree,"Colleges, Universities, and Professional Schools",106997685,6327,2011,Male,Oklahoma,16911.28
+845,845,30905,30905,30905,Unavalble,"Colleges, Universities, and Professional Schools",2505975,589,2011,Male,Oklahoma,4254.63
+846,846,30906,30906,30906,All Education Categories,"Colleges, Universities, and Professional Schools",161277674,17935,2011,Female,Oklahoma,8992.34
+847,847,30907,30907,30907,Less Than High School,"Colleges, Universities, and Professional Schools",6360730,952,2011,Female,Oklahoma,6681.44
+848,848,30908,30908,30908,High School Graduate,"Colleges, Universities, and Professional Schools",29086816,3967,2011,Female,Oklahoma,7332.19
+849,849,30909,30909,30909,Some College,"Colleges, Universities, and Professional Schools",46905723,5620,2011,Female,Oklahoma,8346.21
+850,850,30910,30910,30910,Advanced Degree,"Colleges, Universities, and Professional Schools",75291305,6624,2011,Female,Oklahoma,11366.44
+851,851,30911,30911,30911,Unavalble,"Colleges, Universities, and Professional Schools",3633100,772,2011,Female,Oklahoma,4706.09
+852,852,34548,34548,34548,All Education Categories,"Colleges, Universities, and Professional Schools",195587053,14732,2012,Male,Oklahoma,13276.34
+853,853,34549,34549,34549,Less Than High School,"Colleges, Universities, and Professional Schools",8643958,1011,2012,Male,Oklahoma,8549.91
+854,854,34550,34550,34550,High School Graduate,"Colleges, Universities, and Professional Schools",29160068,3017,2012,Male,Oklahoma,9665.25
+855,855,34551,34551,34551,Some College,"Colleges, Universities, and Professional Schools",44548755,3822,2012,Male,Oklahoma,11655.88
+856,856,34552,34552,34552,Advanced Degree,"Colleges, Universities, and Professional Schools",109321187,6251,2012,Male,Oklahoma,17488.59
+857,857,34553,34553,34553,Unavalble,"Colleges, Universities, and Professional Schools",3913085,631,2012,Male,Oklahoma,6201.4
+858,858,34554,34554,34554,All Education Categories,"Colleges, Universities, and Professional Schools",171903392,18286,2012,Female,Oklahoma,9400.82
+859,859,34555,34555,34555,Less Than High School,"Colleges, Universities, and Professional Schools",7650298,1061,2012,Female,Oklahoma,7210.46
+860,860,34556,34556,34556,High School Graduate,"Colleges, Universities, and Professional Schools",31501312,4055,2012,Female,Oklahoma,7768.51
+861,861,34557,34557,34557,Some College,"Colleges, Universities, and Professional Schools",50136271,5720,2012,Female,Oklahoma,8765.08
+862,862,34558,34558,34558,Advanced Degree,"Colleges, Universities, and Professional Schools",77757365,6622,2012,Female,Oklahoma,11742.28
+863,863,34559,34559,34559,Unavalble,"Colleges, Universities, and Professional Schools",4858146,827,2012,Female,Oklahoma,5874.42
+864,864,36168,36168,36168,All Education Categories,Educational Services,402764980,46020,2004,Male,Oklahoma,8751.96
+865,865,36169,36169,36169,Less Than High School,Educational Services,15596589,2814,2004,Male,Oklahoma,5542.5
+866,866,36170,36170,36170,High School Graduate,Educational Services,67061815,9608,2004,Male,Oklahoma,6979.79
+867,867,36171,36171,36171,Some College,Educational Services,96919511,11864,2004,Male,Oklahoma,8169.21
+868,868,36172,36172,36172,Advanced Degree,Educational Services,215670613,18897,2004,Male,Oklahoma,11412.96
+869,869,36173,36173,36173,Unavalble,Educational Services,7516451,2838,2004,Male,Oklahoma,2648.5
+870,870,36174,36174,36174,All Education Categories,Educational Services,605935921,98217,2004,Female,Oklahoma,6169.36
+871,871,36175,36175,36175,Less Than High School,Educational Services,16266163,4351,2004,Female,Oklahoma,3738.49
+872,872,36176,36176,36176,High School Graduate,Educational Services,114511174,23338,2004,Female,Oklahoma,4906.64
+873,873,36177,36177,36177,Some College,Educational Services,170762783,29062,2004,Female,Oklahoma,5875.81
+874,874,36178,36178,36178,Advanced Degree,Educational Services,290183356,36669,2004,Female,Oklahoma,7913.59
+875,875,36179,36179,36179,Unavalble,Educational Services,14212446,4798,2004,Female,Oklahoma,2962.16
+876,876,36264,36264,36264,All Education Categories,Accommodation,16959825,3812,2004,Male,Oklahoma,4449.06
+877,877,36265,36265,36265,Less Than High School,Accommodation,2779417,679,2004,Male,Oklahoma,4093.4
+878,878,36266,36266,36266,High School Graduate,Accommodation,4630984,1020,2004,Male,Oklahoma,4540.18
+879,879,36267,36267,36267,Some College,Accommodation,4260311,858,2004,Male,Oklahoma,4965.4
+880,880,36268,36268,36268,Advanced Degree,Accommodation,3001039,491,2004,Male,Oklahoma,6112.1
+881,881,36269,36269,36269,Unavalble,Accommodation,2288074,764,2004,Male,Oklahoma,2994.86
+882,882,36270,36270,36270,All Education Categories,Accommodation,20265701,5998,2004,Female,Oklahoma,3378.74
+883,883,36271,36271,36271,Less Than High School,Accommodation,3501345,1155,2004,Female,Oklahoma,3031.47
+884,884,36272,36272,36272,High School Graduate,Accommodation,5739897,1743,2004,Female,Oklahoma,3293.11
+885,885,36273,36273,36273,Some College,Accommodation,5260036,1386,2004,Female,Oklahoma,3795.12
+886,886,36274,36274,36274,Advanced Degree,Accommodation,2756903,579,2004,Female,Oklahoma,4761.49
+887,887,36275,36275,36275,Unavalble,Accommodation,3007520,1134,2004,Female,Oklahoma,2652.13
+888,888,37332,37332,37332,All Education Categories,Educational Services,410336928,49017,2005,Male,Oklahoma,8371.32
+889,889,37333,37333,37333,Less Than High School,Educational Services,16699014,3040,2005,Male,Oklahoma,5493.1
+890,890,37334,37334,37334,High School Graduate,Educational Services,70216253,10270,2005,Male,Oklahoma,6837.03
+891,891,37335,37335,37335,Some College,Educational Services,101526527,12776,2005,Male,Oklahoma,7946.66
+892,892,37336,37336,37336,Advanced Degree,Educational Services,213513584,19646,2005,Male,Oklahoma,10868.04
+893,893,37337,37337,37337,Unavalble,Educational Services,8381549,3285,2005,Male,Oklahoma,2551.46
+894,894,37338,37338,37338,All Education Categories,Educational Services,653428388,107345,2005,Female,Oklahoma,6087.18
+895,895,37339,37339,37339,Less Than High School,Educational Services,18481765,4924,2005,Female,Oklahoma,3753.4
+896,896,37340,37340,37340,High School Graduate,Educational Services,123336359,25212,2005,Female,Oklahoma,4891.97
+897,897,37341,37341,37341,Some College,Educational Services,185764950,31796,2005,Female,Oklahoma,5842.4
+898,898,37342,37342,37342,Advanced Degree,Educational Services,308375709,39656,2005,Female,Oklahoma,7776.27
+899,899,37343,37343,37343,Unavalble,Educational Services,17469604,5756,2005,Female,Oklahoma,3035.03
+900,900,37428,37428,37428,All Education Categories,Accommodation,17201554,4087,2005,Male,Oklahoma,4208.85
+901,901,37429,37429,37429,Less Than High School,Accommodation,2812948,744,2005,Male,Oklahoma,3780.84
+902,902,37430,37430,37430,High School Graduate,Accommodation,4727772,1112,2005,Male,Oklahoma,4251.59
+903,903,37431,37431,37431,Some College,Accommodation,4304808,906,2005,Male,Oklahoma,4751.44
+904,904,37432,37432,37432,Advanced Degree,Accommodation,3110863,505,2005,Male,Oklahoma,6160.12
+905,905,37433,37433,37433,Unavalble,Accommodation,2245163,820,2005,Male,Oklahoma,2738.0
+906,906,37434,37434,37434,All Education Categories,Accommodation,21291189,6633,2005,Female,Oklahoma,3209.89
+907,907,37435,37435,37435,Less Than High School,Accommodation,3647479,1264,2005,Female,Oklahoma,2885.66
+908,908,37436,37436,37436,High School Graduate,Accommodation,6031286,1881,2005,Female,Oklahoma,3206.43
+909,909,37437,37437,37437,Some College,Accommodation,5564808,1544,2005,Female,Oklahoma,3604.15
+910,910,37438,37438,37438,Advanced Degree,Accommodation,2730736,635,2005,Female,Oklahoma,4300.37
+911,911,37439,37439,37439,Unavalble,Accommodation,3316880,1309,2005,Female,Oklahoma,2533.9
+912,912,38508,38508,38508,All Education Categories,Educational Services,445501403,48529,2006,Male,Oklahoma,9180.11
+913,913,38509,38509,38509,Less Than High School,Educational Services,18063356,3043,2006,Male,Oklahoma,5936.04
+914,914,38510,38510,38510,High School Graduate,Educational Services,76113403,10357,2006,Male,Oklahoma,7348.98
+915,915,38511,38511,38511,Some College,Educational Services,110719564,12825,2006,Male,Oklahoma,8633.1
+916,916,38512,38512,38512,Advanced Degree,Educational Services,231553214,19284,2006,Male,Oklahoma,12007.53
+917,917,38513,38513,38513,Unavalble,Educational Services,9051865,3020,2006,Male,Oklahoma,2997.31
+918,918,38514,38514,38514,All Education Categories,Educational Services,703814530,108693,2006,Female,Oklahoma,6475.25
+919,919,38515,38515,38515,Less Than High School,Educational Services,20448688,5104,2006,Female,Oklahoma,4006.4
+920,920,38516,38516,38516,High School Graduate,Educational Services,133204337,25609,2006,Female,Oklahoma,5201.47
+921,921,38517,38517,38517,Some College,Educational Services,201904624,32580,2006,Female,Oklahoma,6197.2
+922,922,38518,38518,38518,Advanced Degree,Educational Services,328982940,39757,2006,Female,Oklahoma,8274.84
+923,923,38519,38519,38519,Unavalble,Educational Services,19273942,5643,2006,Female,Oklahoma,3415.55
+924,924,38604,38604,38604,All Education Categories,Accommodation,19222995,4092,2006,Male,Oklahoma,4697.7
+925,925,38605,38605,38605,Less Than High School,Accommodation,3191120,769,2006,Male,Oklahoma,4149.7
+926,926,38606,38606,38606,High School Graduate,Accommodation,5430131,1147,2006,Male,Oklahoma,4734.2
+927,927,38607,38607,38607,Some College,Accommodation,4800484,921,2006,Male,Oklahoma,5212.25
+928,928,38608,38608,38608,Advanced Degree,Accommodation,3362634,489,2006,Male,Oklahoma,6876.55
+929,929,38609,38609,38609,Unavalble,Accommodation,2438628,765,2006,Male,Oklahoma,3187.75
+930,930,38610,38610,38610,All Education Categories,Accommodation,23772287,6683,2006,Female,Oklahoma,3557.13
+931,931,38611,38611,38611,Less Than High School,Accommodation,4116707,1298,2006,Female,Oklahoma,3171.58
+932,932,38612,38612,38612,High School Graduate,Accommodation,6657518,1894,2006,Female,Oklahoma,3515.06
+933,933,38613,38613,38613,Some College,Accommodation,6172867,1552,2006,Female,Oklahoma,3977.36
+934,934,38614,38614,38614,Advanced Degree,Accommodation,3011336,636,2006,Female,Oklahoma,4734.81
+935,935,38615,38615,38615,Unavalble,Accommodation,3813860,1304,2006,Female,Oklahoma,2924.74
+936,936,39684,39684,39684,All Education Categories,Educational Services,473659414,48287,2007,Male,Oklahoma,9809.25
+937,937,39685,39685,39685,Less Than High School,Educational Services,19555944,3090,2007,Male,Oklahoma,6328.78
+938,938,39686,39686,39686,High School Graduate,Educational Services,81295770,10412,2007,Male,Oklahoma,7807.89
+939,939,39687,39687,39687,Some College,Educational Services,118287651,12886,2007,Male,Oklahoma,9179.55
+940,940,39688,39688,39688,Advanced Degree,Educational Services,245402538,19051,2007,Male,Oklahoma,12881.35
+941,941,39689,39689,39689,Unavalble,Educational Services,9117512,2848,2007,Male,Oklahoma,3201.37
+942,942,39690,39690,39690,All Education Categories,Educational Services,750471448,107428,2007,Female,Oklahoma,6985.81
+943,943,39691,39691,39691,Less Than High School,Educational Services,22666199,5203,2007,Female,Oklahoma,4356.37
+944,944,39692,39692,39692,High School Graduate,Educational Services,142867560,25417,2007,Female,Oklahoma,5620.95
+945,945,39693,39693,39693,Some College,Educational Services,217588790,32536,2007,Female,Oklahoma,6687.63
+946,946,39694,39694,39694,Advanced Degree,Educational Services,348162718,39020,2007,Female,Oklahoma,8922.67
+947,947,39695,39695,39695,Unavalble,Educational Services,19186180,5252,2007,Female,Oklahoma,3653.12
+948,948,39780,39780,39780,All Education Categories,Accommodation,19308558,3994,2007,Male,Oklahoma,4834.39
+949,949,39781,39781,39781,Less Than High School,Accommodation,3232132,742,2007,Male,Oklahoma,4355.97
+950,950,39782,39782,39782,High School Graduate,Accommodation,5425589,1115,2007,Male,Oklahoma,4866.0
+951,951,39783,39783,39783,Some College,Accommodation,4763179,893,2007,Male,Oklahoma,5333.91
+952,952,39784,39784,39784,Advanced Degree,Accommodation,3529752,498,2007,Male,Oklahoma,7087.86
+953,953,39785,39785,39785,Unavalble,Accommodation,2357906,746,2007,Male,Oklahoma,3160.73
+954,954,39786,39786,39786,All Education Categories,Accommodation,24228110,6707,2007,Female,Oklahoma,3612.36
+955,955,39787,39787,39787,Less Than High School,Accommodation,4295967,1316,2007,Female,Oklahoma,3264.41
+956,956,39788,39788,39788,High School Graduate,Accommodation,6809884,1869,2007,Female,Oklahoma,3643.6
+957,957,39789,39789,39789,Some College,Accommodation,6227858,1546,2007,Female,Oklahoma,4028.37
+958,958,39790,39790,39790,Advanced Degree,Accommodation,3109722,650,2007,Female,Oklahoma,4784.19
+959,959,39791,39791,39791,Unavalble,Accommodation,3784679,1327,2007,Female,Oklahoma,2852.06
+960,960,40860,40860,40860,All Education Categories,Educational Services,468901676,46091,2008,Male,Oklahoma,10173.39
+961,961,40861,40861,40861,Less Than High School,Educational Services,20875234,3086,2008,Male,Oklahoma,6764.5
+962,962,40862,40862,40862,High School Graduate,Educational Services,83326955,10177,2008,Male,Oklahoma,8187.77
+963,963,40863,40863,40863,Some College,Educational Services,119359011,12440,2008,Male,Oklahoma,9594.78
+964,964,40864,40864,40864,Advanced Degree,Educational Services,236131681,17706,2008,Male,Oklahoma,13336.25
+965,965,40865,40865,40865,Unavalble,Educational Services,9208796,2683,2008,Male,Oklahoma,3432.28
+966,966,40866,40866,40866,All Education Categories,Educational Services,795800986,106379,2008,Female,Oklahoma,7480.81
+967,967,40867,40867,40867,Less Than High School,Educational Services,25685089,5425,2008,Female,Oklahoma,4734.58
+968,968,40868,40868,40868,High School Graduate,Educational Services,152888645,25338,2008,Female,Oklahoma,6033.97
+969,969,40869,40869,40869,Some College,Educational Services,233628984,32612,2008,Female,Oklahoma,7163.9
+970,970,40870,40870,40870,Advanced Degree,Educational Services,364323409,38146,2008,Female,Oklahoma,9550.76
+971,971,40871,40871,40871,Unavalble,Educational Services,19274859,4858,2008,Female,Oklahoma,3967.65
+972,972,40956,40956,40956,All Education Categories,Accommodation,22000788,4336,2008,Male,Oklahoma,5073.98
+973,973,40957,40957,40957,Less Than High School,Accommodation,3536025,777,2008,Male,Oklahoma,4550.87
+974,974,40958,40958,40958,High School Graduate,Accommodation,6135190,1183,2008,Male,Oklahoma,5186.13
+975,975,40959,40959,40959,Some College,Accommodation,5456120,973,2008,Male,Oklahoma,5607.52
+976,976,40960,40960,40960,Advanced Degree,Accommodation,3943100,547,2008,Male,Oklahoma,7208.59
+977,977,40961,40961,40961,Unavalble,Accommodation,2930353,856,2008,Male,Oklahoma,3423.31
+978,978,40962,40962,40962,All Education Categories,Accommodation,27758093,7263,2008,Female,Oklahoma,3821.85
+979,979,40963,40963,40963,Less Than High School,Accommodation,4866081,1401,2008,Female,Oklahoma,3473.29
+980,980,40964,40964,40964,High School Graduate,Accommodation,7879937,2049,2008,Female,Oklahoma,3845.75
+981,981,40965,40965,40965,Some College,Accommodation,7205925,1706,2008,Female,Oklahoma,4223.87
+982,982,40966,40966,40966,Advanced Degree,Accommodation,3567394,738,2008,Female,Oklahoma,4833.87
+983,983,40967,40967,40967,Unavalble,Accommodation,4238757,1369,2008,Female,Oklahoma,3096.24
+984,984,42036,42036,42036,All Education Categories,Educational Services,478168784,46380,2009,Male,Oklahoma,10309.81
+985,985,42037,42037,42037,Less Than High School,Educational Services,22415743,3236,2009,Male,Oklahoma,6926.99
+986,986,42038,42038,42038,High School Graduate,Educational Services,86841543,10463,2009,Male,Oklahoma,8299.87
+987,987,42039,42039,42039,Some College,Educational Services,121811855,12637,2009,Male,Oklahoma,9639.3
+988,988,42040,42040,42040,Advanced Degree,Educational Services,238264799,17556,2009,Male,Oklahoma,13571.7
+989,989,42041,42041,42041,Unavalble,Educational Services,8834844,2487,2009,Male,Oklahoma,3552.41
+990,990,42042,42042,42042,All Education Categories,Educational Services,821698870,108822,2009,Female,Oklahoma,7550.85
+991,991,42043,42043,42043,Less Than High School,Educational Services,28946858,5935,2009,Female,Oklahoma,4877.31
+992,992,42044,42044,42044,High School Graduate,Educational Services,159942695,26093,2009,Female,Oklahoma,6129.72
+993,993,42045,42045,42045,Some College,Educational Services,243760764,33567,2009,Female,Oklahoma,7261.92
+994,994,42046,42046,42046,Advanced Degree,Educational Services,369525717,38343,2009,Female,Oklahoma,9637.37
+995,995,42047,42047,42047,Unavalble,Educational Services,19522836,4883,2009,Female,Oklahoma,3998.12
+996,996,42132,42132,42132,All Education Categories,Accommodation,22563955,4511,2009,Male,Oklahoma,5001.99
+997,997,42133,42133,42133,Less Than High School,Accommodation,3670170,805,2009,Male,Oklahoma,4559.22
+998,998,42134,42134,42134,High School Graduate,Accommodation,6440272,1250,2009,Male,Oklahoma,5152.22
+999,999,42135,42135,42135,Some College,Accommodation,5662792,1009,2009,Male,Oklahoma,5612.28
+1000,1000,42136,42136,42136,Advanced Degree,Accommodation,3850955,574,2009,Male,Oklahoma,6708.98
+1001,1001,42137,42137,42137,Unavalble,Accommodation,2939766,873,2009,Male,Oklahoma,3367.43
+1002,1002,42138,42138,42138,All Education Categories,Accommodation,28866084,7567,2009,Female,Oklahoma,3814.73
+1003,1003,42139,42139,42139,Less Than High School,Accommodation,5051038,1496,2009,Female,Oklahoma,3376.36
+1004,1004,42140,42140,42140,High School Graduate,Accommodation,8080276,2092,2009,Female,Oklahoma,3862.46
+1005,1005,42141,42141,42141,Some College,Accommodation,7676698,1793,2009,Female,Oklahoma,4281.48
+1006,1006,42142,42142,42142,Advanced Degree,Accommodation,3818435,784,2009,Female,Oklahoma,4870.45
+1007,1007,42143,42143,42143,Unavalble,Accommodation,4239638,1402,2009,Female,Oklahoma,3023.99
+1008,1008,43212,43212,43212,All Education Categories,Educational Services,471462150,46036,2010,Male,Oklahoma,10241.16
+1009,1009,43213,43213,43213,Less Than High School,Educational Services,23682396,3425,2010,Male,Oklahoma,6914.57
+1010,1010,43214,43214,43214,High School Graduate,Educational Services,87670009,10586,2010,Male,Oklahoma,8281.69
+1011,1011,43215,43215,43215,Some College,Educational Services,120837393,12518,2010,Male,Oklahoma,9653.09
+1012,1012,43216,43216,43216,Advanced Degree,Educational Services,230268922,16761,2010,Male,Oklahoma,13738.38
+1013,1013,43217,43217,43217,Unavalble,Educational Services,9003430,2746,2010,Male,Oklahoma,3278.74
+1014,1014,43218,43218,43218,All Education Categories,Educational Services,812543745,107391,2010,Female,Oklahoma,7566.22
+1015,1015,43219,43219,43219,Less Than High School,Educational Services,31643707,6297,2010,Female,Oklahoma,5025.2
+1016,1016,43220,43220,43220,High School Graduate,Educational Services,161080599,25820,2010,Female,Oklahoma,6238.6
+1017,1017,43221,43221,43221,Some College,Educational Services,243181133,33297,2010,Female,Oklahoma,7303.39
+1018,1018,43222,43222,43222,Advanced Degree,Educational Services,357431559,37084,2010,Female,Oklahoma,9638.43
+1019,1019,43223,43223,43223,Unavalble,Educational Services,19206747,4893,2010,Female,Oklahoma,3925.35
+1020,1020,43308,43308,43308,All Education Categories,Accommodation,22349019,4558,2010,Male,Oklahoma,4903.25
+1021,1021,43309,43309,43309,Less Than High School,Accommodation,3489833,797,2010,Male,Oklahoma,4378.71
+1022,1022,43310,43310,43310,High School Graduate,Accommodation,6274304,1246,2010,Male,Oklahoma,5035.56
+1023,1023,43311,43311,43311,Some College,Accommodation,5729865,1051,2010,Male,Oklahoma,5451.82
+1024,1024,43312,43312,43312,Advanced Degree,Accommodation,3866926,614,2010,Male,Oklahoma,6297.93
+1025,1025,43313,43313,43313,Unavalble,Accommodation,2988091,850,2010,Male,Oklahoma,3515.4
+1026,1026,43314,43314,43314,All Education Categories,Accommodation,28049478,7263,2010,Female,Oklahoma,3861.97
+1027,1027,43315,43315,43315,Less Than High School,Accommodation,4903539,1414,2010,Female,Oklahoma,3467.85
+1028,1028,43316,43316,43316,High School Graduate,Accommodation,7823875,2029,2010,Female,Oklahoma,3856.03
+1029,1029,43317,43317,43317,Some College,Accommodation,7467427,1782,2010,Female,Oklahoma,4190.48
+1030,1030,43318,43318,43318,Advanced Degree,Accommodation,3836776,812,2010,Female,Oklahoma,4725.09
+1031,1031,43319,43319,43319,Unavalble,Accommodation,4017860,1226,2010,Female,Oklahoma,3277.21
+1032,1032,44388,44388,44388,All Education Categories,Educational Services,469767993,45972,2011,Male,Oklahoma,10218.57
+1033,1033,44389,44389,44389,Less Than High School,Educational Services,24879596,3512,2011,Male,Oklahoma,7084.17
+1034,1034,44390,44390,44390,High School Graduate,Educational Services,88545274,10620,2011,Male,Oklahoma,8337.6
+1035,1035,44391,44391,44391,Some College,Educational Services,122000706,12603,2011,Male,Oklahoma,9680.29
+1036,1036,44392,44392,44392,Advanced Degree,Educational Services,226185449,16607,2011,Male,Oklahoma,13619.89
+1037,1037,44393,44393,44393,Unavalble,Educational Services,8156967,2631,2011,Male,Oklahoma,3100.33
+1038,1038,44394,44394,44394,All Education Categories,Educational Services,790112734,105307,2011,Female,Oklahoma,7502.95
+1039,1039,44395,44395,44395,Less Than High School,Educational Services,33078723,6384,2011,Female,Oklahoma,5181.5
+1040,1040,44396,44396,44396,High School Graduate,Educational Services,158758442,25349,2011,Female,Oklahoma,6262.91
+1041,1041,44397,44397,44397,Some College,Educational Services,238258003,32754,2011,Female,Oklahoma,7274.17
+1042,1042,44398,44398,44398,Advanced Degree,Educational Services,342762219,36251,2011,Female,Oklahoma,9455.25
+1043,1043,44399,44399,44399,Unavalble,Educational Services,17255347,4569,2011,Female,Oklahoma,3776.61
+1044,1044,44484,44484,44484,All Education Categories,Accommodation,22069542,4640,2011,Male,Oklahoma,4756.37
+1045,1045,44485,44485,44485,Less Than High School,Accommodation,3583459,820,2011,Male,Oklahoma,4370.07
+1046,1046,44486,44486,44486,High School Graduate,Accommodation,6285674,1269,2011,Male,Oklahoma,4953.25
+1047,1047,44487,44487,44487,Some College,Accommodation,5582982,1075,2011,Male,Oklahoma,5193.47
+1048,1048,44488,44488,44488,Advanced Degree,Accommodation,3831781,641,2011,Male,Oklahoma,5977.82
+1049,1049,44489,44489,44489,Unavalble,Accommodation,2785646,835,2011,Male,Oklahoma,3336.1
+1050,1050,44490,44490,44490,All Education Categories,Accommodation,27974268,7198,2011,Female,Oklahoma,3886.39
+1051,1051,44491,44491,44491,Less Than High School,Accommodation,4831370,1369,2011,Female,Oklahoma,3529.12
+1052,1052,44492,44492,44492,High School Graduate,Accommodation,7675651,1969,2011,Female,Oklahoma,3898.25
+1053,1053,44493,44493,44493,Some College,Accommodation,7615749,1788,2011,Female,Oklahoma,4259.37
+1054,1054,44494,44494,44494,Advanced Degree,Accommodation,4026456,843,2011,Female,Oklahoma,4776.34
+1055,1055,44495,44495,44495,Unavalble,Accommodation,3825042,1230,2011,Female,Oklahoma,3109.79
+1056,1056,45564,45564,45564,All Education Categories,Educational Services,482818749,46087,2012,Male,Oklahoma,10476.25
+1057,1057,45565,45565,45565,Less Than High School,Educational Services,27310691,3682,2012,Male,Oklahoma,7417.35
+1058,1058,45566,45566,45566,High School Graduate,Educational Services,93152308,10850,2012,Male,Oklahoma,8585.47
+1059,1059,45567,45567,45567,Some College,Educational Services,125026396,12644,2012,Male,Oklahoma,9888.2
+1060,1060,45568,45568,45568,Advanced Degree,Educational Services,227062444,16217,2012,Male,Oklahoma,14001.51
+1061,1061,45569,45569,45569,Unavalble,Educational Services,10266911,2694,2012,Male,Oklahoma,3811.03
+1062,1062,45570,45570,45570,All Education Categories,Educational Services,797658242,105918,2012,Female,Oklahoma,7530.9
+1063,1063,45571,45571,45571,Less Than High School,Educational Services,37318634,6879,2012,Female,Oklahoma,5425.01
+1064,1064,45572,45572,45572,High School Graduate,Educational Services,163800758,25631,2012,Female,Oklahoma,6390.73
+1065,1065,45573,45573,45573,Some College,Educational Services,242160951,33083,2012,Female,Oklahoma,7319.8
+1066,1066,45574,45574,45574,Advanced Degree,Educational Services,334224289,35501,2012,Female,Oklahoma,9414.5
+1067,1067,45575,45575,45575,Unavalble,Educational Services,20153611,4825,2012,Female,Oklahoma,4176.91
+1068,1068,45660,45660,45660,All Education Categories,Accommodation,31266431,5531,2012,Male,Oklahoma,5652.94
+1069,1069,45661,45661,45661,Less Than High School,Accommodation,4941044,967,2012,Male,Oklahoma,5109.66
+1070,1070,45662,45662,45662,High School Graduate,Accommodation,9122571,1561,2012,Male,Oklahoma,5844.06
+1071,1071,45663,45663,45663,Some College,Accommodation,8354977,1320,2012,Male,Oklahoma,6329.53
+1072,1072,45664,45664,45664,Advanced Degree,Accommodation,5336278,756,2012,Male,Oklahoma,7058.57
+1073,1073,45665,45665,45665,Unavalble,Accommodation,3511561,926,2012,Male,Oklahoma,3792.18
+1074,1074,45666,45666,45666,All Education Categories,Accommodation,37680605,8464,2012,Female,Oklahoma,4451.87
+1075,1075,45667,45667,45667,Less Than High School,Accommodation,6104784,1521,2012,Female,Oklahoma,4013.66
+1076,1076,45668,45668,45668,High School Graduate,Accommodation,10606025,2351,2012,Female,Oklahoma,4511.28
+1077,1077,45669,45669,45669,Some College,Accommodation,10406596,2143,2012,Female,Oklahoma,4856.09
+1078,1078,45670,45670,45670,Advanced Degree,Accommodation,5229479,993,2012,Female,Oklahoma,5266.34
+1079,1079,45671,45671,45671,Unavalble,Accommodation,5333722,1455,2012,Female,Oklahoma,3665.79

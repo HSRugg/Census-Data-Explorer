@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,936,936,All Education Categories,Educational Services,1651507325,140289,2004,Male,Florida,11772.18
+1,1,937,937,Less Than High School,Educational Services,91472243,10659,2004,Male,Florida,8581.69
+2,2,938,938,High School Graduate,Educational Services,253229933,26319,2004,Male,Florida,9621.56
+3,3,939,939,Some College,Educational Services,415311119,36607,2004,Male,Florida,11345.13
+4,4,940,940,Advanced Degree,Educational Services,853966489,58082,2004,Male,Florida,14702.77
+5,5,941,941,Unavalble,Educational Services,37527541,8623,2004,Male,Florida,4352.03
+6,6,942,942,All Education Categories,Educational Services,3059501861,306159,2004,Female,Florida,9993.18
+7,7,943,943,Less Than High School,Educational Services,118823969,17259,2004,Female,Florida,6884.75
+8,8,944,944,High School Graduate,Educational Services,504691428,64802,2004,Female,Florida,7788.21
+9,9,945,945,Some College,Educational Services,860982031,89538,2004,Female,Florida,9615.83
+10,10,946,946,Advanced Degree,Educational Services,1481492133,116325,2004,Female,Florida,12735.8
+11,11,947,947,Unavalble,Educational Services,93512301,18236,2004,Female,Florida,5127.9
+12,12,1032,1032,All Education Categories,Accommodation,504169910,72108,2004,Male,Florida,6991.87
+13,13,1033,1033,Less Than High School,Accommodation,99380648,16651,2004,Male,Florida,5968.45
+14,14,1034,1034,High School Graduate,Accommodation,133199432,19667,2004,Male,Florida,6772.74
+15,15,1035,1035,Some College,Accommodation,137530846,17568,2004,Male,Florida,7828.49
+16,16,1036,1036,Advanced Degree,Accommodation,93755103,8992,2004,Male,Florida,10426.5
+17,17,1037,1037,Unavalble,Accommodation,40303882,9230,2004,Male,Florida,4366.62
+18,18,1038,1038,All Education Categories,Accommodation,419571313,77207,2004,Female,Florida,5434.37
+19,19,1039,1039,Less Than High School,Accommodation,77436423,16862,2004,Female,Florida,4592.36
+20,20,1040,1040,High School Graduate,Accommodation,105527989,20617,2004,Female,Florida,5118.49
+21,21,1041,1041,Some College,Accommodation,115330175,19263,2004,Female,Florida,5987.13
+22,22,1042,1042,Advanced Degree,Accommodation,76289694,9480,2004,Female,Florida,8047.44
+23,23,1043,1043,Unavalble,Accommodation,44987031,10986,2004,Female,Florida,4094.94
+24,24,2124,2124,All Education Categories,Educational Services,1579234611,167466,2005,Male,Florida,9430.18
+25,25,2125,2125,Less Than High School,Educational Services,91139354,13996,2005,Male,Florida,6511.81
+26,26,2126,2126,High School Graduate,Educational Services,243803779,30954,2005,Male,Florida,7876.33
+27,27,2127,2127,Some College,Educational Services,399387253,44087,2005,Male,Florida,9059.07
+28,28,2128,2128,Advanced Degree,Educational Services,805028288,66546,2005,Male,Florida,12097.32
+29,29,2129,2129,Unavalble,Educational Services,39875936,11883,2005,Male,Florida,3355.71
+30,30,2130,2130,All Education Categories,Educational Services,2966004270,377406,2005,Female,Florida,7858.92
+31,31,2131,2131,Less Than High School,Educational Services,121007600,24454,2005,Female,Florida,4948.38
+32,32,2132,2132,High School Graduate,Educational Services,488789644,77333,2005,Female,Florida,6320.58
+33,33,2133,2133,Some College,Educational Services,837632579,110274,2005,Female,Florida,7595.92
+34,34,2134,2134,Advanced Degree,Educational Services,1423347245,140475,2005,Female,Florida,10132.39
+35,35,2135,2135,Unavalble,Educational Services,95227203,24871,2005,Female,Florida,3828.84
+36,36,2220,2220,All Education Categories,Accommodation,540375911,76083,2005,Male,Florida,7102.45
+37,37,2221,2221,Less Than High School,Accommodation,103151629,17376,2005,Male,Florida,5936.44
+38,38,2222,2222,High School Graduate,Accommodation,140994423,20668,2005,Male,Florida,6821.87
+39,39,2223,2223,Some College,Accommodation,147237276,18475,2005,Male,Florida,7969.54
+40,40,2224,2224,Advanced Degree,Accommodation,105163722,9716,2005,Male,Florida,10823.77
+41,41,2225,2225,Unavalble,Accommodation,43828861,9848,2005,Male,Florida,4450.53
+42,42,2226,2226,All Education Categories,Accommodation,451905495,82368,2005,Female,Florida,5486.42
+43,43,2227,2227,Less Than High School,Accommodation,82256490,18139,2005,Female,Florida,4534.79
+44,44,2228,2228,High School Graduate,Accommodation,111686626,21669,2005,Female,Florida,5154.21
+45,45,2229,2229,Some College,Accommodation,124138888,20467,2005,Female,Florida,6065.32
+46,46,2230,2230,Advanced Degree,Accommodation,84837110,10149,2005,Female,Florida,8359.16
+47,47,2231,2231,Unavalble,Accommodation,48986381,11943,2005,Female,Florida,4101.68
+48,48,3312,3312,All Education Categories,Educational Services,1889898006,171001,2006,Male,Florida,11051.97
+49,49,3313,3313,Less Than High School,Educational Services,109039184,14454,2006,Male,Florida,7543.88
+50,50,3314,3314,High School Graduate,Educational Services,288071201,31913,2006,Male,Florida,9026.77
+51,51,3315,3315,Some College,Educational Services,473382092,45166,2006,Male,Florida,10480.94
+52,52,3316,3316,Advanced Degree,Educational Services,971837252,67130,2006,Male,Florida,14476.94
+53,53,3317,3317,Unavalble,Educational Services,47568276,12338,2006,Male,Florida,3855.43
+54,54,3318,3318,All Education Categories,Educational Services,3449652530,393906,2006,Female,Florida,8757.55
+55,55,3319,3319,Less Than High School,Educational Services,147596671,25674,2006,Female,Florida,5748.88
+56,56,3320,3320,High School Graduate,Educational Services,568094319,80891,2006,Female,Florida,7022.96
+57,57,3321,3321,Some College,Educational Services,980454408,115479,2006,Female,Florida,8490.33
+58,58,3322,3322,Advanced Degree,Educational Services,1638765502,145510,2006,Female,Florida,11262.22
+59,59,3323,3323,Unavalble,Educational Services,114741630,26352,2006,Female,Florida,4354.19
+60,60,3408,3408,All Education Categories,Accommodation,663110109,73541,2006,Male,Florida,9016.88
+61,61,3409,3409,Less Than High School,Accommodation,115400949,16753,2006,Male,Florida,6888.38
+62,62,3410,3410,High School Graduate,Accommodation,163748325,19813,2006,Male,Florida,8264.69
+63,63,3411,3411,Some College,Accommodation,178410512,17908,2006,Male,Florida,9962.62
+64,64,3412,3412,Advanced Degree,Accommodation,157182914,9427,2006,Male,Florida,16673.69
+65,65,3413,3413,Unavalble,Accommodation,48367409,9639,2006,Male,Florida,5017.89
+66,66,3414,3414,All Education Categories,Accommodation,494103955,80026,2006,Female,Florida,6174.29
+67,67,3415,3415,Less Than High School,Accommodation,88682150,17616,2006,Female,Florida,5034.18
+68,68,3416,3416,High School Graduate,Accommodation,120391503,20936,2006,Female,Florida,5750.45
+69,69,3417,3417,Some College,Accommodation,135406750,19898,2006,Female,Florida,6805.04
+70,70,3418,3418,Advanced Degree,Accommodation,95759359,9863,2006,Female,Florida,9708.95
+71,71,3419,3419,Unavalble,Accommodation,53864192,11713,2006,Female,Florida,4598.67
+72,72,4500,4500,All Education Categories,Educational Services,2129307073,175315,2007,Male,Florida,12145.61
+73,73,4501,4501,Less Than High School,Educational Services,122155206,15330,2007,Male,Florida,7968.38
+74,74,4502,4502,High School Graduate,Educational Services,320765653,33164,2007,Male,Florida,9672.1
+75,75,4503,4503,Some College,Educational Services,526026472,46494,2007,Male,Florida,11313.86
+76,76,4504,4504,Advanced Degree,Educational Services,1108365650,67454,2007,Male,Florida,16431.43
+77,77,4505,4505,Unavalble,Educational Services,51994092,12874,2007,Male,Florida,4038.69
+78,78,4506,4506,All Education Categories,Educational Services,3759181847,408212,2007,Female,Florida,9208.9
+79,79,4507,4507,Less Than High School,Educational Services,166504737,27742,2007,Female,Florida,6001.9
+80,80,4508,4508,High School Graduate,Educational Services,621600306,84043,2007,Female,Florida,7396.22
+81,81,4509,4509,Some College,Educational Services,1074112052,120353,2007,Female,Florida,8924.68
+82,82,4510,4510,Advanced Degree,Educational Services,1774187262,148977,2007,Female,Florida,11909.14
+83,83,4511,4511,Unavalble,Educational Services,122777490,27097,2007,Female,Florida,4531.04
+84,84,4596,4596,All Education Categories,Accommodation,692141496,76165,2007,Male,Florida,9087.4
+85,85,4597,4597,Less Than High School,Accommodation,119670385,17034,2007,Male,Florida,7025.38
+86,86,4598,4598,High School Graduate,Accommodation,168120731,20365,2007,Male,Florida,8255.38
+87,87,4599,4599,Some College,Accommodation,185310563,18334,2007,Male,Florida,10107.48
+88,88,4600,4600,Advanced Degree,Accommodation,165029363,9897,2007,Male,Florida,16674.69
+89,89,4601,4601,Unavalble,Accommodation,54010454,10534,2007,Male,Florida,5127.25
+90,90,4602,4602,All Education Categories,Accommodation,526428996,82015,2007,Female,Florida,6418.69
+91,91,4603,4603,Less Than High School,Accommodation,93359164,17808,2007,Female,Florida,5242.54
+92,92,4604,4604,High School Graduate,Accommodation,127471415,21351,2007,Female,Florida,5970.28
+93,93,4605,4605,Some College,Accommodation,143230808,20383,2007,Female,Florida,7026.97
+94,94,4606,4606,Advanced Degree,Accommodation,102699983,10239,2007,Female,Florida,10030.27
+95,95,4607,4607,Unavalble,Accommodation,59667626,12234,2007,Female,Florida,4877.2
+96,96,5700,5700,All Education Categories,Educational Services,1803109509,156534,2008,Male,Florida,11518.96
+97,97,5701,5701,Less Than High School,Educational Services,111445370,13969,2008,Male,Florida,7978.05
+98,98,5702,5702,High School Graduate,Educational Services,293757113,30881,2008,Male,Florida,9512.55
+99,99,5703,5703,Some College,Educational Services,458321669,42164,2008,Male,Florida,10869.98
+100,100,5704,5704,Advanced Degree,Educational Services,899812970,60403,2008,Male,Florida,14896.83
+101,101,5705,5705,Unavalble,Educational Services,39772388,9117,2008,Male,Florida,4362.44
+102,102,5706,5706,All Education Categories,Educational Services,3402066949,367761,2008,Female,Florida,9250.76
+103,103,5707,5707,Less Than High School,Educational Services,153732236,24853,2008,Female,Florida,6185.66
+104,104,5708,5708,High School Graduate,Educational Services,586781216,77405,2008,Female,Florida,7580.66
+105,105,5709,5709,Some College,Educational Services,984293353,110130,2008,Female,Florida,8937.56
+106,106,5710,5710,Advanced Degree,Educational Services,1578170837,135444,2008,Female,Florida,11651.83
+107,107,5711,5711,Unavalble,Educational Services,99089307,19929,2008,Female,Florida,4972.12
+108,108,5796,5796,All Education Categories,Accommodation,749770072,80478,2008,Male,Florida,9316.46
+109,109,5797,5797,Less Than High School,Accommodation,126602984,17833,2008,Male,Florida,7099.37
+110,110,5798,5798,High School Graduate,Accommodation,180346668,21545,2008,Male,Florida,8370.7
+111,111,5799,5799,Some College,Accommodation,198471317,19657,2008,Male,Florida,10096.72
+112,112,5800,5800,Advanced Degree,Accommodation,189929579,10824,2008,Male,Florida,17547.08
+113,113,5801,5801,Unavalble,Accommodation,54419523,10620,2008,Male,Florida,5124.25
+114,114,5802,5802,All Education Categories,Accommodation,570178762,86347,2008,Female,Florida,6603.34
+115,115,5803,5803,Less Than High School,Accommodation,98816242,18521,2008,Female,Florida,5335.36
+116,116,5804,5804,High School Graduate,Accommodation,136538330,22423,2008,Female,Florida,6089.21
+117,117,5805,5805,Some College,Accommodation,157691079,21764,2008,Female,Florida,7245.5
+118,118,5806,5806,Advanced Degree,Accommodation,117054025,11255,2008,Female,Florida,10400.18
+119,119,5807,5807,Unavalble,Accommodation,60079086,12384,2008,Female,Florida,4851.35
+120,120,6900,6900,All Education Categories,Educational Services,1975793294,173923,2009,Male,Florida,11360.16
+121,121,6901,6901,Less Than High School,Educational Services,132353957,16762,2009,Male,Florida,7896.07
+122,122,6902,6902,High School Graduate,Educational Services,324379136,34592,2009,Male,Florida,9377.29
+123,123,6903,6903,Some College,Educational Services,513853049,47458,2009,Male,Florida,10827.53
+124,124,6904,6904,Advanced Degree,Educational Services,965034459,64896,2009,Male,Florida,14870.48
+125,125,6905,6905,Unavalble,Educational Services,40172693,10217,2009,Male,Florida,3931.95
+126,126,6906,6906,All Education Categories,Educational Services,3727454676,409525,2009,Female,Florida,9101.9
+127,127,6907,6907,Less Than High School,Educational Services,188157419,30259,2009,Female,Florida,6218.23
+128,128,6908,6908,High School Graduate,Educational Services,642628429,85666,2009,Female,Florida,7501.56
+129,129,6909,6909,Some College,Educational Services,1099068767,124013,2009,Female,Florida,8862.53
+130,130,6910,6910,Advanced Degree,Educational Services,1705993697,148608,2009,Female,Florida,11479.82
+131,131,6911,6911,Unavalble,Educational Services,91606365,20979,2009,Female,Florida,4366.57
+132,132,6996,6996,All Education Categories,Accommodation,647213053,77535,2009,Male,Florida,8347.37
+133,133,6997,6997,Less Than High School,Accommodation,113068325,17265,2009,Male,Florida,6548.99
+134,134,6998,6998,High School Graduate,Accommodation,160960606,20956,2009,Male,Florida,7680.88
+135,135,6999,6999,Some College,Accommodation,176847009,19311,2009,Male,Florida,9157.84
+136,136,7000,7000,Advanced Degree,Accommodation,153216173,10648,2009,Male,Florida,14389.2
+137,137,7001,7001,Unavalble,Accommodation,43120940,9354,2009,Male,Florida,4609.89
+138,138,7002,7002,All Education Categories,Accommodation,508309823,82580,2009,Female,Florida,6155.36
+139,139,7003,7003,Less Than High School,Accommodation,88971871,17735,2009,Female,Florida,5016.74
+140,140,7004,7004,High School Graduate,Accommodation,123686039,21494,2009,Female,Florida,5754.44
+141,141,7005,7005,Some College,Accommodation,143064859,21126,2009,Female,Florida,6771.98
+142,142,7006,7006,Advanced Degree,Accommodation,104357422,11114,2009,Female,Florida,9389.73
+143,143,7007,7007,Unavalble,Accommodation,48229633,11112,2009,Female,Florida,4340.32
+144,144,8100,8100,All Education Categories,Educational Services,1930779979,167472,2010,Male,Florida,11528.97
+145,145,8101,8101,Less Than High School,Educational Services,138912093,16631,2010,Male,Florida,8352.6
+146,146,8102,8102,High School Graduate,Educational Services,331046772,33875,2010,Male,Florida,9772.6
+147,147,8103,8103,Some College,Educational Services,506072064,45988,2010,Male,Florida,11004.44
+148,148,8104,8104,Advanced Degree,Educational Services,913079254,61744,2010,Male,Florida,14788.15
+149,149,8105,8105,Unavalble,Educational Services,41669797,9233,2010,Male,Florida,4513.14
+150,150,8106,8106,All Education Categories,Educational Services,3566590649,388125,2010,Female,Florida,9189.28
+151,151,8107,8107,Less Than High School,Educational Services,191052711,29706,2010,Female,Florida,6431.45
+152,152,8108,8108,High School Graduate,Educational Services,633083633,81606,2010,Female,Florida,7757.81
+153,153,8109,8109,Some College,Educational Services,1060858145,118255,2010,Female,Florida,8970.94
+154,154,8110,8110,Advanced Degree,Educational Services,1600801706,140060,2010,Female,Florida,11429.4
+155,155,8111,8111,Unavalble,Educational Services,80794454,18499,2010,Female,Florida,4367.5
+156,156,8196,8196,All Education Categories,Accommodation,604178115,71857,2010,Male,Florida,8408.06
+157,157,8197,8197,Less Than High School,Accommodation,106294243,15858,2010,Male,Florida,6702.88
+158,158,8198,8198,High School Graduate,Accommodation,150285061,19500,2010,Male,Florida,7706.93
+159,159,8199,8199,Some College,Accommodation,165625713,18113,2010,Male,Florida,9144.02
+160,160,8200,8200,Advanced Degree,Accommodation,143844532,10245,2010,Male,Florida,14040.46
+161,161,8201,8201,Unavalble,Accommodation,38128566,8140,2010,Male,Florida,4684.1
+162,162,8202,8202,All Education Categories,Accommodation,476182768,76663,2010,Female,Florida,6211.38
+163,163,8203,8203,Less Than High School,Accommodation,84072700,16289,2010,Female,Florida,5161.32
+164,164,8204,8204,High School Graduate,Accommodation,116990092,20108,2010,Female,Florida,5818.09
+165,165,8205,8205,Some College,Accommodation,135085157,19985,2010,Female,Florida,6759.33
+166,166,8206,8206,Advanced Degree,Accommodation,97720598,10710,2010,Female,Florida,9124.24
+167,167,8207,8207,Unavalble,Accommodation,42314222,9571,2010,Female,Florida,4421.09
+168,168,9300,9300,All Education Categories,Educational Services,1954564932,168924,2011,Male,Florida,11570.68
+169,169,9301,9301,Less Than High School,Educational Services,146613232,17720,2011,Male,Florida,8273.88
+170,170,9302,9302,High School Graduate,Educational Services,342641648,34784,2011,Male,Florida,9850.55
+171,171,9303,9303,Some College,Educational Services,518360212,46598,2011,Male,Florida,11124.09
+172,172,9304,9304,Advanced Degree,Educational Services,910599844,60425,2011,Male,Florida,15069.92
+173,173,9305,9305,Unavalble,Educational Services,36349997,9397,2011,Male,Florida,3868.26
+174,174,9306,9306,All Education Categories,Educational Services,3731066265,384146,2011,Female,Florida,9712.63
+175,175,9307,9307,Less Than High School,Educational Services,213286289,31398,2011,Female,Florida,6792.99
+176,176,9308,9308,High School Graduate,Educational Services,672567737,81572,2011,Female,Florida,8245.08
+177,177,9309,9309,Some College,Educational Services,1118159788,117534,2011,Female,Florida,9513.5
+178,178,9310,9310,Advanced Degree,Educational Services,1641934327,134872,2011,Female,Florida,12174.02
+179,179,9311,9311,Unavalble,Educational Services,85118125,18769,2011,Female,Florida,4535.04
+180,180,9396,9396,All Education Categories,Accommodation,673816226,76166,2011,Male,Florida,8846.68
+181,181,9397,9397,Less Than High School,Accommodation,118640017,16748,2011,Male,Florida,7083.83
+182,182,9398,9398,High School Graduate,Accommodation,165578341,20547,2011,Male,Florida,8058.52
+183,183,9399,9399,Some College,Accommodation,184295167,19184,2011,Male,Florida,9606.71
+184,184,9400,9400,Advanced Degree,Accommodation,163590971,10965,2011,Male,Florida,14919.38
+185,185,9401,9401,Unavalble,Accommodation,41711731,8721,2011,Male,Florida,4782.91
+186,186,9402,9402,All Education Categories,Accommodation,524958745,80165,2011,Female,Florida,6548.48
+187,187,9403,9403,Less Than High School,Accommodation,91766562,16837,2011,Female,Florida,5450.29
+188,188,9404,9404,High School Graduate,Accommodation,127455971,20827,2011,Female,Florida,6119.75
+189,189,9405,9405,Some College,Accommodation,148210235,20801,2011,Female,Florida,7125.15
+190,190,9406,9406,Advanced Degree,Accommodation,111142327,11366,2011,Female,Florida,9778.49
+191,191,9407,9407,Unavalble,Accommodation,46383651,10335,2011,Female,Florida,4488.02
+192,192,10500,10500,All Education Categories,Educational Services,1965790969,175700,2012,Male,Florida,11188.34
+193,193,10501,10501,Less Than High School,Educational Services,151598359,18619,2012,Male,Florida,8142.13
+194,194,10502,10502,High School Graduate,Educational Services,350243379,36912,2012,Male,Florida,9488.6
+195,195,10503,10503,Some College,Educational Services,522378675,48749,2012,Male,Florida,10715.68
+196,196,10504,10504,Advanced Degree,Educational Services,905904667,62347,2012,Male,Florida,14530.04
+197,197,10505,10505,Unavalble,Educational Services,35665888,9072,2012,Male,Florida,3931.43
+198,198,10506,10506,All Education Categories,Educational Services,3781256579,405219,2012,Female,Florida,9331.39
+199,199,10507,10507,Less Than High School,Educational Services,226984854,33527,2012,Female,Florida,6770.21
+200,200,10508,10508,High School Graduate,Educational Services,692864204,86890,2012,Female,Florida,7974.04
+201,201,10509,10509,Some College,Educational Services,1137632060,124638,2012,Female,Florida,9127.49
+202,202,10510,10510,Advanced Degree,Educational Services,1641363532,141955,2012,Female,Florida,11562.56
+203,203,10511,10511,Unavalble,Educational Services,82411928,18210,2012,Female,Florida,4525.64
+204,204,10596,10596,All Education Categories,Accommodation,752370562,77905,2012,Male,Florida,9657.54
+205,205,10597,10597,Less Than High School,Accommodation,130994174,16932,2012,Male,Florida,7736.49
+206,206,10598,10598,High School Graduate,Accommodation,184320030,21026,2012,Male,Florida,8766.29
+207,207,10599,10599,Some College,Accommodation,206210919,19664,2012,Male,Florida,10486.72
+208,208,10600,10600,Advanced Degree,Accommodation,184764320,11424,2012,Male,Florida,16173.35
+209,209,10601,10601,Unavalble,Accommodation,46081120,8859,2012,Male,Florida,5201.62
+210,210,10602,10602,All Education Categories,Accommodation,582227097,81866,2012,Female,Florida,7111.95
+211,211,10603,10603,Less Than High School,Accommodation,101101496,16954,2012,Female,Florida,5963.28
+212,212,10604,10604,High School Graduate,Accommodation,141592972,21113,2012,Female,Florida,6706.44
+213,213,10605,10605,Some College,Accommodation,163788161,21336,2012,Female,Florida,7676.61
+214,214,10606,10606,Advanced Degree,Accommodation,123227568,11820,2012,Female,Florida,10425.34
+215,215,10607,10607,Unavalble,Accommodation,52516899,10642,2012,Female,Florida,4934.87
+216,216,10764,10764,All Education Categories,00,36893996945,3573458,2004,Male,Florida,10324.45
+217,217,10765,10765,Less Than High School,00,3714118540,517610,2004,Male,Florida,7175.52
+218,218,10766,10766,High School Graduate,00,7737279195,866878,2004,Male,Florida,8925.45
+219,219,10767,10767,Some College,00,10070511130,925346,2004,Male,Florida,10882.97
+220,220,10768,10768,Advanced Degree,00,13286416741,788002,2004,Male,Florida,16860.89
+221,221,10769,10769,Unavalble,00,2085671339,475622,2004,Male,Florida,4385.14
+222,222,10770,10770,All Education Categories,00,25738565732,3476277,2004,Female,Florida,7404.06
+223,223,10771,10771,Less Than High School,00,1938996722,374885,2004,Female,Florida,5172.24
+224,224,10772,10772,High School Graduate,00,5123066407,808668,2004,Female,Florida,6335.19
+225,225,10773,10773,Some College,00,7973411941,1016938,2004,Female,Florida,7840.61
+226,226,10774,10774,Advanced Degree,00,8796457103,771846,2004,Female,Florida,11396.65
+227,227,10775,10775,Unavalble,00,1906633559,503939,2004,Female,Florida,3783.46
+228,228,10824,10824,All Education Categories,Manufacturing,3197595142,268279,2004,Male,Florida,11918.92
+229,229,10825,10825,Less Than High School,Manufacturing,375505438,43875,2004,Male,Florida,8558.53
+230,230,10826,10826,High School Graduate,Manufacturing,847195309,80119,2004,Male,Florida,10574.21
+231,231,10827,10827,Some College,Manufacturing,966264199,77074,2004,Male,Florida,12536.84
+232,232,10828,10828,Advanced Degree,Manufacturing,900222351,49504,2004,Male,Florida,18184.84
+233,233,10829,10829,Unavalble,Manufacturing,108407846,17708,2004,Male,Florida,6121.97
+234,234,10830,10830,All Education Categories,Manufacturing,978742266,120885,2004,Female,Florida,8096.47
+235,235,10831,10831,Less Than High School,Manufacturing,119302726,20768,2004,Female,Florida,5744.55
+236,236,10832,10832,High School Graduate,Manufacturing,268583575,37223,2004,Female,Florida,7215.53
+237,237,10833,10833,Some College,Manufacturing,302510057,35044,2004,Female,Florida,8632.29
+238,238,10834,10834,Advanced Degree,Manufacturing,246706732,19765,2004,Female,Florida,12482.0
+239,239,10835,10835,Unavalble,Manufacturing,41639175,8085,2004,Female,Florida,5150.18
+240,240,10848,10848,All Education Categories,Retail Trade,3755627569,469037,2004,Male,Florida,8007.1
+241,241,10849,10849,Less Than High School,Retail Trade,447660339,67644,2004,Male,Florida,6617.89
+242,242,10850,10850,High School Graduate,Retail Trade,981836129,120188,2004,Male,Florida,8169.17
+243,243,10851,10851,Some College,Retail Trade,1084246332,112883,2004,Male,Florida,9605.05
+244,244,10852,10852,Advanced Degree,Retail Trade,864650980,64392,2004,Male,Florida,13427.93
+245,245,10853,10853,Unavalble,Retail Trade,377233788,103930,2004,Male,Florida,3629.69
+246,246,10854,10854,All Education Categories,Retail Trade,2323833482,466880,2004,Female,Florida,4977.37
+247,247,10855,10855,Less Than High School,Retail Trade,284419177,64093,2004,Female,Florida,4437.6
+248,248,10856,10856,High School Graduate,Retail Trade,643997942,126592,2004,Female,Florida,5087.19
+249,249,10857,10857,Some College,Retail Trade,648452982,109675,2004,Female,Florida,5912.5
+250,250,10858,10858,Advanced Degree,Retail Trade,420803270,50910,2004,Female,Florida,8265.63
+251,251,10859,10859,Unavalble,Retail Trade,326160111,115610,2004,Female,Florida,2821.21
+252,252,10884,10884,All Education Categories,Finance and Insurance,2200269952,118979,2004,Male,Florida,18492.93
+253,253,10885,10885,Less Than High School,Finance and Insurance,70852984,6852,2004,Male,Florida,10340.48
+254,254,10886,10886,High School Graduate,Finance and Insurance,216330640,17045,2004,Male,Florida,12691.74
+255,255,10887,10887,Some College,Finance and Insurance,472055904,29375,2004,Male,Florida,16069.99
+256,256,10888,10888,Advanced Degree,Finance and Insurance,1372891346,55892,2004,Male,Florida,24563.29
+257,257,10889,10889,Unavalble,Finance and Insurance,68139078,9815,2004,Male,Florida,6942.34
+258,258,10890,10890,All Education Categories,Finance and Insurance,2379535237,229090,2004,Female,Florida,10386.9
+259,259,10891,10891,Less Than High School,Finance and Insurance,82624195,11319,2004,Female,Florida,7299.6
+260,260,10892,10892,High School Graduate,Finance and Insurance,367824862,43719,2004,Female,Florida,8413.39
+261,261,10893,10893,Some College,Finance and Insurance,693364671,70513,2004,Female,Florida,9833.15
+262,262,10894,10894,Advanced Degree,Finance and Insurance,1098723990,79871,2004,Female,Florida,13756.23
+263,263,10895,10895,Unavalble,Finance and Insurance,136997518,23668,2004,Female,Florida,5788.3
+264,264,10944,10944,All Education Categories,Educational Services,1651507325,140289,2004,Male,Florida,11772.18
+265,265,10945,10945,Less Than High School,Educational Services,91472243,10659,2004,Male,Florida,8581.69
+266,266,10946,10946,High School Graduate,Educational Services,253229933,26319,2004,Male,Florida,9621.56
+267,267,10947,10947,Some College,Educational Services,415311119,36607,2004,Male,Florida,11345.13
+268,268,10948,10948,Advanced Degree,Educational Services,853966489,58082,2004,Male,Florida,14702.77
+269,269,10949,10949,Unavalble,Educational Services,37527541,8623,2004,Male,Florida,4352.03
+270,270,10950,10950,All Education Categories,Educational Services,3059501861,306159,2004,Female,Florida,9993.18
+271,271,10951,10951,Less Than High School,Educational Services,118823969,17259,2004,Female,Florida,6884.75
+272,272,10952,10952,High School Graduate,Educational Services,504691428,64802,2004,Female,Florida,7788.21
+273,273,10953,10953,Some College,Educational Services,860982031,89538,2004,Female,Florida,9615.83
+274,274,10954,10954,Advanced Degree,Educational Services,1481492133,116325,2004,Female,Florida,12735.8
+275,275,10955,10955,Unavalble,Educational Services,93512301,18236,2004,Female,Florida,5127.9
+276,276,10956,10956,All Education Categories,Health Care and Social Assistance,2532662426,185611,2004,Male,Florida,13645.0
+277,277,10957,10957,Less Than High School,Health Care and Social Assistance,145678893,19304,2004,Male,Florida,7546.57
+278,278,10958,10958,High School Graduate,Health Care and Social Assistance,327316386,35323,2004,Male,Florida,9266.38
+279,279,10959,10959,Some College,Health Care and Social Assistance,630631167,51410,2004,Male,Florida,12266.7
+280,280,10960,10960,Advanced Degree,Health Care and Social Assistance,1359724504,64133,2004,Male,Florida,21201.64
+281,281,10961,10961,Unavalble,Health Care and Social Assistance,69311476,15442,2004,Male,Florida,4488.5
+282,282,10962,10962,All Education Categories,Health Care and Social Assistance,5133700450,664041,2004,Female,Florida,7731.0
+283,283,10963,10963,Less Than High School,Health Care and Social Assistance,339678109,62206,2004,Female,Florida,5460.54
+284,284,10964,10964,High School Graduate,Health Care and Social Assistance,910539348,142664,2004,Female,Florida,6382.4
+285,285,10965,10965,Some College,Health Care and Social Assistance,1840076317,234762,2004,Female,Florida,7838.05
+286,286,10966,10966,Advanced Degree,Health Care and Social Assistance,1791807167,167357,2004,Female,Florida,10706.5
+287,287,10967,10967,Unavalble,Health Care and Social Assistance,251599509,57053,2004,Female,Florida,4409.93
+288,288,10980,10980,All Education Categories,Accommodation and Food Services,1708351494,324445,2004,Male,Florida,5265.46
+289,289,10981,10981,Less Than High School,Accommodation and Food Services,307155270,59261,2004,Male,Florida,5183.09
+290,290,10982,10982,High School Graduate,Accommodation and Food Services,426953525,73010,2004,Male,Florida,5847.88
+291,291,10983,10983,Some College,Accommodation and Food Services,409492003,62214,2004,Male,Florida,6581.99
+292,292,10984,10984,Advanced Degree,Accommodation and Food Services,258718730,30880,2004,Male,Florida,8378.2
+293,293,10985,10985,Unavalble,Accommodation and Food Services,306031966,99080,2004,Male,Florida,3088.74
+294,294,10986,10986,All Education Categories,Accommodation and Food Services,1348638030,336087,2004,Female,Florida,4012.76
+295,295,10987,10987,Less Than High School,Accommodation and Food Services,205665691,52779,2004,Female,Florida,3896.73
+296,296,10988,10988,High School Graduate,Accommodation and Food Services,315540728,73525,2004,Female,Florida,4291.61
+297,297,10989,10989,Some College,Accommodation and Food Services,322748547,66063,2004,Female,Florida,4885.47
+298,298,10990,10990,Advanced Degree,Accommodation and Food Services,189267002,30408,2004,Female,Florida,6224.25
+299,299,10991,10991,Unavalble,Accommodation and Food Services,315416062,113311,2004,Female,Florida,2783.63
+300,300,11016,11016,All Education Categories,00,38633763682,3775687,2005,Male,Florida,10232.25
+301,301,11017,11017,Less Than High School,00,3922861862,547300,2005,Male,Florida,7167.66
+302,302,11018,11018,High School Graduate,00,8125943458,914301,2005,Male,Florida,8887.6
+303,303,11019,11019,Some College,00,10574355596,977767,2005,Male,Florida,10814.8
+304,304,11020,11020,Advanced Degree,00,13784354273,829954,2005,Male,Florida,16608.58
+305,305,11021,11021,Unavalble,00,2226248492,506365,2005,Male,Florida,4396.53
+306,306,11022,11022,All Education Categories,00,26379844221,3651182,2005,Female,Florida,7225.01
+307,307,11023,11023,Less Than High School,00,2013547859,395850,2005,Female,Florida,5086.64
+308,308,11024,11024,High School Graduate,00,5221857009,840591,2005,Female,Florida,6212.13
+309,309,11025,11025,Some College,00,8153629186,1064722,2005,Female,Florida,7657.99
+310,310,11026,11026,Advanced Degree,00,9019180469,817777,2005,Female,Florida,11028.9
+311,311,11027,11027,Unavalble,00,1971629697,532243,2005,Female,Florida,3704.38
+312,312,11076,11076,All Education Categories,Manufacturing,3319948352,279767,2005,Male,Florida,11866.83
+313,313,11077,11077,Less Than High School,Manufacturing,385340784,45430,2005,Male,Florida,8482.08
+314,314,11078,11078,High School Graduate,Manufacturing,877744196,82980,2005,Male,Florida,10577.78
+315,315,11079,11079,Some College,Manufacturing,1004049811,79979,2005,Male,Florida,12553.92
+316,316,11080,11080,Advanced Degree,Manufacturing,934095001,51171,2005,Male,Florida,18254.38
+317,317,11081,11081,Unavalble,Manufacturing,118718561,20207,2005,Male,Florida,5875.12
+318,318,11082,11082,All Education Categories,Manufacturing,1000110188,126266,2005,Female,Florida,7920.66
+319,319,11083,11083,Less Than High School,Manufacturing,119452076,21089,2005,Female,Florida,5664.19
+320,320,11084,11084,High School Graduate,Manufacturing,270366455,38135,2005,Female,Florida,7089.72
+321,321,11085,11085,Some College,Manufacturing,309289127,36720,2005,Female,Florida,8422.91
+322,322,11086,11086,Advanced Degree,Manufacturing,256163042,20760,2005,Female,Florida,12339.26
+323,323,11087,11087,Unavalble,Manufacturing,44839489,9562,2005,Female,Florida,4689.34
+324,324,11100,11100,All Education Categories,Retail Trade,3819761158,482568,2005,Male,Florida,7915.49
+325,325,11101,11101,Less Than High School,Retail Trade,458209619,69514,2005,Male,Florida,6591.62
+326,326,11102,11102,High School Graduate,Retail Trade,993997940,122311,2005,Male,Florida,8126.81
+327,327,11103,11103,Some College,Retail Trade,1101240154,116223,2005,Male,Florida,9475.23
+328,328,11104,11104,Advanced Degree,Retail Trade,881359938,66818,2005,Male,Florida,13190.46
+329,329,11105,11105,Unavalble,Retail Trade,384953508,107703,2005,Male,Florida,3574.21
+330,330,11106,11106,All Education Categories,Retail Trade,2338185625,471183,2005,Female,Florida,4962.37
+331,331,11107,11107,Less Than High School,Retail Trade,289334455,64794,2005,Female,Florida,4465.45
+332,332,11108,11108,High School Graduate,Retail Trade,642721180,125655,2005,Female,Florida,5114.97
+333,333,11109,11109,Some College,Retail Trade,651145399,110437,2005,Female,Florida,5896.08
+334,334,11110,11110,Advanced Degree,Retail Trade,424075339,52241,2005,Female,Florida,8117.67
+335,335,11111,11111,Unavalble,Retail Trade,330909252,118055,2005,Female,Florida,2803.01
+336,336,11136,11136,All Education Categories,Finance and Insurance,2336500319,123210,2005,Male,Florida,18963.56
+337,337,11137,11137,Less Than High School,Finance and Insurance,79720339,7616,2005,Male,Florida,10467.48
+338,338,11138,11138,High School Graduate,Finance and Insurance,238098428,18305,2005,Male,Florida,13007.29
+339,339,11139,11139,Some College,Finance and Insurance,509775389,30935,2005,Male,Florida,16478.92
+340,340,11140,11140,Advanced Degree,Finance and Insurance,1440467385,56715,2005,Male,Florida,25398.35
+341,341,11141,11141,Unavalble,Finance and Insurance,68438778,9639,2005,Male,Florida,7100.19
+342,342,11142,11142,All Education Categories,Finance and Insurance,2505488174,232358,2005,Female,Florida,10782.88
+343,343,11143,11143,Less Than High School,Finance and Insurance,88775969,11946,2005,Female,Florida,7431.44
+344,344,11144,11144,High School Graduate,Finance and Insurance,382218843,44482,2005,Female,Florida,8592.66
+345,345,11145,11145,Some College,Finance and Insurance,731291186,71856,2005,Female,Florida,10177.18
+346,346,11146,11146,Advanced Degree,Finance and Insurance,1169101285,80971,2005,Female,Florida,14438.52
+347,347,11147,11147,Unavalble,Finance and Insurance,134100891,23102,2005,Female,Florida,5804.73
+348,348,11196,11196,All Education Categories,Educational Services,1579234611,167466,2005,Male,Florida,9430.18
+349,349,11197,11197,Less Than High School,Educational Services,91139354,13996,2005,Male,Florida,6511.81
+350,350,11198,11198,High School Graduate,Educational Services,243803779,30954,2005,Male,Florida,7876.33
+351,351,11199,11199,Some College,Educational Services,399387253,44087,2005,Male,Florida,9059.07
+352,352,11200,11200,Advanced Degree,Educational Services,805028288,66546,2005,Male,Florida,12097.32
+353,353,11201,11201,Unavalble,Educational Services,39875936,11883,2005,Male,Florida,3355.71
+354,354,11202,11202,All Education Categories,Educational Services,2966004270,377406,2005,Female,Florida,7858.92
+355,355,11203,11203,Less Than High School,Educational Services,121007600,24454,2005,Female,Florida,4948.38
+356,356,11204,11204,High School Graduate,Educational Services,488789644,77333,2005,Female,Florida,6320.58
+357,357,11205,11205,Some College,Educational Services,837632579,110274,2005,Female,Florida,7595.92
+358,358,11206,11206,Advanced Degree,Educational Services,1423347245,140475,2005,Female,Florida,10132.39
+359,359,11207,11207,Unavalble,Educational Services,95227203,24871,2005,Female,Florida,3828.84
+360,360,11208,11208,All Education Categories,Health Care and Social Assistance,2560090861,192697,2005,Male,Florida,13285.58
+361,361,11209,11209,Less Than High School,Health Care and Social Assistance,149119736,20574,2005,Male,Florida,7247.97
+362,362,11210,11210,High School Graduate,Health Care and Social Assistance,335588770,37711,2005,Male,Florida,8898.96
+363,363,11211,11211,Some College,Health Care and Social Assistance,639136632,53380,2005,Male,Florida,11973.34
+364,364,11212,11212,Advanced Degree,Health Care and Social Assistance,1368952511,64975,2005,Male,Florida,21068.91
+365,365,11213,11213,Unavalble,Health Care and Social Assistance,67293212,16057,2005,Male,Florida,4190.9
+366,366,11214,11214,All Education Categories,Health Care and Social Assistance,5136242644,663432,2005,Female,Florida,7741.93
+367,367,11215,11215,Less Than High School,Health Care and Social Assistance,341893409,62890,2005,Female,Florida,5436.37
+368,368,11216,11216,High School Graduate,Health Care and Social Assistance,913853021,143393,2005,Female,Florida,6373.07
+369,369,11217,11217,Some College,Health Care and Social Assistance,1837625192,234525,2005,Female,Florida,7835.52
+370,370,11218,11218,Advanced Degree,Health Care and Social Assistance,1797000947,166971,2005,Female,Florida,10762.35
+371,371,11219,11219,Unavalble,Health Care and Social Assistance,245870076,55654,2005,Female,Florida,4417.83
+372,372,11232,11232,All Education Categories,Accommodation and Food Services,1797762535,338157,2005,Male,Florida,5316.35
+373,373,11233,11233,Less Than High School,Accommodation and Food Services,320535090,61893,2005,Male,Florida,5178.86
+374,374,11234,11234,High School Graduate,Accommodation and Food Services,448290790,76557,2005,Male,Florida,5855.65
+375,375,11235,11235,Some College,Accommodation and Food Services,431824961,65322,2005,Male,Florida,6610.71
+376,376,11236,11236,Advanced Degree,Accommodation and Food Services,277686228,32629,2005,Male,Florida,8510.41
+377,377,11237,11237,Unavalble,Accommodation and Food Services,319425465,101756,2005,Male,Florida,3139.13
+378,378,11238,11238,All Education Categories,Accommodation and Food Services,1435616723,356782,2005,Female,Florida,4023.79
+379,379,11239,11239,Less Than High School,Accommodation and Food Services,218868595,56016,2005,Female,Florida,3907.25
+380,380,11240,11240,High School Graduate,Accommodation and Food Services,330845704,77090,2005,Female,Florida,4291.68
+381,381,11241,11241,Some College,Accommodation and Food Services,341711905,69730,2005,Female,Florida,4900.5
+382,382,11242,11242,Advanced Degree,Accommodation and Food Services,204801550,32421,2005,Female,Florida,6316.94
+383,383,11243,11243,Unavalble,Accommodation and Food Services,339388968,121525,2005,Female,Florida,2792.75
+384,384,11268,11268,All Education Categories,00,47526526001,3921221,2006,Male,Florida,12120.34
+385,385,11269,11269,Less Than High School,00,4547569668,574334,2006,Male,Florida,7917.99
+386,386,11270,11270,High School Graduate,00,9431800802,946151,2006,Male,Florida,9968.6
+387,387,11271,11271,Some College,00,12642803281,1011117,2006,Male,Florida,12503.8
+388,388,11272,11272,Advanced Degree,00,18290700911,850473,2006,Male,Florida,21506.5
+389,389,11273,11273,Unavalble,00,2613651339,539146,2006,Male,Florida,4847.76
+390,390,11274,11274,All Education Categories,00,29841714641,3790320,2006,Female,Florida,7873.14
+391,391,11275,11275,Less Than High School,00,2306198210,419412,2006,Female,Florida,5498.65
+392,392,11276,11276,High School Graduate,00,5809439099,866835,2006,Female,Florida,6701.9
+393,393,11277,11277,Some College,00,9125163595,1100012,2006,Female,Florida,8295.51
+394,394,11278,11278,Advanced Degree,00,10348781017,843518,2006,Female,Florida,12268.6
+395,395,11279,11279,Unavalble,00,2252132721,560544,2006,Female,Florida,4017.76
+396,396,11328,11328,All Education Categories,Manufacturing,3813350633,282150,2006,Male,Florida,13515.33
+397,397,11329,11329,Less Than High School,Manufacturing,425978646,45964,2006,Male,Florida,9267.66
+398,398,11330,11330,High School Graduate,Manufacturing,970545116,83270,2006,Male,Florida,11655.4
+399,399,11331,11331,Some College,Manufacturing,1133380951,80452,2006,Male,Florida,14087.67
+400,400,11332,11332,Advanced Degree,Manufacturing,1148246151,51474,2006,Male,Florida,22307.3
+401,401,11333,11333,Unavalble,Manufacturing,135199769,20989,2006,Male,Florida,6441.46
+402,402,11334,11334,All Education Categories,Manufacturing,1070895062,125079,2006,Female,Florida,8561.75
+403,403,11335,11335,Less Than High School,Manufacturing,127649976,21061,2006,Female,Florida,6060.96
+404,404,11336,11336,High School Graduate,Manufacturing,282085914,37377,2006,Female,Florida,7547.05
+405,405,11337,11337,Some College,Manufacturing,327471647,36168,2006,Female,Florida,9054.18
+406,406,11338,11338,Advanced Degree,Manufacturing,284673085,20870,2006,Female,Florida,13640.3
+407,407,11339,11339,Unavalble,Manufacturing,49014440,9603,2006,Female,Florida,5104.08
+408,408,11352,11352,All Education Categories,Retail Trade,4340535340,492927,2006,Male,Florida,8805.64
+409,409,11353,11353,Less Than High School,Retail Trade,509135578,70982,2006,Male,Florida,7172.74
+410,410,11354,11354,High School Graduate,Retail Trade,1095000785,122115,2006,Male,Florida,8966.96
+411,411,11355,11355,Some College,Retail Trade,1243444984,116679,2006,Male,Florida,10656.97
+412,412,11356,11356,Advanced Degree,Retail Trade,1052169347,66869,2006,Male,Florida,15734.79
+413,413,11357,11357,Unavalble,Retail Trade,440784645,116282,2006,Male,Florida,3790.65
+414,414,11358,11358,All Education Categories,Retail Trade,2557211536,485693,2006,Female,Florida,5265.08
+415,415,11359,11359,Less Than High School,Retail Trade,319017354,67678,2006,Female,Florida,4713.75
+416,416,11360,11360,High School Graduate,Retail Trade,682654802,126114,2006,Female,Florida,5413.0
+417,417,11361,11361,Some College,Retail Trade,706508607,112163,2006,Female,Florida,6298.95
+418,418,11362,11362,Advanced Degree,Retail Trade,475607935,53079,2006,Female,Florida,8960.38
+419,419,11363,11363,Unavalble,Retail Trade,373422838,126660,2006,Female,Florida,2948.23
+420,420,11388,11388,All Education Categories,Finance and Insurance,3536501922,125573,2006,Male,Florida,28162.92
+421,421,11389,11389,Less Than High School,Finance and Insurance,102074658,7955,2006,Male,Florida,12831.51
+422,422,11390,11390,High School Graduate,Finance and Insurance,306452183,18846,2006,Male,Florida,16260.86
+423,423,11391,11391,Some College,Finance and Insurance,702750346,31417,2006,Male,Florida,22368.47
+424,424,11392,11392,Advanced Degree,Finance and Insurance,2350038077,57450,2006,Male,Florida,40905.8
+425,425,11393,11393,Unavalble,Finance and Insurance,75186657,9904,2006,Male,Florida,7591.54
+426,426,11394,11394,All Education Categories,Finance and Insurance,2811915979,230145,2006,Female,Florida,12218.02
+427,427,11395,11395,Less Than High School,Finance and Insurance,100490427,12493,2006,Female,Florida,8043.74
+428,428,11396,11396,High School Graduate,Finance and Insurance,413285938,44033,2006,Female,Florida,9385.82
+429,429,11397,11397,Some College,Finance and Insurance,797870173,70598,2006,Female,Florida,11301.6
+430,430,11398,11398,Advanced Degree,Finance and Insurance,1352141012,79552,2006,Female,Florida,16996.95
+431,431,11399,11399,Unavalble,Finance and Insurance,148128429,23469,2006,Female,Florida,6311.66
+432,432,11448,11448,All Education Categories,Educational Services,1889898006,171001,2006,Male,Florida,11051.97
+433,433,11449,11449,Less Than High School,Educational Services,109039184,14454,2006,Male,Florida,7543.88
+434,434,11450,11450,High School Graduate,Educational Services,288071201,31913,2006,Male,Florida,9026.77
+435,435,11451,11451,Some College,Educational Services,473382092,45166,2006,Male,Florida,10480.94
+436,436,11452,11452,Advanced Degree,Educational Services,971837252,67130,2006,Male,Florida,14476.94
+437,437,11453,11453,Unavalble,Educational Services,47568276,12338,2006,Male,Florida,3855.43
+438,438,11454,11454,All Education Categories,Educational Services,3449652530,393906,2006,Female,Florida,8757.55
+439,439,11455,11455,Less Than High School,Educational Services,147596671,25674,2006,Female,Florida,5748.88
+440,440,11456,11456,High School Graduate,Educational Services,568094319,80891,2006,Female,Florida,7022.96
+441,441,11457,11457,Some College,Educational Services,980454408,115479,2006,Female,Florida,8490.33
+442,442,11458,11458,Advanced Degree,Educational Services,1638765502,145510,2006,Female,Florida,11262.22
+443,443,11459,11459,Unavalble,Educational Services,114741630,26352,2006,Female,Florida,4354.19
+444,444,11460,11460,All Education Categories,Health Care and Social Assistance,3166559643,199463,2006,Male,Florida,15875.42
+445,445,11461,11461,Less Than High School,Health Care and Social Assistance,174571799,21643,2006,Male,Florida,8065.97
+446,446,11462,11462,High School Graduate,Health Care and Social Assistance,394034825,39124,2006,Male,Florida,10071.44
+447,447,11463,11463,Some College,Health Care and Social Assistance,768613372,55327,2006,Male,Florida,13892.19
+448,448,11464,11464,Advanced Degree,Health Care and Social Assistance,1754694309,67002,2006,Male,Florida,26188.69
+449,449,11465,11465,Unavalble,Health Care and Social Assistance,74645337,16366,2006,Male,Florida,4561.0
+450,450,11466,11466,All Education Categories,Health Care and Social Assistance,5770247820,697857,2006,Female,Florida,8268.52
+451,451,11467,11467,Less Than High School,Health Care and Social Assistance,394368240,68049,2006,Female,Florida,5795.36
+452,452,11468,11468,High School Graduate,Health Care and Social Assistance,1019371661,150203,2006,Female,Florida,6786.63
+453,453,11469,11469,Some College,Health Care and Social Assistance,2043930737,245040,2006,Female,Florida,8341.21
+454,454,11470,11470,Advanced Degree,Health Care and Social Assistance,2032462612,175509,2006,Female,Florida,11580.39
+455,455,11471,11471,Unavalble,Health Care and Social Assistance,280114569,59056,2006,Female,Florida,4743.2
+456,456,11484,11484,All Education Categories,Accommodation and Food Services,2058589425,340025,2006,Male,Florida,6054.23
+457,457,11485,11485,Less Than High School,Accommodation and Food Services,353390103,62175,2006,Male,Florida,5683.8
+458,458,11486,11486,High School Graduate,Accommodation and Food Services,499276461,76618,2006,Male,Florida,6516.44
+459,459,11487,11487,Some College,Accommodation and Food Services,493239043,65546,2006,Male,Florida,7525.08
+460,460,11488,11488,Advanced Degree,Accommodation and Food Services,361534426,32689,2006,Male,Florida,11059.82
+461,461,11489,11489,Unavalble,Accommodation and Food Services,351149392,102998,2006,Male,Florida,3409.28
+462,462,11490,11490,All Education Categories,Accommodation and Food Services,1589297204,362320,2006,Female,Florida,4386.45
+463,463,11491,11491,Less Than High School,Accommodation and Food Services,242239231,57054,2006,Female,Florida,4245.79
+464,464,11492,11492,High School Graduate,Accommodation and Food Services,362108687,77669,2006,Female,Florida,4662.2
+465,465,11493,11493,Some College,Accommodation and Food Services,372919077,70246,2006,Female,Florida,5308.76
+466,466,11494,11494,Advanced Degree,Accommodation and Food Services,226620925,32733,2006,Female,Florida,6923.32
+467,467,11495,11495,Unavalble,Accommodation and Food Services,385409284,124617,2006,Female,Florida,3092.75
+468,468,11520,11520,All Education Categories,00,49973330033,3965266,2007,Male,Florida,12602.77
+469,469,11521,11521,Less Than High School,00,4771860618,583434,2007,Male,Florida,8178.92
+470,470,11522,11522,High School Graduate,00,9832867930,956878,2007,Male,Florida,10275.99
+471,471,11523,11523,Some College,00,13268117147,1025635,2007,Male,Florida,12936.49
+472,472,11524,11524,Advanced Degree,00,19477480699,864581,2007,Male,Florida,22528.23
+473,473,11525,11525,Unavalble,00,2623003640,534738,2007,Male,Florida,4905.21
+474,474,11526,11526,All Education Categories,00,31904428059,3868601,2007,Female,Florida,8247.02
+475,475,11527,11527,Less Than High School,00,2500129130,433232,2007,Female,Florida,5770.88
+476,476,11528,11528,High School Graduate,00,6171256757,880007,2007,Female,Florida,7012.74
+477,477,11529,11529,Some College,00,9752923012,1124530,2007,Female,Florida,8672.89
+478,478,11530,11530,Advanced Degree,00,11146137922,866637,2007,Female,Florida,12861.37
+479,479,11531,11531,Unavalble,00,2333981238,564194,2007,Female,Florida,4136.84
+480,480,11580,11580,All Education Categories,Manufacturing,3784937875,276371,2007,Male,Florida,13695.13
+481,481,11581,11581,Less Than High School,Manufacturing,425661956,45109,2007,Male,Florida,9436.3
+482,482,11582,11582,High School Graduate,Manufacturing,964518559,81242,2007,Male,Florida,11872.17
+483,483,11583,11583,Some College,Manufacturing,1131319763,79085,2007,Male,Florida,14305.11
+484,484,11584,11584,Advanced Degree,Manufacturing,1132762963,50928,2007,Male,Florida,22242.44
+485,485,11585,11585,Unavalble,Manufacturing,130674635,20007,2007,Male,Florida,6531.45
+486,486,11586,11586,All Education Categories,Manufacturing,1110901642,125480,2007,Female,Florida,8853.22
+487,487,11587,11587,Less Than High School,Manufacturing,133270664,21178,2007,Female,Florida,6292.88
+488,488,11588,11588,High School Graduate,Manufacturing,291144623,37141,2007,Female,Florida,7838.9
+489,489,11589,11589,Some College,Manufacturing,341332767,36459,2007,Female,Florida,9362.1
+490,490,11590,11590,Advanced Degree,Manufacturing,294653364,21332,2007,Female,Florida,13812.74
+491,491,11591,11591,Unavalble,Manufacturing,50500223,9370,2007,Female,Florida,5389.56
+492,492,11604,11604,All Education Categories,Retail Trade,4148177826,470267,2007,Male,Florida,8820.9
+493,493,11605,11605,Less Than High School,Retail Trade,496040782,67174,2007,Male,Florida,7384.42
+494,494,11606,11606,High School Graduate,Retail Trade,1044096175,115112,2007,Male,Florida,9070.26
+495,495,11607,11607,Some College,Retail Trade,1181911532,111072,2007,Male,Florida,10640.95
+496,496,11608,11608,Advanced Degree,Retail Trade,998235721,64218,2007,Male,Florida,15544.48
+497,497,11609,11609,Unavalble,Retail Trade,427893616,112692,2007,Male,Florida,3797.02
+498,498,11610,11610,All Education Categories,Retail Trade,2456555965,459073,2007,Female,Florida,5351.12
+499,499,11611,11611,Less Than High School,Retail Trade,303786380,62725,2007,Female,Florida,4843.15
+500,500,11612,11612,High School Graduate,Retail Trade,635381606,114600,2007,Female,Florida,5544.34
+501,501,11613,11613,Some College,Retail Trade,678339141,105275,2007,Female,Florida,6443.5
+502,502,11614,11614,Advanced Degree,Retail Trade,471789427,51755,2007,Female,Florida,9115.82
+503,503,11615,11615,Unavalble,Retail Trade,367259411,124718,2007,Female,Florida,2944.72
+504,504,11640,11640,All Education Categories,Finance and Insurance,4095144192,132655,2007,Male,Florida,30870.64
+505,505,11641,11641,Less Than High School,Finance and Insurance,120486751,8849,2007,Male,Florida,13615.86
+506,506,11642,11642,High School Graduate,Finance and Insurance,350046505,20406,2007,Male,Florida,17154.1
+507,507,11643,11643,Some College,Finance and Insurance,807403199,33386,2007,Male,Florida,24183.89
+508,508,11644,11644,Advanced Degree,Finance and Insurance,2735180707,59559,2007,Male,Florida,45923.89
+509,509,11645,11645,Unavalble,Finance and Insurance,82027030,10454,2007,Male,Florida,7846.47
+510,510,11646,11646,All Education Categories,Finance and Insurance,3175687031,242753,2007,Female,Florida,13081.97
+511,511,11647,11647,Less Than High School,Finance and Insurance,120446928,13983,2007,Female,Florida,8613.81
+512,512,11648,11648,High School Graduate,Finance and Insurance,467796150,46686,2007,Female,Florida,10020.05
+513,513,11649,11649,Some College,Finance and Insurance,899180186,74485,2007,Female,Florida,12071.96
+514,514,11650,11650,Advanced Degree,Finance and Insurance,1526025160,83063,2007,Female,Florida,18371.9
+515,515,11651,11651,Unavalble,Finance and Insurance,162238608,24537,2007,Female,Florida,6612.0
+516,516,11700,11700,All Education Categories,Educational Services,2129307073,175315,2007,Male,Florida,12145.61
+517,517,11701,11701,Less Than High School,Educational Services,122155206,15330,2007,Male,Florida,7968.38
+518,518,11702,11702,High School Graduate,Educational Services,320765653,33164,2007,Male,Florida,9672.1
+519,519,11703,11703,Some College,Educational Services,526026472,46494,2007,Male,Florida,11313.86
+520,520,11704,11704,Advanced Degree,Educational Services,1108365650,67454,2007,Male,Florida,16431.43
+521,521,11705,11705,Unavalble,Educational Services,51994092,12874,2007,Male,Florida,4038.69
+522,522,11706,11706,All Education Categories,Educational Services,3759181847,408212,2007,Female,Florida,9208.9
+523,523,11707,11707,Less Than High School,Educational Services,166504737,27742,2007,Female,Florida,6001.9
+524,524,11708,11708,High School Graduate,Educational Services,621600306,84043,2007,Female,Florida,7396.22
+525,525,11709,11709,Some College,Educational Services,1074112052,120353,2007,Female,Florida,8924.68
+526,526,11710,11710,Advanced Degree,Educational Services,1774187262,148977,2007,Female,Florida,11909.14
+527,527,11711,11711,Unavalble,Educational Services,122777490,27097,2007,Female,Florida,4531.04
+528,528,11712,11712,All Education Categories,Health Care and Social Assistance,3413039244,205621,2007,Male,Florida,16598.69
+529,529,11713,11713,Less Than High School,Health Care and Social Assistance,193825025,22860,2007,Male,Florida,8478.78
+530,530,11714,11714,High School Graduate,Health Care and Social Assistance,429610497,40692,2007,Male,Florida,10557.62
+531,531,11715,11715,Some College,Health Care and Social Assistance,827986393,56836,2007,Male,Florida,14567.99
+532,532,11716,11716,Advanced Degree,Health Care and Social Assistance,1881234464,68360,2007,Male,Florida,27519.52
+533,533,11717,11717,Unavalble,Health Care and Social Assistance,80382864,16873,2007,Male,Florida,4763.99
+534,534,11718,11718,All Education Categories,Health Care and Social Assistance,6230495116,722137,2007,Female,Florida,8627.86
+535,535,11719,11719,Less Than High School,Health Care and Social Assistance,446352901,73012,2007,Female,Florida,6113.42
+536,536,11720,11720,High School Graduate,Health Care and Social Assistance,1113503522,156309,2007,Female,Florida,7123.73
+537,537,11721,11721,Some College,Health Care and Social Assistance,2193898521,251724,2007,Female,Florida,8715.49
+538,538,11722,11722,Advanced Degree,Health Care and Social Assistance,2173529501,179436,2007,Female,Florida,12113.12
+539,539,11723,11723,Unavalble,Health Care and Social Assistance,303210671,61656,2007,Female,Florida,4917.78
+540,540,11736,11736,All Education Categories,Accommodation and Food Services,2187649328,353426,2007,Male,Florida,6189.84
+541,541,11737,11737,Less Than High School,Accommodation and Food Services,380746581,64823,2007,Male,Florida,5873.63
+542,542,11738,11738,High School Graduate,Accommodation and Food Services,532537345,80201,2007,Male,Florida,6640.03
+543,543,11739,11739,Some College,Accommodation and Food Services,524000340,68044,2007,Male,Florida,7700.9
+544,544,11740,11740,Advanced Degree,Accommodation and Food Services,378802555,34255,2007,Male,Florida,11058.31
+545,545,11741,11741,Unavalble,Accommodation and Food Services,371562506,106103,2007,Male,Florida,3501.9
+546,546,11742,11742,All Education Categories,Accommodation and Food Services,1720292424,373505,2007,Female,Florida,4605.81
+547,547,11743,11743,Less Than High School,Accommodation and Food Services,268894128,59590,2007,Female,Florida,4512.4
+548,548,11744,11744,High School Graduate,Accommodation and Food Services,394413079,80534,2007,Female,Florida,4897.47
+549,549,11745,11745,Some College,Accommodation and Food Services,406391466,73196,2007,Female,Florida,5552.1
+550,550,11746,11746,Advanced Degree,Accommodation and Food Services,249061042,34584,2007,Female,Florida,7201.63
+551,551,11747,11747,Unavalble,Accommodation and Food Services,401532708,125601,2007,Female,Florida,3196.89
+552,552,11772,11772,All Education Categories,00,48247264095,3830564,2008,Male,Florida,12595.34
+553,553,11773,11773,Less Than High School,00,4655691517,571393,2008,Male,Florida,8147.97
+554,554,11774,11774,High School Graduate,00,9577007639,934149,2008,Male,Florida,10252.12
+555,555,11775,11775,Some College,00,12887985306,999997,2008,Male,Florida,12888.02
+556,556,11776,11776,Advanced Degree,00,18782962709,839171,2008,Male,Florida,22382.76
+557,557,11777,11777,Unavalble,00,2343616924,485854,2008,Male,Florida,4823.71
+558,558,11778,11778,All Education Categories,00,31671971046,3770506,2008,Female,Florida,8399.93
+559,559,11779,11779,Less Than High School,00,2563110432,434573,2008,Female,Florida,5898.0
+560,560,11780,11780,High School Graduate,00,6217112876,869614,2008,Female,Florida,7149.28
+561,561,11781,11781,Some College,00,9774536221,1104377,2008,Female,Florida,8850.72
+562,562,11782,11782,Advanced Degree,00,10951345427,841392,2008,Female,Florida,13015.75
+563,563,11783,11783,Unavalble,00,2165866090,520551,2008,Female,Florida,4160.72
+564,564,11832,11832,All Education Categories,Manufacturing,3741586781,270234,2008,Male,Florida,13845.73
+565,565,11833,11833,Less Than High School,Manufacturing,416993160,43975,2008,Male,Florida,9482.51
+566,566,11834,11834,High School Graduate,Manufacturing,950577236,79119,2008,Male,Florida,12014.53
+567,567,11835,11835,Some College,Manufacturing,1119929527,77656,2008,Male,Florida,14421.67
+568,568,11836,11836,Advanced Degree,Manufacturing,1133522019,51046,2008,Male,Florida,22205.89
+569,569,11837,11837,Unavalble,Manufacturing,120564838,18438,2008,Male,Florida,6538.93
+570,570,11838,11838,All Education Categories,Manufacturing,1135214528,125595,2008,Female,Florida,9038.69
+571,571,11839,11839,Less Than High School,Manufacturing,133685084,20782,2008,Female,Florida,6432.73
+572,572,11840,11840,High School Graduate,Manufacturing,293822374,36672,2008,Female,Florida,8012.17
+573,573,11841,11841,Some College,Manufacturing,352552535,36947,2008,Female,Florida,9542.12
+574,574,11842,11842,Advanced Degree,Manufacturing,308161359,22134,2008,Female,Florida,13922.53
+575,575,11843,11843,Unavalble,Manufacturing,46993176,9061,2008,Female,Florida,5186.31
+576,576,11856,11856,All Education Categories,Retail Trade,4114004278,478705,2008,Male,Florida,8594.03
+577,577,11857,11857,Less Than High School,Retail Trade,510677988,71224,2008,Male,Florida,7170.03
+578,578,11858,11858,High School Graduate,Retail Trade,1046728421,120129,2008,Male,Florida,8713.37
+579,579,11859,11859,Some College,Retail Trade,1177346699,115387,2008,Male,Florida,10203.46
+580,580,11860,11860,Advanced Degree,Retail Trade,973900199,66306,2008,Male,Florida,14687.96
+581,581,11861,11861,Unavalble,Retail Trade,405350971,105658,2008,Male,Florida,3836.44
+582,582,11862,11862,All Education Categories,Retail Trade,2594954730,467053,2008,Female,Florida,5556.02
+583,583,11863,11863,Less Than High School,Retail Trade,335526572,66962,2008,Female,Florida,5010.7
+584,584,11864,11864,High School Graduate,Retail Trade,686015531,121090,2008,Female,Florida,5665.34
+585,585,11865,11865,Some College,Retail Trade,727429387,111273,2008,Female,Florida,6537.34
+586,586,11866,11866,Advanced Degree,Retail Trade,495191725,54315,2008,Female,Florida,9117.03
+587,587,11867,11867,Unavalble,Retail Trade,350791515,113414,2008,Female,Florida,3093.02
+588,588,11892,11892,All Education Categories,Finance and Insurance,3828533155,127911,2008,Male,Florida,29931.23
+589,589,11893,11893,Less Than High School,Finance and Insurance,124593677,9043,2008,Male,Florida,13777.91
+590,590,11894,11894,High School Graduate,Finance and Insurance,350419488,20159,2008,Male,Florida,17382.78
+591,591,11895,11895,Some College,Finance and Insurance,770315034,32275,2008,Male,Florida,23867.24
+592,592,11896,11896,Advanced Degree,Finance and Insurance,2508500346,56709,2008,Male,Florida,44234.61
+593,593,11897,11897,Unavalble,Finance and Insurance,74704609,9724,2008,Male,Florida,7682.5
+594,594,11898,11898,All Education Categories,Finance and Insurance,3018504204,230035,2008,Female,Florida,13121.93
+595,595,11899,11899,Less Than High School,Finance and Insurance,123216250,14055,2008,Female,Florida,8766.72
+596,596,11900,11900,High School Graduate,Finance and Insurance,454034348,44761,2008,Female,Florida,10143.53
+597,597,11901,11901,Some College,Finance and Insurance,867125201,70892,2008,Female,Florida,12231.64
+598,598,11902,11902,Advanced Degree,Finance and Insurance,1428752677,78087,2008,Female,Florida,18296.93
+599,599,11903,11903,Unavalble,Finance and Insurance,145375728,22239,2008,Female,Florida,6536.97
+600,600,11952,11952,All Education Categories,Educational Services,1803109509,156534,2008,Male,Florida,11518.96
+601,601,11953,11953,Less Than High School,Educational Services,111445370,13969,2008,Male,Florida,7978.05
+602,602,11954,11954,High School Graduate,Educational Services,293757113,30881,2008,Male,Florida,9512.55
+603,603,11955,11955,Some College,Educational Services,458321669,42164,2008,Male,Florida,10869.98
+604,604,11956,11956,Advanced Degree,Educational Services,899812970,60403,2008,Male,Florida,14896.83
+605,605,11957,11957,Unavalble,Educational Services,39772388,9117,2008,Male,Florida,4362.44
+606,606,11958,11958,All Education Categories,Educational Services,3402066949,367761,2008,Female,Florida,9250.76
+607,607,11959,11959,Less Than High School,Educational Services,153732236,24853,2008,Female,Florida,6185.66
+608,608,11960,11960,High School Graduate,Educational Services,586781216,77405,2008,Female,Florida,7580.66
+609,609,11961,11961,Some College,Educational Services,984293353,110130,2008,Female,Florida,8937.56
+610,610,11962,11962,Advanced Degree,Educational Services,1578170837,135444,2008,Female,Florida,11651.83
+611,611,11963,11963,Unavalble,Educational Services,99089307,19929,2008,Female,Florida,4972.12
+612,612,11964,11964,All Education Categories,Health Care and Social Assistance,3756198456,218347,2008,Male,Florida,17202.89
+613,613,11965,11965,Less Than High School,Health Care and Social Assistance,227773987,25563,2008,Male,Florida,8910.3
+614,614,11966,11966,High School Graduate,Health Care and Social Assistance,492211310,44576,2008,Male,Florida,11042.07
+615,615,11967,11967,Some College,Health Care and Social Assistance,911323505,59814,2008,Male,Florida,15235.96
+616,616,11968,11968,Advanced Degree,Health Care and Social Assistance,2033880620,69844,2008,Male,Florida,29120.33
+617,617,11969,11969,Unavalble,Health Care and Social Assistance,91009035,18550,2008,Male,Florida,4906.15
+618,618,11970,11970,All Education Categories,Health Care and Social Assistance,6711210818,731658,2008,Female,Florida,9172.61
+619,619,11971,11971,Less Than High School,Health Care and Social Assistance,497883070,76677,2008,Female,Florida,6493.25
+620,620,11972,11972,High School Graduate,Health Care and Social Assistance,1210687496,160514,2008,Female,Florida,7542.57
+621,621,11973,11973,Some College,Health Care and Social Assistance,2353382893,253201,2008,Female,Florida,9294.52
+622,622,11974,11974,Advanced Degree,Health Care and Social Assistance,2334405693,179308,2008,Female,Florida,13018.97
+623,623,11975,11975,Unavalble,Health Care and Social Assistance,314851666,61958,2008,Female,Florida,5081.7
+624,624,11988,11988,All Education Categories,Accommodation and Food Services,2362620265,374939,2008,Male,Florida,6301.35
+625,625,11989,11989,Less Than High School,Accommodation and Food Services,408803908,69771,2008,Male,Florida,5859.22
+626,626,11990,11990,High School Graduate,Accommodation and Food Services,579193140,86926,2008,Male,Florida,6663.06
+627,627,11991,11991,Some College,Accommodation and Food Services,572981679,74651,2008,Male,Florida,7675.47
+628,628,11992,11992,Advanced Degree,Accommodation and Food Services,438368541,38197,2008,Male,Florida,11476.52
+629,629,11993,11993,Unavalble,Accommodation and Food Services,363272998,105395,2008,Male,Florida,3446.78
+630,630,11994,11994,All Education Categories,Accommodation and Food Services,1836369109,391620,2008,Female,Florida,4689.16
+631,631,11995,11995,Less Than High School,Accommodation and Food Services,283528319,63005,2008,Female,Florida,4500.09
+632,632,11996,11996,High School Graduate,Accommodation and Food Services,423576906,85866,2008,Female,Florida,4933.0
+633,633,11997,11997,Some College,Accommodation and Food Services,447020589,79373,2008,Female,Florida,5631.9
+634,634,11998,11998,Advanced Degree,Accommodation and Food Services,283879199,38554,2008,Female,Florida,7363.16
+635,635,11999,11999,Unavalble,Accommodation and Food Services,398364097,124822,2008,Female,Florida,3191.46
+636,636,12024,12024,All Education Categories,00,42710054457,3552553,2009,Male,Florida,12022.36
+637,637,12025,12025,Less Than High School,00,4106795250,529001,2009,Male,Florida,7763.3
+638,638,12026,12026,High School Graduate,00,8495481110,868147,2009,Male,Florida,9785.76
+639,639,12027,12027,Some College,00,11546977208,939159,2009,Male,Florida,12295.02
+640,640,12028,12028,Advanced Degree,00,16684347873,796400,2009,Male,Florida,20949.71
+641,641,12029,12029,Unavalble,00,1876453017,419845,2009,Male,Florida,4469.39
+642,642,12030,12030,All Education Categories,00,29929414143,3659220,2009,Female,Florida,8179.18
+643,643,12031,12031,Less Than High School,00,2459049009,427709,2009,Female,Florida,5749.35
+644,644,12032,12032,High School Graduate,00,5896558348,845542,2009,Female,Florida,6973.7
+645,645,12033,12033,Some College,00,9331441350,1083961,2009,Female,Florida,8608.65
+646,646,12034,12034,Advanced Degree,00,10415204462,833493,2009,Female,Florida,12495.85
+647,647,12035,12035,Unavalble,00,1827160974,468515,2009,Female,Florida,3899.9
+648,648,12084,12084,All Education Categories,Manufacturing,3213206498,238387,2009,Male,Florida,13478.95
+649,649,12085,12085,Less Than High School,Manufacturing,347100623,38131,2009,Male,Florida,9102.85
+650,650,12086,12086,High School Graduate,Manufacturing,812563519,69793,2009,Male,Florida,11642.48
+651,651,12087,12087,Some College,Manufacturing,971946037,69491,2009,Male,Florida,13986.65
+652,652,12088,12088,Advanced Degree,Manufacturing,994397483,46817,2009,Male,Florida,21240.09
+653,653,12089,12089,Unavalble,Manufacturing,87198836,14155,2009,Male,Florida,6160.29
+654,654,12090,12090,All Education Categories,Manufacturing,997722619,110975,2009,Female,Florida,8990.52
+655,655,12091,12091,Less Than High School,Manufacturing,112729471,18024,2009,Female,Florida,6254.41
+656,656,12092,12092,High School Graduate,Manufacturing,253460230,32191,2009,Female,Florida,7873.64
+657,657,12093,12093,Some College,Manufacturing,312263438,33048,2009,Female,Florida,9448.78
+658,658,12094,12094,Advanced Degree,Manufacturing,282406319,20350,2009,Female,Florida,13877.46
+659,659,12095,12095,Unavalble,Manufacturing,36863161,7361,2009,Female,Florida,5007.9
+660,660,12108,12108,All Education Categories,Retail Trade,3662164899,456841,2009,Male,Florida,8016.28
+661,661,12109,12109,Less Than High School,Retail Trade,463166758,68883,2009,Male,Florida,6723.96
+662,662,12110,12110,High School Graduate,Retail Trade,938799099,115240,2009,Male,Florida,8146.47
+663,663,12111,12111,Some College,Retail Trade,1055012642,111024,2009,Male,Florida,9502.56
+664,664,12112,12112,Advanced Degree,Retail Trade,869174118,64298,2009,Male,Florida,13517.9
+665,665,12113,12113,Unavalble,Retail Trade,336012282,97396,2009,Male,Florida,3449.96
+666,666,12114,12114,All Education Categories,Retail Trade,2487333909,468339,2009,Female,Florida,5310.97
+667,667,12115,12115,Less Than High School,Retail Trade,328840886,68355,2009,Female,Florida,4810.78
+668,668,12116,12116,High School Graduate,Retail Trade,662744666,122105,2009,Female,Florida,5427.66
+669,669,12117,12117,Some College,Retail Trade,706677367,113273,2009,Female,Florida,6238.71
+670,670,12118,12118,Advanced Degree,Retail Trade,481215647,55964,2009,Female,Florida,8598.66
+671,671,12119,12119,Unavalble,Retail Trade,307855343,108642,2009,Female,Florida,2833.67
+672,672,12144,12144,All Education Categories,Finance and Insurance,3103847018,118088,2009,Male,Florida,26284.19
+673,673,12145,12145,Less Than High School,Finance and Insurance,111563418,8728,2009,Male,Florida,12782.24
+674,674,12146,12146,High School Graduate,Finance and Insurance,305548774,19136,2009,Male,Florida,15967.22
+675,675,12147,12147,Some College,Finance and Insurance,643826368,30245,2009,Male,Florida,21287.03
+676,676,12148,12148,Advanced Degree,Finance and Insurance,1983853390,51929,2009,Male,Florida,38203.19
+677,677,12149,12149,Unavalble,Finance and Insurance,59055068,8050,2009,Male,Florida,7336.03
+678,678,12150,12150,All Education Categories,Finance and Insurance,2658705698,208838,2009,Female,Florida,12730.95
+679,679,12151,12151,Less Than High School,Finance and Insurance,116228003,13417,2009,Female,Florida,8662.74
+680,680,12152,12152,High School Graduate,Finance and Insurance,414329479,41479,2009,Female,Florida,9988.9
+681,681,12153,12153,Some College,Finance and Insurance,778991891,65410,2009,Female,Florida,11909.37
+682,682,12154,12154,Advanced Degree,Finance and Insurance,1238779872,71271,2009,Female,Florida,17381.26
+683,683,12155,12155,Unavalble,Finance and Insurance,110376453,17261,2009,Female,Florida,6394.56
+684,684,12204,12204,All Education Categories,Educational Services,1975793294,173923,2009,Male,Florida,11360.16
+685,685,12205,12205,Less Than High School,Educational Services,132353957,16762,2009,Male,Florida,7896.07
+686,686,12206,12206,High School Graduate,Educational Services,324379136,34592,2009,Male,Florida,9377.29
+687,687,12207,12207,Some College,Educational Services,513853049,47458,2009,Male,Florida,10827.53
+688,688,12208,12208,Advanced Degree,Educational Services,965034459,64896,2009,Male,Florida,14870.48
+689,689,12209,12209,Unavalble,Educational Services,40172693,10217,2009,Male,Florida,3931.95
+690,690,12210,12210,All Education Categories,Educational Services,3727454676,409525,2009,Female,Florida,9101.9
+691,691,12211,12211,Less Than High School,Educational Services,188157419,30259,2009,Female,Florida,6218.23
+692,692,12212,12212,High School Graduate,Educational Services,642628429,85666,2009,Female,Florida,7501.56
+693,693,12213,12213,Some College,Educational Services,1099068767,124013,2009,Female,Florida,8862.53
+694,694,12214,12214,Advanced Degree,Educational Services,1705993697,148608,2009,Female,Florida,11479.82
+695,695,12215,12215,Unavalble,Educational Services,91606365,20979,2009,Female,Florida,4366.57
+696,696,12216,12216,All Education Categories,Health Care and Social Assistance,3666774963,224385,2009,Male,Florida,16341.44
+697,697,12217,12217,Less Than High School,Health Care and Social Assistance,228563715,26947,2009,Male,Florida,8481.97
+698,698,12218,12218,High School Graduate,Health Care and Social Assistance,487476982,46406,2009,Male,Florida,10504.61
+699,699,12219,12219,Some College,Health Care and Social Assistance,891061039,61888,2009,Male,Florida,14397.96
+700,700,12220,12220,Advanced Degree,Health Care and Social Assistance,1974487066,71052,2009,Male,Florida,27789.32
+701,701,12221,12221,Unavalble,Health Care and Social Assistance,85186162,18092,2009,Male,Florida,4708.5
+702,702,12222,12222,All Education Categories,Health Care and Social Assistance,6623636099,746624,2009,Female,Florida,8871.45
+703,703,12223,12223,Less Than High School,Health Care and Social Assistance,507680323,80274,2009,Female,Florida,6324.34
+704,704,12224,12224,High School Graduate,Health Care and Social Assistance,1204810371,164346,2009,Female,Florida,7330.94
+705,705,12225,12225,Some College,Health Care and Social Assistance,2321301995,258733,2009,Female,Florida,8971.8
+706,706,12226,12226,Advanced Degree,Health Care and Social Assistance,2304922073,185543,2009,Female,Florida,12422.58
+707,707,12227,12227,Unavalble,Health Care and Social Assistance,284921336,57728,2009,Female,Florida,4935.58
+708,708,12240,12240,All Education Categories,Accommodation and Food Services,2105617129,356298,2009,Male,Florida,5909.71
+709,709,12241,12241,Less Than High School,Accommodation and Food Services,371780291,67650,2009,Male,Florida,5495.64
+710,710,12242,12242,High School Graduate,Accommodation and Food Services,527274739,84420,2009,Male,Florida,6245.85
+711,711,12243,12243,Some College,Accommodation and Food Services,517596383,72418,2009,Male,Florida,7147.34
+712,712,12244,12244,Advanced Degree,Accommodation and Food Services,378552803,37292,2009,Male,Florida,10151.05
+713,713,12245,12245,Unavalble,Accommodation and Food Services,310412913,94519,2009,Male,Florida,3284.13
+714,714,12246,12246,All Education Categories,Accommodation and Food Services,1687373138,374278,2009,Female,Florida,4508.34
+715,715,12247,12247,Less Than High School,Accommodation and Food Services,262133358,61071,2009,Female,Florida,4292.27
+716,716,12248,12248,High School Graduate,Accommodation and Food Services,392970790,82797,2009,Female,Florida,4746.2
+717,717,12249,12249,Some College,Accommodation and Food Services,414673738,77231,2009,Female,Florida,5369.27
+718,718,12250,12250,Advanced Degree,Accommodation and Food Services,260429622,38084,2009,Female,Florida,6838.29
+719,719,12251,12251,Unavalble,Accommodation and Food Services,357165628,115095,2009,Female,Florida,3103.22
+720,720,12276,12276,All Education Categories,00,41063041480,3363479,2010,Male,Florida,12208.5
+721,721,12277,12277,Less Than High School,00,3920371176,500574,2010,Male,Florida,7831.75
+722,722,12278,12278,High School Graduate,00,8120339828,825575,2010,Male,Florida,9835.98
+723,723,12279,12279,Some College,00,11101734007,898842,2010,Male,Florida,12351.15
+724,724,12280,12280,Advanced Degree,00,16297142241,766621,2010,Male,Florida,21258.41
+725,725,12281,12281,Unavalble,00,1623454227,371868,2010,Male,Florida,4365.67
+726,726,12282,12282,All Education Categories,00,28786215796,3522646,2010,Female,Florida,8171.76
+727,727,12283,12283,Less Than High School,00,2423358540,417355,2010,Female,Florida,5806.47
+728,728,12284,12284,High School Graduate,00,5708306226,817159,2010,Female,Florida,6985.55
+729,729,12285,12285,Some College,00,8998002396,1051928,2010,Female,Florida,8553.82
+730,730,12286,12286,Advanced Degree,00,10047178639,811857,2010,Female,Florida,12375.55
+731,731,12287,12287,Unavalble,00,1609369995,424347,2010,Female,Florida,3792.58
+732,732,12336,12336,All Education Categories,Manufacturing,2980492931,212736,2010,Male,Florida,14010.29
+733,733,12337,12337,Less Than High School,Manufacturing,312932904,33092,2010,Male,Florida,9456.45
+734,734,12338,12338,High School Graduate,Manufacturing,744467058,62167,2010,Male,Florida,11975.28
+735,735,12339,12339,Some College,Manufacturing,897498253,62670,2010,Male,Florida,14321.02
+736,736,12340,12340,Advanced Degree,Manufacturing,955907045,43642,2010,Male,Florida,21903.37
+737,737,12341,12341,Unavalble,Manufacturing,69687673,11164,2010,Male,Florida,6242.18
+738,738,12342,12342,All Education Categories,Manufacturing,919063909,98969,2010,Female,Florida,9286.38
+739,739,12343,12343,Less Than High School,Manufacturing,101792055,15550,2010,Female,Florida,6546.11
+740,740,12344,12344,High School Graduate,Manufacturing,230273709,28468,2010,Female,Florida,8088.86
+741,741,12345,12345,Some College,Manufacturing,287917366,29847,2010,Female,Florida,9646.44
+742,742,12346,12346,Advanced Degree,Manufacturing,269433116,19102,2010,Female,Florida,14104.97
+743,743,12347,12347,Unavalble,Manufacturing,29647664,6003,2010,Female,Florida,4938.81
+744,744,12360,12360,All Education Categories,Retail Trade,3569754511,441193,2010,Male,Florida,8091.14
+745,745,12361,12361,Less Than High School,Retail Trade,450617457,67059,2010,Male,Florida,6719.72
+746,746,12362,12362,High School Graduate,Retail Trade,911056922,111765,2010,Male,Florida,8151.54
+747,747,12363,12363,Some College,Retail Trade,1032563529,108648,2010,Male,Florida,9503.75
+748,748,12364,12364,Advanced Degree,Retail Trade,872281589,63949,2010,Male,Florida,13640.27
+749,749,12365,12365,Unavalble,Retail Trade,303235015,89772,2010,Male,Florida,3377.84
+750,750,12366,12366,All Education Categories,Retail Trade,2368412358,449984,2010,Female,Florida,5263.33
+751,751,12367,12367,Less Than High School,Retail Trade,315685642,66120,2010,Female,Florida,4774.43
+752,752,12368,12368,High School Graduate,Retail Trade,626962403,116685,2010,Female,Florida,5373.12
+753,753,12369,12369,Some College,Retail Trade,677025238,109861,2010,Female,Florida,6162.56
+754,754,12370,12370,Advanced Degree,Retail Trade,470684862,55771,2010,Female,Florida,8439.6
+755,755,12371,12371,Unavalble,Retail Trade,278054212,101547,2010,Female,Florida,2738.18
+756,756,12396,12396,All Education Categories,Finance and Insurance,3248382715,116239,2010,Male,Florida,27945.72
+757,757,12397,12397,Less Than High School,Finance and Insurance,117099208,8985,2010,Male,Florida,13032.74
+758,758,12398,12398,High School Graduate,Finance and Insurance,320829079,19481,2010,Male,Florida,16468.82
+759,759,12399,12399,Some College,Finance and Insurance,672017349,30309,2010,Male,Florida,22172.2
+760,760,12400,12400,Advanced Degree,Finance and Insurance,2090439980,50971,2010,Male,Florida,41012.34
+761,761,12401,12401,Unavalble,Finance and Insurance,47997100,6493,2010,Male,Florida,7392.13
+762,762,12402,12402,All Education Categories,Finance and Insurance,2581549339,201507,2010,Female,Florida,12811.21
+763,763,12403,12403,Less Than High School,Finance and Insurance,117391732,13500,2010,Female,Florida,8695.68
+764,764,12404,12404,High School Graduate,Finance and Insurance,403117954,40571,2010,Female,Florida,9936.11
+765,765,12405,12405,Some College,Finance and Insurance,760449603,64038,2010,Female,Florida,11874.97
+766,766,12406,12406,Advanced Degree,Finance and Insurance,1214902467,69719,2010,Female,Florida,17425.7
+767,767,12407,12407,Unavalble,Finance and Insurance,85687582,13679,2010,Female,Florida,6264.17
+768,768,12456,12456,All Education Categories,Educational Services,1930779979,167472,2010,Male,Florida,11528.97
+769,769,12457,12457,Less Than High School,Educational Services,138912093,16631,2010,Male,Florida,8352.6
+770,770,12458,12458,High School Graduate,Educational Services,331046772,33875,2010,Male,Florida,9772.6
+771,771,12459,12459,Some College,Educational Services,506072064,45988,2010,Male,Florida,11004.44
+772,772,12460,12460,Advanced Degree,Educational Services,913079254,61744,2010,Male,Florida,14788.15
+773,773,12461,12461,Unavalble,Educational Services,41669797,9233,2010,Male,Florida,4513.14
+774,774,12462,12462,All Education Categories,Educational Services,3566590649,388125,2010,Female,Florida,9189.28
+775,775,12463,12463,Less Than High School,Educational Services,191052711,29706,2010,Female,Florida,6431.45
+776,776,12464,12464,High School Graduate,Educational Services,633083633,81606,2010,Female,Florida,7757.81
+777,777,12465,12465,Some College,Educational Services,1060858145,118255,2010,Female,Florida,8970.94
+778,778,12466,12466,Advanced Degree,Educational Services,1600801706,140060,2010,Female,Florida,11429.4
+779,779,12467,12467,Unavalble,Educational Services,80794454,18499,2010,Female,Florida,4367.5
+780,780,12468,12468,All Education Categories,Health Care and Social Assistance,3662538535,230272,2010,Male,Florida,15905.27
+781,781,12469,12469,Less Than High School,Health Care and Social Assistance,241013687,28544,2010,Male,Florida,8443.58
+782,782,12470,12470,High School Graduate,Health Care and Social Assistance,499776026,48351,2010,Male,Florida,10336.42
+783,783,12471,12471,Some College,Health Care and Social Assistance,895695076,63434,2010,Male,Florida,14120.11
+784,784,12472,12472,Advanced Degree,Health Care and Social Assistance,1943924929,71741,2010,Male,Florida,27096.43
+785,785,12473,12473,Unavalble,Health Care and Social Assistance,82128817,18202,2010,Male,Florida,4512.08
+786,786,12474,12474,All Education Categories,Health Care and Social Assistance,6573858015,751679,2010,Female,Florida,8745.57
+787,787,12475,12475,Less Than High School,Health Care and Social Assistance,526521841,83600,2010,Female,Florida,6298.11
+788,788,12476,12476,High School Graduate,Health Care and Social Assistance,1216661639,167304,2010,Female,Florida,7272.16
+789,789,12477,12477,Some College,Health Care and Social Assistance,2297638908,259807,2010,Female,Florida,8843.64
+790,790,12478,12478,Advanced Degree,Health Care and Social Assistance,2269914447,186864,2010,Female,Florida,12147.41
+791,791,12479,12479,Unavalble,Health Care and Social Assistance,263121180,54104,2010,Female,Florida,4863.25
+792,792,12492,12492,All Education Categories,Accommodation and Food Services,2089956143,346643,2010,Male,Florida,6029.13
+793,793,12493,12493,Less Than High School,Accommodation and Food Services,370394369,65875,2010,Male,Florida,5622.68
+794,794,12494,12494,High School Graduate,Accommodation and Food Services,524114949,82983,2010,Male,Florida,6315.93
+795,795,12495,12495,Some College,Accommodation and Food Services,517795923,71967,2010,Male,Florida,7194.91
+796,796,12496,12496,Advanced Degree,Accommodation and Food Services,382145623,37979,2010,Male,Florida,10062.02
+797,797,12497,12497,Unavalble,Accommodation and Food Services,295505280,87839,2010,Male,Florida,3364.17
+798,798,12498,12498,All Education Categories,Accommodation and Food Services,1669380650,362467,2010,Female,Florida,4605.61
+799,799,12499,12499,Less Than High School,Accommodation and Food Services,258987602,58590,2010,Female,Florida,4420.34
+800,800,12500,12500,High School Graduate,Accommodation and Food Services,389795093,80594,2010,Female,Florida,4836.53
+801,801,12501,12501,Some College,Accommodation and Food Services,413277911,76126,2010,Female,Florida,5428.87
+802,802,12502,12502,Advanced Degree,Accommodation and Food Services,261885750,38692,2010,Female,Florida,6768.47
+803,803,12503,12503,Unavalble,Accommodation and Food Services,345434294,108465,2010,Female,Florida,3184.75
+804,804,12528,12528,All Education Categories,00,43102288372,3410217,2011,Male,Florida,12639.16
+805,805,12529,12529,Less Than High School,00,4167654442,514761,2011,Male,Florida,8096.29
+806,806,12530,12530,High School Graduate,00,8528748798,840740,2011,Male,Florida,10144.34
+807,807,12531,12531,Some College,00,11639982035,910945,2011,Male,Florida,12777.92
+808,808,12532,12532,Advanced Degree,00,17152898884,770782,2011,Male,Florida,22253.89
+809,809,12533,12533,Unavalble,00,1613004213,372990,2011,Male,Florida,4324.52
+810,810,12534,12534,All Education Categories,00,30089022273,3547133,2011,Female,Florida,8482.63
+811,811,12535,12535,Less Than High School,00,2613880174,428913,2011,Female,Florida,6094.2
+812,812,12536,12536,High School Graduate,00,5998816923,823977,2011,Female,Florida,7280.32
+813,813,12537,12537,Some College,00,9379256913,1056134,2011,Female,Florida,8880.75
+814,814,12538,12538,Advanced Degree,00,10477059408,811772,2011,Female,Florida,12906.41
+815,815,12539,12539,Unavalble,00,1620008856,426337,2011,Female,Florida,3799.83
+816,816,12588,12588,All Education Categories,Manufacturing,3111890630,214117,2011,Male,Florida,14533.6
+817,817,12589,12589,Less Than High School,Manufacturing,335237603,33921,2011,Male,Florida,9882.89
+818,818,12590,12590,High School Graduate,Manufacturing,781299416,62739,2011,Male,Florida,12453.17
+819,819,12591,12591,Some College,Manufacturing,938328926,62993,2011,Male,Florida,14895.77
+820,820,12592,12592,Advanced Degree,Manufacturing,987308362,43399,2011,Male,Florida,22749.56
+821,821,12593,12593,Unavalble,Manufacturing,69716323,11065,2011,Male,Florida,6300.62
+822,822,12594,12594,All Education Categories,Manufacturing,950648068,98264,2011,Female,Florida,9674.43
+823,823,12595,12595,Less Than High School,Manufacturing,106875946,15588,2011,Female,Florida,6856.3
+824,824,12596,12596,High School Graduate,Manufacturing,237835179,28067,2011,Female,Florida,8473.84
+825,825,12597,12597,Some College,Manufacturing,297917997,29614,2011,Female,Florida,10060.04
+826,826,12598,12598,Advanced Degree,Manufacturing,278218469,19093,2011,Female,Florida,14571.75
+827,827,12599,12599,Unavalble,Manufacturing,29800478,5902,2011,Female,Florida,5049.22
+828,828,12612,12612,All Education Categories,Retail Trade,3797643648,457552,2011,Male,Florida,8299.92
+829,829,12613,12613,Less Than High School,Retail Trade,484041735,69360,2011,Male,Florida,6978.69
+830,830,12614,12614,High School Graduate,Retail Trade,966932249,114986,2011,Male,Florida,8409.13
+831,831,12615,12615,Some College,Retail Trade,1101827241,111775,2011,Male,Florida,9857.55
+832,832,12616,12616,Advanced Degree,Retail Trade,924374169,66431,2011,Male,Florida,13914.8
+833,833,12617,12617,Unavalble,Retail Trade,320468254,94999,2011,Male,Florida,3373.39
+834,834,12618,12618,All Education Categories,Retail Trade,2507975971,463827,2011,Female,Florida,5407.14
+835,835,12619,12619,Less Than High School,Retail Trade,340310636,67553,2011,Female,Florida,5037.68
+836,836,12620,12620,High School Graduate,Retail Trade,663136209,118158,2011,Female,Florida,5612.28
+837,837,12621,12621,Some College,Retail Trade,716648778,112862,2011,Female,Florida,6349.78
+838,838,12622,12622,Advanced Degree,Retail Trade,496594078,58575,2011,Female,Florida,8477.92
+839,839,12623,12623,Unavalble,Retail Trade,291286270,106680,2011,Female,Florida,2730.47
+840,840,12648,12648,All Education Categories,Finance and Insurance,3577943714,120897,2011,Male,Florida,29594.98
+841,841,12649,12649,Less Than High School,Finance and Insurance,136788118,9932,2011,Male,Florida,13772.46
+842,842,12650,12650,High School Graduate,Finance and Insurance,359686072,20875,2011,Male,Florida,17230.47
+843,843,12651,12651,Some College,Finance and Insurance,743623118,31680,2011,Male,Florida,23472.95
+844,844,12652,12652,Advanced Degree,Finance and Insurance,2287035630,51623,2011,Male,Florida,44302.65
+845,845,12653,12653,Unavalble,Finance and Insurance,50810776,6787,2011,Male,Florida,7486.49
+846,846,12654,12654,All Education Categories,Finance and Insurance,2798196827,206202,2011,Female,Florida,13570.17
+847,847,12655,12655,Less Than High School,Finance and Insurance,134460390,14755,2011,Female,Florida,9112.87
+848,848,12656,12656,High School Graduate,Finance and Insurance,436833471,41913,2011,Female,Florida,10422.39
+849,849,12657,12657,Some College,Finance and Insurance,820221121,65692,2011,Female,Florida,12485.86
+850,850,12658,12658,Advanced Degree,Finance and Insurance,1323644624,70779,2011,Female,Florida,18701.09
+851,851,12659,12659,Unavalble,Finance and Insurance,83037221,13063,2011,Female,Florida,6356.67
+852,852,12708,12708,All Education Categories,Educational Services,1954564932,168924,2011,Male,Florida,11570.68
+853,853,12709,12709,Less Than High School,Educational Services,146613232,17720,2011,Male,Florida,8273.88
+854,854,12710,12710,High School Graduate,Educational Services,342641648,34784,2011,Male,Florida,9850.55
+855,855,12711,12711,Some College,Educational Services,518360212,46598,2011,Male,Florida,11124.09
+856,856,12712,12712,Advanced Degree,Educational Services,910599844,60425,2011,Male,Florida,15069.92
+857,857,12713,12713,Unavalble,Educational Services,36349997,9397,2011,Male,Florida,3868.26
+858,858,12714,12714,All Education Categories,Educational Services,3731066265,384146,2011,Female,Florida,9712.63
+859,859,12715,12715,Less Than High School,Educational Services,213286289,31398,2011,Female,Florida,6792.99
+860,860,12716,12716,High School Graduate,Educational Services,672567737,81572,2011,Female,Florida,8245.08
+861,861,12717,12717,Some College,Educational Services,1118159788,117534,2011,Female,Florida,9513.5
+862,862,12718,12718,Advanced Degree,Educational Services,1641934327,134872,2011,Female,Florida,12174.02
+863,863,12719,12719,Unavalble,Educational Services,85118125,18769,2011,Female,Florida,4535.04
+864,864,12720,12720,All Education Categories,Health Care and Social Assistance,3845067582,233819,2011,Male,Florida,16444.63
+865,865,12721,12721,Less Than High School,Health Care and Social Assistance,263892724,29682,2011,Male,Florida,8890.67
+866,866,12722,12722,High School Graduate,Health Care and Social Assistance,535787000,49906,2011,Male,Florida,10735.92
+867,867,12723,12723,Some College,Health Care and Social Assistance,942096035,64175,2011,Male,Florida,14680.11
+868,868,12724,12724,Advanced Degree,Health Care and Social Assistance,2017714069,71722,2011,Male,Florida,28132.43
+869,869,12725,12725,Unavalble,Health Care and Social Assistance,85577755,18333,2011,Male,Florida,4667.96
+870,870,12726,12726,All Education Categories,Health Care and Social Assistance,6852943475,755063,2011,Female,Florida,9075.99
+871,871,12727,12727,Less Than High School,Health Care and Social Assistance,574210591,86500,2011,Female,Florida,6638.27
+872,872,12728,12728,High School Graduate,Health Care and Social Assistance,1286971212,169691,2011,Female,Florida,7584.2
+873,873,12729,12729,Some College,Health Care and Social Assistance,2385276787,259604,2011,Female,Florida,9188.14
+874,874,12730,12730,Advanced Degree,Health Care and Social Assistance,2343443384,186176,2011,Female,Florida,12587.25
+875,875,12731,12731,Unavalble,Health Care and Social Assistance,263041502,53093,2011,Female,Florida,4954.35
+876,876,12744,12744,All Education Categories,Accommodation and Food Services,2184248815,360981,2011,Male,Florida,6050.87
+877,877,12745,12745,Less Than High School,Accommodation and Food Services,392257575,68674,2011,Male,Florida,5711.88
+878,878,12746,12746,High School Graduate,Accommodation and Food Services,547162918,86308,2011,Male,Florida,6339.65
+879,879,12747,12747,Some College,Accommodation and Food Services,543554123,75627,2011,Male,Florida,7187.3
+880,880,12748,12748,Advanced Degree,Accommodation and Food Services,399929645,40564,2011,Male,Florida,9859.23
+881,881,12749,12749,Unavalble,Accommodation and Food Services,301344553,89808,2011,Male,Florida,3355.43
+882,882,12750,12750,All Education Categories,Accommodation and Food Services,1755090193,374155,2011,Female,Florida,4690.81
+883,883,12751,12751,Less Than High School,Accommodation and Food Services,273740382,60316,2011,Female,Florida,4538.44
+884,884,12752,12752,High School Graduate,Accommodation and Food Services,409221259,82892,2011,Female,Florida,4936.8
+885,885,12753,12753,Some College,Accommodation and Food Services,435167064,78614,2011,Female,Florida,5535.49
+886,886,12754,12754,Advanced Degree,Accommodation and Food Services,283532250,40895,2011,Female,Florida,6933.18
+887,887,12755,12755,Unavalble,Accommodation and Food Services,353429239,111438,2011,Female,Florida,3171.53
+888,888,12780,12780,All Education Categories,00,46077707339,3493093,2012,Male,Florida,13191.09
+889,889,12781,12781,Less Than High School,00,4632328085,534027,2012,Male,Florida,8674.33
+890,890,12782,12782,High School Graduate,00,9300926178,866783,2012,Male,Florida,10730.4
+891,891,12783,12783,Some College,00,12459406256,932134,2012,Male,Florida,13366.54
+892,892,12784,12784,Advanced Degree,00,17929994593,780022,2012,Male,Florida,22986.52
+893,893,12785,12785,Unavalble,00,1755052226,380126,2012,Male,Florida,4617.03
+894,894,12786,12786,All Education Categories,00,32115839223,3615794,2012,Female,Florida,8882.1
+895,895,12787,12787,Less Than High School,00,2906143740,444100,2012,Female,Florida,6543.89
+896,896,12788,12788,High School Graduate,00,6475318235,841020,2012,Female,Florida,7699.36
+897,897,12789,12789,Some College,00,9974059811,1072821,2012,Female,Florida,9297.04
+898,898,12790,12790,Advanced Degree,00,11023708399,825279,2012,Female,Florida,13357.55
+899,899,12791,12791,Unavalble,00,1736609038,432573,2012,Female,Florida,4014.6
+900,900,12840,12840,All Education Categories,Manufacturing,3399994695,219913,2012,Male,Florida,15460.64
+901,901,12841,12841,Less Than High School,Manufacturing,374484123,35202,2012,Male,Florida,10638.15
+902,902,12842,12842,High School Graduate,Manufacturing,857077789,64737,2012,Male,Florida,13239.38
+903,903,12843,12843,Some College,Manufacturing,1019846659,64637,2012,Male,Florida,15778.06
+904,904,12844,12844,Advanced Degree,Manufacturing,1071959759,44053,2012,Male,Florida,24333.41
+905,905,12845,12845,Unavalble,Manufacturing,76626365,11284,2012,Male,Florida,6790.71
+906,906,12846,12846,All Education Categories,Manufacturing,1022060327,98018,2012,Female,Florida,10427.27
+907,907,12847,12847,Less Than High School,Manufacturing,117085411,15576,2012,Female,Florida,7517.04
+908,908,12848,12848,High School Graduate,Manufacturing,255567849,27874,2012,Female,Florida,9168.68
+909,909,12849,12849,Some College,Manufacturing,320246122,29583,2012,Female,Florida,10825.34
+910,910,12850,12850,Advanced Degree,Manufacturing,297961878,19213,2012,Female,Florida,15508.35
+911,911,12851,12851,Unavalble,Manufacturing,31199067,5772,2012,Female,Florida,5405.24
+912,912,12864,12864,All Education Categories,Retail Trade,4127629205,476708,2012,Male,Florida,8658.61
+913,913,12865,12865,Less Than High School,Retail Trade,537340467,72645,2012,Male,Florida,7396.8
+914,914,12866,12866,High School Graduate,Retail Trade,1062636357,119742,2012,Male,Florida,8874.38
+915,915,12867,12867,Some College,Retail Trade,1190006205,116004,2012,Male,Florida,10258.32
+916,916,12868,12868,Advanced Degree,Retail Trade,989628210,69184,2012,Male,Florida,14304.29
+917,917,12869,12869,Unavalble,Retail Trade,348017965,99134,2012,Male,Florida,3510.58
+918,918,12870,12870,All Education Categories,Retail Trade,2736882867,479358,2012,Female,Florida,5709.48
+919,919,12871,12871,Less Than High School,Retail Trade,373486314,69835,2012,Female,Florida,5348.13
+920,920,12872,12872,High School Graduate,Retail Trade,719072986,121022,2012,Female,Florida,5941.67
+921,921,12873,12873,Some College,Retail Trade,779366448,116104,2012,Female,Florida,6712.66
+922,922,12874,12874,Advanced Degree,Retail Trade,548806078,61248,2012,Female,Florida,8960.39
+923,923,12875,12875,Unavalble,Retail Trade,316151041,111149,2012,Female,Florida,2844.39
+924,924,12900,12900,All Education Categories,Finance and Insurance,3756009751,123742,2012,Male,Florida,30353.56
+925,925,12901,12901,Less Than High School,Finance and Insurance,158316095,10780,2012,Male,Florida,14686.09
+926,926,12902,12902,High School Graduate,Finance and Insurance,398305889,21938,2012,Male,Florida,18155.98
+927,927,12903,12903,Some College,Finance and Insurance,794650735,32509,2012,Male,Florida,24444.02
+928,928,12904,12904,Advanced Degree,Finance and Insurance,2348654372,51558,2012,Male,Florida,45553.64
+929,929,12905,12905,Unavalble,Finance and Insurance,56082660,6958,2012,Male,Florida,8060.17
+930,930,12906,12906,All Education Categories,Finance and Insurance,3005392886,205646,2012,Female,Florida,14614.4
+931,931,12907,12907,Less Than High School,Finance and Insurance,158433890,15606,2012,Female,Florida,10152.11
+932,932,12908,12908,High School Graduate,Finance and Insurance,482269305,42281,2012,Female,Florida,11406.29
+933,933,12909,12909,Some College,Finance and Insurance,887458868,65732,2012,Female,Florida,13501.17
+934,934,12910,12910,Advanced Degree,Finance and Insurance,1393710548,69838,2012,Female,Florida,19956.34
+935,935,12911,12911,Unavalble,Finance and Insurance,83520274,12189,2012,Female,Florida,6852.1
+936,936,12960,12960,All Education Categories,Educational Services,1965790969,175700,2012,Male,Florida,11188.34
+937,937,12961,12961,Less Than High School,Educational Services,151598359,18619,2012,Male,Florida,8142.13
+938,938,12962,12962,High School Graduate,Educational Services,350243379,36912,2012,Male,Florida,9488.6
+939,939,12963,12963,Some College,Educational Services,522378675,48749,2012,Male,Florida,10715.68
+940,940,12964,12964,Advanced Degree,Educational Services,905904667,62347,2012,Male,Florida,14530.04
+941,941,12965,12965,Unavalble,Educational Services,35665888,9072,2012,Male,Florida,3931.43
+942,942,12966,12966,All Education Categories,Educational Services,3781256579,405219,2012,Female,Florida,9331.39
+943,943,12967,12967,Less Than High School,Educational Services,226984854,33527,2012,Female,Florida,6770.21
+944,944,12968,12968,High School Graduate,Educational Services,692864204,86890,2012,Female,Florida,7974.04
+945,945,12969,12969,Some College,Educational Services,1137632060,124638,2012,Female,Florida,9127.49
+946,946,12970,12970,Advanced Degree,Educational Services,1641363532,141955,2012,Female,Florida,11562.56
+947,947,12971,12971,Unavalble,Educational Services,82411928,18210,2012,Female,Florida,4525.64
+948,948,12972,12972,All Education Categories,Health Care and Social Assistance,4130918713,240918,2012,Male,Florida,17146.58
+949,949,12973,12973,Less Than High School,Health Care and Social Assistance,297121886,31464,2012,Male,Florida,9443.23
+950,950,12974,12974,High School Graduate,Health Care and Social Assistance,590524645,52071,2012,Male,Florida,11340.76
+951,951,12975,12975,Some College,Health Care and Social Assistance,1014528510,66158,2012,Male,Florida,15334.93
+952,952,12976,12976,Advanced Degree,Health Care and Social Assistance,2137769905,72825,2012,Male,Florida,29354.89
+953,953,12977,12977,Unavalble,Health Care and Social Assistance,90973768,18400,2012,Male,Florida,4944.23
+954,954,12978,12978,All Education Categories,Health Care and Social Assistance,7347852314,770808,2012,Female,Florida,9532.66
+955,955,12979,12979,Less Than High School,Health Care and Social Assistance,641220670,90837,2012,Female,Florida,7059.03
+956,956,12980,12980,High School Graduate,Health Care and Social Assistance,1400706375,174734,2012,Female,Florida,8016.22
+957,957,12981,12981,Some College,Health Care and Social Assistance,2543170093,263692,2012,Female,Florida,9644.47
+958,958,12982,12982,Advanced Degree,Health Care and Social Assistance,2487421090,189017,2012,Female,Florida,13159.77
+959,959,12983,12983,Unavalble,Health Care and Social Assistance,275334085,52528,2012,Female,Florida,5241.66
+960,960,12996,12996,All Education Categories,Accommodation and Food Services,2456795200,381162,2012,Male,Florida,6445.54
+961,961,12997,12997,Less Than High School,Accommodation and Food Services,441033059,71960,2012,Male,Florida,6128.86
+962,962,12998,12998,High School Graduate,Accommodation and Food Services,616160824,91106,2012,Male,Florida,6763.12
+963,963,12999,12999,Some College,Accommodation and Food Services,609614157,79850,2012,Male,Florida,7634.49
+964,964,13000,13000,Advanced Degree,Accommodation and Food Services,441963078,43064,2012,Male,Florida,10262.94
+965,965,13001,13001,Unavalble,Accommodation and Food Services,348024083,95182,2012,Male,Florida,3656.41
+966,966,13002,13002,All Education Categories,Accommodation and Food Services,1971444720,391576,2012,Female,Florida,5034.64
+967,967,13003,13003,Less Than High School,Accommodation and Food Services,306902577,62114,2012,Female,Florida,4940.96
+968,968,13004,13004,High School Graduate,Accommodation and Food Services,457765627,85738,2012,Female,Florida,5339.12
+969,969,13005,13005,Some College,Accommodation and Food Services,482926626,81859,2012,Female,Florida,5899.49
+970,970,13006,13006,Advanced Degree,Accommodation and Food Services,312014356,43159,2012,Female,Florida,7229.42
+971,971,13007,13007,Unavalble,Accommodation and Food Services,411835534,118706,2012,Female,Florida,3469.37
+972,972,16068,16068,All Education Categories,"Colleges, Universities, and Professional Schools",527531835,43212,2004,Male,Florida,12207.99
+973,973,16069,16069,Less Than High School,"Colleges, Universities, and Professional Schools",18175921,2518,2004,Male,Florida,7218.4
+974,974,16070,16070,High School Graduate,"Colleges, Universities, and Professional Schools",57153292,6549,2004,Male,Florida,8727.03
+975,975,16071,16071,Some College,"Colleges, Universities, and Professional Schools",104830256,9744,2004,Male,Florida,10758.44
+976,976,16072,16072,Advanced Degree,"Colleges, Universities, and Professional Schools",336955913,21135,2004,Male,Florida,15943.03
+977,977,16073,16073,Unavalble,"Colleges, Universities, and Professional Schools",10416454,3266,2004,Male,Florida,3189.36
+978,978,16074,16074,All Education Categories,"Colleges, Universities, and Professional Schools",409620602,48974,2004,Female,Florida,8364.04
+979,979,16075,16075,Less Than High School,"Colleges, Universities, and Professional Schools",13589531,2294,2004,Female,Florida,5923.95
+980,980,16076,16076,High School Graduate,"Colleges, Universities, and Professional Schools",59632943,8705,2004,Female,Florida,6850.42
+981,981,16077,16077,Some College,"Colleges, Universities, and Professional Schools",108440423,13587,2004,Female,Florida,7981.19
+982,982,16078,16078,Advanced Degree,"Colleges, Universities, and Professional Schools",213501862,19578,2004,Female,Florida,10905.19
+983,983,16079,16079,Unavalble,"Colleges, Universities, and Professional Schools",14455843,4811,2004,Female,Florida,3004.75
+984,984,19800,19800,All Education Categories,"Colleges, Universities, and Professional Schools",470246776,42564,2005,Male,Florida,11047.99
+985,985,19801,19801,Less Than High School,"Colleges, Universities, and Professional Schools",16942205,2455,2005,Male,Florida,6901.1
+986,986,19802,19802,High School Graduate,"Colleges, Universities, and Professional Schools",49824316,5990,2005,Male,Florida,8317.92
+987,987,19803,19803,Some College,"Colleges, Universities, and Professional Schools",92597356,9116,2005,Male,Florida,10157.67
+988,988,19804,19804,Advanced Degree,"Colleges, Universities, and Professional Schools",299183010,20008,2005,Male,Florida,14953.17
+989,989,19805,19805,Unavalble,"Colleges, Universities, and Professional Schools",11699888,4995,2005,Male,Florida,2342.32
+990,990,19806,19806,All Education Categories,"Colleges, Universities, and Professional Schools",378750511,48538,2005,Female,Florida,7803.18
+991,991,19807,19807,Less Than High School,"Colleges, Universities, and Professional Schools",13150400,2256,2005,Female,Florida,5829.08
+992,992,19808,19808,High School Graduate,"Colleges, Universities, and Professional Schools",52564694,7742,2005,Female,Florida,6789.55
+993,993,19809,19809,Some College,"Colleges, Universities, and Professional Schools",98423519,12380,2005,Female,Florida,7950.2
+994,994,19810,19810,Advanced Degree,"Colleges, Universities, and Professional Schools",197767941,18550,2005,Female,Florida,10661.34
+995,995,19811,19811,Unavalble,"Colleges, Universities, and Professional Schools",16843957,7611,2005,Female,Florida,2213.11
+996,996,23532,23532,All Education Categories,"Colleges, Universities, and Professional Schools",630353392,44177,2006,Male,Florida,14268.81
+997,997,23533,23533,Less Than High School,"Colleges, Universities, and Professional Schools",23145396,2657,2006,Male,Florida,8711.1
+998,998,23534,23534,High School Graduate,"Colleges, Universities, and Professional Schools",67655939,6375,2006,Male,Florida,10612.7
+999,999,23535,23535,Some College,"Colleges, Universities, and Professional Schools",124558594,9513,2006,Male,Florida,13093.51
+1000,1000,23536,23536,Advanced Degree,"Colleges, Universities, and Professional Schools",398904459,20091,2006,Male,Florida,19854.88
+1001,1001,23537,23537,Unavalble,"Colleges, Universities, and Professional Schools",16089005,5541,2006,Male,Florida,2903.63
+1002,1002,23538,23538,All Education Categories,"Colleges, Universities, and Professional Schools",497121911,50540,2006,Female,Florida,9836.21
+1003,1003,23539,23539,Less Than High School,"Colleges, Universities, and Professional Schools",18225862,2491,2006,Female,Florida,7316.68
+1004,1004,23540,23540,High School Graduate,"Colleges, Universities, and Professional Schools",69577661,8168,2006,Female,Florida,8518.32
+1005,1005,23541,23541,Some College,"Colleges, Universities, and Professional Schools",128718191,12864,2006,Female,Florida,10006.08
+1006,1006,23542,23542,Advanced Degree,"Colleges, Universities, and Professional Schools",258264230,18637,2006,Female,Florida,13857.61
+1007,1007,23543,23543,Unavalble,"Colleges, Universities, and Professional Schools",22335967,8380,2006,Female,Florida,2665.39
+1008,1008,27264,27264,All Education Categories,"Colleges, Universities, and Professional Schools",809411590,45425,2007,Male,Florida,17818.64
+1009,1009,27265,27265,Less Than High School,"Colleges, Universities, and Professional Schools",28722618,2852,2007,Male,Florida,10071.04
+1010,1010,27266,27266,High School Graduate,"Colleges, Universities, and Professional Schools",85774155,6662,2007,Male,Florida,12875.14
+1011,1011,27267,27267,Some College,"Colleges, Universities, and Professional Schools",155559112,9878,2007,Male,Florida,15748.04
+1012,1012,27268,27268,Advanced Degree,"Colleges, Universities, and Professional Schools",520344757,20309,2007,Male,Florida,25621.39
+1013,1013,27269,27269,Unavalble,"Colleges, Universities, and Professional Schools",19010947,5724,2007,Male,Florida,3321.27
+1014,1014,27270,27270,All Education Categories,"Colleges, Universities, and Professional Schools",621941114,52206,2007,Female,Florida,11913.21
+1015,1015,27271,27271,Less Than High School,"Colleges, Universities, and Professional Schools",22027337,2707,2007,Female,Florida,8137.18
+1016,1016,27272,27272,High School Graduate,"Colleges, Universities, and Professional Schools",86929964,8570,2007,Female,Florida,10143.52
+1017,1017,27273,27273,Some College,"Colleges, Universities, and Professional Schools",160089314,13401,2007,Female,Florida,11946.07
+1018,1018,27274,27274,Advanced Degree,"Colleges, Universities, and Professional Schools",327477653,19241,2007,Female,Florida,17019.78
+1019,1019,27275,27275,Unavalble,"Colleges, Universities, and Professional Schools",25416846,8287,2007,Female,Florida,3067.07
+1020,1020,31008,31008,All Education Categories,"Colleges, Universities, and Professional Schools",580692603,37579,2008,Male,Florida,15452.58
+1021,1021,31009,31009,Less Than High School,"Colleges, Universities, and Professional Schools",23138814,2492,2008,Male,Florida,9285.24
+1022,1022,31010,31010,High School Graduate,"Colleges, Universities, and Professional Schools",65898039,5930,2008,Male,Florida,11112.65
+1023,1023,31011,31011,Some College,"Colleges, Universities, and Professional Schools",118039931,8687,2008,Male,Florida,13588.11
+1024,1024,31012,31012,Advanced Degree,"Colleges, Universities, and Professional Schools",362974007,17636,2008,Male,Florida,20581.42
+1025,1025,31013,31013,Unavalble,"Colleges, Universities, and Professional Schools",10641813,2834,2008,Male,Florida,3755.05
+1026,1026,31014,31014,All Education Categories,"Colleges, Universities, and Professional Schools",478379586,44596,2008,Female,Florida,10726.96
+1027,1027,31015,31015,Less Than High School,"Colleges, Universities, and Professional Schools",19120163,2504,2008,Female,Florida,7635.85
+1028,1028,31016,31016,High School Graduate,"Colleges, Universities, and Professional Schools",69261276,7857,2008,Female,Florida,8815.23
+1029,1029,31017,31017,Some College,"Colleges, Universities, and Professional Schools",127639883,12375,2008,Female,Florida,10314.33
+1030,1030,31018,31018,Advanced Degree,"Colleges, Universities, and Professional Schools",246350741,17547,2008,Female,Florida,14039.48
+1031,1031,31019,31019,Unavalble,"Colleges, Universities, and Professional Schools",16007524,4314,2008,Female,Florida,3710.6
+1032,1032,34764,34764,All Education Categories,"Colleges, Universities, and Professional Schools",648416204,43771,2009,Male,Florida,14813.83
+1033,1033,34765,34765,Less Than High School,"Colleges, Universities, and Professional Schools",29442429,3215,2009,Male,Florida,9157.83
+1034,1034,34766,34766,High School Graduate,"Colleges, Universities, and Professional Schools",77408877,7063,2009,Male,Florida,10959.77
+1035,1035,34767,34767,Some College,"Colleges, Universities, and Professional Schools",135850155,10196,2009,Male,Florida,13323.87
+1036,1036,34768,34768,Advanced Degree,"Colleges, Universities, and Professional Schools",391925481,19371,2009,Male,Florida,20232.59
+1037,1037,34769,34769,Unavalble,"Colleges, Universities, and Professional Schools",13789262,3925,2009,Male,Florida,3513.19
+1038,1038,34770,34770,All Education Categories,"Colleges, Universities, and Professional Schools",549429731,52185,2009,Female,Florida,10528.5
+1039,1039,34771,34771,Less Than High School,"Colleges, Universities, and Professional Schools",25404624,3284,2009,Female,Florida,7735.88
+1040,1040,34772,34772,High School Graduate,"Colleges, Universities, and Professional Schools",81384570,9190,2009,Female,Florida,8855.77
+1041,1041,34773,34773,Some College,"Colleges, Universities, and Professional Schools",147915006,14370,2009,Female,Florida,10293.32
+1042,1042,34774,34774,Advanced Degree,"Colleges, Universities, and Professional Schools",275232493,19566,2009,Female,Florida,14066.88
+1043,1043,34775,34775,Unavalble,"Colleges, Universities, and Professional Schools",19493039,5775,2009,Female,Florida,3375.42
+1044,1044,38520,38520,All Education Categories,"Colleges, Universities, and Professional Schools",601092687,44582,2010,Male,Florida,13482.86
+1045,1045,38521,38521,Less Than High School,"Colleges, Universities, and Professional Schools",30879145,3517,2010,Male,Florida,8779.97
+1046,1046,38522,38522,High School Graduate,"Colleges, Universities, and Professional Schools",77153994,7562,2010,Male,Florida,10202.86
+1047,1047,38523,38523,Some College,"Colleges, Universities, and Professional Schools",130384726,10641,2010,Male,Florida,12253.05
+1048,1048,38524,38524,Advanced Degree,"Colleges, Universities, and Professional Schools",351195403,19288,2010,Male,Florida,18207.97
+1049,1049,38525,38525,Unavalble,"Colleges, Universities, and Professional Schools",11479418,3574,2010,Male,Florida,3211.92
+1050,1050,38526,38526,All Education Categories,"Colleges, Universities, and Professional Schools",515050251,52829,2010,Female,Florida,9749.38
+1051,1051,38527,38527,Less Than High School,"Colleges, Universities, and Professional Schools",26329220,3522,2010,Female,Florida,7475.64
+1052,1052,38528,38528,High School Graduate,"Colleges, Universities, and Professional Schools",79400600,9527,2010,Female,Florida,8334.27
+1053,1053,38529,38529,Some College,"Colleges, Universities, and Professional Schools",141337253,14754,2010,Female,Florida,9579.59
+1054,1054,38530,38530,Advanced Degree,"Colleges, Universities, and Professional Schools",251473948,19647,2010,Female,Florida,12799.61
+1055,1055,38531,38531,Unavalble,"Colleges, Universities, and Professional Schools",16509231,5377,2010,Female,Florida,3070.34
+1056,1056,42276,42276,All Education Categories,"Colleges, Universities, and Professional Schools",629394524,45685,2011,Male,Florida,13776.83
+1057,1057,42277,42277,Less Than High School,"Colleges, Universities, and Professional Schools",34323672,3834,2011,Male,Florida,8952.44
+1058,1058,42278,42278,High School Graduate,"Colleges, Universities, and Professional Schools",83564447,7998,2011,Male,Florida,10448.17
+1059,1059,42279,42279,Some College,"Colleges, Universities, and Professional Schools",137513764,11070,2011,Male,Florida,12422.2
+1060,1060,42280,42280,Advanced Degree,"Colleges, Universities, and Professional Schools",362840783,19415,2011,Male,Florida,18688.68
+1061,1061,42281,42281,Unavalble,"Colleges, Universities, and Professional Schools",11151857,3368,2011,Male,Florida,3311.12
+1062,1062,42282,42282,All Education Categories,"Colleges, Universities, and Professional Schools",552634818,54918,2011,Female,Florida,10062.91
+1063,1063,42283,42283,Less Than High School,"Colleges, Universities, and Professional Schools",30565654,3994,2011,Female,Florida,7652.89
+1064,1064,42284,42284,High School Graduate,"Colleges, Universities, and Professional Schools",87033416,10109,2011,Female,Florida,8609.5
+1065,1065,42285,42285,Some College,"Colleges, Universities, and Professional Schools",152855518,15539,2011,Female,Florida,9836.9
+1066,1066,42286,42286,Advanced Degree,"Colleges, Universities, and Professional Schools",265622756,20194,2011,Female,Florida,13153.55
+1067,1067,42287,42287,Unavalble,"Colleges, Universities, and Professional Schools",16557475,5083,2011,Female,Florida,3257.42
+1068,1068,46032,46032,All Education Categories,"Colleges, Universities, and Professional Schools",636562349,45622,2012,Male,Florida,13952.97
+1069,1069,46033,46033,Less Than High School,"Colleges, Universities, and Professional Schools",36185176,3930,2012,Male,Florida,9207.42
+1070,1070,46034,46034,High School Graduate,"Colleges, Universities, and Professional Schools",85901970,8092,2012,Male,Florida,10615.67
+1071,1071,46035,46035,Some College,"Colleges, Universities, and Professional Schools",140431563,11205,2012,Male,Florida,12532.94
+1072,1072,46036,46036,Advanced Degree,"Colleges, Universities, and Professional Schools",364400156,19623,2012,Male,Florida,18570.05
+1073,1073,46037,46037,Unavalble,"Colleges, Universities, and Professional Schools",9643485,2773,2012,Male,Florida,3477.64
+1074,1074,46038,46038,All Education Categories,"Colleges, Universities, and Professional Schools",567169959,54932,2012,Female,Florida,10324.95
+1075,1075,46039,46039,Less Than High School,"Colleges, Universities, and Professional Schools",33292660,4174,2012,Female,Florida,7976.2
+1076,1076,46040,46040,High School Graduate,"Colleges, Universities, and Professional Schools",90645282,10308,2012,Female,Florida,8793.68
+1077,1077,46041,46041,Some College,"Colleges, Universities, and Professional Schools",157442013,15765,2012,Female,Florida,9986.81
+1078,1078,46042,46042,Advanced Degree,"Colleges, Universities, and Professional Schools",271831964,20470,2012,Female,Florida,13279.53
+1079,1079,46043,46043,Unavalble,"Colleges, Universities, and Professional Schools",13958041,4216,2012,Female,Florida,3310.73

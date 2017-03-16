@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,2964,2964,2964,All Education Categories,"Colleges, Universities, and Professional Schools",178131893,14962,2004,Male,Oregon,11905.62
+1,1,2965,2965,2965,Less Than High School,"Colleges, Universities, and Professional Schools",3204455,427,2004,Male,Oregon,7504.58
+2,2,2966,2966,2966,High School Graduate,"Colleges, Universities, and Professional Schools",16576248,1849,2004,Male,Oregon,8964.98
+3,3,2967,2967,2967,Some College,"Colleges, Universities, and Professional Schools",35302195,3349,2004,Male,Oregon,10541.12
+4,4,2968,2968,2968,Advanced Degree,"Colleges, Universities, and Professional Schools",120448244,8351,2004,Male,Oregon,14423.21
+5,5,2969,2969,2969,Unavalble,"Colleges, Universities, and Professional Schools",2600751,985,2004,Male,Oregon,2640.36
+6,6,2970,2970,2970,All Education Categories,"Colleges, Universities, and Professional Schools",183814916,20349,2004,Female,Oregon,9033.12
+7,7,2971,2971,2971,Less Than High School,"Colleges, Universities, and Professional Schools",2822281,452,2004,Female,Oregon,6243.98
+8,8,2972,2972,2972,High School Graduate,"Colleges, Universities, and Professional Schools",21591841,2930,2004,Female,Oregon,7369.23
+9,9,2973,2973,2973,Some College,"Colleges, Universities, and Professional Schools",48235667,5657,2004,Female,Oregon,8526.72
+10,10,2974,2974,2974,Advanced Degree,"Colleges, Universities, and Professional Schools",105982928,9641,2004,Female,Oregon,10992.94
+11,11,2975,2975,2975,Unavalble,"Colleges, Universities, and Professional Schools",5182199,1669,2004,Female,Oregon,3104.97
+12,12,6660,6660,6660,All Education Categories,"Colleges, Universities, and Professional Schools",177423701,15225,2005,Male,Oregon,11653.45
+13,13,6661,6661,6661,Less Than High School,"Colleges, Universities, and Professional Schools",3304690,459,2005,Male,Oregon,7199.76
+14,14,6662,6662,6662,High School Graduate,"Colleges, Universities, and Professional Schools",16836879,1925,2005,Male,Oregon,8746.43
+15,15,6663,6663,6663,Some College,"Colleges, Universities, and Professional Schools",35886975,3484,2005,Male,Oregon,10300.51
+16,16,6664,6664,6664,Advanced Degree,"Colleges, Universities, and Professional Schools",119020542,8452,2005,Male,Oregon,14081.94
+17,17,6665,6665,6665,Unavalble,"Colleges, Universities, and Professional Schools",2374616,905,2005,Male,Oregon,2623.89
+18,18,6666,6666,6666,All Education Categories,"Colleges, Universities, and Professional Schools",182974339,20814,2005,Female,Oregon,8790.93
+19,19,6667,6667,6667,Less Than High School,"Colleges, Universities, and Professional Schools",2867436,474,2005,Female,Oregon,6049.44
+20,20,6668,6668,6668,High School Graduate,"Colleges, Universities, and Professional Schools",21679200,3053,2005,Female,Oregon,7100.95
+21,21,6669,6669,6669,Some College,"Colleges, Universities, and Professional Schools",48269996,5854,2005,Female,Oregon,8245.64
+22,22,6670,6670,6670,Advanced Degree,"Colleges, Universities, and Professional Schools",105345218,9897,2005,Female,Oregon,10644.16
+23,23,6671,6671,6671,Unavalble,"Colleges, Universities, and Professional Schools",4812490,1536,2005,Female,Oregon,3133.13
+24,24,10368,10368,10368,All Education Categories,"Colleges, Universities, and Professional Schools",188079043,15398,2006,Male,Oregon,12214.51
+25,25,10369,10369,10369,Less Than High School,"Colleges, Universities, and Professional Schools",3646235,481,2006,Male,Oregon,7580.53
+26,26,10370,10370,10370,High School Graduate,"Colleges, Universities, and Professional Schools",18063596,1971,2006,Male,Oregon,9164.69
+27,27,10371,10371,10371,Some College,"Colleges, Universities, and Professional Schools",38612430,3568,2006,Male,Oregon,10821.87
+28,28,10372,10372,10372,Advanced Degree,"Colleges, Universities, and Professional Schools",125266248,8462,2006,Male,Oregon,14803.39
+29,29,10373,10373,10373,Unavalble,"Colleges, Universities, and Professional Schools",2490534,916,2006,Male,Oregon,2718.92
+30,30,10374,10374,10374,All Education Categories,"Colleges, Universities, and Professional Schools",196780503,21578,2006,Female,Oregon,9119.5
+31,31,10375,10375,10375,Less Than High School,"Colleges, Universities, and Professional Schools",3177720,497,2006,Female,Oregon,6393.8
+32,32,10376,10376,10376,High School Graduate,"Colleges, Universities, and Professional Schools",23472070,3139,2006,Female,Oregon,7477.56
+33,33,10377,10377,10377,Some College,"Colleges, Universities, and Professional Schools",51958185,6013,2006,Female,Oregon,8640.98
+34,34,10378,10378,10378,Advanced Degree,"Colleges, Universities, and Professional Schools",112944358,10174,2006,Female,Oregon,11101.27
+35,35,10379,10379,10379,Unavalble,"Colleges, Universities, and Professional Schools",5228170,1756,2006,Female,Oregon,2977.32
+36,36,14076,14076,14076,All Education Categories,"Colleges, Universities, and Professional Schools",199087728,15657,2007,Male,Oregon,12715.57
+37,37,14077,14077,14077,Less Than High School,"Colleges, Universities, and Professional Schools",4190019,516,2007,Male,Oregon,8120.19
+38,38,14078,14078,14078,High School Graduate,"Colleges, Universities, and Professional Schools",19521127,2041,2007,Male,Oregon,9564.49
+39,39,14079,14079,14079,Some College,"Colleges, Universities, and Professional Schools",41508347,3668,2007,Male,Oregon,11316.34
+40,40,14080,14080,14080,Advanced Degree,"Colleges, Universities, and Professional Schools",131186979,8481,2007,Male,Oregon,15468.34
+41,41,14081,14081,14081,Unavalble,"Colleges, Universities, and Professional Schools",2681256,951,2007,Male,Oregon,2819.41
+42,42,14082,14082,14082,All Education Categories,"Colleges, Universities, and Professional Schools",212674773,21980,2007,Female,Oregon,9675.83
+43,43,14083,14083,14083,Less Than High School,"Colleges, Universities, and Professional Schools",3773152,543,2007,Female,Oregon,6948.71
+44,44,14084,14084,14084,High School Graduate,"Colleges, Universities, and Professional Schools",25570429,3224,2007,Female,Oregon,7931.27
+45,45,14085,14085,14085,Some College,"Colleges, Universities, and Professional Schools",56624715,6182,2007,Female,Oregon,9159.61
+46,46,14086,14086,14086,Advanced Degree,"Colleges, Universities, and Professional Schools",120687780,10293,2007,Female,Oregon,11725.23
+47,47,14087,14087,14087,Unavalble,"Colleges, Universities, and Professional Schools",6018696,1738,2007,Female,Oregon,3463.0
+48,48,17784,17784,17784,All Education Categories,"Colleges, Universities, and Professional Schools",212149748,15973,2008,Male,Oregon,13281.77
+49,49,17785,17785,17785,Less Than High School,"Colleges, Universities, and Professional Schools",4887664,574,2008,Male,Oregon,8515.09
+50,50,17786,17786,17786,High School Graduate,"Colleges, Universities, and Professional Schools",21825055,2188,2008,Male,Oregon,9974.89
+51,51,17787,17787,17787,Some College,"Colleges, Universities, and Professional Schools",45089732,3818,2008,Male,Oregon,11809.78
+52,52,17788,17788,17788,Advanced Degree,"Colleges, Universities, and Professional Schools",137424640,8486,2008,Male,Oregon,16194.28
+53,53,17789,17789,17789,Unavalble,"Colleges, Universities, and Professional Schools",2922657,909,2008,Male,Oregon,3215.24
+54,54,17790,17790,17790,All Education Categories,"Colleges, Universities, and Professional Schools",233092216,22796,2008,Female,Oregon,10225.14
+55,55,17791,17791,17791,Less Than High School,"Colleges, Universities, and Professional Schools",4737600,634,2008,Female,Oregon,7472.56
+56,56,17792,17792,17792,High School Graduate,"Colleges, Universities, and Professional Schools",28832166,3398,2008,Female,Oregon,8485.04
+57,57,17793,17793,17793,Some College,"Colleges, Universities, and Professional Schools",62651271,6475,2008,Female,Oregon,9675.87
+58,58,17794,17794,17794,Advanced Degree,"Colleges, Universities, and Professional Schools",129765731,10532,2008,Female,Oregon,12321.09
+59,59,17795,17795,17795,Unavalble,"Colleges, Universities, and Professional Schools",7105448,1756,2008,Female,Oregon,4046.38
+60,60,21492,21492,21492,All Education Categories,"Colleges, Universities, and Professional Schools",236261652,16277,2009,Male,Oregon,14515.06
+61,61,21493,21493,21493,Less Than High School,"Colleges, Universities, and Professional Schools",5714770,634,2009,Male,Oregon,9013.83
+62,62,21494,21494,21494,High School Graduate,"Colleges, Universities, and Professional Schools",24318300,2308,2009,Male,Oregon,10536.53
+63,63,21495,21495,21495,Some College,"Colleges, Universities, and Professional Schools",49640348,3928,2009,Male,Oregon,12637.56
+64,64,21496,21496,21496,Advanced Degree,"Colleges, Universities, and Professional Schools",153491112,8471,2009,Male,Oregon,18119.6
+65,65,21497,21497,21497,Unavalble,"Colleges, Universities, and Professional Schools",3097121,936,2009,Male,Oregon,3308.89
+66,66,21498,21498,21498,All Education Categories,"Colleges, Universities, and Professional Schools",249950230,23475,2009,Female,Oregon,10647.51
+67,67,21499,21499,21499,Less Than High School,"Colleges, Universities, and Professional Schools",5567684,723,2009,Female,Oregon,7700.81
+68,68,21500,21500,21500,High School Graduate,"Colleges, Universities, and Professional Schools",31768223,3609,2009,Female,Oregon,8802.5
+69,69,21501,21501,21501,Some College,"Colleges, Universities, and Professional Schools",67716390,6751,2009,Female,Oregon,10030.57
+70,70,21502,21502,21502,Advanced Degree,"Colleges, Universities, and Professional Schools",138522582,10711,2009,Female,Oregon,12932.74
+71,71,21503,21503,21503,Unavalble,"Colleges, Universities, and Professional Schools",6375352,1682,2009,Female,Oregon,3790.34
+72,72,25200,25200,25200,All Education Categories,"Colleges, Universities, and Professional Schools",245154008,16673,2010,Male,Oregon,14703.65
+73,73,25201,25201,25201,Less Than High School,"Colleges, Universities, and Professional Schools",6633731,728,2010,Male,Oregon,9112.27
+74,74,25202,25202,25202,High School Graduate,"Colleges, Universities, and Professional Schools",26140873,2465,2010,Male,Oregon,10604.82
+75,75,25203,25203,25203,Some College,"Colleges, Universities, and Professional Schools",52332115,4078,2010,Male,Oregon,12832.79
+76,76,25204,25204,25204,Advanced Degree,"Colleges, Universities, and Professional Schools",157176849,8506,2010,Male,Oregon,18478.35
+77,77,25205,25205,25205,Unavalble,"Colleges, Universities, and Professional Schools",2870440,895,2010,Male,Oregon,3207.2
+78,78,25206,25206,25206,All Education Categories,"Colleges, Universities, and Professional Schools",255914159,23727,2010,Female,Oregon,10785.78
+79,79,25207,25207,25207,Less Than High School,"Colleges, Universities, and Professional Schools",6592222,812,2010,Female,Oregon,8118.5
+80,80,25208,25208,25208,High School Graduate,"Colleges, Universities, and Professional Schools",33275286,3741,2010,Female,Oregon,8894.76
+81,81,25209,25209,25209,Some College,"Colleges, Universities, and Professional Schools",70025526,6859,2010,Female,Oregon,10209.29
+82,82,25210,25210,25210,Advanced Degree,"Colleges, Universities, and Professional Schools",140689049,10738,2010,Female,Oregon,13101.98
+83,83,25211,25211,25211,Unavalble,"Colleges, Universities, and Professional Schools",5332076,1577,2010,Female,Oregon,3381.15
+84,84,28920,28920,28920,All Education Categories,"Colleges, Universities, and Professional Schools",262660102,17553,2011,Male,Oregon,14963.83
+85,85,28921,28921,28921,Less Than High School,"Colleges, Universities, and Professional Schools",8296128,866,2011,Male,Oregon,9579.82
+86,86,28922,28922,28922,High School Graduate,"Colleges, Universities, and Professional Schools",29809762,2766,2011,Male,Oregon,10777.21
+87,87,28923,28923,28923,Some College,"Colleges, Universities, and Professional Schools",57310300,4378,2011,Male,Oregon,13090.52
+88,88,28924,28924,28924,Advanced Degree,"Colleges, Universities, and Professional Schools",164322484,8675,2011,Male,Oregon,18942.07
+89,89,28925,28925,28925,Unavalble,"Colleges, Universities, and Professional Schools",2921428,867,2011,Male,Oregon,3369.58
+90,90,28926,28926,28926,All Education Categories,"Colleges, Universities, and Professional Schools",278687106,25072,2011,Female,Oregon,11115.47
+91,91,28927,28927,28927,Less Than High School,"Colleges, Universities, and Professional Schools",8325742,977,2011,Female,Oregon,8521.74
+92,92,28928,28928,28928,High School Graduate,"Colleges, Universities, and Professional Schools",37830062,4090,2011,Female,Oregon,9249.4
+93,93,28929,28929,28929,Some College,"Colleges, Universities, and Professional Schools",77306851,7337,2011,Female,Oregon,10536.58
+94,94,28930,28930,28930,Advanced Degree,"Colleges, Universities, and Professional Schools",149917610,11130,2011,Female,Oregon,13469.69
+95,95,28931,28931,28931,Unavalble,"Colleges, Universities, and Professional Schools",5306840,1538,2011,Female,Oregon,3450.48
+96,96,32640,32640,32640,All Education Categories,"Colleges, Universities, and Professional Schools",290649626,18065,2012,Male,Oregon,16089.1
+97,97,32641,32641,32641,Less Than High School,"Colleges, Universities, and Professional Schools",10347545,973,2012,Male,Oregon,10634.68
+98,98,32642,32642,32642,High School Graduate,"Colleges, Universities, and Professional Schools",34573536,2962,2012,Male,Oregon,11672.36
+99,99,32643,32643,32643,Some College,"Colleges, Universities, and Professional Schools",64522606,4567,2012,Male,Oregon,14128.01
+100,100,32644,32644,32644,Advanced Degree,"Colleges, Universities, and Professional Schools",178197585,8741,2012,Male,Oregon,20386.41
+101,101,32645,32645,32645,Unavalble,"Colleges, Universities, and Professional Schools",3008353,823,2012,Male,Oregon,3655.35
+102,102,32646,32646,32646,All Education Categories,"Colleges, Universities, and Professional Schools",316253737,25610,2012,Female,Oregon,12348.84
+103,103,32647,32647,32647,Less Than High School,"Colleges, Universities, and Professional Schools",10748996,1116,2012,Female,Oregon,9631.72
+104,104,32648,32648,32648,High School Graduate,"Colleges, Universities, and Professional Schools",44448347,4311,2012,Female,Oregon,10310.45
+105,105,32649,32649,32649,Some College,"Colleges, Universities, and Professional Schools",88260062,7579,2012,Female,Oregon,11645.34
+106,106,32650,32650,32650,Advanced Degree,"Colleges, Universities, and Professional Schools",167369161,11177,2012,Female,Oregon,14974.43
+107,107,32651,32651,32651,Unavalble,"Colleges, Universities, and Professional Schools",5427172,1427,2012,Female,Oregon,3803.2
+108,108,33348,33348,33348,All Education Categories,00,8244326729,768946,2004,Male,Oregon,10721.59
+109,109,33349,33349,33349,Less Than High School,00,499493991,74621,2004,Male,Oregon,6693.75
+110,110,33350,33350,33350,High School Graduate,00,1755306979,198607,2004,Male,Oregon,8838.09
+111,111,33351,33351,33351,Some College,00,2307536809,211140,2004,Male,Oregon,10928.94
+112,112,33352,33352,33352,Advanced Degree,00,3301277225,189379,2004,Male,Oregon,17432.12
+113,113,33353,33353,33353,Unavalble,00,380711725,95200,2004,Male,Oregon,3999.07
+114,114,33354,33354,33354,All Education Categories,00,4916915413,727062,2004,Female,Oregon,6762.72
+115,115,33355,33355,33355,Less Than High School,00,211827486,47556,2004,Female,Oregon,4454.27
+116,116,33356,33356,33356,High School Graduate,00,955822132,171124,2004,Female,Oregon,5585.55
+117,117,33357,33357,33357,Some College,00,1564640911,223659,2004,Female,Oregon,6995.65
+118,118,33358,33358,33358,Advanced Degree,00,1850897862,181176,2004,Female,Oregon,10216.02
+119,119,33359,33359,33359,Unavalble,00,333727022,103547,2004,Female,Oregon,3222.95
+120,120,33408,33408,33408,All Education Categories,Manufacturing,1836070887,140002,2004,Male,Oregon,13114.6
+121,121,33409,33409,33409,Less Than High School,Manufacturing,133833555,16174,2004,Male,Oregon,8274.61
+122,122,33410,33410,33410,High School Graduate,Manufacturing,446707648,42035,2004,Male,Oregon,10627.04
+123,123,33411,33411,33411,Some College,Manufacturing,548997001,41687,2004,Male,Oregon,13169.5
+124,124,33412,33412,33412,Advanced Degree,Manufacturing,645130892,29962,2004,Male,Oregon,21531.64
+125,125,33413,33413,33413,Unavalble,Manufacturing,61401790,10145,2004,Male,Oregon,6052.42
+126,126,33414,33414,33414,All Education Categories,Manufacturing,439447254,49533,2004,Female,Oregon,8871.81
+127,127,33415,33415,33415,Less Than High School,Manufacturing,33550499,5669,2004,Female,Oregon,5918.24
+128,128,33416,33416,33416,High School Graduate,Manufacturing,108886288,14465,2004,Female,Oregon,7527.57
+129,129,33417,33417,33417,Some College,Manufacturing,141316717,15561,2004,Female,Oregon,9081.47
+130,130,33418,33418,33418,Advanced Degree,Manufacturing,137576094,9987,2004,Female,Oregon,13775.52
+131,131,33419,33419,33419,Unavalble,Manufacturing,18117655,3852,2004,Female,Oregon,4703.44
+132,132,33432,33432,33432,All Education Categories,Retail Trade,658358273,90174,2004,Male,Oregon,7300.98
+133,133,33433,33433,33433,Less Than High School,Retail Trade,51440099,8403,2004,Male,Oregon,6121.64
+134,134,33434,33434,33434,High School Graduate,Retail Trade,192588163,25356,2004,Male,Oregon,7595.37
+135,135,33435,33435,33435,Some College,Retail Trade,199517635,22837,2004,Male,Oregon,8736.6
+136,136,33436,33436,33436,Advanced Degree,Retail Trade,138904259,12020,2004,Male,Oregon,11556.09
+137,137,33437,33437,33437,Unavalble,Retail Trade,75908117,21559,2004,Male,Oregon,3520.95
+138,138,33438,33438,33438,All Education Categories,Retail Trade,402706708,90296,2004,Female,Oregon,4459.85
+139,139,33439,33439,33439,Less Than High School,Retail Trade,27876894,6957,2004,Female,Oregon,4007.03
+140,140,33440,33440,33440,High School Graduate,Retail Trade,122352397,26318,2004,Female,Oregon,4649.0
+141,141,33441,33441,33441,Some College,Retail Trade,122179117,23693,2004,Female,Oregon,5156.76
+142,142,33442,33442,33442,Advanced Degree,Retail Trade,69813491,10570,2004,Female,Oregon,6604.87
+143,143,33443,33443,33443,Unavalble,Retail Trade,60484808,22758,2004,Female,Oregon,2657.74
+144,144,33468,33468,33468,All Education Categories,Finance and Insurance,426992895,18410,2004,Male,Oregon,23193.53
+145,145,33469,33469,33469,Less Than High School,Finance and Insurance,5278785,500,2004,Male,Oregon,10557.57
+146,146,33470,33470,33470,High School Graduate,Finance and Insurance,30302688,2260,2004,Male,Oregon,13408.27
+147,147,33471,33471,33471,Some College,Finance and Insurance,79937215,4326,2004,Male,Oregon,18478.32
+148,148,33472,33472,33472,Advanced Degree,Finance and Insurance,303379718,9983,2004,Male,Oregon,30389.63
+149,149,33473,33473,33473,Unavalble,Finance and Insurance,8094490,1342,2004,Male,Oregon,6031.66
+150,150,33474,33474,33474,All Education Categories,Finance and Insurance,406146098,39746,2004,Female,Oregon,10218.54
+151,151,33475,33475,33475,Less Than High School,Finance and Insurance,6386781,958,2004,Female,Oregon,6666.79
+152,152,33476,33476,33476,High School Graduate,Finance and Insurance,55666339,7013,2004,Female,Oregon,7937.59
+153,153,33477,33477,33477,Some College,Finance and Insurance,113838562,12080,2004,Female,Oregon,9423.72
+154,154,33478,33478,33478,Advanced Degree,Finance and Insurance,207382384,15402,2004,Female,Oregon,13464.64
+155,155,33479,33479,33479,Unavalble,Finance and Insurance,22872032,4294,2004,Female,Oregon,5326.51
+156,156,33528,33528,33528,All Education Categories,Educational Services,421865373,43869,2004,Male,Oregon,9616.48
+157,157,33529,33529,33529,Less Than High School,Educational Services,10929715,1788,2004,Male,Oregon,6112.82
+158,158,33530,33530,33530,High School Graduate,Educational Services,56778077,7446,2004,Male,Oregon,7625.31
+159,159,33531,33531,33531,Some College,Educational Services,100055839,11217,2004,Male,Oregon,8920.02
+160,160,33532,33532,33532,Advanced Degree,Educational Services,248002566,21048,2004,Male,Oregon,11782.71
+161,161,33533,33533,33533,Unavalble,Educational Services,6099176,2370,2004,Male,Oregon,2573.49
+162,162,33534,33534,33534,All Education Categories,Educational Services,632467068,88473,2004,Female,Oregon,7148.7
+163,163,33535,33535,33535,Less Than High School,Educational Services,11860139,2788,2004,Female,Oregon,4254.0
+164,164,33536,33536,33536,High School Graduate,Educational Services,94899075,17765,2004,Female,Oregon,5341.91
+165,165,33537,33537,33537,Some College,Educational Services,174209732,26529,2004,Female,Oregon,6566.77
+166,166,33538,33538,33538,Advanced Degree,Educational Services,337653967,36755,2004,Female,Oregon,9186.61
+167,167,33539,33539,33539,Unavalble,Educational Services,13844154,4636,2004,Female,Oregon,2986.23
+168,168,33540,33540,33540,All Education Categories,Health Care and Social Assistance,497687748,38203,2004,Male,Oregon,13027.45
+169,169,33541,33541,33541,Less Than High School,Health Care and Social Assistance,15363635,2574,2004,Male,Oregon,5968.78
+170,170,33542,33542,33542,High School Graduate,Health Care and Social Assistance,62123119,7577,2004,Male,Oregon,8198.91
+171,171,33543,33543,33543,Some College,Health Care and Social Assistance,122036715,10685,2004,Male,Oregon,11421.31
+172,172,33544,33544,33544,Advanced Degree,Health Care and Social Assistance,285347209,13808,2004,Male,Oregon,20665.35
+173,173,33545,33545,33545,Unavalble,Health Care and Social Assistance,12817070,3558,2004,Male,Oregon,3602.32
+174,174,33546,33546,33546,All Education Categories,Health Care and Social Assistance,1006348779,136454,2004,Female,Oregon,7375.0
+175,175,33547,33547,33547,Less Than High School,Health Care and Social Assistance,34019703,7112,2004,Female,Oregon,4783.42
+176,176,33548,33548,33548,High School Graduate,Health Care and Social Assistance,176227650,29814,2004,Female,Oregon,5910.9
+177,177,33549,33549,33549,Some College,Health Care and Social Assistance,374186670,50383,2004,Female,Oregon,7426.84
+178,178,33550,33550,33550,Advanced Degree,Health Care and Social Assistance,367107044,35515,2004,Female,Oregon,10336.68
+179,179,33551,33551,33551,Unavalble,Health Care and Social Assistance,54807711,13630,2004,Female,Oregon,4021.11
+180,180,33564,33564,33564,All Education Categories,Accommodation and Food Services,222310659,55303,2004,Male,Oregon,4019.87
+181,181,33565,33565,33565,Less Than High School,Accommodation and Food Services,30927306,7768,2004,Male,Oregon,3981.37
+182,182,33566,33566,33566,High School Graduate,Accommodation and Food Services,59792722,13082,2004,Male,Oregon,4570.61
+183,183,33567,33567,33567,Some College,Accommodation and Food Services,54909664,11020,2004,Male,Oregon,4982.73
+184,184,33568,33568,33568,Advanced Degree,Accommodation and Food Services,31844111,5564,2004,Male,Oregon,5723.24
+185,185,33569,33569,33569,Unavalble,Accommodation and Food Services,44836856,17868,2004,Male,Oregon,2509.34
+186,186,33570,33570,33570,All Education Categories,Accommodation and Food Services,234251050,73230,2004,Female,Oregon,3198.84
+187,187,33571,33571,33571,Less Than High School,Accommodation and Food Services,25386712,7983,2004,Female,Oregon,3180.1
+188,188,33572,33572,33572,High School Graduate,Accommodation and Food Services,59542387,17089,2004,Female,Oregon,3484.25
+189,189,33573,33573,33573,Some College,Accommodation and Food Services,58664990,15407,2004,Female,Oregon,3807.68
+190,190,33574,33574,33574,Advanced Degree,Accommodation and Food Services,30353803,7025,2004,Female,Oregon,4320.83
+191,191,33575,33575,33575,Unavalble,Accommodation and Food Services,60303159,25726,2004,Female,Oregon,2344.06
+192,192,33600,33600,33600,All Education Categories,00,8739588095,799327,2005,Male,Oregon,10933.68
+193,193,33601,33601,33601,Less Than High School,00,541286190,78635,2005,Male,Oregon,6883.53
+194,194,33602,33602,33602,High School Graduate,00,1870695397,207099,2005,Male,Oregon,9032.86
+195,195,33603,33603,33603,Some College,00,2451764035,220594,2005,Male,Oregon,11114.37
+196,196,33604,33604,33604,Advanced Degree,00,3472119177,195502,2005,Male,Oregon,17760.02
+197,197,33605,33605,33605,Unavalble,00,403723296,97496,2005,Male,Oregon,4140.92
+198,198,33606,33606,33606,All Education Categories,00,5211944303,758575,2005,Female,Oregon,6870.7
+199,199,33607,33607,33607,Less Than High School,00,230905082,50945,2005,Female,Oregon,4532.44
+200,200,33608,33608,33608,High School Graduate,00,1012156809,178504,2005,Female,Oregon,5670.22
+201,201,33609,33609,33609,Some College,00,1659479716,234069,2005,Female,Oregon,7089.7
+202,202,33610,33610,33610,Advanced Degree,00,1960924827,189094,2005,Female,Oregon,10370.11
+203,203,33611,33611,33611,Unavalble,00,348477868,105963,2005,Female,Oregon,3288.67
+204,204,33660,33660,33660,All Education Categories,Manufacturing,1960032854,145877,2005,Male,Oregon,13436.2
+205,205,33661,33661,33661,Less Than High School,Manufacturing,142698695,16955,2005,Male,Oregon,8416.32
+206,206,33662,33662,33662,High School Graduate,Manufacturing,471518007,43470,2005,Male,Oregon,10846.98
+207,207,33663,33663,33663,Some College,Manufacturing,581953893,43362,2005,Male,Oregon,13420.83
+208,208,33664,33664,33664,Advanced Degree,Manufacturing,695297373,30995,2005,Male,Oregon,22432.57
+209,209,33665,33665,33665,Unavalble,Manufacturing,68564886,11096,2005,Male,Oregon,6179.24
+210,210,33666,33666,33666,All Education Categories,Manufacturing,461533696,51020,2005,Female,Oregon,9046.13
+211,211,33667,33667,33667,Less Than High School,Manufacturing,35143342,5949,2005,Female,Oregon,5907.44
+212,212,33668,33668,33668,High School Graduate,Manufacturing,112526566,14754,2005,Female,Oregon,7626.85
+213,213,33669,33669,33669,Some College,Manufacturing,147679201,15931,2005,Female,Oregon,9269.93
+214,214,33670,33670,33670,Advanced Degree,Manufacturing,146581489,10363,2005,Female,Oregon,14144.7
+215,215,33671,33671,33671,Unavalble,Manufacturing,19603096,4023,2005,Female,Oregon,4872.76
+216,216,33684,33684,33684,All Education Categories,Retail Trade,690644723,92055,2005,Male,Oregon,7502.52
+217,217,33685,33685,33685,Less Than High School,Retail Trade,54373677,8652,2005,Male,Oregon,6284.52
+218,218,33686,33686,33686,High School Graduate,Retail Trade,202393075,25778,2005,Male,Oregon,7851.39
+219,219,33687,33687,33687,Some College,Retail Trade,209965411,23517,2005,Male,Oregon,8928.24
+220,220,33688,33688,33688,Advanced Degree,Retail Trade,146105302,12351,2005,Male,Oregon,11829.43
+221,221,33689,33689,33689,Unavalble,Retail Trade,77807258,21757,2005,Male,Oregon,3576.19
+222,222,33690,33690,33690,All Education Categories,Retail Trade,428368374,93164,2005,Female,Oregon,4598.0
+223,223,33691,33691,33691,Less Than High School,Retail Trade,30142188,7288,2005,Female,Oregon,4135.87
+224,224,33692,33692,33692,High School Graduate,Retail Trade,128917210,26840,2005,Female,Oregon,4803.17
+225,225,33693,33693,33693,Some College,Retail Trade,129727968,24340,2005,Female,Oregon,5329.83
+226,226,33694,33694,33694,Advanced Degree,Retail Trade,76081183,11072,2005,Female,Oregon,6871.49
+227,227,33695,33695,33695,Unavalble,Retail Trade,63499825,23623,2005,Female,Oregon,2688.05
+228,228,33720,33720,33720,All Education Categories,Finance and Insurance,452090134,18871,2005,Male,Oregon,23956.87
+229,229,33721,33721,33721,Less Than High School,Finance and Insurance,5805492,534,2005,Male,Oregon,10871.71
+230,230,33722,33722,33722,High School Graduate,Finance and Insurance,33089405,2354,2005,Male,Oregon,14056.67
+231,231,33723,33723,33723,Some College,Finance and Insurance,86675316,4520,2005,Male,Oregon,19175.95
+232,232,33724,33724,33724,Advanced Degree,Finance and Insurance,318226626,10143,2005,Male,Oregon,31374.01
+233,233,33725,33725,33725,Unavalble,Finance and Insurance,8293295,1319,2005,Male,Oregon,6287.56
+234,234,33726,33726,33726,All Education Categories,Finance and Insurance,435337853,40377,2005,Female,Oregon,10781.83
+235,235,33727,33727,33727,Less Than High School,Finance and Insurance,6989502,1001,2005,Female,Oregon,6982.52
+236,236,33728,33728,33728,High School Graduate,Finance and Insurance,58616666,7080,2005,Female,Oregon,8279.19
+237,237,33729,33729,33729,Some College,Finance and Insurance,121810508,12315,2005,Female,Oregon,9891.23
+238,238,33730,33730,33730,Advanced Degree,Finance and Insurance,225261115,15759,2005,Female,Oregon,14294.12
+239,239,33731,33731,33731,Unavalble,Finance and Insurance,22660063,4222,2005,Female,Oregon,5367.14
+240,240,33780,33780,33780,All Education Categories,Educational Services,431657592,45255,2005,Male,Oregon,9538.34
+241,241,33781,33781,33781,Less Than High School,Educational Services,11849321,1924,2005,Male,Oregon,6158.69
+242,242,33782,33782,33782,High School Graduate,Educational Services,59633852,7784,2005,Male,Oregon,7661.08
+243,243,33783,33783,33783,Some College,Educational Services,104435488,11755,2005,Male,Oregon,8884.35
+244,244,33784,33784,33784,Advanced Degree,Educational Services,249143517,21351,2005,Male,Oregon,11668.94
+245,245,33785,33785,33785,Unavalble,Educational Services,6595414,2441,2005,Male,Oregon,2701.93
+246,246,33786,33786,33786,All Education Categories,Educational Services,655957596,92019,2005,Female,Oregon,7128.5
+247,247,33787,33787,33787,Less Than High School,Educational Services,13148443,3058,2005,Female,Oregon,4299.69
+248,248,33788,33788,33788,High School Graduate,Educational Services,99984586,18537,2005,Female,Oregon,5393.78
+249,249,33789,33789,33789,Some College,Educational Services,182887419,27802,2005,Female,Oregon,6578.21
+250,250,33790,33790,33790,Advanced Degree,Educational Services,345069836,37869,2005,Female,Oregon,9112.2
+251,251,33791,33791,33791,Unavalble,Educational Services,14867312,4753,2005,Female,Oregon,3127.98
+252,252,33792,33792,33792,All Education Categories,Health Care and Social Assistance,533803223,40707,2005,Male,Oregon,13113.3
+253,253,33793,33793,33793,Less Than High School,Health Care and Social Assistance,16842194,2875,2005,Male,Oregon,5858.15
+254,254,33794,33794,33794,High School Graduate,Health Care and Social Assistance,66124492,8253,2005,Male,Oregon,8012.18
+255,255,33795,33795,33795,Some College,Health Care and Social Assistance,130740029,11472,2005,Male,Oregon,11396.45
+256,256,33796,33796,33796,Advanced Degree,Health Care and Social Assistance,307529795,14523,2005,Male,Oregon,21175.36
+257,257,33797,33797,33797,Unavalble,Health Care and Social Assistance,12566713,3584,2005,Male,Oregon,3506.34
+258,258,33798,33798,33798,All Education Categories,Health Care and Social Assistance,1068911942,148144,2005,Female,Oregon,7215.36
+259,259,33799,33799,33799,Less Than High School,Health Care and Social Assistance,38039265,8317,2005,Female,Oregon,4573.68
+260,260,33800,33800,33800,High School Graduate,Health Care and Social Assistance,189542288,33097,2005,Female,Oregon,5726.87
+261,261,33801,33801,33801,Some College,Health Care and Social Assistance,397424673,54472,2005,Female,Oregon,7295.94
+262,262,33802,33802,33802,Advanced Degree,Health Care and Social Assistance,388453097,38184,2005,Female,Oregon,10173.19
+263,263,33803,33803,33803,Unavalble,Health Care and Social Assistance,55452619,14074,2005,Female,Oregon,3940.08
+264,264,33816,33816,33816,All Education Categories,Accommodation and Food Services,233943080,57161,2005,Male,Oregon,4092.7
+265,265,33817,33817,33817,Less Than High School,Accommodation and Food Services,32997027,8171,2005,Male,Oregon,4038.31
+266,266,33818,33818,33818,High School Graduate,Accommodation and Food Services,63467981,13851,2005,Male,Oregon,4582.19
+267,267,33819,33819,33819,Some College,Accommodation and Food Services,58493495,11702,2005,Male,Oregon,4998.59
+268,268,33820,33820,33820,Advanced Degree,Accommodation and Food Services,33588094,5821,2005,Male,Oregon,5770.16
+269,269,33821,33821,33821,Unavalble,Accommodation and Food Services,45396483,17616,2005,Male,Oregon,2577.0
+270,270,33822,33822,33822,All Education Categories,Accommodation and Food Services,250546063,76407,2005,Female,Oregon,3279.1
+271,271,33823,33823,33823,Less Than High School,Accommodation and Food Services,27711954,8465,2005,Female,Oregon,3273.71
+272,272,33824,33824,33824,High School Graduate,Accommodation and Food Services,63385962,17831,2005,Female,Oregon,3554.82
+273,273,33825,33825,33825,Some College,Accommodation and Food Services,62511109,16256,2005,Female,Oregon,3845.42
+274,274,33826,33826,33826,Advanced Degree,Accommodation and Food Services,32754028,7517,2005,Female,Oregon,4357.33
+275,275,33827,33827,33827,Unavalble,Accommodation and Food Services,64183011,26337,2005,Female,Oregon,2436.99
+276,276,33852,33852,33852,All Education Categories,00,9740794845,826240,2006,Male,Oregon,11789.3
+277,277,33853,33853,33853,Less Than High School,00,613657942,82393,2006,Male,Oregon,7447.94
+278,278,33854,33854,33854,High School Graduate,00,2079458941,213890,2006,Male,Oregon,9722.1
+279,279,33855,33855,33855,Some College,00,2734667571,227901,2006,Male,Oregon,11999.37
+280,280,33856,33856,33856,Advanced Degree,00,3856487311,200737,2006,Male,Oregon,19211.64
+281,281,33857,33857,33857,Unavalble,00,456523080,101320,2006,Male,Oregon,4505.75
+282,282,33858,33858,33858,All Education Categories,00,5738515222,782265,2006,Female,Oregon,7335.77
+283,283,33859,33859,33859,Less Than High School,00,262240809,53444,2006,Female,Oregon,4906.83
+284,284,33860,33860,33860,High School Graduate,00,1110543793,183131,2006,Female,Oregon,6064.2
+285,285,33861,33861,33861,Some College,00,1823278183,241520,2006,Female,Oregon,7549.18
+286,286,33862,33862,33862,Advanced Degree,00,2156173568,195325,2006,Female,Oregon,11038.9
+287,287,33863,33863,33863,Unavalble,00,386278869,108844,2006,Female,Oregon,3548.92
+288,288,33912,33912,33912,All Education Categories,Manufacturing,2162977211,147730,2006,Male,Oregon,14641.42
+289,289,33913,33913,33913,Less Than High School,Manufacturing,158059079,17344,2006,Male,Oregon,9113.18
+290,290,33914,33914,33914,High School Graduate,Manufacturing,508961078,43612,2006,Male,Oregon,11670.21
+291,291,33915,33915,33915,Some College,Manufacturing,636889996,43652,2006,Male,Oregon,14590.17
+292,292,33916,33916,33916,Advanced Degree,Manufacturing,782163046,31580,2006,Male,Oregon,24767.67
+293,293,33917,33917,33917,Unavalble,Manufacturing,76904013,11541,2006,Male,Oregon,6663.55
+294,294,33918,33918,33918,All Education Categories,Manufacturing,510996864,52198,2006,Female,Oregon,9789.59
+295,295,33919,33919,33919,Less Than High School,Manufacturing,39570383,6219,2006,Female,Oregon,6362.82
+296,296,33920,33920,33920,High School Graduate,Manufacturing,121395696,14851,2006,Female,Oregon,8174.24
+297,297,33921,33921,33921,Some College,Manufacturing,161179020,16178,2006,Female,Oregon,9962.85
+298,298,33922,33922,33922,Advanced Degree,Manufacturing,166574200,10748,2006,Female,Oregon,15498.16
+299,299,33923,33923,33923,Unavalble,Manufacturing,22277566,4201,2006,Female,Oregon,5302.92
+300,300,33936,33936,33936,All Education Categories,Retail Trade,753480359,94455,2006,Male,Oregon,7977.14
+301,301,33937,33937,33937,Less Than High School,Retail Trade,60640291,9100,2006,Male,Oregon,6663.77
+302,302,33938,33938,33938,High School Graduate,Retail Trade,219074250,26404,2006,Male,Oregon,8297.01
+303,303,33939,33939,33939,Some College,Retail Trade,230945246,24110,2006,Male,Oregon,9578.82
+304,304,33940,33940,33940,Advanced Degree,Retail Trade,159025301,12565,2006,Male,Oregon,12656.21
+305,305,33941,33941,33941,Unavalble,Retail Trade,83795272,22277,2006,Male,Oregon,3761.52
+306,306,33942,33942,33942,All Education Categories,Retail Trade,477026099,97140,2006,Female,Oregon,4910.71
+307,307,33943,33943,33943,Less Than High School,Retail Trade,34013640,7649,2006,Female,Oregon,4446.81
+308,308,33944,33944,33944,High School Graduate,Retail Trade,141751281,27589,2006,Female,Oregon,5137.96
+309,309,33945,33945,33945,Some College,Retail Trade,145090491,25517,2006,Female,Oregon,5686.03
+310,310,33946,33946,33946,Advanced Degree,Retail Trade,84623317,11741,2006,Female,Oregon,7207.51
+311,311,33947,33947,33947,Unavalble,Retail Trade,71547370,24643,2006,Female,Oregon,2903.35
+312,312,33972,33972,33972,All Education Categories,Finance and Insurance,523187448,19879,2006,Male,Oregon,26318.6
+313,313,33973,33973,33973,Less Than High School,Finance and Insurance,8278370,630,2006,Male,Oregon,13140.27
+314,314,33974,33974,33974,High School Graduate,Finance and Insurance,39305619,2591,2006,Male,Oregon,15170.06
+315,315,33975,33975,33975,Some College,Finance and Insurance,103825645,4840,2006,Male,Oregon,21451.58
+316,316,33976,33976,33976,Advanced Degree,Finance and Insurance,362691880,10463,2006,Male,Oregon,34664.23
+317,317,33977,33977,33977,Unavalble,Finance and Insurance,9085934,1355,2006,Male,Oregon,6705.49
+318,318,33978,33978,33978,All Education Categories,Finance and Insurance,478121524,41326,2006,Female,Oregon,11569.51
+319,319,33979,33979,33979,Less Than High School,Finance and Insurance,8476912,1124,2006,Female,Oregon,7541.74
+320,320,33980,33980,33980,High School Graduate,Finance and Insurance,64015532,7259,2006,Female,Oregon,8818.78
+321,321,33981,33981,33981,Some College,Finance and Insurance,133883350,12667,2006,Female,Oregon,10569.46
+322,322,33982,33982,33982,Advanced Degree,Finance and Insurance,247002310,16004,2006,Female,Oregon,15433.79
+323,323,33983,33983,33983,Unavalble,Finance and Insurance,24743420,4272,2006,Female,Oregon,5792.0
+324,324,34032,34032,34032,All Education Categories,Educational Services,454472265,45855,2006,Male,Oregon,9911.07
+325,325,34033,34033,34033,Less Than High School,Educational Services,13030823,2004,2006,Male,Oregon,6502.41
+326,326,34034,34034,34034,High School Graduate,Educational Services,63540562,7975,2006,Male,Oregon,7967.47
+327,327,34035,34035,34035,Some College,Educational Services,111023533,12016,2006,Male,Oregon,9239.64
+328,328,34036,34036,34036,Advanced Degree,Educational Services,260055771,21374,2006,Male,Oregon,12166.92
+329,329,34037,34037,34037,Unavalble,Educational Services,6821575,2486,2006,Male,Oregon,2744.0
+330,330,34038,34038,34038,All Education Categories,Educational Services,692795556,93962,2006,Female,Oregon,7373.15
+331,331,34039,34039,34039,Less Than High School,Educational Services,14379470,3190,2006,Female,Oregon,4507.67
+332,332,34040,34040,34040,High School Graduate,Educational Services,105980093,18876,2006,Female,Oregon,5614.54
+333,333,34041,34041,34041,Some College,Educational Services,194830707,28479,2006,Female,Oregon,6841.21
+334,334,34042,34042,34042,Advanced Degree,Educational Services,362443623,38506,2006,Female,Oregon,9412.65
+335,335,34043,34043,34043,Unavalble,Educational Services,15161663,4912,2006,Female,Oregon,3086.66
+336,336,34044,34044,34044,All Education Categories,Health Care and Social Assistance,578948210,41882,2006,Male,Oregon,13823.32
+337,337,34045,34045,34045,Less Than High School,Health Care and Social Assistance,19063253,2992,2006,Male,Oregon,6371.41
+338,338,34046,34046,34046,High School Graduate,Health Care and Social Assistance,73535365,8510,2006,Male,Oregon,8641.05
+339,339,34047,34047,34047,Some College,Health Care and Social Assistance,141172930,11847,2006,Male,Oregon,11916.34
+340,340,34048,34048,34048,Advanced Degree,Health Care and Social Assistance,330601689,14899,2006,Male,Oregon,22189.52
+341,341,34049,34049,34049,Unavalble,Health Care and Social Assistance,14574973,3634,2006,Male,Oregon,4010.72
+342,342,34050,34050,34050,All Education Categories,Health Care and Social Assistance,1172147343,151167,2006,Female,Oregon,7753.99
+343,343,34051,34051,34051,Less Than High School,Health Care and Social Assistance,42872248,8566,2006,Female,Oregon,5004.93
+344,344,34052,34052,34052,High School Graduate,Health Care and Social Assistance,207265365,33677,2006,Female,Oregon,6154.51
+345,345,34053,34053,34053,Some College,Health Care and Social Assistance,433440971,55526,2006,Female,Oregon,7806.09
+346,346,34054,34054,34054,Advanced Degree,Health Care and Social Assistance,428602507,39394,2006,Female,Oregon,10879.89
+347,347,34055,34055,34055,Unavalble,Health Care and Social Assistance,59966252,14003,2006,Female,Oregon,4282.39
+348,348,34068,34068,34068,All Education Categories,Accommodation and Food Services,258866677,58971,2006,Male,Oregon,4389.73
+349,349,34069,34069,34069,Less Than High School,Accommodation and Food Services,36835253,8573,2006,Male,Oregon,4296.66
+350,350,34070,34070,34070,High School Graduate,Accommodation and Food Services,70040809,14318,2006,Male,Oregon,4891.8
+351,351,34071,34071,34071,Some College,Accommodation and Food Services,65170973,12153,2006,Male,Oregon,5362.54
+352,352,34072,34072,34072,Advanced Degree,Accommodation and Food Services,37152825,6060,2006,Male,Oregon,6130.83
+353,353,34073,34073,34073,Unavalble,Accommodation and Food Services,49666815,17868,2006,Male,Oregon,2779.65
+354,354,34074,34074,34074,All Education Categories,Accommodation and Food Services,277276074,78036,2006,Female,Oregon,3553.18
+355,355,34075,34075,34075,Less Than High School,Accommodation and Food Services,31195400,8774,2006,Female,Oregon,3555.44
+356,356,34076,34076,34076,High School Graduate,Accommodation and Food Services,69542228,18127,2006,Female,Oregon,3836.39
+357,357,34077,34077,34077,Some College,Accommodation and Food Services,69279224,16641,2006,Female,Oregon,4163.16
+358,358,34078,34078,34078,Advanced Degree,Accommodation and Food Services,36749107,7760,2006,Female,Oregon,4735.71
+359,359,34079,34079,34079,Unavalble,Accommodation and Food Services,70510115,26734,2006,Female,Oregon,2637.47
+360,360,34104,34104,34104,All Education Categories,00,10147994998,845673,2007,Male,Oregon,11999.9
+361,361,34105,34105,34105,Less Than High School,00,652180011,85875,2007,Male,Oregon,7594.53
+362,362,34106,34106,34106,High School Graduate,00,2178498017,219565,2007,Male,Oregon,9921.88
+363,363,34107,34107,34107,Some College,00,2864019199,234219,2007,Male,Oregon,12227.95
+364,364,34108,34108,34108,Advanced Degree,00,3987369917,204152,2007,Male,Oregon,19531.38
+365,365,34109,34109,34109,Unavalble,00,465927854,101861,2007,Male,Oregon,4574.15
+366,366,34110,34110,34110,All Education Categories,00,6091139657,803717,2007,Female,Oregon,7578.71
+367,367,34111,34111,34111,Less Than High School,00,288303555,56703,2007,Female,Oregon,5084.45
+368,368,34112,34112,34112,High School Graduate,00,1179691992,187814,2007,Female,Oregon,6281.17
+369,369,34113,34113,34113,Some College,00,1941077018,248315,2007,Female,Oregon,7816.99
+370,370,34114,34114,34114,Advanced Degree,00,2285330428,200192,2007,Female,Oregon,11415.69
+371,371,34115,34115,34115,Unavalble,00,396736665,110693,2007,Female,Oregon,3584.12
+372,372,34164,34164,34164,All Education Categories,Manufacturing,2150324662,148083,2007,Male,Oregon,14521.08
+373,373,34165,34165,34165,Less Than High School,Manufacturing,161144377,17726,2007,Male,Oregon,9090.85
+374,374,34166,34166,34166,High School Graduate,Manufacturing,516985145,43721,2007,Male,Oregon,11824.64
+375,375,34167,34167,34167,Some College,Manufacturing,644001115,43966,2007,Male,Oregon,14647.71
+376,376,34168,34168,34168,Advanced Degree,Manufacturing,755216180,31471,2007,Male,Oregon,23997.21
+377,377,34169,34169,34169,Unavalble,Manufacturing,72977845,11199,2007,Male,Oregon,6516.46
+378,378,34170,34170,34170,All Education Categories,Manufacturing,518276898,53550,2007,Female,Oregon,9678.37
+379,379,34171,34171,34171,Less Than High School,Manufacturing,42541490,6623,2007,Female,Oregon,6423.3
+380,380,34172,34172,34172,High School Graduate,Manufacturing,124373752,15156,2007,Female,Oregon,8206.24
+381,381,34173,34173,34173,Some College,Manufacturing,164063703,16566,2007,Female,Oregon,9903.64
+382,382,34174,34174,34174,Advanced Degree,Manufacturing,165776367,11020,2007,Female,Oregon,15043.23
+383,383,34175,34175,34175,Unavalble,Manufacturing,21521586,4186,2007,Female,Oregon,5141.32
+384,384,34188,34188,34188,All Education Categories,Retail Trade,777748051,95679,2007,Male,Oregon,8128.72
+385,385,34189,34189,34189,Less Than High School,Retail Trade,63420036,9337,2007,Male,Oregon,6792.34
+386,386,34190,34190,34190,High School Graduate,Retail Trade,225109728,26743,2007,Male,Oregon,8417.52
+387,387,34191,34191,34191,Some College,Retail Trade,238104938,24528,2007,Male,Oregon,9707.47
+388,388,34192,34192,34192,Advanced Degree,Retail Trade,165457598,12808,2007,Male,Oregon,12918.3
+389,389,34193,34193,34193,Unavalble,Retail Trade,85655752,22262,2007,Male,Oregon,3847.62
+390,390,34194,34194,34194,All Education Categories,Retail Trade,502880518,99542,2007,Female,Oregon,5051.94
+391,391,34195,34195,34195,Less Than High School,Retail Trade,36473917,8015,2007,Female,Oregon,4550.71
+392,392,34196,34196,34196,High School Graduate,Retail Trade,147141663,27910,2007,Female,Oregon,5272.01
+393,393,34197,34197,34197,Some College,Retail Trade,153870712,26176,2007,Female,Oregon,5878.31
+394,394,34198,34198,34198,Advanced Degree,Retail Trade,92109978,12141,2007,Female,Oregon,7586.69
+395,395,34199,34199,34199,Unavalble,Retail Trade,73284248,25301,2007,Female,Oregon,2896.5
+396,396,34224,34224,34224,All Education Categories,Finance and Insurance,539432626,20362,2007,Male,Oregon,26492.12
+397,397,34225,34225,34225,Less Than High School,Finance and Insurance,7899614,688,2007,Male,Oregon,11482.0
+398,398,34226,34226,34226,High School Graduate,Finance and Insurance,41385302,2758,2007,Male,Oregon,15005.55
+399,399,34227,34227,34227,Some College,Finance and Insurance,103935200,5038,2007,Male,Oregon,20630.25
+400,400,34228,34228,34228,Advanced Degree,Finance and Insurance,376873362,10609,2007,Male,Oregon,35523.93
+401,401,34229,34229,34229,Unavalble,Finance and Insurance,9339148,1269,2007,Male,Oregon,7359.45
+402,402,34230,34230,34230,All Education Categories,Finance and Insurance,504178635,41714,2007,Female,Oregon,12086.56
+403,403,34231,34231,34231,Less Than High School,Finance and Insurance,9696653,1228,2007,Female,Oregon,7896.3
+404,404,34232,34232,34232,High School Graduate,Finance and Insurance,67756026,7385,2007,Female,Oregon,9174.82
+405,405,34233,34233,34233,Some College,Finance and Insurance,141854082,12815,2007,Female,Oregon,11069.38
+406,406,34234,34234,34234,Advanced Degree,Finance and Insurance,259083331,15935,2007,Female,Oregon,16258.76
+407,407,34235,34235,34235,Unavalble,Finance and Insurance,25788542,4351,2007,Female,Oregon,5927.04
+408,408,34284,34284,34284,All Education Categories,Educational Services,479151967,46888,2007,Male,Oregon,10219.07
+409,409,34285,34285,34285,Less Than High School,Educational Services,14592103,2150,2007,Male,Oregon,6787.02
+410,410,34286,34286,34286,High School Graduate,Educational Services,68184418,8291,2007,Male,Oregon,8223.91
+411,411,34287,34287,34287,Some College,Educational Services,118401129,12421,2007,Male,Oregon,9532.33
+412,412,34288,34288,34288,Advanced Degree,Educational Services,270720108,21560,2007,Male,Oregon,12556.59
+413,413,34289,34289,34289,Unavalble,Educational Services,7254209,2466,2007,Male,Oregon,2941.69
+414,414,34290,34290,34290,All Education Categories,Educational Services,736321988,96532,2007,Female,Oregon,7627.75
+415,415,34291,34291,34291,Less Than High School,Educational Services,16377262,3431,2007,Female,Oregon,4773.32
+416,416,34292,34292,34292,High School Graduate,Educational Services,113697414,19429,2007,Female,Oregon,5851.94
+417,417,34293,34293,34293,Some College,Educational Services,209003005,29480,2007,Female,Oregon,7089.65
+418,418,34294,34294,34294,Advanced Degree,Educational Services,380760505,39269,2007,Female,Oregon,9696.21
+419,419,34295,34295,34295,Unavalble,Educational Services,16483802,4924,2007,Female,Oregon,3347.64
+420,420,34296,34296,34296,All Education Categories,Health Care and Social Assistance,637398956,44132,2007,Male,Oregon,14443.01
+421,421,34297,34297,34297,Less Than High School,Health Care and Social Assistance,21669942,3193,2007,Male,Oregon,6786.7
+422,422,34298,34298,34298,High School Graduate,Health Care and Social Assistance,82864941,9080,2007,Male,Oregon,9126.09
+423,423,34299,34299,34299,Some College,Health Care and Social Assistance,158095102,12545,2007,Male,Oregon,12602.24
+424,424,34300,34300,34300,Advanced Degree,Health Care and Social Assistance,359598853,15647,2007,Male,Oregon,22981.97
+425,425,34301,34301,34301,Unavalble,Health Care and Social Assistance,15170118,3667,2007,Male,Oregon,4136.93
+426,426,34302,34302,34302,All Education Categories,Health Care and Social Assistance,1271176342,155860,2007,Female,Oregon,8155.89
+427,427,34303,34303,34303,Less Than High School,Health Care and Social Assistance,48057627,9060,2007,Female,Oregon,5304.37
+428,428,34304,34304,34304,High School Graduate,Health Care and Social Assistance,225140605,34742,2007,Female,Oregon,6480.36
+429,429,34305,34305,34305,Some College,Health Care and Social Assistance,468888375,57097,2007,Female,Oregon,8212.14
+430,430,34306,34306,34306,Advanced Degree,Health Care and Social Assistance,467284099,40764,2007,Female,Oregon,11463.16
+431,431,34307,34307,34307,Unavalble,Health Care and Social Assistance,61805636,14196,2007,Female,Oregon,4353.74
+432,432,34320,34320,34320,All Education Categories,Accommodation and Food Services,276335528,61715,2007,Male,Oregon,4477.61
+433,433,34321,34321,34321,Less Than High School,Accommodation and Food Services,40261067,9080,2007,Male,Oregon,4434.04
+434,434,34322,34322,34322,High School Graduate,Accommodation and Food Services,75292730,15116,2007,Male,Oregon,4981.0
+435,435,34323,34323,34323,Some College,Accommodation and Food Services,69472628,12806,2007,Male,Oregon,5425.01
+436,436,34324,34324,34324,Advanced Degree,Accommodation and Food Services,39483809,6371,2007,Male,Oregon,6197.43
+437,437,34325,34325,34325,Unavalble,Accommodation and Food Services,51825293,18342,2007,Male,Oregon,2825.5
+438,438,34326,34326,34326,All Education Categories,Accommodation and Food Services,293755113,81301,2007,Female,Oregon,3613.18
+439,439,34327,34327,34327,Less Than High School,Accommodation and Food Services,34000410,9291,2007,Female,Oregon,3659.5
+440,440,34328,34328,34328,High School Graduate,Accommodation and Food Services,74010494,18860,2007,Female,Oregon,3924.2
+441,441,34329,34329,34329,Some College,Accommodation and Food Services,74000281,17461,2007,Female,Oregon,4238.03
+442,442,34330,34330,34330,Advanced Degree,Accommodation and Food Services,38855171,8231,2007,Female,Oregon,4720.59
+443,443,34331,34331,34331,Unavalble,Accommodation and Food Services,72888757,27457,2007,Female,Oregon,2654.65
+444,444,34356,34356,34356,All Education Categories,00,10381671497,846803,2008,Male,Oregon,12259.84
+445,445,34357,34357,34357,Less Than High School,00,676532513,87445,2008,Male,Oregon,7736.66
+446,446,34358,34358,34358,High School Graduate,00,2214967941,219797,2008,Male,Oregon,10077.33
+447,447,34359,34359,34359,Some College,00,2929232938,235300,2008,Male,Oregon,12448.93
+448,448,34360,34360,34360,Advanced Degree,00,4105192406,204712,2008,Male,Oregon,20053.5
+449,449,34361,34361,34361,Unavalble,00,455745700,99548,2008,Male,Oregon,4578.15
+450,450,34362,34362,34362,All Education Categories,00,6389736649,812795,2008,Female,Oregon,7861.44
+451,451,34363,34363,34363,Less Than High School,00,313291558,59225,2008,Female,Oregon,5289.85
+452,452,34364,34364,34364,High School Graduate,00,1238710722,189988,2008,Female,Oregon,6519.94
+453,453,34365,34365,34365,Some College,00,2037862041,251610,2008,Female,Oregon,8099.29
+454,454,34366,34366,34366,Advanced Degree,00,2398262532,202704,2008,Female,Oregon,11831.35
+455,455,34367,34367,34367,Unavalble,00,401609795,109269,2008,Female,Oregon,3675.42
+456,456,34416,34416,34416,All Education Categories,Manufacturing,2211833369,143573,2008,Male,Oregon,15405.64
+457,457,34417,34417,34417,Less Than High School,Manufacturing,162078386,17310,2008,Male,Oregon,9363.28
+458,458,34418,34418,34418,High School Graduate,Manufacturing,514331925,42299,2008,Male,Oregon,12159.43
+459,459,34419,34419,34419,Some College,Manufacturing,654271279,42803,2008,Male,Oregon,15285.64
+460,460,34420,34420,34420,Advanced Degree,Manufacturing,813092478,30900,2008,Male,Oregon,26313.67
+461,461,34421,34421,34421,Unavalble,Manufacturing,68059300,10260,2008,Male,Oregon,6633.46
+462,462,34422,34422,34422,All Education Categories,Manufacturing,542309364,52527,2008,Female,Oregon,10324.39
+463,463,34423,34423,34423,Less Than High School,Manufacturing,44177709,6622,2008,Female,Oregon,6671.35
+464,464,34424,34424,34424,High School Graduate,Manufacturing,126568575,14693,2008,Female,Oregon,8614.21
+465,465,34425,34425,34425,Some College,Manufacturing,170899007,16265,2008,Female,Oregon,10507.16
+466,466,34426,34426,34426,Advanced Degree,Manufacturing,179465170,10899,2008,Female,Oregon,16466.21
+467,467,34427,34427,34427,Unavalble,Manufacturing,21198903,4048,2008,Female,Oregon,5236.88
+468,468,34440,34440,34440,All Education Categories,Retail Trade,766023345,96544,2008,Male,Oregon,7934.45
+469,469,34441,34441,34441,Less Than High School,Retail Trade,65490579,9659,2008,Male,Oregon,6780.26
+470,470,34442,34442,34442,High School Graduate,Retail Trade,222637512,26912,2008,Male,Oregon,8272.8
+471,471,34443,34443,34443,Some College,Retail Trade,232906138,24729,2008,Male,Oregon,9418.34
+472,472,34444,34444,34444,Advanced Degree,Retail Trade,160300719,13074,2008,Male,Oregon,12261.03
+473,473,34445,34445,34445,Unavalble,Retail Trade,84688396,22171,2008,Male,Oregon,3819.78
+474,474,34446,34446,34446,All Education Categories,Retail Trade,512935590,100354,2008,Female,Oregon,5111.26
+475,475,34447,34447,34447,Less Than High School,Retail Trade,38528678,8318,2008,Female,Oregon,4631.96
+476,476,34448,34448,34448,High School Graduate,Retail Trade,149404975,28006,2008,Female,Oregon,5334.75
+477,477,34449,34449,34449,Some College,Retail Trade,156871947,26571,2008,Female,Oregon,5903.88
+478,478,34450,34450,34450,Advanced Degree,Retail Trade,94929886,12559,2008,Female,Oregon,7558.71
+479,479,34451,34451,34451,Unavalble,Retail Trade,73200105,24901,2008,Female,Oregon,2939.65
+480,480,34476,34476,34476,All Education Categories,Finance and Insurance,531586446,20223,2008,Male,Oregon,26286.23
+481,481,34477,34477,34477,Less Than High School,Finance and Insurance,8445577,709,2008,Male,Oregon,11911.96
+482,482,34478,34478,34478,High School Graduate,Finance and Insurance,42849702,2807,2008,Male,Oregon,15265.3
+483,483,34479,34479,34479,Some College,Finance and Insurance,105535246,5031,2008,Male,Oregon,20976.99
+484,484,34480,34480,34480,Advanced Degree,Finance and Insurance,365713592,10455,2008,Male,Oregon,34979.78
+485,485,34481,34481,34481,Unavalble,Finance and Insurance,9042330,1220,2008,Male,Oregon,7411.75
+486,486,34482,34482,34482,All Education Categories,Finance and Insurance,506662068,40649,2008,Female,Oregon,12464.32
+487,487,34483,34483,34483,Less Than High School,Finance and Insurance,10396999,1278,2008,Female,Oregon,8135.37
+488,488,34484,34484,34484,High School Graduate,Finance and Insurance,69608976,7325,2008,Female,Oregon,9502.93
+489,489,34485,34485,34485,Some College,Finance and Insurance,143287022,12595,2008,Female,Oregon,11376.5
+490,490,34486,34486,34486,Advanced Degree,Finance and Insurance,259149022,15507,2008,Female,Oregon,16711.74
+491,491,34487,34487,34487,Unavalble,Finance and Insurance,24220048,3944,2008,Female,Oregon,6140.99
+492,492,34536,34536,34536,All Education Categories,Educational Services,511810019,48138,2008,Male,Oregon,10632.14
+493,493,34537,34537,34537,Less Than High School,Educational Services,16864095,2367,2008,Male,Oregon,7124.67
+494,494,34538,34538,34538,High School Graduate,Educational Services,75016663,8758,2008,Male,Oregon,8565.5
+495,495,34539,34539,34539,Some College,Educational Services,127924909,12850,2008,Male,Oregon,9955.25
+496,496,34540,34540,34540,Advanced Degree,Educational Services,284240115,21622,2008,Male,Oregon,13145.88
+497,497,34541,34541,34541,Unavalble,Educational Services,7764236,2541,2008,Male,Oregon,3055.58
+498,498,34542,34542,34542,All Education Categories,Educational Services,789759261,98906,2008,Female,Oregon,7984.95
+499,499,34543,34543,34543,Less Than High School,Educational Services,19566483,3791,2008,Female,Oregon,5161.3
+500,500,34544,34544,34544,High School Graduate,Educational Services,124226595,19988,2008,Female,Oregon,6215.06
+501,501,34545,34545,34545,Some College,Educational Services,226626745,30362,2008,Female,Oregon,7464.16
+502,502,34546,34546,34546,Advanced Degree,Educational Services,401405230,39760,2008,Female,Oregon,10095.7
+503,503,34547,34547,34547,Unavalble,Educational Services,17934208,5005,2008,Female,Oregon,3583.26
+504,504,34548,34548,34548,All Education Categories,Health Care and Social Assistance,676597726,45244,2008,Male,Oregon,14954.42
+505,505,34549,34549,34549,Less Than High School,Health Care and Social Assistance,24454979,3389,2008,Male,Oregon,7215.99
+506,506,34550,34550,34550,High School Graduate,Health Care and Social Assistance,89642115,9419,2008,Male,Oregon,9517.16
+507,507,34551,34551,34551,Some College,Health Care and Social Assistance,168634219,12864,2008,Male,Oregon,13109.0
+508,508,34552,34552,34552,Advanced Degree,Health Care and Social Assistance,378090621,15864,2008,Male,Oregon,23833.25
+509,509,34553,34553,34553,Unavalble,Health Care and Social Assistance,15775792,3708,2008,Male,Oregon,4254.53
+510,510,34554,34554,34554,All Education Categories,Health Care and Social Assistance,1352375677,158965,2008,Female,Oregon,8507.38
+511,511,34555,34555,34555,Less Than High School,Health Care and Social Assistance,54110678,9641,2008,Female,Oregon,5612.56
+512,512,34556,34556,34556,High School Graduate,Health Care and Social Assistance,242547095,35543,2008,Female,Oregon,6824.05
+513,513,34557,34557,34557,Some College,Health Care and Social Assistance,495232328,57880,2008,Female,Oregon,8556.19
+514,514,34558,34558,34558,Advanced Degree,Health Care and Social Assistance,494559714,41451,2008,Female,Oregon,11931.19
+515,515,34559,34559,34559,Unavalble,Health Care and Social Assistance,65925862,14449,2008,Female,Oregon,4562.66
+516,516,34572,34572,34572,All Education Categories,Accommodation and Food Services,290083794,63997,2008,Male,Oregon,4532.77
+517,517,34573,34573,34573,Less Than High School,Accommodation and Food Services,43285196,9565,2008,Male,Oregon,4525.37
+518,518,34574,34574,34574,High School Graduate,Accommodation and Food Services,79652169,15700,2008,Male,Oregon,5073.39
+519,519,34575,34575,34575,Some College,Accommodation and Food Services,73634037,13489,2008,Male,Oregon,5458.82
+520,520,34576,34576,34576,Advanced Degree,Accommodation and Food Services,41027987,6755,2008,Male,Oregon,6073.72
+521,521,34577,34577,34577,Unavalble,Accommodation and Food Services,52484406,18489,2008,Male,Oregon,2838.68
+522,522,34578,34578,34578,All Education Categories,Accommodation and Food Services,307934164,83469,2008,Female,Oregon,3689.2
+523,523,34579,34579,34579,Less Than High School,Accommodation and Food Services,36610957,9784,2008,Female,Oregon,3741.92
+524,524,34580,34580,34580,High School Graduate,Accommodation and Food Services,77757419,19409,2008,Female,Oregon,4006.26
+525,525,34581,34581,34581,Some College,Accommodation and Food Services,78396731,18252,2008,Female,Oregon,4295.24
+526,526,34582,34582,34582,Advanced Degree,Accommodation and Food Services,41263776,8696,2008,Female,Oregon,4745.14
+527,527,34583,34583,34583,Unavalble,Accommodation and Food Services,73905281,27328,2008,Female,Oregon,2704.38
+528,528,34608,34608,34608,All Education Categories,00,9388759415,793669,2009,Male,Oregon,11829.57
+529,529,34609,34609,34609,Less Than High School,00,605754372,82120,2009,Male,Oregon,7376.45
+530,530,34610,34610,34610,High School Graduate,00,1984979774,206100,2009,Male,Oregon,9631.15
+531,531,34611,34611,34611,Some College,00,2669406847,223288,2009,Male,Oregon,11954.99
+532,532,34612,34612,34612,Advanced Degree,00,3771172374,196846,2009,Male,Oregon,19157.98
+533,533,34613,34613,34613,Unavalble,00,357446047,85314,2009,Male,Oregon,4189.77
+534,534,34614,34614,34614,All Education Categories,00,6174570241,786813,2009,Female,Oregon,7847.57
+535,535,34615,34615,34615,Less Than High School,00,307272390,58456,2009,Female,Oregon,5256.47
+536,536,34616,34616,34616,High School Graduate,00,1198411331,184393,2009,Female,Oregon,6499.22
+537,537,34617,34617,34617,Some College,00,1991804867,246491,2009,Female,Oregon,8080.64
+538,538,34618,34618,34618,Advanced Degree,00,2330680369,199698,2009,Female,Oregon,11671.03
+539,539,34619,34619,34619,Unavalble,00,346401284,97776,2009,Female,Oregon,3542.8
+540,540,34668,34668,34668,All Education Categories,Manufacturing,1854208162,128338,2009,Male,Oregon,14447.85
+541,541,34669,34669,34669,Less Than High School,Manufacturing,130622729,15287,2009,Male,Oregon,8544.69
+542,542,34670,34670,34670,High School Graduate,Manufacturing,419954671,37521,2009,Male,Oregon,11192.52
+543,543,34671,34671,34671,Some College,Manufacturing,549136156,38758,2009,Male,Oregon,14168.33
+544,544,34672,34672,34672,Advanced Degree,Manufacturing,708652397,28930,2009,Male,Oregon,24495.42
+545,545,34673,34673,34673,Unavalble,Manufacturing,45842210,7842,2009,Male,Oregon,5845.73
+546,546,34674,34674,34674,All Education Categories,Manufacturing,472039259,47417,2009,Female,Oregon,9955.06
+547,547,34675,34675,34675,Less Than High School,Manufacturing,37987489,6066,2009,Female,Oregon,6262.36
+548,548,34676,34676,34676,High School Graduate,Manufacturing,106304572,13074,2009,Female,Oregon,8130.99
+549,549,34677,34677,34677,Some College,Manufacturing,148954609,14860,2009,Female,Oregon,10023.86
+550,550,34678,34678,34678,Advanced Degree,Manufacturing,163254200,10317,2009,Female,Oregon,15823.81
+551,551,34679,34679,34679,Unavalble,Manufacturing,15538389,3100,2009,Female,Oregon,5012.38
+552,552,34692,34692,34692,All Education Categories,Retail Trade,667559254,89049,2009,Male,Oregon,7496.54
+553,553,34693,34693,34693,Less Than High School,Retail Trade,58626093,9108,2009,Male,Oregon,6436.77
+554,554,34694,34694,34694,High School Graduate,Retail Trade,196456444,25113,2009,Male,Oregon,7822.9
+555,555,34695,34695,34695,Some College,Retail Trade,203482978,23153,2009,Male,Oregon,8788.62
+556,556,34696,34696,34696,Advanced Degree,Retail Trade,141514400,12435,2009,Male,Oregon,11380.33
+557,557,34697,34697,34697,Unavalble,Retail Trade,67479338,19240,2009,Male,Oregon,3507.24
+558,558,34698,34698,34698,All Education Categories,Retail Trade,467508612,93691,2009,Female,Oregon,4989.9
+559,559,34699,34699,34699,Less Than High School,Retail Trade,36304975,7992,2009,Female,Oregon,4542.66
+560,560,34700,34700,34700,High School Graduate,Retail Trade,136803515,26387,2009,Female,Oregon,5184.5
+561,561,34701,34701,34701,Some College,Retail Trade,144505469,25348,2009,Female,Oregon,5700.86
+562,562,34702,34702,34702,Advanced Degree,Retail Trade,88607175,12294,2009,Female,Oregon,7207.35
+563,563,34703,34703,34703,Unavalble,Retail Trade,61287478,21670,2009,Female,Oregon,2828.22
+564,564,34728,34728,34728,All Education Categories,Finance and Insurance,460573386,19837,2009,Male,Oregon,23217.9
+565,565,34729,34729,34729,Less Than High School,Finance and Insurance,8740637,758,2009,Male,Oregon,11531.18
+566,566,34730,34730,34730,High School Graduate,Finance and Insurance,41456287,2841,2009,Male,Oregon,14592.15
+567,567,34731,34731,34731,Some College,Finance and Insurance,94724180,4965,2009,Male,Oregon,19078.38
+568,568,34732,34732,34732,Advanced Degree,Finance and Insurance,307803043,10153,2009,Male,Oregon,30316.46
+569,569,34733,34733,34733,Unavalble,Finance and Insurance,7849240,1119,2009,Male,Oregon,7014.51
+570,570,34734,34734,34734,All Education Categories,Finance and Insurance,479488906,39583,2009,Female,Oregon,12113.51
+571,571,34735,34735,34735,Less Than High School,Finance and Insurance,10825918,1349,2009,Female,Oregon,8025.14
+572,572,34736,34736,34736,High School Graduate,Finance and Insurance,68176916,7280,2009,Female,Oregon,9364.96
+573,573,34737,34737,34737,Some College,Finance and Insurance,139327589,12404,2009,Female,Oregon,11232.47
+574,574,34738,34738,34738,Advanced Degree,Finance and Insurance,240299476,15030,2009,Female,Oregon,15987.99
+575,575,34739,34739,34739,Unavalble,Finance and Insurance,20859008,3521,2009,Female,Oregon,5924.17
+576,576,34788,34788,34788,All Education Categories,Educational Services,542729887,49081,2009,Male,Oregon,11057.84
+577,577,34789,34789,34789,Less Than High School,Educational Services,18600934,2558,2009,Male,Oregon,7271.67
+578,578,34790,34790,34790,High School Graduate,Educational Services,79762480,9103,2009,Male,Oregon,8762.22
+579,579,34791,34791,34791,Some College,Educational Services,135090141,13197,2009,Male,Oregon,10236.43
+580,580,34792,34792,34792,Advanced Degree,Educational Services,301568216,21617,2009,Male,Oregon,13950.51
+581,581,34793,34793,34793,Unavalble,Educational Services,7708117,2606,2009,Male,Oregon,2957.83
+582,582,34794,34794,34794,All Education Categories,Educational Services,820819073,100776,2009,Female,Oregon,8144.99
+583,583,34795,34795,34795,Less Than High School,Educational Services,21933297,4098,2009,Female,Oregon,5352.2
+584,584,34796,34796,34796,High School Graduate,Educational Services,131082312,20530,2009,Female,Oregon,6384.92
+585,585,34797,34797,34797,Some College,Educational Services,238410554,31173,2009,Female,Oregon,7647.98
+586,586,34798,34798,34798,Advanced Degree,Educational Services,413026054,40057,2009,Female,Oregon,10310.96
+587,587,34799,34799,34799,Unavalble,Educational Services,16366856,4918,2009,Female,Oregon,3327.95
+588,588,34800,34800,34800,All Education Categories,Health Care and Social Assistance,704039082,47263,2009,Male,Oregon,14896.2
+589,589,34801,34801,34801,Less Than High School,Health Care and Social Assistance,27848579,3749,2009,Male,Oregon,7428.27
+590,590,34802,34802,34802,High School Graduate,Health Care and Social Assistance,96806942,10074,2009,Male,Oregon,9609.58
+591,591,34803,34803,34803,Some College,Health Care and Social Assistance,178413213,13514,2009,Male,Oregon,13202.1
+592,592,34804,34804,34804,Advanced Degree,Health Care and Social Assistance,383997858,15890,2009,Male,Oregon,24166.01
+593,593,34805,34805,34805,Unavalble,Health Care and Social Assistance,16972491,4035,2009,Male,Oregon,4206.32
+594,594,34806,34806,34806,All Education Categories,Health Care and Social Assistance,1399533318,163226,2009,Female,Oregon,8574.21
+595,595,34807,34807,34807,Less Than High School,Health Care and Social Assistance,59865931,10368,2009,Female,Oregon,5774.11
+596,596,34808,34808,34808,High School Graduate,Health Care and Social Assistance,255058217,36794,2009,Female,Oregon,6932.06
+597,597,34809,34809,34809,Some College,Health Care and Social Assistance,512416474,59106,2009,Female,Oregon,8669.45
+598,598,34810,34810,34810,Advanced Degree,Health Care and Social Assistance,506220645,42271,2009,Female,Oregon,11975.6
+599,599,34811,34811,34811,Unavalble,Health Care and Social Assistance,65972050,14687,2009,Female,Oregon,4491.87
+600,600,34824,34824,34824,All Education Categories,Accommodation and Food Services,263646602,61063,2009,Male,Oregon,4317.62
+601,601,34825,34825,34825,Less Than High School,Accommodation and Food Services,40232364,9334,2009,Male,Oregon,4310.3
+602,602,34826,34826,34826,High School Graduate,Accommodation and Food Services,73196364,15257,2009,Male,Oregon,4797.56
+603,603,34827,34827,34827,Some College,Accommodation and Food Services,67736506,13151,2009,Male,Oregon,5150.67
+604,604,34828,34828,34828,Advanced Degree,Accommodation and Food Services,37942001,6645,2009,Male,Oregon,5709.86
+605,605,34829,34829,34829,Unavalble,Accommodation and Food Services,44539367,16676,2009,Male,Oregon,2670.87
+606,606,34830,34830,34830,All Education Categories,Accommodation and Food Services,280900249,78577,2009,Female,Oregon,3574.84
+607,607,34831,34831,34831,Less Than High School,Accommodation and Food Services,34535524,9608,2009,Female,Oregon,3594.46
+608,608,34832,34832,34832,High School Graduate,Accommodation and Food Services,71955274,18538,2009,Female,Oregon,3881.5
+609,609,34833,34833,34833,Some College,Accommodation and Food Services,73059464,17561,2009,Female,Oregon,4160.32
+610,610,34834,34834,34834,Advanced Degree,Accommodation and Food Services,38610074,8483,2009,Female,Oregon,4551.46
+611,611,34835,34835,34835,Unavalble,Accommodation and Food Services,62739913,24387,2009,Female,Oregon,2572.68
+612,612,34860,34860,34860,All Education Categories,00,9113925546,754927,2010,Male,Oregon,12072.59
+613,613,34861,34861,34861,Less Than High School,00,595601496,79219,2010,Male,Oregon,7518.42
+614,614,34862,34862,34862,High School Graduate,00,1904381696,196599,2010,Male,Oregon,9686.63
+615,615,34863,34863,34863,Some College,00,2569813914,213835,2010,Male,Oregon,12017.74
+616,616,34864,34864,34864,Advanced Degree,00,3733464039,190159,2010,Male,Oregon,19633.38
+617,617,34865,34865,34865,Unavalble,00,310664400,75115,2010,Male,Oregon,4135.85
+618,618,34866,34866,34866,All Education Categories,00,6074908612,763095,2010,Female,Oregon,7960.88
+619,619,34867,34867,34867,Less Than High School,00,314916881,58118,2010,Female,Oregon,5418.58
+620,620,34868,34868,34868,High School Graduate,00,1185643206,179663,2010,Female,Oregon,6599.26
+621,621,34869,34869,34869,Some College,00,1963542318,240924,2010,Female,Oregon,8150.05
+622,622,34870,34870,34870,Advanced Degree,00,2304621414,196336,2010,Female,Oregon,11738.15
+623,623,34871,34871,34871,Unavalble,00,306184792,88054,2010,Female,Oregon,3477.24
+624,624,34920,34920,34920,All Education Categories,Manufacturing,1863537738,115704,2010,Male,Oregon,16106.08
+625,625,34921,34921,34921,Less Than High School,Manufacturing,129699049,13815,2010,Male,Oregon,9388.28
+626,626,34922,34922,34922,High School Graduate,Manufacturing,407243628,33716,2010,Male,Oregon,12078.65
+627,627,34923,34923,34923,Some College,Manufacturing,542388052,35213,2010,Male,Oregon,15403.06
+628,628,34924,34924,34924,Advanced Degree,Manufacturing,746702759,27091,2010,Male,Oregon,27562.76
+629,629,34925,34925,34925,Unavalble,Manufacturing,37504250,5869,2010,Male,Oregon,6390.23
+630,630,34926,34926,34926,All Education Categories,Manufacturing,466907993,42936,2010,Female,Oregon,10874.51
+631,631,34927,34927,34927,Less Than High School,Manufacturing,37523144,5602,2010,Female,Oregon,6698.17
+632,632,34928,34928,34928,High School Graduate,Manufacturing,101268865,11649,2010,Female,Oregon,8693.35
+633,633,34929,34929,34929,Some College,Manufacturing,144159161,13469,2010,Female,Oregon,10703.03
+634,634,34930,34930,34930,Advanced Degree,Manufacturing,171091326,9707,2010,Female,Oregon,17625.56
+635,635,34931,34931,34931,Unavalble,Manufacturing,12865496,2509,2010,Female,Oregon,5127.74
+636,636,34944,34944,34944,All Education Categories,Retail Trade,653719537,87771,2010,Male,Oregon,7448.01
+637,637,34945,34945,34945,Less Than High School,Retail Trade,58856598,9203,2010,Male,Oregon,6395.37
+638,638,34946,34946,34946,High School Graduate,Retail Trade,190384136,24852,2010,Male,Oregon,7660.72
+639,639,34947,34947,34947,Some College,Retail Trade,199881289,23093,2010,Male,Oregon,8655.49
+640,640,34948,34948,34948,Advanced Degree,Retail Trade,141330954,12593,2010,Male,Oregon,11222.98
+641,641,34949,34949,34949,Unavalble,Retail Trade,63266561,18031,2010,Male,Oregon,3508.77
+642,642,34950,34950,34950,All Education Categories,Retail Trade,459184523,90448,2010,Female,Oregon,5076.78
+643,643,34951,34951,34951,Less Than High School,Retail Trade,36712580,7905,2010,Female,Oregon,4644.22
+644,644,34952,34952,34952,High School Graduate,Retail Trade,133825263,25437,2010,Female,Oregon,5261.05
+645,645,34953,34953,34953,Some College,Retail Trade,142925605,24772,2010,Female,Oregon,5769.64
+646,646,34954,34954,34954,Advanced Degree,Retail Trade,89214880,12347,2010,Female,Oregon,7225.63
+647,647,34955,34955,34955,Unavalble,Retail Trade,56506195,19988,2010,Female,Oregon,2827.01
+648,648,34980,34980,34980,All Education Categories,Finance and Insurance,477077111,19138,2010,Male,Oregon,24928.26
+649,649,34981,34981,34981,Less Than High School,Finance and Insurance,9420845,782,2010,Male,Oregon,12047.12
+650,650,34982,34982,34982,High School Graduate,Finance and Insurance,42164380,2846,2010,Male,Oregon,14815.31
+651,651,34983,34983,34983,Some College,Finance and Insurance,95029678,4857,2010,Male,Oregon,19565.51
+652,652,34984,34984,34984,Advanced Degree,Finance and Insurance,324389476,9772,2010,Male,Oregon,33195.81
+653,653,34985,34985,34985,Unavalble,Finance and Insurance,6072732,880,2010,Male,Oregon,6900.83
+654,654,34986,34986,34986,All Education Categories,Finance and Insurance,449301880,37127,2010,Female,Oregon,12101.76
+655,655,34987,34987,34987,Less Than High School,Finance and Insurance,10960150,1357,2010,Female,Oregon,8076.75
+656,656,34988,34988,34988,High School Graduate,Finance and Insurance,65199101,7003,2010,Female,Oregon,9310.17
+657,657,34989,34989,34989,Some College,Finance and Insurance,131194652,11810,2010,Female,Oregon,11108.78
+658,658,34990,34990,34990,Advanced Degree,Finance and Insurance,226125919,14226,2010,Female,Oregon,15895.26
+659,659,34991,34991,34991,Unavalble,Finance and Insurance,15822059,2730,2010,Female,Oregon,5795.63
+660,660,35040,35040,35040,All Education Categories,Educational Services,549513731,49481,2010,Male,Oregon,11105.55
+661,661,35041,35041,35041,Less Than High School,Educational Services,20193156,2752,2010,Male,Oregon,7337.63
+662,662,35042,35042,35042,High School Graduate,Educational Services,82497477,9395,2010,Male,Oregon,8781.0
+663,663,35043,35043,35043,Some College,Educational Services,137754035,13389,2010,Male,Oregon,10288.6
+664,664,35044,35044,35044,Advanced Degree,Educational Services,302163681,21400,2010,Male,Oregon,14119.8
+665,665,35045,35045,35045,Unavalble,Educational Services,6905382,2545,2010,Male,Oregon,2713.31
+666,666,35046,35046,35046,All Education Categories,Educational Services,825783338,99692,2010,Female,Oregon,8283.35
+667,667,35047,35047,35047,Less Than High School,Educational Services,24117304,4322,2010,Female,Oregon,5580.13
+668,668,35048,35048,35048,High School Graduate,Educational Services,134231325,20539,2010,Female,Oregon,6535.44
+669,669,35049,35049,35049,Some College,Educational Services,242067872,31046,2010,Female,Oregon,7797.07
+670,670,35050,35050,35050,Advanced Degree,Educational Services,412178742,39355,2010,Female,Oregon,10473.35
+671,671,35051,35051,35051,Unavalble,Educational Services,13188095,4430,2010,Female,Oregon,2977.0
+672,672,35052,35052,35052,All Education Categories,Health Care and Social Assistance,721258235,49815,2010,Male,Oregon,14478.74
+673,673,35053,35053,35053,Less Than High School,Health Care and Social Assistance,31080817,4173,2010,Male,Oregon,7448.08
+674,674,35054,35054,35054,High School Graduate,Health Care and Social Assistance,103565902,10843,2010,Male,Oregon,9551.41
+675,675,35055,35055,35055,Some College,Health Care and Social Assistance,183035723,14237,2010,Male,Oregon,12856.34
+676,676,35056,35056,35056,Advanced Degree,Health Care and Social Assistance,386342211,16382,2010,Male,Oregon,23583.34
+677,677,35057,35057,35057,Unavalble,Health Care and Social Assistance,17233581,4179,2010,Male,Oregon,4123.85
+678,678,35058,35058,35058,All Education Categories,Health Care and Social Assistance,1432735913,166022,2010,Female,Oregon,8629.8
+679,679,35059,35059,35059,Less Than High School,Health Care and Social Assistance,65549321,11063,2010,Female,Oregon,5925.09
+680,680,35060,35060,35060,High School Graduate,Health Care and Social Assistance,264346850,37706,2010,Female,Oregon,7010.74
+681,681,35061,35061,35061,Some College,Health Care and Social Assistance,522412937,59829,2010,Female,Oregon,8731.77
+682,682,35062,35062,35062,Advanced Degree,Health Care and Social Assistance,517073580,43213,2010,Female,Oregon,11965.7
+683,683,35063,35063,35063,Unavalble,Health Care and Social Assistance,63353226,14211,2010,Female,Oregon,4458.04
+684,684,35076,35076,35076,All Education Categories,Accommodation and Food Services,265495714,60118,2010,Male,Oregon,4416.24
+685,685,35077,35077,35077,Less Than High School,Accommodation and Food Services,41444176,9431,2010,Male,Oregon,4394.46
+686,686,35078,35078,35078,High School Graduate,Accommodation and Food Services,74521782,15385,2010,Male,Oregon,4843.79
+687,687,35079,35079,35079,Some College,Accommodation and Food Services,68913118,13340,2010,Male,Oregon,5165.9
+688,688,35080,35080,35080,Advanced Degree,Accommodation and Food Services,38621485,6918,2010,Male,Oregon,5582.75
+689,689,35081,35081,35081,Unavalble,Accommodation and Food Services,41995153,15044,2010,Male,Oregon,2791.49
+690,690,35082,35082,35082,All Education Categories,Accommodation and Food Services,281304985,76016,2010,Female,Oregon,3700.6
+691,691,35083,35083,35083,Less Than High School,Accommodation and Food Services,35279160,9470,2010,Female,Oregon,3725.36
+692,692,35084,35084,35084,High School Graduate,Accommodation and Food Services,72416278,18116,2010,Female,Oregon,3997.37
+693,693,35085,35085,35085,Some College,Accommodation and Food Services,74295121,17458,2010,Female,Oregon,4255.65
+694,694,35086,35086,35086,Advanced Degree,Accommodation and Food Services,40064197,8665,2010,Female,Oregon,4623.68
+695,695,35087,35087,35087,Unavalble,Accommodation and Food Services,59250229,22307,2010,Female,Oregon,2656.13
+696,696,35112,35112,35112,All Education Categories,00,9820187900,767625,2011,Male,Oregon,12792.95
+697,697,35113,35113,35113,Less Than High School,00,660053135,82403,2011,Male,Oregon,8010.06
+698,698,35114,35114,35114,High School Graduate,00,2058556680,200946,2011,Male,Oregon,10244.33
+699,699,35115,35115,35115,Some College,00,2766443432,217566,2011,Male,Oregon,12715.42
+700,700,35116,35116,35116,Advanced Degree,00,4014542977,191847,2011,Male,Oregon,20925.75
+701,701,35117,35117,35117,Unavalble,00,320591676,74863,2011,Male,Oregon,4282.38
+702,702,35118,35118,35118,All Education Categories,00,6382395996,767347,2011,Female,Oregon,8317.48
+703,703,35119,35119,35119,Less Than High School,00,348104897,60365,2011,Female,Oregon,5766.67
+704,704,35120,35120,35120,High School Graduate,00,1252974725,181055,2011,Female,Oregon,6920.41
+705,705,35121,35121,35121,Some College,00,2060478114,242523,2011,Female,Oregon,8496.01
+706,706,35122,35122,35122,Advanced Degree,00,2413598608,197415,2011,Female,Oregon,12226.01
+707,707,35123,35123,35123,Unavalble,00,307239652,85989,2011,Female,Oregon,3573.01
+708,708,35172,35172,35172,All Education Categories,Manufacturing,2088116155,117609,2011,Male,Oregon,17754.73
+709,709,35173,35173,35173,Less Than High School,Manufacturing,145549924,14423,2011,Male,Oregon,10091.52
+710,710,35174,35174,35174,High School Graduate,Manufacturing,443302484,34112,2011,Male,Oregon,12995.5
+711,711,35175,35175,35175,Some College,Manufacturing,598685143,35545,2011,Male,Oregon,16843.02
+712,712,35176,35176,35176,Advanced Degree,Manufacturing,858189580,27292,2011,Male,Oregon,31444.73
+713,713,35177,35177,35177,Unavalble,Manufacturing,42389024,6237,2011,Male,Oregon,6796.38
+714,714,35178,35178,35178,All Education Categories,Manufacturing,512154464,43136,2011,Female,Oregon,11873.02
+715,715,35179,35179,35179,Less Than High School,Manufacturing,41804567,5750,2011,Female,Oregon,7270.36
+716,716,35180,35180,35180,High School Graduate,Manufacturing,108910313,11589,2011,Female,Oregon,9397.73
+717,717,35181,35181,35181,Some College,Manufacturing,156692010,13455,2011,Female,Oregon,11645.63
+718,718,35182,35182,35182,Advanced Degree,Manufacturing,191501138,9858,2011,Female,Oregon,19425.96
+719,719,35183,35183,35183,Unavalble,Manufacturing,13246437,2484,2011,Female,Oregon,5332.7
+720,720,35196,35196,35196,All Education Categories,Retail Trade,688341624,88938,2011,Male,Oregon,7739.57
+721,721,35197,35197,35197,Less Than High School,Retail Trade,63433590,9533,2011,Male,Oregon,6654.11
+722,722,35198,35198,35198,High School Graduate,Retail Trade,200921476,25252,2011,Male,Oregon,7956.66
+723,723,35199,35199,35199,Some College,Retail Trade,210999698,23467,2011,Male,Oregon,8991.34
+724,724,35200,35200,35200,Advanced Degree,Retail Trade,149421575,12810,2011,Male,Oregon,11664.45
+725,725,35201,35201,35201,Unavalble,Retail Trade,63565285,17876,2011,Male,Oregon,3555.9
+726,726,35202,35202,35202,All Education Categories,Retail Trade,470839677,89959,2011,Female,Oregon,5233.94
+727,727,35203,35203,35203,Less Than High School,Retail Trade,38822086,8032,2011,Female,Oregon,4833.43
+728,728,35204,35204,35204,High School Graduate,Retail Trade,136434940,24959,2011,Female,Oregon,5466.36
+729,729,35205,35205,35205,Some College,Retail Trade,146966906,24636,2011,Female,Oregon,5965.53
+730,730,35206,35206,35206,Advanced Degree,Retail Trade,92132566,12434,2011,Female,Oregon,7409.73
+731,731,35207,35207,35207,Unavalble,Retail Trade,56483179,19899,2011,Female,Oregon,2838.49
+732,732,35232,35232,35232,All Education Categories,Finance and Insurance,522752907,19536,2011,Male,Oregon,26758.44
+733,733,35233,35233,35233,Less Than High School,Finance and Insurance,11474849,926,2011,Male,Oregon,12391.85
+734,734,35234,35234,35234,High School Graduate,Finance and Insurance,48220865,3062,2011,Male,Oregon,15748.16
+735,735,35235,35235,35235,Some College,Finance and Insurance,106355391,5018,2011,Male,Oregon,21194.78
+736,736,35236,35236,35236,Advanced Degree,Finance and Insurance,350645286,9654,2011,Male,Oregon,36321.24
+737,737,35237,35237,35237,Unavalble,Finance and Insurance,6056516,875,2011,Male,Oregon,6921.73
+738,738,35238,35238,35238,All Education Categories,Finance and Insurance,477258231,37103,2011,Female,Oregon,12863.06
+739,739,35239,35239,35239,Less Than High School,Finance and Insurance,12586292,1488,2011,Female,Oregon,8458.53
+740,740,35240,35240,35240,High School Graduate,Finance and Insurance,69951046,7166,2011,Female,Oregon,9761.52
+741,741,35241,35241,35241,Some College,Finance and Insurance,139544822,11922,2011,Female,Oregon,11704.82
+742,742,35242,35242,35242,Advanced Degree,Finance and Insurance,240418245,14005,2011,Female,Oregon,17166.6
+743,743,35243,35243,35243,Unavalble,Finance and Insurance,14757826,2522,2011,Female,Oregon,5851.64
+744,744,35292,35292,35292,All Education Categories,Educational Services,571786780,50482,2011,Male,Oregon,11326.55
+745,745,35293,35293,35293,Less Than High School,Educational Services,23231620,3061,2011,Male,Oregon,7589.55
+746,746,35294,35294,35294,High School Graduate,Educational Services,88608920,9887,2011,Male,Oregon,8962.16
+747,747,35295,35295,35295,Some College,Educational Services,144874313,13818,2011,Male,Oregon,10484.46
+748,748,35296,35296,35296,Advanced Degree,Educational Services,308389961,21313,2011,Male,Oregon,14469.57
+749,749,35297,35297,35297,Unavalble,Educational Services,6681966,2403,2011,Male,Oregon,2780.68
+750,750,35298,35298,35298,All Education Categories,Educational Services,856704795,100529,2011,Female,Oregon,8521.97
+751,751,35299,35299,35299,Less Than High School,Educational Services,27698585,4664,2011,Female,Oregon,5938.8
+752,752,35300,35300,35300,High School Graduate,Educational Services,142353667,20910,2011,Female,Oregon,6807.92
+753,753,35301,35301,35301,Some College,Educational Services,253328639,31475,2011,Female,Oregon,8048.57
+754,754,35302,35302,35302,Advanced Degree,Educational Services,420543635,39235,2011,Female,Oregon,10718.58
+755,755,35303,35303,35303,Unavalble,Educational Services,12780269,4245,2011,Female,Oregon,3010.66
+756,756,35304,35304,35304,All Education Categories,Health Care and Social Assistance,756084185,51606,2011,Male,Oregon,14651.09
+757,757,35305,35305,35305,Less Than High School,Health Care and Social Assistance,35725931,4561,2011,Male,Oregon,7832.92
+758,758,35306,35306,35306,High School Graduate,Health Care and Social Assistance,112960903,11468,2011,Male,Oregon,9850.1
+759,759,35307,35307,35307,Some College,Health Care and Social Assistance,193344934,14687,2011,Male,Oregon,13164.36
+760,760,35308,35308,35308,Advanced Degree,Health Care and Social Assistance,395779787,16552,2011,Male,Oregon,23911.3
+761,761,35309,35309,35309,Unavalble,Health Care and Social Assistance,18272630,4337,2011,Male,Oregon,4213.2
+762,762,35310,35310,35310,All Education Categories,Health Care and Social Assistance,1487488627,167870,2011,Female,Oregon,8860.96
+763,763,35311,35311,35311,Less Than High School,Health Care and Social Assistance,72781593,11744,2011,Female,Oregon,6197.34
+764,764,35312,35312,35312,High School Graduate,Health Care and Social Assistance,279762210,38473,2011,Female,Oregon,7271.65
+765,765,35313,35313,35313,Some College,Health Care and Social Assistance,540949670,60242,2011,Female,Oregon,8979.61
+766,766,35314,35314,35314,Advanced Degree,Health Care and Social Assistance,529650247,43353,2011,Female,Oregon,12217.15
+767,767,35315,35315,35315,Unavalble,Health Care and Social Assistance,64344906,14058,2011,Female,Oregon,4577.1
+768,768,35328,35328,35328,All Education Categories,Accommodation and Food Services,288132760,61890,2011,Male,Oregon,4655.56
+769,769,35329,35329,35329,Less Than High School,Accommodation and Food Services,44951780,9694,2011,Male,Oregon,4637.07
+770,770,35330,35330,35330,High School Graduate,Accommodation and Food Services,80993235,15911,2011,Male,Oregon,5090.39
+771,771,35331,35331,35331,Some College,Accommodation and Food Services,75424308,13868,2011,Male,Oregon,5438.73
+772,772,35332,35332,35332,Advanced Degree,Accommodation and Food Services,43413489,7358,2011,Male,Oregon,5900.18
+773,773,35333,35333,35333,Unavalble,Accommodation and Food Services,43349947,15059,2011,Male,Oregon,2878.67
+774,774,35334,35334,35334,All Education Categories,Accommodation and Food Services,298896103,76299,2011,Female,Oregon,3917.43
+775,775,35335,35335,35335,Less Than High School,Accommodation and Food Services,37721532,9596,2011,Female,Oregon,3930.96
+776,776,35336,35336,35336,High School Graduate,Accommodation and Food Services,76443964,18189,2011,Female,Oregon,4202.76
+777,777,35337,35337,35337,Some College,Accommodation and Food Services,79479730,17670,2011,Female,Oregon,4498.0
+778,778,35338,35338,35338,Advanced Degree,Accommodation and Food Services,44900182,9014,2011,Female,Oregon,4981.16
+779,779,35339,35339,35339,Unavalble,Accommodation and Food Services,60350694,21830,2011,Female,Oregon,2764.58
+780,780,35364,35364,35364,All Education Categories,00,10559306045,786322,2012,Male,Oregon,13428.73
+781,781,35365,35365,35365,Less Than High School,00,736840881,86491,2012,Male,Oregon,8519.28
+782,782,35366,35366,35366,High School Graduate,00,2242386474,207240,2012,Male,Oregon,10820.24
+783,783,35367,35367,35367,Some College,00,2989486686,223016,2012,Male,Oregon,13404.81
+784,784,35368,35368,35368,Advanced Degree,00,4246285156,193695,2012,Male,Oregon,21922.53
+785,785,35369,35369,35369,Unavalble,00,344306848,75881,2012,Male,Oregon,4537.46
+786,786,35370,35370,35370,All Education Categories,00,6782354472,770752,2012,Female,Oregon,8799.66
+787,787,35371,35371,35371,Less Than High School,00,386922928,62697,2012,Female,Oregon,6171.31
+788,788,35372,35372,35372,High School Graduate,00,1339869417,182397,2012,Female,Oregon,7345.9
+789,789,35373,35373,35373,Some College,00,2188240002,243147,2012,Female,Oregon,8999.66
+790,790,35374,35374,35374,Advanced Degree,00,2548619920,197144,2012,Female,Oregon,12927.71
+791,791,35375,35375,35375,Unavalble,00,318702205,85367,2012,Female,Oregon,3733.32
+792,792,35424,35424,35424,All Education Categories,Manufacturing,2213218797,120575,2012,Male,Oregon,18355.54
+793,793,35425,35425,35425,Less Than High School,Manufacturing,162614311,15130,2012,Male,Oregon,10747.81
+794,794,35426,35426,35426,High School Graduate,Manufacturing,477962525,34908,2012,Male,Oregon,13692.06
+795,795,35427,35427,35427,Some College,Manufacturing,635202376,36180,2012,Male,Oregon,17556.73
+796,796,35428,35428,35428,Advanced Degree,Manufacturing,888195592,27722,2012,Male,Oregon,32039.38
+797,797,35429,35429,35429,Unavalble,Manufacturing,49243993,6634,2012,Male,Oregon,7422.97
+798,798,35430,35430,35430,All Education Categories,Manufacturing,544617366,43824,2012,Female,Oregon,12427.38
+799,799,35431,35431,35431,Less Than High School,Manufacturing,46517519,5960,2012,Female,Oregon,7804.95
+800,800,35432,35432,35432,High School Graduate,Manufacturing,116751647,11701,2012,Female,Oregon,9977.92
+801,801,35433,35433,35433,Some College,Manufacturing,165603710,13579,2012,Female,Oregon,12195.57
+802,802,35434,35434,35434,Advanced Degree,Manufacturing,200765102,10074,2012,Female,Oregon,19929.04
+803,803,35435,35435,35435,Unavalble,Manufacturing,14979389,2511,2012,Female,Oregon,5965.51
+804,804,35448,35448,35448,All Education Categories,Retail Trade,724877346,89920,2012,Male,Oregon,8061.36
+805,805,35449,35449,35449,Less Than High School,Retail Trade,69150066,9837,2012,Male,Oregon,7029.59
+806,806,35450,35450,35450,High School Graduate,Retail Trade,212004108,25475,2012,Male,Oregon,8322.05
+807,807,35451,35451,35451,Some College,Retail Trade,221420160,23714,2012,Male,Oregon,9337.11
+808,808,35452,35452,35452,Advanced Degree,Retail Trade,155728373,13011,2012,Male,Oregon,11968.98
+809,809,35453,35453,35453,Unavalble,Retail Trade,66574639,17883,2012,Male,Oregon,3722.79
+810,810,35454,35454,35454,All Education Categories,Retail Trade,499907750,90417,2012,Female,Oregon,5528.91
+811,811,35455,35455,35455,Less Than High School,Retail Trade,42113669,8076,2012,Female,Oregon,5214.67
+812,812,35456,35456,35456,High School Graduate,Retail Trade,143796275,24767,2012,Female,Oregon,5805.96
+813,813,35457,35457,35457,Some College,Retail Trade,156391411,24707,2012,Female,Oregon,6329.84
+814,814,35458,35458,35458,Advanced Degree,Retail Trade,98211514,12738,2012,Female,Oregon,7710.12
+815,815,35459,35459,35459,Unavalble,Retail Trade,59394881,20129,2012,Female,Oregon,2950.71
+816,816,35484,35484,35484,All Education Categories,Finance and Insurance,545089960,19479,2012,Male,Oregon,27983.47
+817,817,35485,35485,35485,Less Than High School,Finance and Insurance,13146222,987,2012,Male,Oregon,13319.37
+818,818,35486,35486,35486,High School Graduate,Finance and Insurance,52941712,3171,2012,Male,Oregon,16695.59
+819,819,35487,35487,35487,Some College,Finance and Insurance,113004267,5027,2012,Male,Oregon,22479.46
+820,820,35488,35488,35488,Advanced Degree,Finance and Insurance,359641142,9418,2012,Male,Oregon,38186.57
+821,821,35489,35489,35489,Unavalble,Finance and Insurance,6356618,877,2012,Male,Oregon,7248.14
+822,822,35490,35490,35490,All Education Categories,Finance and Insurance,503391776,36143,2012,Female,Oregon,13927.78
+823,823,35491,35491,35491,Less Than High School,Finance and Insurance,14457797,1565,2012,Female,Oregon,9238.21
+824,824,35492,35492,35492,High School Graduate,Finance and Insurance,75233895,7122,2012,Female,Oregon,10563.59
+825,825,35493,35493,35493,Some College,Finance and Insurance,148995432,11747,2012,Female,Oregon,12683.7
+826,826,35494,35494,35494,Advanced Degree,Finance and Insurance,250848963,13486,2012,Female,Oregon,18600.69
+827,827,35495,35495,35495,Unavalble,Finance and Insurance,13855690,2223,2012,Female,Oregon,6232.88
+828,828,35544,35544,35544,All Education Categories,Educational Services,592582250,50192,2012,Male,Oregon,11806.31
+829,829,35545,35545,35545,Less Than High School,Educational Services,25979806,3211,2012,Male,Oregon,8090.88
+830,830,35546,35546,35546,High School Graduate,Educational Services,93363054,10052,2012,Male,Oregon,9288.01
+831,831,35547,35547,35547,Some College,Educational Services,150675895,13822,2012,Male,Oregon,10901.16
+832,832,35548,35548,35548,Advanced Degree,Educational Services,315903776,20825,2012,Male,Oregon,15169.45
+833,833,35549,35549,35549,Unavalble,Educational Services,6659717,2282,2012,Male,Oregon,2918.37
+834,834,35550,35550,35550,All Education Categories,Educational Services,874430295,98504,2012,Female,Oregon,8877.1
+835,835,35551,35551,35551,Less Than High School,Educational Services,31027662,4902,2012,Female,Oregon,6329.59
+836,836,35552,35552,35552,High School Graduate,Educational Services,146924650,20670,2012,Female,Oregon,7108.11
+837,837,35553,35553,35553,Some College,Educational Services,259766441,30995,2012,Female,Oregon,8380.91
+838,838,35554,35554,35554,Advanced Degree,Educational Services,424649155,38026,2012,Female,Oregon,11167.34
+839,839,35555,35555,35555,Unavalble,Educational Services,12062387,3910,2012,Female,Oregon,3085.01
+840,840,35556,35556,35556,All Education Categories,Health Care and Social Assistance,821941210,53689,2012,Male,Oregon,15309.3
+841,841,35557,35557,35557,Less Than High School,Health Care and Social Assistance,41794115,4943,2012,Male,Oregon,8455.21
+842,842,35558,35558,35558,High School Graduate,Health Care and Social Assistance,128027008,12199,2012,Male,Oregon,10494.88
+843,843,35559,35559,35559,Some College,Health Care and Social Assistance,213492373,15378,2012,Male,Oregon,13882.97
+844,844,35560,35560,35560,Advanced Degree,Health Care and Social Assistance,419474382,16753,2012,Male,Oregon,25038.76
+845,845,35561,35561,35561,Unavalble,Health Care and Social Assistance,19153332,4416,2012,Male,Oregon,4337.26
+846,846,35562,35562,35562,All Education Categories,Health Care and Social Assistance,1623757954,170330,2012,Female,Oregon,9533.01
+847,847,35563,35563,35563,Less Than High School,Health Care and Social Assistance,83115877,12409,2012,Female,Oregon,6698.03
+848,848,35564,35564,35564,High School Graduate,Health Care and Social Assistance,307880509,39368,2012,Female,Oregon,7820.58
+849,849,35565,35565,35565,Some College,Health Care and Social Assistance,588026206,60643,2012,Female,Oregon,9696.52
+850,850,35566,35566,35566,Advanced Degree,Health Care and Social Assistance,577273534,43662,2012,Female,Oregon,13221.42
+851,851,35567,35567,35567,Unavalble,Health Care and Social Assistance,67461827,14247,2012,Female,Oregon,4735.16
+852,852,35580,35580,35580,All Education Categories,Accommodation and Food Services,305269759,64204,2012,Male,Oregon,4754.68
+853,853,35581,35581,35581,Less Than High School,Accommodation and Food Services,47351048,9979,2012,Male,Oregon,4745.07
+854,854,35582,35582,35582,High School Graduate,Accommodation and Food Services,85979680,16590,2012,Male,Oregon,5182.62
+855,855,35583,35583,35583,Some College,Accommodation and Food Services,79621896,14513,2012,Male,Oregon,5486.25
+856,856,35584,35584,35584,Advanced Degree,Accommodation and Food Services,46146564,7875,2012,Male,Oregon,5859.88
+857,857,35585,35585,35585,Unavalble,Accommodation and Food Services,46170570,15247,2012,Male,Oregon,3028.17
+858,858,35586,35586,35586,All Education Categories,Accommodation and Food Services,315031834,77381,2012,Female,Oregon,4071.18
+859,859,35587,35587,35587,Less Than High School,Accommodation and Food Services,40004094,9721,2012,Female,Oregon,4115.22
+860,860,35588,35588,35588,High School Graduate,Accommodation and Food Services,80819621,18388,2012,Female,Oregon,4395.24
+861,861,35589,35589,35589,Some College,Accommodation and Food Services,83637693,18016,2012,Female,Oregon,4642.41
+862,862,35590,35590,35590,Advanced Degree,Accommodation and Food Services,46615519,9365,2012,Female,Oregon,4977.63
+863,863,35591,35591,35591,Unavalble,Accommodation and Food Services,63954906,21891,2012,Female,Oregon,2921.52
+864,864,36540,36540,36540,All Education Categories,Educational Services,421865373,43869,2004,Male,Oregon,9616.48
+865,865,36541,36541,36541,Less Than High School,Educational Services,10929715,1788,2004,Male,Oregon,6112.82
+866,866,36542,36542,36542,High School Graduate,Educational Services,56778077,7446,2004,Male,Oregon,7625.31
+867,867,36543,36543,36543,Some College,Educational Services,100055839,11217,2004,Male,Oregon,8920.02
+868,868,36544,36544,36544,Advanced Degree,Educational Services,248002566,21048,2004,Male,Oregon,11782.71
+869,869,36545,36545,36545,Unavalble,Educational Services,6099176,2370,2004,Male,Oregon,2573.49
+870,870,36546,36546,36546,All Education Categories,Educational Services,632467068,88473,2004,Female,Oregon,7148.7
+871,871,36547,36547,36547,Less Than High School,Educational Services,11860139,2788,2004,Female,Oregon,4254.0
+872,872,36548,36548,36548,High School Graduate,Educational Services,94899075,17765,2004,Female,Oregon,5341.91
+873,873,36549,36549,36549,Some College,Educational Services,174209732,26529,2004,Female,Oregon,6566.77
+874,874,36550,36550,36550,Advanced Degree,Educational Services,337653967,36755,2004,Female,Oregon,9186.61
+875,875,36551,36551,36551,Unavalble,Educational Services,13844154,4636,2004,Female,Oregon,2986.23
+876,876,36636,36636,36636,All Education Categories,Accommodation,47936458,8993,2004,Male,Oregon,5330.42
+877,877,36637,36637,36637,Less Than High School,Accommodation,6532111,1463,2004,Male,Oregon,4464.87
+878,878,36638,36638,36638,High School Graduate,Accommodation,14586254,2643,2004,Male,Oregon,5518.82
+879,879,36639,36639,36639,Some College,Accommodation,13381357,2179,2004,Male,Oregon,6141.05
+880,880,36640,36640,36640,Advanced Degree,Accommodation,8307770,1077,2004,Male,Oregon,7713.81
+881,881,36641,36641,36641,Unavalble,Accommodation,5128965,1630,2004,Male,Oregon,3146.6
+882,882,36642,36642,36642,All Education Categories,Accommodation,52444194,13063,2004,Female,Oregon,4014.71
+883,883,36643,36643,36643,Less Than High School,Accommodation,6390126,1905,2004,Female,Oregon,3354.4
+884,884,36644,36644,36644,High School Graduate,Accommodation,15226740,3776,2004,Female,Oregon,4032.51
+885,885,36645,36645,36645,Some College,Accommodation,15376880,3326,2004,Female,Oregon,4623.24
+886,886,36646,36646,36646,Advanced Degree,Accommodation,8114483,1467,2004,Female,Oregon,5531.34
+887,887,36647,36647,36647,Unavalble,Accommodation,7335965,2588,2004,Female,Oregon,2834.61
+888,888,37728,37728,37728,All Education Categories,Educational Services,431657592,45255,2005,Male,Oregon,9538.34
+889,889,37729,37729,37729,Less Than High School,Educational Services,11849321,1924,2005,Male,Oregon,6158.69
+890,890,37730,37730,37730,High School Graduate,Educational Services,59633852,7784,2005,Male,Oregon,7661.08
+891,891,37731,37731,37731,Some College,Educational Services,104435488,11755,2005,Male,Oregon,8884.35
+892,892,37732,37732,37732,Advanced Degree,Educational Services,249143517,21351,2005,Male,Oregon,11668.94
+893,893,37733,37733,37733,Unavalble,Educational Services,6595414,2441,2005,Male,Oregon,2701.93
+894,894,37734,37734,37734,All Education Categories,Educational Services,655957596,92019,2005,Female,Oregon,7128.5
+895,895,37735,37735,37735,Less Than High School,Educational Services,13148443,3058,2005,Female,Oregon,4299.69
+896,896,37736,37736,37736,High School Graduate,Educational Services,99984586,18537,2005,Female,Oregon,5393.78
+897,897,37737,37737,37737,Some College,Educational Services,182887419,27802,2005,Female,Oregon,6578.21
+898,898,37738,37738,37738,Advanced Degree,Educational Services,345069836,37869,2005,Female,Oregon,9112.2
+899,899,37739,37739,37739,Unavalble,Educational Services,14867312,4753,2005,Female,Oregon,3127.98
+900,900,37824,37824,37824,All Education Categories,Accommodation,47935339,9082,2005,Male,Oregon,5278.06
+901,901,37825,37825,37825,Less Than High School,Accommodation,6639238,1501,2005,Male,Oregon,4423.21
+902,902,37826,37826,37826,High School Graduate,Accommodation,14768595,2733,2005,Male,Oregon,5403.8
+903,903,37827,37827,37827,Some College,Accommodation,13602258,2237,2005,Male,Oregon,6080.58
+904,904,37828,37828,37828,Advanced Degree,Accommodation,8205950,1096,2005,Male,Oregon,7487.18
+905,905,37829,37829,37829,Unavalble,Accommodation,4719299,1514,2005,Male,Oregon,3117.11
+906,906,37830,37830,37830,All Education Categories,Accommodation,53233164,13106,2005,Female,Oregon,4061.74
+907,907,37831,37831,37831,Less Than High School,Accommodation,6731735,1957,2005,Female,Oregon,3439.82
+908,908,37832,37832,37832,High School Graduate,Accommodation,15432591,3821,2005,Female,Oregon,4038.89
+909,909,37833,37833,37833,Some College,Accommodation,15725599,3396,2005,Female,Oregon,4630.62
+910,910,37834,37834,37834,Advanced Degree,Accommodation,8203178,1488,2005,Female,Oregon,5512.89
+911,911,37835,37835,37835,Unavalble,Accommodation,7140062,2444,2005,Female,Oregon,2921.47
+912,912,38916,38916,38916,All Education Categories,Educational Services,454472265,45855,2006,Male,Oregon,9911.07
+913,913,38917,38917,38917,Less Than High School,Educational Services,13030823,2004,2006,Male,Oregon,6502.41
+914,914,38918,38918,38918,High School Graduate,Educational Services,63540562,7975,2006,Male,Oregon,7967.47
+915,915,38919,38919,38919,Some College,Educational Services,111023533,12016,2006,Male,Oregon,9239.64
+916,916,38920,38920,38920,Advanced Degree,Educational Services,260055771,21374,2006,Male,Oregon,12166.92
+917,917,38921,38921,38921,Unavalble,Educational Services,6821575,2486,2006,Male,Oregon,2744.0
+918,918,38922,38922,38922,All Education Categories,Educational Services,692795556,93962,2006,Female,Oregon,7373.15
+919,919,38923,38923,38923,Less Than High School,Educational Services,14379470,3190,2006,Female,Oregon,4507.67
+920,920,38924,38924,38924,High School Graduate,Educational Services,105980093,18876,2006,Female,Oregon,5614.54
+921,921,38925,38925,38925,Some College,Educational Services,194830707,28479,2006,Female,Oregon,6841.21
+922,922,38926,38926,38926,Advanced Degree,Educational Services,362443623,38506,2006,Female,Oregon,9412.65
+923,923,38927,38927,38927,Unavalble,Educational Services,15161663,4912,2006,Female,Oregon,3086.66
+924,924,39012,39012,39012,All Education Categories,Accommodation,52729402,9193,2006,Male,Oregon,5735.82
+925,925,39013,39013,39013,Less Than High School,Accommodation,7177787,1501,2006,Male,Oregon,4782.0
+926,926,39014,39014,39014,High School Graduate,Accommodation,15893496,2729,2006,Male,Oregon,5823.93
+927,927,39015,39015,39015,Some College,Accommodation,14858072,2277,2006,Male,Oregon,6525.28
+928,928,39016,39016,39016,Advanced Degree,Accommodation,9622658,1122,2006,Male,Oregon,8576.34
+929,929,39017,39017,39017,Unavalble,Accommodation,5177388,1564,2006,Male,Oregon,3310.35
+930,930,39018,39018,39018,All Education Categories,Accommodation,58674267,13228,2006,Female,Oregon,4435.61
+931,931,39019,39019,39019,Less Than High School,Accommodation,7544800,1978,2006,Female,Oregon,3814.36
+932,932,39020,39020,39020,High School Graduate,Accommodation,16862445,3857,2006,Female,Oregon,4371.91
+933,933,39021,39021,39021,Some College,Accommodation,17165683,3435,2006,Female,Oregon,4997.29
+934,934,39022,39022,39022,Advanced Degree,Accommodation,9097755,1492,2006,Female,Oregon,6097.69
+935,935,39023,39023,39023,Unavalble,Accommodation,8003583,2465,2006,Female,Oregon,3246.89
+936,936,40104,40104,40104,All Education Categories,Educational Services,479151967,46888,2007,Male,Oregon,10219.07
+937,937,40105,40105,40105,Less Than High School,Educational Services,14592103,2150,2007,Male,Oregon,6787.02
+938,938,40106,40106,40106,High School Graduate,Educational Services,68184418,8291,2007,Male,Oregon,8223.91
+939,939,40107,40107,40107,Some College,Educational Services,118401129,12421,2007,Male,Oregon,9532.33
+940,940,40108,40108,40108,Advanced Degree,Educational Services,270720108,21560,2007,Male,Oregon,12556.59
+941,941,40109,40109,40109,Unavalble,Educational Services,7254209,2466,2007,Male,Oregon,2941.69
+942,942,40110,40110,40110,All Education Categories,Educational Services,736321988,96532,2007,Female,Oregon,7627.75
+943,943,40111,40111,40111,Less Than High School,Educational Services,16377262,3431,2007,Female,Oregon,4773.32
+944,944,40112,40112,40112,High School Graduate,Educational Services,113697414,19429,2007,Female,Oregon,5851.94
+945,945,40113,40113,40113,Some College,Educational Services,209003005,29480,2007,Female,Oregon,7089.65
+946,946,40114,40114,40114,Advanced Degree,Educational Services,380760505,39269,2007,Female,Oregon,9696.21
+947,947,40115,40115,40115,Unavalble,Educational Services,16483802,4924,2007,Female,Oregon,3347.64
+948,948,40200,40200,40200,All Education Categories,Accommodation,53415321,9199,2007,Male,Oregon,5806.64
+949,949,40201,40201,40201,Less Than High School,Accommodation,7502818,1504,2007,Male,Oregon,4988.58
+950,950,40202,40202,40202,High School Graduate,Accommodation,16356076,2753,2007,Male,Oregon,5941.18
+951,951,40203,40203,40203,Some College,Accommodation,15104074,2286,2007,Male,Oregon,6607.21
+952,952,40204,40204,40204,Advanced Degree,Accommodation,9113036,1102,2007,Male,Oregon,8269.54
+953,953,40205,40205,40205,Unavalble,Accommodation,5339317,1553,2007,Male,Oregon,3438.07
+954,954,40206,40206,40206,All Education Categories,Accommodation,59355879,13286,2007,Female,Oregon,4467.55
+955,955,40207,40207,40207,Less Than High School,Accommodation,7848790,1991,2007,Female,Oregon,3942.13
+956,956,40208,40208,40208,High School Graduate,Accommodation,17163990,3854,2007,Female,Oregon,4453.55
+957,957,40209,40209,40209,Some College,Accommodation,17364338,3457,2007,Female,Oregon,5022.95
+958,958,40210,40210,40210,Advanced Degree,Accommodation,8900501,1490,2007,Female,Oregon,5973.49
+959,959,40211,40211,40211,Unavalble,Accommodation,8078261,2493,2007,Female,Oregon,3240.38
+960,960,41292,41292,41292,All Education Categories,Educational Services,511810019,48138,2008,Male,Oregon,10632.14
+961,961,41293,41293,41293,Less Than High School,Educational Services,16864095,2367,2008,Male,Oregon,7124.67
+962,962,41294,41294,41294,High School Graduate,Educational Services,75016663,8758,2008,Male,Oregon,8565.5
+963,963,41295,41295,41295,Some College,Educational Services,127924909,12850,2008,Male,Oregon,9955.25
+964,964,41296,41296,41296,Advanced Degree,Educational Services,284240115,21622,2008,Male,Oregon,13145.88
+965,965,41297,41297,41297,Unavalble,Educational Services,7764236,2541,2008,Male,Oregon,3055.58
+966,966,41298,41298,41298,All Education Categories,Educational Services,789759261,98906,2008,Female,Oregon,7984.95
+967,967,41299,41299,41299,Less Than High School,Educational Services,19566483,3791,2008,Female,Oregon,5161.3
+968,968,41300,41300,41300,High School Graduate,Educational Services,124226595,19988,2008,Female,Oregon,6215.06
+969,969,41301,41301,41301,Some College,Educational Services,226626745,30362,2008,Female,Oregon,7464.16
+970,970,41302,41302,41302,Advanced Degree,Educational Services,401405230,39760,2008,Female,Oregon,10095.7
+971,971,41303,41303,41303,Unavalble,Educational Services,17934208,5005,2008,Female,Oregon,3583.26
+972,972,41388,41388,41388,All Education Categories,Accommodation,58623019,9821,2008,Male,Oregon,5969.15
+973,973,41389,41389,41389,Less Than High School,Accommodation,8267685,1599,2008,Male,Oregon,5170.53
+974,974,41390,41390,41390,High School Graduate,Accommodation,17914848,2923,2008,Male,Oregon,6128.93
+975,975,41391,41391,41391,Some College,Accommodation,16713175,2468,2008,Male,Oregon,6771.95
+976,976,41392,41392,41392,Advanced Degree,Accommodation,10131957,1222,2008,Male,Oregon,8291.29
+977,977,41393,41393,41393,Unavalble,Accommodation,5595354,1609,2008,Male,Oregon,3477.54
+978,978,41394,41394,41394,All Education Categories,Accommodation,63305503,13869,2008,Female,Oregon,4564.53
+979,979,41395,41395,41395,Less Than High School,Accommodation,8408273,2101,2008,Female,Oregon,4002.03
+980,980,41396,41396,41396,High School Graduate,Accommodation,18322406,4013,2008,Female,Oregon,4565.76
+981,981,41397,41397,41397,Some College,Accommodation,18783651,3670,2008,Female,Oregon,5118.16
+982,982,41398,41398,41398,Advanced Degree,Accommodation,9715516,1632,2008,Female,Oregon,5953.13
+983,983,41399,41399,41399,Unavalble,Accommodation,8075657,2454,2008,Female,Oregon,3290.81
+984,984,42480,42480,42480,All Education Categories,Educational Services,542729887,49081,2009,Male,Oregon,11057.84
+985,985,42481,42481,42481,Less Than High School,Educational Services,18600934,2558,2009,Male,Oregon,7271.67
+986,986,42482,42482,42482,High School Graduate,Educational Services,79762480,9103,2009,Male,Oregon,8762.22
+987,987,42483,42483,42483,Some College,Educational Services,135090141,13197,2009,Male,Oregon,10236.43
+988,988,42484,42484,42484,Advanced Degree,Educational Services,301568216,21617,2009,Male,Oregon,13950.51
+989,989,42485,42485,42485,Unavalble,Educational Services,7708117,2606,2009,Male,Oregon,2957.83
+990,990,42486,42486,42486,All Education Categories,Educational Services,820819073,100776,2009,Female,Oregon,8144.99
+991,991,42487,42487,42487,Less Than High School,Educational Services,21933297,4098,2009,Female,Oregon,5352.2
+992,992,42488,42488,42488,High School Graduate,Educational Services,131082312,20530,2009,Female,Oregon,6384.92
+993,993,42489,42489,42489,Some College,Educational Services,238410554,31173,2009,Female,Oregon,7647.98
+994,994,42490,42490,42490,Advanced Degree,Educational Services,413026054,40057,2009,Female,Oregon,10310.96
+995,995,42491,42491,42491,Unavalble,Educational Services,16366856,4918,2009,Female,Oregon,3327.95
+996,996,42576,42576,42576,All Education Categories,Accommodation,52492810,9478,2009,Male,Oregon,5538.38
+997,997,42577,42577,42577,Less Than High School,Accommodation,7630083,1568,2009,Male,Oregon,4866.12
+998,998,42578,42578,42578,High School Graduate,Accommodation,15999727,2806,2009,Male,Oregon,5701.97
+999,999,42579,42579,42579,Some College,Accommodation,15134077,2422,2009,Male,Oregon,6248.59
+1000,1000,42580,42580,42580,Advanced Degree,Accommodation,9050564,1210,2009,Male,Oregon,7479.8
+1001,1001,42581,42581,42581,Unavalble,Accommodation,4678359,1472,2009,Male,Oregon,3178.23
+1002,1002,42582,42582,42582,All Education Categories,Accommodation,56830413,13153,2009,Female,Oregon,4320.72
+1003,1003,42583,42583,42583,Less Than High School,Accommodation,7779408,2073,2009,Female,Oregon,3752.73
+1004,1004,42584,42584,42584,High School Graduate,Accommodation,16365743,3761,2009,Female,Oregon,4351.43
+1005,1005,42585,42585,42585,Some College,Accommodation,17132245,3501,2009,Female,Oregon,4893.53
+1006,1006,42586,42586,42586,Advanced Degree,Accommodation,8843653,1589,2009,Female,Oregon,5565.55
+1007,1007,42587,42587,42587,Unavalble,Accommodation,6709365,2229,2009,Female,Oregon,3010.03
+1008,1008,43668,43668,43668,All Education Categories,Educational Services,549513731,49481,2010,Male,Oregon,11105.55
+1009,1009,43669,43669,43669,Less Than High School,Educational Services,20193156,2752,2010,Male,Oregon,7337.63
+1010,1010,43670,43670,43670,High School Graduate,Educational Services,82497477,9395,2010,Male,Oregon,8781.0
+1011,1011,43671,43671,43671,Some College,Educational Services,137754035,13389,2010,Male,Oregon,10288.6
+1012,1012,43672,43672,43672,Advanced Degree,Educational Services,302163681,21400,2010,Male,Oregon,14119.8
+1013,1013,43673,43673,43673,Unavalble,Educational Services,6905382,2545,2010,Male,Oregon,2713.31
+1014,1014,43674,43674,43674,All Education Categories,Educational Services,825783338,99692,2010,Female,Oregon,8283.35
+1015,1015,43675,43675,43675,Less Than High School,Educational Services,24117304,4322,2010,Female,Oregon,5580.13
+1016,1016,43676,43676,43676,High School Graduate,Educational Services,134231325,20539,2010,Female,Oregon,6535.44
+1017,1017,43677,43677,43677,Some College,Educational Services,242067872,31046,2010,Female,Oregon,7797.07
+1018,1018,43678,43678,43678,Advanced Degree,Educational Services,412178742,39355,2010,Female,Oregon,10473.35
+1019,1019,43679,43679,43679,Unavalble,Educational Services,13188095,4430,2010,Female,Oregon,2977.0
+1020,1020,43764,43764,43764,All Education Categories,Accommodation,51922595,9375,2010,Male,Oregon,5538.41
+1021,1021,43765,43765,43765,Less Than High School,Accommodation,7609236,1581,2010,Male,Oregon,4812.93
+1022,1022,43766,43766,43766,High School Graduate,Accommodation,16059666,2809,2010,Male,Oregon,5717.22
+1023,1023,43767,43767,43767,Some College,Accommodation,14881333,2423,2010,Male,Oregon,6141.7
+1024,1024,43768,43768,43768,Advanced Degree,Accommodation,8968969,1249,2010,Male,Oregon,7180.92
+1025,1025,43769,43769,43769,Unavalble,Accommodation,4403390,1313,2010,Male,Oregon,3353.69
+1026,1026,43770,43770,43770,All Education Categories,Accommodation,56660547,12746,2010,Female,Oregon,4445.36
+1027,1027,43771,43771,43771,Less Than High School,Accommodation,7922028,2055,2010,Female,Oregon,3855.0
+1028,1028,43772,43772,43772,High School Graduate,Accommodation,16315500,3636,2010,Female,Oregon,4487.21
+1029,1029,43773,43773,43773,Some College,Accommodation,17025666,3431,2010,Female,Oregon,4962.3
+1030,1030,43774,43774,43774,Advanced Degree,Accommodation,9094114,1631,2010,Female,Oregon,5575.79
+1031,1031,43775,43775,43775,Unavalble,Accommodation,6303238,1993,2010,Female,Oregon,3162.69
+1032,1032,44856,44856,44856,All Education Categories,Educational Services,571786780,50482,2011,Male,Oregon,11326.55
+1033,1033,44857,44857,44857,Less Than High School,Educational Services,23231620,3061,2011,Male,Oregon,7589.55
+1034,1034,44858,44858,44858,High School Graduate,Educational Services,88608920,9887,2011,Male,Oregon,8962.16
+1035,1035,44859,44859,44859,Some College,Educational Services,144874313,13818,2011,Male,Oregon,10484.46
+1036,1036,44860,44860,44860,Advanced Degree,Educational Services,308389961,21313,2011,Male,Oregon,14469.57
+1037,1037,44861,44861,44861,Unavalble,Educational Services,6681966,2403,2011,Male,Oregon,2780.68
+1038,1038,44862,44862,44862,All Education Categories,Educational Services,856704795,100529,2011,Female,Oregon,8521.97
+1039,1039,44863,44863,44863,Less Than High School,Educational Services,27698585,4664,2011,Female,Oregon,5938.8
+1040,1040,44864,44864,44864,High School Graduate,Educational Services,142353667,20910,2011,Female,Oregon,6807.92
+1041,1041,44865,44865,44865,Some College,Educational Services,253328639,31475,2011,Female,Oregon,8048.57
+1042,1042,44866,44866,44866,Advanced Degree,Educational Services,420543635,39235,2011,Female,Oregon,10718.58
+1043,1043,44867,44867,44867,Unavalble,Educational Services,12780269,4245,2011,Female,Oregon,3010.66
+1044,1044,44952,44952,44952,All Education Categories,Accommodation,57702994,9766,2011,Male,Oregon,5908.56
+1045,1045,44953,44953,44953,Less Than High School,Accommodation,8492674,1612,2011,Male,Oregon,5268.41
+1046,1046,44954,44954,44954,High School Graduate,Accommodation,17538905,2894,2011,Male,Oregon,6060.44
+1047,1047,44955,44955,44955,Some College,Accommodation,16674024,2550,2011,Male,Oregon,6538.83
+1048,1048,44956,44956,44956,Advanced Degree,Accommodation,10305840,1325,2011,Male,Oregon,7777.99
+1049,1049,44957,44957,44957,Unavalble,Accommodation,4691550,1385,2011,Male,Oregon,3387.4
+1050,1050,44958,44958,44958,All Education Categories,Accommodation,61704847,12920,2011,Female,Oregon,4775.92
+1051,1051,44959,44959,44959,Less Than High School,Accommodation,8423195,2056,2011,Female,Oregon,4096.88
+1052,1052,44960,44960,44960,High School Graduate,Accommodation,17243556,3669,2011,Female,Oregon,4699.8
+1053,1053,44961,44961,44961,Some College,Accommodation,18601059,3498,2011,Female,Oregon,5317.63
+1054,1054,44962,44962,44962,Advanced Degree,Accommodation,11018364,1710,2011,Female,Oregon,6443.49
+1055,1055,44963,44963,44963,Unavalble,Accommodation,6418673,1987,2011,Female,Oregon,3230.33
+1056,1056,46044,46044,46044,All Education Categories,Educational Services,592582250,50192,2012,Male,Oregon,11806.31
+1057,1057,46045,46045,46045,Less Than High School,Educational Services,25979806,3211,2012,Male,Oregon,8090.88
+1058,1058,46046,46046,46046,High School Graduate,Educational Services,93363054,10052,2012,Male,Oregon,9288.01
+1059,1059,46047,46047,46047,Some College,Educational Services,150675895,13822,2012,Male,Oregon,10901.16
+1060,1060,46048,46048,46048,Advanced Degree,Educational Services,315903776,20825,2012,Male,Oregon,15169.45
+1061,1061,46049,46049,46049,Unavalble,Educational Services,6659717,2282,2012,Male,Oregon,2918.37
+1062,1062,46050,46050,46050,All Education Categories,Educational Services,874430295,98504,2012,Female,Oregon,8877.1
+1063,1063,46051,46051,46051,Less Than High School,Educational Services,31027662,4902,2012,Female,Oregon,6329.59
+1064,1064,46052,46052,46052,High School Graduate,Educational Services,146924650,20670,2012,Female,Oregon,7108.11
+1065,1065,46053,46053,46053,Some College,Educational Services,259766441,30995,2012,Female,Oregon,8380.91
+1066,1066,46054,46054,46054,Advanced Degree,Educational Services,424649155,38026,2012,Female,Oregon,11167.34
+1067,1067,46055,46055,46055,Unavalble,Educational Services,12062387,3910,2012,Female,Oregon,3085.01
+1068,1068,46140,46140,46140,All Education Categories,Accommodation,60778471,9913,2012,Male,Oregon,6131.19
+1069,1069,46141,46141,46141,Less Than High School,Accommodation,8732163,1609,2012,Male,Oregon,5427.07
+1070,1070,46142,46142,46142,High School Graduate,Accommodation,18687115,2935,2012,Male,Oregon,6366.99
+1071,1071,46143,46143,46143,Some College,Accommodation,17556034,2574,2012,Male,Oregon,6820.53
+1072,1072,46144,46144,46144,Advanced Degree,Accommodation,10804229,1378,2012,Male,Oregon,7840.51
+1073,1073,46145,46145,46145,Unavalble,Accommodation,4998930,1416,2012,Male,Oregon,3530.32
+1074,1074,46146,46146,46146,All Education Categories,Accommodation,64442567,12984,2012,Female,Oregon,4963.23
+1075,1075,46147,46147,46147,Less Than High School,Accommodation,9065774,2064,2012,Female,Oregon,4392.33
+1076,1076,46148,46148,46148,High School Graduate,Accommodation,18398902,3672,2012,Female,Oregon,5010.59
+1077,1077,46149,46149,46149,Some College,Accommodation,19544877,3572,2012,Female,Oregon,5471.69
+1078,1078,46150,46150,46150,Advanced Degree,Accommodation,10901335,1784,2012,Female,Oregon,6110.61
+1079,1079,46151,46151,46151,Unavalble,Accommodation,6531680,1892,2012,Female,Oregon,3452.26

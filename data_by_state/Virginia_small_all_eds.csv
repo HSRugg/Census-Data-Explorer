@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,3012,3012,3012,All Education Categories,"Colleges, Universities, and Professional Schools",318078555,24931,2004,Male,Virginia,12758.36
+1,1,3013,3013,3013,Less Than High School,"Colleges, Universities, and Professional Schools",7893645,1104,2004,Male,Virginia,7150.04
+2,2,3014,3014,3014,High School Graduate,"Colleges, Universities, and Professional Schools",32236453,3649,2004,Male,Virginia,8834.33
+3,3,3015,3015,3015,Some College,"Colleges, Universities, and Professional Schools",59323065,5410,2004,Male,Virginia,10965.45
+4,4,3016,3016,3016,Advanced Degree,"Colleges, Universities, and Professional Schools",213642943,13212,2004,Male,Virginia,16170.37
+5,5,3017,3017,3017,Unavalble,"Colleges, Universities, and Professional Schools",4982449,1555,2004,Male,Virginia,3204.15
+6,6,3018,3018,3018,All Education Categories,"Colleges, Universities, and Professional Schools",243100751,29221,2004,Female,Virginia,8319.39
+7,7,3019,3019,3019,Less Than High School,"Colleges, Universities, and Professional Schools",5540004,1023,2004,Female,Virginia,5415.45
+8,8,3020,3020,3020,High School Graduate,"Colleges, Universities, and Professional Schools",33665313,5204,2004,Female,Virginia,6469.12
+9,9,3021,3021,3021,Some College,"Colleges, Universities, and Professional Schools",59430086,7723,2004,Female,Virginia,7695.21
+10,10,3022,3022,3022,Advanced Degree,"Colleges, Universities, and Professional Schools",137329373,12794,2004,Female,Virginia,10733.89
+11,11,3023,3023,3023,Unavalble,"Colleges, Universities, and Professional Schools",7135974,2476,2004,Female,Virginia,2882.06
+12,12,6732,6732,6732,All Education Categories,"Colleges, Universities, and Professional Schools",340628364,24524,2005,Male,Virginia,13889.59
+13,13,6733,6733,6733,Less Than High School,"Colleges, Universities, and Professional Schools",8779963,1121,2005,Male,Virginia,7832.26
+14,14,6734,6734,6734,High School Graduate,"Colleges, Universities, and Professional Schools",35234376,3646,2005,Male,Virginia,9663.84
+15,15,6735,6735,6735,Some College,"Colleges, Universities, and Professional Schools",64271465,5399,2005,Male,Virginia,11904.33
+16,16,6736,6736,6736,Advanced Degree,"Colleges, Universities, and Professional Schools",226945514,12844,2005,Male,Virginia,17669.38
+17,17,6737,6737,6737,Unavalble,"Colleges, Universities, and Professional Schools",5397046,1514,2005,Male,Virginia,3564.76
+18,18,6738,6738,6738,All Education Categories,"Colleges, Universities, and Professional Schools",270521452,28787,2005,Female,Virginia,9397.35
+19,19,6739,6739,6739,Less Than High School,"Colleges, Universities, and Professional Schools",6134941,1028,2005,Female,Virginia,5967.84
+20,20,6740,6740,6740,High School Graduate,"Colleges, Universities, and Professional Schools",36820794,5166,2005,Female,Virginia,7127.52
+21,21,6741,6741,6741,Some College,"Colleges, Universities, and Professional Schools",66070198,7671,2005,Female,Virginia,8612.98
+22,22,6742,6742,6742,Advanced Degree,"Colleges, Universities, and Professional Schools",153715070,12487,2005,Female,Virginia,12310.01
+23,23,6743,6743,6743,Unavalble,"Colleges, Universities, and Professional Schools",7780448,2436,2005,Female,Virginia,3193.94
+24,24,10452,10452,10452,All Education Categories,"Colleges, Universities, and Professional Schools",389400412,28939,2006,Male,Virginia,13455.9
+25,25,10453,10453,10453,Less Than High School,"Colleges, Universities, and Professional Schools",10406357,1365,2006,Male,Virginia,7623.7
+26,26,10454,10454,10454,High School Graduate,"Colleges, Universities, and Professional Schools",39925320,4193,2006,Male,Virginia,9521.9
+27,27,10455,10455,10455,Some College,"Colleges, Universities, and Professional Schools",73321214,6263,2006,Male,Virginia,11707.04
+28,28,10456,10456,10456,Advanced Degree,"Colleges, Universities, and Professional Schools",258800378,15040,2006,Male,Virginia,17207.47
+29,29,10457,10457,10457,Unavalble,"Colleges, Universities, and Professional Schools",6947142,2078,2006,Male,Virginia,3343.19
+30,30,10458,10458,10458,All Education Categories,"Colleges, Universities, and Professional Schools",312781440,34085,2006,Female,Virginia,9176.51
+31,31,10459,10459,10459,Less Than High School,"Colleges, Universities, and Professional Schools",7288353,1220,2006,Female,Virginia,5974.06
+32,32,10460,10460,10460,High School Graduate,"Colleges, Universities, and Professional Schools",41354110,5820,2006,Female,Virginia,7105.52
+33,33,10461,10461,10461,Some College,"Colleges, Universities, and Professional Schools",75462343,8891,2006,Female,Virginia,8487.5
+34,34,10462,10462,10462,Advanced Degree,"Colleges, Universities, and Professional Schools",179207056,15119,2006,Female,Virginia,11853.1
+35,35,10463,10463,10463,Unavalble,"Colleges, Universities, and Professional Schools",9469577,3035,2006,Female,Virginia,3120.12
+36,36,14160,14160,14160,All Education Categories,"Colleges, Universities, and Professional Schools",387244138,26696,2007,Male,Virginia,14505.7
+37,37,14161,14161,14161,Less Than High School,"Colleges, Universities, and Professional Schools",10899155,1266,2007,Male,Virginia,8609.13
+38,38,14162,14162,14162,High School Graduate,"Colleges, Universities, and Professional Schools",41413615,3900,2007,Male,Virginia,10618.88
+39,39,14163,14163,14163,Some College,"Colleges, Universities, and Professional Schools",73686772,5742,2007,Male,Virginia,12832.95
+40,40,14164,14164,14164,Advanced Degree,"Colleges, Universities, and Professional Schools",253862199,13417,2007,Male,Virginia,18920.94
+41,41,14165,14165,14165,Unavalble,"Colleges, Universities, and Professional Schools",7382398,2371,2007,Male,Virginia,3113.62
+42,42,14166,14166,14166,All Education Categories,"Colleges, Universities, and Professional Schools",320472004,31693,2007,Female,Virginia,10111.76
+43,43,14167,14167,14167,Less Than High School,"Colleges, Universities, and Professional Schools",8138375,1193,2007,Female,Virginia,6821.77
+44,44,14168,14168,14168,High School Graduate,"Colleges, Universities, and Professional Schools",42967434,5378,2007,Female,Virginia,7989.48
+45,45,14169,14169,14169,Some College,"Colleges, Universities, and Professional Schools",78205681,8229,2007,Female,Virginia,9503.67
+46,46,14170,14170,14170,Advanced Degree,"Colleges, Universities, and Professional Schools",181266782,13494,2007,Female,Virginia,13433.14
+47,47,14171,14171,14171,Unavalble,"Colleges, Universities, and Professional Schools",9893733,3398,2007,Female,Virginia,2911.63
+48,48,17868,17868,17868,All Education Categories,"Colleges, Universities, and Professional Schools",406781680,28165,2008,Male,Virginia,14442.81
+49,49,17869,17869,17869,Less Than High School,"Colleges, Universities, and Professional Schools",11655085,1365,2008,Male,Virginia,8538.52
+50,50,17870,17870,17870,High School Graduate,"Colleges, Universities, and Professional Schools",43600154,4164,2008,Male,Virginia,10470.74
+51,51,17871,17871,17871,Some College,"Colleges, Universities, and Professional Schools",78989263,6130,2008,Male,Virginia,12885.69
+52,52,17872,17872,17872,Advanced Degree,"Colleges, Universities, and Professional Schools",264623553,14109,2008,Male,Virginia,18755.66
+53,53,17873,17873,17873,Unavalble,"Colleges, Universities, and Professional Schools",7913625,2397,2008,Male,Virginia,3301.47
+54,54,17874,17874,17874,All Education Categories,"Colleges, Universities, and Professional Schools",336765857,33710,2008,Female,Virginia,9990.09
+55,55,17875,17875,17875,Less Than High School,"Colleges, Universities, and Professional Schools",8670511,1308,2008,Female,Virginia,6628.83
+56,56,17876,17876,17876,High School Graduate,"Colleges, Universities, and Professional Schools",45351445,5752,2008,Female,Virginia,7884.47
+57,57,17877,17877,17877,Some College,"Colleges, Universities, and Professional Schools",82209308,8758,2008,Female,Virginia,9386.77
+58,58,17878,17878,17878,Advanced Degree,"Colleges, Universities, and Professional Schools",189860441,14343,2008,Female,Virginia,13237.15
+59,59,17879,17879,17879,Unavalble,"Colleges, Universities, and Professional Schools",10674152,3548,2008,Female,Virginia,3008.5
+60,60,21576,21576,21576,All Education Categories,"Colleges, Universities, and Professional Schools",437735185,30567,2009,Male,Virginia,14320.52
+61,61,21577,21577,21577,Less Than High School,"Colleges, Universities, and Professional Schools",13598792,1593,2009,Male,Virginia,8536.59
+62,62,21578,21578,21578,High School Graduate,"Colleges, Universities, and Professional Schools",48366550,4686,2009,Male,Virginia,10321.5
+63,63,21579,21579,21579,Some College,"Colleges, Universities, and Professional Schools",85437870,6769,2009,Male,Virginia,12621.93
+64,64,21580,21580,21580,Advanced Degree,"Colleges, Universities, and Professional Schools",282450789,15174,2009,Male,Virginia,18614.13
+65,65,21581,21581,21581,Unavalble,"Colleges, Universities, and Professional Schools",7881184,2345,2009,Male,Virginia,3360.85
+66,66,21582,21582,21582,All Education Categories,"Colleges, Universities, and Professional Schools",369651700,36715,2009,Female,Virginia,10068.14
+67,67,21583,21583,21583,Less Than High School,"Colleges, Universities, and Professional Schools",10608541,1555,2009,Female,Virginia,6822.21
+68,68,21584,21584,21584,High School Graduate,"Colleges, Universities, and Professional Schools",50740782,6357,2009,Female,Virginia,7981.88
+69,69,21585,21585,21585,Some College,"Colleges, Universities, and Professional Schools",91233846,9665,2009,Female,Virginia,9439.61
+70,70,21586,21586,21586,Advanced Degree,"Colleges, Universities, and Professional Schools",206140167,15662,2009,Female,Virginia,13161.8
+71,71,21587,21587,21587,Unavalble,"Colleges, Universities, and Professional Schools",10928365,3476,2009,Female,Virginia,3143.95
+72,72,25284,25284,25284,All Education Categories,"Colleges, Universities, and Professional Schools",406443646,25426,2010,Male,Virginia,15985.36
+73,73,25285,25285,25285,Less Than High School,"Colleges, Universities, and Professional Schools",13912475,1439,2010,Male,Virginia,9668.15
+74,74,25286,25286,25286,High School Graduate,"Colleges, Universities, and Professional Schools",47293436,4160,2010,Male,Virginia,11368.61
+75,75,25287,25287,25287,Some College,"Colleges, Universities, and Professional Schools",80465607,5832,2010,Male,Virginia,13797.26
+76,76,25288,25288,25288,Advanced Degree,"Colleges, Universities, and Professional Schools",258797847,12457,2010,Male,Virginia,20775.29
+77,77,25289,25289,25289,Unavalble,"Colleges, Universities, and Professional Schools",5974281,1538,2010,Male,Virginia,3884.45
+78,78,25290,25290,25290,All Education Categories,"Colleges, Universities, and Professional Schools",336043104,30177,2010,Female,Virginia,11135.74
+79,79,25291,25291,25291,Less Than High School,"Colleges, Universities, and Professional Schools",11052592,1404,2010,Female,Virginia,7872.22
+80,80,25292,25292,25292,High School Graduate,"Colleges, Universities, and Professional Schools",47512173,5484,2010,Female,Virginia,8663.78
+81,81,25293,25293,25293,Some College,"Colleges, Universities, and Professional Schools",83392499,8141,2010,Female,Virginia,10243.52
+82,82,25294,25294,25294,Advanced Degree,"Colleges, Universities, and Professional Schools",186423231,12914,2010,Female,Virginia,14435.75
+83,83,25295,25295,25295,Unavalble,"Colleges, Universities, and Professional Schools",7662609,2234,2010,Female,Virginia,3430.0
+84,84,29004,29004,29004,All Education Categories,"Colleges, Universities, and Professional Schools",449734750,30738,2011,Male,Virginia,14631.23
+85,85,29005,29005,29005,Less Than High School,"Colleges, Universities, and Professional Schools",16439044,1840,2011,Male,Virginia,8934.26
+86,86,29006,29006,29006,High School Graduate,"Colleges, Universities, and Professional Schools",52544011,4979,2011,Male,Virginia,10553.13
+87,87,29007,29007,29007,Some College,"Colleges, Universities, and Professional Schools",89504058,6933,2011,Male,Virginia,12909.86
+88,88,29008,29008,29008,Advanced Degree,"Colleges, Universities, and Professional Schools",283547957,14670,2011,Male,Virginia,19328.42
+89,89,29009,29009,29009,Unavalble,"Colleges, Universities, and Professional Schools",7699680,2317,2011,Male,Virginia,3323.12
+90,90,29010,29010,29010,All Education Categories,"Colleges, Universities, and Professional Schools",382557006,36648,2011,Female,Virginia,10438.69
+91,91,29011,29011,29011,Less Than High School,"Colleges, Universities, and Professional Schools",13839440,1855,2011,Female,Virginia,7460.61
+92,92,29012,29012,29012,High School Graduate,"Colleges, Universities, and Professional Schools",54555077,6494,2011,Female,Virginia,8400.84
+93,93,29013,29013,29013,Some College,"Colleges, Universities, and Professional Schools",96005164,9763,2011,Female,Virginia,9833.57
+94,94,29014,29014,29014,Advanced Degree,"Colleges, Universities, and Professional Schools",207679424,15220,2011,Female,Virginia,13645.17
+95,95,29015,29015,29015,Unavalble,"Colleges, Universities, and Professional Schools",10477902,3316,2011,Female,Virginia,3159.8
+96,96,32724,32724,32724,All Education Categories,"Colleges, Universities, and Professional Schools",460818661,30541,2012,Male,Virginia,15088.53
+97,97,32725,32725,32725,Less Than High School,"Colleges, Universities, and Professional Schools",18522110,1925,2012,Male,Virginia,9621.88
+98,98,32726,32726,32726,High School Graduate,"Colleges, Universities, and Professional Schools",57285377,5063,2012,Male,Virginia,11314.51
+99,99,32727,32727,32727,Some College,"Colleges, Universities, and Professional Schools",94602103,6926,2012,Male,Virginia,13658.98
+100,100,32728,32728,32728,Advanced Degree,"Colleges, Universities, and Professional Schools",282318975,14163,2012,Male,Virginia,19933.56
+101,101,32729,32729,32729,Unavalble,"Colleges, Universities, and Professional Schools",8090095,2465,2012,Male,Virginia,3281.99
+102,102,32730,32730,32730,All Education Categories,"Colleges, Universities, and Professional Schools",398507353,36841,2012,Female,Virginia,10816.95
+103,103,32731,32731,32731,Less Than High School,"Colleges, Universities, and Professional Schools",15704775,1971,2012,Female,Virginia,7967.92
+104,104,32732,32732,32732,High School Graduate,"Colleges, Universities, and Professional Schools",59663994,6552,2012,Female,Virginia,9106.23
+105,105,32733,32733,32733,Some College,"Colleges, Universities, and Professional Schools",102435965,9792,2012,Female,Virginia,10461.19
+106,106,32734,32734,32734,Advanced Degree,"Colleges, Universities, and Professional Schools",209429587,14855,2012,Female,Virginia,14098.26
+107,107,32735,32735,32735,Unavalble,"Colleges, Universities, and Professional Schools",11273033,3671,2012,Female,Virginia,3070.83
+108,108,33432,33432,33432,All Education Categories,00,20839316586,1635371,2004,Male,Virginia,12742.87
+109,109,33433,33433,33433,Less Than High School,00,1306844284,177807,2004,Male,Virginia,7349.79
+110,110,33434,33434,33434,High School Graduate,00,3625903375,386127,2004,Male,Virginia,9390.44
+111,111,33435,33435,33435,Some College,00,4858807790,399115,2004,Male,Virginia,12173.95
+112,112,33436,33436,33436,Advanced Degree,00,10113071880,457854,2004,Male,Virginia,22087.98
+113,113,33437,33437,33437,Unavalble,00,934689257,214468,2004,Male,Virginia,4358.18
+114,114,33438,33438,33438,All Education Categories,00,12459464446,1596695,2004,Female,Virginia,7803.28
+115,115,33439,33439,33439,Less Than High School,00,627531102,134662,2004,Female,Virginia,4660.05
+116,116,33440,33440,33440,High School Graduate,00,2135884656,360231,2004,Female,Virginia,5929.21
+117,117,33441,33441,33441,Some College,00,3366154094,435902,2004,Female,Virginia,7722.27
+118,118,33442,33442,33442,Advanced Degree,00,5499928839,431911,2004,Female,Virginia,12733.94
+119,119,33443,33443,33443,Unavalble,00,829965756,233989,2004,Female,Virginia,3547.03
+120,120,33492,33492,33492,All Education Categories,Manufacturing,2606827379,216880,2004,Male,Virginia,12019.68
+121,121,33493,33493,33493,Less Than High School,Manufacturing,238166225,27774,2004,Male,Virginia,8575.15
+122,122,33494,33494,33494,High School Graduate,Manufacturing,768708081,73702,2004,Male,Virginia,10429.95
+123,123,33495,33495,33495,Some College,Manufacturing,794981497,63260,2004,Male,Virginia,12566.89
+124,124,33496,33496,33496,Advanced Degree,Manufacturing,714510349,37361,2004,Male,Virginia,19124.5
+125,125,33497,33497,33497,Unavalble,Manufacturing,90461227,14783,2004,Male,Virginia,6119.27
+126,126,33498,33498,33498,All Education Categories,Manufacturing,743896432,93255,2004,Female,Virginia,7977.01
+127,127,33499,33499,33499,Less Than High School,Manufacturing,68165278,11822,2004,Female,Virginia,5765.97
+128,128,33500,33500,33500,High School Graduate,Manufacturing,233669613,33608,2004,Female,Virginia,6952.8
+129,129,33501,33501,33501,Some College,Manufacturing,232621258,27686,2004,Female,Virginia,8402.13
+130,130,33502,33502,33502,Advanced Degree,Manufacturing,177871218,14074,2004,Female,Virginia,12638.28
+131,131,33503,33503,33503,Unavalble,Manufacturing,31569065,6066,2004,Female,Virginia,5204.26
+132,132,33516,33516,33516,All Education Categories,Retail Trade,1476564513,197180,2004,Male,Virginia,7488.41
+133,133,33517,33517,33517,Less Than High School,Retail Trade,141821670,22818,2004,Male,Virginia,6215.34
+134,134,33518,33518,33518,High School Graduate,Retail Trade,388735668,50925,2004,Male,Virginia,7633.49
+135,135,33519,33519,33519,Some College,Retail Trade,410587624,45090,2004,Male,Virginia,9105.96
+136,136,33520,33520,33520,Advanced Degree,Retail Trade,372797380,28529,2004,Male,Virginia,13067.31
+137,137,33521,33521,33521,Unavalble,Retail Trade,162622171,49818,2004,Male,Virginia,3264.33
+138,138,33522,33522,33522,All Education Categories,Retail Trade,955207500,219638,2004,Female,Virginia,4349.01
+139,139,33523,33523,33523,Less Than High School,Retail Trade,96896660,24790,2004,Female,Virginia,3908.7
+140,140,33524,33524,33524,High School Graduate,Retail Trade,272290076,60591,2004,Female,Virginia,4493.9
+141,141,33525,33525,33525,Some College,Retail Trade,255249412,49180,2004,Female,Virginia,5190.11
+142,142,33526,33526,33526,Advanced Degree,Retail Trade,187977970,25794,2004,Female,Virginia,7287.66
+143,143,33527,33527,33527,Unavalble,Retail Trade,142793382,59283,2004,Female,Virginia,2408.67
+144,144,33552,33552,33552,All Education Categories,Finance and Insurance,1480671776,44422,2004,Male,Virginia,33331.95
+145,145,33553,33553,33553,Less Than High School,Finance and Insurance,16334394,1327,2004,Male,Virginia,12309.26
+146,146,33554,33554,33554,High School Graduate,Finance and Insurance,81848361,4713,2004,Male,Virginia,17366.51
+147,147,33555,33555,33555,Some College,Finance and Insurance,220035019,9216,2004,Male,Virginia,23875.33
+148,148,33556,33556,33556,Advanced Degree,Finance and Insurance,1134872618,25742,2004,Male,Virginia,44086.42
+149,149,33557,33557,33557,Unavalble,Finance and Insurance,27581384,3425,2004,Male,Virginia,8052.96
+150,150,33558,33558,33558,All Education Categories,Finance and Insurance,1071875696,85049,2004,Female,Virginia,12603.04
+151,151,33559,33559,33559,Less Than High School,Finance and Insurance,19098850,2595,2004,Female,Virginia,7359.87
+152,152,33560,33560,33560,High School Graduate,Finance and Insurance,125434303,14701,2004,Female,Virginia,8532.37
+153,153,33561,33561,33561,Some College,Finance and Insurance,252011436,23867,2004,Female,Virginia,10558.99
+154,154,33562,33562,33562,Advanced Degree,Finance and Insurance,618404530,34799,2004,Female,Virginia,17770.76
+155,155,33563,33563,33563,Unavalble,Finance and Insurance,56926578,9088,2004,Female,Virginia,6263.93
+156,156,33612,33612,33612,All Education Categories,Educational Services,931150054,89320,2004,Male,Virginia,10424.88
+157,157,33613,33613,33613,Less Than High School,Educational Services,34971006,5506,2004,Male,Virginia,6351.44
+158,158,33614,33614,33614,High School Graduate,Educational Services,124996672,15694,2004,Male,Virginia,7964.62
+159,159,33615,33615,33615,Some College,Educational Services,207380758,21880,2004,Male,Virginia,9478.1
+160,160,33616,33616,33616,Advanced Degree,Educational Services,541957743,40810,2004,Male,Virginia,13280.02
+161,161,33617,33617,33617,Unavalble,Educational Services,21843876,5430,2004,Male,Virginia,4022.81
+162,162,33618,33618,33618,All Education Categories,Educational Services,1794519183,222218,2004,Female,Virginia,8075.49
+163,163,33619,33619,33619,Less Than High School,Educational Services,46089155,10682,2004,Female,Virginia,4314.66
+164,164,33620,33620,33620,High School Graduate,Educational Services,256443524,44711,2004,Female,Virginia,5735.58
+165,165,33621,33621,33621,Some College,Educational Services,439560160,59967,2004,Female,Virginia,7330.03
+166,166,33622,33622,33622,Advanced Degree,Educational Services,995325600,94566,2004,Female,Virginia,10525.2
+167,167,33623,33623,33623,Unavalble,Educational Services,57100745,12292,2004,Female,Virginia,4645.36
+168,168,33624,33624,33624,All Education Categories,Health Care and Social Assistance,974875564,63185,2004,Male,Virginia,15428.91
+169,169,33625,33625,33625,Less Than High School,Health Care and Social Assistance,36976693,5065,2004,Male,Virginia,7300.43
+170,170,33626,33626,33626,High School Graduate,Health Care and Social Assistance,113654372,11843,2004,Male,Virginia,9596.76
+171,171,33627,33627,33627,Some College,Health Care and Social Assistance,222338703,16919,2004,Male,Virginia,13141.36
+172,172,33628,33628,33628,Advanced Degree,Health Care and Social Assistance,579605375,24149,2004,Male,Virginia,24001.22
+173,173,33629,33629,33629,Unavalble,Health Care and Social Assistance,22300421,5210,2004,Male,Virginia,4280.31
+174,174,33630,33630,33630,All Education Categories,Health Care and Social Assistance,2045219476,260254,2004,Female,Virginia,7858.55
+175,175,33631,33631,33631,Less Than High School,Health Care and Social Assistance,97856259,19444,2004,Female,Virginia,5032.72
+176,176,33632,33632,33632,High School Graduate,Health Care and Social Assistance,344851284,56141,2004,Female,Virginia,6142.59
+177,177,33633,33633,33633,Some College,Health Care and Social Assistance,703227852,90166,2004,Female,Virginia,7799.26
+178,178,33634,33634,33634,Advanced Degree,Health Care and Social Assistance,787191221,68636,2004,Female,Virginia,11469.07
+179,179,33635,33635,33635,Unavalble,Health Care and Social Assistance,112092859,25867,2004,Female,Virginia,4333.43
+180,180,33648,33648,33648,All Education Categories,Accommodation and Food Services,503673422,116622,2004,Male,Virginia,4318.85
+181,181,33649,33649,33649,Less Than High School,Accommodation and Food Services,81518566,18058,2004,Male,Virginia,4514.26
+182,182,33650,33650,33650,High School Graduate,Accommodation and Food Services,116484104,23181,2004,Male,Virginia,5024.98
+183,183,33651,33651,33651,Some College,Accommodation and Food Services,109113227,19146,2004,Male,Virginia,5699.01
+184,184,33652,33652,33652,Advanced Degree,Accommodation and Food Services,85507120,11635,2004,Male,Virginia,7349.13
+185,185,33653,33653,33653,Unavalble,Accommodation and Food Services,111050405,44602,2004,Male,Virginia,2489.81
+186,186,33654,33654,33654,All Education Categories,Accommodation and Food Services,463540260,141966,2004,Female,Virginia,3265.15
+187,187,33655,33655,33655,Less Than High School,Accommodation and Food Services,72156169,21135,2004,Female,Virginia,3414.06
+188,188,33656,33656,33656,High School Graduate,Accommodation and Food Services,106815978,29569,2004,Female,Virginia,3612.43
+189,189,33657,33657,33657,Some College,Accommodation and Food Services,99423846,24387,2004,Female,Virginia,4076.92
+190,190,33658,33658,33658,Advanced Degree,Accommodation and Food Services,62425812,11999,2004,Female,Virginia,5202.58
+191,191,33659,33659,33659,Unavalble,Accommodation and Food Services,122718456,54876,2004,Female,Virginia,2236.29
+192,192,33684,33684,33684,All Education Categories,00,22074145503,1682204,2005,Male,Virginia,13122.16
+193,193,33685,33685,33685,Less Than High School,00,1369194742,182537,2005,Male,Virginia,7500.92
+194,194,33686,33686,33686,High School Graduate,00,3803150820,393719,2005,Male,Virginia,9659.56
+195,195,33687,33687,33687,Some College,00,5124290998,411437,2005,Male,Virginia,12454.62
+196,196,33688,33688,33688,Advanced Degree,00,10796187252,472905,2005,Male,Virginia,22829.51
+197,197,33689,33689,33689,Unavalble,00,981321691,221605,2005,Male,Virginia,4428.25
+198,198,33690,33690,33690,All Education Categories,00,12914226499,1649843,2005,Female,Virginia,7827.55
+199,199,33691,33691,33691,Less Than High School,00,656900462,138683,2005,Female,Virginia,4736.71
+200,200,33692,33692,33692,High School Graduate,00,2202324136,368337,2005,Female,Virginia,5979.1
+201,201,33693,33693,33693,Some College,00,3468228336,449902,2005,Female,Virginia,7708.85
+202,202,33694,33694,33694,Advanced Degree,00,5712313540,448556,2005,Female,Virginia,12734.89
+203,203,33695,33695,33695,Unavalble,00,874460025,244365,2005,Female,Virginia,3578.5
+204,204,33744,33744,33744,All Education Categories,Manufacturing,2726535391,217572,2005,Male,Virginia,12531.65
+205,205,33745,33745,33745,Less Than High School,Manufacturing,242569628,27661,2005,Male,Virginia,8769.37
+206,206,33746,33746,33746,High School Graduate,Manufacturing,794607526,73471,2005,Male,Virginia,10815.25
+207,207,33747,33747,33747,Some College,Manufacturing,829202762,63670,2005,Male,Virginia,13023.45
+208,208,33748,33748,33748,Advanced Degree,Manufacturing,763546571,37555,2005,Male,Virginia,20331.42
+209,209,33749,33749,33749,Unavalble,Manufacturing,96608903,15215,2005,Male,Virginia,6349.58
+210,210,33750,33750,33750,All Education Categories,Manufacturing,765874077,93205,2005,Female,Virginia,8217.09
+211,211,33751,33751,33751,Less Than High School,Manufacturing,68570895,11705,2005,Female,Virginia,5858.26
+212,212,33752,33752,33752,High School Graduate,Manufacturing,235872749,33143,2005,Female,Virginia,7116.82
+213,213,33753,33753,33753,Some College,Manufacturing,239346647,27772,2005,Female,Virginia,8618.27
+214,214,33754,33754,33754,Advanced Degree,Manufacturing,189174396,14423,2005,Female,Virginia,13116.16
+215,215,33755,33755,33755,Unavalble,Manufacturing,32909390,6162,2005,Female,Virginia,5340.7
+216,216,33768,33768,33768,All Education Categories,Retail Trade,1496922355,198325,2005,Male,Virginia,7547.82
+217,217,33769,33769,33769,Less Than High School,Retail Trade,145211211,23079,2005,Male,Virginia,6291.92
+218,218,33770,33770,33770,High School Graduate,Retail Trade,394338080,50752,2005,Male,Virginia,7769.9
+219,219,33771,33771,33771,Some College,Retail Trade,417312563,45308,2005,Male,Virginia,9210.57
+220,220,33772,33772,33772,Advanced Degree,Retail Trade,373261645,28252,2005,Male,Virginia,13211.87
+221,221,33773,33773,33773,Unavalble,Retail Trade,166798857,50935,2005,Male,Virginia,3274.74
+222,222,33774,33774,33774,All Education Categories,Retail Trade,980692344,221278,2005,Female,Virginia,4431.95
+223,223,33775,33775,33775,Less Than High School,Retail Trade,101157580,24979,2005,Female,Virginia,4049.7
+224,224,33776,33776,33776,High School Graduate,Retail Trade,279678940,60249,2005,Female,Virginia,4642.05
+225,225,33777,33777,33777,Some College,Retail Trade,260969706,49255,2005,Female,Virginia,5298.34
+226,226,33778,33778,33778,Advanced Degree,Retail Trade,188657179,25666,2005,Female,Virginia,7350.47
+227,227,33779,33779,33779,Unavalble,Retail Trade,150228940,61129,2005,Female,Virginia,2457.57
+228,228,33804,33804,33804,All Education Categories,Finance and Insurance,1493037035,45893,2005,Male,Virginia,32533.0
+229,229,33805,33805,33805,Less Than High School,Finance and Insurance,17762030,1394,2005,Male,Virginia,12741.77
+230,230,33806,33806,33806,High School Graduate,Finance and Insurance,86879416,4877,2005,Male,Virginia,17814.11
+231,231,33807,33807,33807,Some College,Finance and Insurance,227333552,9543,2005,Male,Virginia,23822.02
+232,232,33808,33808,33808,Advanced Degree,Finance and Insurance,1133183090,26683,2005,Male,Virginia,42468.35
+233,233,33809,33809,33809,Unavalble,Finance and Insurance,27878947,3397,2005,Male,Virginia,8206.93
+234,234,33810,33810,33810,All Education Categories,Finance and Insurance,1092223325,86669,2005,Female,Virginia,12602.24
+235,235,33811,33811,33811,Less Than High School,Finance and Insurance,20778483,2736,2005,Female,Virginia,7594.47
+236,236,33812,33812,33812,High School Graduate,Finance and Insurance,131116744,15013,2005,Female,Virginia,8733.55
+237,237,33813,33813,33813,Some College,Finance and Insurance,260251986,24328,2005,Female,Virginia,10697.63
+238,238,33814,33814,33814,Advanced Degree,Finance and Insurance,622721359,35714,2005,Female,Virginia,17436.34
+239,239,33815,33815,33815,Unavalble,Finance and Insurance,57354753,8878,2005,Female,Virginia,6460.32
+240,240,33864,33864,33864,All Education Categories,Educational Services,997468635,92963,2005,Male,Virginia,10729.74
+241,241,33865,33865,33865,Less Than High School,Educational Services,37645035,5814,2005,Male,Virginia,6474.89
+242,242,33866,33866,33866,High School Graduate,Educational Services,133697244,16495,2005,Male,Virginia,8105.32
+243,243,33867,33867,33867,Some College,Educational Services,222762366,22981,2005,Male,Virginia,9693.33
+244,244,33868,33868,33868,Advanced Degree,Educational Services,579742784,42128,2005,Male,Virginia,13761.46
+245,245,33869,33869,33869,Unavalble,Educational Services,23621206,5544,2005,Male,Virginia,4260.68
+246,246,33870,33870,33870,All Education Categories,Educational Services,1918642610,234498,2005,Female,Virginia,8181.91
+247,247,33871,33871,33871,Less Than High School,Educational Services,50346980,11327,2005,Female,Virginia,4444.86
+248,248,33872,33872,33872,High School Graduate,Educational Services,273793933,47096,2005,Female,Virginia,5813.53
+249,249,33873,33873,33873,Some College,Educational Services,473262086,63706,2005,Female,Virginia,7428.85
+250,250,33874,33874,33874,Advanced Degree,Educational Services,1059487106,99438,2005,Female,Virginia,10654.75
+251,251,33875,33875,33875,Unavalble,Educational Services,61752506,12931,2005,Female,Virginia,4775.54
+252,252,33876,33876,33876,All Education Categories,Health Care and Social Assistance,987672323,66098,2005,Male,Virginia,14942.54
+253,253,33877,33877,33877,Less Than High School,Health Care and Social Assistance,37161665,5183,2005,Male,Virginia,7169.91
+254,254,33878,33878,33878,High School Graduate,Health Care and Social Assistance,115120890,12403,2005,Male,Virginia,9281.7
+255,255,33879,33879,33879,Some College,Health Care and Social Assistance,223942856,17751,2005,Male,Virginia,12615.79
+256,256,33880,33880,33880,Advanced Degree,Health Care and Social Assistance,586364429,25177,2005,Male,Virginia,23289.69
+257,257,33881,33881,33881,Unavalble,Health Care and Social Assistance,25082483,5585,2005,Male,Virginia,4491.04
+258,258,33882,33882,33882,All Education Categories,Health Care and Social Assistance,1983584169,266524,2005,Female,Virginia,7442.42
+259,259,33883,33883,33883,Less Than High School,Health Care and Social Assistance,97345112,19782,2005,Female,Virginia,4920.89
+260,260,33884,33884,33884,High School Graduate,Health Care and Social Assistance,336720081,57050,2005,Female,Virginia,5902.19
+261,261,33885,33885,33885,Some College,Health Care and Social Assistance,676301326,91940,2005,Female,Virginia,7355.9
+262,262,33886,33886,33886,Advanced Degree,Health Care and Social Assistance,760477928,71167,2005,Female,Virginia,10685.82
+263,263,33887,33887,33887,Unavalble,Health Care and Social Assistance,112739722,26585,2005,Female,Virginia,4240.73
+264,264,33900,33900,33900,All Education Categories,Accommodation and Food Services,514392033,118928,2005,Male,Virginia,4325.24
+265,265,33901,33901,33901,Less Than High School,Accommodation and Food Services,83444894,18469,2005,Male,Virginia,4518.11
+266,266,33902,33902,33902,High School Graduate,Accommodation and Food Services,118257843,23874,2005,Male,Virginia,4953.42
+267,267,33903,33903,33903,Some College,Accommodation and Food Services,111330120,19717,2005,Male,Virginia,5646.4
+268,268,33904,33904,33904,Advanced Degree,Accommodation and Food Services,90577610,11799,2005,Male,Virginia,7676.72
+269,269,33905,33905,33905,Unavalble,Accommodation and Food Services,110781567,45070,2005,Male,Virginia,2457.99
+270,270,33906,33906,33906,All Education Categories,Accommodation and Food Services,478000059,146830,2005,Female,Virginia,3255.47
+271,271,33907,33907,33907,Less Than High School,Accommodation and Food Services,74527703,21582,2005,Female,Virginia,3453.23
+272,272,33908,33908,33908,High School Graduate,Accommodation and Food Services,108805305,30117,2005,Female,Virginia,3612.75
+273,273,33909,33909,33909,Some College,Accommodation and Food Services,101845777,25006,2005,Female,Virginia,4072.85
+274,274,33910,33910,33910,Advanced Degree,Accommodation and Food Services,64710465,12451,2005,Female,Virginia,5197.21
+275,275,33911,33911,33911,Unavalble,Accommodation and Food Services,128110809,57674,2005,Female,Virginia,2221.29
+276,276,33936,33936,33936,All Education Categories,00,24950439704,1718123,2006,Male,Virginia,14521.92
+277,277,33937,33937,33937,Less Than High School,00,1556319871,188968,2006,Male,Virginia,8235.89
+278,278,33938,33938,33938,High School Graduate,00,4245634738,402968,2006,Male,Virginia,10535.91
+279,279,33939,33939,33939,Some College,00,5773519625,420585,2006,Male,Virginia,13727.36
+280,280,33940,33940,33940,Advanced Degree,00,12254095902,477834,2006,Male,Virginia,25645.09
+281,281,33941,33941,33941,Unavalble,00,1120869569,227768,2006,Male,Virginia,4921.1
+282,282,33942,33942,33942,All Education Categories,00,14741523882,1707336,2006,Female,Virginia,8634.23
+283,283,33943,33943,33943,Less Than High School,00,758763162,145442,2006,Female,Virginia,5216.95
+284,284,33944,33944,33944,High School Graduate,00,2484002272,379574,2006,Female,Virginia,6544.18
+285,285,33945,33945,33945,Some College,00,3957503673,467577,2006,Female,Virginia,8463.85
+286,286,33946,33946,33946,Advanced Degree,00,6550988987,462615,2006,Female,Virginia,14160.78
+287,287,33947,33947,33947,Unavalble,00,990265788,252128,2006,Female,Virginia,3927.63
+288,288,33996,33996,33996,All Education Categories,Manufacturing,2918652588,214353,2006,Male,Virginia,13616.1
+289,289,33997,33997,33997,Less Than High School,Manufacturing,260020852,27263,2006,Male,Virginia,9537.5
+290,290,33998,33998,33998,High School Graduate,Manufacturing,837541631,71854,2006,Male,Virginia,11656.16
+291,291,33999,33999,33999,Some College,Manufacturing,882345177,62891,2006,Male,Virginia,14029.75
+292,292,34000,34000,34000,Advanced Degree,Manufacturing,832131494,37203,2006,Male,Virginia,22367.32
+293,293,34001,34001,34001,Unavalble,Manufacturing,106613434,15142,2006,Male,Virginia,7040.91
+294,294,34002,34002,34002,All Education Categories,Manufacturing,816557157,89707,2006,Female,Virginia,9102.49
+295,295,34003,34003,34003,Less Than High School,Manufacturing,71711540,11115,2006,Female,Virginia,6451.78
+296,296,34004,34004,34004,High School Graduate,Manufacturing,246657243,31446,2006,Female,Virginia,7843.84
+297,297,34005,34005,34005,Some College,Manufacturing,255422999,26987,2006,Female,Virginia,9464.67
+298,298,34006,34006,34006,Advanced Degree,Manufacturing,208660103,14297,2006,Female,Virginia,14594.68
+299,299,34007,34007,34007,Unavalble,Manufacturing,34105271,5863,2006,Female,Virginia,5817.03
+300,300,34020,34020,34020,All Education Categories,Retail Trade,1639613723,206105,2006,Male,Virginia,7955.24
+301,301,34021,34021,34021,Less Than High School,Retail Trade,159583643,23944,2006,Male,Virginia,6664.87
+302,302,34022,34022,34022,High School Graduate,Retail Trade,427678280,52170,2006,Male,Virginia,8197.78
+303,303,34023,34023,34023,Some College,Retail Trade,451621597,46585,2006,Male,Virginia,9694.57
+304,304,34024,34024,34024,Advanced Degree,Retail Trade,412945690,28963,2006,Male,Virginia,14257.7
+305,305,34025,34025,34025,Unavalble,Retail Trade,187784512,54443,2006,Male,Virginia,3449.19
+306,306,34026,34026,34026,All Education Categories,Retail Trade,1076131500,229694,2006,Female,Virginia,4685.07
+307,307,34027,34027,34027,Less Than High School,Retail Trade,112650131,26272,2006,Female,Virginia,4287.84
+308,308,34028,34028,34028,High School Graduate,Retail Trade,303326607,61779,2006,Female,Virginia,4909.87
+309,309,34029,34029,34029,Some College,Retail Trade,286335582,50923,2006,Female,Virginia,5622.91
+310,310,34030,34030,34030,Advanced Degree,Retail Trade,209057369,26513,2006,Female,Virginia,7885.09
+311,311,34031,34031,34031,Unavalble,Retail Trade,164761811,64206,2006,Female,Virginia,2566.14
+312,312,34056,34056,34056,All Education Categories,Finance and Insurance,1737197234,47528,2006,Male,Virginia,36551.03
+313,313,34057,34057,34057,Less Than High School,Finance and Insurance,21997467,1553,2006,Male,Virginia,14164.5
+314,314,34058,34058,34058,High School Graduate,Finance and Insurance,100000653,5222,2006,Male,Virginia,19149.88
+315,315,34059,34059,34059,Some College,Finance and Insurance,259884480,9965,2006,Male,Virginia,26079.73
+316,316,34060,34060,34060,Advanced Degree,Finance and Insurance,1321976196,27108,2006,Male,Virginia,48767.01
+317,317,34061,34061,34061,Unavalble,Finance and Insurance,33338438,3681,2006,Male,Virginia,9056.9
+318,318,34062,34062,34062,All Education Categories,Finance and Insurance,1229827007,88428,2006,Female,Virginia,13907.67
+319,319,34063,34063,34063,Less Than High School,Finance and Insurance,24837248,3024,2006,Female,Virginia,8213.38
+320,320,34064,34064,34064,High School Graduate,Finance and Insurance,144722016,15446,2006,Female,Virginia,9369.55
+321,321,34065,34065,34065,Some College,Finance and Insurance,288165696,24776,2006,Female,Virginia,11630.84
+322,322,34066,34066,34066,Advanced Degree,Finance and Insurance,709306503,35993,2006,Female,Virginia,19706.79
+323,323,34067,34067,34067,Unavalble,Finance and Insurance,62795544,9189,2006,Female,Virginia,6833.77
+324,324,34116,34116,34116,All Education Categories,Educational Services,1107343899,99871,2006,Male,Virginia,11087.74
+325,325,34117,34117,34117,Less Than High School,Educational Services,43144378,6306,2006,Male,Virginia,6841.8
+326,326,34118,34118,34118,High School Graduate,Educational Services,149248760,17722,2006,Male,Virginia,8421.67
+327,327,34119,34119,34119,Some College,Educational Services,248753568,24749,2006,Male,Virginia,10051.06
+328,328,34120,34120,34120,Advanced Degree,Educational Services,639245942,44870,2006,Male,Virginia,14246.62
+329,329,34121,34121,34121,Unavalble,Educational Services,26951251,6224,2006,Male,Virginia,4330.21
+330,330,34122,34122,34122,All Education Categories,Educational Services,2126103125,249930,2006,Female,Virginia,8506.79
+331,331,34123,34123,34123,Less Than High School,Educational Services,59345752,12410,2006,Female,Virginia,4782.09
+332,332,34124,34124,34124,High School Graduate,Educational Services,304911591,49621,2006,Female,Virginia,6144.81
+333,333,34125,34125,34125,Some College,Educational Services,530958212,68328,2006,Female,Virginia,7770.73
+334,334,34126,34126,34126,Advanced Degree,Educational Services,1160515946,105442,2006,Female,Virginia,11006.2
+335,335,34127,34127,34127,Unavalble,Educational Services,70371623,14129,2006,Female,Virginia,4980.65
+336,336,34128,34128,34128,All Education Categories,Health Care and Social Assistance,1161632649,70584,2006,Male,Virginia,16457.45
+337,337,34129,34129,34129,Less Than High School,Health Care and Social Assistance,44899868,5638,2006,Male,Virginia,7963.79
+338,338,34130,34130,34130,High School Graduate,Health Care and Social Assistance,137688435,13450,2006,Male,Virginia,10237.06
+339,339,34131,34131,34131,Some College,Health Care and Social Assistance,265744993,19212,2006,Male,Virginia,13832.24
+340,340,34132,34132,34132,Advanced Degree,Health Care and Social Assistance,685653908,26498,2006,Male,Virginia,25875.69
+341,341,34133,34133,34133,Unavalble,Health Care and Social Assistance,27645444,5787,2006,Male,Virginia,4777.16
+342,342,34134,34134,34134,All Education Categories,Health Care and Social Assistance,2403075205,286607,2006,Female,Virginia,8384.57
+343,343,34135,34135,34135,Less Than High School,Health Care and Social Assistance,119813245,21632,2006,Female,Virginia,5538.7
+344,344,34136,34136,34136,High School Graduate,Health Care and Social Assistance,405104765,61217,2006,Female,Virginia,6617.52
+345,345,34137,34137,34137,Some College,Health Care and Social Assistance,816315119,98949,2006,Female,Virginia,8249.86
+346,346,34138,34138,34138,Advanced Degree,Health Care and Social Assistance,925256659,76598,2006,Female,Virginia,12079.38
+347,347,34139,34139,34139,Unavalble,Health Care and Social Assistance,136585417,28211,2006,Female,Virginia,4841.57
+348,348,34152,34152,34152,All Education Categories,Accommodation and Food Services,575761829,121879,2006,Male,Virginia,4724.04
+349,349,34153,34153,34153,Less Than High School,Accommodation and Food Services,93913270,19241,2006,Male,Virginia,4880.89
+350,350,34154,34154,34154,High School Graduate,Accommodation and Food Services,134726097,25065,2006,Male,Virginia,5375.07
+351,351,34155,34155,34155,Some College,Accommodation and Food Services,126396798,20613,2006,Male,Virginia,6131.9
+352,352,34156,34156,34156,Advanced Degree,Accommodation and Food Services,100162704,12312,2006,Male,Virginia,8135.37
+353,353,34157,34157,34157,Unavalble,Accommodation and Food Services,120562961,44648,2006,Male,Virginia,2700.3
+354,354,34158,34158,34158,All Education Categories,Accommodation and Food Services,537014557,150159,2006,Female,Virginia,3576.31
+355,355,34159,34159,34159,Less Than High School,Accommodation and Food Services,84127817,22386,2006,Female,Virginia,3758.05
+356,356,34160,34160,34160,High School Graduate,Accommodation and Food Services,122821213,31194,2006,Female,Virginia,3937.33
+357,357,34161,34161,34161,Some College,Accommodation and Food Services,115475447,26068,2006,Female,Virginia,4429.78
+358,358,34162,34162,34162,Advanced Degree,Accommodation and Food Services,73929005,12960,2006,Female,Virginia,5704.4
+359,359,34163,34163,34163,Unavalble,Accommodation and Food Services,140661075,57550,2006,Female,Virginia,2444.15
+360,360,34188,34188,34188,All Education Categories,00,25675625089,1721732,2007,Male,Virginia,14912.67
+361,361,34189,34189,34189,Less Than High School,00,1597985047,187887,2007,Male,Virginia,8505.03
+362,362,34190,34190,34190,High School Graduate,00,4368516843,401437,2007,Male,Virginia,10882.2
+363,363,34191,34191,34191,Some College,00,5981232067,421463,2007,Male,Virginia,14191.59
+364,364,34192,34192,34192,Advanced Degree,00,12604553324,484006,2007,Male,Virginia,26042.14
+365,365,34193,34193,34193,Unavalble,00,1123337808,226939,2007,Male,Virginia,4949.95
+366,366,34194,34194,34194,All Education Categories,00,15551712928,1738095,2007,Female,Virginia,8947.56
+367,367,34195,34195,34195,Less Than High School,00,813428668,149600,2007,Female,Virginia,5437.36
+368,368,34196,34196,34196,High School Graduate,00,2615146885,384777,2007,Female,Virginia,6796.53
+369,369,34197,34197,34197,Some College,00,4192990937,477134,2007,Female,Virginia,8787.87
+370,370,34198,34198,34198,Advanced Degree,00,6916214196,472022,2007,Female,Virginia,14652.31
+371,371,34199,34199,34199,Unavalble,00,1013932241,254562,2007,Female,Virginia,3983.05
+372,372,34248,34248,34248,All Education Categories,Manufacturing,2917367712,204714,2007,Male,Virginia,14250.94
+373,373,34249,34249,34249,Less Than High School,Manufacturing,253456691,25648,2007,Male,Virginia,9882.12
+374,374,34250,34250,34250,High School Graduate,Manufacturing,831714703,68477,2007,Male,Virginia,12145.9
+375,375,34251,34251,34251,Some College,Manufacturing,885757615,60257,2007,Male,Virginia,14699.66
+376,376,34252,34252,34252,Advanced Degree,Manufacturing,842131768,35873,2007,Male,Virginia,23475.36
+377,377,34253,34253,34253,Unavalble,Manufacturing,104306935,14459,2007,Male,Virginia,7213.98
+378,378,34254,34254,34254,All Education Categories,Manufacturing,798030185,83910,2007,Female,Virginia,9510.55
+379,379,34255,34255,34255,Less Than High School,Manufacturing,68516884,10268,2007,Female,Virginia,6672.86
+380,380,34256,34256,34256,High School Graduate,Manufacturing,235218452,29141,2007,Female,Virginia,8071.74
+381,381,34257,34257,34257,Some College,Manufacturing,250452418,25362,2007,Female,Virginia,9875.11
+382,382,34258,34258,34258,Advanced Degree,Manufacturing,211507150,13682,2007,Female,Virginia,15458.79
+383,383,34259,34259,34259,Unavalble,Manufacturing,32335281,5457,2007,Female,Virginia,5925.47
+384,384,34272,34272,34272,All Education Categories,Retail Trade,1621577075,204906,2007,Male,Virginia,7913.76
+385,385,34273,34273,34273,Less Than High School,Retail Trade,163195062,24132,2007,Male,Virginia,6762.6
+386,386,34274,34274,34274,High School Graduate,Retail Trade,426258153,51779,2007,Male,Virginia,8232.26
+387,387,34275,34275,34275,Some College,Retail Trade,448346262,46269,2007,Male,Virginia,9689.99
+388,388,34276,34276,34276,Advanced Degree,Retail Trade,396762389,28550,2007,Male,Virginia,13897.11
+389,389,34277,34277,34277,Unavalble,Retail Trade,187015210,54177,2007,Male,Virginia,3451.93
+390,390,34278,34278,34278,All Education Categories,Retail Trade,1082023819,227314,2007,Female,Virginia,4760.04
+391,391,34279,34279,34279,Less Than High School,Retail Trade,117061656,26501,2007,Female,Virginia,4417.25
+392,392,34280,34280,34280,High School Graduate,Retail Trade,307567992,61226,2007,Female,Virginia,5023.49
+393,393,34281,34281,34281,Some College,Retail Trade,290613889,50705,2007,Female,Virginia,5731.46
+394,394,34282,34282,34282,Advanced Degree,Retail Trade,204236598,26039,2007,Female,Virginia,7843.49
+395,395,34283,34283,34283,Unavalble,Retail Trade,162543684,62843,2007,Female,Virginia,2586.5
+396,396,34308,34308,34308,All Education Categories,Finance and Insurance,1815001164,48688,2007,Male,Virginia,37278.2
+397,397,34309,34309,34309,Less Than High School,Finance and Insurance,24433482,1703,2007,Male,Virginia,14347.32
+398,398,34310,34310,34310,High School Graduate,Finance and Insurance,105270931,5448,2007,Male,Virginia,19322.86
+399,399,34311,34311,34311,Some College,Finance and Insurance,281098546,10270,2007,Male,Virginia,27370.84
+400,400,34312,34312,34312,Advanced Degree,Finance and Insurance,1367320281,27363,2007,Male,Virginia,49969.68
+401,401,34313,34313,34313,Unavalble,Finance and Insurance,36877924,3904,2007,Male,Virginia,9446.19
+402,402,34314,34314,34314,All Education Categories,Finance and Insurance,1324727839,90715,2007,Female,Virginia,14603.18
+403,403,34315,34315,34315,Less Than High School,Finance and Insurance,28917568,3448,2007,Female,Virginia,8386.77
+404,404,34316,34316,34316,High School Graduate,Finance and Insurance,157234332,16006,2007,Female,Virginia,9823.46
+405,405,34317,34317,34317,Some College,Finance and Insurance,308139714,25456,2007,Female,Virginia,12104.8
+406,406,34318,34318,34318,Advanced Degree,Finance and Insurance,764772303,36467,2007,Female,Virginia,20971.63
+407,407,34319,34319,34319,Unavalble,Finance and Insurance,65663922,9337,2007,Female,Virginia,7032.66
+408,408,34368,34368,34368,All Education Categories,Educational Services,1204055775,100246,2007,Male,Virginia,12011.01
+409,409,34369,34369,34369,Less Than High School,Educational Services,48319172,6460,2007,Male,Virginia,7479.75
+410,410,34370,34370,34370,High School Graduate,Educational Services,164830478,18022,2007,Male,Virginia,9146.07
+411,411,34371,34371,34371,Some College,Educational Services,273843384,25018,2007,Male,Virginia,10945.85
+412,412,34372,34372,34372,Advanced Degree,Educational Services,688312961,44126,2007,Male,Virginia,15598.81
+413,413,34373,34373,34373,Unavalble,Educational Services,28749780,6619,2007,Male,Virginia,4343.52
+414,414,34374,34374,34374,All Education Categories,Educational Services,2271482565,252449,2007,Female,Virginia,8997.79
+415,415,34375,34375,34375,Less Than High School,Educational Services,67313247,13003,2007,Female,Virginia,5176.75
+416,416,34376,34376,34376,High School Graduate,Educational Services,329698613,50256,2007,Female,Virginia,6560.38
+417,417,34377,34377,34377,Some College,Educational Services,574653174,69557,2007,Female,Virginia,8261.62
+418,418,34378,34378,34378,Advanced Degree,Educational Services,1226693452,105130,2007,Female,Virginia,11668.35
+419,419,34379,34379,34379,Unavalble,Educational Services,73124079,14503,2007,Female,Virginia,5042.0
+420,420,34380,34380,34380,All Education Categories,Health Care and Social Assistance,1246379886,73356,2007,Male,Virginia,16990.84
+421,421,34381,34381,34381,Less Than High School,Health Care and Social Assistance,49987644,5941,2007,Male,Virginia,8414.01
+422,422,34382,34382,34382,High School Graduate,Health Care and Social Assistance,151255877,14195,2007,Male,Virginia,10655.57
+423,423,34383,34383,34383,Some College,Health Care and Social Assistance,286932129,19848,2007,Male,Virginia,14456.48
+424,424,34384,34384,34384,Advanced Degree,Health Care and Social Assistance,728427342,27190,2007,Male,Virginia,26790.27
+425,425,34385,34385,34385,Unavalble,Health Care and Social Assistance,29776894,6181,2007,Male,Virginia,4817.49
+426,426,34386,34386,34386,All Education Categories,Health Care and Social Assistance,2567635866,301380,2007,Female,Virginia,8519.6
+427,427,34387,34387,34387,Less Than High School,Health Care and Social Assistance,132873545,23484,2007,Female,Virginia,5658.05
+428,428,34388,34388,34388,High School Graduate,Health Care and Social Assistance,436621868,65128,2007,Female,Virginia,6704.06
+429,429,34389,34389,34389,Some College,Health Care and Social Assistance,868937134,103853,2007,Female,Virginia,8366.99
+430,430,34390,34390,34390,Advanced Degree,Health Care and Social Assistance,985280179,79177,2007,Female,Virginia,12444.02
+431,431,34391,34391,34391,Unavalble,Health Care and Social Assistance,143923140,29737,2007,Female,Virginia,4839.87
+432,432,34404,34404,34404,All Education Categories,Accommodation and Food Services,611435902,127408,2007,Male,Virginia,4799.04
+433,433,34405,34405,34405,Less Than High School,Accommodation and Food Services,99886788,20090,2007,Male,Virginia,4971.97
+434,434,34406,34406,34406,High School Graduate,Accommodation and Food Services,143789465,26263,2007,Male,Virginia,5474.98
+435,435,34407,34407,34407,Some College,Accommodation and Food Services,134927931,21637,2007,Male,Virginia,6235.98
+436,436,34408,34408,34408,Advanced Degree,Accommodation and Food Services,107405280,12905,2007,Male,Virginia,8322.76
+437,437,34409,34409,34409,Unavalble,Accommodation and Food Services,125426437,46513,2007,Male,Virginia,2696.59
+438,438,34410,34410,34410,All Education Categories,Accommodation and Food Services,566862216,157371,2007,Female,Virginia,3602.08
+439,439,34411,34411,34411,Less Than High School,Accommodation and Food Services,89938107,23405,2007,Female,Virginia,3842.69
+440,440,34412,34412,34412,High School Graduate,Accommodation and Food Services,129414089,32416,2007,Female,Virginia,3992.29
+441,441,34413,34413,34413,Some College,Accommodation and Food Services,122149076,27258,2007,Female,Virginia,4481.22
+442,442,34414,34414,34414,Advanced Degree,Accommodation and Food Services,78225575,13746,2007,Female,Virginia,5690.79
+443,443,34415,34415,34415,Unavalble,Accommodation and Food Services,147135369,60547,2007,Female,Virginia,2430.1
+444,444,34440,34440,34440,All Education Categories,00,26173503629,1740860,2008,Male,Virginia,15034.81
+445,445,34441,34441,34441,Less Than High School,00,1661544504,192334,2008,Male,Virginia,8638.85
+446,446,34442,34442,34442,High School Graduate,00,4494919897,409110,2008,Male,Virginia,10987.07
+447,447,34443,34443,34443,Some College,00,6145444338,429701,2008,Male,Virginia,14301.68
+448,448,34444,34444,34444,Advanced Degree,00,12766058342,488544,2008,Male,Virginia,26130.83
+449,449,34445,34445,34445,Unavalble,00,1105536549,221171,2008,Male,Virginia,4998.56
+450,450,34446,34446,34446,All Education Categories,00,16077588801,1749179,2008,Female,Virginia,9191.51
+451,451,34447,34447,34447,Less Than High School,00,873601378,154865,2008,Female,Virginia,5641.05
+452,452,34448,34448,34448,High School Graduate,00,2728525875,389745,2008,Female,Virginia,7000.8
+453,453,34449,34449,34449,Some College,00,4355621598,483168,2008,Female,Virginia,9014.71
+454,454,34450,34450,34450,Advanced Degree,00,7108877637,475269,2008,Female,Virginia,14957.59
+455,455,34451,34451,34451,Unavalble,00,1010962313,246132,2008,Female,Virginia,4107.4
+456,456,34500,34500,34500,All Education Categories,Manufacturing,2903266293,203024,2008,Male,Virginia,14300.11
+457,457,34501,34501,34501,Less Than High School,Manufacturing,259039962,25742,2008,Male,Virginia,10062.93
+458,458,34502,34502,34502,High School Graduate,Manufacturing,835037787,68184,2008,Male,Virginia,12246.83
+459,459,34503,34503,34503,Some College,Manufacturing,887559228,59939,2008,Male,Virginia,14807.71
+460,460,34504,34504,34504,Advanced Degree,Manufacturing,819555160,35126,2008,Male,Virginia,23331.87
+461,461,34505,34505,34505,Unavalble,Manufacturing,102074156,14032,2008,Male,Virginia,7274.38
+462,462,34506,34506,34506,All Education Categories,Manufacturing,817481042,82580,2008,Female,Virginia,9899.26
+463,463,34507,34507,34507,Less Than High School,Manufacturing,70633772,10254,2008,Female,Virginia,6888.41
+464,464,34508,34508,34508,High School Graduate,Manufacturing,237972834,28285,2008,Female,Virginia,8413.39
+465,465,34509,34509,34509,Some College,Manufacturing,257509932,25076,2008,Female,Virginia,10269.18
+466,466,34510,34510,34510,Advanced Degree,Manufacturing,219272952,13518,2008,Female,Virginia,16220.81
+467,467,34511,34511,34511,Unavalble,Manufacturing,32091551,5447,2008,Female,Virginia,5891.6
+468,468,34524,34524,34524,All Education Categories,Retail Trade,1627447349,205870,2008,Male,Virginia,7905.22
+469,469,34525,34525,34525,Less Than High School,Retail Trade,166914336,24678,2008,Male,Virginia,6763.69
+470,470,34526,34526,34526,High School Graduate,Retail Trade,430466910,52286,2008,Male,Virginia,8232.93
+471,471,34527,34527,34527,Some College,Retail Trade,450562530,46690,2008,Male,Virginia,9650.09
+472,472,34528,34528,34528,Advanced Degree,Retail Trade,395477399,29017,2008,Male,Virginia,13629.16
+473,473,34529,34529,34529,Unavalble,Retail Trade,184026174,53199,2008,Male,Virginia,3459.2
+474,474,34530,34530,34530,All Education Categories,Retail Trade,1127749752,228417,2008,Female,Virginia,4937.24
+475,475,34531,34531,34531,Less Than High School,Retail Trade,122674365,27219,2008,Female,Virginia,4506.94
+476,476,34532,34532,34532,High School Graduate,Retail Trade,316073456,61734,2008,Female,Virginia,5119.93
+477,477,34533,34533,34533,Some College,Retail Trade,303324443,51782,2008,Female,Virginia,5857.72
+478,478,34534,34534,34534,Advanced Degree,Retail Trade,222441844,27050,2008,Female,Virginia,8223.36
+479,479,34535,34535,34535,Unavalble,Retail Trade,163235645,60632,2008,Female,Virginia,2692.24
+480,480,34560,34560,34560,All Education Categories,Finance and Insurance,1757293301,46838,2008,Male,Virginia,37518.54
+481,481,34561,34561,34561,Less Than High School,Finance and Insurance,25252372,1711,2008,Male,Virginia,14758.84
+482,482,34562,34562,34562,High School Graduate,Finance and Insurance,104724562,5392,2008,Male,Virginia,19422.21
+483,483,34563,34563,34563,Some College,Finance and Insurance,274366508,9983,2008,Male,Virginia,27483.37
+484,484,34564,34564,34564,Advanced Degree,Finance and Insurance,1320939432,26312,2008,Male,Virginia,50202.93
+485,485,34565,34565,34565,Unavalble,Finance and Insurance,32010427,3440,2008,Male,Virginia,9305.36
+486,486,34566,34566,34566,All Education Categories,Finance and Insurance,1303865986,86770,2008,Female,Virginia,15026.69
+487,487,34567,34567,34567,Less Than High School,Finance and Insurance,30091108,3466,2008,Female,Virginia,8681.8
+488,488,34568,34568,34568,High School Graduate,Finance and Insurance,156698770,15562,2008,Female,Virginia,10069.32
+489,489,34569,34569,34569,Some College,Finance and Insurance,306074729,24497,2008,Female,Virginia,12494.38
+490,490,34570,34570,34570,Advanced Degree,Finance and Insurance,753473281,34953,2008,Female,Virginia,21556.76
+491,491,34571,34571,34571,Unavalble,Finance and Insurance,57528098,8293,2008,Female,Virginia,6936.95
+492,492,34620,34620,34620,All Education Categories,Educational Services,1215520722,101744,2008,Male,Virginia,11946.85
+493,493,34621,34621,34621,Less Than High School,Educational Services,51240586,6785,2008,Male,Virginia,7552.04
+494,494,34622,34622,34622,High School Graduate,Educational Services,169886453,18568,2008,Male,Virginia,9149.42
+495,495,34623,34623,34623,Some College,Educational Services,280158625,25561,2008,Male,Virginia,10960.39
+496,496,34624,34624,34624,Advanced Degree,Educational Services,685601105,44306,2008,Male,Virginia,15474.23
+497,497,34625,34625,34625,Unavalble,Educational Services,28633953,6523,2008,Male,Virginia,4389.69
+498,498,34626,34626,34626,All Education Categories,Educational Services,2330944085,256531,2008,Female,Virginia,9086.4
+499,499,34627,34627,34627,Less Than High School,Educational Services,74127928,13846,2008,Female,Virginia,5353.74
+500,500,34628,34628,34628,High School Graduate,Educational Services,344285575,51265,2008,Female,Virginia,6715.8
+501,501,34629,34629,34629,Some College,Educational Services,597179419,71077,2008,Female,Virginia,8401.87
+502,502,34630,34630,34630,Advanced Degree,Educational Services,1242590556,105836,2008,Female,Virginia,11740.72
+503,503,34631,34631,34631,Unavalble,Educational Services,72760608,14507,2008,Female,Virginia,5015.55
+504,504,34632,34632,34632,All Education Categories,Health Care and Social Assistance,1268520017,74601,2008,Male,Virginia,17004.06
+505,505,34633,34633,34633,Less Than High School,Health Care and Social Assistance,54177674,6331,2008,Male,Virginia,8557.52
+506,506,34634,34634,34634,High School Graduate,Health Care and Social Assistance,158380965,14785,2008,Male,Virginia,10712.27
+507,507,34635,34635,34635,Some College,Health Care and Social Assistance,293320370,20305,2008,Male,Virginia,14445.72
+508,508,34636,34636,34636,Advanced Degree,Health Care and Social Assistance,731608045,26923,2008,Male,Virginia,27174.09
+509,509,34637,34637,34637,Unavalble,Health Care and Social Assistance,31032963,6257,2008,Male,Virginia,4959.72
+510,510,34638,34638,34638,All Education Categories,Health Care and Social Assistance,2638656274,300464,2008,Female,Virginia,8781.94
+511,511,34639,34639,34639,Less Than High School,Health Care and Social Assistance,145525390,24406,2008,Female,Virginia,5962.69
+512,512,34640,34640,34640,High School Graduate,Health Care and Social Assistance,459601704,65944,2008,Female,Virginia,6969.58
+513,513,34641,34641,34641,Some College,Health Care and Social Assistance,891046425,102921,2008,Female,Virginia,8657.58
+514,514,34642,34642,34642,Advanced Degree,Health Care and Social Assistance,995060919,77532,2008,Female,Virginia,12834.2
+515,515,34643,34643,34643,Unavalble,Health Care and Social Assistance,147421836,29661,2008,Female,Virginia,4970.22
+516,516,34656,34656,34656,All Education Categories,Accommodation and Food Services,640669670,127531,2008,Male,Virginia,5023.64
+517,517,34657,34657,34657,Less Than High School,Accommodation and Food Services,106441558,20562,2008,Male,Virginia,5176.62
+518,518,34658,34658,34658,High School Graduate,Accommodation and Food Services,152452002,26854,2008,Male,Virginia,5677.07
+519,519,34659,34659,34659,Some College,Accommodation and Food Services,141153840,22110,2008,Male,Virginia,6384.16
+520,520,34660,34660,34660,Advanced Degree,Accommodation and Food Services,112054700,13242,2008,Male,Virginia,8462.07
+521,521,34661,34661,34661,Unavalble,Accommodation and Food Services,128567570,44763,2008,Male,Virginia,2872.18
+522,522,34662,34662,34662,All Education Categories,Accommodation and Food Services,597337269,154393,2008,Female,Virginia,3868.94
+523,523,34663,34663,34663,Less Than High School,Accommodation and Food Services,95346807,23574,2008,Female,Virginia,4044.57
+524,524,34664,34664,34664,High School Graduate,Accommodation and Food Services,136294549,32487,2008,Female,Virginia,4195.36
+525,525,34665,34665,34665,Some College,Accommodation and Food Services,129645868,27558,2008,Female,Virginia,4704.47
+526,526,34666,34666,34666,Advanced Degree,Accommodation and Food Services,85494031,14139,2008,Female,Virginia,6046.68
+527,527,34667,34667,34667,Unavalble,Accommodation and Food Services,150556013,56634,2008,Female,Virginia,2658.4
+528,528,34692,34692,34692,All Education Categories,00,24730213668,1677603,2009,Male,Virginia,14741.4
+529,529,34693,34693,34693,Less Than High School,00,1554295563,185907,2009,Male,Virginia,8360.61
+530,530,34694,34694,34694,High School Graduate,00,4229678624,394646,2009,Male,Virginia,10717.65
+531,531,34695,34695,34695,Some College,00,5836047209,417955,2009,Male,Virginia,13963.34
+532,532,34696,34696,34696,Advanced Degree,00,12160099467,477438,2009,Male,Virginia,25469.48
+533,533,34697,34697,34697,Unavalble,00,950092804,201656,2009,Male,Virginia,4711.45
+534,534,34698,34698,34698,All Education Categories,00,15578180608,1712155,2009,Female,Virginia,9098.58
+535,535,34699,34699,34699,Less Than High School,00,870002575,154887,2009,Female,Virginia,5617.01
+536,536,34700,34700,34700,High School Graduate,00,2664953612,382717,2009,Female,Virginia,6963.25
+537,537,34701,34701,34701,Some College,00,4263932954,476025,2009,Female,Virginia,8957.37
+538,538,34702,34702,34702,Advanced Degree,00,6879347277,468368,2009,Female,Virginia,14687.91
+539,539,34703,34703,34703,Unavalble,00,899944191,230158,2009,Female,Virginia,3910.11
+540,540,34752,34752,34752,All Education Categories,Manufacturing,2515138062,187170,2009,Male,Virginia,13437.72
+541,541,34753,34753,34753,Less Than High School,Manufacturing,225033007,23554,2009,Male,Virginia,9553.92
+542,542,34754,34754,34754,High School Graduate,Manufacturing,729930479,62846,2009,Male,Virginia,11614.59
+543,543,34755,34755,34755,Some College,Manufacturing,774362568,55866,2009,Male,Virginia,13861.07
+544,544,34756,34756,34756,Advanced Degree,Manufacturing,703980176,33095,2009,Male,Virginia,21271.5
+545,545,34757,34757,34757,Unavalble,Manufacturing,81831831,11809,2009,Male,Virginia,6929.62
+546,546,34758,34758,34758,All Education Categories,Manufacturing,684627868,74458,2009,Female,Virginia,9194.82
+547,547,34759,34759,34759,Less Than High School,Manufacturing,59919555,9248,2009,Female,Virginia,6479.19
+548,548,34760,34760,34760,High School Graduate,Manufacturing,198957018,25335,2009,Female,Virginia,7853.05
+549,549,34761,34761,34761,Some College,Manufacturing,217493441,22858,2009,Female,Virginia,9514.98
+550,550,34762,34762,34762,Advanced Degree,Manufacturing,183629517,12597,2009,Female,Virginia,14577.24
+551,551,34763,34763,34763,Unavalble,Manufacturing,24628335,4421,2009,Female,Virginia,5570.76
+552,552,34776,34776,34776,All Education Categories,Retail Trade,1453430589,195924,2009,Male,Virginia,7418.34
+553,553,34777,34777,34777,Less Than High School,Retail Trade,151541267,23821,2009,Male,Virginia,6361.67
+554,554,34778,34778,34778,High School Graduate,Retail Trade,387250714,50149,2009,Male,Virginia,7722.0
+555,555,34779,34779,34779,Some College,Retail Trade,405422149,45031,2009,Male,Virginia,9003.18
+556,556,34780,34780,34780,Advanced Degree,Retail Trade,357139630,28358,2009,Male,Virginia,12593.96
+557,557,34781,34781,34781,Unavalble,Retail Trade,152076829,48566,2009,Male,Virginia,3131.34
+558,558,34782,34782,34782,All Education Categories,Retail Trade,1046043590,220266,2009,Female,Virginia,4749.0
+559,559,34783,34783,34783,Less Than High School,Retail Trade,116482112,26547,2009,Female,Virginia,4387.77
+560,560,34784,34784,34784,High School Graduate,Retail Trade,296046227,59433,2009,Female,Virginia,4981.18
+561,561,34785,34785,34785,Some College,Retail Trade,285726367,50651,2009,Female,Virginia,5641.08
+562,562,34786,34786,34786,Advanced Degree,Retail Trade,206707315,27000,2009,Female,Virginia,7655.83
+563,563,34787,34787,34787,Unavalble,Retail Trade,141081569,56634,2009,Female,Virginia,2491.11
+564,564,34812,34812,34812,All Education Categories,Finance and Insurance,1420478134,44121,2009,Male,Virginia,32195.06
+565,565,34813,34813,34813,Less Than High School,Finance and Insurance,24800428,1799,2009,Male,Virginia,13785.67
+566,566,34814,34814,34814,High School Graduate,Finance and Insurance,96861037,5317,2009,Male,Virginia,18217.23
+567,567,34815,34815,34815,Some College,Finance and Insurance,232499082,9499,2009,Male,Virginia,24476.16
+568,568,34816,34816,34816,Advanced Degree,Finance and Insurance,1037242739,24373,2009,Male,Virginia,42557.04
+569,569,34817,34817,34817,Unavalble,Finance and Insurance,29074847,3133,2009,Male,Virginia,9280.19
+570,570,34818,34818,34818,All Education Categories,Finance and Insurance,1141546239,82717,2009,Female,Virginia,13800.62
+571,571,34819,34819,34819,Less Than High School,Finance and Insurance,30532143,3609,2009,Female,Virginia,8460.0
+572,572,34820,34820,34820,High School Graduate,Finance and Insurance,147834629,15242,2009,Female,Virginia,9699.16
+573,573,34821,34821,34821,Some College,Finance and Insurance,279791394,23673,2009,Female,Virginia,11819.01
+574,574,34822,34822,34822,Advanced Degree,Finance and Insurance,633746785,32926,2009,Female,Virginia,19247.61
+575,575,34823,34823,34823,Unavalble,Finance and Insurance,49641288,7267,2009,Female,Virginia,6831.06
+576,576,34872,34872,34872,All Education Categories,Educational Services,1264011352,105008,2009,Male,Virginia,12037.29
+577,577,34873,34873,34873,Less Than High School,Educational Services,56190839,7263,2009,Male,Virginia,7736.59
+578,578,34874,34874,34874,High School Graduate,Educational Services,180613529,19443,2009,Male,Virginia,9289.39
+579,579,34875,34875,34875,Some College,Educational Services,292538613,26528,2009,Male,Virginia,11027.54
+580,580,34876,34876,34876,Advanced Degree,Educational Services,706658397,45266,2009,Male,Virginia,15611.24
+581,581,34877,34877,34877,Unavalble,Educational Services,28009974,6508,2009,Male,Virginia,4303.93
+582,582,34878,34878,34878,All Education Categories,Educational Services,2422093448,259960,2009,Female,Virginia,9317.18
+583,583,34879,34879,34879,Less Than High School,Educational Services,83171945,14754,2009,Female,Virginia,5637.25
+584,584,34880,34880,34880,High School Graduate,Educational Services,364498270,52181,2009,Female,Virginia,6985.27
+585,585,34881,34881,34881,Some College,Educational Services,627582635,72488,2009,Female,Virginia,8657.75
+586,586,34882,34882,34882,Advanced Degree,Educational Services,1278293706,106576,2009,Female,Virginia,11994.2
+587,587,34883,34883,34883,Unavalble,Educational Services,68546892,13961,2009,Female,Virginia,4909.88
+588,588,34884,34884,34884,All Education Categories,Health Care and Social Assistance,1285336026,74658,2009,Male,Virginia,17216.32
+589,589,34885,34885,34885,Less Than High School,Health Care and Social Assistance,56142683,6581,2009,Male,Virginia,8531.03
+590,590,34886,34886,34886,High School Graduate,Health Care and Social Assistance,163420168,15152,2009,Male,Virginia,10785.39
+591,591,34887,34887,34887,Some College,Health Care and Social Assistance,295491065,20146,2009,Male,Virginia,14667.48
+592,592,34888,34888,34888,Advanced Degree,Health Care and Social Assistance,739001079,26240,2009,Male,Virginia,28163.15
+593,593,34889,34889,34889,Unavalble,Health Care and Social Assistance,31281030,6539,2009,Male,Virginia,4783.76
+594,594,34890,34890,34890,All Education Categories,Health Care and Social Assistance,2663878265,302584,2009,Female,Virginia,8803.76
+595,595,34891,34891,34891,Less Than High School,Health Care and Social Assistance,155793277,25855,2009,Female,Virginia,6025.65
+596,596,34892,34892,34892,High School Graduate,Health Care and Social Assistance,474592446,67456,2009,Female,Virginia,7035.59
+597,597,34893,34893,34893,Some College,Health Care and Social Assistance,901245419,103035,2009,Female,Virginia,8746.98
+598,598,34894,34894,34894,Advanced Degree,Health Care and Social Assistance,987140549,76594,2009,Female,Virginia,12887.96
+599,599,34895,34895,34895,Unavalble,Health Care and Social Assistance,145106573,29644,2009,Female,Virginia,4894.97
+600,600,34908,34908,34908,All Education Categories,Accommodation and Food Services,595975647,128568,2009,Male,Virginia,4635.49
+601,601,34909,34909,34909,Less Than High School,Accommodation and Food Services,102179273,21199,2009,Male,Virginia,4820.0
+602,602,34910,34910,34910,High School Graduate,Accommodation and Food Services,144326005,27576,2009,Male,Virginia,5233.75
+603,603,34911,34911,34911,Some College,Accommodation and Food Services,132930598,22706,2009,Male,Virginia,5854.43
+604,604,34912,34912,34912,Advanced Degree,Accommodation and Food Services,100714551,13582,2009,Male,Virginia,7415.3
+605,605,34913,34913,34913,Unavalble,Accommodation and Food Services,115825219,43504,2009,Male,Virginia,2662.4
+606,606,34914,34914,34914,All Education Categories,Accommodation and Food Services,562441572,153766,2009,Female,Virginia,3657.78
+607,607,34915,34915,34915,Less Than High School,Accommodation and Food Services,90680579,23751,2009,Female,Virginia,3817.97
+608,608,34916,34916,34916,High School Graduate,Accommodation and Food Services,130350749,32582,2009,Female,Virginia,4000.7
+609,609,34917,34917,34917,Some College,Accommodation and Food Services,124528711,27898,2009,Female,Virginia,4463.71
+610,610,34918,34918,34918,Advanced Degree,Accommodation and Food Services,80391323,14526,2009,Female,Virginia,5534.31
+611,611,34919,34919,34919,Unavalble,Accommodation and Food Services,136490210,55010,2009,Female,Virginia,2481.19
+612,612,34944,34944,34944,All Education Categories,00,24279289505,1607394,2010,Male,Virginia,15104.75
+613,613,34945,34945,34945,Less Than High School,00,1556792917,180303,2010,Male,Virginia,8634.32
+614,614,34946,34946,34946,High School Graduate,00,4170646561,380519,2010,Male,Virginia,10960.42
+615,615,34947,34947,34947,Some College,00,5744685506,405018,2010,Male,Virginia,14183.78
+616,616,34948,34948,34948,Advanced Degree,00,11986722345,462404,2010,Male,Virginia,25922.62
+617,617,34949,34949,34949,Unavalble,00,820442177,179151,2010,Male,Virginia,4579.61
+618,618,34950,34950,34950,All Education Categories,00,15189517466,1652209,2010,Female,Virginia,9193.46
+619,619,34951,34951,34951,Less Than High School,00,879093686,152166,2010,Female,Virginia,5777.2
+620,620,34952,34952,34952,High School Graduate,00,2614284359,370066,2010,Female,Virginia,7064.37
+621,621,34953,34953,34953,Some College,00,4177029363,464175,2010,Female,Virginia,8998.82
+622,622,34954,34954,34954,Advanced Degree,00,6743711146,457569,2010,Female,Virginia,14738.13
+623,623,34955,34955,34955,Unavalble,00,775398911,208233,2010,Female,Virginia,3723.71
+624,624,35004,35004,35004,All Education Categories,Manufacturing,2361358158,169192,2010,Male,Virginia,13956.68
+625,625,35005,35005,35005,Less Than High School,Manufacturing,210015419,21185,2010,Male,Virginia,9913.4
+626,626,35006,35006,35006,High School Graduate,Manufacturing,682661495,56728,2010,Male,Virginia,12033.94
+627,627,35007,35007,35007,Some College,Manufacturing,728876216,50887,2010,Male,Virginia,14323.43
+628,628,35008,35008,35008,Advanced Degree,Manufacturing,672767381,30785,2010,Male,Virginia,21853.74
+629,629,35009,35009,35009,Unavalble,Manufacturing,67037647,9609,2010,Male,Virginia,6976.55
+630,630,35010,35010,35010,All Education Categories,Manufacturing,638258908,66734,2010,Female,Virginia,9564.22
+631,631,35011,35011,35011,Less Than High School,Manufacturing,55964187,8224,2010,Female,Virginia,6804.98
+632,632,35012,35012,35012,High School Graduate,Manufacturing,184608693,22595,2010,Female,Virginia,8170.33
+633,633,35013,35013,35013,Some College,Manufacturing,204058043,20714,2010,Female,Virginia,9851.21
+634,634,35014,35014,35014,Advanced Degree,Manufacturing,173746394,11699,2010,Female,Virginia,14851.39
+635,635,35015,35015,35015,Unavalble,Manufacturing,19881590,3502,2010,Female,Virginia,5677.21
+636,636,35028,35028,35028,All Education Categories,Retail Trade,1418654692,188584,2010,Male,Virginia,7522.67
+637,637,35029,35029,35029,Less Than High School,Retail Trade,150143721,23186,2010,Male,Virginia,6475.62
+638,638,35030,35030,35030,High School Graduate,Retail Trade,379634435,48507,2010,Male,Virginia,7826.38
+639,639,35031,35031,35031,Some College,Retail Trade,397486999,43817,2010,Male,Virginia,9071.52
+640,640,35032,35032,35032,Advanced Degree,Retail Trade,353800799,27872,2010,Male,Virginia,12693.77
+641,641,35033,35033,35033,Unavalble,Retail Trade,137588737,45202,2010,Male,Virginia,3043.86
+642,642,35034,35034,35034,All Education Categories,Retail Trade,979446332,208542,2010,Female,Virginia,4696.64
+643,643,35035,35035,35035,Less Than High School,Retail Trade,111365511,25239,2010,Female,Virginia,4412.44
+644,644,35036,35036,35036,High School Graduate,Retail Trade,278027366,56302,2010,Female,Virginia,4938.14
+645,645,35037,35037,35037,Some College,Retail Trade,270518655,48588,2010,Female,Virginia,5567.6
+646,646,35038,35038,35038,Advanced Degree,Retail Trade,196198943,26429,2010,Female,Virginia,7423.62
+647,647,35039,35039,35039,Unavalble,Retail Trade,123335857,51984,2010,Female,Virginia,2372.57
+648,648,35064,35064,35064,All Education Categories,Finance and Insurance,1555446628,42935,2010,Male,Virginia,36227.94
+649,649,35065,35065,35065,Less Than High School,Finance and Insurance,27188997,1839,2010,Male,Virginia,14784.66
+650,650,35066,35066,35066,High School Graduate,Finance and Insurance,101618660,5359,2010,Male,Virginia,18962.24
+651,651,35067,35067,35067,Some College,Finance and Insurance,247381055,9240,2010,Male,Virginia,26772.84
+652,652,35068,35068,35068,Advanced Degree,Finance and Insurance,1152985286,23749,2010,Male,Virginia,48548.79
+653,653,35069,35069,35069,Unavalble,Finance and Insurance,26272630,2749,2010,Male,Virginia,9557.16
+654,654,35070,35070,35070,All Education Categories,Finance and Insurance,1173138364,77132,2010,Female,Virginia,15209.49
+655,655,35071,35071,35071,Less Than High School,Finance and Insurance,31752562,3557,2010,Female,Virginia,8926.78
+656,656,35072,35072,35072,High School Graduate,Finance and Insurance,145737290,14309,2010,Female,Virginia,10185.01
+657,657,35073,35073,35073,Some College,Finance and Insurance,279930479,22152,2010,Female,Virginia,12636.8
+658,658,35074,35074,35074,Advanced Degree,Finance and Insurance,675830144,31242,2010,Female,Virginia,21632.1
+659,659,35075,35075,35075,Unavalble,Finance and Insurance,39887888,5872,2010,Female,Virginia,6792.9
+660,660,35124,35124,35124,All Education Categories,Educational Services,1171397696,95326,2010,Male,Virginia,12288.33
+661,661,35125,35125,35125,Less Than High School,Educational Services,55621124,6983,2010,Male,Virginia,7965.22
+662,662,35126,35126,35126,High School Graduate,Educational Services,174842117,18372,2010,Male,Virginia,9516.77
+663,663,35127,35127,35127,Some College,Educational Services,276431195,24519,2010,Male,Virginia,11274.16
+664,664,35128,35128,35128,Advanced Degree,Educational Services,642885339,40145,2010,Male,Virginia,16014.08
+665,665,35129,35129,35129,Unavalble,Educational Services,21617921,5307,2010,Male,Virginia,4073.47
+666,666,35130,35130,35130,All Education Categories,Educational Services,2269789866,239806,2010,Female,Virginia,9465.11
+667,667,35131,35131,35131,Less Than High School,Educational Services,83561453,14298,2010,Female,Virginia,5844.28
+668,668,35132,35132,35132,High School Graduate,Educational Services,351777403,48774,2010,Female,Virginia,7212.4
+669,669,35133,35133,35133,Some College,Educational Services,596719031,67475,2010,Female,Virginia,8843.56
+670,670,35134,35134,35134,Advanced Degree,Educational Services,1182482326,97779,2010,Female,Virginia,12093.42
+671,671,35135,35135,35135,Unavalble,Educational Services,55249653,11480,2010,Female,Virginia,4812.69
+672,672,35136,35136,35136,All Education Categories,Health Care and Social Assistance,1315280141,80411,2010,Male,Virginia,16356.97
+673,673,35137,35137,35137,Less Than High School,Health Care and Social Assistance,63043673,7415,2010,Male,Virginia,8502.18
+674,674,35138,35138,35138,High School Graduate,Health Care and Social Assistance,174351724,16702,2010,Male,Virginia,10438.97
+675,675,35139,35139,35139,Some College,Health Care and Social Assistance,306650237,21796,2010,Male,Virginia,14069.11
+676,676,35140,35140,35140,Advanced Degree,Health Care and Social Assistance,740140578,27768,2010,Male,Virginia,26654.44
+677,677,35141,35141,35141,Unavalble,Health Care and Social Assistance,31093928,6731,2010,Male,Virginia,4619.51
+678,678,35142,35142,35142,All Education Categories,Health Care and Social Assistance,2739422957,320749,2010,Female,Virginia,8540.71
+679,679,35143,35143,35143,Less Than High School,Health Care and Social Assistance,170403397,28168,2010,Female,Virginia,6049.54
+680,680,35144,35144,35144,High School Graduate,Health Care and Social Assistance,491829995,71301,2010,Female,Virginia,6897.94
+681,681,35145,35145,35145,Some College,Health Care and Social Assistance,916992404,108510,2010,Female,Virginia,8450.76
+682,682,35146,35146,35146,Advanced Degree,Health Care and Social Assistance,1024255887,83645,2010,Female,Virginia,12245.27
+683,683,35147,35147,35147,Unavalble,Health Care and Social Assistance,135941274,29124,2010,Female,Virginia,4667.67
+684,684,35160,35160,35160,All Education Categories,Accommodation and Food Services,570882810,124015,2010,Male,Virginia,4603.34
+685,685,35161,35161,35161,Less Than High School,Accommodation and Food Services,96924930,20561,2010,Male,Virginia,4714.02
+686,686,35162,35162,35162,High School Graduate,Accommodation and Food Services,138628301,27124,2010,Male,Virginia,5110.91
+687,687,35163,35163,35163,Some College,Accommodation and Food Services,128607431,22500,2010,Male,Virginia,5715.89
+688,688,35164,35164,35164,Advanced Degree,Accommodation and Food Services,101833529,13702,2010,Male,Virginia,7432.02
+689,689,35165,35165,35165,Unavalble,Accommodation and Food Services,104888619,40127,2010,Male,Virginia,2613.92
+690,690,35166,35166,35166,All Education Categories,Accommodation and Food Services,526283284,146703,2010,Female,Virginia,3587.41
+691,691,35167,35167,35167,Less Than High School,Accommodation and Food Services,84725283,22266,2010,Female,Virginia,3805.14
+692,692,35168,35168,35168,High School Graduate,Accommodation and Food Services,121928729,30963,2010,Female,Virginia,3937.88
+693,693,35169,35169,35169,Some College,Accommodation and Food Services,117594885,27001,2010,Female,Virginia,4355.2
+694,694,35170,35170,35170,Advanced Degree,Accommodation and Food Services,77824077,14503,2010,Female,Virginia,5366.07
+695,695,35171,35171,35171,Unavalble,Accommodation and Food Services,124210310,51970,2010,Female,Virginia,2390.04
+696,696,35196,35196,35196,All Education Categories,00,25888498731,1631927,2011,Male,Virginia,15863.76
+697,697,35197,35197,35197,Less Than High School,00,1775781887,187973,2011,Male,Virginia,9447.01
+698,698,35198,35198,35198,High School Graduate,00,4562406035,390329,2011,Male,Virginia,11688.62
+699,699,35199,35199,35199,Some College,00,6157618491,412069,2011,Male,Virginia,14943.17
+700,700,35200,35200,35200,Advanced Degree,00,12482865213,459640,2011,Male,Virginia,27157.92
+701,701,35201,35201,35201,Unavalble,00,909827106,181915,2011,Male,Virginia,5001.39
+702,702,35202,35202,35202,All Education Categories,00,16202444906,1662933,2011,Female,Virginia,9743.29
+703,703,35203,35203,35203,Less Than High School,00,1028411323,158501,2011,Female,Virginia,6488.36
+704,704,35204,35204,35204,High School Graduate,00,2862712294,374780,2011,Female,Virginia,7638.38
+705,705,35205,35205,35205,Some College,00,4466364428,466810,2011,Female,Virginia,9567.84
+706,706,35206,35206,35206,Advanced Degree,00,7006453714,456073,2011,Female,Virginia,15362.57
+707,707,35207,35207,35207,Unavalble,00,838503147,206769,2011,Female,Virginia,4055.27
+708,708,35256,35256,35256,All Education Categories,Manufacturing,2496694047,169496,2011,Male,Virginia,14730.11
+709,709,35257,35257,35257,Less Than High School,Manufacturing,225278633,21625,2011,Male,Virginia,10417.51
+710,710,35258,35258,35258,High School Graduate,Manufacturing,720234628,56661,2011,Male,Virginia,12711.29
+711,711,35259,35259,35259,Some College,Manufacturing,764331973,50672,2011,Male,Virginia,15083.91
+712,712,35260,35260,35260,Advanced Degree,Manufacturing,712212411,30738,2011,Male,Virginia,23170.42
+713,713,35261,35261,35261,Unavalble,Manufacturing,74636403,9800,2011,Male,Virginia,7615.96
+714,714,35262,35262,35262,All Education Categories,Manufacturing,676350064,65608,2011,Female,Virginia,10308.96
+715,715,35263,35263,35263,Less Than High School,Manufacturing,60102342,8205,2011,Female,Virginia,7325.09
+716,716,35264,35264,35264,High School Graduate,Manufacturing,193348615,22040,2011,Female,Virginia,8772.62
+717,717,35265,35265,35265,Some College,Manufacturing,214182271,20339,2011,Female,Virginia,10530.62
+718,718,35266,35266,35266,Advanced Degree,Manufacturing,187398131,11727,2011,Female,Virginia,15980.06
+719,719,35267,35267,35267,Unavalble,Manufacturing,21318705,3297,2011,Female,Virginia,6466.09
+720,720,35280,35280,35280,All Education Categories,Retail Trade,1556625297,195582,2011,Male,Virginia,7958.94
+721,721,35281,35281,35281,Less Than High School,Retail Trade,166521290,24151,2011,Male,Virginia,6895.01
+722,722,35282,35282,35282,High School Graduate,Retail Trade,413676796,49983,2011,Male,Virginia,8276.35
+723,723,35283,35283,35283,Some College,Retail Trade,431820859,45408,2011,Male,Virginia,9509.8
+724,724,35284,35284,35284,Advanced Degree,Retail Trade,392964839,29250,2011,Male,Virginia,13434.7
+725,725,35285,35285,35285,Unavalble,Retail Trade,151641514,46790,2011,Male,Virginia,3240.9
+726,726,35286,35286,35286,All Education Categories,Retail Trade,1083293170,210369,2011,Female,Virginia,5149.49
+727,727,35287,35287,35287,Less Than High School,Retail Trade,124005796,25513,2011,Female,Virginia,4860.49
+728,728,35288,35288,35288,High School Graduate,Retail Trade,301702419,56163,2011,Female,Virginia,5371.91
+729,729,35289,35289,35289,Some College,Retail Trade,299435256,49220,2011,Female,Virginia,6083.61
+730,730,35290,35290,35290,Advanced Degree,Retail Trade,215701897,27345,2011,Female,Virginia,7888.17
+731,731,35291,35291,35291,Unavalble,Retail Trade,142447802,52127,2011,Female,Virginia,2732.71
+732,732,35316,35316,35316,All Education Categories,Finance and Insurance,1672939140,42734,2011,Male,Virginia,39147.73
+733,733,35317,35317,35317,Less Than High School,Finance and Insurance,32617517,2064,2011,Male,Virginia,15803.06
+734,734,35318,35318,35318,High School Graduate,Finance and Insurance,118278620,5685,2011,Male,Virginia,20805.39
+735,735,35319,35319,35319,Some College,Finance and Insurance,272947179,9495,2011,Male,Virginia,28746.41
+736,736,35320,35320,35320,Advanced Degree,Finance and Insurance,1219431491,22862,2011,Male,Virginia,53338.79
+737,737,35321,35321,35321,Unavalble,Finance and Insurance,29664333,2628,2011,Male,Virginia,11287.8
+738,738,35322,35322,35322,All Education Categories,Finance and Insurance,1212165250,76357,2011,Female,Virginia,15874.97
+739,739,35323,35323,35323,Less Than High School,Finance and Insurance,38044661,3868,2011,Female,Virginia,9835.74
+740,740,35324,35324,35324,High School Graduate,Finance and Insurance,156551266,14651,2011,Female,Virginia,10685.36
+741,741,35325,35325,35325,Some College,Finance and Insurance,292688990,22240,2011,Female,Virginia,13160.48
+742,742,35326,35326,35326,Advanced Degree,Finance and Insurance,682056557,30194,2011,Female,Virginia,22589.14
+743,743,35327,35327,35327,Unavalble,Finance and Insurance,42823777,5403,2011,Female,Virginia,7925.93
+744,744,35376,35376,35376,All Education Categories,Educational Services,1241763135,102170,2011,Male,Virginia,12153.89
+745,745,35377,35377,35377,Less Than High School,Educational Services,62467090,7711,2011,Male,Virginia,8101.04
+746,746,35378,35378,35378,High School Graduate,Educational Services,186423803,19671,2011,Male,Virginia,9477.09
+747,747,35379,35379,35379,Some College,Educational Services,292085091,26071,2011,Male,Virginia,11203.45
+748,748,35380,35380,35380,Advanced Degree,Educational Services,677668050,42755,2011,Male,Virginia,15850.03
+749,749,35381,35381,35381,Unavalble,Educational Services,23119101,5963,2011,Male,Virginia,3877.09
+750,750,35382,35382,35382,All Education Categories,Educational Services,2315689299,246591,2011,Female,Virginia,9390.81
+751,751,35383,35383,35383,Less Than High School,Educational Services,93289184,15384,2011,Female,Virginia,6064.04
+752,752,35384,35384,35384,High School Graduate,Educational Services,362467089,49983,2011,Female,Virginia,7251.81
+753,753,35385,35385,35385,Some College,Educational Services,610226028,69360,2011,Female,Virginia,8797.95
+754,754,35386,35386,35386,Advanced Degree,Educational Services,1193605131,99942,2011,Female,Virginia,11942.98
+755,755,35387,35387,35387,Unavalble,Educational Services,56101866,11921,2011,Female,Virginia,4706.14
+756,756,35388,35388,35388,All Education Categories,Health Care and Social Assistance,1412728475,81832,2011,Male,Virginia,17263.77
+757,757,35389,35389,35389,Less Than High School,Health Care and Social Assistance,74259481,7839,2011,Male,Virginia,9473.08
+758,758,35390,35390,35390,High School Graduate,Health Care and Social Assistance,193746123,17238,2011,Male,Virginia,11239.48
+759,759,35391,35391,35391,Some College,Health Care and Social Assistance,328989784,22092,2011,Male,Virginia,14891.81
+760,760,35392,35392,35392,Advanced Degree,Health Care and Social Assistance,780291556,27903,2011,Male,Virginia,27964.43
+761,761,35393,35393,35393,Unavalble,Health Care and Social Assistance,35441530,6760,2011,Male,Virginia,5242.83
+762,762,35394,35394,35394,All Education Categories,Health Care and Social Assistance,2910306403,323868,2011,Female,Virginia,8986.09
+763,763,35395,35395,35395,Less Than High School,Health Care and Social Assistance,194793798,29752,2011,Female,Virginia,6547.25
+764,764,35396,35396,35396,High School Graduate,Health Care and Social Assistance,532811869,73092,2011,Female,Virginia,7289.61
+765,765,35397,35397,35397,Some College,Health Care and Social Assistance,969439548,108767,2011,Female,Virginia,8912.99
+766,766,35398,35398,35398,Advanced Degree,Health Care and Social Assistance,1074651442,83761,2011,Female,Virginia,12829.97
+767,767,35399,35399,35399,Unavalble,Health Care and Social Assistance,138609745,28496,2011,Female,Virginia,4864.18
+768,768,35412,35412,35412,All Education Categories,Accommodation and Food Services,663621988,130507,2011,Male,Virginia,5084.95
+769,769,35413,35413,35413,Less Than High School,Accommodation and Food Services,109536501,21571,2011,Male,Virginia,5077.95
+770,770,35414,35414,35414,High School Graduate,Accommodation and Food Services,162033132,28653,2011,Male,Virginia,5655.01
+771,771,35415,35415,35415,Some College,Accommodation and Food Services,153052206,23974,2011,Male,Virginia,6384.09
+772,772,35416,35416,35416,Advanced Degree,Accommodation and Food Services,123019115,14796,2011,Male,Virginia,8314.35
+773,773,35417,35417,35417,Unavalble,Accommodation and Food Services,115981034,41513,2011,Male,Virginia,2793.85
+774,774,35418,35418,35418,All Education Categories,Accommodation and Food Services,613951795,153617,2011,Female,Virginia,3996.64
+775,775,35419,35419,35419,Less Than High School,Accommodation and Food Services,97784728,23395,2011,Female,Virginia,4179.73
+776,776,35420,35420,35420,High School Graduate,Accommodation and Food Services,139913720,32485,2011,Female,Virginia,4307.03
+777,777,35421,35421,35421,Some College,Accommodation and Food Services,140573380,28576,2011,Female,Virginia,4919.28
+778,778,35422,35422,35422,Advanced Degree,Accommodation and Food Services,99252986,15741,2011,Female,Virginia,6305.38
+779,779,35423,35423,35423,Unavalble,Accommodation and Food Services,136426982,53419,2011,Female,Virginia,2553.9
+780,780,35448,35448,35448,All Education Categories,00,27358530083,1667578,2012,Male,Virginia,16406.15
+781,781,35449,35449,35449,Less Than High School,00,1942237651,196140,2012,Male,Virginia,9902.3
+782,782,35450,35450,35450,High School Graduate,00,4904029372,402862,2012,Male,Virginia,12172.98
+783,783,35451,35451,35451,Some College,00,6543164613,423342,2012,Male,Virginia,15455.98
+784,784,35452,35452,35452,Advanced Degree,00,13037921536,464353,2012,Male,Virginia,28077.61
+785,785,35453,35453,35453,Unavalble,00,931176911,180881,2012,Male,Virginia,5148.01
+786,786,35454,35454,35454,All Education Categories,00,17275424233,1701647,2012,Female,Virginia,10152.18
+787,787,35455,35455,35455,Less Than High School,00,1127665554,166611,2012,Female,Virginia,6768.25
+788,788,35456,35456,35456,High School Graduate,00,3084460877,384949,2012,Female,Virginia,8012.65
+789,789,35457,35457,35457,Some College,00,4778885840,478746,2012,Female,Virginia,9982.09
+790,790,35458,35458,35458,Advanced Degree,00,7425020151,465098,2012,Female,Virginia,15964.42
+791,791,35459,35459,35459,Unavalble,00,859391811,206243,2012,Female,Virginia,4166.89
+792,792,35508,35508,35508,All Education Categories,Manufacturing,2774639752,177484,2012,Male,Virginia,15633.18
+793,793,35509,35509,35509,Less Than High School,Manufacturing,257101397,22769,2012,Male,Virginia,11291.73
+794,794,35510,35510,35510,High School Graduate,Manufacturing,807603996,59261,2012,Male,Virginia,13627.92
+795,795,35511,35511,35511,Some College,Manufacturing,846018726,52789,2012,Male,Virginia,16026.42
+796,796,35512,35512,35512,Advanced Degree,Manufacturing,772964875,31572,2012,Male,Virginia,24482.61
+797,797,35513,35513,35513,Unavalble,Manufacturing,90950758,11092,2012,Male,Virginia,8199.67
+798,798,35514,35514,35514,All Education Categories,Manufacturing,729850723,66342,2012,Female,Virginia,11001.34
+799,799,35515,35515,35515,Less Than High School,Manufacturing,65847780,8370,2012,Female,Virginia,7867.12
+800,800,35516,35516,35516,High School Graduate,Manufacturing,209025218,22107,2012,Female,Virginia,9455.16
+801,801,35517,35517,35517,Some College,Manufacturing,234059834,20625,2012,Female,Virginia,11348.36
+802,802,35518,35518,35518,Advanced Degree,Manufacturing,199790095,11919,2012,Female,Virginia,16762.32
+803,803,35519,35519,35519,Unavalble,Manufacturing,21127796,3322,2012,Female,Virginia,6359.96
+804,804,35532,35532,35532,All Education Categories,Retail Trade,1618114446,190922,2012,Male,Virginia,8475.26
+805,805,35533,35533,35533,Less Than High School,Retail Trade,176265496,23944,2012,Male,Virginia,7361.57
+806,806,35534,35534,35534,High School Graduate,Retail Trade,428002837,48881,2012,Male,Virginia,8756.02
+807,807,35535,35535,35535,Some College,Retail Trade,450781271,44867,2012,Male,Virginia,10047.06
+808,808,35536,35536,35536,Advanced Degree,Retail Trade,409816386,29425,2012,Male,Virginia,13927.49
+809,809,35537,35537,35537,Unavalble,Retail Trade,153248457,43803,2012,Male,Virginia,3498.58
+810,810,35538,35538,35538,All Education Categories,Retail Trade,1112513487,204639,2012,Female,Virginia,5436.47
+811,811,35539,35539,35539,Less Than High School,Retail Trade,129083622,25037,2012,Female,Virginia,5155.71
+812,812,35540,35540,35540,High School Graduate,Retail Trade,310116962,54131,2012,Female,Virginia,5729.01
+813,813,35541,35541,35541,Some College,Retail Trade,307088265,48177,2012,Female,Virginia,6374.17
+814,814,35542,35542,35542,Advanced Degree,Retail Trade,229695337,27486,2012,Female,Virginia,8356.81
+815,815,35543,35543,35543,Unavalble,Retail Trade,136529300,49807,2012,Female,Virginia,2741.17
+816,816,35568,35568,35568,All Education Categories,Finance and Insurance,1813166902,46608,2012,Male,Virginia,38902.48
+817,817,35569,35569,35569,Less Than High School,Finance and Insurance,44291779,2456,2012,Male,Virginia,18034.11
+818,818,35570,35570,35570,High School Graduate,Finance and Insurance,136000121,6359,2012,Male,Virginia,21387.03
+819,819,35571,35571,35571,Some College,Finance and Insurance,303826035,10315,2012,Male,Virginia,29454.78
+820,820,35572,35572,35572,Advanced Degree,Finance and Insurance,1297249284,24546,2012,Male,Virginia,52849.72
+821,821,35573,35573,35573,Unavalble,Finance and Insurance,31799684,2932,2012,Male,Virginia,10845.73
+822,822,35574,35574,35574,All Education Categories,Finance and Insurance,1344984296,79228,2012,Female,Virginia,16976.12
+823,823,35575,35575,35575,Less Than High School,Finance and Insurance,45573572,4371,2012,Female,Virginia,10426.35
+824,824,35576,35576,35576,High School Graduate,Finance and Insurance,175707090,15302,2012,Female,Virginia,11482.62
+825,825,35577,35577,35577,Some College,Finance and Insurance,324523351,22985,2012,Female,Virginia,14118.92
+826,826,35578,35578,35578,Advanced Degree,Finance and Insurance,757026505,31229,2012,Female,Virginia,24241.14
+827,827,35579,35579,35579,Unavalble,Finance and Insurance,42153778,5341,2012,Female,Virginia,7892.49
+828,828,35628,35628,35628,All Education Categories,Educational Services,1262942307,105510,2012,Male,Virginia,11969.88
+829,829,35629,35629,35629,Less Than High School,Educational Services,69068524,8387,2012,Male,Virginia,8235.19
+830,830,35630,35630,35630,High School Graduate,Educational Services,199687814,20930,2012,Male,Virginia,9540.75
+831,831,35631,35631,35631,Some College,Educational Services,303561672,27128,2012,Male,Virginia,11189.98
+832,832,35632,35632,35632,Advanced Degree,Educational Services,664283758,42619,2012,Male,Virginia,15586.56
+833,833,35633,35633,35633,Unavalble,Educational Services,26340538,6446,2012,Male,Virginia,4086.34
+834,834,35634,35634,35634,All Education Categories,Educational Services,2467203026,258883,2012,Female,Virginia,9530.19
+835,835,35635,35635,35635,Less Than High School,Educational Services,109546761,16972,2012,Female,Virginia,6454.56
+836,836,35636,35636,35636,High School Graduate,Educational Services,401086449,53001,2012,Female,Virginia,7567.53
+837,837,35637,35637,35637,Some College,Educational Services,660379863,73083,2012,Female,Virginia,9036.03
+838,838,35638,35638,35638,Advanced Degree,Educational Services,1232398005,102540,2012,Female,Virginia,12018.7
+839,839,35639,35639,35639,Unavalble,Educational Services,63791949,13288,2012,Female,Virginia,4800.72
+840,840,35640,35640,35640,All Education Categories,Health Care and Social Assistance,1587061182,85431,2012,Male,Virginia,18577.11
+841,841,35641,35641,35641,Less Than High School,Health Care and Social Assistance,84481832,8578,2012,Male,Virginia,9848.66
+842,842,35642,35642,35642,High School Graduate,Health Care and Social Assistance,219922529,18328,2012,Male,Virginia,11999.27
+843,843,35643,35643,35643,Some College,Health Care and Social Assistance,368935023,22924,2012,Male,Virginia,16093.83
+844,844,35644,35644,35644,Advanced Degree,Health Care and Social Assistance,876482659,28317,2012,Male,Virginia,30952.53
+845,845,35645,35645,35645,Unavalble,Health Care and Social Assistance,37239139,7283,2012,Male,Virginia,5113.16
+846,846,35646,35646,35646,All Education Categories,Health Care and Social Assistance,3279407955,333173,2012,Female,Virginia,9842.96
+847,847,35647,35647,35647,Less Than High School,Health Care and Social Assistance,226388180,32039,2012,Female,Virginia,7066.02
+848,848,35648,35648,35648,High School Graduate,Health Care and Social Assistance,608753686,76029,2012,Female,Virginia,8006.86
+849,849,35649,35649,35649,Some College,Health Care and Social Assistance,1086579097,110854,2012,Female,Virginia,9801.89
+850,850,35650,35650,35650,Advanced Degree,Health Care and Social Assistance,1204125891,84689,2012,Female,Virginia,14218.21
+851,851,35651,35651,35651,Unavalble,Health Care and Social Assistance,153561101,29562,2012,Female,Virginia,5194.54
+852,852,35664,35664,35664,All Education Categories,Accommodation and Food Services,689961772,129047,2012,Male,Virginia,5346.59
+853,853,35665,35665,35665,Less Than High School,Accommodation and Food Services,116228705,21567,2012,Male,Virginia,5389.19
+854,854,35666,35666,35666,High School Graduate,Accommodation and Food Services,166322533,28590,2012,Male,Virginia,5817.51
+855,855,35667,35667,35667,Some College,Accommodation and Food Services,155654938,24085,2012,Male,Virginia,6462.73
+856,856,35668,35668,35668,Advanced Degree,Accommodation and Food Services,130380633,15193,2012,Male,Virginia,8581.63
+857,857,35669,35669,35669,Unavalble,Accommodation and Food Services,121374964,39612,2012,Male,Virginia,3064.1
+858,858,35670,35670,35670,All Education Categories,Accommodation and Food Services,631525151,151519,2012,Female,Virginia,4167.96
+859,859,35671,35671,35671,Less Than High School,Accommodation and Food Services,101570969,23065,2012,Female,Virginia,4403.68
+860,860,35672,35672,35672,High School Graduate,Accommodation and Food Services,144586854,31957,2012,Female,Virginia,4524.42
+861,861,35673,35673,35673,Some College,Accommodation and Food Services,140764553,28263,2012,Female,Virginia,4980.52
+862,862,35674,35674,35674,Advanced Degree,Accommodation and Food Services,97821462,15946,2012,Female,Virginia,6134.55
+863,863,35675,35675,35675,Unavalble,Accommodation and Food Services,146781313,52288,2012,Female,Virginia,2807.17
+864,864,36624,36624,36624,All Education Categories,Educational Services,931150054,89320,2004,Male,Virginia,10424.88
+865,865,36625,36625,36625,Less Than High School,Educational Services,34971006,5506,2004,Male,Virginia,6351.44
+866,866,36626,36626,36626,High School Graduate,Educational Services,124996672,15694,2004,Male,Virginia,7964.62
+867,867,36627,36627,36627,Some College,Educational Services,207380758,21880,2004,Male,Virginia,9478.1
+868,868,36628,36628,36628,Advanced Degree,Educational Services,541957743,40810,2004,Male,Virginia,13280.02
+869,869,36629,36629,36629,Unavalble,Educational Services,21843876,5430,2004,Male,Virginia,4022.81
+870,870,36630,36630,36630,All Education Categories,Educational Services,1794519183,222218,2004,Female,Virginia,8075.49
+871,871,36631,36631,36631,Less Than High School,Educational Services,46089155,10682,2004,Female,Virginia,4314.66
+872,872,36632,36632,36632,High School Graduate,Educational Services,256443524,44711,2004,Female,Virginia,5735.58
+873,873,36633,36633,36633,Some College,Educational Services,439560160,59967,2004,Female,Virginia,7330.03
+874,874,36634,36634,36634,Advanced Degree,Educational Services,995325600,94566,2004,Female,Virginia,10525.2
+875,875,36635,36635,36635,Unavalble,Educational Services,57100745,12292,2004,Female,Virginia,4645.36
+876,876,36720,36720,36720,All Education Categories,Accommodation,109208348,18833,2004,Male,Virginia,5798.78
+877,877,36721,36721,36721,Less Than High School,Accommodation,18084990,3676,2004,Male,Virginia,4919.75
+878,878,36722,36722,36722,High School Graduate,Accommodation,27544256,4908,2004,Male,Virginia,5612.11
+879,879,36723,36723,36723,Some College,Accommodation,27372972,4146,2004,Male,Virginia,6602.26
+880,880,36724,36724,36724,Advanced Degree,Accommodation,25275344,2663,2004,Male,Virginia,9491.3
+881,881,36725,36725,36725,Unavalble,Accommodation,10930786,3439,2004,Male,Virginia,3178.48
+882,882,36726,36726,36726,All Education Categories,Accommodation,107914689,25586,2004,Female,Virginia,4217.72
+883,883,36727,36727,36727,Less Than High School,Accommodation,20673652,5696,2004,Female,Virginia,3629.5
+884,884,36728,36728,36728,High School Graduate,Accommodation,27749152,7003,2004,Female,Virginia,3962.47
+885,885,36729,36729,36729,Some College,Accommodation,27096980,5720,2004,Female,Virginia,4737.23
+886,886,36730,36730,36730,Advanced Degree,Accommodation,19150435,2816,2004,Female,Virginia,6800.58
+887,887,36731,36731,36731,Unavalble,Accommodation,13244470,4352,2004,Female,Virginia,3043.31
+888,888,37812,37812,37812,All Education Categories,Educational Services,997468635,92963,2005,Male,Virginia,10729.74
+889,889,37813,37813,37813,Less Than High School,Educational Services,37645035,5814,2005,Male,Virginia,6474.89
+890,890,37814,37814,37814,High School Graduate,Educational Services,133697244,16495,2005,Male,Virginia,8105.32
+891,891,37815,37815,37815,Some College,Educational Services,222762366,22981,2005,Male,Virginia,9693.33
+892,892,37816,37816,37816,Advanced Degree,Educational Services,579742784,42128,2005,Male,Virginia,13761.46
+893,893,37817,37817,37817,Unavalble,Educational Services,23621206,5544,2005,Male,Virginia,4260.68
+894,894,37818,37818,37818,All Education Categories,Educational Services,1918642610,234498,2005,Female,Virginia,8181.91
+895,895,37819,37819,37819,Less Than High School,Educational Services,50346980,11327,2005,Female,Virginia,4444.86
+896,896,37820,37820,37820,High School Graduate,Educational Services,273793933,47096,2005,Female,Virginia,5813.53
+897,897,37821,37821,37821,Some College,Educational Services,473262086,63706,2005,Female,Virginia,7428.85
+898,898,37822,37822,37822,Advanced Degree,Educational Services,1059487106,99438,2005,Female,Virginia,10654.75
+899,899,37823,37823,37823,Unavalble,Educational Services,61752506,12931,2005,Female,Virginia,4775.54
+900,900,37908,37908,37908,All Education Categories,Accommodation,112702435,18718,2005,Male,Virginia,6021.07
+901,901,37909,37909,37909,Less Than High School,Accommodation,18409990,3659,2005,Male,Virginia,5031.43
+902,902,37910,37910,37910,High School Graduate,Accommodation,27491817,4901,2005,Male,Virginia,5609.43
+903,903,37911,37911,37911,Some College,Accommodation,27836301,4095,2005,Male,Virginia,6797.63
+904,904,37912,37912,37912,Advanced Degree,Accommodation,28329505,2600,2005,Male,Virginia,10895.96
+905,905,37913,37913,37913,Unavalble,Accommodation,10634821,3463,2005,Male,Virginia,3070.98
+906,906,37914,37914,37914,All Education Categories,Accommodation,109654878,25918,2005,Female,Virginia,4230.84
+907,907,37915,37915,37915,Less Than High School,Accommodation,21327744,5734,2005,Female,Virginia,3719.52
+908,908,37916,37916,37916,High School Graduate,Accommodation,28225438,7071,2005,Female,Virginia,3991.72
+909,909,37917,37917,37917,Some College,Accommodation,27305105,5742,2005,Female,Virginia,4755.33
+910,910,37918,37918,37918,Advanced Degree,Accommodation,19276414,2830,2005,Female,Virginia,6811.45
+911,911,37919,37919,37919,Unavalble,Accommodation,13520177,4541,2005,Female,Virginia,2977.36
+912,912,39000,39000,39000,All Education Categories,Educational Services,1107343899,99871,2006,Male,Virginia,11087.74
+913,913,39001,39001,39001,Less Than High School,Educational Services,43144378,6306,2006,Male,Virginia,6841.8
+914,914,39002,39002,39002,High School Graduate,Educational Services,149248760,17722,2006,Male,Virginia,8421.67
+915,915,39003,39003,39003,Some College,Educational Services,248753568,24749,2006,Male,Virginia,10051.06
+916,916,39004,39004,39004,Advanced Degree,Educational Services,639245942,44870,2006,Male,Virginia,14246.62
+917,917,39005,39005,39005,Unavalble,Educational Services,26951251,6224,2006,Male,Virginia,4330.21
+918,918,39006,39006,39006,All Education Categories,Educational Services,2126103125,249930,2006,Female,Virginia,8506.79
+919,919,39007,39007,39007,Less Than High School,Educational Services,59345752,12410,2006,Female,Virginia,4782.09
+920,920,39008,39008,39008,High School Graduate,Educational Services,304911591,49621,2006,Female,Virginia,6144.81
+921,921,39009,39009,39009,Some College,Educational Services,530958212,68328,2006,Female,Virginia,7770.73
+922,922,39010,39010,39010,Advanced Degree,Educational Services,1160515946,105442,2006,Female,Virginia,11006.2
+923,923,39011,39011,39011,Unavalble,Educational Services,70371623,14129,2006,Female,Virginia,4980.65
+924,924,39096,39096,39096,All Education Categories,Accommodation,127451409,19787,2006,Male,Virginia,6441.17
+925,925,39097,39097,39097,Less Than High School,Accommodation,21573170,3875,2006,Male,Virginia,5567.27
+926,926,39098,39098,39098,High School Graduate,Accommodation,31920585,5108,2006,Male,Virginia,6249.14
+927,927,39099,39099,39099,Some College,Accommodation,32039062,4332,2006,Male,Virginia,7395.91
+928,928,39100,39100,39100,Advanced Degree,Accommodation,28927004,2774,2006,Male,Virginia,10427.9
+929,929,39101,39101,39101,Unavalble,Accommodation,12991588,3697,2006,Male,Virginia,3514.09
+930,930,39102,39102,39102,All Education Categories,Accommodation,126449528,27011,2006,Female,Virginia,4681.41
+931,931,39103,39103,39103,Less Than High School,Accommodation,24616162,5978,2006,Female,Virginia,4117.79
+932,932,39104,39104,39104,High School Graduate,Accommodation,32234571,7266,2006,Female,Virginia,4436.36
+933,933,39105,39105,39105,Some College,Accommodation,31525787,6028,2006,Female,Virginia,5229.89
+934,934,39106,39106,39106,Advanced Degree,Accommodation,22234061,2960,2006,Female,Virginia,7511.51
+935,935,39107,39107,39107,Unavalble,Accommodation,15838949,4780,2006,Female,Virginia,3313.59
+936,936,40176,40176,40176,All Education Categories,Educational Services,1204055775,100246,2007,Male,Virginia,12011.01
+937,937,40177,40177,40177,Less Than High School,Educational Services,48319172,6460,2007,Male,Virginia,7479.75
+938,938,40178,40178,40178,High School Graduate,Educational Services,164830478,18022,2007,Male,Virginia,9146.07
+939,939,40179,40179,40179,Some College,Educational Services,273843384,25018,2007,Male,Virginia,10945.85
+940,940,40180,40180,40180,Advanced Degree,Educational Services,688312961,44126,2007,Male,Virginia,15598.81
+941,941,40181,40181,40181,Unavalble,Educational Services,28749780,6619,2007,Male,Virginia,4343.52
+942,942,40182,40182,40182,All Education Categories,Educational Services,2271482565,252449,2007,Female,Virginia,8997.79
+943,943,40183,40183,40183,Less Than High School,Educational Services,67313247,13003,2007,Female,Virginia,5176.75
+944,944,40184,40184,40184,High School Graduate,Educational Services,329698613,50256,2007,Female,Virginia,6560.38
+945,945,40185,40185,40185,Some College,Educational Services,574653174,69557,2007,Female,Virginia,8261.62
+946,946,40186,40186,40186,Advanced Degree,Educational Services,1226693452,105130,2007,Female,Virginia,11668.35
+947,947,40187,40187,40187,Unavalble,Educational Services,73124079,14503,2007,Female,Virginia,5042.0
+948,948,40272,40272,40272,All Education Categories,Accommodation,130864555,19606,2007,Male,Virginia,6674.72
+949,949,40273,40273,40273,Less Than High School,Accommodation,22365917,3857,2007,Male,Virginia,5798.79
+950,950,40274,40274,40274,High School Graduate,Accommodation,33277507,5097,2007,Male,Virginia,6528.84
+951,951,40275,40275,40275,Some College,Accommodation,32721509,4339,2007,Male,Virginia,7541.26
+952,952,40276,40276,40276,Advanced Degree,Accommodation,30240063,2788,2007,Male,Virginia,10846.51
+953,953,40277,40277,40277,Unavalble,Accommodation,12259559,3524,2007,Male,Virginia,3478.88
+954,954,40278,40278,40278,All Education Categories,Accommodation,130404085,26963,2007,Female,Virginia,4836.41
+955,955,40279,40279,40279,Less Than High School,Accommodation,25621318,5972,2007,Female,Virginia,4290.24
+956,956,40280,40280,40280,High School Graduate,Accommodation,33143498,7248,2007,Female,Virginia,4572.78
+957,957,40281,40281,40281,Some College,Accommodation,32661429,6080,2007,Female,Virginia,5371.95
+958,958,40282,40282,40282,Advanced Degree,Accommodation,23466540,3017,2007,Female,Virginia,7778.1
+959,959,40283,40283,40283,Unavalble,Accommodation,15511301,4646,2007,Female,Virginia,3338.64
+960,960,41352,41352,41352,All Education Categories,Educational Services,1215520722,101744,2008,Male,Virginia,11946.85
+961,961,41353,41353,41353,Less Than High School,Educational Services,51240586,6785,2008,Male,Virginia,7552.04
+962,962,41354,41354,41354,High School Graduate,Educational Services,169886453,18568,2008,Male,Virginia,9149.42
+963,963,41355,41355,41355,Some College,Educational Services,280158625,25561,2008,Male,Virginia,10960.39
+964,964,41356,41356,41356,Advanced Degree,Educational Services,685601105,44306,2008,Male,Virginia,15474.23
+965,965,41357,41357,41357,Unavalble,Educational Services,28633953,6523,2008,Male,Virginia,4389.69
+966,966,41358,41358,41358,All Education Categories,Educational Services,2330944085,256531,2008,Female,Virginia,9086.4
+967,967,41359,41359,41359,Less Than High School,Educational Services,74127928,13846,2008,Female,Virginia,5353.74
+968,968,41360,41360,41360,High School Graduate,Educational Services,344285575,51265,2008,Female,Virginia,6715.8
+969,969,41361,41361,41361,Some College,Educational Services,597179419,71077,2008,Female,Virginia,8401.87
+970,970,41362,41362,41362,Advanced Degree,Educational Services,1242590556,105836,2008,Female,Virginia,11740.72
+971,971,41363,41363,41363,Unavalble,Educational Services,72760608,14507,2008,Female,Virginia,5015.55
+972,972,41448,41448,41448,All Education Categories,Accommodation,137525634,20342,2008,Male,Virginia,6760.67
+973,973,41449,41449,41449,Less Than High School,Accommodation,23646164,4012,2008,Male,Virginia,5893.86
+974,974,41450,41450,41450,High School Graduate,Accommodation,35182933,5336,2008,Male,Virginia,6593.5
+975,975,41451,41451,41451,Some College,Accommodation,34489271,4514,2008,Male,Virginia,7640.51
+976,976,41452,41452,41452,Advanced Degree,Accommodation,31269404,2859,2008,Male,Virginia,10937.18
+977,977,41453,41453,41453,Unavalble,Accommodation,12937862,3621,2008,Male,Virginia,3573.01
+978,978,41454,41454,41454,All Education Categories,Accommodation,137472411,27299,2008,Female,Virginia,5035.8
+979,979,41455,41455,41455,Less Than High School,Accommodation,26598495,6044,2008,Female,Virginia,4400.81
+980,980,41456,41456,41456,High School Graduate,Accommodation,34734816,7360,2008,Female,Virginia,4719.4
+981,981,41457,41457,41457,Some College,Accommodation,34258124,6173,2008,Female,Virginia,5549.67
+982,982,41458,41458,41458,Advanced Degree,Accommodation,25443549,3150,2008,Female,Virginia,8077.32
+983,983,41459,41459,41459,Unavalble,Accommodation,16437426,4572,2008,Female,Virginia,3595.24
+984,984,42528,42528,42528,All Education Categories,Educational Services,1264011352,105008,2009,Male,Virginia,12037.29
+985,985,42529,42529,42529,Less Than High School,Educational Services,56190839,7263,2009,Male,Virginia,7736.59
+986,986,42530,42530,42530,High School Graduate,Educational Services,180613529,19443,2009,Male,Virginia,9289.39
+987,987,42531,42531,42531,Some College,Educational Services,292538613,26528,2009,Male,Virginia,11027.54
+988,988,42532,42532,42532,Advanced Degree,Educational Services,706658397,45266,2009,Male,Virginia,15611.24
+989,989,42533,42533,42533,Unavalble,Educational Services,28009974,6508,2009,Male,Virginia,4303.93
+990,990,42534,42534,42534,All Education Categories,Educational Services,2422093448,259960,2009,Female,Virginia,9317.18
+991,991,42535,42535,42535,Less Than High School,Educational Services,83171945,14754,2009,Female,Virginia,5637.25
+992,992,42536,42536,42536,High School Graduate,Educational Services,364498270,52181,2009,Female,Virginia,6985.27
+993,993,42537,42537,42537,Some College,Educational Services,627582635,72488,2009,Female,Virginia,8657.75
+994,994,42538,42538,42538,Advanced Degree,Educational Services,1278293706,106576,2009,Female,Virginia,11994.2
+995,995,42539,42539,42539,Unavalble,Educational Services,68546892,13961,2009,Female,Virginia,4909.88
+996,996,42624,42624,42624,All Education Categories,Accommodation,115852163,18446,2009,Male,Virginia,6280.61
+997,997,42625,42625,42625,Less Than High School,Accommodation,20429795,3717,2009,Male,Virginia,5496.31
+998,998,42626,42626,42626,High School Graduate,Accommodation,30197469,4880,2009,Male,Virginia,6188.01
+999,999,42627,42627,42627,Some College,Accommodation,29126394,4110,2009,Male,Virginia,7086.71
+1000,1000,42628,42628,42628,Advanced Degree,Accommodation,25524498,2680,2009,Male,Virginia,9524.07
+1001,1001,42629,42629,42629,Unavalble,Accommodation,10574007,3059,2009,Male,Virginia,3456.69
+1002,1002,42630,42630,42630,All Education Categories,Accommodation,119181097,25020,2009,Female,Virginia,4763.43
+1003,1003,42631,42631,42631,Less Than High School,Accommodation,23573878,5616,2009,Female,Virginia,4197.63
+1004,1004,42632,42632,42632,High School Graduate,Accommodation,30302533,6678,2009,Female,Virginia,4537.67
+1005,1005,42633,42633,42633,Some College,Accommodation,30274820,5719,2009,Female,Virginia,5293.73
+1006,1006,42634,42634,42634,Advanced Degree,Accommodation,21726992,3022,2009,Female,Virginia,7189.61
+1007,1007,42635,42635,42635,Unavalble,Accommodation,13302874,3985,2009,Female,Virginia,3338.24
+1008,1008,43704,43704,43704,All Education Categories,Educational Services,1171397696,95326,2010,Male,Virginia,12288.33
+1009,1009,43705,43705,43705,Less Than High School,Educational Services,55621124,6983,2010,Male,Virginia,7965.22
+1010,1010,43706,43706,43706,High School Graduate,Educational Services,174842117,18372,2010,Male,Virginia,9516.77
+1011,1011,43707,43707,43707,Some College,Educational Services,276431195,24519,2010,Male,Virginia,11274.16
+1012,1012,43708,43708,43708,Advanced Degree,Educational Services,642885339,40145,2010,Male,Virginia,16014.08
+1013,1013,43709,43709,43709,Unavalble,Educational Services,21617921,5307,2010,Male,Virginia,4073.47
+1014,1014,43710,43710,43710,All Education Categories,Educational Services,2269789866,239806,2010,Female,Virginia,9465.11
+1015,1015,43711,43711,43711,Less Than High School,Educational Services,83561453,14298,2010,Female,Virginia,5844.28
+1016,1016,43712,43712,43712,High School Graduate,Educational Services,351777403,48774,2010,Female,Virginia,7212.4
+1017,1017,43713,43713,43713,Some College,Educational Services,596719031,67475,2010,Female,Virginia,8843.56
+1018,1018,43714,43714,43714,Advanced Degree,Educational Services,1182482326,97779,2010,Female,Virginia,12093.42
+1019,1019,43715,43715,43715,Unavalble,Educational Services,55249653,11480,2010,Female,Virginia,4812.69
+1020,1020,43800,43800,43800,All Education Categories,Accommodation,116680541,18113,2010,Male,Virginia,6441.81
+1021,1021,43801,43801,43801,Less Than High School,Accommodation,19273985,3578,2010,Male,Virginia,5386.8
+1022,1022,43802,43802,43802,High School Graduate,Accommodation,29009512,4812,2010,Male,Virginia,6028.58
+1023,1023,43803,43803,43803,Some College,Accommodation,29199250,4075,2010,Male,Virginia,7165.46
+1024,1024,43804,43804,43804,Advanced Degree,Accommodation,29748848,2718,2010,Male,Virginia,10945.12
+1025,1025,43805,43805,43805,Unavalble,Accommodation,9448947,2929,2010,Male,Virginia,3226.0
+1026,1026,43806,43806,43806,All Education Categories,Accommodation,112258094,23983,2010,Female,Virginia,4680.74
+1027,1027,43807,43807,43807,Less Than High School,Accommodation,22047395,5319,2010,Female,Virginia,4145.03
+1028,1028,43808,43808,43808,High School Graduate,Accommodation,28085310,6374,2010,Female,Virginia,4406.23
+1029,1029,43809,43809,43809,Some College,Accommodation,28783067,5562,2010,Female,Virginia,5174.95
+1030,1030,43810,43810,43810,Advanced Degree,Accommodation,22057898,3023,2010,Female,Virginia,7296.69
+1031,1031,43811,43811,43811,Unavalble,Accommodation,11284424,3706,2010,Female,Virginia,3044.91
+1032,1032,44892,44892,44892,All Education Categories,Educational Services,1241763135,102170,2011,Male,Virginia,12153.89
+1033,1033,44893,44893,44893,Less Than High School,Educational Services,62467090,7711,2011,Male,Virginia,8101.04
+1034,1034,44894,44894,44894,High School Graduate,Educational Services,186423803,19671,2011,Male,Virginia,9477.09
+1035,1035,44895,44895,44895,Some College,Educational Services,292085091,26071,2011,Male,Virginia,11203.45
+1036,1036,44896,44896,44896,Advanced Degree,Educational Services,677668050,42755,2011,Male,Virginia,15850.03
+1037,1037,44897,44897,44897,Unavalble,Educational Services,23119101,5963,2011,Male,Virginia,3877.09
+1038,1038,44898,44898,44898,All Education Categories,Educational Services,2315689299,246591,2011,Female,Virginia,9390.81
+1039,1039,44899,44899,44899,Less Than High School,Educational Services,93289184,15384,2011,Female,Virginia,6064.04
+1040,1040,44900,44900,44900,High School Graduate,Educational Services,362467089,49983,2011,Female,Virginia,7251.81
+1041,1041,44901,44901,44901,Some College,Educational Services,610226028,69360,2011,Female,Virginia,8797.95
+1042,1042,44902,44902,44902,Advanced Degree,Educational Services,1193605131,99942,2011,Female,Virginia,11942.98
+1043,1043,44903,44903,44903,Unavalble,Educational Services,56101866,11921,2011,Female,Virginia,4706.14
+1044,1044,44988,44988,44988,All Education Categories,Accommodation,126800201,18398,2011,Male,Virginia,6892.06
+1045,1045,44989,44989,44989,Less Than High School,Accommodation,20547216,3581,2011,Male,Virginia,5737.84
+1046,1046,44990,44990,44990,High School Graduate,Accommodation,31461909,4868,2011,Male,Virginia,6463.01
+1047,1047,44991,44991,44991,Some College,Accommodation,31593169,4156,2011,Male,Virginia,7601.82
+1048,1048,44992,44992,44992,Advanced Degree,Accommodation,32110897,2773,2011,Male,Virginia,11579.84
+1049,1049,44993,44993,44993,Unavalble,Accommodation,11087009,3020,2011,Male,Virginia,3671.2
+1050,1050,44994,44994,44994,All Education Categories,Accommodation,121194892,24372,2011,Female,Virginia,4972.71
+1051,1051,44995,44995,44995,Less Than High School,Accommodation,24017252,5437,2011,Female,Virginia,4417.37
+1052,1052,44996,44996,44996,High School Graduate,Accommodation,30189702,6539,2011,Female,Virginia,4616.87
+1053,1053,44997,44997,44997,Some College,Accommodation,30941190,5688,2011,Female,Virginia,5439.73
+1054,1054,44998,44998,44998,Advanced Degree,Accommodation,24693063,3121,2011,Female,Virginia,7911.91
+1055,1055,44999,44999,44999,Unavalble,Accommodation,11353685,3586,2011,Female,Virginia,3166.11
+1056,1056,46080,46080,46080,All Education Categories,Educational Services,1262942307,105510,2012,Male,Virginia,11969.88
+1057,1057,46081,46081,46081,Less Than High School,Educational Services,69068524,8387,2012,Male,Virginia,8235.19
+1058,1058,46082,46082,46082,High School Graduate,Educational Services,199687814,20930,2012,Male,Virginia,9540.75
+1059,1059,46083,46083,46083,Some College,Educational Services,303561672,27128,2012,Male,Virginia,11189.98
+1060,1060,46084,46084,46084,Advanced Degree,Educational Services,664283758,42619,2012,Male,Virginia,15586.56
+1061,1061,46085,46085,46085,Unavalble,Educational Services,26340538,6446,2012,Male,Virginia,4086.34
+1062,1062,46086,46086,46086,All Education Categories,Educational Services,2467203026,258883,2012,Female,Virginia,9530.19
+1063,1063,46087,46087,46087,Less Than High School,Educational Services,109546761,16972,2012,Female,Virginia,6454.56
+1064,1064,46088,46088,46088,High School Graduate,Educational Services,401086449,53001,2012,Female,Virginia,7567.53
+1065,1065,46089,46089,46089,Some College,Educational Services,660379863,73083,2012,Female,Virginia,9036.03
+1066,1066,46090,46090,46090,Advanced Degree,Educational Services,1232398005,102540,2012,Female,Virginia,12018.7
+1067,1067,46091,46091,46091,Unavalble,Educational Services,63791949,13288,2012,Female,Virginia,4800.72
+1068,1068,46176,46176,46176,All Education Categories,Accommodation,141237641,18758,2012,Male,Virginia,7529.46
+1069,1069,46177,46177,46177,Less Than High School,Accommodation,22425374,3669,2012,Male,Virginia,6112.12
+1070,1070,46178,46178,46178,High School Graduate,Accommodation,34419596,4969,2012,Male,Virginia,6926.87
+1071,1071,46179,46179,46179,Some College,Accommodation,34914163,4329,2012,Male,Virginia,8065.18
+1072,1072,46180,46180,46180,Advanced Degree,Accommodation,39855235,2918,2012,Male,Virginia,13658.41
+1073,1073,46181,46181,46181,Unavalble,Accommodation,9623274,2873,2012,Male,Virginia,3349.56
+1074,1074,46182,46182,46182,All Education Categories,Accommodation,132615578,24931,2012,Female,Virginia,5319.3
+1075,1075,46183,46183,46183,Less Than High School,Accommodation,25693480,5516,2012,Female,Virginia,4657.99
+1076,1076,46184,46184,46184,High School Graduate,Accommodation,33147196,6678,2012,Female,Virginia,4963.64
+1077,1077,46185,46185,46185,Some College,Accommodation,33829840,5861,2012,Female,Virginia,5772.03
+1078,1078,46186,46186,46186,Advanced Degree,Accommodation,27356243,3256,2012,Female,Virginia,8401.79
+1079,1079,46187,46187,46187,Unavalble,Accommodation,12588819,3620,2012,Female,Virginia,3477.57

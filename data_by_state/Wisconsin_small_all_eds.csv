@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,2964,2964,All Education Categories,"Colleges, Universities, and Professional Schools",323045199,23624,2004,Male,Wisconsin,13674.45
+1,1,2965,2965,Less Than High School,"Colleges, Universities, and Professional Schools",4934386,652,2004,Male,Wisconsin,7568.08
+2,2,2966,2966,High School Graduate,"Colleges, Universities, and Professional Schools",27993061,3068,2004,Male,Wisconsin,9124.21
+3,3,2967,2967,Some College,"Colleges, Universities, and Professional Schools",59064863,5142,2004,Male,Wisconsin,11486.75
+4,4,2968,2968,Advanced Degree,"Colleges, Universities, and Professional Schools",227563185,13678,2004,Male,Wisconsin,16637.17
+5,5,2969,2969,Unavalble,"Colleges, Universities, and Professional Schools",3489704,1085,2004,Male,Wisconsin,3216.32
+6,6,2970,2970,All Education Categories,"Colleges, Universities, and Professional Schools",247597131,26735,2004,Female,Wisconsin,9261.16
+7,7,2971,2971,Less Than High School,"Colleges, Universities, and Professional Schools",3549192,615,2004,Female,Wisconsin,5771.04
+8,8,2972,2972,High School Graduate,"Colleges, Universities, and Professional Schools",30845677,4512,2004,Female,Wisconsin,6836.36
+9,9,2973,2973,Some College,"Colleges, Universities, and Professional Schools",61269852,7498,2004,Female,Wisconsin,8171.49
+10,10,2974,2974,Advanced Degree,"Colleges, Universities, and Professional Schools",146919048,12724,2004,Female,Wisconsin,11546.61
+11,11,2975,2975,Unavalble,"Colleges, Universities, and Professional Schools",5013362,1386,2004,Female,Wisconsin,3617.14
+12,12,6624,6624,All Education Categories,"Colleges, Universities, and Professional Schools",339638935,23735,2005,Male,Wisconsin,14309.62
+13,13,6625,6625,Less Than High School,"Colleges, Universities, and Professional Schools",5414300,661,2005,Male,Wisconsin,8191.07
+14,14,6626,6626,High School Graduate,"Colleges, Universities, and Professional Schools",30574298,3101,2005,Male,Wisconsin,9859.5
+15,15,6627,6627,Some College,"Colleges, Universities, and Professional Schools",63619367,5210,2005,Male,Wisconsin,12211.01
+16,16,6628,6628,Advanced Degree,"Colleges, Universities, and Professional Schools",236525598,13677,2005,Male,Wisconsin,17293.68
+17,17,6629,6629,Unavalble,"Colleges, Universities, and Professional Schools",3505371,1084,2005,Male,Wisconsin,3233.74
+18,18,6630,6630,All Education Categories,"Colleges, Universities, and Professional Schools",264654015,27079,2005,Female,Wisconsin,9773.4
+19,19,6631,6631,Less Than High School,"Colleges, Universities, and Professional Schools",3943877,633,2005,Female,Wisconsin,6230.45
+20,20,6632,6632,High School Graduate,"Colleges, Universities, and Professional Schools",33058578,4490,2005,Female,Wisconsin,7362.71
+21,21,6633,6633,Some College,"Colleges, Universities, and Professional Schools",66202308,7626,2005,Female,Wisconsin,8681.13
+22,22,6634,6634,Advanced Degree,"Colleges, Universities, and Professional Schools",156573241,12925,2005,Female,Wisconsin,12113.98
+23,23,6635,6635,Unavalble,"Colleges, Universities, and Professional Schools",4876011,1406,2005,Female,Wisconsin,3468.0
+24,24,10284,10284,All Education Categories,"Colleges, Universities, and Professional Schools",416561720,24263,2006,Male,Wisconsin,17168.6
+25,25,10285,10285,Less Than High School,"Colleges, Universities, and Professional Schools",6815449,712,2006,Male,Wisconsin,9572.26
+26,26,10286,10286,High School Graduate,"Colleges, Universities, and Professional Schools",36329559,3185,2006,Male,Wisconsin,11406.45
+27,27,10287,10287,Some College,"Colleges, Universities, and Professional Schools",77200016,5360,2006,Male,Wisconsin,14402.99
+28,28,10288,10288,Advanced Degree,"Colleges, Universities, and Professional Schools",292444019,13945,2006,Male,Wisconsin,20971.25
+29,29,10289,10289,Unavalble,"Colleges, Universities, and Professional Schools",3772678,1061,2006,Male,Wisconsin,3555.78
+30,30,10290,10290,All Education Categories,"Colleges, Universities, and Professional Schools",322352184,27516,2006,Female,Wisconsin,11715.08
+31,31,10291,10291,Less Than High School,"Colleges, Universities, and Professional Schools",4728021,658,2006,Female,Wisconsin,7185.44
+32,32,10292,10292,High School Graduate,"Colleges, Universities, and Professional Schools",38411856,4543,2006,Female,Wisconsin,8455.17
+33,33,10293,10293,Some College,"Colleges, Universities, and Professional Schools",79194423,7757,2006,Female,Wisconsin,10209.41
+34,34,10294,10294,Advanced Degree,"Colleges, Universities, and Professional Schools",194571075,13179,2006,Female,Wisconsin,14763.72
+35,35,10295,10295,Unavalble,"Colleges, Universities, and Professional Schools",5446808,1378,2006,Female,Wisconsin,3952.69
+36,36,13944,13944,All Education Categories,"Colleges, Universities, and Professional Schools",432376707,24319,2007,Male,Wisconsin,17779.38
+37,37,13945,13945,Less Than High School,"Colleges, Universities, and Professional Schools",7579754,745,2007,Male,Wisconsin,10174.17
+38,38,13946,13946,High School Graduate,"Colleges, Universities, and Professional Schools",38926725,3264,2007,Male,Wisconsin,11926.08
+39,39,13947,13947,Some College,"Colleges, Universities, and Professional Schools",81301321,5446,2007,Male,Wisconsin,14928.63
+40,40,13948,13948,Advanced Degree,"Colleges, Universities, and Professional Schools",300632218,13829,2007,Male,Wisconsin,21739.26
+41,41,13949,13949,Unavalble,"Colleges, Universities, and Professional Schools",3936689,1037,2007,Male,Wisconsin,3796.23
+42,42,13950,13950,All Education Categories,"Colleges, Universities, and Professional Schools",341777570,27932,2007,Female,Wisconsin,12236.06
+43,43,13951,13951,Less Than High School,"Colleges, Universities, and Professional Schools",5362619,703,2007,Female,Wisconsin,7628.19
+44,44,13952,13952,High School Graduate,"Colleges, Universities, and Professional Schools",41171492,4609,2007,Female,Wisconsin,8932.85
+45,45,13953,13953,Some College,"Colleges, Universities, and Professional Schools",85434443,7942,2007,Female,Wisconsin,10757.3
+46,46,13954,13954,Advanced Degree,"Colleges, Universities, and Professional Schools",204005497,13290,2007,Female,Wisconsin,15350.3
+47,47,13955,13955,Unavalble,"Colleges, Universities, and Professional Schools",5803518,1387,2007,Female,Wisconsin,4184.22
+48,48,17616,17616,All Education Categories,"Colleges, Universities, and Professional Schools",391392299,24725,2008,Male,Wisconsin,15829.82
+49,49,17617,17617,Less Than High School,"Colleges, Universities, and Professional Schools",7731064,816,2008,Male,Wisconsin,9474.34
+50,50,17618,17618,High School Graduate,"Colleges, Universities, and Professional Schools",37557001,3375,2008,Male,Wisconsin,11128.0
+51,51,17619,17619,Some College,"Colleges, Universities, and Professional Schools",75824544,5599,2008,Male,Wisconsin,13542.52
+52,52,17620,17620,Advanced Degree,"Colleges, Universities, and Professional Schools",266440203,13826,2008,Male,Wisconsin,19270.95
+53,53,17621,17621,Unavalble,"Colleges, Universities, and Professional Schools",3839487,1109,2008,Male,Wisconsin,3462.12
+54,54,17622,17622,All Education Categories,"Colleges, Universities, and Professional Schools",323040001,28735,2008,Female,Wisconsin,11242.04
+55,55,17623,17623,Less Than High School,"Colleges, Universities, and Professional Schools",5800094,764,2008,Female,Wisconsin,7591.75
+56,56,17624,17624,High School Graduate,"Colleges, Universities, and Professional Schools",41216940,4771,2008,Female,Wisconsin,8639.06
+57,57,17625,17625,Some College,"Colleges, Universities, and Professional Schools",83287438,8252,2008,Female,Wisconsin,10093.0
+58,58,17626,17626,Advanced Degree,"Colleges, Universities, and Professional Schools",187420632,13538,2008,Female,Wisconsin,13844.04
+59,59,17627,17627,Unavalble,"Colleges, Universities, and Professional Schools",5314898,1410,2008,Female,Wisconsin,3769.43
+60,60,21312,21312,All Education Categories,"Colleges, Universities, and Professional Schools",387674337,24839,2009,Male,Wisconsin,15607.49
+61,61,21313,21313,Less Than High School,"Colleges, Universities, and Professional Schools",8509011,887,2009,Male,Wisconsin,9593.02
+62,62,21314,21314,High School Graduate,"Colleges, Universities, and Professional Schools",38214277,3505,2009,Male,Wisconsin,10902.79
+63,63,21315,21315,Some College,"Colleges, Universities, and Professional Schools",75845409,5699,2009,Male,Wisconsin,13308.55
+64,64,21316,21316,Advanced Degree,"Colleges, Universities, and Professional Schools",260918633,13581,2009,Male,Wisconsin,19212.03
+65,65,21317,21317,Unavalble,"Colleges, Universities, and Professional Schools",4187007,1167,2009,Male,Wisconsin,3587.84
+66,66,21318,21318,All Education Categories,"Colleges, Universities, and Professional Schools",330023394,29529,2009,Female,Wisconsin,11176.25
+67,67,21319,21319,Less Than High School,"Colleges, Universities, and Professional Schools",6692476,882,2009,Female,Wisconsin,7587.84
+68,68,21320,21320,High School Graduate,"Colleges, Universities, and Professional Schools",42718226,4988,2009,Female,Wisconsin,8564.2
+69,69,21321,21321,Some College,"Colleges, Universities, and Professional Schools",85560870,8529,2009,Female,Wisconsin,10031.76
+70,70,21322,21322,Advanced Degree,"Colleges, Universities, and Professional Schools",189298921,13662,2009,Female,Wisconsin,13855.87
+71,71,21323,21323,Unavalble,"Colleges, Universities, and Professional Schools",5752902,1469,2009,Female,Wisconsin,3916.2
+72,72,24984,24984,All Education Categories,"Colleges, Universities, and Professional Schools",391571863,25412,2010,Male,Wisconsin,15408.94
+73,73,24985,24985,Less Than High School,"Colleges, Universities, and Professional Schools",9832406,1013,2010,Male,Wisconsin,9706.23
+74,74,24986,24986,High School Graduate,"Colleges, Universities, and Professional Schools",40774261,3741,2010,Male,Wisconsin,10899.29
+75,75,24987,24987,Some College,"Colleges, Universities, and Professional Schools",78123110,5888,2010,Male,Wisconsin,13268.19
+76,76,24988,24988,Advanced Degree,"Colleges, Universities, and Professional Schools",258552233,13503,2010,Male,Wisconsin,19147.76
+77,77,24989,24989,Unavalble,"Colleges, Universities, and Professional Schools",4289853,1267,2010,Male,Wisconsin,3385.84
+78,78,24990,24990,All Education Categories,"Colleges, Universities, and Professional Schools",337214167,30150,2010,Female,Wisconsin,11184.55
+79,79,24991,24991,Less Than High School,"Colleges, Universities, and Professional Schools",7948373,991,2010,Female,Wisconsin,8020.56
+80,80,24992,24992,High School Graduate,"Colleges, Universities, and Professional Schools",45238000,5157,2010,Female,Wisconsin,8772.15
+81,81,24993,24993,Some College,"Colleges, Universities, and Professional Schools",88630132,8740,2010,Female,Wisconsin,10140.75
+82,82,24994,24994,Advanced Degree,"Colleges, Universities, and Professional Schools",189941705,13808,2010,Female,Wisconsin,13755.92
+83,83,24995,24995,Unavalble,"Colleges, Universities, and Professional Schools",5455957,1454,2010,Female,Wisconsin,3752.38
+84,84,28668,28668,All Education Categories,"Colleges, Universities, and Professional Schools",478638730,25863,2011,Male,Wisconsin,18506.7
+85,85,28669,28669,Less Than High School,"Colleges, Universities, and Professional Schools",13287087,1154,2011,Male,Wisconsin,11513.94
+86,86,28670,28670,High School Graduate,"Colleges, Universities, and Professional Schools",50679418,3984,2011,Male,Wisconsin,12720.74
+87,87,28671,28671,Some College,"Colleges, Universities, and Professional Schools",96083635,6101,2011,Male,Wisconsin,15748.83
+88,88,28672,28672,Advanced Degree,"Colleges, Universities, and Professional Schools",313932861,13454,2011,Male,Wisconsin,23333.79
+89,89,28673,28673,Unavalble,"Colleges, Universities, and Professional Schools",4655729,1170,2011,Male,Wisconsin,3979.26
+90,90,28674,28674,All Education Categories,"Colleges, Universities, and Professional Schools",407096427,31003,2011,Female,Wisconsin,13130.87
+91,91,28675,28675,Less Than High School,"Colleges, Universities, and Professional Schools",10594304,1114,2011,Female,Wisconsin,9510.15
+92,92,28676,28676,High School Graduate,"Colleges, Universities, and Professional Schools",54743197,5420,2011,Female,Wisconsin,10100.22
+93,93,28677,28677,Some College,"Colleges, Universities, and Professional Schools",106410728,9061,2011,Female,Wisconsin,11743.82
+94,94,28678,28678,Advanced Degree,"Colleges, Universities, and Professional Schools",229508348,14009,2011,Female,Wisconsin,16382.92
+95,95,28679,28679,Unavalble,"Colleges, Universities, and Professional Schools",5839849,1399,2011,Female,Wisconsin,4174.3
+96,96,32376,32376,All Education Categories,"Colleges, Universities, and Professional Schools",485665455,25430,2012,Male,Wisconsin,19098.13
+97,97,32377,32377,Less Than High School,"Colleges, Universities, and Professional Schools",15126635,1242,2012,Male,Wisconsin,12179.26
+98,98,32378,32378,High School Graduate,"Colleges, Universities, and Professional Schools",54243683,4088,2012,Male,Wisconsin,13269.0
+99,99,32379,32379,Some College,"Colleges, Universities, and Professional Schools",99516082,6085,2012,Male,Wisconsin,16354.33
+100,100,32380,32380,Advanced Degree,"Colleges, Universities, and Professional Schools",312070370,12844,2012,Male,Wisconsin,24296.98
+101,101,32381,32381,Unavalble,"Colleges, Universities, and Professional Schools",4708683,1171,2012,Male,Wisconsin,4021.08
+102,102,32382,32382,All Education Categories,"Colleges, Universities, and Professional Schools",420284303,30909,2012,Female,Wisconsin,13597.47
+103,103,32383,32383,Less Than High School,"Colleges, Universities, and Professional Schools",12435609,1231,2012,Female,Wisconsin,10102.04
+104,104,32384,32384,High School Graduate,"Colleges, Universities, and Professional Schools",58392114,5521,2012,Female,Wisconsin,10576.37
+105,105,32385,32385,Some College,"Colleges, Universities, and Professional Schools",110818393,9076,2012,Female,Wisconsin,12210.05
+106,106,32386,32386,Advanced Degree,"Colleges, Universities, and Professional Schools",232226003,13694,2012,Female,Wisconsin,16958.23
+107,107,32387,32387,Unavalble,"Colleges, Universities, and Professional Schools",6412185,1388,2012,Female,Wisconsin,4619.73
+108,108,34008,34008,All Education Categories,Educational Services,762620614,70637,2004,Male,Wisconsin,10796.33
+109,109,34009,34009,Less Than High School,Educational Services,17130093,2624,2004,Male,Wisconsin,6528.24
+110,110,34010,34010,High School Graduate,Educational Services,97879559,12099,2004,Male,Wisconsin,8089.89
+111,111,34011,34011,Some College,Educational Services,169044470,17204,2004,Male,Wisconsin,9825.88
+112,112,34012,34012,Advanced Degree,Educational Services,467166014,34845,2004,Male,Wisconsin,13406.97
+113,113,34013,34013,Unavalble,Educational Services,11400479,3865,2004,Male,Wisconsin,2949.67
+114,114,34014,34014,All Education Categories,Educational Services,1148355410,141988,2004,Female,Wisconsin,8087.69
+115,115,34015,34015,Less Than High School,Educational Services,19706277,4194,2004,Female,Wisconsin,4698.68
+116,116,34016,34016,High School Graduate,Educational Services,168223064,29545,2004,Female,Wisconsin,5693.79
+117,117,34017,34017,Some College,Educational Services,290530625,39733,2004,Female,Wisconsin,7312.07
+118,118,34018,34018,Advanced Degree,Educational Services,645721452,61544,2004,Female,Wisconsin,10492.03
+119,119,34019,34019,Unavalble,Educational Services,24173992,6972,2004,Female,Wisconsin,3467.3
+120,120,34104,34104,All Education Categories,Accommodation,46182067,10498,2004,Male,Wisconsin,4399.13
+121,121,34105,34105,Less Than High School,Accommodation,5449951,1320,2004,Male,Wisconsin,4128.75
+122,122,34106,34106,High School Graduate,Accommodation,13833880,2813,2004,Male,Wisconsin,4917.84
+123,123,34107,34107,Some College,Accommodation,11653538,2123,2004,Male,Wisconsin,5489.18
+124,124,34108,34108,Advanced Degree,Accommodation,7352523,1055,2004,Male,Wisconsin,6969.22
+125,125,34109,34109,Unavalble,Accommodation,7892175,3187,2004,Male,Wisconsin,2476.36
+126,126,34110,34110,All Education Categories,Accommodation,56368627,17907,2004,Female,Wisconsin,3147.85
+127,127,34111,34111,Less Than High School,Accommodation,5608699,1879,2004,Female,Wisconsin,2984.94
+128,128,34112,34112,High School Graduate,Accommodation,16542568,4839,2004,Female,Wisconsin,3418.59
+129,129,34113,34113,Some College,Accommodation,14882281,3828,2004,Female,Wisconsin,3887.74
+130,130,34114,34114,Advanced Degree,Accommodation,7248057,1532,2004,Female,Wisconsin,4731.11
+131,131,34115,34115,Unavalble,Accommodation,12087022,5830,2004,Female,Wisconsin,2073.25
+132,132,35184,35184,All Education Categories,Educational Services,758458948,69577,2005,Male,Wisconsin,10901.0
+133,133,35185,35185,Less Than High School,Educational Services,17017915,2620,2005,Male,Wisconsin,6495.39
+134,134,35186,35186,High School Graduate,Educational Services,97667708,11999,2005,Male,Wisconsin,8139.65
+135,135,35187,35187,Some College,Educational Services,168552426,17176,2005,Male,Wisconsin,9813.25
+136,136,35188,35188,Advanced Degree,Educational Services,464812396,34195,2005,Male,Wisconsin,13592.99
+137,137,35189,35189,Unavalble,Educational Services,10408503,3587,2005,Male,Wisconsin,2901.73
+138,138,35190,35190,All Education Categories,Educational Services,1112064228,140845,2005,Female,Wisconsin,7895.66
+139,139,35191,35191,Less Than High School,Educational Services,19021774,4184,2005,Female,Wisconsin,4546.31
+140,140,35192,35192,High School Graduate,Educational Services,164265581,29326,2005,Female,Wisconsin,5601.36
+141,141,35193,35193,Some College,Educational Services,284602983,39838,2005,Female,Wisconsin,7144.01
+142,142,35194,35194,Advanced Degree,Educational Services,621414911,60552,2005,Female,Wisconsin,10262.5
+143,143,35195,35195,Unavalble,Educational Services,22758979,6946,2005,Female,Wisconsin,3276.56
+144,144,35280,35280,All Education Categories,Accommodation,48492652,10795,2005,Male,Wisconsin,4492.14
+145,145,35281,35281,Less Than High School,Accommodation,5538569,1319,2005,Male,Wisconsin,4199.07
+146,146,35282,35282,High School Graduate,Accommodation,14473587,2842,2005,Male,Wisconsin,5092.75
+147,147,35283,35283,Some College,Accommodation,12552557,2198,2005,Male,Wisconsin,5710.9
+148,148,35284,35284,Advanced Degree,Accommodation,7975059,1084,2005,Male,Wisconsin,7357.07
+149,149,35285,35285,Unavalble,Accommodation,7952879,3353,2005,Male,Wisconsin,2371.87
+150,150,35286,35286,All Education Categories,Accommodation,57229617,17969,2005,Female,Wisconsin,3184.91
+151,151,35287,35287,Less Than High School,Accommodation,5785005,1916,2005,Female,Wisconsin,3019.31
+152,152,35288,35288,High School Graduate,Accommodation,16715777,4831,2005,Female,Wisconsin,3460.11
+153,153,35289,35289,Some College,Accommodation,15218733,3881,2005,Female,Wisconsin,3921.34
+154,154,35290,35290,Advanced Degree,Accommodation,7460458,1562,2005,Female,Wisconsin,4776.22
+155,155,35291,35291,Unavalble,Accommodation,12049645,5779,2005,Female,Wisconsin,2085.07
+156,156,36360,36360,All Education Categories,Educational Services,861067506,70706,2006,Male,Wisconsin,12178.14
+157,157,36361,36361,Less Than High School,Educational Services,19824636,2770,2006,Male,Wisconsin,7156.91
+158,158,36362,36362,High School Graduate,Educational Services,109309781,12353,2006,Male,Wisconsin,8848.84
+159,159,36363,36363,Some College,Educational Services,190539116,17604,2006,Male,Wisconsin,10823.63
+160,160,36364,36364,Advanced Degree,Educational Services,530863552,34442,2006,Male,Wisconsin,15413.26
+161,161,36365,36365,Unavalble,Educational Services,10530422,3536,2006,Male,Wisconsin,2978.06
+162,162,36366,36366,All Education Categories,Educational Services,1242390973,143728,2006,Female,Wisconsin,8644.04
+163,163,36367,36367,Less Than High School,Educational Services,22409768,4447,2006,Female,Wisconsin,5039.3
+164,164,36368,36368,High School Graduate,Educational Services,182888006,29912,2006,Female,Wisconsin,6114.2
+165,165,36369,36369,Some College,Educational Services,321185845,41083,2006,Female,Wisconsin,7817.97
+166,166,36370,36370,Advanced Degree,Educational Services,691917652,61421,2006,Female,Wisconsin,11265.16
+167,167,36371,36371,Unavalble,Educational Services,23989702,6865,2006,Female,Wisconsin,3494.49
+168,168,36456,36456,All Education Categories,Accommodation,53510881,11093,2006,Male,Wisconsin,4823.84
+169,169,36457,36457,Less Than High School,Accommodation,6273503,1371,2006,Male,Wisconsin,4575.86
+170,170,36458,36458,High School Graduate,Accommodation,15854689,2901,2006,Male,Wisconsin,5465.25
+171,171,36459,36459,Some College,Accommodation,13810479,2291,2006,Male,Wisconsin,6028.14
+172,172,36460,36460,Advanced Degree,Accommodation,8957746,1160,2006,Male,Wisconsin,7722.19
+173,173,36461,36461,Unavalble,Accommodation,8614463,3370,2006,Male,Wisconsin,2556.22
+174,174,36462,36462,All Education Categories,Accommodation,64582467,18680,2006,Female,Wisconsin,3457.31
+175,175,36463,36463,Less Than High School,Accommodation,6437879,1981,2006,Female,Wisconsin,3249.81
+176,176,36464,36464,High School Graduate,Accommodation,18583520,4990,2006,Female,Wisconsin,3724.15
+177,177,36465,36465,Some College,Accommodation,17197054,4060,2006,Female,Wisconsin,4235.73
+178,178,36466,36466,Advanced Degree,Accommodation,8911555,1679,2006,Female,Wisconsin,5307.66
+179,179,36467,36467,Unavalble,Accommodation,13452459,5970,2006,Female,Wisconsin,2253.34
+180,180,37536,37536,All Education Categories,Educational Services,895998874,71244,2007,Male,Wisconsin,12576.48
+181,181,37537,37537,Less Than High School,Educational Services,21740614,2855,2007,Male,Wisconsin,7614.93
+182,182,37538,37538,High School Graduate,Educational Services,116648081,12639,2007,Male,Wisconsin,9229.22
+183,183,37539,37539,Some College,Educational Services,201113497,17948,2007,Male,Wisconsin,11205.34
+184,184,37540,37540,Advanced Degree,Educational Services,546114242,34272,2007,Male,Wisconsin,15934.71
+185,185,37541,37541,Unavalble,Educational Services,10382439,3529,2007,Male,Wisconsin,2942.03
+186,186,37542,37542,All Education Categories,Educational Services,1319391894,146041,2007,Female,Wisconsin,9034.39
+187,187,37543,37543,Less Than High School,Educational Services,24867525,4613,2007,Female,Wisconsin,5390.75
+188,188,37544,37544,High School Graduate,Educational Services,196201242,30487,2007,Female,Wisconsin,6435.57
+189,189,37545,37545,Some College,Educational Services,345519471,42114,2007,Female,Wisconsin,8204.39
+190,190,37546,37546,Advanced Degree,Educational Services,729076350,62076,2007,Female,Wisconsin,11744.9
+191,191,37547,37547,Unavalble,Educational Services,23727306,6750,2007,Female,Wisconsin,3515.16
+192,192,37632,37632,All Education Categories,Accommodation,58799348,11344,2007,Male,Wisconsin,5183.3
+193,193,37633,37633,Less Than High School,Accommodation,6861685,1427,2007,Male,Wisconsin,4808.47
+194,194,37634,37634,High School Graduate,Accommodation,17632811,3014,2007,Male,Wisconsin,5850.3
+195,195,37635,37635,Some College,Accommodation,15150877,2388,2007,Male,Wisconsin,6344.59
+196,196,37636,37636,Advanced Degree,Accommodation,10306796,1193,2007,Male,Wisconsin,8639.39
+197,197,37637,37637,Unavalble,Accommodation,8847179,3321,2007,Male,Wisconsin,2664.01
+198,198,37638,37638,All Education Categories,Accommodation,67879325,18854,2007,Female,Wisconsin,3600.26
+199,199,37639,37639,Less Than High School,Accommodation,6845708,2012,2007,Female,Wisconsin,3402.44
+200,200,37640,37640,High School Graduate,Accommodation,19341595,5004,2007,Female,Wisconsin,3865.23
+201,201,37641,37641,Some College,Accommodation,18525841,4205,2007,Female,Wisconsin,4405.67
+202,202,37642,37642,Advanced Degree,Accommodation,9585467,1734,2007,Female,Wisconsin,5527.95
+203,203,37643,37643,Unavalble,Accommodation,13580713,5898,2007,Female,Wisconsin,2302.6
+204,204,38712,38712,All Education Categories,Educational Services,861201819,71460,2008,Male,Wisconsin,12051.52
+205,205,38713,38713,Less Than High School,Educational Services,23249704,3013,2008,Male,Wisconsin,7716.46
+206,206,38714,38714,High School Graduate,Educational Services,118790353,12856,2008,Male,Wisconsin,9240.07
+207,207,38715,38715,Some College,Educational Services,199272282,18157,2008,Male,Wisconsin,10974.96
+208,208,38716,38716,Advanced Degree,Educational Services,509281094,33771,2008,Male,Wisconsin,15080.43
+209,209,38717,38717,Unavalble,Educational Services,10608386,3663,2008,Male,Wisconsin,2896.09
+210,210,38718,38718,All Education Categories,Educational Services,1323567493,148146,2008,Female,Wisconsin,8934.21
+211,211,38719,38719,Less Than High School,Educational Services,28021674,4936,2008,Female,Wisconsin,5677.0
+212,212,38720,38720,High School Graduate,Educational Services,204954870,31076,2008,Female,Wisconsin,6595.28
+213,213,38721,38721,Some College,Educational Services,355475157,43143,2008,Female,Wisconsin,8239.46
+214,214,38722,38722,Advanced Degree,Educational Services,711650176,62156,2008,Female,Wisconsin,11449.42
+215,215,38723,38723,Unavalble,Educational Services,23465617,6835,2008,Female,Wisconsin,3433.16
+216,216,38808,38808,All Education Categories,Accommodation,60723520,11306,2008,Male,Wisconsin,5370.91
+217,217,38809,38809,Less Than High School,Accommodation,7411718,1467,2008,Male,Wisconsin,5052.3
+218,218,38810,38810,High School Graduate,Accommodation,18296069,3052,2008,Male,Wisconsin,5994.78
+219,219,38811,38811,Some College,Accommodation,15576416,2399,2008,Male,Wisconsin,6492.88
+220,220,38812,38812,Advanced Degree,Accommodation,10555524,1200,2008,Male,Wisconsin,8796.27
+221,221,38813,38813,Unavalble,Accommodation,8883794,3188,2008,Male,Wisconsin,2786.64
+222,222,38814,38814,All Education Categories,Accommodation,70729021,18563,2008,Female,Wisconsin,3810.21
+223,223,38815,38815,Less Than High School,Accommodation,7295028,2009,2008,Female,Wisconsin,3631.17
+224,224,38816,38816,High School Graduate,Accommodation,20056895,4910,2008,Female,Wisconsin,4084.91
+225,225,38817,38817,Some College,Accommodation,19419785,4228,2008,Female,Wisconsin,4593.14
+226,226,38818,38818,Advanced Degree,Accommodation,10125668,1791,2008,Female,Wisconsin,5653.64
+227,227,38819,38819,Unavalble,Accommodation,13831645,5626,2008,Female,Wisconsin,2458.52
+228,228,39900,39900,All Education Categories,Educational Services,871159325,72368,2009,Male,Wisconsin,12037.91
+229,229,39901,39901,Less Than High School,Educational Services,25737063,3242,2009,Male,Wisconsin,7938.64
+230,230,39902,39902,High School Graduate,Educational Services,123675160,13323,2009,Male,Wisconsin,9282.83
+231,231,39903,39903,Some College,Educational Services,204747805,18569,2009,Male,Wisconsin,11026.32
+232,232,39904,39904,Advanced Degree,Educational Services,505787735,33390,2009,Male,Wisconsin,15147.88
+233,233,39905,39905,Unavalble,Educational Services,11211562,3844,2009,Male,Wisconsin,2916.64
+234,234,39906,39906,All Education Categories,Educational Services,1374684779,151034,2009,Female,Wisconsin,9101.82
+235,235,39907,39907,Less Than High School,Educational Services,31650360,5395,2009,Female,Wisconsin,5866.61
+236,236,39908,39908,High School Graduate,Educational Services,215968042,31807,2009,Female,Wisconsin,6789.95
+237,237,39909,39909,Some College,Educational Services,373636434,44386,2009,Female,Wisconsin,8417.89
+238,238,39910,39910,Advanced Degree,Educational Services,728800154,62335,2009,Female,Wisconsin,11691.67
+239,239,39911,39911,Unavalble,Educational Services,24629789,7111,2009,Female,Wisconsin,3463.62
+240,240,39996,39996,All Education Categories,Accommodation,52614983,10975,2009,Male,Wisconsin,4794.08
+241,241,39997,39997,Less Than High School,Accommodation,6495348,1441,2009,Male,Wisconsin,4507.53
+242,242,39998,39998,High School Graduate,Accommodation,16173241,2983,2009,Male,Wisconsin,5421.8
+243,243,39999,39999,Some College,Accommodation,13862909,2348,2009,Male,Wisconsin,5904.14
+244,244,40000,40000,Advanced Degree,Accommodation,8784235,1186,2009,Male,Wisconsin,7406.61
+245,245,40001,40001,Unavalble,Accommodation,7299250,3018,2009,Male,Wisconsin,2418.57
+246,246,40002,40002,All Education Categories,Accommodation,63155431,17570,2009,Female,Wisconsin,3594.5
+247,247,40003,40003,Less Than High School,Accommodation,6714925,1971,2009,Female,Wisconsin,3406.86
+248,248,40004,40004,High School Graduate,Accommodation,18493632,4802,2009,Female,Wisconsin,3851.24
+249,249,40005,40005,Some College,Accommodation,17621563,4125,2009,Female,Wisconsin,4271.89
+250,250,40006,40006,Advanced Degree,Accommodation,9162905,1751,2009,Female,Wisconsin,5232.96
+251,251,40007,40007,Unavalble,Accommodation,11162405,4921,2009,Female,Wisconsin,2268.32
+252,252,41088,41088,All Education Categories,Educational Services,871461184,73173,2010,Male,Wisconsin,11909.6
+253,253,41089,41089,Less Than High School,Educational Services,28032572,3501,2010,Male,Wisconsin,8007.02
+254,254,41090,41090,High School Graduate,Educational Services,127662650,13868,2010,Male,Wisconsin,9205.56
+255,255,41091,41091,Some College,Educational Services,207084536,18929,2010,Male,Wisconsin,10940.07
+256,256,41092,41092,Advanced Degree,Educational Services,497576443,32868,2010,Male,Wisconsin,15138.63
+257,257,41093,41093,Unavalble,Educational Services,11104982,4006,2010,Male,Wisconsin,2772.09
+258,258,41094,41094,All Education Categories,Educational Services,1377837641,151228,2010,Female,Wisconsin,9111.0
+259,259,41095,41095,Less Than High School,Educational Services,34952861,5740,2010,Female,Wisconsin,6089.35
+260,260,41096,41096,High School Graduate,Educational Services,222749541,32134,2010,Female,Wisconsin,6931.9
+261,261,41097,41097,Some College,Educational Services,379922332,44756,2010,Female,Wisconsin,8488.75
+262,262,41098,41098,Advanced Degree,Educational Services,717383707,61713,2010,Female,Wisconsin,11624.52
+263,263,41099,41099,Unavalble,Educational Services,22829200,6884,2010,Female,Wisconsin,3316.27
+264,264,41184,41184,All Education Categories,Accommodation,49848008,10468,2010,Male,Wisconsin,4761.94
+265,265,41185,41185,Less Than High School,Accommodation,6195349,1367,2010,Male,Wisconsin,4532.08
+266,266,41186,41186,High School Graduate,Accommodation,15113140,2841,2010,Male,Wisconsin,5319.66
+267,267,41187,41187,Some College,Accommodation,13219787,2314,2010,Male,Wisconsin,5712.96
+268,268,41188,41188,Advanced Degree,Accommodation,8802432,1215,2010,Male,Wisconsin,7244.8
+269,269,41189,41189,Unavalble,Accommodation,6517300,2731,2010,Male,Wisconsin,2386.42
+270,270,41190,41190,All Education Categories,Accommodation,60732711,16735,2010,Female,Wisconsin,3629.08
+271,271,41191,41191,Less Than High School,Accommodation,6504199,1896,2010,Female,Wisconsin,3430.48
+272,272,41192,41192,High School Graduate,Accommodation,17547563,4606,2010,Female,Wisconsin,3809.72
+273,273,41193,41193,Some College,Accommodation,17336435,4035,2010,Female,Wisconsin,4296.51
+274,274,41194,41194,Advanced Degree,Accommodation,9613351,1772,2010,Female,Wisconsin,5425.14
+275,275,41195,41195,Unavalble,Accommodation,9731163,4426,2010,Female,Wisconsin,2198.64
+276,276,42264,42264,All Education Categories,Educational Services,967792912,73747,2011,Male,Wisconsin,13123.15
+277,277,42265,42265,Less Than High School,Educational Services,33182511,3777,2011,Male,Wisconsin,8785.41
+278,278,42266,42266,High School Graduate,Educational Services,141378743,14272,2011,Male,Wisconsin,9906.02
+279,279,42267,42267,Some College,Educational Services,228921843,19266,2011,Male,Wisconsin,11882.17
+280,280,42268,42268,Advanced Degree,Educational Services,552486613,32430,2011,Male,Wisconsin,17036.28
+281,281,42269,42269,Unavalble,Educational Services,11823201,4002,2011,Male,Wisconsin,2954.32
+282,282,42270,42270,All Education Categories,Educational Services,1470906958,152546,2011,Female,Wisconsin,9642.38
+283,283,42271,42271,Less Than High School,Educational Services,40406687,6117,2011,Female,Wisconsin,6605.64
+284,284,42272,42272,High School Graduate,Educational Services,240255706,32681,2011,Female,Wisconsin,7351.54
+285,285,42273,42273,Some College,Educational Services,408282790,45448,2011,Female,Wisconsin,8983.52
+286,286,42274,42274,Advanced Degree,Educational Services,759239417,61363,2011,Female,Wisconsin,12372.92
+287,287,42275,42275,Unavalble,Educational Services,22722357,6938,2011,Female,Wisconsin,3275.06
+288,288,42360,42360,All Education Categories,Accommodation,53785963,10903,2011,Male,Wisconsin,4933.13
+289,289,42361,42361,Less Than High School,Accommodation,6566507,1407,2011,Male,Wisconsin,4667.03
+290,290,42362,42362,High School Graduate,Accommodation,16322840,3016,2011,Male,Wisconsin,5412.08
+291,291,42363,42363,Some College,Accommodation,14526460,2424,2011,Male,Wisconsin,5992.76
+292,292,42364,42364,Advanced Degree,Accommodation,9682900,1319,2011,Male,Wisconsin,7341.09
+293,293,42365,42365,Unavalble,Accommodation,6687256,2737,2011,Male,Wisconsin,2443.28
+294,294,42366,42366,All Education Categories,Accommodation,63404606,16969,2011,Female,Wisconsin,3736.5
+295,295,42367,42367,Less Than High School,Accommodation,6785340,1902,2011,Female,Wisconsin,3567.48
+296,296,42368,42368,High School Graduate,Accommodation,18169028,4629,2011,Female,Wisconsin,3925.04
+297,297,42369,42369,Some College,Accommodation,18164430,4108,2011,Female,Wisconsin,4421.72
+298,298,42370,42370,Advanced Degree,Accommodation,10281979,1856,2011,Female,Wisconsin,5539.86
+299,299,42371,42371,Unavalble,Accommodation,10003829,4474,2011,Female,Wisconsin,2235.99
+300,300,43452,43452,All Education Categories,Educational Services,981530399,72270,2012,Male,Wisconsin,13581.44
+301,301,43453,43453,Less Than High School,Educational Services,37440327,3956,2012,Male,Wisconsin,9464.19
+302,302,43454,43454,High School Graduate,Educational Services,150126261,14399,2012,Male,Wisconsin,10426.16
+303,303,43455,43455,Some College,Educational Services,236820200,19096,2012,Male,Wisconsin,12401.56
+304,304,43456,43456,Advanced Degree,Educational Services,544681867,30871,2012,Male,Wisconsin,17643.8
+305,305,43457,43457,Unavalble,Educational Services,12461744,3948,2012,Male,Wisconsin,3156.47
+306,306,43458,43458,All Education Categories,Educational Services,1508283409,149196,2012,Female,Wisconsin,10109.41
+307,307,43459,43459,Less Than High School,Educational Services,46841699,6393,2012,Female,Wisconsin,7327.03
+308,308,43460,43460,High School Graduate,Educational Services,254931481,32360,2012,Female,Wisconsin,7877.98
+309,309,43461,43461,Some College,Educational Services,424988494,44765,2012,Female,Wisconsin,9493.77
+310,310,43462,43462,Advanced Degree,Educational Services,755202232,58841,2012,Female,Wisconsin,12834.63
+311,311,43463,43463,Unavalble,Educational Services,26319504,6837,2012,Female,Wisconsin,3849.57
+312,312,43548,43548,All Education Categories,Accommodation,58414227,11039,2012,Male,Wisconsin,5291.62
+313,313,43549,43549,Less Than High School,Accommodation,7229908,1456,2012,Male,Wisconsin,4965.6
+314,314,43550,43550,High School Graduate,Accommodation,17752092,3103,2012,Male,Wisconsin,5720.94
+315,315,43551,43551,Some College,Accommodation,15806266,2525,2012,Male,Wisconsin,6259.91
+316,316,43552,43552,Advanced Degree,Accommodation,10447163,1343,2012,Male,Wisconsin,7778.97
+317,317,43553,43553,Unavalble,Accommodation,7178798,2612,2012,Male,Wisconsin,2748.39
+318,318,43554,43554,All Education Categories,Accommodation,68076552,16861,2012,Female,Wisconsin,4037.52
+319,319,43555,43555,Less Than High School,Accommodation,7553037,1938,2012,Female,Wisconsin,3897.34
+320,320,43556,43556,High School Graduate,Accommodation,19213111,4573,2012,Female,Wisconsin,4201.42
+321,321,43557,43557,Some College,Accommodation,19308238,4108,2012,Female,Wisconsin,4700.16
+322,322,43558,43558,Advanced Degree,Accommodation,11252558,1880,2012,Female,Wisconsin,5985.4
+323,323,43559,43559,Unavalble,Accommodation,10749607,4362,2012,Female,Wisconsin,2464.38
+324,324,43704,43704,All Education Categories,00,13911668225,1298838,2004,Male,Wisconsin,10710.86
+325,325,43705,43705,Less Than High School,00,752810237,105859,2004,Male,Wisconsin,7111.44
+326,326,43706,43706,High School Graduate,00,3397936186,370751,2004,Male,Wisconsin,9165.01
+327,327,43707,43707,Some College,00,3921622673,349602,2004,Male,Wisconsin,11217.39
+328,328,43708,43708,Advanced Degree,00,5130401685,278476,2004,Male,Wisconsin,18423.14
+329,329,43709,43709,Unavalble,00,708897444,194150,2004,Male,Wisconsin,3651.29
+330,330,43710,43710,All Education Categories,00,8465404817,1315834,2004,Female,Wisconsin,6433.49
+331,331,43711,43711,Less Than High School,00,334182363,75459,2004,Female,Wisconsin,4428.66
+332,332,43712,43712,High School Graduate,00,1946931052,351736,2004,Female,Wisconsin,5535.21
+333,333,43713,43713,Some College,00,2688518628,391576,2004,Female,Wisconsin,6865.89
+334,334,43714,43714,Advanced Degree,00,2868697140,275766,2004,Female,Wisconsin,10402.65
+335,335,43715,43715,Unavalble,00,627075633,221296,2004,Female,Wisconsin,2833.65
+336,336,43764,43764,All Education Categories,Manufacturing,4235726032,348662,2004,Male,Wisconsin,12148.52
+337,337,43765,43765,Less Than High School,Manufacturing,289334762,32543,2004,Male,Wisconsin,8890.84
+338,338,43766,43766,High School Graduate,Manufacturing,1328909659,124150,2004,Male,Wisconsin,10704.06
+339,339,43767,43767,Some College,Manufacturing,1349676014,106704,2004,Male,Wisconsin,12648.79
+340,340,43768,43768,Advanced Degree,Manufacturing,1108379646,58483,2004,Male,Wisconsin,18952.17
+341,341,43769,43769,Unavalble,Manufacturing,159425951,26783,2004,Male,Wisconsin,5952.51
+342,342,43770,43770,All Education Categories,Manufacturing,1236874694,153465,2004,Female,Wisconsin,8059.65
+343,343,43771,43771,Less Than High School,Manufacturing,77280478,12517,2004,Female,Wisconsin,6174.04
+344,344,43772,43772,High School Graduate,Manufacturing,424055502,58389,2004,Female,Wisconsin,7262.59
+345,345,43773,43773,Some College,Manufacturing,409014698,48518,2004,Female,Wisconsin,8430.16
+346,346,43774,43774,Advanced Degree,Manufacturing,269841690,22284,2004,Female,Wisconsin,12109.21
+347,347,43775,43775,Unavalble,Manufacturing,56682327,11758,2004,Female,Wisconsin,4820.75
+348,348,43788,43788,All Education Categories,Retail Trade,967135480,146328,2004,Male,Wisconsin,6609.37
+349,349,43789,43789,Less Than High School,Retail Trade,69008944,12046,2004,Male,Wisconsin,5728.78
+350,350,43790,43790,High School Graduate,Retail Trade,297457303,40532,2004,Male,Wisconsin,7338.83
+351,351,43791,43791,Some College,Retail Trade,280957811,32648,2004,Male,Wisconsin,8605.67
+352,352,43792,43792,Advanced Degree,Retail Trade,196288102,16458,2004,Male,Wisconsin,11926.61
+353,353,43793,43793,Unavalble,Retail Trade,123423320,44644,2004,Male,Wisconsin,2764.61
+354,354,43794,43794,All Education Categories,Retail Trade,649663225,171440,2004,Female,Wisconsin,3789.45
+355,355,43795,43795,Less Than High School,Retail Trade,41555347,11702,2004,Female,Wisconsin,3551.13
+356,356,43796,43796,High School Graduate,Retail Trade,220216926,52823,2004,Female,Wisconsin,4168.96
+357,357,43797,43797,Some College,Retail Trade,184115188,39284,2004,Female,Wisconsin,4686.77
+358,358,43798,43798,Advanced Degree,Retail Trade,97748341,15770,2004,Female,Wisconsin,6198.37
+359,359,43799,43799,Unavalble,Retail Trade,106027424,51860,2004,Female,Wisconsin,2044.49
+360,360,43824,43824,All Education Categories,Finance and Insurance,932916453,37739,2004,Male,Wisconsin,24720.22
+361,361,43825,43825,Less Than High School,Finance and Insurance,11620946,1137,2004,Male,Wisconsin,10220.71
+362,362,43826,43826,High School Graduate,Finance and Insurance,77421908,5410,2004,Male,Wisconsin,14310.89
+363,363,43827,43827,Some College,Finance and Insurance,177029190,9020,2004,Male,Wisconsin,19626.3
+364,364,43828,43828,Advanced Degree,Finance and Insurance,647279320,18937,2004,Male,Wisconsin,34180.67
+365,365,43829,43829,Unavalble,Finance and Insurance,19565089,3236,2004,Male,Wisconsin,6046.07
+366,366,43830,43830,All Education Categories,Finance and Insurance,858894540,89840,2004,Female,Wisconsin,9560.27
+367,367,43831,43831,Less Than High School,Finance and Insurance,14653312,2373,2004,Female,Wisconsin,6175.02
+368,368,43832,43832,High School Graduate,Finance and Insurance,156305921,21009,2004,Female,Wisconsin,7439.95
+369,369,43833,43833,Some College,Finance and Insurance,247701998,27758,2004,Female,Wisconsin,8923.63
+370,370,43834,43834,Advanced Degree,Finance and Insurance,387382804,27834,2004,Female,Wisconsin,13917.61
+371,371,43835,43835,Unavalble,Finance and Insurance,52850505,10865,2004,Female,Wisconsin,4864.29
+372,372,43884,43884,All Education Categories,Educational Services,762620614,70637,2004,Male,Wisconsin,10796.33
+373,373,43885,43885,Less Than High School,Educational Services,17130093,2624,2004,Male,Wisconsin,6528.24
+374,374,43886,43886,High School Graduate,Educational Services,97879559,12099,2004,Male,Wisconsin,8089.89
+375,375,43887,43887,Some College,Educational Services,169044470,17204,2004,Male,Wisconsin,9825.88
+376,376,43888,43888,Advanced Degree,Educational Services,467166014,34845,2004,Male,Wisconsin,13406.97
+377,377,43889,43889,Unavalble,Educational Services,11400479,3865,2004,Male,Wisconsin,2949.67
+378,378,43890,43890,All Education Categories,Educational Services,1148355410,141988,2004,Female,Wisconsin,8087.69
+379,379,43891,43891,Less Than High School,Educational Services,19706277,4194,2004,Female,Wisconsin,4698.68
+380,380,43892,43892,High School Graduate,Educational Services,168223064,29545,2004,Female,Wisconsin,5693.79
+381,381,43893,43893,Some College,Educational Services,290530625,39733,2004,Female,Wisconsin,7312.07
+382,382,43894,43894,Advanced Degree,Educational Services,645721452,61544,2004,Female,Wisconsin,10492.03
+383,383,43895,43895,Unavalble,Educational Services,24173992,6972,2004,Female,Wisconsin,3467.3
+384,384,43896,43896,All Education Categories,Health Care and Social Assistance,930421988,59266,2004,Male,Wisconsin,15699.09
+385,385,43897,43897,Less Than High School,Health Care and Social Assistance,22886497,3684,2004,Male,Wisconsin,6212.4
+386,386,43898,43898,High School Graduate,Health Care and Social Assistance,103121249,11965,2004,Male,Wisconsin,8618.57
+387,387,43899,43899,Some College,Health Care and Social Assistance,203202404,15946,2004,Male,Wisconsin,12743.16
+388,388,43900,43900,Advanced Degree,Health Care and Social Assistance,580774712,21355,2004,Male,Wisconsin,27196.19
+389,389,43901,43901,Unavalble,Health Care and Social Assistance,20437126,6316,2004,Male,Wisconsin,3235.77
+390,390,43902,43902,All Education Categories,Health Care and Social Assistance,1853614517,272382,2004,Female,Wisconsin,6805.2
+391,391,43903,43903,Less Than High School,Health Care and Social Assistance,63310398,13713,2004,Female,Wisconsin,4616.82
+392,392,43904,43904,High School Graduate,Health Care and Social Assistance,359103392,64471,2004,Female,Wisconsin,5570.0
+393,393,43905,43905,Some College,Health Care and Social Assistance,695932009,99675,2004,Female,Wisconsin,6982.01
+394,394,43906,43906,Advanced Degree,Health Care and Social Assistance,603856938,59980,2004,Female,Wisconsin,10067.64
+395,395,43907,43907,Unavalble,Health Care and Social Assistance,131411779,34543,2004,Female,Wisconsin,3804.3
+396,396,43920,43920,All Education Categories,Accommodation and Food Services,252111950,80822,2004,Male,Wisconsin,3119.35
+397,397,43921,43921,Less Than High School,Accommodation and Food Services,28508674,7748,2004,Male,Wisconsin,3679.49
+398,398,43922,43922,High School Graduate,Accommodation and Food Services,66197262,15921,2004,Male,Wisconsin,4157.86
+399,399,43923,43923,Some College,Accommodation and Food Services,55263416,12168,2004,Male,Wisconsin,4541.7
+400,400,43924,43924,Advanced Degree,Accommodation and Food Services,29123890,5577,2004,Male,Wisconsin,5222.14
+401,401,43925,43925,Unavalble,Accommodation and Food Services,73018708,39407,2004,Male,Wisconsin,1852.94
+402,402,43926,43926,All Education Categories,Accommodation and Food Services,283520550,118905,2004,Female,Wisconsin,2384.43
+403,403,43927,43927,Less Than High School,Accommodation and Food Services,25109614,9464,2004,Female,Wisconsin,2653.17
+404,404,43928,43928,High School Graduate,Accommodation and Food Services,77036735,26858,2004,Female,Wisconsin,2868.3
+405,405,43929,43929,Some College,Accommodation and Food Services,64431702,20883,2004,Female,Wisconsin,3085.37
+406,406,43930,43930,Advanced Degree,Accommodation and Food Services,28286853,8106,2004,Female,Wisconsin,3489.62
+407,407,43931,43931,Unavalble,Accommodation and Food Services,88655646,53594,2004,Female,Wisconsin,1654.21
+408,408,43956,43956,All Education Categories,00,14390134506,1310680,2005,Male,Wisconsin,10979.14
+409,409,43957,43957,Less Than High School,00,786493127,108285,2005,Male,Wisconsin,7263.18
+410,410,43958,43958,High School Graduate,00,3506992770,374515,2005,Male,Wisconsin,9364.09
+411,411,43959,43959,Some College,00,4068222586,354973,2005,Male,Wisconsin,11460.65
+412,412,43960,43960,Advanced Degree,00,5318990422,280190,2005,Male,Wisconsin,18983.51
+413,413,43961,43961,Unavalble,00,709435600,192716,2005,Male,Wisconsin,3681.25
+414,414,43962,43962,All Education Categories,00,8622765039,1331456,2005,Female,Wisconsin,6476.19
+415,415,43963,43963,Less Than High School,00,344696534,77328,2005,Female,Wisconsin,4457.59
+416,416,43964,43964,High School Graduate,00,1973941671,354814,2005,Female,Wisconsin,5563.31
+417,417,43965,43965,Some College,00,2754120108,398145,2005,Female,Wisconsin,6917.38
+418,418,43966,43966,Advanced Degree,00,2927584916,279786,2005,Female,Wisconsin,10463.66
+419,419,43967,43967,Unavalble,00,622421810,221384,2005,Female,Wisconsin,2811.5
+420,420,44016,44016,All Education Categories,Manufacturing,4359200965,351516,2005,Male,Wisconsin,12401.15
+421,421,44017,44017,Less Than High School,Manufacturing,297443692,33286,2005,Male,Wisconsin,8936.0
+422,422,44018,44018,High School Graduate,Manufacturing,1355850763,124434,2005,Male,Wisconsin,10896.14
+423,423,44019,44019,Some College,Manufacturing,1387284357,107451,2005,Male,Wisconsin,12910.86
+424,424,44020,44020,Advanced Degree,Manufacturing,1150171678,58165,2005,Male,Wisconsin,19774.29
+425,425,44021,44021,Unavalble,Manufacturing,168450476,28180,2005,Male,Wisconsin,5977.66
+426,426,44022,44022,All Education Categories,Manufacturing,1253901963,153097,2005,Female,Wisconsin,8190.25
+427,427,44023,44023,Less Than High School,Manufacturing,79305626,12650,2005,Female,Wisconsin,6269.22
+428,428,44024,44024,High School Graduate,Manufacturing,424012856,57776,2005,Female,Wisconsin,7338.91
+429,429,44025,44025,Some College,Manufacturing,414037818,48345,2005,Female,Wisconsin,8564.23
+430,430,44026,44026,Advanced Degree,Manufacturing,276157384,22262,2005,Female,Wisconsin,12404.88
+431,431,44027,44027,Unavalble,Manufacturing,60388280,12065,2005,Female,Wisconsin,5005.24
+432,432,44040,44040,All Education Categories,Retail Trade,949365605,143826,2005,Male,Wisconsin,6600.79
+433,433,44041,44041,Less Than High School,Retail Trade,68584694,11892,2005,Male,Wisconsin,5767.3
+434,434,44042,44042,High School Graduate,Retail Trade,291106544,39979,2005,Male,Wisconsin,7281.49
+435,435,44043,44043,Some College,Retail Trade,276858628,32489,2005,Male,Wisconsin,8521.61
+436,436,44044,44044,Advanced Degree,Retail Trade,195046510,16213,2005,Male,Wisconsin,12030.25
+437,437,44045,44045,Unavalble,Retail Trade,117769228,43253,2005,Male,Wisconsin,2722.8
+438,438,44046,44046,All Education Categories,Retail Trade,645570128,169848,2005,Female,Wisconsin,3800.87
+439,439,44047,44047,Less Than High School,Retail Trade,41359905,11614,2005,Female,Wisconsin,3561.21
+440,440,44048,44048,High School Graduate,Retail Trade,216037353,51966,2005,Female,Wisconsin,4157.28
+441,441,44049,44049,Some College,Retail Trade,184874873,39245,2005,Female,Wisconsin,4710.79
+442,442,44050,44050,Advanced Degree,Retail Trade,100025604,15836,2005,Female,Wisconsin,6316.34
+443,443,44051,44051,Unavalble,Retail Trade,103272392,51187,2005,Female,Wisconsin,2017.55
+444,444,44076,44076,All Education Categories,Finance and Insurance,982557628,39162,2005,Male,Wisconsin,25089.57
+445,445,44077,44077,Less Than High School,Finance and Insurance,12416579,1212,2005,Male,Wisconsin,10244.7
+446,446,44078,44078,High School Graduate,Finance and Insurance,82086824,5717,2005,Male,Wisconsin,14358.37
+447,447,44079,44079,Some College,Finance and Insurance,186085010,9492,2005,Male,Wisconsin,19604.4
+448,448,44080,44080,Advanced Degree,Finance and Insurance,682925449,19578,2005,Male,Wisconsin,34882.29
+449,449,44081,44081,Unavalble,Finance and Insurance,19043767,3163,2005,Male,Wisconsin,6020.79
+450,450,44082,44082,All Education Categories,Finance and Insurance,870541589,92109,2005,Female,Wisconsin,9451.21
+451,451,44083,44083,Less Than High School,Finance and Insurance,15384675,2483,2005,Female,Wisconsin,6196.0
+452,452,44084,44084,High School Graduate,Finance and Insurance,159819982,21645,2005,Female,Wisconsin,7383.69
+453,453,44085,44085,Some College,Finance and Insurance,254885801,28744,2005,Female,Wisconsin,8867.44
+454,454,44086,44086,Advanced Degree,Finance and Insurance,389869263,28752,2005,Female,Wisconsin,13559.73
+455,455,44087,44087,Unavalble,Finance and Insurance,50581868,10484,2005,Female,Wisconsin,4824.67
+456,456,44136,44136,All Education Categories,Educational Services,758458948,69577,2005,Male,Wisconsin,10901.0
+457,457,44137,44137,Less Than High School,Educational Services,17017915,2620,2005,Male,Wisconsin,6495.39
+458,458,44138,44138,High School Graduate,Educational Services,97667708,11999,2005,Male,Wisconsin,8139.65
+459,459,44139,44139,Some College,Educational Services,168552426,17176,2005,Male,Wisconsin,9813.25
+460,460,44140,44140,Advanced Degree,Educational Services,464812396,34195,2005,Male,Wisconsin,13592.99
+461,461,44141,44141,Unavalble,Educational Services,10408503,3587,2005,Male,Wisconsin,2901.73
+462,462,44142,44142,All Education Categories,Educational Services,1112064228,140845,2005,Female,Wisconsin,7895.66
+463,463,44143,44143,Less Than High School,Educational Services,19021774,4184,2005,Female,Wisconsin,4546.31
+464,464,44144,44144,High School Graduate,Educational Services,164265581,29326,2005,Female,Wisconsin,5601.36
+465,465,44145,44145,Some College,Educational Services,284602983,39838,2005,Female,Wisconsin,7144.01
+466,466,44146,44146,Advanced Degree,Educational Services,621414911,60552,2005,Female,Wisconsin,10262.5
+467,467,44147,44147,Unavalble,Educational Services,22758979,6946,2005,Female,Wisconsin,3276.56
+468,468,44148,44148,All Education Categories,Health Care and Social Assistance,945177386,60068,2005,Male,Wisconsin,15735.12
+469,469,44149,44149,Less Than High School,Health Care and Social Assistance,23730099,3779,2005,Male,Wisconsin,6279.47
+470,470,44150,44150,High School Graduate,Health Care and Social Assistance,105906788,12236,2005,Male,Wisconsin,8655.34
+471,471,44151,44151,Some College,Health Care and Social Assistance,206926958,16368,2005,Male,Wisconsin,12642.17
+472,472,44152,44152,Advanced Degree,Health Care and Social Assistance,589191024,21645,2005,Male,Wisconsin,27220.65
+473,473,44153,44153,Unavalble,Health Care and Social Assistance,19422518,6039,2005,Male,Wisconsin,3216.18
+474,474,44154,44154,All Education Categories,Health Care and Social Assistance,1884441307,276418,2005,Female,Wisconsin,6817.36
+475,475,44155,44155,Less Than High School,Health Care and Social Assistance,64699555,14040,2005,Female,Wisconsin,4608.23
+476,476,44156,44156,High School Graduate,Health Care and Social Assistance,365585332,65718,2005,Female,Wisconsin,5562.94
+477,477,44157,44157,Some College,Health Care and Social Assistance,708823298,101478,2005,Female,Wisconsin,6984.99
+478,478,44158,44158,Advanced Degree,Health Care and Social Assistance,619419694,61363,2005,Female,Wisconsin,10094.35
+479,479,44159,44159,Unavalble,Health Care and Social Assistance,125913426,33819,2005,Female,Wisconsin,3723.16
+480,480,44172,44172,All Education Categories,Accommodation and Food Services,258096166,82187,2005,Male,Wisconsin,3140.35
+481,481,44173,44173,Less Than High School,Accommodation and Food Services,29719603,8079,2005,Male,Wisconsin,3678.62
+482,482,44174,44174,High School Graduate,Accommodation and Food Services,68397272,16412,2005,Male,Wisconsin,4167.52
+483,483,44175,44175,Some College,Accommodation and Food Services,57597381,12682,2005,Male,Wisconsin,4541.66
+484,484,44176,44176,Advanced Degree,Accommodation and Food Services,30581753,5810,2005,Male,Wisconsin,5263.64
+485,485,44177,44177,Unavalble,Accommodation and Food Services,71800158,39203,2005,Male,Wisconsin,1831.5
+486,486,44178,44178,All Education Categories,Accommodation and Food Services,292174426,122229,2005,Female,Wisconsin,2390.39
+487,487,44179,44179,Less Than High School,Accommodation and Food Services,26128144,9826,2005,Female,Wisconsin,2659.08
+488,488,44180,44180,High School Graduate,Accommodation and Food Services,78561235,27327,2005,Female,Wisconsin,2874.86
+489,489,44181,44181,Some College,Accommodation and Food Services,66439413,21429,2005,Female,Wisconsin,3100.44
+490,490,44182,44182,Advanced Degree,Accommodation and Food Services,29403230,8416,2005,Female,Wisconsin,3493.73
+491,491,44183,44183,Unavalble,Accommodation and Food Services,91642405,55231,2005,Female,Wisconsin,1659.26
+492,492,44208,44208,All Education Categories,00,15526401051,1327132,2006,Male,Wisconsin,11699.21
+493,493,44209,44209,Less Than High School,00,859811444,110890,2006,Male,Wisconsin,7753.73
+494,494,44210,44210,High School Graduate,00,3773601181,380216,2006,Male,Wisconsin,9924.89
+495,495,44211,44211,Some College,00,4382202117,361647,2006,Male,Wisconsin,12117.35
+496,496,44212,44212,Advanced Degree,00,5756650323,283022,2006,Male,Wisconsin,20339.94
+497,497,44213,44213,Unavalble,00,754135987,191357,2006,Male,Wisconsin,3940.99
+498,498,44214,44214,All Education Categories,00,9431565784,1346227,2006,Female,Wisconsin,7005.93
+499,499,44215,44215,Less Than High School,00,382591728,79326,2006,Female,Wisconsin,4823.03
+500,500,44216,44216,High School Graduate,00,2145886681,357101,2006,Female,Wisconsin,6009.19
+501,501,44217,44217,Some College,00,3019522712,404469,2006,Female,Wisconsin,7465.4
+502,502,44218,44218,Advanced Degree,00,3226262921,284152,2006,Female,Wisconsin,11354.0
+503,503,44219,44219,Unavalble,00,657301741,221179,2006,Female,Wisconsin,2971.81
+504,504,44268,44268,All Education Categories,Manufacturing,4642762144,356567,2006,Male,Wisconsin,13020.73
+505,505,44269,44269,Less Than High School,Manufacturing,325168111,33873,2006,Male,Wisconsin,9599.63
+506,506,44270,44270,High School Graduate,Manufacturing,1452501682,125700,2006,Male,Wisconsin,11555.3
+507,507,44271,44271,Some College,Manufacturing,1478775813,109296,2006,Male,Wisconsin,13530.01
+508,508,44272,44272,Advanced Degree,Manufacturing,1198654456,58925,2006,Male,Wisconsin,20342.04
+509,509,44273,44273,Unavalble,Manufacturing,187662081,28772,2006,Male,Wisconsin,6522.39
+510,510,44274,44274,All Education Categories,Manufacturing,1368229386,153661,2006,Female,Wisconsin,8904.21
+511,511,44275,44275,Less Than High School,Manufacturing,86609862,12680,2006,Female,Wisconsin,6830.43
+512,512,44276,44276,High School Graduate,Manufacturing,456055488,57309,2006,Female,Wisconsin,7957.83
+513,513,44277,44277,Some College,Manufacturing,451625914,48865,2006,Female,Wisconsin,9242.32
+514,514,44278,44278,Advanced Degree,Manufacturing,313312424,22848,2006,Female,Wisconsin,13712.9
+515,515,44279,44279,Unavalble,Manufacturing,60625698,11959,2006,Female,Wisconsin,5069.46
+516,516,44292,44292,All Education Categories,Retail Trade,1004472783,142865,2006,Male,Wisconsin,7030.92
+517,517,44293,44293,Less Than High School,Retail Trade,72028121,11866,2006,Male,Wisconsin,6070.13
+518,518,44294,44294,High School Graduate,Retail Trade,308178233,39734,2006,Male,Wisconsin,7756.03
+519,519,44295,44295,Some College,Retail Trade,292820002,32379,2006,Male,Wisconsin,9043.52
+520,520,44296,44296,Advanced Degree,Retail Trade,211402431,16390,2006,Male,Wisconsin,12898.26
+521,521,44297,44297,Unavalble,Retail Trade,120043997,42495,2006,Male,Wisconsin,2824.9
+522,522,44298,44298,All Education Categories,Retail Trade,691283253,169815,2006,Female,Wisconsin,4070.8
+523,523,44299,44299,Less Than High School,Retail Trade,44404587,11755,2006,Female,Wisconsin,3777.51
+524,524,44300,44300,High School Graduate,Retail Trade,228227743,51487,2006,Female,Wisconsin,4432.73
+525,525,44301,44301,Some College,Retail Trade,199248720,39617,2006,Female,Wisconsin,5029.37
+526,526,44302,44302,Advanced Degree,Retail Trade,109680729,16086,2006,Female,Wisconsin,6818.4
+527,527,44303,44303,Unavalble,Retail Trade,109721475,50869,2006,Female,Wisconsin,2156.94
+528,528,44328,44328,All Education Categories,Finance and Insurance,1124531582,39875,2006,Male,Wisconsin,28201.42
+529,529,44329,44329,Less Than High School,Finance and Insurance,14310347,1281,2006,Male,Wisconsin,11171.23
+530,530,44330,44330,High School Graduate,Finance and Insurance,93379625,5931,2006,Male,Wisconsin,15744.33
+531,531,44331,44331,Some College,Finance and Insurance,212428631,9792,2006,Male,Wisconsin,21694.1
+532,532,44332,44332,Advanced Degree,Finance and Insurance,786045677,19910,2006,Male,Wisconsin,39479.94
+533,533,44333,44333,Unavalble,Finance and Insurance,18367302,2961,2006,Male,Wisconsin,6203.07
+534,534,44334,44334,All Education Categories,Finance and Insurance,955711456,91574,2006,Female,Wisconsin,10436.49
+535,535,44335,44335,Less Than High School,Finance and Insurance,17226704,2531,2006,Female,Wisconsin,6806.28
+536,536,44336,44336,High School Graduate,Finance and Insurance,173681501,21545,2006,Female,Wisconsin,8061.34
+537,537,44337,44337,Some College,Finance and Insurance,280659416,28979,2006,Female,Wisconsin,9684.92
+538,538,44338,44338,Advanced Degree,Finance and Insurance,435623690,28928,2006,Female,Wisconsin,15058.89
+539,539,44339,44339,Unavalble,Finance and Insurance,48520145,9591,2006,Female,Wisconsin,5058.92
+540,540,44388,44388,All Education Categories,Educational Services,861067506,70706,2006,Male,Wisconsin,12178.14
+541,541,44389,44389,Less Than High School,Educational Services,19824636,2770,2006,Male,Wisconsin,7156.91
+542,542,44390,44390,High School Graduate,Educational Services,109309781,12353,2006,Male,Wisconsin,8848.84
+543,543,44391,44391,Some College,Educational Services,190539116,17604,2006,Male,Wisconsin,10823.63
+544,544,44392,44392,Advanced Degree,Educational Services,530863552,34442,2006,Male,Wisconsin,15413.26
+545,545,44393,44393,Unavalble,Educational Services,10530422,3536,2006,Male,Wisconsin,2978.06
+546,546,44394,44394,All Education Categories,Educational Services,1242390973,143728,2006,Female,Wisconsin,8644.04
+547,547,44395,44395,Less Than High School,Educational Services,22409768,4447,2006,Female,Wisconsin,5039.3
+548,548,44396,44396,High School Graduate,Educational Services,182888006,29912,2006,Female,Wisconsin,6114.2
+549,549,44397,44397,Some College,Educational Services,321185845,41083,2006,Female,Wisconsin,7817.97
+550,550,44398,44398,Advanced Degree,Educational Services,691917652,61421,2006,Female,Wisconsin,11265.16
+551,551,44399,44399,Unavalble,Educational Services,23989702,6865,2006,Female,Wisconsin,3494.49
+552,552,44400,44400,All Education Categories,Health Care and Social Assistance,1029527431,60593,2006,Male,Wisconsin,16990.86
+553,553,44401,44401,Less Than High School,Health Care and Social Assistance,26178800,3850,2006,Male,Wisconsin,6799.69
+554,554,44402,44402,High School Graduate,Health Care and Social Assistance,116517724,12536,2006,Male,Wisconsin,9294.65
+555,555,44403,44403,Some College,Health Care and Social Assistance,226469446,16628,2006,Male,Wisconsin,13619.76
+556,556,44404,44404,Advanced Degree,Health Care and Social Assistance,639913892,21426,2006,Male,Wisconsin,29866.23
+557,557,44405,44405,Unavalble,Health Care and Social Assistance,20447569,6152,2006,Male,Wisconsin,3323.73
+558,558,44406,44406,All Education Categories,Health Care and Social Assistance,2080799815,280774,2006,Female,Wisconsin,7410.94
+559,559,44407,44407,Less Than High School,Health Care and Social Assistance,72737891,14610,2006,Female,Wisconsin,4978.64
+560,560,44408,44408,High School Graduate,Health Care and Social Assistance,404109092,66991,2006,Female,Wisconsin,6032.29
+561,561,44409,44409,Some College,Health Care and Social Assistance,782219023,102926,2006,Female,Wisconsin,7599.82
+562,562,44410,44410,Advanced Degree,Health Care and Social Assistance,685404375,62102,2006,Female,Wisconsin,11036.75
+563,563,44411,44411,Unavalble,Health Care and Social Assistance,136329434,34145,2006,Female,Wisconsin,3992.66
+564,564,44424,44424,All Education Categories,Accommodation and Food Services,280286658,83482,2006,Male,Wisconsin,3357.45
+565,565,44425,44425,Less Than High School,Accommodation and Food Services,32849558,8417,2006,Male,Wisconsin,3902.76
+566,566,44426,44426,High School Graduate,Accommodation and Food Services,74869122,16914,2006,Male,Wisconsin,4426.46
+567,567,44427,44427,Some College,Accommodation and Food Services,62999948,13138,2006,Male,Wisconsin,4795.25
+568,568,44428,44428,Advanced Degree,Accommodation and Food Services,33429391,5998,2006,Male,Wisconsin,5573.42
+569,569,44429,44429,Unavalble,Accommodation and Food Services,76138638,39015,2006,Male,Wisconsin,1951.52
+570,570,44430,44430,All Education Categories,Accommodation and Food Services,320313164,125385,2006,Female,Wisconsin,2554.64
+571,571,44431,44431,Less Than High School,Accommodation and Food Services,28833235,10196,2006,Female,Wisconsin,2827.9
+572,572,44432,44432,High School Graduate,Accommodation and Food Services,85155139,27964,2006,Female,Wisconsin,3045.17
+573,573,44433,44433,Some College,Accommodation and Food Services,72896399,22316,2006,Female,Wisconsin,3266.55
+574,574,44434,44434,Advanced Degree,Accommodation and Food Services,33109073,8877,2006,Female,Wisconsin,3729.76
+575,575,44435,44435,Unavalble,Accommodation and Food Services,100319319,56032,2006,Female,Wisconsin,1790.39
+576,576,44460,44460,All Education Categories,00,16127329212,1332399,2007,Male,Wisconsin,12103.98
+577,577,44461,44461,Less Than High School,00,897322482,112798,2007,Male,Wisconsin,7955.13
+578,578,44462,44462,High School Graduate,00,3901415135,381959,2007,Male,Wisconsin,10214.22
+579,579,44463,44463,Some College,00,4566922506,364970,2007,Male,Wisconsin,12513.14
+580,580,44464,44464,Advanced Degree,00,6004370723,284442,2007,Male,Wisconsin,21109.3
+581,581,44465,44465,Unavalble,00,757298366,188230,2007,Male,Wisconsin,4023.26
+582,582,44466,44466,All Education Categories,00,9864212044,1361056,2007,Female,Wisconsin,7247.47
+583,583,44467,44467,Less Than High School,00,403322472,81476,2007,Female,Wisconsin,4950.2
+584,584,44468,44468,High School Graduate,00,2226278709,360194,2007,Female,Wisconsin,6180.78
+585,585,44469,44469,Some College,00,3173393712,411490,2007,Female,Wisconsin,7711.96
+586,586,44470,44470,Advanced Degree,00,3404331933,289000,2007,Female,Wisconsin,11779.7
+587,587,44471,44471,Unavalble,00,656885217,218896,2007,Female,Wisconsin,3000.9
+588,588,44520,44520,All Education Categories,Manufacturing,4751344289,355469,2007,Male,Wisconsin,13366.41
+589,589,44521,44521,Less Than High School,Manufacturing,332162547,34215,2007,Male,Wisconsin,9708.1
+590,590,44522,44522,High School Graduate,Manufacturing,1472782877,124938,2007,Male,Wisconsin,11788.11
+591,591,44523,44523,Some College,Manufacturing,1515715547,109178,2007,Male,Wisconsin,13882.98
+592,592,44524,44524,Advanced Degree,Manufacturing,1245580827,58915,2007,Male,Wisconsin,21142.0
+593,593,44525,44525,Unavalble,Manufacturing,185102491,28223,2007,Male,Wisconsin,6558.57
+594,594,44526,44526,All Education Categories,Manufacturing,1382550660,152093,2007,Female,Wisconsin,9090.17
+595,595,44527,44527,Less Than High School,Manufacturing,86876834,12667,2007,Female,Wisconsin,6858.52
+596,596,44528,44528,High School Graduate,Manufacturing,455526421,56152,2007,Female,Wisconsin,8112.38
+597,597,44529,44529,Some College,Manufacturing,462482180,48661,2007,Female,Wisconsin,9504.17
+598,598,44530,44530,Advanced Degree,Manufacturing,318511607,22981,2007,Female,Wisconsin,13859.78
+599,599,44531,44531,Unavalble,Manufacturing,59153619,11632,2007,Female,Wisconsin,5085.42
+600,600,44544,44544,All Education Categories,Retail Trade,1012485849,142337,2007,Male,Wisconsin,7113.3
+601,601,44545,44545,Less Than High School,Retail Trade,74035972,11914,2007,Male,Wisconsin,6214.2
+602,602,44546,44546,High School Graduate,Retail Trade,308566132,39510,2007,Male,Wisconsin,7809.82
+603,603,44547,44547,Some College,Retail Trade,296278410,32461,2007,Male,Wisconsin,9127.21
+604,604,44548,44548,Advanced Degree,Retail Trade,213281895,16329,2007,Male,Wisconsin,13061.54
+605,605,44549,44549,Unavalble,Retail Trade,120323440,42123,2007,Male,Wisconsin,2856.48
+606,606,44550,44550,All Education Categories,Retail Trade,713100233,169742,2007,Female,Wisconsin,4201.08
+607,607,44551,44551,Less Than High School,Retail Trade,46148773,11846,2007,Female,Wisconsin,3895.73
+608,608,44552,44552,High School Graduate,Retail Trade,232348943,50983,2007,Female,Wisconsin,4557.38
+609,609,44553,44553,Some College,Retail Trade,206785896,39972,2007,Female,Wisconsin,5173.27
+610,610,44554,44554,Advanced Degree,Retail Trade,117069959,16345,2007,Female,Wisconsin,7162.43
+611,611,44555,44555,Unavalble,Retail Trade,110746661,50597,2007,Female,Wisconsin,2188.8
+612,612,44580,44580,All Education Categories,Finance and Insurance,1153424405,40988,2007,Male,Wisconsin,28140.54
+613,613,44581,44581,Less Than High School,Finance and Insurance,16233836,1392,2007,Male,Wisconsin,11662.24
+614,614,44582,44582,High School Graduate,Finance and Insurance,100873045,6271,2007,Male,Wisconsin,16085.64
+615,615,44583,44583,Some College,Finance and Insurance,221727969,10225,2007,Male,Wisconsin,21684.89
+616,616,44584,44584,Advanced Degree,Finance and Insurance,795862722,20227,2007,Male,Wisconsin,39346.55
+617,617,44585,44585,Unavalble,Finance and Insurance,18726832,2872,2007,Male,Wisconsin,6520.48
+618,618,44586,44586,All Education Categories,Finance and Insurance,1001363592,91829,2007,Female,Wisconsin,10904.66
+619,619,44587,44587,Less Than High School,Finance and Insurance,19071832,2707,2007,Female,Wisconsin,7045.38
+620,620,44588,44588,High School Graduate,Finance and Insurance,181929341,21781,2007,Female,Wisconsin,8352.66
+621,621,44589,44589,Some College,Finance and Insurance,295369460,29313,2007,Female,Wisconsin,10076.4
+622,622,44590,44590,Advanced Degree,Finance and Insurance,458812099,29085,2007,Female,Wisconsin,15774.87
+623,623,44591,44591,Unavalble,Finance and Insurance,46180859,8943,2007,Female,Wisconsin,5163.91
+624,624,44640,44640,All Education Categories,Educational Services,895998874,71244,2007,Male,Wisconsin,12576.48
+625,625,44641,44641,Less Than High School,Educational Services,21740614,2855,2007,Male,Wisconsin,7614.93
+626,626,44642,44642,High School Graduate,Educational Services,116648081,12639,2007,Male,Wisconsin,9229.22
+627,627,44643,44643,Some College,Educational Services,201113497,17948,2007,Male,Wisconsin,11205.34
+628,628,44644,44644,Advanced Degree,Educational Services,546114242,34272,2007,Male,Wisconsin,15934.71
+629,629,44645,44645,Unavalble,Educational Services,10382439,3529,2007,Male,Wisconsin,2942.03
+630,630,44646,44646,All Education Categories,Educational Services,1319391894,146041,2007,Female,Wisconsin,9034.39
+631,631,44647,44647,Less Than High School,Educational Services,24867525,4613,2007,Female,Wisconsin,5390.75
+632,632,44648,44648,High School Graduate,Educational Services,196201242,30487,2007,Female,Wisconsin,6435.57
+633,633,44649,44649,Some College,Educational Services,345519471,42114,2007,Female,Wisconsin,8204.39
+634,634,44650,44650,Advanced Degree,Educational Services,729076350,62076,2007,Female,Wisconsin,11744.9
+635,635,44651,44651,Unavalble,Educational Services,23727306,6750,2007,Female,Wisconsin,3515.16
+636,636,44652,44652,All Education Categories,Health Care and Social Assistance,1064486814,61822,2007,Male,Wisconsin,17218.58
+637,637,44653,44653,Less Than High School,Health Care and Social Assistance,27841094,4003,2007,Male,Wisconsin,6955.06
+638,638,44654,44654,High School Graduate,Health Care and Social Assistance,121989934,13044,2007,Male,Wisconsin,9352.19
+639,639,44655,44655,Some College,Health Care and Social Assistance,235267170,17043,2007,Male,Wisconsin,13804.33
+640,640,44656,44656,Advanced Degree,Health Care and Social Assistance,658629479,21760,2007,Male,Wisconsin,30267.9
+641,641,44657,44657,Unavalble,Health Care and Social Assistance,20759137,5972,2007,Male,Wisconsin,3476.08
+642,642,44658,44658,All Education Categories,Health Care and Social Assistance,2184940562,287622,2007,Female,Wisconsin,7596.57
+643,643,44659,44659,Less Than High School,Health Care and Social Assistance,77814061,15202,2007,Female,Wisconsin,5118.67
+644,644,44660,44660,High School Graduate,Health Care and Social Assistance,425813034,68950,2007,Female,Wisconsin,6175.68
+645,645,44661,44661,Some College,Health Care and Social Assistance,821436235,105584,2007,Female,Wisconsin,7779.93
+646,646,44662,44662,Advanced Degree,Health Care and Social Assistance,723873387,63811,2007,Female,Wisconsin,11344.02
+647,647,44663,44663,Unavalble,Health Care and Social Assistance,136003845,34074,2007,Female,Wisconsin,3991.43
+648,648,44676,44676,All Education Categories,Accommodation and Food Services,296677824,85335,2007,Male,Wisconsin,3476.63
+649,649,44677,44677,Less Than High School,Accommodation and Food Services,35137207,8839,2007,Male,Wisconsin,3975.25
+650,650,44678,44678,High School Graduate,Accommodation and Food Services,79563863,17547,2007,Male,Wisconsin,4534.33
+651,651,44679,44679,Some College,Accommodation and Food Services,67596985,13650,2007,Male,Wisconsin,4952.16
+652,652,44680,44680,Advanced Degree,Accommodation and Food Services,37399590,6267,2007,Male,Wisconsin,5967.7
+653,653,44681,44681,Unavalble,Accommodation and Food Services,76980178,39033,2007,Male,Wisconsin,1972.18
+654,654,44682,44682,All Education Categories,Accommodation and Food Services,332704807,126416,2007,Female,Wisconsin,2631.83
+655,655,44683,44683,Less Than High School,Accommodation and Food Services,30370184,10417,2007,Female,Wisconsin,2915.44
+656,656,44684,44684,High School Graduate,Accommodation and Food Services,88268657,28236,2007,Female,Wisconsin,3126.1
+657,657,44685,44685,Some College,Accommodation and Food Services,76952337,22840,2007,Female,Wisconsin,3369.19
+658,658,44686,44686,Advanced Degree,Accommodation and Food Services,36394811,9228,2007,Female,Wisconsin,3943.95
+659,659,44687,44687,Unavalble,Accommodation and Food Services,100718818,55695,2007,Female,Wisconsin,1808.4
+660,660,44712,44712,All Education Categories,00,16452667399,1334185,2008,Male,Wisconsin,12331.62
+661,661,44713,44713,Less Than High School,00,939045627,114384,2008,Male,Wisconsin,8209.59
+662,662,44714,44714,High School Graduate,00,4002633368,383232,2008,Male,Wisconsin,10444.41
+663,663,44715,44715,Some College,00,4684096461,367004,2008,Male,Wisconsin,12763.07
+664,664,44716,44716,Advanced Degree,00,6073904649,284632,2008,Male,Wisconsin,21339.5
+665,665,44717,44717,Unavalble,00,752987295,184934,2008,Male,Wisconsin,4071.65
+666,666,44718,44718,All Education Categories,00,10184529240,1367789,2008,Female,Wisconsin,7445.98
+667,667,44719,44719,Less Than High School,00,431570132,83589,2008,Female,Wisconsin,5163.0
+668,668,44720,44720,High School Graduate,00,2308002494,361508,2008,Female,Wisconsin,6384.37
+669,669,44721,44721,Some College,00,3295085259,416141,2008,Female,Wisconsin,7918.19
+670,670,44722,44722,Advanced Degree,00,3493736236,292042,2008,Female,Wisconsin,11963.13
+671,671,44723,44723,Unavalble,00,656135119,214510,2008,Female,Wisconsin,3058.76
+672,672,44772,44772,All Education Categories,Manufacturing,4825183049,352073,2008,Male,Wisconsin,13705.06
+673,673,44773,44773,Less Than High School,Manufacturing,345039898,34132,2008,Male,Wisconsin,10108.99
+674,674,44774,44774,High School Graduate,Manufacturing,1498342485,123753,2008,Male,Wisconsin,12107.52
+675,675,44775,44775,Some College,Manufacturing,1545294335,108471,2008,Male,Wisconsin,14246.15
+676,676,44776,44776,Advanced Degree,Manufacturing,1249964526,58418,2008,Male,Wisconsin,21396.91
+677,677,44777,44777,Unavalble,Manufacturing,186541804,27299,2008,Male,Wisconsin,6833.28
+678,678,44778,44778,All Education Categories,Manufacturing,1395566511,148992,2008,Female,Wisconsin,9366.72
+679,679,44779,44779,Less Than High School,Manufacturing,89176156,12517,2008,Female,Wisconsin,7124.4
+680,680,44780,44780,High School Graduate,Manufacturing,457535030,54624,2008,Female,Wisconsin,8376.08
+681,681,44781,44781,Some College,Manufacturing,468159144,47981,2008,Female,Wisconsin,9757.18
+682,682,44782,44782,Advanced Degree,Manufacturing,322670840,22917,2008,Female,Wisconsin,14079.98
+683,683,44783,44783,Unavalble,Manufacturing,58025341,10953,2008,Female,Wisconsin,5297.67
+684,684,44796,44796,All Education Categories,Retail Trade,996939969,142148,2008,Male,Wisconsin,7013.39
+685,685,44797,44797,Less Than High School,Retail Trade,74764431,11991,2008,Male,Wisconsin,6235.05
+686,686,44798,44798,High School Graduate,Retail Trade,308761628,39462,2008,Male,Wisconsin,7824.28
+687,687,44799,44799,Some College,Retail Trade,293809532,32531,2008,Male,Wisconsin,9031.68
+688,688,44800,44800,Advanced Degree,Retail Trade,201332557,16433,2008,Male,Wisconsin,12251.72
+689,689,44801,44801,Unavalble,Retail Trade,118271821,41731,2008,Male,Wisconsin,2834.15
+690,690,44802,44802,All Education Categories,Retail Trade,717696981,170263,2008,Female,Wisconsin,4215.23
+691,691,44803,44803,Less Than High School,Retail Trade,47847447,11999,2008,Female,Wisconsin,3987.62
+692,692,44804,44804,High School Graduate,Retail Trade,234659414,50994,2008,Female,Wisconsin,4601.71
+693,693,44805,44805,Some College,Retail Trade,209151574,40507,2008,Female,Wisconsin,5163.34
+694,694,44806,44806,Advanced Degree,Retail Trade,116958840,16710,2008,Female,Wisconsin,6999.33
+695,695,44807,44807,Unavalble,Retail Trade,109079706,50054,2008,Female,Wisconsin,2179.24
+696,696,44832,44832,All Education Categories,Finance and Insurance,1182187371,42057,2008,Male,Wisconsin,28109.17
+697,697,44833,44833,Less Than High School,Finance and Insurance,18359886,1536,2008,Male,Wisconsin,11953.05
+698,698,44834,44834,High School Graduate,Finance and Insurance,106980984,6672,2008,Male,Wisconsin,16034.32
+699,699,44835,44835,Some College,Finance and Insurance,229807616,10595,2008,Male,Wisconsin,21690.19
+700,700,44836,44836,Advanced Degree,Finance and Insurance,808352775,20391,2008,Male,Wisconsin,39642.63
+701,701,44837,44837,Unavalble,Finance and Insurance,18686111,2863,2008,Male,Wisconsin,6526.76
+702,702,44838,44838,All Education Categories,Finance and Insurance,1047188106,93194,2008,Female,Wisconsin,11236.65
+703,703,44839,44839,Less Than High School,Finance and Insurance,21406028,2913,2008,Female,Wisconsin,7348.45
+704,704,44840,44840,High School Graduate,Finance and Insurance,191401837,22288,2008,Female,Wisconsin,8587.66
+705,705,44841,44841,Some College,Finance and Insurance,311457742,29946,2008,Female,Wisconsin,10400.65
+706,706,44842,44842,Advanced Degree,Finance and Insurance,477246141,29469,2008,Female,Wisconsin,16194.85
+707,707,44843,44843,Unavalble,Finance and Insurance,45676358,8577,2008,Female,Wisconsin,5325.45
+708,708,44892,44892,All Education Categories,Educational Services,861201819,71460,2008,Male,Wisconsin,12051.52
+709,709,44893,44893,Less Than High School,Educational Services,23249704,3013,2008,Male,Wisconsin,7716.46
+710,710,44894,44894,High School Graduate,Educational Services,118790353,12856,2008,Male,Wisconsin,9240.07
+711,711,44895,44895,Some College,Educational Services,199272282,18157,2008,Male,Wisconsin,10974.96
+712,712,44896,44896,Advanced Degree,Educational Services,509281094,33771,2008,Male,Wisconsin,15080.43
+713,713,44897,44897,Unavalble,Educational Services,10608386,3663,2008,Male,Wisconsin,2896.09
+714,714,44898,44898,All Education Categories,Educational Services,1323567493,148146,2008,Female,Wisconsin,8934.21
+715,715,44899,44899,Less Than High School,Educational Services,28021674,4936,2008,Female,Wisconsin,5677.0
+716,716,44900,44900,High School Graduate,Educational Services,204954870,31076,2008,Female,Wisconsin,6595.28
+717,717,44901,44901,Some College,Educational Services,355475157,43143,2008,Female,Wisconsin,8239.46
+718,718,44902,44902,Advanced Degree,Educational Services,711650176,62156,2008,Female,Wisconsin,11449.42
+719,719,44903,44903,Unavalble,Educational Services,23465617,6835,2008,Female,Wisconsin,3433.16
+720,720,44904,44904,All Education Categories,Health Care and Social Assistance,1166882618,62991,2008,Male,Wisconsin,18524.59
+721,721,44905,44905,Less Than High School,Health Care and Social Assistance,31108543,4217,2008,Male,Wisconsin,7376.94
+722,722,44906,44906,High School Graduate,Health Care and Social Assistance,133869442,13455,2008,Male,Wisconsin,9949.42
+723,723,44907,44907,Some College,Health Care and Social Assistance,254782397,17397,2008,Male,Wisconsin,14645.19
+724,724,44908,44908,Advanced Degree,Health Care and Social Assistance,725353585,21857,2008,Male,Wisconsin,33186.33
+725,725,44909,44909,Unavalble,Health Care and Social Assistance,21768651,6065,2008,Male,Wisconsin,3589.23
+726,726,44910,44910,All Education Categories,Health Care and Social Assistance,2321224495,292367,2008,Female,Wisconsin,7939.42
+727,727,44911,44911,Less Than High School,Health Care and Social Assistance,86363964,16055,2008,Female,Wisconsin,5379.26
+728,728,44912,44912,High School Graduate,Health Care and Social Assistance,454707093,70537,2008,Female,Wisconsin,6446.36
+729,729,44913,44913,Some College,Health Care and Social Assistance,869321003,107252,2008,Female,Wisconsin,8105.41
+730,730,44914,44914,Advanced Degree,Health Care and Social Assistance,772004674,64824,2008,Female,Wisconsin,11909.24
+731,731,44915,44915,Unavalble,Health Care and Social Assistance,138827760,33700,2008,Female,Wisconsin,4119.52
+732,732,44928,44928,All Education Categories,Accommodation and Food Services,296388525,85253,2008,Male,Wisconsin,3476.58
+733,733,44929,44929,Less Than High School,Accommodation and Food Services,36225957,8962,2008,Male,Wisconsin,4042.17
+734,734,44930,44930,High School Graduate,Accommodation and Food Services,80627946,17777,2008,Male,Wisconsin,4535.52
+735,735,44931,44931,Some College,Accommodation and Food Services,67496799,13835,2008,Male,Wisconsin,4878.7
+736,736,44932,44932,Advanced Degree,Accommodation and Food Services,36404782,6382,2008,Male,Wisconsin,5704.29
+737,737,44933,44933,Unavalble,Accommodation and Food Services,75633041,38297,2008,Male,Wisconsin,1974.91
+738,738,44934,44934,All Education Categories,Accommodation and Food Services,334497455,125092,2008,Female,Wisconsin,2674.01
+739,739,44935,44935,Less Than High School,Accommodation and Food Services,31611394,10563,2008,Female,Wisconsin,2992.65
+740,740,44936,44936,High School Graduate,Accommodation and Food Services,89750497,28180,2008,Female,Wisconsin,3184.9
+741,741,44937,44937,Some College,Accommodation and Food Services,78664713,23119,2008,Female,Wisconsin,3402.6
+742,742,44938,44938,Advanced Degree,Accommodation and Food Services,36239943,9504,2008,Female,Wisconsin,3813.13
+743,743,44939,44939,Unavalble,Accommodation and Food Services,98230908,53727,2008,Female,Wisconsin,1828.33
+744,744,44964,44964,All Education Categories,00,15090129757,1280709,2009,Male,Wisconsin,11782.64
+745,745,44965,44965,Less Than High School,00,862311465,110656,2009,Male,Wisconsin,7792.72
+746,746,44966,44966,High School Graduate,00,3639895197,368419,2009,Male,Wisconsin,9879.77
+747,747,44967,44967,Some College,00,4320308026,355076,2009,Male,Wisconsin,12167.28
+748,748,44968,44968,Advanced Degree,00,5626826793,276617,2009,Male,Wisconsin,20341.58
+749,749,44969,44969,Unavalble,00,640788276,169940,2009,Male,Wisconsin,3770.67
+750,750,44970,44970,All Education Categories,00,9931130389,1340977,2009,Female,Wisconsin,7405.89
+751,751,44971,44971,Less Than High School,00,428099893,83346,2009,Female,Wisconsin,5136.42
+752,752,44972,44972,High School Graduate,00,2235953229,354009,2009,Female,Wisconsin,6316.09
+753,753,44973,44973,Some College,00,3237591310,411740,2009,Female,Wisconsin,7863.19
+754,754,44974,44974,Advanced Degree,00,3431323034,290506,2009,Female,Wisconsin,11811.54
+755,755,44975,44975,Unavalble,00,598162922,201376,2009,Female,Wisconsin,2970.38
+756,756,45024,45024,All Education Categories,Manufacturing,4163791960,329226,2009,Male,Wisconsin,12647.21
+757,757,45025,45025,Less Than High School,Manufacturing,296065018,32317,2009,Male,Wisconsin,9161.28
+758,758,45026,45026,High School Graduate,Manufacturing,1285531492,116032,2009,Male,Wisconsin,11079.11
+759,759,45027,45027,Some College,Manufacturing,1340572839,102113,2009,Male,Wisconsin,13128.33
+760,760,45028,45028,Advanced Degree,Manufacturing,1095329361,54684,2009,Male,Wisconsin,20030.16
+761,761,45029,45029,Unavalble,Manufacturing,146293250,24079,2009,Male,Wisconsin,6075.55
+762,762,45030,45030,All Education Categories,Manufacturing,1231971970,136660,2009,Female,Wisconsin,9014.87
+763,763,45031,45031,Less Than High School,Manufacturing,78421403,11676,2009,Female,Wisconsin,6716.46
+764,764,45032,45032,High School Graduate,Manufacturing,395887542,49945,2009,Female,Wisconsin,7926.47
+765,765,45033,45033,Some College,Manufacturing,416436737,44439,2009,Female,Wisconsin,9370.97
+766,766,45034,45034,Advanced Degree,Manufacturing,295749695,21427,2009,Female,Wisconsin,13802.66
+767,767,45035,45035,Unavalble,Manufacturing,45476593,9173,2009,Female,Wisconsin,4957.66
+768,768,45048,45048,All Education Categories,Retail Trade,935978089,134990,2009,Male,Wisconsin,6933.68
+769,769,45049,45049,Less Than High School,Retail Trade,71200855,11639,2009,Male,Wisconsin,6117.44
+770,770,45050,45050,High School Graduate,Retail Trade,289461550,37940,2009,Male,Wisconsin,7629.46
+771,771,45051,45051,Some College,Retail Trade,279236847,31508,2009,Male,Wisconsin,8862.41
+772,772,45052,45052,Advanced Degree,Retail Trade,194000448,16175,2009,Male,Wisconsin,11993.85
+773,773,45053,45053,Unavalble,Retail Trade,102078389,37729,2009,Male,Wisconsin,2705.57
+774,774,45054,45054,All Education Categories,Retail Trade,677614181,160399,2009,Female,Wisconsin,4224.55
+775,775,45055,45055,Less Than High School,Retail Trade,45949766,11487,2009,Female,Wisconsin,4000.15
+776,776,45056,45056,High School Graduate,Retail Trade,221725167,48201,2009,Female,Wisconsin,4600.01
+777,777,45057,45057,Some College,Retail Trade,199907195,38931,2009,Female,Wisconsin,5134.91
+778,778,45058,45058,Advanced Degree,Retail Trade,113878939,16404,2009,Female,Wisconsin,6942.14
+779,779,45059,45059,Unavalble,Retail Trade,96153115,45376,2009,Female,Wisconsin,2119.03
+780,780,45084,45084,All Education Categories,Finance and Insurance,1052533300,41228,2009,Male,Wisconsin,25529.57
+781,781,45085,45085,Less Than High School,Finance and Insurance,19297639,1614,2009,Male,Wisconsin,11956.41
+782,782,45086,45086,High School Graduate,Finance and Insurance,102515148,6725,2009,Male,Wisconsin,15243.89
+783,783,45087,45087,Some College,Finance and Insurance,211132929,10427,2009,Male,Wisconsin,20248.67
+784,784,45088,45088,Advanced Degree,Finance and Insurance,701854821,19711,2009,Male,Wisconsin,35607.27
+785,785,45089,45089,Unavalble,Finance and Insurance,17732763,2751,2009,Male,Wisconsin,6445.93
+786,786,45090,45090,All Education Categories,Finance and Insurance,998519782,89836,2009,Female,Wisconsin,11114.92
+787,787,45091,45091,Less Than High School,Finance and Insurance,22365118,3010,2009,Female,Wisconsin,7430.27
+788,788,45092,45092,High School Graduate,Finance and Insurance,187510276,21515,2009,Female,Wisconsin,8715.33
+789,789,45093,45093,Some College,Finance and Insurance,302041252,29023,2009,Female,Wisconsin,10406.96
+790,790,45094,45094,Advanced Degree,Finance and Insurance,446009702,28396,2009,Female,Wisconsin,15706.78
+791,791,45095,45095,Unavalble,Finance and Insurance,40593434,7891,2009,Female,Wisconsin,5144.27
+792,792,45144,45144,All Education Categories,Educational Services,871159325,72368,2009,Male,Wisconsin,12037.91
+793,793,45145,45145,Less Than High School,Educational Services,25737063,3242,2009,Male,Wisconsin,7938.64
+794,794,45146,45146,High School Graduate,Educational Services,123675160,13323,2009,Male,Wisconsin,9282.83
+795,795,45147,45147,Some College,Educational Services,204747805,18569,2009,Male,Wisconsin,11026.32
+796,796,45148,45148,Advanced Degree,Educational Services,505787735,33390,2009,Male,Wisconsin,15147.88
+797,797,45149,45149,Unavalble,Educational Services,11211562,3844,2009,Male,Wisconsin,2916.64
+798,798,45150,45150,All Education Categories,Educational Services,1374684779,151034,2009,Female,Wisconsin,9101.82
+799,799,45151,45151,Less Than High School,Educational Services,31650360,5395,2009,Female,Wisconsin,5866.61
+800,800,45152,45152,High School Graduate,Educational Services,215968042,31807,2009,Female,Wisconsin,6789.95
+801,801,45153,45153,Some College,Educational Services,373636434,44386,2009,Female,Wisconsin,8417.89
+802,802,45154,45154,Advanced Degree,Educational Services,728800154,62335,2009,Female,Wisconsin,11691.67
+803,803,45155,45155,Unavalble,Educational Services,24629789,7111,2009,Female,Wisconsin,3463.62
+804,804,45156,45156,All Education Categories,Health Care and Social Assistance,1193452927,65193,2009,Male,Wisconsin,18306.46
+805,805,45157,45157,Less Than High School,Health Care and Social Assistance,33697622,4535,2009,Male,Wisconsin,7430.57
+806,806,45158,45158,High School Graduate,Health Care and Social Assistance,139355737,14097,2009,Male,Wisconsin,9885.49
+807,807,45159,45159,Some College,Health Care and Social Assistance,261441605,18061,2009,Male,Wisconsin,14475.48
+808,808,45160,45160,Advanced Degree,Health Care and Social Assistance,736380698,22215,2009,Male,Wisconsin,33147.9
+809,809,45161,45161,Unavalble,Health Care and Social Assistance,22577265,6285,2009,Male,Wisconsin,3592.25
+810,810,45162,45162,All Education Categories,Health Care and Social Assistance,2398049403,302093,2009,Female,Wisconsin,7938.12
+811,811,45163,45163,Less Than High School,Health Care and Social Assistance,94885262,17281,2009,Female,Wisconsin,5490.73
+812,812,45164,45164,High School Graduate,Health Care and Social Assistance,476801798,73203,2009,Female,Wisconsin,6513.42
+813,813,45165,45165,Some College,Health Care and Social Assistance,895144633,110030,2009,Female,Wisconsin,8135.46
+814,814,45166,45166,Advanced Degree,Health Care and Social Assistance,791772804,66931,2009,Female,Wisconsin,11829.69
+815,815,45167,45167,Unavalble,Health Care and Social Assistance,139444905,34648,2009,Female,Wisconsin,4024.62
+816,816,45180,45180,All Education Categories,Accommodation and Food Services,284648798,84278,2009,Male,Wisconsin,3377.5
+817,817,45181,45181,Less Than High School,Accommodation and Food Services,35446998,9085,2009,Male,Wisconsin,3901.71
+818,818,45182,45182,High School Graduate,Accommodation and Food Services,77967238,17871,2009,Male,Wisconsin,4362.78
+819,819,45183,45183,Some College,Accommodation and Food Services,66020793,13951,2009,Male,Wisconsin,4732.33
+820,820,45184,45184,Advanced Degree,Accommodation and Food Services,35131823,6520,2009,Male,Wisconsin,5388.32
+821,821,45185,45185,Unavalble,Accommodation and Food Services,70081946,36849,2009,Male,Wisconsin,1901.87
+822,822,45186,45186,All Education Categories,Accommodation and Food Services,318060022,121303,2009,Female,Wisconsin,2622.03
+823,823,45187,45187,Less Than High School,Accommodation and Food Services,30663410,10430,2009,Female,Wisconsin,2939.92
+824,824,45188,45188,High School Graduate,Accommodation and Food Services,86385183,27672,2009,Female,Wisconsin,3121.75
+825,825,45189,45189,Some College,Accommodation and Food Services,75821744,22893,2009,Female,Wisconsin,3312.01
+826,826,45190,45190,Advanced Degree,Accommodation and Food Services,35407378,9568,2009,Female,Wisconsin,3700.6
+827,827,45191,45191,Unavalble,Accommodation and Food Services,89782307,50741,2009,Female,Wisconsin,1769.42
+828,828,45216,45216,All Education Categories,00,14534642698,1224777,2010,Male,Wisconsin,11867.17
+829,829,45217,45217,Less Than High School,00,839296989,106305,2010,Male,Wisconsin,7895.18
+830,830,45218,45218,High School Graduate,00,3486618748,353241,2010,Male,Wisconsin,9870.37
+831,831,45219,45219,Some College,00,4158923157,343073,2010,Male,Wisconsin,12122.56
+832,832,45220,45220,Advanced Degree,00,5482847581,268598,2010,Male,Wisconsin,20412.84
+833,833,45221,45221,Unavalble,00,566956223,153561,2010,Male,Wisconsin,3692.06
+834,834,45222,45222,All Education Categories,00,9591441843,1297387,2010,Female,Wisconsin,7392.89
+835,835,45223,45223,Less Than High School,00,429285737,82179,2010,Female,Wisconsin,5223.79
+836,836,45224,45224,High School Graduate,00,2175079769,343731,2010,Female,Wisconsin,6327.85
+837,837,45225,45225,Some College,00,3138395725,401969,2010,Female,Wisconsin,7807.56
+838,838,45226,45226,Advanced Degree,00,3318185017,284307,2010,Female,Wisconsin,11671.13
+839,839,45227,45227,Unavalble,00,530495595,185202,2010,Female,Wisconsin,2864.42
+840,840,45276,45276,All Education Categories,Manufacturing,3936647693,298172,2010,Male,Wisconsin,13202.61
+841,841,45277,45277,Less Than High School,Manufacturing,279447352,28646,2010,Male,Wisconsin,9755.2
+842,842,45278,45278,High School Graduate,Manufacturing,1211178147,105650,2010,Male,Wisconsin,11464.06
+843,843,45279,45279,Some College,Manufacturing,1266169719,94097,2010,Male,Wisconsin,13456.01
+844,844,45280,45280,Advanced Degree,Manufacturing,1061817253,51652,2010,Male,Wisconsin,20557.14
+845,845,45281,45281,Unavalble,Manufacturing,118035222,18126,2010,Male,Wisconsin,6511.93
+846,846,45282,45282,All Education Categories,Manufacturing,1147278787,123519,2010,Female,Wisconsin,9288.28
+847,847,45283,45283,Less Than High School,Manufacturing,74365510,10430,2010,Female,Wisconsin,7129.96
+848,848,45284,45284,High School Graduate,Manufacturing,369066339,44990,2010,Female,Wisconsin,8203.3
+849,849,45285,45285,Some College,Manufacturing,388782900,40723,2010,Female,Wisconsin,9547.01
+850,850,45286,45286,Advanced Degree,Manufacturing,278819339,20267,2010,Female,Wisconsin,13757.31
+851,851,45287,45287,Unavalble,Manufacturing,36244699,7109,2010,Female,Wisconsin,5098.42
+852,852,45300,45300,All Education Categories,Retail Trade,909630470,131855,2010,Male,Wisconsin,6898.72
+853,853,45301,45301,Less Than High School,Retail Trade,70216099,11522,2010,Male,Wisconsin,6094.09
+854,854,45302,45302,High School Graduate,Retail Trade,280174179,37399,2010,Male,Wisconsin,7491.49
+855,855,45303,45303,Some College,Retail Trade,273905151,31373,2010,Male,Wisconsin,8730.6
+856,856,45304,45304,Advanced Degree,Retail Trade,191936109,16223,2010,Male,Wisconsin,11831.11
+857,857,45305,45305,Unavalble,Retail Trade,93398931,35338,2010,Male,Wisconsin,2643.02
+858,858,45306,45306,All Education Categories,Retail Trade,653047130,154059,2010,Female,Wisconsin,4238.94
+859,859,45307,45307,Less Than High School,Retail Trade,44878358,11178,2010,Female,Wisconsin,4014.88
+860,860,45308,45308,High School Graduate,Retail Trade,212637227,46408,2010,Female,Wisconsin,4581.91
+861,861,45309,45309,Some College,Retail Trade,195285721,37964,2010,Female,Wisconsin,5143.97
+862,862,45310,45310,Advanced Degree,Retail Trade,112487296,16368,2010,Female,Wisconsin,6872.39
+863,863,45311,45311,Unavalble,Retail Trade,87758528,42140,2010,Female,Wisconsin,2082.55
+864,864,45336,45336,All Education Categories,Finance and Insurance,1049772791,40728,2010,Male,Wisconsin,25775.21
+865,865,45337,45337,Less Than High School,Finance and Insurance,20156809,1713,2010,Male,Wisconsin,11766.96
+866,866,45338,45338,High School Graduate,Finance and Insurance,105934841,6846,2010,Male,Wisconsin,15473.98
+867,867,45339,45339,Some College,Finance and Insurance,215032236,10458,2010,Male,Wisconsin,20561.51
+868,868,45340,45340,Advanced Degree,Finance and Insurance,693160814,19303,2010,Male,Wisconsin,35909.49
+869,869,45341,45341,Unavalble,Finance and Insurance,15488091,2408,2010,Male,Wisconsin,6431.93
+870,870,45342,45342,All Education Categories,Finance and Insurance,984391323,86739,2010,Female,Wisconsin,11348.89
+871,871,45343,45343,Less Than High School,Finance and Insurance,23225197,3086,2010,Female,Wisconsin,7525.99
+872,872,45344,45344,High School Graduate,Finance and Insurance,185899893,21202,2010,Female,Wisconsin,8768.04
+873,873,45345,45345,Some College,Finance and Insurance,300160663,28511,2010,Female,Wisconsin,10527.89
+874,874,45346,45346,Advanced Degree,Finance and Insurance,442785627,27548,2010,Female,Wisconsin,16073.24
+875,875,45347,45347,Unavalble,Finance and Insurance,32319944,6392,2010,Female,Wisconsin,5056.31
+876,876,45396,45396,All Education Categories,Educational Services,871461184,73173,2010,Male,Wisconsin,11909.6
+877,877,45397,45397,Less Than High School,Educational Services,28032572,3501,2010,Male,Wisconsin,8007.02
+878,878,45398,45398,High School Graduate,Educational Services,127662650,13868,2010,Male,Wisconsin,9205.56
+879,879,45399,45399,Some College,Educational Services,207084536,18929,2010,Male,Wisconsin,10940.07
+880,880,45400,45400,Advanced Degree,Educational Services,497576443,32868,2010,Male,Wisconsin,15138.63
+881,881,45401,45401,Unavalble,Educational Services,11104982,4006,2010,Male,Wisconsin,2772.09
+882,882,45402,45402,All Education Categories,Educational Services,1377837641,151228,2010,Female,Wisconsin,9111.0
+883,883,45403,45403,Less Than High School,Educational Services,34952861,5740,2010,Female,Wisconsin,6089.35
+884,884,45404,45404,High School Graduate,Educational Services,222749541,32134,2010,Female,Wisconsin,6931.9
+885,885,45405,45405,Some College,Educational Services,379922332,44756,2010,Female,Wisconsin,8488.75
+886,886,45406,45406,Advanced Degree,Educational Services,717383707,61713,2010,Female,Wisconsin,11624.52
+887,887,45407,45407,Unavalble,Educational Services,22829200,6884,2010,Female,Wisconsin,3316.27
+888,888,45408,45408,All Education Categories,Health Care and Social Assistance,1155082417,64571,2010,Male,Wisconsin,17888.56
+889,889,45409,45409,Less Than High School,Health Care and Social Assistance,34865487,4685,2010,Male,Wisconsin,7441.94
+890,890,45410,45410,High School Graduate,Health Care and Social Assistance,137261732,14217,2010,Male,Wisconsin,9654.76
+891,891,45411,45411,Some College,Health Care and Social Assistance,253817505,17861,2010,Male,Wisconsin,14210.71
+892,892,45412,45412,Advanced Degree,Health Care and Social Assistance,707970700,21642,2010,Male,Wisconsin,32712.81
+893,893,45413,45413,Unavalble,Health Care and Social Assistance,21166992,6166,2010,Male,Wisconsin,3432.86
+894,894,45414,45414,All Education Categories,Health Care and Social Assistance,2277988726,295568,2010,Female,Wisconsin,7707.16
+895,895,45415,45415,Less Than High School,Health Care and Social Assistance,95991651,17645,2010,Female,Wisconsin,5440.16
+896,896,45416,45416,High School Graduate,Health Care and Social Assistance,465482051,72965,2010,Female,Wisconsin,6379.53
+897,897,45417,45417,Some College,Health Care and Social Assistance,852456615,107850,2010,Female,Wisconsin,7904.09
+898,898,45418,45418,Advanced Degree,Health Care and Social Assistance,742016783,64872,2010,Female,Wisconsin,11438.17
+899,899,45419,45419,Unavalble,Health Care and Social Assistance,122041625,32235,2010,Female,Wisconsin,3786.0
+900,900,45432,45432,All Education Categories,Accommodation and Food Services,285425399,83829,2010,Male,Wisconsin,3404.85
+901,901,45433,45433,Less Than High School,Accommodation and Food Services,35986112,9258,2010,Male,Wisconsin,3887.03
+902,902,45434,45434,High School Graduate,Accommodation and Food Services,78391113,18129,2010,Male,Wisconsin,4324.07
+903,903,45435,45435,Some College,Accommodation and Food Services,66714896,14396,2010,Male,Wisconsin,4634.27
+904,904,45436,45436,Advanced Degree,Accommodation and Food Services,36003639,6879,2010,Male,Wisconsin,5233.85
+905,905,45437,45437,Unavalble,Accommodation and Food Services,68329638,35166,2010,Male,Wisconsin,1943.06
+906,906,45438,45438,All Education Categories,Accommodation and Food Services,319516538,118912,2010,Female,Wisconsin,2687.0
+907,907,45439,45439,Less Than High School,Accommodation and Food Services,31015688,10311,2010,Female,Wisconsin,3008.02
+908,908,45440,45440,High School Graduate,Accommodation and Food Services,85924064,27256,2010,Female,Wisconsin,3152.48
+909,909,45441,45441,Some College,Accommodation and Food Services,76934875,22938,2010,Female,Wisconsin,3354.04
+910,910,45442,45442,Advanced Degree,Accommodation and Food Services,36792532,9868,2010,Female,Wisconsin,3728.47
+911,911,45443,45443,Unavalble,Accommodation and Food Services,88849378,48538,2010,Female,Wisconsin,1830.51
+912,912,45468,45468,All Education Categories,00,15694639709,1257908,2011,Male,Wisconsin,12476.78
+913,913,45469,45469,Less Than High School,00,940257891,112782,2011,Male,Wisconsin,8336.95
+914,914,45470,45470,High School Graduate,00,3797762109,364254,2011,Male,Wisconsin,10426.14
+915,915,45471,45471,Some College,00,4490541691,352552,2011,Male,Wisconsin,12737.25
+916,916,45472,45472,Advanced Degree,00,5859266265,272111,2011,Male,Wisconsin,21532.63
+917,917,45473,45473,Unavalble,00,606811752,156210,2011,Male,Wisconsin,3884.59
+918,918,45474,45474,All Education Categories,00,10168707849,1310202,2011,Female,Wisconsin,7761.18
+919,919,45475,45475,Less Than High School,00,473317872,85487,2011,Female,Wisconsin,5536.72
+920,920,45476,45476,High School Graduate,00,2303278493,347197,2011,Female,Wisconsin,6633.92
+921,921,45477,45477,Some College,00,3320229381,406732,2011,Female,Wisconsin,8163.19
+922,922,45478,45478,Advanced Degree,00,3531900036,287691,2011,Female,Wisconsin,12276.71
+923,923,45479,45479,Unavalble,00,539982067,183096,2011,Female,Wisconsin,2949.17
+924,924,45528,45528,All Education Categories,Manufacturing,4391204365,312037,2011,Male,Wisconsin,14072.7
+925,925,45529,45529,Less Than High School,Manufacturing,321797834,31032,2011,Male,Wisconsin,10369.87
+926,926,45530,45530,High School Graduate,Manufacturing,1352397205,110002,2011,Male,Wisconsin,12294.3
+927,927,45531,45531,Some College,Manufacturing,1401388606,97528,2011,Male,Wisconsin,14369.09
+928,928,45532,45532,Advanced Degree,Manufacturing,1172954170,53034,2011,Male,Wisconsin,22117.02
+929,929,45533,45533,Unavalble,Manufacturing,142666550,20442,2011,Male,Wisconsin,6979.09
+930,930,45534,45534,All Education Categories,Manufacturing,1241094922,125839,2011,Female,Wisconsin,9862.56
+931,931,45535,45535,Less Than High School,Manufacturing,81644630,10901,2011,Female,Wisconsin,7489.65
+932,932,45536,45536,High School Graduate,Manufacturing,393992746,45516,2011,Female,Wisconsin,8656.14
+933,933,45537,45537,Some College,Manufacturing,417785409,41325,2011,Female,Wisconsin,10109.75
+934,934,45538,45538,Advanced Degree,Manufacturing,308413553,20736,2011,Female,Wisconsin,14873.34
+935,935,45539,45539,Unavalble,Manufacturing,39258582,7361,2011,Female,Wisconsin,5333.32
+936,936,45552,45552,All Education Categories,Retail Trade,945798271,132608,2011,Male,Wisconsin,7132.29
+937,937,45553,45553,Less Than High School,Retail Trade,74608024,11698,2011,Male,Wisconsin,6377.84
+938,938,45554,45554,High School Graduate,Retail Trade,291368318,37419,2011,Male,Wisconsin,7786.64
+939,939,45555,45555,Some College,Retail Trade,283150716,31622,2011,Male,Wisconsin,8954.23
+940,940,45556,45556,Advanced Degree,Retail Trade,199179045,16497,2011,Male,Wisconsin,12073.65
+941,941,45557,45557,Unavalble,Retail Trade,97492167,35373,2011,Male,Wisconsin,2756.12
+942,942,45558,45558,All Education Categories,Retail Trade,679998986,154099,2011,Female,Wisconsin,4412.74
+943,943,45559,45559,Less Than High School,Retail Trade,47337244,11166,2011,Female,Wisconsin,4239.41
+944,944,45560,45560,High School Graduate,Retail Trade,219303451,45791,2011,Female,Wisconsin,4789.23
+945,945,45561,45561,Some College,Retail Trade,204191946,38163,2011,Female,Wisconsin,5350.52
+946,946,45562,45562,Advanced Degree,Retail Trade,118399836,16803,2011,Female,Wisconsin,7046.35
+947,947,45563,45563,Unavalble,Retail Trade,90766509,42176,2011,Female,Wisconsin,2152.09
+948,948,45588,45588,All Education Categories,Finance and Insurance,1138796613,40207,2011,Male,Wisconsin,28323.34
+949,949,45589,45589,Less Than High School,Finance and Insurance,22916255,1806,2011,Male,Wisconsin,12688.96
+950,950,45590,45590,High School Graduate,Finance and Insurance,116586412,6984,2011,Male,Wisconsin,16693.36
+951,951,45591,45591,Some College,Finance and Insurance,231774267,10377,2011,Male,Wisconsin,22335.38
+952,952,45592,45592,Advanced Degree,Finance and Insurance,752045593,18687,2011,Male,Wisconsin,40244.32
+953,953,45593,45593,Unavalble,Finance and Insurance,15474087,2352,2011,Male,Wisconsin,6579.12
+954,954,45594,45594,All Education Categories,Finance and Insurance,1013200994,83636,2011,Female,Wisconsin,12114.41
+955,955,45595,45595,Less Than High School,Finance and Insurance,24936256,3156,2011,Female,Wisconsin,7901.22
+956,956,45596,45596,High School Graduate,Finance and Insurance,188829807,20582,2011,Female,Wisconsin,9174.51
+957,957,45597,45597,Some College,Finance and Insurance,306406009,27664,2011,Female,Wisconsin,11075.98
+958,958,45598,45598,Advanced Degree,Finance and Insurance,464286366,26546,2011,Female,Wisconsin,17489.88
+959,959,45599,45599,Unavalble,Finance and Insurance,28742557,5688,2011,Female,Wisconsin,5053.19
+960,960,45648,45648,All Education Categories,Educational Services,967792912,73747,2011,Male,Wisconsin,13123.15
+961,961,45649,45649,Less Than High School,Educational Services,33182511,3777,2011,Male,Wisconsin,8785.41
+962,962,45650,45650,High School Graduate,Educational Services,141378743,14272,2011,Male,Wisconsin,9906.02
+963,963,45651,45651,Some College,Educational Services,228921843,19266,2011,Male,Wisconsin,11882.17
+964,964,45652,45652,Advanced Degree,Educational Services,552486613,32430,2011,Male,Wisconsin,17036.28
+965,965,45653,45653,Unavalble,Educational Services,11823201,4002,2011,Male,Wisconsin,2954.32
+966,966,45654,45654,All Education Categories,Educational Services,1470906958,152546,2011,Female,Wisconsin,9642.38
+967,967,45655,45655,Less Than High School,Educational Services,40406687,6117,2011,Female,Wisconsin,6605.64
+968,968,45656,45656,High School Graduate,Educational Services,240255706,32681,2011,Female,Wisconsin,7351.54
+969,969,45657,45657,Some College,Educational Services,408282790,45448,2011,Female,Wisconsin,8983.52
+970,970,45658,45658,Advanced Degree,Educational Services,759239417,61363,2011,Female,Wisconsin,12372.92
+971,971,45659,45659,Unavalble,Educational Services,22722357,6938,2011,Female,Wisconsin,3275.06
+972,972,45660,45660,All Education Categories,Health Care and Social Assistance,1166539170,67589,2011,Male,Wisconsin,17259.31
+973,973,45661,45661,Less Than High School,Health Care and Social Assistance,40183735,5116,2011,Male,Wisconsin,7854.52
+974,974,45662,45662,High School Graduate,Health Care and Social Assistance,148112231,15163,2011,Male,Wisconsin,9768.0
+975,975,45663,45663,Some College,Health Care and Social Assistance,263847736,18715,2011,Male,Wisconsin,14098.2
+976,976,45664,45664,Advanced Degree,Health Care and Social Assistance,691874031,22068,2011,Male,Wisconsin,31351.91
+977,977,45665,45665,Unavalble,Health Care and Social Assistance,22521436,6527,2011,Male,Wisconsin,3450.5
+978,978,45666,45666,All Education Categories,Health Care and Social Assistance,2396195643,301732,2011,Female,Wisconsin,7941.47
+979,979,45667,45667,Less Than High School,Health Care and Social Assistance,106395176,18561,2011,Female,Wisconsin,5732.19
+980,980,45668,45668,High School Graduate,Health Care and Social Assistance,494598357,74751,2011,Female,Wisconsin,6616.61
+981,981,45669,45669,Some College,Health Care and Social Assistance,895224042,109635,2011,Female,Wisconsin,8165.49
+982,982,45670,45670,Advanced Degree,Health Care and Social Assistance,775586347,66666,2011,Female,Wisconsin,11633.91
+983,983,45671,45671,Unavalble,Health Care and Social Assistance,124391721,32119,2011,Female,Wisconsin,3872.84
+984,984,45684,45684,All Education Categories,Accommodation and Food Services,294290483,84674,2011,Male,Wisconsin,3475.57
+985,985,45685,45685,Less Than High School,Accommodation and Food Services,37430524,9437,2011,Male,Wisconsin,3966.36
+986,986,45686,45686,High School Graduate,Accommodation and Food Services,81394503,18584,2011,Male,Wisconsin,4379.82
+987,987,45687,45687,Some College,Accommodation and Food Services,69237419,14782,2011,Male,Wisconsin,4683.9
+988,988,45688,45688,Advanced Degree,Accommodation and Food Services,37786226,7276,2011,Male,Wisconsin,5193.27
+989,989,45689,45689,Unavalble,Accommodation and Food Services,68441811,34594,2011,Male,Wisconsin,1978.43
+990,990,45690,45690,All Education Categories,Accommodation and Food Services,324514244,118055,2011,Female,Wisconsin,2748.84
+991,991,45691,45691,Less Than High School,Accommodation and Food Services,31757555,10273,2011,Female,Wisconsin,3091.36
+992,992,45692,45692,High School Graduate,Accommodation and Food Services,87096204,27012,2011,Female,Wisconsin,3224.35
+993,993,45693,45693,Some College,Accommodation and Food Services,78797471,23004,2011,Female,Wisconsin,3425.38
+994,994,45694,45694,Advanced Degree,Accommodation and Food Services,38643892,10166,2011,Female,Wisconsin,3801.29
+995,995,45695,45695,Unavalble,Accommodation and Food Services,88219121,47600,2011,Female,Wisconsin,1853.34
+996,996,45720,45720,All Education Categories,00,16856986110,1276799,2012,Male,Wisconsin,13202.54
+997,997,45721,45721,Less Than High School,00,1054359390,117792,2012,Male,Wisconsin,8951.03
+998,998,45722,45722,High School Graduate,00,4110975881,371441,2012,Male,Wisconsin,11067.64
+999,999,45723,45723,Some College,00,4815557224,357938,2012,Male,Wisconsin,13453.61
+1000,1000,45724,45724,Advanced Degree,00,6205961228,271072,2012,Male,Wisconsin,22894.14
+1001,1001,45725,45725,Unavalble,00,670132387,158557,2012,Male,Wisconsin,4226.44
+1002,1002,45726,45726,All Education Categories,00,10911767043,1315152,2012,Female,Wisconsin,8296.96
+1003,1003,45727,45727,Less Than High School,00,537865886,88376,2012,Female,Wisconsin,6086.11
+1004,1004,45728,45728,High School Graduate,00,2492783451,348167,2012,Female,Wisconsin,7159.73
+1005,1005,45729,45729,Some College,00,3563480637,408233,2012,Female,Wisconsin,8729.04
+1006,1006,45730,45730,Advanced Degree,00,3728204207,286117,2012,Female,Wisconsin,13030.35
+1007,1007,45731,45731,Unavalble,00,589432861,184259,2012,Female,Wisconsin,3198.94
+1008,1008,45780,45780,All Education Categories,Manufacturing,4755053530,322646,2012,Male,Wisconsin,14737.68
+1009,1009,45781,45781,Less Than High School,Manufacturing,362202865,32851,2012,Male,Wisconsin,11025.63
+1010,1010,45782,45782,High School Graduate,Manufacturing,1466667539,112927,2012,Male,Wisconsin,12987.75
+1011,1011,45783,45783,Some College,Manufacturing,1511134736,100147,2012,Male,Wisconsin,15089.17
+1012,1012,45784,45784,Advanced Degree,Manufacturing,1246170319,54057,2012,Male,Wisconsin,23052.89
+1013,1013,45785,45785,Unavalble,Manufacturing,168878072,22663,2012,Male,Wisconsin,7451.71
+1014,1014,45786,45786,All Education Categories,Manufacturing,1330886493,126833,2012,Female,Wisconsin,10493.22
+1015,1015,45787,45787,Less Than High School,Manufacturing,89835580,11046,2012,Female,Wisconsin,8132.86
+1016,1016,45788,45788,High School Graduate,Manufacturing,419734108,45280,2012,Female,Wisconsin,9269.75
+1017,1017,45789,45789,Some College,Manufacturing,447408243,41598,2012,Female,Wisconsin,10755.52
+1018,1018,45790,45790,Advanced Degree,Manufacturing,329278709,21115,2012,Female,Wisconsin,15594.54
+1019,1019,45791,45791,Unavalble,Manufacturing,44629853,7795,2012,Female,Wisconsin,5725.45
+1020,1020,45804,45804,All Education Categories,Retail Trade,985753711,133249,2012,Male,Wisconsin,7397.83
+1021,1021,45805,45805,Less Than High School,Retail Trade,81271837,11949,2012,Male,Wisconsin,6801.56
+1022,1022,45806,45806,High School Graduate,Retail Trade,303900871,37540,2012,Male,Wisconsin,8095.39
+1023,1023,45807,45807,Some College,Retail Trade,295920883,31879,2012,Male,Wisconsin,9282.63
+1024,1024,45808,45808,Advanced Degree,Retail Trade,202301932,16732,2012,Male,Wisconsin,12090.72
+1025,1025,45809,45809,Unavalble,Retail Trade,102358188,35149,2012,Male,Wisconsin,2912.12
+1026,1026,45810,45810,All Education Categories,Retail Trade,707232969,154298,2012,Female,Wisconsin,4583.55
+1027,1027,45811,45811,Less Than High School,Retail Trade,50996073,11275,2012,Female,Wisconsin,4522.93
+1028,1028,45812,45812,High School Graduate,Retail Trade,227082241,45247,2012,Female,Wisconsin,5018.72
+1029,1029,45813,45813,Some College,Retail Trade,212550858,38342,2012,Female,Wisconsin,5543.55
+1030,1030,45814,45814,Advanced Degree,Retail Trade,120863419,17204,2012,Female,Wisconsin,7025.31
+1031,1031,45815,45815,Unavalble,Retail Trade,95740377,42230,2012,Female,Wisconsin,2267.12
+1032,1032,45840,45840,All Education Categories,Finance and Insurance,1266897966,41545,2012,Male,Wisconsin,30494.6
+1033,1033,45841,45841,Less Than High School,Finance and Insurance,28185880,2013,2012,Male,Wisconsin,14001.93
+1034,1034,45842,45842,High School Graduate,Finance and Insurance,135951156,7443,2012,Male,Wisconsin,18265.64
+1035,1035,45843,45843,Some College,Finance and Insurance,261953355,10853,2012,Male,Wisconsin,24136.49
+1036,1036,45844,45844,Advanced Degree,Finance and Insurance,824122064,18912,2012,Male,Wisconsin,43576.67
+1037,1037,45845,45845,Unavalble,Finance and Insurance,16685511,2325,2012,Male,Wisconsin,7176.56
+1038,1038,45846,45846,All Education Categories,Finance and Insurance,1128798438,85032,2012,Female,Wisconsin,13274.98
+1039,1039,45847,45847,Less Than High School,Finance and Insurance,30083376,3411,2012,Female,Wisconsin,8819.52
+1040,1040,45848,45848,High School Graduate,Finance and Insurance,213195340,21060,2012,Female,Wisconsin,10123.24
+1041,1041,45849,45849,Some College,Finance and Insurance,344861933,28337,2012,Female,Wisconsin,12170.02
+1042,1042,45850,45850,Advanced Degree,Finance and Insurance,511550605,27019,2012,Female,Wisconsin,18933.0
+1043,1043,45851,45851,Unavalble,Finance and Insurance,29107184,5205,2012,Female,Wisconsin,5592.16
+1044,1044,45900,45900,All Education Categories,Educational Services,981530399,72270,2012,Male,Wisconsin,13581.44
+1045,1045,45901,45901,Less Than High School,Educational Services,37440327,3956,2012,Male,Wisconsin,9464.19
+1046,1046,45902,45902,High School Graduate,Educational Services,150126261,14399,2012,Male,Wisconsin,10426.16
+1047,1047,45903,45903,Some College,Educational Services,236820200,19096,2012,Male,Wisconsin,12401.56
+1048,1048,45904,45904,Advanced Degree,Educational Services,544681867,30871,2012,Male,Wisconsin,17643.8
+1049,1049,45905,45905,Unavalble,Educational Services,12461744,3948,2012,Male,Wisconsin,3156.47
+1050,1050,45906,45906,All Education Categories,Educational Services,1508283409,149196,2012,Female,Wisconsin,10109.41
+1051,1051,45907,45907,Less Than High School,Educational Services,46841699,6393,2012,Female,Wisconsin,7327.03
+1052,1052,45908,45908,High School Graduate,Educational Services,254931481,32360,2012,Female,Wisconsin,7877.98
+1053,1053,45909,45909,Some College,Educational Services,424988494,44765,2012,Female,Wisconsin,9493.77
+1054,1054,45910,45910,Advanced Degree,Educational Services,755202232,58841,2012,Female,Wisconsin,12834.63
+1055,1055,45911,45911,Unavalble,Educational Services,26319504,6837,2012,Female,Wisconsin,3849.57
+1056,1056,45912,45912,All Education Categories,Health Care and Social Assistance,1309342116,68417,2012,Male,Wisconsin,19137.67
+1057,1057,45913,45913,Less Than High School,Health Care and Social Assistance,47706900,5491,2012,Male,Wisconsin,8688.2
+1058,1058,45914,45914,High School Graduate,Health Care and Social Assistance,168440787,15659,2012,Male,Wisconsin,10756.8
+1059,1059,45915,45915,Some College,Health Care and Social Assistance,295659432,19025,2012,Male,Wisconsin,15540.57
+1060,1060,45916,45916,Advanced Degree,Health Care and Social Assistance,773225248,21856,2012,Male,Wisconsin,35378.17
+1061,1061,45917,45917,Unavalble,Health Care and Social Assistance,24309749,6385,2012,Male,Wisconsin,3807.32
+1062,1062,45918,45918,All Education Categories,Health Care and Social Assistance,2639634766,305681,2012,Female,Wisconsin,8635.26
+1063,1063,45919,45919,Less Than High School,Health Care and Social Assistance,125183911,19727,2012,Female,Wisconsin,6345.82
+1064,1064,45920,45920,High School Graduate,Health Care and Social Assistance,551867052,76490,2012,Female,Wisconsin,7214.89
+1065,1065,45921,45921,Some College,Health Care and Social Assistance,977936806,110591,2012,Female,Wisconsin,8842.82
+1066,1066,45922,45922,Advanced Degree,Health Care and Social Assistance,850373435,66955,2012,Female,Wisconsin,12700.67
+1067,1067,45923,45923,Unavalble,Health Care and Social Assistance,134273562,31918,2012,Female,Wisconsin,4206.83
+1068,1068,45936,45936,All Education Categories,Accommodation and Food Services,321834808,85694,2012,Male,Wisconsin,3755.63
+1069,1069,45937,45937,Less Than High School,Accommodation and Food Services,41166717,9681,2012,Male,Wisconsin,4252.32
+1070,1070,45938,45938,High School Graduate,Accommodation and Food Services,88206499,18853,2012,Male,Wisconsin,4678.65
+1071,1071,45939,45939,Some College,Accommodation and Food Services,76013326,15258,2012,Male,Wisconsin,4981.87
+1072,1072,45940,45940,Advanced Degree,Accommodation and Food Services,41645569,7580,2012,Male,Wisconsin,5494.14
+1073,1073,45941,45941,Unavalble,Accommodation and Food Services,74802696,34323,2012,Male,Wisconsin,2179.38
+1074,1074,45942,45942,All Education Categories,Accommodation and Food Services,353159609,119398,2012,Female,Wisconsin,2957.84
+1075,1075,45943,45943,Less Than High School,Accommodation and Food Services,35111619,10480,2012,Female,Wisconsin,3350.35
+1076,1076,45944,45944,High School Graduate,Accommodation and Food Services,93442490,27077,2012,Female,Wisconsin,3450.99
+1077,1077,45945,45945,Some College,Accommodation and Food Services,84714069,23264,2012,Female,Wisconsin,3641.42
+1078,1078,45946,45946,Advanced Degree,Accommodation and Food Services,42299113,10449,2012,Female,Wisconsin,4048.15
+1079,1079,45947,45947,Unavalble,Accommodation and Food Services,97592319,48128,2012,Female,Wisconsin,2027.77

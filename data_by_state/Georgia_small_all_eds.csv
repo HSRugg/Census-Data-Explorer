@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,All Education Categories,00,22251001897,1824649,2004,Male,Georgia,12194.68
+1,1,1,1,Less Than High School,00,1585626312,212203,2004,Male,Georgia,7472.21
+2,2,2,2,High School Graduate,00,4571098999,472580,2004,Male,Georgia,9672.65
+3,3,3,3,Some College,00,5826594314,473858,2004,Male,Georgia,12296.08
+4,4,4,4,Advanced Degree,00,9234064822,428420,2004,Male,Georgia,21553.77
+5,5,5,5,Unavalble,00,1033617450,237586,2004,Male,Georgia,4350.5
+6,6,6,6,All Education Categories,00,13632163176,1833698,2004,Female,Georgia,7434.25
+7,7,7,7,Less Than High School,00,800779869,165394,2004,Female,Georgia,4841.65
+8,8,8,8,High School Graduate,00,2767441734,454603,2004,Female,Georgia,6087.6
+9,9,9,9,Some College,00,4038185313,528188,2004,Female,Georgia,7645.36
+10,10,10,10,Advanced Degree,00,5110932207,425578,2004,Female,Georgia,12009.39
+11,11,11,11,Unavalble,00,914824053,259936,2004,Female,Georgia,3519.42
+12,12,60,60,All Education Categories,Manufacturing,3664830698,301055,2004,Male,Georgia,12173.29
+13,13,61,61,Less Than High School,Manufacturing,375942326,45331,2004,Male,Georgia,8293.27
+14,14,62,62,High School Graduate,Manufacturing,1040590430,98104,2004,Male,Georgia,10607.01
+15,15,63,63,Some College,Manufacturing,1076481449,83549,2004,Male,Georgia,12884.43
+16,16,64,64,Advanced Degree,Manufacturing,1019316665,48918,2004,Male,Georgia,20837.25
+17,17,65,65,Unavalble,Manufacturing,152499829,25153,2004,Male,Georgia,6062.89
+18,18,66,66,All Education Categories,Manufacturing,1206497005,153053,2004,Female,Georgia,7882.87
+19,19,67,67,Less Than High School,Manufacturing,133998120,23321,2004,Female,Georgia,5745.81
+20,20,68,68,High School Graduate,Manufacturing,374655060,54150,2004,Female,Georgia,6918.84
+21,21,69,69,Some College,Manufacturing,360116014,43257,2004,Female,Georgia,8325.03
+22,22,70,70,Advanced Degree,Manufacturing,277373965,20601,2004,Female,Georgia,13464.1
+23,23,71,71,Unavalble,Manufacturing,60353847,11724,2004,Female,Georgia,5147.89
+24,24,84,84,All Education Categories,Retail Trade,1695933034,211319,2004,Male,Georgia,8025.46
+25,25,85,85,Less Than High School,Retail Trade,161228026,24648,2004,Male,Georgia,6541.22
+26,26,86,86,High School Graduate,Retail Trade,469990492,57602,2004,Male,Georgia,8159.27
+27,27,87,87,Some College,Retail Trade,488162465,50039,2004,Male,Georgia,9755.64
+28,28,88,88,Advanced Degree,Retail Trade,402970426,28345,2004,Male,Georgia,14216.63
+29,29,89,89,Unavalble,Retail Trade,173581625,50686,2004,Male,Georgia,3424.65
+30,30,90,90,All Education Categories,Retail Trade,1018465393,223958,2004,Female,Georgia,4547.57
+31,31,91,91,Less Than High School,Retail Trade,106033016,25870,2004,Female,Georgia,4098.69
+32,32,92,92,High School Graduate,Retail Trade,308363837,64547,2004,Female,Georgia,4777.35
+33,33,93,93,Some College,Retail Trade,275064608,50713,2004,Female,Georgia,5423.95
+34,34,94,94,Advanced Degree,Retail Trade,174562330,22957,2004,Female,Georgia,7603.88
+35,35,95,95,Unavalble,Retail Trade,154441602,59871,2004,Female,Georgia,2579.57
+36,36,120,120,All Education Categories,Finance and Insurance,1619883909,52845,2004,Male,Georgia,30653.49
+37,37,121,121,Less Than High School,Finance and Insurance,22772858,1853,2004,Male,Georgia,12289.72
+38,38,122,122,High School Graduate,Finance and Insurance,116085872,6828,2004,Male,Georgia,17001.45
+39,39,123,123,Some College,Finance and Insurance,283926190,12160,2004,Male,Georgia,23349.19
+40,40,124,124,Advanced Degree,Finance and Insurance,1169769864,28343,2004,Male,Georgia,41271.91
+41,41,125,125,Unavalble,Finance and Insurance,27329125,3662,2004,Male,Georgia,7462.9
+42,42,126,126,All Education Categories,Finance and Insurance,1124209632,101197,2004,Female,Georgia,11109.12
+43,43,127,127,Less Than High School,Finance and Insurance,26094223,3633,2004,Female,Georgia,7182.56
+44,44,128,128,High School Graduate,Finance and Insurance,168813350,20354,2004,Female,Georgia,8293.87
+45,45,129,129,Some College,Finance and Insurance,301953104,30100,2004,Female,Georgia,10031.66
+46,46,130,130,Advanced Degree,Finance and Insurance,568392011,36772,2004,Female,Georgia,15457.2
+47,47,131,131,Unavalble,Finance and Insurance,58956944,10338,2004,Female,Georgia,5702.94
+48,48,180,180,All Education Categories,Educational Services,926272714,90334,2004,Male,Georgia,10253.87
+49,49,181,181,Less Than High School,Educational Services,36687736,5882,2004,Male,Georgia,6237.29
+50,50,182,182,High School Graduate,Educational Services,134496885,16977,2004,Male,Georgia,7922.3
+51,51,183,183,Some College,Educational Services,217677741,23185,2004,Male,Georgia,9388.73
+52,52,184,184,Advanced Degree,Educational Services,519059581,39033,2004,Male,Georgia,13297.97
+53,53,185,185,Unavalble,Educational Services,18350771,5256,2004,Male,Georgia,3491.39
+54,54,186,186,All Education Categories,Educational Services,1911051781,248952,2004,Female,Georgia,7676.39
+55,55,187,187,Less Than High School,Educational Services,53587000,12573,2004,Female,Georgia,4262.07
+56,56,188,188,High School Graduate,Educational Services,310084369,55410,2004,Female,Georgia,5596.18
+57,57,189,189,Some College,Educational Services,510225689,70780,2004,Female,Georgia,7208.61
+58,58,190,190,Advanced Degree,Educational Services,985003009,96891,2004,Female,Georgia,10166.09
+59,59,191,191,Unavalble,Educational Services,52151714,13298,2004,Female,Georgia,3921.77
+60,60,192,192,All Education Categories,Health Care and Social Assistance,1052388503,69143,2004,Male,Georgia,15220.46
+61,61,193,193,Less Than High School,Health Care and Social Assistance,41934634,5578,2004,Male,Georgia,7517.86
+62,62,194,194,High School Graduate,Health Care and Social Assistance,136656626,14254,2004,Male,Georgia,9587.25
+63,63,195,195,Some College,Health Care and Social Assistance,259278150,19883,2004,Male,Georgia,13040.19
+64,64,196,196,Advanced Degree,Health Care and Social Assistance,590484040,23966,2004,Male,Georgia,24638.41
+65,65,197,197,Unavalble,Health Care and Social Assistance,24035053,5463,2004,Male,Georgia,4399.61
+66,66,198,198,All Education Categories,Health Care and Social Assistance,2391379489,321281,2004,Female,Georgia,7443.26
+67,67,199,199,Less Than High School,Health Care and Social Assistance,129615261,25100,2004,Female,Georgia,5163.95
+68,68,200,200,High School Graduate,Health Care and Social Assistance,456087930,74149,2004,Female,Georgia,6150.97
+69,69,201,201,Some College,Health Care and Social Assistance,878107615,116818,2004,Female,Georgia,7516.89
+70,70,202,202,Advanced Degree,Health Care and Social Assistance,797232376,74925,2004,Female,Georgia,10640.41
+71,71,203,203,Unavalble,Health Care and Social Assistance,130336306,30289,2004,Female,Georgia,4303.09
+72,72,216,216,All Education Categories,Accommodation and Food Services,622591986,133579,2004,Male,Georgia,4660.85
+73,73,217,217,Less Than High School,Accommodation and Food Services,87093438,19201,2004,Male,Georgia,4535.88
+74,74,218,218,High School Graduate,Accommodation and Food Services,154204254,28876,2004,Male,Georgia,5340.22
+75,75,219,219,Some College,Accommodation and Food Services,144332655,23238,2004,Male,Georgia,6211.06
+76,76,220,220,Advanced Degree,Accommodation and Food Services,110612353,12490,2004,Male,Georgia,8856.07
+77,77,221,221,Unavalble,Accommodation and Food Services,126349284,49775,2004,Male,Georgia,2538.41
+78,78,222,222,All Education Categories,Accommodation and Food Services,566508741,171828,2004,Female,Georgia,3296.95
+79,79,223,223,Less Than High School,Accommodation and Food Services,78653840,24041,2004,Female,Georgia,3271.65
+80,80,224,224,High School Graduate,Accommodation and Food Services,137290817,37951,2004,Female,Georgia,3617.58
+81,81,225,225,Some College,Accommodation and Food Services,125397361,30606,2004,Female,Georgia,4097.15
+82,82,226,226,Advanced Degree,Accommodation and Food Services,73593259,13388,2004,Female,Georgia,5496.96
+83,83,227,227,Unavalble,Accommodation and Food Services,151573463,65842,2004,Female,Georgia,2302.08
+84,84,252,252,All Education Categories,00,24552732055,1858941,2005,Male,Georgia,13207.91
+85,85,253,253,Less Than High School,00,1733827966,218172,2005,Male,Georgia,7947.07
+86,86,254,254,High School Graduate,00,4980285006,481086,2005,Male,Georgia,10352.17
+87,87,255,255,Some College,00,6399683384,482503,2005,Male,Georgia,13263.51
+88,88,256,256,Advanced Degree,00,10320554749,435528,2005,Male,Georgia,23696.65
+89,89,257,257,Unavalble,00,1118380951,241652,2005,Male,Georgia,4628.06
+90,90,258,258,All Education Categories,00,14916271592,1867358,2005,Female,Georgia,7987.9
+91,91,259,259,Less Than High School,00,880460875,170687,2005,Female,Georgia,5158.34
+92,92,260,260,High School Graduate,00,3000073126,460932,2005,Female,Georgia,6508.71
+93,93,261,261,Some College,00,4416742450,538860,2005,Female,Georgia,8196.46
+94,94,262,262,Advanced Degree,00,5643535664,431785,2005,Female,Georgia,13070.24
+95,95,263,263,Unavalble,00,975459477,265094,2005,Female,Georgia,3679.67
+96,96,312,312,All Education Categories,Manufacturing,3923178866,307378,2005,Male,Georgia,12763.37
+97,97,313,313,Less Than High School,Manufacturing,400747826,46099,2005,Male,Georgia,8693.2
+98,98,314,314,High School Graduate,Manufacturing,1107192652,100016,2005,Male,Georgia,11070.16
+99,99,315,315,Some College,Manufacturing,1153276582,85673,2005,Male,Georgia,13461.38
+100,100,316,316,Advanced Degree,Manufacturing,1100679020,49535,2005,Male,Georgia,22220.23
+101,101,317,317,Unavalble,Manufacturing,161282786,26055,2005,Male,Georgia,6190.09
+102,102,318,318,All Education Categories,Manufacturing,1269057634,152802,2005,Female,Georgia,8305.24
+103,103,319,319,Less Than High School,Manufacturing,140089557,23290,2005,Female,Georgia,6015.01
+104,104,320,320,High School Graduate,Manufacturing,391158455,53545,2005,Female,Georgia,7305.23
+105,105,321,321,Some College,Manufacturing,381384538,43507,2005,Female,Georgia,8766.05
+106,106,322,322,Advanced Degree,Manufacturing,294801663,20705,2005,Female,Georgia,14238.19
+107,107,323,323,Unavalble,Manufacturing,61623421,11757,2005,Female,Georgia,5241.42
+108,108,336,336,All Education Categories,Retail Trade,1833605454,210468,2005,Male,Georgia,8712.04
+109,109,337,337,Less Than High School,Retail Trade,176239829,25031,2005,Male,Georgia,7040.86
+110,110,338,338,High School Graduate,Retail Trade,508908382,57397,2005,Male,Georgia,8866.46
+111,111,339,339,Some College,Retail Trade,528377248,49705,2005,Male,Georgia,10630.26
+112,112,340,340,Advanced Degree,Retail Trade,437387587,27858,2005,Male,Georgia,15700.61
+113,113,341,341,Unavalble,Retail Trade,182692409,50478,2005,Male,Georgia,3619.25
+114,114,342,342,All Education Categories,Retail Trade,1118930671,227833,2005,Female,Georgia,4911.19
+115,115,343,343,Less Than High School,Retail Trade,116942634,26807,2005,Female,Georgia,4362.39
+116,116,344,344,High School Graduate,Retail Trade,334714385,65599,2005,Female,Georgia,5102.43
+117,117,345,345,Some College,Retail Trade,303984141,51760,2005,Female,Georgia,5872.95
+118,118,346,346,Advanced Degree,Retail Trade,198118937,23031,2005,Female,Georgia,8602.27
+119,119,347,347,Unavalble,Retail Trade,165170574,60636,2005,Female,Georgia,2723.97
+120,120,372,372,All Education Categories,Finance and Insurance,1922754000,56577,2005,Male,Georgia,33984.73
+121,121,373,373,Less Than High School,Finance and Insurance,27364897,2096,2005,Male,Georgia,13055.77
+122,122,374,374,High School Graduate,Finance and Insurance,136693133,7515,2005,Male,Georgia,18189.37
+123,123,375,375,Some College,Finance and Insurance,337872825,13221,2005,Male,Georgia,25555.77
+124,124,376,376,Advanced Degree,Finance and Insurance,1391936228,29959,2005,Male,Georgia,46461.37
+125,125,377,377,Unavalble,Finance and Insurance,28886917,3786,2005,Male,Georgia,7629.93
+126,126,378,378,All Education Categories,Finance and Insurance,1294760979,107033,2005,Female,Georgia,12096.84
+127,127,379,379,Less Than High School,Finance and Insurance,30649901,4065,2005,Female,Georgia,7539.95
+128,128,380,380,High School Graduate,Finance and Insurance,191706997,21740,2005,Female,Georgia,8818.17
+129,129,381,381,Some College,Finance and Insurance,345536577,32131,2005,Female,Georgia,10753.99
+130,130,382,382,Advanced Degree,Finance and Insurance,662955489,38656,2005,Female,Georgia,17150.13
+131,131,383,383,Unavalble,Finance and Insurance,63912014,10441,2005,Female,Georgia,6121.25
+132,132,432,432,All Education Categories,Educational Services,982577580,89710,2005,Male,Georgia,10952.82
+133,133,433,433,Less Than High School,Educational Services,39801435,5814,2005,Male,Georgia,6845.79
+134,134,434,434,High School Graduate,Educational Services,145722053,16980,2005,Male,Georgia,8581.98
+135,135,435,435,Some College,Educational Services,236055882,23294,2005,Male,Georgia,10133.76
+136,136,436,436,Advanced Degree,Educational Services,539811943,38476,2005,Male,Georgia,14029.84
+137,137,437,437,Unavalble,Educational Services,21186266,5146,2005,Male,Georgia,4117.04
+138,138,438,438,All Education Categories,Educational Services,2066998168,245534,2005,Female,Georgia,8418.38
+139,139,439,439,Less Than High School,Educational Services,59509578,12496,2005,Female,Georgia,4762.29
+140,140,440,440,High School Graduate,Educational Services,335044439,54476,2005,Female,Georgia,6150.31
+141,141,441,441,Some College,Educational Services,558339941,70473,2005,Female,Georgia,7922.75
+142,142,442,442,Advanced Degree,Educational Services,1059579619,95801,2005,Female,Georgia,11060.21
+143,143,443,443,Unavalble,Educational Services,54524591,12288,2005,Female,Georgia,4437.22
+144,144,444,444,All Education Categories,Health Care and Social Assistance,1174583305,71145,2005,Male,Georgia,16509.71
+145,145,445,445,Less Than High School,Health Care and Social Assistance,45875717,5754,2005,Male,Georgia,7972.84
+146,146,446,446,High School Graduate,Health Care and Social Assistance,149235856,14635,2005,Male,Georgia,10197.19
+147,147,447,447,Some College,Health Care and Social Assistance,283566035,20425,2005,Male,Georgia,13883.28
+148,148,448,448,Advanced Degree,Health Care and Social Assistance,670105964,24981,2005,Male,Georgia,26824.63
+149,149,449,449,Unavalble,Health Care and Social Assistance,25799733,5349,2005,Male,Georgia,4823.28
+150,150,450,450,All Education Categories,Health Care and Social Assistance,2570782295,332574,2005,Female,Georgia,7729.96
+151,151,451,451,Less Than High School,Health Care and Social Assistance,142568252,26722,2005,Female,Georgia,5335.24
+152,152,452,452,High School Graduate,Health Care and Social Assistance,491061278,77757,2005,Female,Georgia,6315.33
+153,153,453,453,Some College,Health Care and Social Assistance,944449657,121318,2005,Female,Georgia,7784.91
+154,154,454,454,Advanced Degree,Health Care and Social Assistance,858989335,76571,2005,Female,Georgia,11218.21
+155,155,455,455,Unavalble,Health Care and Social Assistance,133713773,30207,2005,Female,Georgia,4426.58
+156,156,468,468,All Education Categories,Accommodation and Food Services,702265879,139694,2005,Male,Georgia,5027.17
+157,157,469,469,Less Than High School,Accommodation and Food Services,95865455,20378,2005,Male,Georgia,4704.36
+158,158,470,470,High School Graduate,Accommodation and Food Services,173459402,30408,2005,Male,Georgia,5704.4
+159,159,471,471,Some College,Accommodation and Food Services,166049962,24380,2005,Male,Georgia,6810.91
+160,160,472,472,Advanced Degree,Accommodation and Food Services,130998491,12907,2005,Male,Georgia,10149.41
+161,161,473,473,Unavalble,Accommodation and Food Services,135892570,51621,2005,Male,Georgia,2632.51
+162,162,474,474,All Education Categories,Accommodation and Food Services,636341265,182895,2005,Female,Georgia,3479.27
+163,163,475,475,Less Than High School,Accommodation and Food Services,87860688,25600,2005,Female,Georgia,3432.06
+164,164,476,476,High School Graduate,Accommodation and Food Services,151396060,39775,2005,Female,Georgia,3806.31
+165,165,477,477,Some College,Accommodation and Food Services,141786996,32316,2005,Female,Georgia,4387.52
+166,166,478,478,Advanced Degree,Accommodation and Food Services,86737706,14133,2005,Female,Georgia,6137.25
+167,167,479,479,Unavalble,Accommodation and Food Services,168559816,71071,2005,Female,Georgia,2371.71
+168,168,504,504,All Education Categories,00,25382313858,1906667,2006,Male,Georgia,13312.4
+169,169,505,505,Less Than High School,00,1817490741,226462,2006,Male,Georgia,8025.59
+170,170,506,506,High School Graduate,00,5137030329,492764,2006,Male,Georgia,10424.93
+171,171,507,507,Some College,00,6612041445,496446,2006,Male,Georgia,13318.75
+172,172,508,508,Advanced Degree,00,10676577375,445169,2006,Male,Georgia,23983.2
+173,173,509,509,Unavalble,00,1139173969,245824,2006,Male,Georgia,4634.1
+174,174,510,510,All Education Categories,00,15368394128,1930025,2006,Female,Georgia,7962.8
+175,175,511,511,Less Than High School,00,932405662,179958,2006,Female,Georgia,5181.24
+176,176,512,512,High School Graduate,00,3079664888,473807,2006,Female,Georgia,6499.83
+177,177,513,513,Some College,00,4565198700,558745,2006,Female,Georgia,8170.45
+178,178,514,514,Advanced Degree,00,5807118585,446534,2006,Female,Georgia,13004.87
+179,179,515,515,Unavalble,00,984006293,270981,2006,Female,Georgia,3631.27
+180,180,564,564,All Education Categories,Manufacturing,4145417224,304278,2006,Male,Georgia,13623.78
+181,181,565,565,Less Than High School,Manufacturing,419648987,46320,2006,Male,Georgia,9059.78
+182,182,566,566,High School Graduate,Manufacturing,1146429108,98061,2006,Male,Georgia,11690.98
+183,183,567,567,Some College,Manufacturing,1215077810,84614,2006,Male,Georgia,14360.25
+184,184,568,568,Advanced Degree,Manufacturing,1194330468,48750,2006,Male,Georgia,24499.09
+185,185,569,569,Unavalble,Manufacturing,169930851,26534,2006,Male,Georgia,6404.27
+186,186,570,570,All Education Categories,Manufacturing,1316565983,149942,2006,Female,Georgia,8780.5
+187,187,571,571,Less Than High School,Manufacturing,144759552,23158,2006,Female,Georgia,6250.95
+188,188,572,572,High School Graduate,Manufacturing,395066303,51517,2006,Female,Georgia,7668.66
+189,189,573,573,Some College,Manufacturing,395347572,42749,2006,Female,Georgia,9248.11
+190,190,574,574,Advanced Degree,Manufacturing,318433286,20669,2006,Female,Georgia,15406.32
+191,191,575,575,Unavalble,Manufacturing,62959270,11850,2006,Female,Georgia,5313.02
+192,192,588,588,All Education Categories,Retail Trade,1851828512,219372,2006,Male,Georgia,8441.5
+193,193,589,589,Less Than High School,Retail Trade,180369508,26288,2006,Male,Georgia,6861.29
+194,194,590,590,High School Graduate,Retail Trade,509225046,59279,2006,Male,Georgia,8590.31
+195,195,591,591,Some College,Retail Trade,530909684,51866,2006,Male,Georgia,10236.18
+196,196,592,592,Advanced Degree,Retail Trade,449289287,29465,2006,Male,Georgia,15248.24
+197,197,593,593,Unavalble,Retail Trade,182034987,52474,2006,Male,Georgia,3469.05
+198,198,594,594,All Education Categories,Retail Trade,1167349196,238340,2006,Female,Georgia,4897.83
+199,199,595,595,Less Than High School,Retail Trade,123898513,28321,2006,Female,Georgia,4374.79
+200,200,596,596,High School Graduate,Retail Trade,345104335,67341,2006,Female,Georgia,5124.73
+201,201,597,597,Some College,Retail Trade,319569261,54320,2006,Female,Georgia,5883.09
+202,202,598,598,Advanced Degree,Retail Trade,209169670,24692,2006,Female,Georgia,8471.15
+203,203,599,599,Unavalble,Retail Trade,169607417,63666,2006,Female,Georgia,2664.02
+204,204,624,624,All Education Categories,Finance and Insurance,1949677466,57732,2006,Male,Georgia,33771.17
+205,205,625,625,Less Than High School,Finance and Insurance,28624419,2221,2006,Male,Georgia,12888.08
+206,206,626,626,High School Graduate,Finance and Insurance,141863581,7767,2006,Male,Georgia,18264.91
+207,207,627,627,Some College,Finance and Insurance,344649928,13649,2006,Male,Georgia,25250.93
+208,208,628,628,Advanced Degree,Finance and Insurance,1405901909,30389,2006,Male,Georgia,46263.51
+209,209,629,629,Unavalble,Finance and Insurance,28637628,3705,2006,Male,Georgia,7729.45
+210,210,630,630,All Education Categories,Finance and Insurance,1314206694,107153,2006,Female,Georgia,12264.77
+211,211,631,631,Less Than High School,Finance and Insurance,33078165,4316,2006,Female,Georgia,7664.08
+212,212,632,632,High School Graduate,Finance and Insurance,193422192,21607,2006,Female,Georgia,8951.83
+213,213,633,633,Some College,Finance and Insurance,351223821,32258,2006,Female,Georgia,10887.96
+214,214,634,634,Advanced Degree,Finance and Insurance,675863768,39049,2006,Female,Georgia,17308.09
+215,215,635,635,Unavalble,Finance and Insurance,60618748,9924,2006,Female,Georgia,6108.3
+216,216,684,684,All Education Categories,Educational Services,1028704683,94439,2006,Male,Georgia,10892.8
+217,217,685,685,Less Than High School,Educational Services,42320270,6329,2006,Male,Georgia,6686.72
+218,218,686,686,High School Graduate,Educational Services,151595679,18096,2006,Male,Georgia,8377.3
+219,219,687,687,Some College,Educational Services,246371052,24701,2006,Male,Georgia,9974.13
+220,220,688,688,Advanced Degree,Educational Services,569006631,39846,2006,Male,Georgia,14280.14
+221,221,689,689,Unavalble,Educational Services,19411050,5467,2006,Male,Georgia,3550.59
+222,222,690,690,All Education Categories,Educational Services,2097733242,261642,2006,Female,Georgia,8017.57
+223,223,691,691,Less Than High School,Educational Services,63269277,13899,2006,Female,Georgia,4552.07
+224,224,692,692,High School Graduate,Educational Services,344243245,58138,2006,Female,Georgia,5921.14
+225,225,693,693,Some College,Educational Services,574208772,75853,2006,Female,Georgia,7570.02
+226,226,694,694,Advanced Degree,Educational Services,1063854363,100605,2006,Female,Georgia,10574.57
+227,227,695,695,Unavalble,Educational Services,52157585,13147,2006,Female,Georgia,3967.26
+228,228,696,696,All Education Categories,Health Care and Social Assistance,1187629475,72848,2006,Male,Georgia,16302.84
+229,229,697,697,Less Than High School,Health Care and Social Assistance,48538809,6132,2006,Male,Georgia,7915.66
+230,230,698,698,High School Graduate,Health Care and Social Assistance,154610593,15294,2006,Male,Georgia,10109.23
+231,231,699,699,Some College,Health Care and Social Assistance,290734308,21068,2006,Male,Georgia,13799.81
+232,232,700,700,Advanced Degree,Health Care and Social Assistance,669065074,25041,2006,Male,Georgia,26718.78
+233,233,701,701,Unavalble,Health Care and Social Assistance,24680690,5313,2006,Male,Georgia,4645.34
+234,234,702,702,All Education Categories,Health Care and Social Assistance,2707879472,343654,2006,Female,Georgia,7879.67
+235,235,703,703,Less Than High School,Health Care and Social Assistance,153875589,28440,2006,Female,Georgia,5410.53
+236,236,704,704,High School Graduate,Health Care and Social Assistance,516134325,80268,2006,Female,Georgia,6430.14
+237,237,705,705,Some College,Health Care and Social Assistance,992482825,124975,2006,Female,Georgia,7941.45
+238,238,706,706,Advanced Degree,Health Care and Social Assistance,910875886,79463,2006,Female,Georgia,11462.89
+239,239,707,707,Unavalble,Health Care and Social Assistance,134510847,30509,2006,Female,Georgia,4408.89
+240,240,720,720,All Education Categories,Accommodation and Food Services,709373445,139505,2006,Male,Georgia,5084.93
+241,241,721,721,Less Than High School,Accommodation and Food Services,99154704,20778,2006,Male,Georgia,4772.1
+242,242,722,722,High School Graduate,Accommodation and Food Services,174086775,30639,2006,Male,Georgia,5681.87
+243,243,723,723,Some College,Accommodation and Food Services,166245732,24367,2006,Male,Georgia,6822.58
+244,244,724,724,Advanced Degree,Accommodation and Food Services,134553222,12971,2006,Male,Georgia,10373.39
+245,245,725,725,Unavalble,Accommodation and Food Services,135333012,50749,2006,Male,Georgia,2666.71
+246,246,726,726,All Education Categories,Accommodation and Food Services,647269884,184024,2006,Female,Georgia,3517.31
+247,247,727,727,Less Than High School,Accommodation and Food Services,90194150,26016,2006,Female,Georgia,3466.87
+248,248,728,728,High School Graduate,Accommodation and Food Services,153394378,39913,2006,Female,Georgia,3843.22
+249,249,729,729,Some College,Accommodation and Food Services,144372878,32710,2006,Female,Georgia,4413.72
+250,250,730,730,Advanced Degree,Accommodation and Food Services,88685690,14486,2006,Female,Georgia,6122.17
+251,251,731,731,Unavalble,Accommodation and Food Services,170622789,70899,2006,Female,Georgia,2406.56
+252,252,756,756,All Education Categories,00,27123752181,1934757,2007,Male,Georgia,14019.2
+253,253,757,757,Less Than High School,00,1914970348,232155,2007,Male,Georgia,8248.67
+254,254,758,758,High School Graduate,00,5386535480,500360,2007,Male,Georgia,10765.32
+255,255,759,759,Some College,00,7005777705,504919,2007,Male,Georgia,13875.05
+256,256,760,760,Advanced Degree,00,11659362893,450027,2007,Male,Georgia,25908.14
+257,257,761,761,Unavalble,00,1157105755,247295,2007,Male,Georgia,4679.05
+258,258,762,762,All Education Categories,00,16264879521,1968780,2007,Female,Georgia,8261.4
+259,259,763,763,Less Than High School,00,1005753847,188663,2007,Female,Georgia,5330.95
+260,260,764,764,High School Graduate,00,3240888129,483017,2007,Female,Georgia,6709.68
+261,261,765,765,Some College,00,4831778490,570873,2007,Female,Georgia,8463.84
+262,262,766,766,Advanced Degree,00,6190556526,452623,2007,Female,Georgia,13677.07
+263,263,767,767,Unavalble,00,995902530,273603,2007,Female,Georgia,3639.95
+264,264,816,816,All Education Categories,Manufacturing,4036383093,297230,2007,Male,Georgia,13580.0
+265,265,817,817,Less Than High School,Manufacturing,415295618,45776,2007,Male,Georgia,9072.34
+266,266,818,818,High School Graduate,Manufacturing,1120987836,95573,2007,Male,Georgia,11729.13
+267,267,819,819,Some College,Manufacturing,1177989377,82844,2007,Male,Georgia,14219.37
+268,268,820,820,Advanced Degree,Manufacturing,1158230879,47672,2007,Male,Georgia,24295.83
+269,269,821,821,Unavalble,Manufacturing,163879383,25365,2007,Male,Georgia,6460.85
+270,270,822,822,All Education Categories,Manufacturing,1305372906,146475,2007,Female,Georgia,8911.92
+271,271,823,823,Less Than High School,Manufacturing,146373572,23180,2007,Female,Georgia,6314.65
+272,272,824,824,High School Graduate,Manufacturing,385723858,49569,2007,Female,Georgia,7781.55
+273,273,825,825,Some College,Manufacturing,392977719,41895,2007,Female,Georgia,9380.06
+274,274,826,826,Advanced Degree,Manufacturing,318547391,20334,2007,Female,Georgia,15665.75
+275,275,827,827,Unavalble,Manufacturing,61750366,11497,2007,Female,Georgia,5371.0
+276,276,840,840,All Education Categories,Retail Trade,1962452111,223790,2007,Male,Georgia,8769.17
+277,277,841,841,Less Than High School,Retail Trade,190753512,27182,2007,Male,Georgia,7017.64
+278,278,842,842,High School Graduate,Retail Trade,534697599,60500,2007,Male,Georgia,8837.98
+279,279,843,843,Some College,Retail Trade,567459743,53318,2007,Male,Georgia,10642.93
+280,280,844,844,Advanced Degree,Retail Trade,484053985,30397,2007,Male,Georgia,15924.4
+281,281,845,845,Unavalble,Retail Trade,185487271,52394,2007,Male,Georgia,3540.24
+282,282,846,846,All Education Categories,Retail Trade,1221080018,246294,2007,Female,Georgia,4957.81
+283,283,847,847,Less Than High School,Retail Trade,132472377,29640,2007,Female,Georgia,4469.38
+284,284,848,848,High School Graduate,Retail Trade,359668497,68965,2007,Female,Georgia,5215.23
+285,285,849,849,Some College,Retail Trade,336301323,56672,2007,Female,Georgia,5934.17
+286,286,850,850,Advanced Degree,Retail Trade,220165652,25679,2007,Female,Georgia,8573.76
+287,287,851,851,Unavalble,Retail Trade,172472168,65338,2007,Female,Georgia,2639.69
+288,288,876,876,All Education Categories,Finance and Insurance,2250131971,58990,2007,Male,Georgia,38144.3
+289,289,877,877,Less Than High School,Finance and Insurance,34759506,2464,2007,Male,Georgia,14106.94
+290,290,878,878,High School Graduate,Finance and Insurance,160262687,8192,2007,Male,Georgia,19563.32
+291,291,879,879,Some College,Finance and Insurance,391709218,14182,2007,Male,Georgia,27620.17
+292,292,880,880,Advanced Degree,Finance and Insurance,1634508585,30634,2007,Male,Georgia,53356.03
+293,293,881,881,Unavalble,Finance and Insurance,28891974,3518,2007,Male,Georgia,8212.61
+294,294,882,882,All Education Categories,Finance and Insurance,1420182791,108953,2007,Female,Georgia,13034.82
+295,295,883,883,Less Than High School,Finance and Insurance,37710664,4711,2007,Female,Georgia,8004.81
+296,296,884,884,High School Graduate,Finance and Insurance,209100678,22099,2007,Female,Georgia,9462.0
+297,297,885,885,Some College,Finance and Insurance,382708532,33073,2007,Female,Georgia,11571.63
+298,298,886,886,Advanced Degree,Finance and Insurance,730739037,39413,2007,Female,Georgia,18540.56
+299,299,887,887,Unavalble,Finance and Insurance,59923880,9657,2007,Female,Georgia,6205.23
+300,300,936,936,All Education Categories,Educational Services,1094171195,97578,2007,Male,Georgia,11213.3
+301,301,937,937,Less Than High School,Educational Services,47073267,6730,2007,Male,Georgia,6994.54
+302,302,938,938,High School Graduate,Educational Services,164544900,19016,2007,Male,Georgia,8652.97
+303,303,939,939,Some College,Educational Services,265372550,25796,2007,Male,Georgia,10287.35
+304,304,940,940,Advanced Degree,Educational Services,597289503,40551,2007,Male,Georgia,14729.34
+305,305,941,941,Unavalble,Educational Services,19890976,5485,2007,Male,Georgia,3626.43
+306,306,942,942,All Education Categories,Educational Services,2251853505,271810,2007,Female,Georgia,8284.66
+307,307,943,943,Less Than High School,Educational Services,72486456,15034,2007,Female,Georgia,4821.5
+308,308,944,944,High School Graduate,Educational Services,375336811,60473,2007,Female,Georgia,6206.68
+309,309,945,945,Some College,Educational Services,624876853,79436,2007,Female,Georgia,7866.42
+310,310,946,946,Advanced Degree,Educational Services,1122182135,102990,2007,Female,Georgia,10896.03
+311,311,947,947,Unavalble,Educational Services,56971250,13877,2007,Female,Georgia,4105.44
+312,312,948,948,All Education Categories,Health Care and Social Assistance,1223274024,71559,2007,Male,Georgia,17094.62
+313,313,949,949,Less Than High School,Health Care and Social Assistance,50947241,6137,2007,Male,Georgia,8301.65
+314,314,950,950,High School Graduate,Health Care and Social Assistance,160300033,15177,2007,Male,Georgia,10562.04
+315,315,951,951,Some College,Health Care and Social Assistance,300600810,20644,2007,Male,Georgia,14561.17
+316,316,952,952,Advanced Degree,Health Care and Social Assistance,687553879,24516,2007,Male,Georgia,28045.11
+317,317,953,953,Unavalble,Health Care and Social Assistance,23872061,5085,2007,Male,Georgia,4694.6
+318,318,954,954,All Education Categories,Health Care and Social Assistance,2814515063,342157,2007,Female,Georgia,8225.8
+319,319,955,955,Less Than High School,Health Care and Social Assistance,166321370,29479,2007,Female,Georgia,5642.03
+320,320,956,956,High School Graduate,Health Care and Social Assistance,541428879,80848,2007,Female,Georgia,6696.87
+321,321,957,957,Some College,Health Care and Social Assistance,1032880461,124372,2007,Female,Georgia,8304.77
+322,322,958,958,Advanced Degree,Health Care and Social Assistance,941992451,78254,2007,Female,Georgia,12037.63
+323,323,959,959,Unavalble,Health Care and Social Assistance,131891901,29203,2007,Female,Georgia,4516.38
+324,324,972,972,All Education Categories,Accommodation and Food Services,771726068,145604,2007,Male,Georgia,5300.17
+325,325,973,973,Less Than High School,Accommodation and Food Services,108167149,21918,2007,Male,Georgia,4935.08
+326,326,974,974,High School Graduate,Accommodation and Food Services,190482936,32136,2007,Male,Georgia,5927.4
+327,327,975,975,Some College,Accommodation and Food Services,181183334,25667,2007,Male,Georgia,7059.0
+328,328,976,976,Advanced Degree,Accommodation and Food Services,151673481,13510,2007,Male,Georgia,11226.76
+329,329,977,977,Unavalble,Accommodation and Food Services,140219169,52373,2007,Male,Georgia,2677.32
+330,330,978,978,All Education Categories,Accommodation and Food Services,695100026,192130,2007,Female,Georgia,3617.86
+331,331,979,979,Less Than High School,Accommodation and Food Services,97627652,27567,2007,Female,Georgia,3541.47
+332,332,980,980,High School Graduate,Accommodation and Food Services,164011078,41630,2007,Female,Georgia,3939.73
+333,333,981,981,Some College,Accommodation and Food Services,157159634,34404,2007,Female,Georgia,4568.06
+334,334,982,982,Advanced Degree,Accommodation and Food Services,99006528,15340,2007,Female,Georgia,6454.14
+335,335,983,983,Unavalble,Accommodation and Food Services,177295134,73189,2007,Female,Georgia,2422.43
+336,336,1008,1008,All Education Categories,00,27758756627,1930426,2008,Male,Georgia,14379.6
+337,337,1009,1009,Less Than High School,00,1995592817,234477,2008,Male,Georgia,8510.83
+338,338,1010,1010,High School Graduate,00,5573899632,501833,2008,Male,Georgia,11107.08
+339,339,1011,1011,Some College,00,7251557598,506088,2008,Male,Georgia,14328.65
+340,340,1012,1012,Advanced Degree,00,11803576351,449318,2008,Male,Georgia,26269.98
+341,341,1013,1013,Unavalble,00,1134130230,238710,2008,Male,Georgia,4751.08
+342,342,1014,1014,All Education Categories,00,17256422203,1974681,2008,Female,Georgia,8738.84
+343,343,1015,1015,Less Than High School,00,1095251014,193875,2008,Female,Georgia,5649.26
+344,344,1016,1016,High School Graduate,00,3455531143,486069,2008,Female,Georgia,7109.14
+345,345,1017,1017,Some College,00,5176564419,576213,2008,Female,Georgia,8983.77
+346,346,1018,1018,Advanced Degree,00,6542880432,453519,2008,Female,Georgia,14426.92
+347,347,1019,1019,Unavalble,00,986195196,265005,2008,Female,Georgia,3721.42
+348,348,1068,1068,All Education Categories,Manufacturing,4096839203,289455,2008,Male,Georgia,14153.63
+349,349,1069,1069,Less Than High School,Manufacturing,416142928,44488,2008,Male,Georgia,9354.05
+350,350,1070,1070,High School Graduate,Manufacturing,1130541691,93428,2008,Male,Georgia,12100.67
+351,351,1071,1071,Some College,Manufacturing,1207671198,81445,2008,Male,Georgia,14828.06
+352,352,1072,1072,Advanced Degree,Manufacturing,1191594252,47364,2008,Male,Georgia,25158.23
+353,353,1073,1073,Unavalble,Manufacturing,150889134,22730,2008,Male,Georgia,6638.33
+354,354,1074,1074,All Education Categories,Manufacturing,1340528335,141518,2008,Female,Georgia,9472.49
+355,355,1075,1075,Less Than High School,Manufacturing,148637273,22254,2008,Female,Georgia,6679.13
+356,356,1076,1076,High School Graduate,Manufacturing,389153542,47652,2008,Female,Georgia,8166.57
+357,357,1077,1077,Some College,Manufacturing,405425843,41144,2008,Female,Georgia,9853.83
+358,358,1078,1078,Advanced Degree,Manufacturing,341964669,20407,2008,Female,Georgia,16757.22
+359,359,1079,1079,Unavalble,Manufacturing,55347009,10061,2008,Female,Georgia,5501.14
+360,360,1092,1092,All Education Categories,Retail Trade,1889448037,221434,2008,Male,Georgia,8532.78
+361,361,1093,1093,Less Than High School,Retail Trade,189591742,27177,2008,Male,Georgia,6976.18
+362,362,1094,1094,High School Graduate,Retail Trade,521824820,60028,2008,Male,Georgia,8693.02
+363,363,1095,1095,Some College,Retail Trade,544079532,52944,2008,Male,Georgia,10276.51
+364,364,1096,1096,Advanced Degree,Retail Trade,458506774,30525,2008,Male,Georgia,15020.7
+365,365,1097,1097,Unavalble,Retail Trade,175445168,50760,2008,Male,Georgia,3456.37
+366,366,1098,1098,All Education Categories,Retail Trade,1236616164,246575,2008,Female,Georgia,5015.17
+367,367,1099,1099,Less Than High School,Retail Trade,137281644,30440,2008,Female,Georgia,4509.91
+368,368,1100,1100,High School Graduate,Retail Trade,363096104,69369,2008,Female,Georgia,5234.27
+369,369,1101,1101,Some College,Retail Trade,343424990,57697,2008,Female,Georgia,5952.22
+370,370,1102,1102,Advanced Degree,Retail Trade,227131787,26599,2008,Female,Georgia,8539.11
+371,371,1103,1103,Unavalble,Retail Trade,165681638,62470,2008,Female,Georgia,2652.18
+372,372,1128,1128,All Education Categories,Finance and Insurance,2201768878,58351,2008,Male,Georgia,37733.18
+373,373,1129,1129,Less Than High School,Finance and Insurance,36726540,2540,2008,Male,Georgia,14459.27
+374,374,1130,1130,High School Graduate,Finance and Insurance,161671781,8266,2008,Male,Georgia,19558.65
+375,375,1131,1131,Some College,Finance and Insurance,391327774,14122,2008,Male,Georgia,27710.51
+376,376,1132,1132,Advanced Degree,Finance and Insurance,1583977610,29981,2008,Male,Georgia,52832.71
+377,377,1133,1133,Unavalble,Finance and Insurance,28065172,3442,2008,Male,Georgia,8153.74
+378,378,1134,1134,All Education Categories,Finance and Insurance,1434549508,108192,2008,Female,Georgia,13259.29
+379,379,1135,1135,Less Than High School,Finance and Insurance,41072116,5060,2008,Female,Georgia,8117.02
+380,380,1136,1136,High School Graduate,Finance and Insurance,213341333,22277,2008,Female,Georgia,9576.75
+381,381,1137,1137,Some College,Finance and Insurance,390802445,33010,2008,Female,Georgia,11838.91
+382,382,1138,1138,Advanced Degree,Finance and Insurance,732950457,38764,2008,Female,Georgia,18908.02
+383,383,1139,1139,Unavalble,Finance and Insurance,56383157,9080,2008,Female,Georgia,6209.6
+384,384,1188,1188,All Education Categories,Educational Services,1198314047,98482,2008,Male,Georgia,12167.85
+385,385,1189,1189,Less Than High School,Educational Services,54436473,6949,2008,Male,Georgia,7833.71
+386,386,1190,1190,High School Graduate,Educational Services,185405109,19477,2008,Male,Georgia,9519.18
+387,387,1191,1191,Some College,Educational Services,294095645,26127,2008,Male,Georgia,11256.39
+388,388,1192,1192,Advanced Degree,Educational Services,642312921,40235,2008,Male,Georgia,15964.03
+389,389,1193,1193,Unavalble,Educational Services,22063899,5693,2008,Male,Georgia,3875.62
+390,390,1194,1194,All Education Categories,Educational Services,2479829158,269465,2008,Female,Georgia,9202.79
+391,391,1195,1195,Less Than High School,Educational Services,85778424,15540,2008,Female,Georgia,5519.85
+392,392,1196,1196,High School Graduate,Educational Services,419238832,60364,2008,Female,Georgia,6945.18
+393,393,1197,1197,Some College,Educational Services,696139167,79389,2008,Female,Georgia,8768.71
+394,394,1198,1198,Advanced Degree,Educational Services,1216467027,100090,2008,Female,Georgia,12153.73
+395,395,1199,1199,Unavalble,Educational Services,62205709,14082,2008,Female,Georgia,4417.39
+396,396,1200,1200,All Education Categories,Health Care and Social Assistance,1324527235,72341,2008,Male,Georgia,18309.5
+397,397,1201,1201,Less Than High School,Health Care and Social Assistance,57578705,6381,2008,Male,Georgia,9023.46
+398,398,1202,1202,High School Graduate,Health Care and Social Assistance,175204165,15396,2008,Male,Georgia,11379.85
+399,399,1203,1203,Some College,Health Care and Social Assistance,326510503,20776,2008,Male,Georgia,15715.75
+400,400,1204,1204,Advanced Degree,Health Care and Social Assistance,739892779,24611,2008,Male,Georgia,30063.5
+401,401,1205,1205,Unavalble,Health Care and Social Assistance,25341083,5178,2008,Male,Georgia,4893.99
+402,402,1206,1206,All Education Categories,Health Care and Social Assistance,3036598218,345361,2008,Female,Georgia,8792.53
+403,403,1207,1207,Less Than High School,Health Care and Social Assistance,187152371,30944,2008,Female,Georgia,6048.1
+404,404,1208,1208,High School Graduate,Health Care and Social Assistance,587252003,82034,2008,Female,Georgia,7158.64
+405,405,1209,1209,Some College,Health Care and Social Assistance,1110615575,124902,2008,Female,Georgia,8891.9
+406,406,1210,1210,Advanced Degree,Health Care and Social Assistance,1015537483,78786,2008,Female,Georgia,12889.82
+407,407,1211,1211,Unavalble,Health Care and Social Assistance,136040786,28695,2008,Female,Georgia,4740.92
+408,408,1224,1224,All Education Categories,Accommodation and Food Services,773733010,149776,2008,Male,Georgia,5165.93
+409,409,1225,1225,Less Than High School,Accommodation and Food Services,113060961,23022,2008,Male,Georgia,4911.0
+410,410,1226,1226,High School Graduate,Accommodation and Food Services,194607491,33642,2008,Male,Georgia,5784.66
+411,411,1227,1227,Some College,Accommodation and Food Services,181468352,26740,2008,Male,Georgia,6786.4
+412,412,1228,1228,Advanced Degree,Accommodation and Food Services,144193465,14097,2008,Male,Georgia,10228.66
+413,413,1229,1229,Unavalble,Accommodation and Food Services,140402741,52274,2008,Male,Georgia,2685.9
+414,414,1230,1230,All Education Categories,Accommodation and Food Services,719832781,195103,2008,Female,Georgia,3689.5
+415,415,1231,1231,Less Than High School,Accommodation and Food Services,104151685,28454,2008,Female,Georgia,3660.35
+416,416,1232,1232,High School Graduate,Accommodation and Food Services,173247597,42724,2008,Female,Georgia,4055.04
+417,417,1233,1233,Some College,Accommodation and Food Services,163832280,35622,2008,Female,Georgia,4599.19
+418,418,1234,1234,Advanced Degree,Accommodation and Food Services,99205072,15997,2008,Female,Georgia,6201.48
+419,419,1235,1235,Unavalble,Accommodation and Food Services,179396147,72307,2008,Female,Georgia,2481.03
+420,420,1260,1260,All Education Categories,00,24349079964,1824775,2009,Male,Georgia,13343.61
+421,421,1261,1261,Less Than High School,00,1757322938,221533,2009,Male,Georgia,7932.56
+422,422,1262,1262,High School Graduate,00,4934731613,476823,2009,Male,Georgia,10349.19
+423,423,1263,1263,Some College,00,6426206722,485833,2009,Male,Georgia,13227.19
+424,424,1264,1264,Advanced Degree,00,10323449279,434840,2009,Male,Georgia,23740.8
+425,425,1265,1265,Unavalble,00,907369413,205747,2009,Male,Georgia,4410.12
+426,426,1266,1266,All Education Categories,00,15964402400,1910405,2009,Female,Georgia,8356.55
+427,427,1267,1267,Less Than High School,00,1032542609,190356,2009,Female,Georgia,5424.27
+428,428,1268,1268,High School Graduate,00,3212769451,471663,2009,Female,Georgia,6811.58
+429,429,1269,1269,Some College,00,4823822207,563990,2009,Female,Georgia,8553.03
+430,430,1270,1270,Advanced Degree,00,6067351490,448020,2009,Female,Georgia,13542.59
+431,431,1271,1271,Unavalble,00,827916643,236376,2009,Female,Georgia,3502.54
+432,432,1320,1320,All Education Categories,Manufacturing,3404067056,260839,2009,Male,Georgia,13050.45
+433,433,1321,1321,Less Than High School,Manufacturing,339313650,40094,2009,Male,Georgia,8462.95
+434,434,1322,1322,High School Graduate,Manufacturing,941629948,84497,2009,Male,Georgia,11143.95
+435,435,1323,1323,Some College,Manufacturing,1011661646,74330,2009,Male,Georgia,13610.41
+436,436,1324,1324,Advanced Degree,Manufacturing,1005410645,43800,2009,Male,Georgia,22954.58
+437,437,1325,1325,Unavalble,Manufacturing,106051167,18118,2009,Male,Georgia,5853.36
+438,438,1326,1326,All Education Categories,Manufacturing,1115009174,125954,2009,Female,Georgia,8852.51
+439,439,1327,1327,Less Than High School,Manufacturing,121267960,20084,2009,Female,Georgia,6038.04
+440,440,1328,1328,High School Graduate,Manufacturing,317278325,42092,2009,Female,Georgia,7537.73
+441,441,1329,1329,Some College,Manufacturing,340505027,36942,2009,Female,Georgia,9217.29
+442,442,1330,1330,Advanced Degree,Manufacturing,296595071,18950,2009,Female,Georgia,15651.45
+443,443,1331,1331,Unavalble,Manufacturing,39362790,7886,2009,Female,Georgia,4991.48
+444,444,1344,1344,All Education Categories,Retail Trade,1647930210,204471,2009,Male,Georgia,8059.48
+445,445,1345,1345,Less Than High School,Retail Trade,169130337,25594,2009,Male,Georgia,6608.2
+446,446,1346,1346,High School Graduate,Retail Trade,461368501,56116,2009,Male,Georgia,8221.69
+447,447,1347,1347,Some College,Retail Trade,478613191,49682,2009,Male,Georgia,9633.53
+448,448,1348,1348,Advanced Degree,Retail Trade,396300869,28706,2009,Male,Georgia,13805.51
+449,449,1349,1349,Unavalble,Retail Trade,142517313,44373,2009,Male,Georgia,3211.8
+450,450,1350,1350,All Education Categories,Retail Trade,1147391703,229948,2009,Female,Georgia,4989.79
+451,451,1351,1351,Less Than High School,Retail Trade,130392139,29034,2009,Female,Georgia,4491.02
+452,452,1352,1352,High School Graduate,Retail Trade,338775862,65250,2009,Female,Georgia,5191.97
+453,453,1353,1353,Some College,Retail Trade,323501462,54905,2009,Female,Georgia,5892.02
+454,454,1354,1354,Advanced Degree,Retail Trade,214233571,25619,2009,Female,Georgia,8362.29
+455,455,1355,1355,Unavalble,Retail Trade,140488669,55140,2009,Female,Georgia,2547.85
+456,456,1380,1380,All Education Categories,Finance and Insurance,1764891817,54869,2009,Male,Georgia,32165.55
+457,457,1381,1381,Less Than High School,Finance and Insurance,33685548,2550,2009,Male,Georgia,13210.02
+458,458,1382,1382,High School Graduate,Finance and Insurance,141348225,8000,2009,Male,Georgia,17668.53
+459,459,1383,1383,Some College,Finance and Insurance,329155682,13397,2009,Male,Georgia,24569.36
+460,460,1384,1384,Advanced Degree,Finance and Insurance,1237397913,27995,2009,Male,Georgia,44200.68
+461,461,1385,1385,Unavalble,Finance and Insurance,23304449,2927,2009,Male,Georgia,7961.89
+462,462,1386,1386,All Education Categories,Finance and Insurance,1268881194,100246,2009,Female,Georgia,12657.67
+463,463,1387,1387,Less Than High School,Finance and Insurance,40466912,5090,2009,Female,Georgia,7950.28
+464,464,1388,1388,High School Graduate,Finance and Insurance,198431661,21063,2009,Female,Georgia,9420.86
+465,465,1389,1389,Some College,Finance and Insurance,351167754,30934,2009,Female,Georgia,11352.16
+466,466,1390,1390,Advanced Degree,Finance and Insurance,634212942,35725,2009,Female,Georgia,17752.64
+467,467,1391,1391,Unavalble,Finance and Insurance,44601925,7434,2009,Female,Georgia,5999.72
+468,468,1440,1440,All Education Categories,Educational Services,1203524893,102030,2009,Male,Georgia,11795.79
+469,469,1441,1441,Less Than High School,Educational Services,57981803,7636,2009,Male,Georgia,7593.22
+470,470,1442,1442,High School Graduate,Educational Services,190908763,20678,2009,Male,Georgia,9232.46
+471,471,1443,1443,Some College,Educational Services,298090610,27395,2009,Male,Georgia,10881.2
+472,472,1444,1444,Advanced Degree,Educational Services,635093104,40469,2009,Male,Georgia,15693.32
+473,473,1445,1445,Unavalble,Educational Services,21450612,5853,2009,Male,Georgia,3664.89
+474,474,1446,1446,All Education Categories,Educational Services,2514457143,282100,2009,Female,Georgia,8913.35
+475,475,1447,1447,Less Than High School,Educational Services,93699312,17039,2009,Female,Georgia,5499.11
+476,476,1448,1448,High School Graduate,Educational Services,432206153,63004,2009,Female,Georgia,6859.98
+477,477,1449,1449,Some College,Educational Services,714211288,83717,2009,Female,Georgia,8531.26
+478,478,1450,1450,Advanced Degree,Educational Services,1216684909,104499,2009,Female,Georgia,11643.03
+479,479,1451,1451,Unavalble,Educational Services,57655482,13841,2009,Female,Georgia,4165.56
+480,480,1452,1452,All Education Categories,Health Care and Social Assistance,1260718011,72617,2009,Male,Georgia,17361.2
+481,481,1453,1453,Less Than High School,Health Care and Social Assistance,56489775,6660,2009,Male,Georgia,8481.95
+482,482,1454,1454,High School Graduate,Health Care and Social Assistance,168567506,15719,2009,Male,Georgia,10723.81
+483,483,1455,1455,Some College,Health Care and Social Assistance,309319030,20852,2009,Male,Georgia,14834.02
+484,484,1456,1456,Advanced Degree,Health Care and Social Assistance,703317488,24357,2009,Male,Georgia,28875.37
+485,485,1457,1457,Unavalble,Health Care and Social Assistance,23024213,5029,2009,Male,Georgia,4578.29
+486,486,1458,1458,All Education Categories,Health Care and Social Assistance,2868599329,342520,2009,Female,Georgia,8374.98
+487,487,1459,1459,Less Than High School,Health Care and Social Assistance,185045513,31757,2009,Female,Georgia,5826.92
+488,488,1460,1460,High School Graduate,Health Care and Social Assistance,565219279,82381,2009,Female,Georgia,6861.04
+489,489,1461,1461,Some College,Health Care and Social Assistance,1046825095,123704,2009,Female,Georgia,8462.34
+490,490,1462,1462,Advanced Degree,Health Care and Social Assistance,953688471,78063,2009,Female,Georgia,12216.91
+491,491,1463,1463,Unavalble,Health Care and Social Assistance,117820971,26615,2009,Female,Georgia,4426.86
+492,492,1476,1476,All Education Categories,Accommodation and Food Services,705774579,144987,2009,Male,Georgia,4867.85
+493,493,1477,1477,Less Than High School,Accommodation and Food Services,106347182,23042,2009,Male,Georgia,4615.36
+494,494,1478,1478,High School Graduate,Accommodation and Food Services,180753932,33439,2009,Male,Georgia,5405.48
+495,495,1479,1479,Some College,Accommodation and Food Services,167581709,26729,2009,Male,Georgia,6269.66
+496,496,1480,1480,Advanced Degree,Accommodation and Food Services,128008464,14011,2009,Male,Georgia,9136.28
+497,497,1481,1481,Unavalble,Accommodation and Food Services,123083292,47767,2009,Male,Georgia,2576.74
+498,498,1482,1482,All Education Categories,Accommodation and Food Services,669160219,188846,2009,Female,Georgia,3543.42
+499,499,1483,1483,Less Than High School,Accommodation and Food Services,98971611,28283,2009,Female,Georgia,3499.33
+500,500,1484,1484,High School Graduate,Accommodation and Food Services,162603384,42026,2009,Female,Georgia,3869.11
+501,501,1485,1485,Some College,Accommodation and Food Services,153926580,35347,2009,Female,Georgia,4354.73
+502,502,1486,1486,Advanced Degree,Accommodation and Food Services,92103676,16216,2009,Female,Georgia,5679.8
+503,503,1487,1487,Unavalble,Accommodation and Food Services,161554968,66974,2009,Female,Georgia,2412.2
+504,504,1512,1512,All Education Categories,00,23800773760,1723974,2010,Male,Georgia,13805.76
+505,505,1513,1513,Less Than High School,00,1714670668,210317,2010,Male,Georgia,8152.79
+506,506,1514,1514,High School Graduate,00,4776252660,451640,2010,Male,Georgia,10575.35
+507,507,1515,1515,Some College,00,6251507640,462891,2010,Male,Georgia,13505.36
+508,508,1516,1516,Advanced Degree,00,10284478932,418428,2010,Male,Georgia,24578.85
+509,509,1517,1517,Unavalble,00,773863860,180698,2010,Male,Georgia,4282.64
+510,510,1518,1518,All Education Categories,00,15582347616,1837306,2010,Female,Georgia,8481.08
+511,511,1519,1519,Less Than High School,00,1035520636,185668,2010,Female,Georgia,5577.27
+512,512,1520,1520,High School Graduate,00,3133771478,454271,2010,Female,Georgia,6898.46
+513,513,1521,1521,Some College,00,4717860573,547119,2010,Female,Georgia,8623.1
+514,514,1522,1522,Advanced Degree,00,5971157140,438448,2010,Female,Georgia,13618.85
+515,515,1523,1523,Unavalble,00,724037790,211800,2010,Female,Georgia,3418.5
+516,516,1572,1572,All Education Categories,Manufacturing,3280382839,232335,2010,Male,Georgia,14119.19
+517,517,1573,1573,Less Than High School,Manufacturing,325003161,35743,2010,Male,Georgia,9092.78
+518,518,1574,1574,High School Graduate,Manufacturing,893322924,75462,2010,Male,Georgia,11838.05
+519,519,1575,1575,Some College,Manufacturing,971130894,67108,2010,Male,Georgia,14471.16
+520,520,1576,1576,Advanced Degree,Manufacturing,1001951666,40341,2010,Male,Georgia,24837.06
+521,521,1577,1577,Unavalble,Manufacturing,88974195,13681,2010,Male,Georgia,6503.49
+522,522,1578,1578,All Education Categories,Manufacturing,1069400163,109950,2010,Female,Georgia,9726.24
+523,523,1579,1579,Less Than High School,Manufacturing,115676038,17812,2010,Female,Georgia,6494.28
+524,524,1580,1580,High School Graduate,Manufacturing,296586653,36561,2010,Female,Georgia,8112.1
+525,525,1581,1581,Some College,Manufacturing,323651730,32524,2010,Female,Georgia,9951.17
+526,526,1582,1582,Advanced Degree,Manufacturing,301660583,17238,2010,Female,Georgia,17499.74
+527,527,1583,1583,Unavalble,Manufacturing,31825158,5816,2010,Female,Georgia,5472.0
+528,528,1596,1596,All Education Categories,Retail Trade,1620540914,196765,2010,Male,Georgia,8235.92
+529,529,1597,1597,Less Than High School,Retail Trade,165596302,24972,2010,Male,Georgia,6631.28
+530,530,1598,1598,High School Graduate,Retail Trade,447747007,54172,2010,Male,Georgia,8265.28
+531,531,1599,1599,Some College,Retail Trade,469541559,48193,2010,Male,Georgia,9742.94
+532,532,1600,1600,Advanced Degree,Retail Trade,409386035,28293,2010,Male,Georgia,14469.52
+533,533,1601,1601,Unavalble,Retail Trade,128270011,41134,2010,Male,Georgia,3118.35
+534,534,1602,1602,All Education Categories,Retail Trade,1093757538,218499,2010,Female,Georgia,5005.78
+535,535,1603,1603,Less Than High School,Retail Trade,125217360,27911,2010,Female,Georgia,4486.31
+536,536,1604,1604,High School Graduate,Retail Trade,320539000,62035,2010,Female,Georgia,5167.07
+537,537,1605,1605,Some College,Retail Trade,310037755,52808,2010,Female,Georgia,5871.04
+538,538,1606,1606,Advanced Degree,Retail Trade,213826493,25419,2010,Female,Georgia,8412.07
+539,539,1607,1607,Unavalble,Retail Trade,124136930,50326,2010,Female,Georgia,2466.66
+540,540,1632,1632,All Education Categories,Finance and Insurance,1829635231,53338,2010,Male,Georgia,34302.66
+541,541,1633,1633,Less Than High School,Finance and Insurance,36492296,2680,2010,Male,Georgia,13616.53
+542,542,1634,1634,High School Graduate,Finance and Insurance,144906049,8033,2010,Male,Georgia,18038.85
+543,543,1635,1635,Some College,Finance and Insurance,335123618,13106,2010,Male,Georgia,25570.24
+544,544,1636,1636,Advanced Degree,Finance and Insurance,1294141021,27029,2010,Male,Georgia,47879.72
+545,545,1637,1637,Unavalble,Finance and Insurance,18972247,2491,2010,Male,Georgia,7616.32
+546,546,1638,1638,All Education Categories,Finance and Insurance,1255142194,95765,2010,Female,Georgia,13106.48
+547,547,1639,1639,Less Than High School,Finance and Insurance,41481291,5114,2010,Female,Georgia,8111.32
+548,548,1640,1640,High School Graduate,Finance and Insurance,193077528,20309,2010,Female,Georgia,9506.99
+549,549,1641,1641,Some College,Finance and Insurance,344770651,29797,2010,Female,Georgia,11570.65
+550,550,1642,1642,Advanced Degree,Finance and Insurance,640534866,34562,2010,Female,Georgia,18532.92
+551,551,1643,1643,Unavalble,Finance and Insurance,35277859,5982,2010,Female,Georgia,5897.34
+552,552,1692,1692,All Education Categories,Educational Services,1182823576,102776,2010,Male,Georgia,11508.75
+553,553,1693,1693,Less Than High School,Educational Services,60533260,8074,2010,Male,Georgia,7497.31
+554,554,1694,1694,High School Graduate,Educational Services,191533340,21257,2010,Male,Georgia,9010.37
+555,555,1695,1695,Some College,Educational Services,295933256,27760,2010,Male,Georgia,10660.42
+556,556,1696,1696,Advanced Degree,Educational Services,616064324,40028,2010,Male,Georgia,15390.83
+557,557,1697,1697,Unavalble,Educational Services,18759397,5656,2010,Male,Georgia,3316.73
+558,558,1698,1698,All Education Categories,Educational Services,2439563193,277658,2010,Female,Georgia,8786.22
+559,559,1699,1699,Less Than High School,Educational Services,97705415,17383,2010,Female,Georgia,5620.75
+560,560,1700,1700,High School Graduate,Educational Services,425611360,62339,2010,Female,Georgia,6827.37
+561,561,1701,1701,Some College,Educational Services,700152921,82899,2010,Female,Georgia,8445.85
+562,562,1702,1702,Advanced Degree,Educational Services,1171897060,102735,2010,Female,Georgia,11406.99
+563,563,1703,1703,Unavalble,Educational Services,44196437,12301,2010,Female,Georgia,3592.91
+564,564,1704,1704,All Education Categories,Health Care and Social Assistance,1323289682,77302,2010,Male,Georgia,17118.44
+565,565,1705,1705,Less Than High School,Health Care and Social Assistance,62692037,7373,2010,Male,Georgia,8502.92
+566,566,1706,1706,High School Graduate,Health Care and Social Assistance,181202026,17025,2010,Male,Georgia,10643.29
+567,567,1707,1707,Some College,Health Care and Social Assistance,323990853,22150,2010,Male,Georgia,14627.13
+568,568,1708,1708,Advanced Degree,Health Care and Social Assistance,731910433,25358,2010,Male,Georgia,28863.1
+569,569,1709,1709,Unavalble,Health Care and Social Assistance,23494334,5397,2010,Male,Georgia,4353.22
+570,570,1710,1710,All Education Categories,Health Care and Social Assistance,2966214402,357685,2010,Female,Georgia,8292.81
+571,571,1711,1711,Less Than High School,Health Care and Social Assistance,200080702,33942,2010,Female,Georgia,5894.78
+572,572,1712,1712,High School Graduate,Health Care and Social Assistance,591496887,86450,2010,Female,Georgia,6842.07
+573,573,1713,1713,Some College,Health Care and Social Assistance,1079292337,129019,2010,Female,Georgia,8365.38
+574,574,1714,1714,Advanced Degree,Health Care and Social Assistance,982690050,82721,2010,Female,Georgia,11879.57
+575,575,1715,1715,Unavalble,Health Care and Social Assistance,112654426,25552,2010,Female,Georgia,4408.83
+576,576,1728,1728,All Education Categories,Accommodation and Food Services,700582660,140466,2010,Male,Georgia,4987.56
+577,577,1729,1729,Less Than High School,Accommodation and Food Services,106278108,22691,2010,Male,Georgia,4683.71
+578,578,1730,1730,High School Graduate,Accommodation and Food Services,179689199,33049,2010,Male,Georgia,5437.05
+579,579,1731,1731,Some College,Accommodation and Food Services,166806222,26663,2010,Male,Georgia,6256.09
+580,580,1732,1732,Advanced Degree,Accommodation and Food Services,131034238,14298,2010,Male,Georgia,9164.52
+581,581,1733,1733,Unavalble,Accommodation and Food Services,116774893,43766,2010,Male,Georgia,2668.16
+582,582,1734,1734,All Education Categories,Accommodation and Food Services,655543186,179693,2010,Female,Georgia,3648.13
+583,583,1735,1735,Less Than High School,Accommodation and Food Services,97822036,27070,2010,Female,Georgia,3613.67
+584,584,1736,1736,High School Graduate,Accommodation and Food Services,159908318,40299,2010,Female,Georgia,3968.05
+585,585,1737,1737,Some College,Accommodation and Food Services,151356118,34270,2010,Female,Georgia,4416.58
+586,586,1738,1738,Advanced Degree,Accommodation and Food Services,92352069,16287,2010,Female,Georgia,5670.29
+587,587,1739,1739,Unavalble,Accommodation and Food Services,154104646,61766,2010,Female,Georgia,2494.98
+588,588,1764,1764,All Education Categories,00,25419393414,1736671,2011,Male,Georgia,14636.85
+589,589,1765,1765,Less Than High School,00,1834877917,215582,2011,Male,Georgia,8511.28
+590,590,1766,1766,High School Graduate,00,5058886344,457295,2011,Male,Georgia,11062.63
+591,591,1767,1767,Some College,00,6655724157,466503,2011,Male,Georgia,14267.27
+592,592,1768,1768,Advanced Degree,00,11090438113,417060,2011,Male,Georgia,26591.95
+593,593,1769,1769,Unavalble,00,779466882,180231,2011,Male,Georgia,4324.82
+594,594,1770,1770,All Education Categories,00,16025497212,1822842,2011,Female,Georgia,8791.49
+595,595,1771,1771,Less Than High School,00,1102900744,189048,2011,Female,Georgia,5833.97
+596,596,1772,1772,High School Graduate,00,3229318243,451408,2011,Female,Georgia,7153.88
+597,597,1773,1773,Some College,00,4832493578,542250,2011,Female,Georgia,8911.93
+598,598,1774,1774,Advanced Degree,00,6148507952,431678,2011,Female,Georgia,14243.27
+599,599,1775,1775,Unavalble,00,712276695,208459,2011,Female,Georgia,3416.87
+600,600,1824,1824,All Education Categories,Manufacturing,3550243962,234634,2011,Male,Georgia,15130.99
+601,601,1825,1825,Less Than High School,Manufacturing,354467263,36272,2011,Male,Georgia,9772.48
+602,602,1826,1826,High School Graduate,Manufacturing,959361444,76024,2011,Male,Georgia,12619.19
+603,603,1827,1827,Some College,Manufacturing,1046553395,67586,2011,Male,Georgia,15484.77
+604,604,1828,1828,Advanced Degree,Manufacturing,1091394270,40561,2011,Male,Georgia,26907.48
+605,605,1829,1829,Unavalble,Manufacturing,98467589,14191,2011,Male,Georgia,6938.74
+606,606,1830,1830,All Education Categories,Manufacturing,1142360641,108738,2011,Female,Georgia,10505.62
+607,607,1831,1831,Less Than High School,Manufacturing,123560151,17696,2011,Female,Georgia,6982.38
+608,608,1832,1832,High School Graduate,Manufacturing,313386256,35910,2011,Female,Georgia,8726.99
+609,609,1833,1833,Some College,Manufacturing,345590870,32222,2011,Female,Georgia,10725.31
+610,610,1834,1834,Advanced Degree,Manufacturing,326146595,17286,2011,Female,Georgia,18867.67
+611,611,1835,1835,Unavalble,Manufacturing,33676769,5623,2011,Female,Georgia,5989.11
+612,612,1848,1848,All Education Categories,Retail Trade,1715407571,202919,2011,Male,Georgia,8453.66
+613,613,1849,1849,Less Than High School,Retail Trade,175799703,25940,2011,Male,Georgia,6777.17
+614,614,1850,1850,High School Graduate,Retail Trade,466536595,55297,2011,Male,Georgia,8436.92
+615,615,1851,1851,Some College,Retail Trade,494456662,49593,2011,Male,Georgia,9970.29
+616,616,1852,1852,Advanced Degree,Retail Trade,442664024,29313,2011,Male,Georgia,15101.29
+617,617,1853,1853,Unavalble,Retail Trade,135950586,42776,2011,Male,Georgia,3178.2
+618,618,1854,1854,All Education Categories,Retail Trade,1142693713,221508,2011,Female,Georgia,5158.7
+619,619,1855,1855,Less Than High School,Retail Trade,133201990,28390,2011,Female,Georgia,4691.86
+620,620,1856,1856,High School Graduate,Retail Trade,331608097,61878,2011,Female,Georgia,5359.06
+621,621,1857,1857,Some College,Retail Trade,323418098,53532,2011,Female,Georgia,6041.58
+622,622,1858,1858,Advanced Degree,Retail Trade,226003516,26193,2011,Female,Georgia,8628.39
+623,623,1859,1859,Unavalble,Retail Trade,128462011,51514,2011,Female,Georgia,2493.73
+624,624,1884,1884,All Education Categories,Finance and Insurance,2127359766,55619,2011,Male,Georgia,38248.8
+625,625,1885,1885,Less Than High School,Finance and Insurance,44130781,2999,2011,Male,Georgia,14715.17
+626,626,1886,1886,High School Graduate,Finance and Insurance,168544376,8660,2011,Male,Georgia,19462.4
+627,627,1887,1887,Some College,Finance and Insurance,388296050,13858,2011,Male,Georgia,28019.63
+628,628,1888,1888,Advanced Degree,Finance and Insurance,1508188387,27675,2011,Male,Georgia,54496.42
+629,629,1889,1889,Unavalble,Finance and Insurance,18200172,2427,2011,Male,Georgia,7499.04
+630,630,1890,1890,All Education Categories,Finance and Insurance,1356690252,96689,2011,Female,Georgia,14031.48
+631,631,1891,1891,Less Than High School,Finance and Insurance,46474279,5442,2011,Female,Georgia,8539.93
+632,632,1892,1892,High School Graduate,Finance and Insurance,205838129,20670,2011,Female,Georgia,9958.3
+633,633,1893,1893,Some College,Finance and Insurance,370383347,30251,2011,Female,Georgia,12243.67
+634,634,1894,1894,Advanced Degree,Finance and Insurance,701898598,35002,2011,Female,Georgia,20053.1
+635,635,1895,1895,Unavalble,Finance and Insurance,32095900,5323,2011,Female,Georgia,6029.66
+636,636,1944,1944,All Education Categories,Educational Services,1161319716,99997,2011,Male,Georgia,11613.55
+637,637,1945,1945,Less Than High School,Educational Services,62200441,8136,2011,Male,Georgia,7645.09
+638,638,1946,1946,High School Graduate,Educational Services,190495912,21048,2011,Male,Georgia,9050.55
+639,639,1947,1947,Some College,Educational Services,290440513,27105,2011,Male,Georgia,10715.39
+640,640,1948,1948,Advanced Degree,Educational Services,601303272,38538,2011,Male,Georgia,15602.87
+641,641,1949,1949,Unavalble,Educational Services,16879577,5170,2011,Male,Georgia,3264.91
+642,642,1950,1950,All Education Categories,Educational Services,2304075238,262623,2011,Female,Georgia,8773.32
+643,643,1951,1951,Less Than High School,Educational Services,98204581,17026,2011,Female,Georgia,5767.92
+644,644,1952,1952,High School Graduate,Educational Services,406971038,59151,2011,Female,Georgia,6880.21
+645,645,1953,1953,Some College,Educational Services,665817588,78956,2011,Female,Georgia,8432.77
+646,646,1954,1954,Advanced Degree,Educational Services,1096023396,96609,2011,Female,Georgia,11344.94
+647,647,1955,1955,Unavalble,Educational Services,37058635,10881,2011,Female,Georgia,3405.81
+648,648,1956,1956,All Education Categories,Health Care and Social Assistance,1358402123,79502,2011,Male,Georgia,17086.39
+649,649,1957,1957,Less Than High School,Health Care and Social Assistance,68764966,7906,2011,Male,Georgia,8697.82
+650,650,1958,1958,High School Graduate,Health Care and Social Assistance,193038041,17938,2011,Male,Georgia,10761.4
+651,651,1959,1959,Some College,Health Care and Social Assistance,336637235,22834,2011,Male,Georgia,14742.81
+652,652,1960,1960,Advanced Degree,Health Care and Social Assistance,736870104,25589,2011,Male,Georgia,28796.36
+653,653,1961,1961,Unavalble,Health Care and Social Assistance,23091777,5234,2011,Male,Georgia,4411.88
+654,654,1962,1962,All Education Categories,Health Care and Social Assistance,3054836080,360812,2011,Female,Georgia,8466.56
+655,655,1963,1963,Less Than High School,Health Care and Social Assistance,216077194,35476,2011,Female,Georgia,6090.8
+656,656,1964,1964,High School Graduate,Health Care and Social Assistance,618332427,88078,2011,Female,Georgia,7020.28
+657,657,1965,1965,Some College,Health Care and Social Assistance,1105452949,129373,2011,Female,Georgia,8544.7
+658,658,1966,1966,Advanced Degree,Health Care and Social Assistance,1004837075,83155,2011,Female,Georgia,12083.9
+659,659,1967,1967,Unavalble,Health Care and Social Assistance,110136434,24730,2011,Female,Georgia,4453.56
+660,660,1980,1980,All Education Categories,Accommodation and Food Services,734545641,140205,2011,Male,Georgia,5239.08
+661,661,1981,1981,Less Than High School,Accommodation and Food Services,109653282,22869,2011,Male,Georgia,4794.84
+662,662,1982,1982,High School Graduate,Accommodation and Food Services,186103662,33058,2011,Male,Georgia,5629.61
+663,663,1983,1983,Some College,Accommodation and Food Services,176561577,26918,2011,Male,Georgia,6559.24
+664,664,1984,1984,Advanced Degree,Accommodation and Food Services,146913619,14618,2011,Male,Georgia,10050.19
+665,665,1985,1985,Unavalble,Accommodation and Food Services,115313500,42742,2011,Male,Georgia,2697.9
+666,666,1986,1986,All Education Categories,Accommodation and Food Services,670698258,178925,2011,Female,Georgia,3748.49
+667,667,1987,1987,Less Than High School,Accommodation and Food Services,99208174,26750,2011,Female,Georgia,3708.72
+668,668,1988,1988,High School Graduate,Accommodation and Food Services,161468266,39739,2011,Female,Georgia,4063.22
+669,669,1989,1989,Some College,Accommodation and Food Services,154981150,34146,2011,Female,Georgia,4538.78
+670,670,1990,1990,Advanced Degree,Accommodation and Food Services,100016732,16504,2011,Female,Georgia,6060.15
+671,671,1991,1991,Unavalble,Accommodation and Food Services,155023936,61786,2011,Female,Georgia,2509.05
+672,672,2016,2016,All Education Categories,00,27352973373,1783731,2012,Male,Georgia,15334.7
+673,673,2017,2017,Less Than High School,00,2054473388,225236,2012,Male,Georgia,9121.43
+674,674,2018,2018,High School Graduate,00,5513232128,471635,2012,Male,Georgia,11689.62
+675,675,2019,2019,Some College,00,7166812956,478436,2012,Male,Georgia,14979.67
+676,676,2020,2020,Advanced Degree,00,11750164738,421473,2012,Male,Georgia,27878.81
+677,677,2021,2021,Unavalble,00,868290163,186951,2012,Male,Georgia,4644.48
+678,678,2022,2022,All Education Categories,00,17267442573,1862011,2012,Female,Georgia,9273.54
+679,679,2023,2023,Less Than High School,00,1251822734,198611,2012,Female,Georgia,6302.89
+680,680,2024,2024,High School Graduate,00,3514461031,461661,2012,Female,Georgia,7612.64
+681,681,2025,2025,Some College,00,5212945478,552268,2012,Female,Georgia,9439.16
+682,682,2026,2026,Advanced Degree,00,6512867544,436372,2012,Female,Georgia,14925.04
+683,683,2027,2027,Unavalble,00,775345786,213098,2012,Female,Georgia,3638.45
+684,684,2076,2076,All Education Categories,Manufacturing,3859352018,240070,2012,Male,Georgia,16075.94
+685,685,2077,2077,Less Than High School,Manufacturing,391712158,37488,2012,Male,Georgia,10449.0
+686,686,2078,2078,High School Graduate,Manufacturing,1040586264,77702,2012,Male,Georgia,13392.01
+687,687,2079,2079,Some College,Manufacturing,1134792029,68724,2012,Male,Georgia,16512.31
+688,688,2080,2080,Advanced Degree,Manufacturing,1179983794,41014,2012,Male,Georgia,28770.27
+689,689,2081,2081,Unavalble,Manufacturing,112277775,15142,2012,Male,Georgia,7414.99
+690,690,2082,2082,All Education Categories,Manufacturing,1242477405,109971,2012,Female,Georgia,11298.23
+691,691,2083,2083,Less Than High School,Manufacturing,135559307,18131,2012,Female,Georgia,7476.66
+692,692,2084,2084,High School Graduate,Manufacturing,334775630,35840,2012,Female,Georgia,9340.84
+693,693,2085,2085,Some College,Manufacturing,373106220,32492,2012,Female,Georgia,11483.02
+694,694,2086,2086,Advanced Degree,Manufacturing,362491059,17637,2012,Female,Georgia,20552.88
+695,695,2087,2087,Unavalble,Manufacturing,36545188,5871,2012,Female,Georgia,6224.7
+696,696,2100,2100,All Education Categories,Retail Trade,1808740895,206233,2012,Male,Georgia,8770.38
+697,697,2101,2101,Less Than High School,Retail Trade,191034548,26667,2012,Male,Georgia,7163.71
+698,698,2102,2102,High School Graduate,Retail Trade,495019006,56044,2012,Male,Georgia,8832.69
+699,699,2103,2103,Some College,Retail Trade,524399826,50176,2012,Male,Georgia,10451.21
+700,700,2104,2104,Advanced Degree,Retail Trade,452590828,29731,2012,Male,Georgia,15222.86
+701,701,2105,2105,Unavalble,Retail Trade,145696686,43615,2012,Male,Georgia,3340.52
+702,702,2106,2106,All Education Categories,Retail Trade,1192353770,223368,2012,Female,Georgia,5338.07
+703,703,2107,2107,Less Than High School,Retail Trade,142993280,28937,2012,Female,Georgia,4941.54
+704,704,2108,2108,High School Graduate,Retail Trade,345718327,61604,2012,Female,Georgia,5611.95
+705,705,2109,2109,Some College,Retail Trade,338624708,53740,2012,Female,Georgia,6301.17
+706,706,2110,2110,Advanced Degree,Retail Trade,228483976,26581,2012,Female,Georgia,8595.76
+707,707,2111,2111,Unavalble,Retail Trade,136533478,52506,2012,Female,Georgia,2600.34
+708,708,2136,2136,All Education Categories,Finance and Insurance,2262326601,57308,2012,Male,Georgia,39476.63
+709,709,2137,2137,Less Than High School,Finance and Insurance,52735736,3432,2012,Male,Georgia,15365.89
+710,710,2138,2138,High School Graduate,Finance and Insurance,192479354,9367,2012,Male,Georgia,20548.67
+711,711,2139,2139,Some College,Finance and Insurance,422368543,14394,2012,Male,Georgia,29343.38
+712,712,2140,2140,Advanced Degree,Finance and Insurance,1573489661,27589,2012,Male,Georgia,57033.23
+713,713,2141,2141,Unavalble,Finance and Insurance,21253308,2526,2012,Male,Georgia,8413.82
+714,714,2142,2142,All Education Categories,Finance and Insurance,1464258674,96166,2012,Female,Georgia,15226.37
+715,715,2143,2143,Less Than High School,Finance and Insurance,55764399,5928,2012,Female,Georgia,9406.95
+716,716,2144,2144,High School Graduate,Finance and Insurance,226133518,20840,2012,Female,Georgia,10850.94
+717,717,2145,2145,Some College,Finance and Insurance,401644218,30083,2012,Female,Georgia,13351.2
+718,718,2146,2146,Advanced Degree,Finance and Insurance,747221534,34217,2012,Female,Georgia,21837.73
+719,719,2147,2147,Unavalble,Finance and Insurance,33495006,5097,2012,Female,Georgia,6571.51
+720,720,2196,2196,All Education Categories,Educational Services,1225696336,103582,2012,Male,Georgia,11833.1
+721,721,2197,2197,Less Than High School,Educational Services,70533749,8830,2012,Male,Georgia,7987.97
+722,722,2198,2198,High School Graduate,Educational Services,207422460,22337,2012,Male,Georgia,9286.05
+723,723,2199,2199,Some College,Educational Services,309750388,28166,2012,Male,Georgia,10997.32
+724,724,2200,2200,Advanced Degree,Educational Services,618808285,38765,2012,Male,Georgia,15963.07
+725,725,2201,2201,Unavalble,Educational Services,19181453,5484,2012,Male,Georgia,3497.71
+726,726,2202,2202,All Education Categories,Educational Services,2416475828,269695,2012,Female,Georgia,8960.03
+727,727,2203,2203,Less Than High School,Educational Services,112736315,18482,2012,Female,Georgia,6099.79
+728,728,2204,2204,High School Graduate,Educational Services,437060915,61347,2012,Female,Georgia,7124.41
+729,729,2205,2205,Some College,Educational Services,705536262,81417,2012,Female,Georgia,8665.71
+730,730,2206,2206,Advanced Degree,Educational Services,1120463134,97205,2012,Female,Georgia,11526.81
+731,731,2207,2207,Unavalble,Educational Services,40679202,11243,2012,Female,Georgia,3618.18
+732,732,2208,2208,All Education Categories,Health Care and Social Assistance,1496386396,82095,2012,Male,Georgia,18227.5
+733,733,2209,2209,Less Than High School,Health Care and Social Assistance,80153896,8425,2012,Male,Georgia,9513.82
+734,734,2210,2210,High School Graduate,Health Care and Social Assistance,217959657,18709,2012,Male,Georgia,11649.99
+735,735,2211,2211,Some College,Health Care and Social Assistance,372743403,23502,2012,Male,Georgia,15860.07
+736,736,2212,2212,Advanced Degree,Health Care and Social Assistance,799208112,26131,2012,Male,Georgia,30584.67
+737,737,2213,2213,Unavalble,Health Care and Social Assistance,26321328,5329,2012,Male,Georgia,4939.26
+738,738,2214,2214,All Education Categories,Health Care and Social Assistance,3327416623,365572,2012,Female,Georgia,9101.95
+739,739,2215,2215,Less Than High School,Health Care and Social Assistance,246968514,37162,2012,Female,Georgia,6645.73
+740,740,2216,2216,High School Graduate,Health Care and Social Assistance,682165895,90005,2012,Female,Georgia,7579.2
+741,741,2217,2217,Some College,Health Care and Social Assistance,1197390672,130459,2012,Female,Georgia,9178.29
+742,742,2218,2218,Advanced Degree,Health Care and Social Assistance,1084724412,84213,2012,Female,Georgia,12880.72
+743,743,2219,2219,Unavalble,Health Care and Social Assistance,116167131,23734,2012,Female,Georgia,4894.54
+744,744,2232,2232,All Education Categories,Accommodation and Food Services,826599824,147486,2012,Male,Georgia,5604.6
+745,745,2233,2233,Less Than High School,Accommodation and Food Services,124007200,23907,2012,Male,Georgia,5187.07
+746,746,2234,2234,High School Graduate,Accommodation and Food Services,206581233,34439,2012,Male,Georgia,5998.47
+747,747,2235,2235,Some College,Accommodation and Food Services,198552831,28204,2012,Male,Georgia,7039.88
+748,748,2236,2236,Advanced Degree,Accommodation and Food Services,167088495,15258,2012,Male,Georgia,10950.88
+749,749,2237,2237,Unavalble,Accommodation and Food Services,130370066,45678,2012,Male,Georgia,2854.11
+750,750,2238,2238,All Education Categories,Accommodation and Food Services,744687918,186381,2012,Female,Georgia,3995.51
+751,751,2239,2239,Less Than High School,Accommodation and Food Services,109652735,27676,2012,Female,Georgia,3962.02
+752,752,2240,2240,High School Graduate,Accommodation and Food Services,176979178,40833,2012,Female,Georgia,4334.22
+753,753,2241,2241,Some College,Accommodation and Food Services,170835842,35245,2012,Female,Georgia,4847.09
+754,754,2242,2242,Advanced Degree,Accommodation and Food Services,112402709,17161,2012,Female,Georgia,6549.89
+755,755,2243,2243,Unavalble,Accommodation and Food Services,174817454,65467,2012,Female,Georgia,2670.31
+756,756,5268,5268,All Education Categories,"Colleges, Universities, and Professional Schools",393613709,30452,2004,Male,Georgia,12925.71
+757,757,5269,5269,Less Than High School,"Colleges, Universities, and Professional Schools",11012655,1459,2004,Male,Georgia,7548.08
+758,758,5270,5270,High School Graduate,"Colleges, Universities, and Professional Schools",41587581,4466,2004,Male,Georgia,9312.04
+759,759,5271,5271,Some College,"Colleges, Universities, and Professional Schools",75811421,6720,2004,Male,Georgia,11281.46
+760,760,5272,5272,Advanced Degree,"Colleges, Universities, and Professional Schools",258845191,15624,2004,Male,Georgia,16567.15
+761,761,5273,5273,Unavalble,"Colleges, Universities, and Professional Schools",6356861,2181,2004,Male,Georgia,2914.65
+762,762,5274,5274,All Education Categories,"Colleges, Universities, and Professional Schools",322052005,37264,2004,Female,Georgia,8642.44
+763,763,5275,5275,Less Than High School,"Colleges, Universities, and Professional Schools",8419979,1467,2004,Female,Georgia,5739.59
+764,764,5276,5276,High School Graduate,"Colleges, Universities, and Professional Schools",45827961,6711,2004,Female,Georgia,6828.78
+765,765,5277,5277,Some College,"Colleges, Universities, and Professional Schools",82090873,10102,2004,Female,Georgia,8126.2
+766,766,5278,5278,Advanced Degree,"Colleges, Universities, and Professional Schools",176700018,15413,2004,Female,Georgia,11464.35
+767,767,5279,5279,Unavalble,"Colleges, Universities, and Professional Schools",9013173,3572,2004,Female,Georgia,2523.28
+768,768,9000,9000,All Education Categories,"Colleges, Universities, and Professional Schools",392402309,29353,2005,Male,Georgia,13368.39
+769,769,9001,9001,Less Than High School,"Colleges, Universities, and Professional Schools",11362958,1399,2005,Male,Georgia,8122.2
+770,770,9002,9002,High School Graduate,"Colleges, Universities, and Professional Schools",42297242,4315,2005,Male,Georgia,9802.37
+771,771,9003,9003,Some College,"Colleges, Universities, and Professional Schools",77326756,6538,2005,Male,Georgia,11827.28
+772,772,9004,9004,Advanced Degree,"Colleges, Universities, and Professional Schools",254177513,15004,2005,Male,Georgia,16940.65
+773,773,9005,9005,Unavalble,"Colleges, Universities, and Professional Schools",7237840,2098,2005,Male,Georgia,3449.88
+774,774,9006,9006,All Education Categories,"Colleges, Universities, and Professional Schools",323265579,34444,2005,Female,Georgia,9385.25
+775,775,9007,9007,Less Than High School,"Colleges, Universities, and Professional Schools",8794884,1379,2005,Female,Georgia,6377.73
+776,776,9008,9008,High School Graduate,"Colleges, Universities, and Professional Schools",45430928,6151,2005,Female,Georgia,7385.94
+777,777,9009,9009,Some College,"Colleges, Universities, and Professional Schools",82088285,9323,2005,Female,Georgia,8804.92
+778,778,9010,9010,Advanced Degree,"Colleges, Universities, and Professional Schools",176922456,14365,2005,Female,Georgia,12316.22
+779,779,9011,9011,Unavalble,"Colleges, Universities, and Professional Schools",10029026,3227,2005,Female,Georgia,3107.85
+780,780,12708,12708,All Education Categories,"Colleges, Universities, and Professional Schools",445166687,30681,2006,Male,Georgia,14509.52
+781,781,12709,12709,Less Than High School,"Colleges, Universities, and Professional Schools",12790841,1516,2006,Male,Georgia,8437.23
+782,782,12710,12710,High School Graduate,"Colleges, Universities, and Professional Schools",46863087,4534,2006,Male,Georgia,10335.93
+783,783,12711,12711,Some College,"Colleges, Universities, and Professional Schools",86801504,6843,2006,Male,Georgia,12684.71
+784,784,12712,12712,Advanced Degree,"Colleges, Universities, and Professional Schools",291568555,15412,2006,Male,Georgia,18918.28
+785,785,12713,12713,Unavalble,"Colleges, Universities, and Professional Schools",7142700,2376,2006,Male,Georgia,3006.19
+786,786,12714,12714,All Education Categories,"Colleges, Universities, and Professional Schools",368720705,38462,2006,Female,Georgia,9586.62
+787,787,12715,12715,Less Than High School,"Colleges, Universities, and Professional Schools",10473875,1612,2006,Female,Georgia,6497.44
+788,788,12716,12716,High School Graduate,"Colleges, Universities, and Professional Schools",52857682,6840,2006,Female,Georgia,7727.73
+789,789,12717,12717,Some College,"Colleges, Universities, and Professional Schools",95453072,10453,2006,Female,Georgia,9131.64
+790,790,12718,12718,Advanced Degree,"Colleges, Universities, and Professional Schools",200030978,15634,2006,Female,Georgia,12794.61
+791,791,12719,12719,Unavalble,"Colleges, Universities, and Professional Schools",9905098,3923,2006,Female,Georgia,2524.88
+792,792,16428,16428,All Education Categories,"Colleges, Universities, and Professional Schools",464911207,31347,2007,Male,Georgia,14831.12
+793,793,16429,16429,Less Than High School,"Colleges, Universities, and Professional Schools",13711490,1574,2007,Male,Georgia,8711.24
+794,794,16430,16430,High School Graduate,"Colleges, Universities, and Professional Schools",49246398,4658,2007,Male,Georgia,10572.43
+795,795,16431,16431,Some College,"Colleges, Universities, and Professional Schools",91493362,7086,2007,Male,Georgia,12911.85
+796,796,16432,16432,Advanced Degree,"Colleges, Universities, and Professional Schools",303378149,15669,2007,Male,Georgia,19361.68
+797,797,16433,16433,Unavalble,"Colleges, Universities, and Professional Schools",7081808,2360,2007,Male,Georgia,3000.77
+798,798,16434,16434,All Education Categories,"Colleges, Universities, and Professional Schools",387637066,39487,2007,Female,Georgia,9816.83
+799,799,16435,16435,Less Than High School,"Colleges, Universities, and Professional Schools",11671553,1704,2007,Female,Georgia,6849.5
+800,800,16436,16436,High School Graduate,"Colleges, Universities, and Professional Schools",55761124,6988,2007,Female,Georgia,7979.55
+801,801,16437,16437,Some College,"Colleges, Universities, and Professional Schools",101346714,10777,2007,Female,Georgia,9403.98
+802,802,16438,16438,Advanced Degree,"Colleges, Universities, and Professional Schools",208673534,15947,2007,Female,Georgia,13085.44
+803,803,16439,16439,Unavalble,"Colleges, Universities, and Professional Schools",10184140,4071,2007,Female,Georgia,2501.63
+804,804,20148,20148,All Education Categories,"Colleges, Universities, and Professional Schools",506859553,32882,2008,Male,Georgia,15414.5
+805,805,20149,20149,Less Than High School,"Colleges, Universities, and Professional Schools",15943975,1725,2008,Male,Georgia,9242.88
+806,806,20150,20150,High School Graduate,"Colleges, Universities, and Professional Schools",55801661,4991,2008,Male,Georgia,11180.46
+807,807,20151,20151,Some College,"Colleges, Universities, and Professional Schools",101176405,7506,2008,Male,Georgia,13479.4
+808,808,20152,20152,Advanced Degree,"Colleges, Universities, and Professional Schools",326678371,16114,2008,Male,Georgia,20272.95
+809,809,20153,20153,Unavalble,"Colleges, Universities, and Professional Schools",7259142,2546,2008,Male,Georgia,2851.19
+810,810,20154,20154,All Education Categories,"Colleges, Universities, and Professional Schools",429718193,41562,2008,Female,Georgia,10339.21
+811,811,20155,20155,Less Than High School,"Colleges, Universities, and Professional Schools",13929414,1908,2008,Female,Georgia,7300.53
+812,812,20156,20156,High School Graduate,"Colleges, Universities, and Professional Schools",62864004,7392,2008,Female,Georgia,8504.33
+813,813,20157,20157,Some College,"Colleges, Universities, and Professional Schools",113404517,11383,2008,Female,Georgia,9962.62
+814,814,20158,20158,Advanced Degree,"Colleges, Universities, and Professional Schools",228781762,16536,2008,Female,Georgia,13835.38
+815,815,20159,20159,Unavalble,"Colleges, Universities, and Professional Schools",10738495,4342,2008,Female,Georgia,2473.17
+816,816,23868,23868,All Education Categories,"Colleges, Universities, and Professional Schools",498122423,31476,2009,Male,Georgia,15825.47
+817,817,23869,23869,Less Than High School,"Colleges, Universities, and Professional Schools",16705757,1759,2009,Male,Georgia,9497.3
+818,818,23870,23870,High School Graduate,"Colleges, Universities, and Professional Schools",55554095,4877,2009,Male,Georgia,11391.04
+819,819,23871,23871,Some College,"Colleges, Universities, and Professional Schools",99814020,7211,2009,Male,Georgia,13841.91
+820,820,23872,23872,Advanced Degree,"Colleges, Universities, and Professional Schools",318232823,15011,2009,Male,Georgia,21199.97
+821,821,23873,23873,Unavalble,"Colleges, Universities, and Professional Schools",7815728,2617,2009,Male,Georgia,2986.52
+822,822,23874,23874,All Education Categories,"Colleges, Universities, and Professional Schools",424193730,40046,2009,Female,Georgia,10592.66
+823,823,23875,23875,Less Than High School,"Colleges, Universities, and Professional Schools",14946417,1967,2009,Female,Georgia,7598.59
+824,824,23876,23876,High School Graduate,"Colleges, Universities, and Professional Schools",62656438,7111,2009,Female,Georgia,8811.2
+825,825,23877,23877,Some College,"Colleges, Universities, and Professional Schools",112525357,10979,2009,Female,Georgia,10249.14
+826,826,23878,23878,Advanced Degree,"Colleges, Universities, and Professional Schools",222840085,15607,2009,Female,Georgia,14278.21
+827,827,23879,23879,Unavalble,"Colleges, Universities, and Professional Schools",11225433,4382,2009,Female,Georgia,2561.71
+828,828,27576,27576,All Education Categories,"Colleges, Universities, and Professional Schools",492963971,32421,2010,Male,Georgia,15205.08
+829,829,27577,27577,Less Than High School,"Colleges, Universities, and Professional Schools",17818177,1974,2010,Male,Georgia,9026.43
+830,830,27578,27578,High School Graduate,"Colleges, Universities, and Professional Schools",55949276,5184,2010,Male,Georgia,10792.68
+831,831,27579,27579,Some College,"Colleges, Universities, and Professional Schools",100023673,7502,2010,Male,Georgia,13332.93
+832,832,27580,27580,Advanced Degree,"Colleges, Universities, and Professional Schools",311574637,15047,2010,Male,Georgia,20706.76
+833,833,27581,27581,Unavalble,"Colleges, Universities, and Professional Schools",7598208,2714,2010,Male,Georgia,2799.63
+834,834,27582,27582,All Education Categories,"Colleges, Universities, and Professional Schools",418781640,41851,2010,Female,Georgia,10006.49
+835,835,27583,27583,Less Than High School,"Colleges, Universities, and Professional Schools",15837168,2197,2010,Female,Georgia,7208.54
+836,836,27584,27584,High School Graduate,"Colleges, Universities, and Professional Schools",62003324,7522,2010,Female,Georgia,8242.93
+837,837,27585,27585,Some College,"Colleges, Universities, and Professional Schools",110811704,11447,2010,Female,Georgia,9680.41
+838,838,27586,27586,Advanced Degree,"Colleges, Universities, and Professional Schools",219942013,16053,2010,Female,Georgia,13700.99
+839,839,27587,27587,Unavalble,"Colleges, Universities, and Professional Schools",10187431,4631,2010,Female,Georgia,2199.83
+840,840,31284,31284,All Education Categories,"Colleges, Universities, and Professional Schools",508325959,32955,2011,Male,Georgia,15424.85
+841,841,31285,31285,Less Than High School,"Colleges, Universities, and Professional Schools",20012507,2130,2011,Male,Georgia,9395.54
+842,842,31286,31286,High School Graduate,"Colleges, Universities, and Professional Schools",60037935,5455,2011,Male,Georgia,11006.04
+843,843,31287,31287,Some College,"Colleges, Universities, and Professional Schools",104516327,7711,2011,Male,Georgia,13554.19
+844,844,31288,31288,Advanced Degree,"Colleges, Universities, and Professional Schools",316237575,15014,2011,Male,Georgia,21062.85
+845,845,31289,31289,Unavalble,"Colleges, Universities, and Professional Schools",7521614,2644,2011,Male,Georgia,2844.79
+846,846,31290,31290,All Education Categories,"Colleges, Universities, and Professional Schools",433523466,42345,2011,Female,Georgia,10237.89
+847,847,31291,31291,Less Than High School,"Colleges, Universities, and Professional Schools",17960655,2392,2011,Female,Georgia,7508.64
+848,848,31292,31292,High School Graduate,"Colleges, Universities, and Professional Schools",65783941,7735,2011,Female,Georgia,8504.71
+849,849,31293,31293,Some College,"Colleges, Universities, and Professional Schools",115934615,11776,2011,Female,Georgia,9844.99
+850,850,31294,31294,Advanced Degree,"Colleges, Universities, and Professional Schools",224318638,16147,2011,Female,Georgia,13892.28
+851,851,31295,31295,Unavalble,"Colleges, Universities, and Professional Schools",9525617,4295,2011,Female,Georgia,2217.84
+852,852,34992,34992,All Education Categories,"Colleges, Universities, and Professional Schools",541677797,34237,2012,Male,Georgia,15821.42
+853,853,34993,34993,Less Than High School,"Colleges, Universities, and Professional Schools",23699263,2385,2012,Male,Georgia,9936.8
+854,854,34994,34994,High School Graduate,"Colleges, Universities, and Professional Schools",66965654,5870,2012,Male,Georgia,11408.12
+855,855,34995,34995,Some College,"Colleges, Universities, and Professional Schools",113427286,8082,2012,Male,Georgia,14034.56
+856,856,34996,34996,Advanced Degree,"Colleges, Universities, and Professional Schools",329254339,15201,2012,Male,Georgia,21660.04
+857,857,34997,34997,Unavalble,"Colleges, Universities, and Professional Schools",8331255,2699,2012,Male,Georgia,3086.79
+858,858,34998,34998,All Education Categories,"Colleges, Universities, and Professional Schools",469634940,43431,2012,Female,Georgia,10813.36
+859,859,34999,34999,Less Than High School,"Colleges, Universities, and Professional Schools",21882855,2651,2012,Female,Georgia,8254.57
+860,860,35000,35000,High School Graduate,"Colleges, Universities, and Professional Schools",73465531,8065,2012,Female,Georgia,9109.18
+861,861,35001,35001,Some College,"Colleges, Universities, and Professional Schools",127051475,12114,2012,Female,Georgia,10487.99
+862,862,35002,35002,Advanced Degree,"Colleges, Universities, and Professional Schools",236662560,16306,2012,Female,Georgia,14513.83
+863,863,35003,35003,Unavalble,"Colleges, Universities, and Professional Schools",10572519,4295,2012,Female,Georgia,2461.59
+864,864,36624,36624,All Education Categories,Educational Services,926272714,90334,2004,Male,Georgia,10253.87
+865,865,36625,36625,Less Than High School,Educational Services,36687736,5882,2004,Male,Georgia,6237.29
+866,866,36626,36626,High School Graduate,Educational Services,134496885,16977,2004,Male,Georgia,7922.3
+867,867,36627,36627,Some College,Educational Services,217677741,23185,2004,Male,Georgia,9388.73
+868,868,36628,36628,Advanced Degree,Educational Services,519059581,39033,2004,Male,Georgia,13297.97
+869,869,36629,36629,Unavalble,Educational Services,18350771,5256,2004,Male,Georgia,3491.39
+870,870,36630,36630,All Education Categories,Educational Services,1911051781,248952,2004,Female,Georgia,7676.39
+871,871,36631,36631,Less Than High School,Educational Services,53587000,12573,2004,Female,Georgia,4262.07
+872,872,36632,36632,High School Graduate,Educational Services,310084369,55410,2004,Female,Georgia,5596.18
+873,873,36633,36633,Some College,Educational Services,510225689,70780,2004,Female,Georgia,7208.61
+874,874,36634,36634,Advanced Degree,Educational Services,985003009,96891,2004,Female,Georgia,10166.09
+875,875,36635,36635,Unavalble,Educational Services,52151714,13298,2004,Female,Georgia,3921.77
+876,876,36720,36720,All Education Categories,Accommodation,113125792,16568,2004,Male,Georgia,6827.97
+877,877,36721,36721,Less Than High School,Accommodation,16555883,3114,2004,Male,Georgia,5316.6
+878,878,36722,36722,High School Graduate,Accommodation,30174167,4702,2004,Male,Georgia,6417.3
+879,879,36723,36723,Some College,Accommodation,29479296,3832,2004,Male,Georgia,7692.93
+880,880,36724,36724,Advanced Degree,Accommodation,27908183,2440,2004,Male,Georgia,11437.78
+881,881,36725,36725,Unavalble,Accommodation,9008263,2481,2004,Male,Georgia,3630.9
+882,882,36726,36726,All Education Categories,Accommodation,109261195,23338,2004,Female,Georgia,4681.69
+883,883,36727,36727,Less Than High School,Accommodation,17799469,4764,2004,Female,Georgia,3736.24
+884,884,36728,36728,High School Graduate,Accommodation,29684354,6824,2004,Female,Georgia,4349.99
+885,885,36729,36729,Some College,Accommodation,29156667,5588,2004,Female,Georgia,5217.73
+886,886,36730,36730,Advanced Degree,Accommodation,20366072,2604,2004,Female,Georgia,7821.07
+887,887,36731,36731,Unavalble,Accommodation,12254633,3558,2004,Female,Georgia,3444.25
+888,888,37812,37812,All Education Categories,Educational Services,982577580,89710,2005,Male,Georgia,10952.82
+889,889,37813,37813,Less Than High School,Educational Services,39801435,5814,2005,Male,Georgia,6845.79
+890,890,37814,37814,High School Graduate,Educational Services,145722053,16980,2005,Male,Georgia,8581.98
+891,891,37815,37815,Some College,Educational Services,236055882,23294,2005,Male,Georgia,10133.76
+892,892,37816,37816,Advanced Degree,Educational Services,539811943,38476,2005,Male,Georgia,14029.84
+893,893,37817,37817,Unavalble,Educational Services,21186266,5146,2005,Male,Georgia,4117.04
+894,894,37818,37818,All Education Categories,Educational Services,2066998168,245534,2005,Female,Georgia,8418.38
+895,895,37819,37819,Less Than High School,Educational Services,59509578,12496,2005,Female,Georgia,4762.29
+896,896,37820,37820,High School Graduate,Educational Services,335044439,54476,2005,Female,Georgia,6150.31
+897,897,37821,37821,Some College,Educational Services,558339941,70473,2005,Female,Georgia,7922.75
+898,898,37822,37822,Advanced Degree,Educational Services,1059579619,95801,2005,Female,Georgia,11060.21
+899,899,37823,37823,Unavalble,Educational Services,54524591,12288,2005,Female,Georgia,4437.22
+900,900,37908,37908,All Education Categories,Accommodation,129015115,16445,2005,Male,Georgia,7845.25
+901,901,37909,37909,Less Than High School,Accommodation,18237661,3081,2005,Male,Georgia,5919.4
+902,902,37910,37910,High School Graduate,Accommodation,33816579,4665,2005,Male,Georgia,7249.0
+903,903,37911,37911,Some College,Accommodation,33665290,3824,2005,Male,Georgia,8803.68
+904,904,37912,37912,Advanced Degree,Accommodation,33628641,2449,2005,Male,Georgia,13731.58
+905,905,37913,37913,Unavalble,Accommodation,9666944,2427,2005,Male,Georgia,3983.08
+906,906,37914,37914,All Education Categories,Accommodation,120734312,23450,2005,Female,Georgia,5148.58
+907,907,37915,37915,Less Than High School,Accommodation,19288985,4756,2005,Female,Georgia,4055.72
+908,908,37916,37916,High School Graduate,Accommodation,32069297,6808,2005,Female,Georgia,4710.53
+909,909,37917,37917,Some College,Accommodation,32304407,5618,2005,Female,Georgia,5750.16
+910,910,37918,37918,Advanced Degree,Accommodation,23807096,2638,2005,Female,Georgia,9024.68
+911,911,37919,37919,Unavalble,Accommodation,13264527,3630,2005,Female,Georgia,3654.14
+912,912,38976,38976,All Education Categories,Educational Services,1028704683,94439,2006,Male,Georgia,10892.8
+913,913,38977,38977,Less Than High School,Educational Services,42320270,6329,2006,Male,Georgia,6686.72
+914,914,38978,38978,High School Graduate,Educational Services,151595679,18096,2006,Male,Georgia,8377.3
+915,915,38979,38979,Some College,Educational Services,246371052,24701,2006,Male,Georgia,9974.13
+916,916,38980,38980,Advanced Degree,Educational Services,569006631,39846,2006,Male,Georgia,14280.14
+917,917,38981,38981,Unavalble,Educational Services,19411050,5467,2006,Male,Georgia,3550.59
+918,918,38982,38982,All Education Categories,Educational Services,2097733242,261642,2006,Female,Georgia,8017.57
+919,919,38983,38983,Less Than High School,Educational Services,63269277,13899,2006,Female,Georgia,4552.07
+920,920,38984,38984,High School Graduate,Educational Services,344243245,58138,2006,Female,Georgia,5921.14
+921,921,38985,38985,Some College,Educational Services,574208772,75853,2006,Female,Georgia,7570.02
+922,922,38986,38986,Advanced Degree,Educational Services,1063854363,100605,2006,Female,Georgia,10574.57
+923,923,38987,38987,Unavalble,Educational Services,52157585,13147,2006,Female,Georgia,3967.26
+924,924,39072,39072,All Education Categories,Accommodation,139382286,17267,2006,Male,Georgia,8072.18
+925,925,39073,39073,Less Than High School,Accommodation,19298519,3221,2006,Male,Georgia,5991.47
+926,926,39074,39074,High School Graduate,Accommodation,36068831,4941,2006,Male,Georgia,7299.91
+927,927,39075,39075,Some College,Accommodation,37554102,4091,2006,Male,Georgia,9179.69
+928,928,39076,39076,Advanced Degree,Accommodation,36755574,2590,2006,Male,Georgia,14191.34
+929,929,39077,39077,Unavalble,Accommodation,9705261,2425,2006,Male,Georgia,4002.17
+930,930,39078,39078,All Education Categories,Accommodation,130757917,24818,2006,Female,Georgia,5268.67
+931,931,39079,39079,Less Than High School,Accommodation,20634899,4997,2006,Female,Georgia,4129.46
+932,932,39080,39080,High School Graduate,Accommodation,34358721,7223,2006,Female,Georgia,4756.85
+933,933,39081,39081,Some College,Accommodation,35237608,5983,2006,Female,Georgia,5889.62
+934,934,39082,39082,Advanced Degree,Accommodation,26535667,2861,2006,Female,Georgia,9274.96
+935,935,39083,39083,Unavalble,Accommodation,13991022,3754,2006,Female,Georgia,3726.96
+936,936,40152,40152,All Education Categories,Educational Services,1094171195,97578,2007,Male,Georgia,11213.3
+937,937,40153,40153,Less Than High School,Educational Services,47073267,6730,2007,Male,Georgia,6994.54
+938,938,40154,40154,High School Graduate,Educational Services,164544900,19016,2007,Male,Georgia,8652.97
+939,939,40155,40155,Some College,Educational Services,265372550,25796,2007,Male,Georgia,10287.35
+940,940,40156,40156,Advanced Degree,Educational Services,597289503,40551,2007,Male,Georgia,14729.34
+941,941,40157,40157,Unavalble,Educational Services,19890976,5485,2007,Male,Georgia,3626.43
+942,942,40158,40158,All Education Categories,Educational Services,2251853505,271810,2007,Female,Georgia,8284.66
+943,943,40159,40159,Less Than High School,Educational Services,72486456,15034,2007,Female,Georgia,4821.5
+944,944,40160,40160,High School Graduate,Educational Services,375336811,60473,2007,Female,Georgia,6206.68
+945,945,40161,40161,Some College,Educational Services,624876853,79436,2007,Female,Georgia,7866.42
+946,946,40162,40162,Advanced Degree,Educational Services,1122182135,102990,2007,Female,Georgia,10896.03
+947,947,40163,40163,Unavalble,Educational Services,56971250,13877,2007,Female,Georgia,4105.44
+948,948,40248,40248,All Education Categories,Accommodation,142537745,17489,2007,Male,Georgia,8150.14
+949,949,40249,40249,Less Than High School,Accommodation,20145435,3282,2007,Male,Georgia,6138.16
+950,950,40250,40250,High School Graduate,Accommodation,37047365,5007,2007,Male,Georgia,7399.11
+951,951,40251,40251,Some College,Accommodation,38275515,4175,2007,Male,Georgia,9167.79
+952,952,40252,40252,Advanced Degree,Accommodation,37441689,2581,2007,Male,Georgia,14506.66
+953,953,40253,40253,Unavalble,Accommodation,9627741,2444,2007,Male,Georgia,3939.34
+954,954,40254,40254,All Education Categories,Accommodation,134811001,24996,2007,Female,Georgia,5393.3
+955,955,40255,40255,Less Than High School,Accommodation,21197083,5052,2007,Female,Georgia,4195.78
+956,956,40256,40256,High School Graduate,Accommodation,35168763,7270,2007,Female,Georgia,4837.52
+957,957,40257,40257,Some College,Accommodation,37056677,6074,2007,Female,Georgia,6100.87
+958,958,40258,40258,Advanced Degree,Accommodation,27817693,2880,2007,Female,Georgia,9658.92
+959,959,40259,40259,Unavalble,Accommodation,13570786,3720,2007,Female,Georgia,3648.06
+960,960,41340,41340,All Education Categories,Educational Services,1198314047,98482,2008,Male,Georgia,12167.85
+961,961,41341,41341,Less Than High School,Educational Services,54436473,6949,2008,Male,Georgia,7833.71
+962,962,41342,41342,High School Graduate,Educational Services,185405109,19477,2008,Male,Georgia,9519.18
+963,963,41343,41343,Some College,Educational Services,294095645,26127,2008,Male,Georgia,11256.39
+964,964,41344,41344,Advanced Degree,Educational Services,642312921,40235,2008,Male,Georgia,15964.03
+965,965,41345,41345,Unavalble,Educational Services,22063899,5693,2008,Male,Georgia,3875.62
+966,966,41346,41346,All Education Categories,Educational Services,2479829158,269465,2008,Female,Georgia,9202.79
+967,967,41347,41347,Less Than High School,Educational Services,85778424,15540,2008,Female,Georgia,5519.85
+968,968,41348,41348,High School Graduate,Educational Services,419238832,60364,2008,Female,Georgia,6945.18
+969,969,41349,41349,Some College,Educational Services,696139167,79389,2008,Female,Georgia,8768.71
+970,970,41350,41350,Advanced Degree,Educational Services,1216467027,100090,2008,Female,Georgia,12153.73
+971,971,41351,41351,Unavalble,Educational Services,62205709,14082,2008,Female,Georgia,4417.39
+972,972,41436,41436,All Education Categories,Accommodation,144827851,17741,2008,Male,Georgia,8163.45
+973,973,41437,41437,Less Than High School,Accommodation,20901766,3395,2008,Male,Georgia,6156.63
+974,974,41438,41438,High School Graduate,Accommodation,38229703,5123,2008,Male,Georgia,7462.37
+975,975,41439,41439,Some College,Accommodation,38265481,4240,2008,Male,Georgia,9024.88
+976,976,41440,41440,Advanced Degree,Accommodation,38380441,2649,2008,Male,Georgia,14488.65
+977,977,41441,41441,Unavalble,Accommodation,9050460,2334,2008,Male,Georgia,3877.66
+978,978,41442,41442,All Education Categories,Accommodation,134302209,25366,2008,Female,Georgia,5294.58
+979,979,41443,41443,Less Than High School,Accommodation,21815795,5152,2008,Female,Georgia,4234.43
+980,980,41444,41444,High School Graduate,Accommodation,35885706,7371,2008,Female,Georgia,4868.5
+981,981,41445,41445,Some College,Accommodation,36804586,6269,2008,Female,Georgia,5870.89
+982,982,41446,41446,Advanced Degree,Accommodation,26521673,2983,2008,Female,Georgia,8890.94
+983,983,41447,41447,Unavalble,Accommodation,13274449,3592,2008,Female,Georgia,3695.56
+984,984,42528,42528,All Education Categories,Educational Services,1203524893,102030,2009,Male,Georgia,11795.79
+985,985,42529,42529,Less Than High School,Educational Services,57981803,7636,2009,Male,Georgia,7593.22
+986,986,42530,42530,High School Graduate,Educational Services,190908763,20678,2009,Male,Georgia,9232.46
+987,987,42531,42531,Some College,Educational Services,298090610,27395,2009,Male,Georgia,10881.2
+988,988,42532,42532,Advanced Degree,Educational Services,635093104,40469,2009,Male,Georgia,15693.32
+989,989,42533,42533,Unavalble,Educational Services,21450612,5853,2009,Male,Georgia,3664.89
+990,990,42534,42534,All Education Categories,Educational Services,2514457143,282100,2009,Female,Georgia,8913.35
+991,991,42535,42535,Less Than High School,Educational Services,93699312,17039,2009,Female,Georgia,5499.11
+992,992,42536,42536,High School Graduate,Educational Services,432206153,63004,2009,Female,Georgia,6859.98
+993,993,42537,42537,Some College,Educational Services,714211288,83717,2009,Female,Georgia,8531.26
+994,994,42538,42538,Advanced Degree,Educational Services,1216684909,104499,2009,Female,Georgia,11643.03
+995,995,42539,42539,Unavalble,Educational Services,57655482,13841,2009,Female,Georgia,4165.56
+996,996,42624,42624,All Education Categories,Accommodation,113980209,16681,2009,Male,Georgia,6832.94
+997,997,42625,42625,Less Than High School,Accommodation,17441063,3237,2009,Male,Georgia,5388.03
+998,998,42626,42626,High School Graduate,Accommodation,30976087,4833,2009,Male,Georgia,6409.29
+999,999,42627,42627,Some College,Accommodation,30688685,4032,2009,Male,Georgia,7611.28
+1000,1000,42628,42628,Advanced Degree,Accommodation,27894211,2529,2009,Male,Georgia,11029.74
+1001,1001,42629,42629,Unavalble,Accommodation,6980162,2049,2009,Male,Georgia,3406.62
+1002,1002,42630,42630,All Education Categories,Accommodation,115506594,24074,2009,Female,Georgia,4797.98
+1003,1003,42631,42631,Less Than High School,Accommodation,19053484,4937,2009,Female,Georgia,3859.32
+1004,1004,42632,42632,High School Graduate,Accommodation,31185585,6990,2009,Female,Georgia,4461.46
+1005,1005,42633,42633,Some College,Accommodation,31987861,5987,2009,Female,Georgia,5342.89
+1006,1006,42634,42634,Advanced Degree,Accommodation,22707045,2906,2009,Female,Georgia,7813.85
+1007,1007,42635,42635,Unavalble,Accommodation,10572620,3255,2009,Female,Georgia,3248.12
+1008,1008,43716,43716,All Education Categories,Educational Services,1182823576,102776,2010,Male,Georgia,11508.75
+1009,1009,43717,43717,Less Than High School,Educational Services,60533260,8074,2010,Male,Georgia,7497.31
+1010,1010,43718,43718,High School Graduate,Educational Services,191533340,21257,2010,Male,Georgia,9010.37
+1011,1011,43719,43719,Some College,Educational Services,295933256,27760,2010,Male,Georgia,10660.42
+1012,1012,43720,43720,Advanced Degree,Educational Services,616064324,40028,2010,Male,Georgia,15390.83
+1013,1013,43721,43721,Unavalble,Educational Services,18759397,5656,2010,Male,Georgia,3316.73
+1014,1014,43722,43722,All Education Categories,Educational Services,2439563193,277658,2010,Female,Georgia,8786.22
+1015,1015,43723,43723,Less Than High School,Educational Services,97705415,17383,2010,Female,Georgia,5620.75
+1016,1016,43724,43724,High School Graduate,Educational Services,425611360,62339,2010,Female,Georgia,6827.37
+1017,1017,43725,43725,Some College,Educational Services,700152921,82899,2010,Female,Georgia,8445.85
+1018,1018,43726,43726,Advanced Degree,Educational Services,1171897060,102735,2010,Female,Georgia,11406.99
+1019,1019,43727,43727,Unavalble,Educational Services,44196437,12301,2010,Female,Georgia,3592.91
+1020,1020,43812,43812,All Education Categories,Accommodation,113131868,16377,2010,Male,Georgia,6907.97
+1021,1021,43813,43813,Less Than High School,Accommodation,17420896,3145,2010,Male,Georgia,5539.24
+1022,1022,43814,43814,High School Graduate,Accommodation,30950968,4788,2010,Male,Georgia,6464.28
+1023,1023,43815,43815,Some College,Accommodation,30884601,4014,2010,Male,Georgia,7694.22
+1024,1024,43816,43816,Advanced Degree,Accommodation,27379798,2523,2010,Male,Georgia,10852.08
+1025,1025,43817,43817,Unavalble,Accommodation,6495606,1907,2010,Male,Georgia,3406.19
+1026,1026,43818,43818,All Education Categories,Accommodation,111670801,23308,2010,Female,Georgia,4791.09
+1027,1027,43819,43819,Less Than High School,Accommodation,18949515,4770,2010,Female,Georgia,3972.64
+1028,1028,43820,43820,High School Graduate,Accommodation,30851280,6801,2010,Female,Georgia,4536.29
+1029,1029,43821,43821,Some College,Accommodation,31297696,5912,2010,Female,Georgia,5293.93
+1030,1030,43822,43822,Advanced Degree,Accommodation,21361522,2952,2010,Female,Georgia,7236.29
+1031,1031,43823,43823,Unavalble,Accommodation,9210789,2872,2010,Female,Georgia,3207.1
+1032,1032,44904,44904,All Education Categories,Educational Services,1161319716,99997,2011,Male,Georgia,11613.55
+1033,1033,44905,44905,Less Than High School,Educational Services,62200441,8136,2011,Male,Georgia,7645.09
+1034,1034,44906,44906,High School Graduate,Educational Services,190495912,21048,2011,Male,Georgia,9050.55
+1035,1035,44907,44907,Some College,Educational Services,290440513,27105,2011,Male,Georgia,10715.39
+1036,1036,44908,44908,Advanced Degree,Educational Services,601303272,38538,2011,Male,Georgia,15602.87
+1037,1037,44909,44909,Unavalble,Educational Services,16879577,5170,2011,Male,Georgia,3264.91
+1038,1038,44910,44910,All Education Categories,Educational Services,2304075238,262623,2011,Female,Georgia,8773.32
+1039,1039,44911,44911,Less Than High School,Educational Services,98204581,17026,2011,Female,Georgia,5767.92
+1040,1040,44912,44912,High School Graduate,Educational Services,406971038,59151,2011,Female,Georgia,6880.21
+1041,1041,44913,44913,Some College,Educational Services,665817588,78956,2011,Female,Georgia,8432.77
+1042,1042,44914,44914,Advanced Degree,Educational Services,1096023396,96609,2011,Female,Georgia,11344.94
+1043,1043,44915,44915,Unavalble,Educational Services,37058635,10881,2011,Female,Georgia,3405.81
+1044,1044,45000,45000,All Education Categories,Accommodation,124556769,16046,2011,Male,Georgia,7762.48
+1045,1045,45001,45001,Less Than High School,Accommodation,18142322,3060,2011,Male,Georgia,5928.86
+1046,1046,45002,45002,High School Graduate,Accommodation,32898141,4654,2011,Male,Georgia,7068.79
+1047,1047,45003,45003,Some College,Accommodation,34197951,3944,2011,Male,Georgia,8670.88
+1048,1048,45004,45004,Advanced Degree,Accommodation,32769341,2503,2011,Male,Georgia,13092.03
+1049,1049,45005,45005,Unavalble,Accommodation,6549013,1886,2011,Male,Georgia,3472.44
+1050,1050,45006,45006,All Education Categories,Accommodation,119058265,22723,2011,Female,Georgia,5239.55
+1051,1051,45007,45007,Less Than High School,Accommodation,19296457,4629,2011,Female,Georgia,4168.6
+1052,1052,45008,45008,High School Graduate,Accommodation,31632548,6575,2011,Female,Georgia,4811.03
+1053,1053,45009,45009,Some College,Accommodation,33301592,5781,2011,Female,Georgia,5760.52
+1054,1054,45010,45010,Advanced Degree,Accommodation,25130120,2889,2011,Female,Georgia,8698.55
+1055,1055,45011,45011,Unavalble,Accommodation,9697549,2848,2011,Female,Georgia,3405.04
+1056,1056,46092,46092,All Education Categories,Educational Services,1225696336,103582,2012,Male,Georgia,11833.1
+1057,1057,46093,46093,Less Than High School,Educational Services,70533749,8830,2012,Male,Georgia,7987.97
+1058,1058,46094,46094,High School Graduate,Educational Services,207422460,22337,2012,Male,Georgia,9286.05
+1059,1059,46095,46095,Some College,Educational Services,309750388,28166,2012,Male,Georgia,10997.32
+1060,1060,46096,46096,Advanced Degree,Educational Services,618808285,38765,2012,Male,Georgia,15963.07
+1061,1061,46097,46097,Unavalble,Educational Services,19181453,5484,2012,Male,Georgia,3497.71
+1062,1062,46098,46098,All Education Categories,Educational Services,2416475828,269695,2012,Female,Georgia,8960.03
+1063,1063,46099,46099,Less Than High School,Educational Services,112736315,18482,2012,Female,Georgia,6099.79
+1064,1064,46100,46100,High School Graduate,Educational Services,437060915,61347,2012,Female,Georgia,7124.41
+1065,1065,46101,46101,Some College,Educational Services,705536262,81417,2012,Female,Georgia,8665.71
+1066,1066,46102,46102,Advanced Degree,Educational Services,1120463134,97205,2012,Female,Georgia,11526.81
+1067,1067,46103,46103,Unavalble,Educational Services,40679202,11243,2012,Female,Georgia,3618.18
+1068,1068,46188,46188,All Education Categories,Accommodation,126272533,15749,2012,Male,Georgia,8017.81
+1069,1069,46189,46189,Less Than High School,Accommodation,19080884,3001,2012,Male,Georgia,6358.18
+1070,1070,46190,46190,High School Graduate,Accommodation,33702059,4558,2012,Male,Georgia,7394.05
+1071,1071,46191,46191,Some College,Accommodation,34768201,3873,2012,Male,Georgia,8977.07
+1072,1072,46192,46192,Advanced Degree,Accommodation,31779874,2455,2012,Male,Georgia,12944.96
+1073,1073,46193,46193,Unavalble,Accommodation,6941515,1862,2012,Male,Georgia,3727.99
+1074,1074,46194,46194,All Education Categories,Accommodation,123476412,22549,2012,Female,Georgia,5475.92
+1075,1075,46195,46195,Less Than High School,Accommodation,20455398,4565,2012,Female,Georgia,4480.92
+1076,1076,46196,46196,High School Graduate,Accommodation,33428173,6563,2012,Female,Georgia,5093.43
+1077,1077,46197,46197,Some College,Accommodation,34755136,5801,2012,Female,Georgia,5991.23
+1078,1078,46198,46198,Advanced Degree,Accommodation,24748186,2902,2012,Female,Georgia,8527.98
+1079,1079,46199,46199,Unavalble,Accommodation,10089519,2718,2012,Female,Georgia,3712.11

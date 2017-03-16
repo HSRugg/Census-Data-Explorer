@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,Unnamed: 0.1.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,0,0,0,All Education Categories,00,4931178149,543414,2004,Male,Arkansas,9074.44
+1,1,1,1,1,Less Than High School,00,443632525,68826,2004,Male,Arkansas,6445.71
+2,2,2,2,2,High School Graduate,00,1259751348,157662,2004,Male,Arkansas,7990.2
+3,3,3,3,3,Some College,00,1331006913,138571,2004,Male,Arkansas,9605.23
+4,4,4,4,4,Advanced Degree,00,1583341328,98618,2004,Male,Arkansas,16055.3
+5,5,5,5,5,Unavalble,00,313446036,79737,2004,Male,Arkansas,3931.0
+6,6,6,6,6,All Education Categories,00,3116276209,544312,2004,Female,Arkansas,5725.17
+7,7,7,7,7,Less Than High School,00,200383128,48326,2004,Female,Arkansas,4146.49
+8,8,8,8,8,High School Graduate,00,720788338,144170,2004,Female,Arkansas,4999.57
+9,9,9,9,9,Some College,00,950006886,157143,2004,Female,Arkansas,6045.49
+10,10,10,10,10,Advanced Degree,00,990393427,110828,2004,Female,Arkansas,8936.31
+11,11,11,11,11,Unavalble,00,254704429,83846,2004,Female,Arkansas,3037.76
+12,12,60,60,60,All Education Categories,Manufacturing,1224008667,136390,2004,Male,Arkansas,8974.33
+13,13,61,61,61,Less Than High School,Manufacturing,152780132,21688,2004,Male,Arkansas,7044.45
+14,14,62,62,62,High School Graduate,Manufacturing,411917262,47884,2004,Male,Arkansas,8602.4
+15,15,63,63,63,Some College,Manufacturing,361852898,37173,2004,Male,Arkansas,9734.29
+16,16,64,64,64,Advanced Degree,Manufacturing,223393410,16306,2004,Male,Arkansas,13700.07
+17,17,65,65,65,Unavalble,Manufacturing,74064964,13339,2004,Male,Arkansas,5552.51
+18,18,66,66,66,All Education Categories,Manufacturing,412546757,68162,2004,Female,Arkansas,6052.45
+19,19,67,67,67,Less Than High School,Manufacturing,55483770,10901,2004,Female,Arkansas,5089.79
+20,20,68,68,68,High School Graduate,Manufacturing,146811427,25157,2004,Female,Arkansas,5835.81
+21,21,69,69,69,Some College,Manufacturing,123772954,19161,2004,Female,Arkansas,6459.63
+22,22,70,70,70,Advanced Degree,Manufacturing,59461259,7046,2004,Female,Arkansas,8439.01
+23,23,71,71,71,Unavalble,Manufacturing,27017347,5896,2004,Female,Arkansas,4582.32
+24,24,84,84,84,All Education Categories,Retail Trade,409788535,57560,2004,Male,Arkansas,7119.33
+25,25,85,85,85,Less Than High School,Retail Trade,38439690,6589,2004,Male,Arkansas,5833.92
+26,26,86,86,86,High School Graduate,Retail Trade,119008487,16410,2004,Male,Arkansas,7252.19
+27,27,87,87,87,Some College,Retail Trade,114200872,12907,2004,Male,Arkansas,8847.98
+28,28,88,88,88,Advanced Degree,Retail Trade,89967053,6365,2004,Male,Arkansas,14134.65
+29,29,89,89,89,Unavalble,Retail Trade,48172434,15289,2004,Male,Arkansas,3150.79
+30,30,90,90,90,All Education Categories,Retail Trade,257576556,65834,2004,Female,Arkansas,3912.52
+31,31,91,91,91,Less Than High School,Retail Trade,25002822,7053,2004,Female,Arkansas,3544.99
+32,32,92,92,92,High School Graduate,Retail Trade,82758692,20356,2004,Female,Arkansas,4065.57
+33,33,93,93,93,Some College,Retail Trade,67870079,14938,2004,Female,Arkansas,4543.45
+34,34,94,94,94,Advanced Degree,Retail Trade,41247633,5977,2004,Female,Arkansas,6901.06
+35,35,95,95,95,Unavalble,Retail Trade,40697330,17510,2004,Female,Arkansas,2324.23
+36,36,120,120,120,All Education Categories,Finance and Insurance,199312822,10135,2004,Male,Arkansas,19665.79
+37,37,121,121,121,Less Than High School,Finance and Insurance,3228452,375,2004,Male,Arkansas,8609.21
+38,38,122,122,122,High School Graduate,Finance and Insurance,16779625,1390,2004,Male,Arkansas,12071.67
+39,39,123,123,123,Some College,Finance and Insurance,37914509,2263,2004,Male,Arkansas,16754.09
+40,40,124,124,124,Advanced Degree,Finance and Insurance,135723082,5074,2004,Male,Arkansas,26748.74
+41,41,125,125,125,Unavalble,Finance and Insurance,5667154,1033,2004,Male,Arkansas,5486.11
+42,42,126,126,126,All Education Categories,Finance and Insurance,188704388,25154,2004,Female,Arkansas,7501.96
+43,43,127,127,127,Less Than High School,Finance and Insurance,4579396,829,2004,Female,Arkansas,5524.0
+44,44,128,128,128,High School Graduate,Finance and Insurance,35950187,5641,2004,Female,Arkansas,6373.02
+45,45,129,129,129,Some College,Finance and Insurance,54038149,7476,2004,Female,Arkansas,7228.22
+46,46,130,130,130,Advanced Degree,Finance and Insurance,78369080,7698,2004,Female,Arkansas,10180.45
+47,47,131,131,131,Unavalble,Finance and Insurance,15767576,3511,2004,Female,Arkansas,4490.91
+48,48,180,180,180,All Education Categories,Educational Services,223979268,27435,2004,Male,Arkansas,8164.0
+49,49,181,181,181,Less Than High School,Educational Services,9798729,1903,2004,Male,Arkansas,5149.1
+50,50,182,182,182,High School Graduate,Educational Services,35998080,5496,2004,Male,Arkansas,6549.87
+51,51,183,183,183,Some College,Educational Services,53136565,6815,2004,Male,Arkansas,7797.0
+52,52,184,184,184,Advanced Degree,Educational Services,119899772,11127,2004,Male,Arkansas,10775.57
+53,53,185,185,185,Unavalble,Educational Services,5146122,2094,2004,Male,Arkansas,2457.56
+54,54,186,186,186,All Education Categories,Educational Services,456381914,75822,2004,Female,Arkansas,6019.12
+55,55,187,187,187,Less Than High School,Educational Services,12265168,3700,2004,Female,Arkansas,3314.91
+56,56,188,188,188,High School Graduate,Educational Services,76770079,17091,2004,Female,Arkansas,4491.84
+57,57,189,189,189,Some College,Educational Services,118748131,21074,2004,Female,Arkansas,5634.82
+58,58,190,190,190,Advanced Degree,Educational Services,236631073,29515,2004,Female,Arkansas,8017.32
+59,59,191,191,191,Unavalble,Educational Services,11967463,4442,2004,Female,Arkansas,2694.16
+60,60,192,192,192,All Education Categories,Health Care and Social Assistance,372717013,27360,2004,Male,Arkansas,13622.7
+61,61,193,193,193,Less Than High School,Health Care and Social Assistance,12760255,2062,2004,Male,Arkansas,6188.29
+62,62,194,194,194,High School Graduate,Health Care and Social Assistance,45266169,5485,2004,Male,Arkansas,8252.72
+63,63,195,195,195,Some College,Health Care and Social Assistance,86699603,7615,2004,Male,Arkansas,11385.37
+64,64,196,196,196,Advanced Degree,Health Care and Social Assistance,217554126,9419,2004,Male,Arkansas,23097.37
+65,65,197,197,197,Unavalble,Health Care and Social Assistance,10436859,2779,2004,Male,Arkansas,3755.62
+66,66,198,198,198,All Education Categories,Health Care and Social Assistance,749870552,120768,2004,Female,Arkansas,6209.18
+67,67,199,199,199,Less Than High School,Health Care and Social Assistance,36260320,8878,2004,Female,Arkansas,4084.29
+68,68,200,200,200,High School Graduate,Health Care and Social Assistance,139764435,27918,2004,Female,Arkansas,5006.25
+69,69,201,201,201,Some College,Health Care and Social Assistance,273245500,43020,2004,Female,Arkansas,6351.59
+70,70,202,202,202,Advanced Degree,Health Care and Social Assistance,249498620,27087,2004,Female,Arkansas,9211.01
+71,71,203,203,203,Unavalble,Health Care and Social Assistance,51101678,13865,2004,Female,Arkansas,3685.66
+72,72,216,216,216,All Education Categories,Accommodation and Food Services,103148907,30631,2004,Male,Arkansas,3367.47
+73,73,217,217,217,Less Than High School,Accommodation and Food Services,13916628,3631,2004,Male,Arkansas,3832.73
+74,74,218,218,218,High School Graduate,Accommodation and Food Services,24679738,5704,2004,Male,Arkansas,4326.74
+75,75,219,219,219,Some College,Accommodation and Food Services,20562957,4359,2004,Male,Arkansas,4717.36
+76,76,220,220,220,Advanced Degree,Accommodation and Food Services,10553064,1877,2004,Male,Arkansas,5622.3
+77,77,221,221,221,Unavalble,Accommodation and Food Services,33436520,15060,2004,Male,Arkansas,2220.22
+78,78,222,222,222,All Education Categories,Accommodation and Food Services,111806491,43458,2004,Female,Arkansas,2572.75
+79,79,223,223,223,Less Than High School,Accommodation and Food Services,13753056,4959,2004,Female,Arkansas,2773.35
+80,80,224,224,224,High School Graduate,Accommodation and Food Services,27256586,9119,2004,Female,Arkansas,2988.99
+81,81,225,225,225,Some College,Accommodation and Food Services,23029053,7183,2004,Female,Arkansas,3206.05
+82,82,226,226,226,Advanced Degree,Accommodation and Food Services,10181997,2788,2004,Female,Arkansas,3652.08
+83,83,227,227,227,Unavalble,Accommodation and Food Services,37585798,19409,2004,Female,Arkansas,1936.51
+84,84,252,252,252,All Education Categories,00,5124645965,550093,2005,Male,Arkansas,9315.96
+85,85,253,253,253,Less Than High School,00,455232184,69140,2005,Male,Arkansas,6584.21
+86,86,254,254,254,High School Graduate,00,1309825977,159610,2005,Male,Arkansas,8206.42
+87,87,255,255,255,Some College,00,1395908708,141610,2005,Male,Arkansas,9857.42
+88,88,256,256,256,Advanced Degree,00,1646899657,100159,2005,Male,Arkansas,16442.85
+89,89,257,257,257,Unavalble,00,316779440,79573,2005,Male,Arkansas,3980.99
+90,90,258,258,258,All Education Categories,00,3272595939,552936,2005,Female,Arkansas,5918.58
+91,91,259,259,259,Less Than High School,00,206926146,48864,2005,Female,Arkansas,4234.74
+92,92,260,260,260,High School Graduate,00,748781814,145952,2005,Female,Arkansas,5130.33
+93,93,261,261,261,Some College,00,1003548037,160691,2005,Female,Arkansas,6245.2
+94,94,262,262,262,Advanced Degree,00,1052136614,112912,2005,Female,Arkansas,9318.2
+95,95,263,263,263,Unavalble,00,261203327,84518,2005,Female,Arkansas,3090.51
+96,96,312,312,312,All Education Categories,Manufacturing,1261338674,136061,2005,Male,Arkansas,9270.39
+97,97,313,313,313,Less Than High School,Manufacturing,155214260,21523,2005,Male,Arkansas,7211.55
+98,98,314,314,314,High School Graduate,Manufacturing,423623317,47800,2005,Male,Arkansas,8862.41
+99,99,315,315,315,Some College,Manufacturing,375848437,37377,2005,Male,Arkansas,10055.61
+100,100,316,316,316,Advanced Degree,Manufacturing,233503661,16274,2005,Male,Arkansas,14348.26
+101,101,317,317,317,Unavalble,Manufacturing,73148999,13088,2005,Male,Arkansas,5589.01
+102,102,318,318,318,All Education Categories,Manufacturing,417848326,67607,2005,Female,Arkansas,6180.55
+103,103,319,319,319,Less Than High School,Manufacturing,56231918,10861,2005,Female,Arkansas,5177.42
+104,104,320,320,320,High School Graduate,Manufacturing,147301607,24786,2005,Female,Arkansas,5942.94
+105,105,321,321,321,Some College,Manufacturing,125414316,18976,2005,Female,Arkansas,6609.1
+106,106,322,322,322,Advanced Degree,Manufacturing,61169679,6982,2005,Female,Arkansas,8761.05
+107,107,323,323,323,Unavalble,Manufacturing,27730805,6002,2005,Female,Arkansas,4620.26
+108,108,336,336,336,All Education Categories,Retail Trade,413297589,58731,2005,Male,Arkansas,7037.13
+109,109,337,337,337,Less Than High School,Retail Trade,39224891,6770,2005,Male,Arkansas,5793.93
+110,110,338,338,338,High School Graduate,Retail Trade,121593721,16809,2005,Male,Arkansas,7233.85
+111,111,339,339,339,Some College,Retail Trade,116245569,13334,2005,Male,Arkansas,8717.98
+112,112,340,340,340,Advanced Degree,Retail Trade,87938768,6427,2005,Male,Arkansas,13682.71
+113,113,341,341,341,Unavalble,Retail Trade,48294640,15390,2005,Male,Arkansas,3138.05
+114,114,342,342,342,All Education Categories,Retail Trade,267330703,66818,2005,Female,Arkansas,4000.88
+115,115,343,343,343,Less Than High School,Retail Trade,25734357,7157,2005,Female,Arkansas,3595.69
+116,116,344,344,344,High School Graduate,Retail Trade,86277363,20725,2005,Female,Arkansas,4162.96
+117,117,345,345,345,Some College,Retail Trade,71174557,15283,2005,Female,Arkansas,4657.11
+118,118,346,346,346,Advanced Degree,Retail Trade,42479336,5991,2005,Female,Arkansas,7090.53
+119,119,347,347,347,Unavalble,Retail Trade,41665090,17662,2005,Female,Arkansas,2359.02
+120,120,372,372,372,All Education Categories,Finance and Insurance,203530319,10377,2005,Male,Arkansas,19613.6
+121,121,373,373,373,Less Than High School,Finance and Insurance,3273681,370,2005,Male,Arkansas,8847.79
+122,122,374,374,374,High School Graduate,Finance and Insurance,17538863,1435,2005,Male,Arkansas,12222.2
+123,123,375,375,375,Some College,Finance and Insurance,39339967,2355,2005,Male,Arkansas,16704.87
+124,124,376,376,376,Advanced Degree,Finance and Insurance,137763846,5178,2005,Male,Arkansas,26605.61
+125,125,377,377,377,Unavalble,Finance and Insurance,5613962,1039,2005,Male,Arkansas,5403.24
+126,126,378,378,378,All Education Categories,Finance and Insurance,192801723,25136,2005,Female,Arkansas,7670.34
+127,127,379,379,379,Less Than High School,Finance and Insurance,4619542,807,2005,Female,Arkansas,5724.34
+128,128,380,380,380,High School Graduate,Finance and Insurance,36323614,5629,2005,Female,Arkansas,6452.94
+129,129,381,381,381,Some College,Finance and Insurance,55200394,7502,2005,Female,Arkansas,7358.09
+130,130,382,382,382,Advanced Degree,Finance and Insurance,81018883,7710,2005,Female,Arkansas,10508.29
+131,131,383,383,383,Unavalble,Finance and Insurance,15639289,3489,2005,Female,Arkansas,4482.46
+132,132,432,432,432,All Education Categories,Educational Services,243232611,27987,2005,Male,Arkansas,8690.91
+133,133,433,433,433,Less Than High School,Educational Services,10426349,1900,2005,Male,Arkansas,5487.55
+134,134,434,434,434,High School Graduate,Educational Services,39204847,5609,2005,Male,Arkansas,6989.63
+135,135,435,435,435,Some College,Educational Services,58567249,7065,2005,Male,Arkansas,8289.77
+136,136,436,436,436,Advanced Degree,Educational Services,129358011,11343,2005,Male,Arkansas,11404.22
+137,137,437,437,437,Unavalble,Educational Services,5676156,2070,2005,Male,Arkansas,2742.1
+138,138,438,438,438,All Education Categories,Educational Services,509636682,77830,2005,Female,Arkansas,6548.08
+139,139,439,439,439,Less Than High School,Educational Services,13497731,3767,2005,Female,Arkansas,3583.15
+140,140,440,440,440,High School Graduate,Educational Services,84909855,17504,2005,Female,Arkansas,4850.88
+141,141,441,441,441,Some College,Educational Services,134001803,21873,2005,Female,Arkansas,6126.36
+142,142,442,442,442,Advanced Degree,Educational Services,263631952,30265,2005,Female,Arkansas,8710.79
+143,143,443,443,443,Unavalble,Educational Services,13595341,4420,2005,Female,Arkansas,3075.87
+144,144,444,444,444,All Education Categories,Health Care and Social Assistance,386247383,28013,2005,Male,Arkansas,13788.15
+145,145,445,445,445,Less Than High School,Health Care and Social Assistance,13227910,2124,2005,Male,Arkansas,6227.83
+146,146,446,446,446,High School Graduate,Health Care and Social Assistance,46990051,5630,2005,Male,Arkansas,8346.37
+147,147,447,447,447,Some College,Health Care and Social Assistance,90398620,7918,2005,Male,Arkansas,11416.85
+148,148,448,448,448,Advanced Degree,Health Care and Social Assistance,225030663,9593,2005,Male,Arkansas,23457.8
+149,149,449,449,449,Unavalble,Health Care and Social Assistance,10600138,2748,2005,Male,Arkansas,3857.4
+150,150,450,450,450,All Education Categories,Health Care and Social Assistance,787938147,123815,2005,Female,Arkansas,6363.83
+151,151,451,451,451,Less Than High School,Health Care and Social Assistance,37613347,9036,2005,Female,Arkansas,4162.61
+152,152,452,452,452,High School Graduate,Health Care and Social Assistance,146134900,28601,2005,Female,Arkansas,5109.43
+153,153,453,453,453,Some College,Health Care and Social Assistance,289071602,44486,2005,Female,Arkansas,6498.04
+154,154,454,454,454,Advanced Degree,Health Care and Social Assistance,263608003,27834,2005,Female,Arkansas,9470.72
+155,155,455,455,455,Unavalble,Health Care and Social Assistance,51510295,13857,2005,Female,Arkansas,3717.28
+156,156,468,468,468,All Education Categories,Accommodation and Food Services,106959417,32042,2005,Male,Arkansas,3338.1
+157,157,469,469,469,Less Than High School,Accommodation and Food Services,14777248,3934,2005,Male,Arkansas,3756.29
+158,158,470,470,470,High School Graduate,Accommodation and Food Services,25957335,6106,2005,Male,Arkansas,4251.12
+159,159,471,471,471,Some College,Accommodation and Food Services,21524796,4652,2005,Male,Arkansas,4627.0
+160,160,472,472,472,Advanced Degree,Accommodation and Food Services,10763572,1939,2005,Male,Arkansas,5551.09
+161,161,473,473,473,Unavalble,Accommodation and Food Services,33936466,15412,2005,Male,Arkansas,2201.95
+162,162,474,474,474,All Education Categories,Accommodation and Food Services,115941263,44645,2005,Female,Arkansas,2596.96
+163,163,475,475,475,Less Than High School,Accommodation and Food Services,14231038,5085,2005,Female,Arkansas,2798.63
+164,164,476,476,476,High School Graduate,Accommodation and Food Services,27890720,9287,2005,Female,Arkansas,3003.2
+165,165,477,477,477,Some College,Accommodation and Food Services,23862266,7358,2005,Female,Arkansas,3243.04
+166,166,478,478,478,Advanced Degree,Accommodation and Food Services,10423877,2795,2005,Female,Arkansas,3729.47
+167,167,479,479,479,Unavalble,Accommodation and Food Services,39533361,20119,2005,Female,Arkansas,1964.98
+168,168,504,504,504,All Education Categories,00,5718841152,565586,2006,Male,Arkansas,10111.36
+169,169,505,505,505,Less Than High School,00,513033796,70943,2006,Male,Arkansas,7231.63
+170,170,506,506,506,High School Graduate,00,1463729826,164211,2006,Male,Arkansas,8913.71
+171,171,507,507,507,Some College,00,1562236423,146343,2006,Male,Arkansas,10675.17
+172,172,508,508,508,Advanced Degree,00,1823066114,102665,2006,Male,Arkansas,17757.43
+173,173,509,509,509,Unavalble,00,356774992,81423,2006,Male,Arkansas,4381.75
+174,174,510,510,510,All Education Categories,00,3654087828,568227,2006,Female,Arkansas,6430.68
+175,175,511,511,511,Less Than High School,00,232638552,50448,2006,Female,Arkansas,4611.45
+176,176,512,512,512,High School Graduate,00,831302852,148998,2006,Female,Arkansas,5579.29
+177,177,513,513,513,Some College,00,1129219264,166241,2006,Female,Arkansas,6792.66
+178,178,514,514,514,Advanced Degree,00,1174026916,116306,2006,Female,Arkansas,10094.29
+179,179,515,515,515,Unavalble,00,286900243,86233,2006,Female,Arkansas,3327.04
+180,180,564,564,564,All Education Categories,Manufacturing,1384860358,139509,2006,Male,Arkansas,9926.67
+181,181,565,565,565,Less Than High School,Manufacturing,170774094,21970,2006,Male,Arkansas,7773.06
+182,182,566,566,566,High School Graduate,Manufacturing,465754286,48916,2006,Male,Arkansas,9521.51
+183,183,567,567,567,Some College,Manufacturing,414087637,38500,2006,Male,Arkansas,10755.52
+184,184,568,568,568,Advanced Degree,Manufacturing,252443621,16674,2006,Male,Arkansas,15139.96
+185,185,569,569,569,Unavalble,Manufacturing,81800720,13449,2006,Male,Arkansas,6082.29
+186,186,570,570,570,All Education Categories,Manufacturing,450623080,68061,2006,Female,Arkansas,6620.87
+187,187,571,571,571,Less Than High School,Manufacturing,61483408,11157,2006,Female,Arkansas,5510.75
+188,188,572,572,572,High School Graduate,Manufacturing,158210387,24684,2006,Female,Arkansas,6409.43
+189,189,573,573,573,Some College,Manufacturing,135830761,19110,2006,Female,Arkansas,7107.84
+190,190,574,574,574,Advanced Degree,Manufacturing,65683609,7079,2006,Female,Arkansas,9278.66
+191,191,575,575,575,Unavalble,Manufacturing,29414915,6030,2006,Female,Arkansas,4878.1
+192,192,588,588,588,All Education Categories,Retail Trade,454831891,59869,2006,Male,Arkansas,7597.12
+193,193,589,589,589,Less Than High School,Retail Trade,43599012,6963,2006,Male,Arkansas,6261.53
+194,194,590,590,590,High School Graduate,Retail Trade,133794711,17206,2006,Male,Arkansas,7776.05
+195,195,591,591,591,Some College,Retail Trade,129536493,13738,2006,Male,Arkansas,9429.06
+196,196,592,592,592,Advanced Degree,Retail Trade,96160879,6495,2006,Male,Arkansas,14805.37
+197,197,593,593,593,Unavalble,Retail Trade,51740796,15467,2006,Male,Arkansas,3345.24
+198,198,594,594,594,All Education Categories,Retail Trade,293973405,67133,2006,Female,Arkansas,4378.97
+199,199,595,595,595,Less Than High School,Retail Trade,28156679,7168,2006,Female,Arkansas,3928.11
+200,200,596,596,596,High School Graduate,Retail Trade,93807780,20670,2006,Female,Arkansas,4538.35
+201,201,597,597,597,Some College,Retail Trade,78910857,15504,2006,Female,Arkansas,5089.71
+202,202,598,598,598,Advanced Degree,Retail Trade,47564947,6006,2006,Female,Arkansas,7919.57
+203,203,599,599,599,Unavalble,Retail Trade,45533142,17785,2006,Female,Arkansas,2560.2
+204,204,624,624,624,All Education Categories,Finance and Insurance,227872419,10854,2006,Male,Arkansas,20994.33
+205,205,625,625,625,Less Than High School,Finance and Insurance,3855667,391,2006,Male,Arkansas,9861.04
+206,206,626,626,626,High School Graduate,Finance and Insurance,19862443,1524,2006,Male,Arkansas,13033.1
+207,207,627,627,627,Some College,Finance and Insurance,44639415,2511,2006,Male,Arkansas,17777.54
+208,208,628,628,628,Advanced Degree,Finance and Insurance,153098035,5332,2006,Male,Arkansas,28713.06
+209,209,629,629,629,Unavalble,Finance and Insurance,6416858,1096,2006,Male,Arkansas,5854.8
+210,210,630,630,630,All Education Categories,Finance and Insurance,216307720,26158,2006,Female,Arkansas,8269.28
+211,211,631,631,631,Less Than High School,Finance and Insurance,5167495,847,2006,Female,Arkansas,6100.94
+212,212,632,632,632,High School Graduate,Finance and Insurance,40135805,5822,2006,Female,Arkansas,6893.82
+213,213,633,633,633,Some College,Finance and Insurance,62373999,7869,2006,Female,Arkansas,7926.55
+214,214,634,634,634,Advanced Degree,Finance and Insurance,91714294,8066,2006,Female,Arkansas,11370.48
+215,215,635,635,635,Unavalble,Finance and Insurance,16916126,3554,2006,Female,Arkansas,4759.74
+216,216,684,684,684,All Education Categories,Educational Services,261561019,28718,2006,Male,Arkansas,9107.91
+217,217,685,685,685,Less Than High School,Educational Services,11145450,1918,2006,Male,Arkansas,5810.97
+218,218,686,686,686,High School Graduate,Educational Services,42436021,5810,2006,Male,Arkansas,7303.96
+219,219,687,687,687,Some College,Educational Services,63878154,7343,2006,Male,Arkansas,8699.19
+220,220,688,688,688,Advanced Degree,Educational Services,138108020,11579,2006,Male,Arkansas,11927.46
+221,221,689,689,689,Unavalble,Educational Services,5993373,2068,2006,Male,Arkansas,2898.15
+222,222,690,690,690,All Education Categories,Educational Services,557022790,80991,2006,Female,Arkansas,6877.59
+223,223,691,691,691,Less Than High School,Educational Services,14836505,3902,2006,Female,Arkansas,3802.28
+224,224,692,692,692,High School Graduate,Educational Services,92763201,18183,2006,Female,Arkansas,5101.64
+225,225,693,693,693,Some College,Educational Services,148509164,23049,2006,Female,Arkansas,6443.19
+226,226,694,694,694,Advanced Degree,Educational Services,285787950,31354,2006,Female,Arkansas,9114.88
+227,227,695,695,695,Unavalble,Educational Services,15125969,4503,2006,Female,Arkansas,3359.09
+228,228,696,696,696,All Education Categories,Health Care and Social Assistance,431346934,28912,2006,Male,Arkansas,14919.3
+229,229,697,697,697,Less Than High School,Health Care and Social Assistance,15086331,2179,2006,Male,Arkansas,6923.51
+230,230,698,698,698,High School Graduate,Health Care and Social Assistance,53704251,5861,2006,Male,Arkansas,9162.98
+231,231,699,699,699,Some College,Health Care and Social Assistance,101671736,8182,2006,Male,Arkansas,12426.27
+232,232,700,700,700,Advanced Degree,Health Care and Social Assistance,249061395,9936,2006,Male,Arkansas,25066.57
+233,233,701,701,701,Unavalble,Health Care and Social Assistance,11823220,2754,2006,Male,Arkansas,4293.11
+234,234,702,702,702,All Education Categories,Health Care and Social Assistance,890207038,126710,2006,Female,Arkansas,7025.55
+235,235,703,703,703,Less Than High School,Health Care and Social Assistance,43299074,9248,2006,Female,Arkansas,4681.99
+236,236,704,704,704,High School Graduate,Health Care and Social Assistance,166070595,29333,2006,Female,Arkansas,5661.56
+237,237,705,705,705,Some College,Health Care and Social Assistance,327564821,45904,2006,Female,Arkansas,7135.87
+238,238,706,706,706,Advanced Degree,Health Care and Social Assistance,297132209,28506,2006,Female,Arkansas,10423.5
+239,239,707,707,707,Unavalble,Health Care and Social Assistance,56140338,13719,2006,Female,Arkansas,4092.16
+240,240,720,720,720,All Education Categories,Accommodation and Food Services,120518867,33543,2006,Male,Arkansas,3592.97
+241,241,721,721,721,Less Than High School,Accommodation and Food Services,17099187,4223,2006,Male,Arkansas,4049.06
+242,242,722,722,722,High School Graduate,Accommodation and Food Services,29562312,6543,2006,Male,Arkansas,4518.16
+243,243,723,723,723,Some College,Accommodation and Food Services,24373479,4882,2006,Male,Arkansas,4992.52
+244,244,724,724,724,Advanced Degree,Accommodation and Food Services,12134153,2011,2006,Male,Arkansas,6033.89
+245,245,725,725,725,Unavalble,Accommodation and Food Services,37349735,15884,2006,Male,Arkansas,2351.41
+246,246,726,726,726,All Education Categories,Accommodation and Food Services,132136236,47681,2006,Female,Arkansas,2771.26
+247,247,727,727,727,Less Than High School,Accommodation and Food Services,16513342,5548,2006,Female,Arkansas,2976.45
+248,248,728,728,728,High School Graduate,Accommodation and Food Services,31711560,9889,2006,Female,Arkansas,3206.75
+249,249,729,729,729,Some College,Accommodation and Food Services,27484811,7910,2006,Female,Arkansas,3474.69
+250,250,730,730,730,Advanced Degree,Accommodation and Food Services,12021012,3006,2006,Female,Arkansas,3999.01
+251,251,731,731,731,Unavalble,Accommodation and Food Services,44405511,21329,2006,Female,Arkansas,2081.93
+252,252,756,756,756,All Education Categories,00,5863596119,564430,2007,Male,Arkansas,10388.53
+253,253,757,757,757,Less Than High School,00,519510464,71171,2007,Male,Arkansas,7299.47
+254,254,758,758,758,High School Graduate,00,1487901314,163746,2007,Male,Arkansas,9086.64
+255,255,759,759,759,Some College,00,1608689003,146984,2007,Male,Arkansas,10944.65
+256,256,760,760,760,Advanced Degree,00,1889728910,102448,2007,Male,Arkansas,18445.74
+257,257,761,761,761,Unavalble,00,357766428,80081,2007,Male,Arkansas,4467.56
+258,258,762,762,762,All Education Categories,00,3732374753,569542,2007,Female,Arkansas,6553.29
+259,259,763,763,763,Less Than High School,00,238996689,51262,2007,Female,Arkansas,4662.26
+260,260,764,764,764,High School Graduate,00,842828754,149112,2007,Female,Arkansas,5652.32
+261,261,765,765,765,Some College,00,1160689996,168074,2007,Female,Arkansas,6905.83
+262,262,766,766,766,Advanced Degree,00,1203708885,116670,2007,Female,Arkansas,10317.21
+263,263,767,767,767,Unavalble,00,286150429,84424,2007,Female,Arkansas,3389.44
+264,264,816,816,816,All Education Categories,Manufacturing,1344165991,131224,2007,Male,Arkansas,10243.29
+265,265,817,817,817,Less Than High School,Manufacturing,164584166,20776,2007,Male,Arkansas,7921.84
+266,266,818,818,818,High School Graduate,Manufacturing,446326734,45879,2007,Male,Arkansas,9728.34
+267,267,819,819,819,Some College,Manufacturing,403073953,36352,2007,Male,Arkansas,11088.08
+268,268,820,820,820,Advanced Degree,Manufacturing,253949434,15683,2007,Male,Arkansas,16192.66
+269,269,821,821,821,Unavalble,Manufacturing,76231705,12534,2007,Male,Arkansas,6081.99
+270,270,822,822,822,All Education Categories,Manufacturing,427178595,63264,2007,Female,Arkansas,6752.32
+271,271,823,823,823,Less Than High School,Manufacturing,59569326,10591,2007,Female,Arkansas,5624.52
+272,272,824,824,824,High School Graduate,Manufacturing,147677663,22838,2007,Female,Arkansas,6466.31
+273,273,825,825,825,Some College,Manufacturing,129296699,17911,2007,Female,Arkansas,7218.84
+274,274,826,826,826,Advanced Degree,Manufacturing,64631542,6702,2007,Female,Arkansas,9643.62
+275,275,827,827,827,Unavalble,Manufacturing,26003364,5223,2007,Female,Arkansas,4978.63
+276,276,840,840,840,All Education Categories,Retail Trade,464459260,59485,2007,Male,Arkansas,7808.01
+277,277,841,841,841,Less Than High School,Retail Trade,43852092,6929,2007,Male,Arkansas,6328.78
+278,278,842,842,842,High School Graduate,Retail Trade,135103361,17096,2007,Male,Arkansas,7902.63
+279,279,843,843,843,Some College,Retail Trade,133916534,13691,2007,Male,Arkansas,9781.36
+280,280,844,844,844,Advanced Degree,Retail Trade,100022812,6473,2007,Male,Arkansas,15452.31
+281,281,845,845,845,Unavalble,Retail Trade,51564461,15296,2007,Male,Arkansas,3371.11
+282,282,846,846,846,All Education Categories,Retail Trade,305343918,68066,2007,Female,Arkansas,4486.0
+283,283,847,847,847,Less Than High School,Retail Trade,28995770,7265,2007,Female,Arkansas,3991.16
+284,284,848,848,848,High School Graduate,Retail Trade,95723816,20695,2007,Female,Arkansas,4625.46
+285,285,849,849,849,Some College,Retail Trade,82355949,15764,2007,Female,Arkansas,5224.31
+286,286,850,850,850,Advanced Degree,Retail Trade,51333375,6187,2007,Female,Arkansas,8296.97
+287,287,851,851,851,Unavalble,Retail Trade,46935008,18154,2007,Female,Arkansas,2585.38
+288,288,876,876,876,All Education Categories,Finance and Insurance,258311562,10988,2007,Male,Arkansas,23508.51
+289,289,877,877,877,Less Than High School,Finance and Insurance,4127210,410,2007,Male,Arkansas,10066.37
+290,290,878,878,878,High School Graduate,Finance and Insurance,22026992,1561,2007,Male,Arkansas,14110.82
+291,291,879,879,879,Some College,Finance and Insurance,49286087,2570,2007,Male,Arkansas,19177.47
+292,292,880,880,880,Advanced Degree,Finance and Insurance,176546136,5346,2007,Male,Arkansas,33023.97
+293,293,881,881,881,Unavalble,Finance and Insurance,6325136,1100,2007,Male,Arkansas,5750.12
+294,294,882,882,882,All Education Categories,Finance and Insurance,225368735,26199,2007,Female,Arkansas,8602.19
+295,295,883,883,883,Less Than High School,Finance and Insurance,5581232,879,2007,Female,Arkansas,6349.52
+296,296,884,884,884,High School Graduate,Finance and Insurance,41548118,5838,2007,Female,Arkansas,7116.84
+297,297,885,885,885,Some College,Finance and Insurance,65011488,7927,2007,Female,Arkansas,8201.27
+298,298,886,886,886,Advanced Degree,Finance and Insurance,96368623,8067,2007,Female,Arkansas,11946.03
+299,299,887,887,887,Unavalble,Finance and Insurance,16859274,3488,2007,Female,Arkansas,4833.51
+300,300,936,936,936,All Education Categories,Educational Services,262921979,28289,2007,Male,Arkansas,9294.14
+301,301,937,937,937,Less Than High School,Educational Services,11383801,1900,2007,Male,Arkansas,5991.47
+302,302,938,938,938,High School Graduate,Educational Services,42986618,5734,2007,Male,Arkansas,7496.79
+303,303,939,939,939,Some College,Educational Services,65196235,7333,2007,Male,Arkansas,8890.8
+304,304,940,940,940,Advanced Degree,Educational Services,137487019,11219,2007,Male,Arkansas,12254.84
+305,305,941,941,941,Unavalble,Educational Services,5868306,2103,2007,Male,Arkansas,2790.45
+306,306,942,942,942,All Education Categories,Educational Services,549644265,79128,2007,Female,Arkansas,6946.27
+307,307,943,943,943,Less Than High School,Educational Services,15074118,3867,2007,Female,Arkansas,3898.14
+308,308,944,944,944,High School Graduate,Educational Services,92234104,17731,2007,Female,Arkansas,5201.86
+309,309,945,945,945,Some College,Educational Services,148750137,22786,2007,Female,Arkansas,6528.14
+310,310,946,946,946,Advanced Degree,Educational Services,278801485,30358,2007,Female,Arkansas,9183.79
+311,311,947,947,947,Unavalble,Educational Services,14784420,4385,2007,Female,Arkansas,3371.59
+312,312,948,948,948,All Education Categories,Health Care and Social Assistance,440376989,29365,2007,Male,Arkansas,14996.66
+313,313,949,949,949,Less Than High School,Health Care and Social Assistance,15989839,2326,2007,Male,Arkansas,6874.39
+314,314,950,950,950,High School Graduate,Health Care and Social Assistance,55856853,6108,2007,Male,Arkansas,9144.87
+315,315,951,951,951,Some College,Health Care and Social Assistance,104245475,8331,2007,Male,Arkansas,12512.96
+316,316,952,952,952,Advanced Degree,Health Care and Social Assistance,252256228,9910,2007,Male,Arkansas,25454.72
+317,317,953,953,953,Unavalble,Health Care and Social Assistance,12028593,2690,2007,Male,Arkansas,4471.6
+318,318,954,954,954,All Education Categories,Health Care and Social Assistance,916637740,130088,2007,Female,Arkansas,7046.29
+319,319,955,955,955,Less Than High School,Health Care and Social Assistance,45681849,9830,2007,Female,Arkansas,4647.19
+320,320,956,956,956,High School Graduate,Health Care and Social Assistance,172750778,30487,2007,Female,Arkansas,5666.38
+321,321,957,957,957,Some College,Health Care and Social Assistance,338254495,47206,2007,Female,Arkansas,7165.5
+322,322,958,958,958,Advanced Degree,Health Care and Social Assistance,304371939,29072,2007,Female,Arkansas,10469.59
+323,323,959,959,959,Unavalble,Health Care and Social Assistance,55578679,13492,2007,Female,Arkansas,4119.38
+324,324,972,972,972,All Education Categories,Accommodation and Food Services,126644587,34171,2007,Male,Arkansas,3706.2
+325,325,973,973,973,Less Than High School,Accommodation and Food Services,18271869,4484,2007,Male,Arkansas,4074.9
+326,326,974,974,974,High School Graduate,Accommodation and Food Services,31270556,6840,2007,Male,Arkansas,4571.72
+327,327,975,975,975,Some College,Accommodation and Food Services,25608620,5156,2007,Male,Arkansas,4966.76
+328,328,976,976,976,Advanced Degree,Accommodation and Food Services,12708413,2142,2007,Male,Arkansas,5932.97
+329,329,977,977,977,Unavalble,Accommodation and Food Services,38785128,15549,2007,Male,Arkansas,2494.38
+330,330,978,978,978,All Education Categories,Accommodation and Food Services,140398238,47938,2007,Female,Arkansas,2928.75
+331,331,979,979,979,Less Than High School,Accommodation and Food Services,17925416,5800,2007,Female,Arkansas,3090.59
+332,332,980,980,980,High School Graduate,Accommodation and Food Services,33647539,10106,2007,Female,Arkansas,3329.46
+333,333,981,981,981,Some College,Accommodation and Food Services,29340666,8162,2007,Female,Arkansas,3594.79
+334,334,982,982,982,Advanced Degree,Accommodation and Food Services,12870777,3141,2007,Female,Arkansas,4097.67
+335,335,983,983,983,Unavalble,Accommodation and Food Services,46613840,20728,2007,Female,Arkansas,2248.83
+336,336,1008,1008,1008,All Education Categories,00,6148125300,566014,2008,Male,Arkansas,10862.14
+337,337,1009,1009,1009,Less Than High School,00,542492103,72000,2008,Male,Arkansas,7534.61
+338,338,1010,1010,1010,High School Graduate,00,1539098628,164645,2008,Male,Arkansas,9347.98
+339,339,1011,1011,1011,Some College,00,1686349034,148440,2008,Male,Arkansas,11360.48
+340,340,1012,1012,1012,Advanced Degree,00,2022868169,103255,2008,Male,Arkansas,19590.99
+341,341,1013,1013,1013,Unavalble,00,357317367,77674,2008,Male,Arkansas,4600.22
+342,342,1014,1014,1014,All Education Categories,00,3899886699,574635,2008,Female,Arkansas,6786.72
+343,343,1015,1015,1015,Less Than High School,00,252114671,52504,2008,Female,Arkansas,4801.82
+344,344,1016,1016,1016,High School Graduate,00,875135187,150073,2008,Female,Arkansas,5831.4
+345,345,1017,1017,1017,Some College,00,1220709900,170960,2008,Female,Arkansas,7140.32
+346,346,1018,1018,1018,Advanced Degree,00,1268039580,118329,2008,Female,Arkansas,10716.22
+347,347,1019,1019,1019,Unavalble,00,283887361,82769,2008,Female,Arkansas,3429.88
+348,348,1068,1068,1068,All Education Categories,Manufacturing,1328280167,127194,2008,Male,Arkansas,10442.95
+349,349,1069,1069,1069,Less Than High School,Manufacturing,164576559,20373,2008,Male,Arkansas,8078.17
+350,350,1070,1070,1070,High School Graduate,Manufacturing,441044720,44524,2008,Male,Arkansas,9905.77
+351,351,1071,1071,1071,Some College,Manufacturing,402014783,35504,2008,Male,Arkansas,11323.08
+352,352,1072,1072,1072,Advanced Degree,Manufacturing,248374726,15319,2008,Male,Arkansas,16213.51
+353,353,1073,1073,1073,Unavalble,Manufacturing,72269378,11475,2008,Male,Arkansas,6297.99
+354,354,1074,1074,1074,All Education Categories,Manufacturing,420797263,60631,2008,Female,Arkansas,6940.3
+355,355,1075,1075,1075,Less Than High School,Manufacturing,59734012,10393,2008,Female,Arkansas,5747.52
+356,356,1076,1076,1076,High School Graduate,Manufacturing,143123017,21521,2008,Female,Arkansas,6650.39
+357,357,1077,1077,1077,Some College,Manufacturing,128448039,17256,2008,Female,Arkansas,7443.67
+358,358,1078,1078,1078,Advanced Degree,Manufacturing,64908574,6559,2008,Female,Arkansas,9896.11
+359,359,1079,1079,1079,Unavalble,Manufacturing,24583621,4902,2008,Female,Arkansas,5015.02
+360,360,1092,1092,1092,All Education Categories,Retail Trade,492379828,60307,2008,Male,Arkansas,8164.56
+361,361,1093,1093,1093,Less Than High School,Retail Trade,45457700,7006,2008,Male,Arkansas,6488.4
+362,362,1094,1094,1094,High School Graduate,Retail Trade,139744298,17300,2008,Male,Arkansas,8077.71
+363,363,1095,1095,1095,Some College,Retail Trade,144314032,14014,2008,Male,Arkansas,10297.85
+364,364,1096,1096,1096,Advanced Degree,Retail Trade,111779499,6769,2008,Male,Arkansas,16513.44
+365,365,1097,1097,1097,Unavalble,Retail Trade,51084300,15218,2008,Male,Arkansas,3356.83
+366,366,1098,1098,1098,All Education Categories,Retail Trade,318037155,68845,2008,Female,Arkansas,4619.61
+367,367,1099,1099,1099,Less Than High School,Retail Trade,29968148,7322,2008,Female,Arkansas,4092.89
+368,368,1100,1100,1100,High School Graduate,Retail Trade,97656874,20710,2008,Female,Arkansas,4715.45
+369,369,1101,1101,1101,Some College,Retail Trade,86733655,16123,2008,Female,Arkansas,5379.5
+370,370,1102,1102,1102,Advanced Degree,Retail Trade,56628748,6519,2008,Female,Arkansas,8686.72
+371,371,1103,1103,1103,Unavalble,Retail Trade,47049730,18172,2008,Female,Arkansas,2589.13
+372,372,1128,1128,1128,All Education Categories,Finance and Insurance,279829127,10947,2008,Male,Arkansas,25562.17
+373,373,1129,1129,1129,Less Than High School,Finance and Insurance,4325963,425,2008,Male,Arkansas,10178.74
+374,374,1130,1130,1130,High School Graduate,Finance and Insurance,23594434,1596,2008,Male,Arkansas,14783.48
+375,375,1131,1131,1131,Some College,Finance and Insurance,52637309,2584,2008,Male,Arkansas,20370.48
+376,376,1132,1132,1132,Advanced Degree,Finance and Insurance,193486990,5299,2008,Male,Arkansas,36513.87
+377,377,1133,1133,1133,Unavalble,Finance and Insurance,5784431,1042,2008,Male,Arkansas,5551.28
+378,378,1134,1134,1134,All Education Categories,Finance and Insurance,230374897,25720,2008,Female,Arkansas,8957.03
+379,379,1135,1135,1135,Less Than High School,Finance and Insurance,5926932,912,2008,Female,Arkansas,6498.83
+380,380,1136,1136,1136,High School Graduate,Finance and Insurance,42876635,5833,2008,Female,Arkansas,7350.7
+381,381,1137,1137,1137,Some College,Finance and Insurance,66518352,7807,2008,Female,Arkansas,8520.35
+382,382,1138,1138,1138,Advanced Degree,Finance and Insurance,98895238,7874,2008,Female,Arkansas,12559.72
+383,383,1139,1139,1139,Unavalble,Finance and Insurance,16157740,3294,2008,Female,Arkansas,4905.2
+384,384,1188,1188,1188,All Education Categories,Educational Services,282009508,29059,2008,Male,Arkansas,9704.72
+385,385,1189,1189,1189,Less Than High School,Educational Services,12773113,2047,2008,Male,Arkansas,6239.92
+386,386,1190,1190,1190,High School Graduate,Educational Services,47124930,6061,2008,Male,Arkansas,7775.11
+387,387,1191,1191,1191,Some College,Educational Services,70461347,7681,2008,Male,Arkansas,9173.46
+388,388,1192,1192,1192,Advanced Degree,Educational Services,145667927,11452,2008,Male,Arkansas,12719.87
+389,389,1193,1193,1193,Unavalble,Educational Services,5982190,1818,2008,Male,Arkansas,3290.53
+390,390,1194,1194,1194,All Education Categories,Educational Services,584175593,80425,2008,Female,Arkansas,7263.61
+391,391,1195,1195,1195,Less Than High School,Educational Services,16655231,4018,2008,Female,Arkansas,4145.15
+392,392,1196,1196,1196,High School Graduate,Educational Services,98782865,18137,2008,Female,Arkansas,5446.48
+393,393,1197,1197,1197,Some College,Educational Services,160035187,23422,2008,Female,Arkansas,6832.69
+394,394,1198,1198,1198,Advanced Degree,Educational Services,293854671,30803,2008,Female,Arkansas,9539.81
+395,395,1199,1199,1199,Unavalble,Educational Services,14847640,4045,2008,Female,Arkansas,3670.62
+396,396,1200,1200,1200,All Education Categories,Health Care and Social Assistance,464726269,30734,2008,Male,Arkansas,15120.92
+397,397,1201,1201,1201,Less Than High School,Health Care and Social Assistance,17780543,2533,2008,Male,Arkansas,7019.56
+398,398,1202,1202,1202,High School Graduate,Health Care and Social Assistance,59994596,6496,2008,Male,Arkansas,9235.62
+399,399,1203,1203,1203,Some College,Health Care and Social Assistance,111044773,8710,2008,Male,Arkansas,12749.11
+400,400,1204,1204,1204,Advanced Degree,Health Care and Social Assistance,263086635,10086,2008,Male,Arkansas,26084.34
+401,401,1205,1205,1205,Unavalble,Health Care and Social Assistance,12819722,2908,2008,Male,Arkansas,4408.43
+402,402,1206,1206,1206,All Education Categories,Health Care and Social Assistance,979148204,134347,2008,Female,Arkansas,7288.2
+403,403,1207,1207,1207,Less Than High School,Health Care and Social Assistance,50426135,10453,2008,Female,Arkansas,4824.08
+404,404,1208,1208,1208,High School Graduate,Health Care and Social Assistance,185722429,31645,2008,Female,Arkansas,5868.93
+405,405,1209,1209,1209,Some College,Health Care and Social Assistance,361614478,48702,2008,Female,Arkansas,7425.04
+406,406,1210,1210,1210,Advanced Degree,Health Care and Social Assistance,323303516,29803,2008,Female,Arkansas,10848.02
+407,407,1211,1211,1211,Unavalble,Health Care and Social Assistance,58081646,13744,2008,Female,Arkansas,4225.96
+408,408,1224,1224,1224,All Education Categories,Accommodation and Food Services,133109592,35793,2008,Male,Arkansas,3718.87
+409,409,1225,1225,1225,Less Than High School,Accommodation and Food Services,19909724,4855,2008,Male,Arkansas,4100.87
+410,410,1226,1226,1226,High School Graduate,Accommodation and Food Services,33236577,7327,2008,Male,Arkansas,4536.18
+411,411,1227,1227,1227,Some College,Accommodation and Food Services,27204274,5491,2008,Male,Arkansas,4954.34
+412,412,1228,1228,1228,Advanced Degree,Accommodation and Food Services,13313044,2287,2008,Male,Arkansas,5821.18
+413,413,1229,1229,1229,Unavalble,Accommodation and Food Services,39445974,15832,2008,Male,Arkansas,2491.53
+414,414,1230,1230,1230,All Education Categories,Accommodation and Food Services,146503187,49273,2008,Female,Arkansas,2973.3
+415,415,1231,1231,1231,Less Than High School,Accommodation and Food Services,19171610,6117,2008,Female,Arkansas,3134.15
+416,416,1232,1232,1232,High School Graduate,Accommodation and Food Services,35461516,10491,2008,Female,Arkansas,3380.18
+417,417,1233,1233,1233,Some College,Accommodation and Food Services,31258904,8622,2008,Female,Arkansas,3625.48
+418,418,1234,1234,1234,Advanced Degree,Accommodation and Food Services,14059417,3360,2008,Female,Arkansas,4184.35
+419,419,1235,1235,1235,Unavalble,Accommodation and Food Services,46551740,20682,2008,Female,Arkansas,2250.83
+420,420,1260,1260,1260,All Education Categories,00,6191576612,549673,2009,Male,Arkansas,11264.11
+421,421,1261,1261,1261,Less Than High School,00,528292909,70166,2009,Male,Arkansas,7529.19
+422,422,1262,1262,1262,High School Graduate,00,1496279042,160237,2009,Male,Arkansas,9337.91
+423,423,1263,1263,1263,Some College,00,1683523833,145451,2009,Male,Arkansas,11574.51
+424,424,1264,1264,1264,Advanced Degree,00,2167953837,101952,2009,Male,Arkansas,21264.46
+425,425,1265,1265,1265,Unavalble,00,315526993,71867,2009,Male,Arkansas,4390.43
+426,426,1266,1266,1266,All Education Categories,00,3894625128,564434,2009,Female,Arkansas,6900.05
+427,427,1267,1267,1267,Less Than High School,00,247582967,51885,2009,Female,Arkansas,4771.76
+428,428,1268,1268,1268,High School Graduate,00,859462072,147032,2009,Female,Arkansas,5845.41
+429,429,1269,1269,1269,Some College,00,1222162935,169561,2009,Female,Arkansas,7207.81
+430,430,1270,1270,1270,Advanced Degree,00,1306929515,117882,2009,Female,Arkansas,11086.76
+431,431,1271,1271,1271,Unavalble,00,258487639,78073,2009,Female,Arkansas,3310.85
+432,432,1320,1320,1320,All Education Categories,Manufacturing,1156694583,118593,2009,Male,Arkansas,9753.48
+433,433,1321,1321,1321,Less Than High School,Manufacturing,142916688,19193,2009,Male,Arkansas,7446.29
+434,434,1322,1322,1322,High School Graduate,Manufacturing,382662349,41582,2009,Male,Arkansas,9202.6
+435,435,1323,1323,1323,Some College,Manufacturing,352719900,33447,2009,Male,Arkansas,10545.64
+436,436,1324,1324,1324,Advanced Degree,Manufacturing,223611747,14680,2009,Male,Arkansas,15232.41
+437,437,1325,1325,1325,Unavalble,Manufacturing,54783899,9690,2009,Male,Arkansas,5653.65
+438,438,1326,1326,1326,All Education Categories,Manufacturing,364652768,55721,2009,Female,Arkansas,6544.26
+439,439,1327,1327,1327,Less Than High School,Manufacturing,52077807,9707,2009,Female,Arkansas,5364.97
+440,440,1328,1328,1328,High School Graduate,Manufacturing,122252874,19660,2009,Female,Arkansas,6218.36
+441,441,1329,1329,1329,Some College,Manufacturing,113431235,16111,2009,Female,Arkansas,7040.61
+442,442,1330,1330,1330,Advanced Degree,Manufacturing,58639085,6242,2009,Female,Arkansas,9394.28
+443,443,1331,1331,1331,Unavalble,Manufacturing,18251767,4000,2009,Female,Arkansas,4562.94
+444,444,1344,1344,1344,All Education Categories,Retail Trade,512441051,58288,2009,Male,Arkansas,8791.54
+445,445,1345,1345,1345,Less Than High School,Retail Trade,43794619,6805,2009,Male,Arkansas,6435.65
+446,446,1346,1346,1346,High School Graduate,Retail Trade,137851594,16785,2009,Male,Arkansas,8212.78
+447,447,1347,1347,1347,Some College,Retail Trade,151198522,13746,2009,Male,Arkansas,10999.46
+448,448,1348,1348,1348,Advanced Degree,Retail Trade,133253483,6901,2009,Male,Arkansas,19309.3
+449,449,1349,1349,1349,Unavalble,Retail Trade,46342833,14052,2009,Male,Arkansas,3297.95
+450,450,1350,1350,1350,All Education Categories,Retail Trade,325608628,66862,2009,Female,Arkansas,4869.86
+451,451,1351,1351,1351,Less Than High School,Retail Trade,29155561,7089,2009,Female,Arkansas,4112.79
+452,452,1352,1352,1352,High School Graduate,Retail Trade,96693725,20055,2009,Female,Arkansas,4821.43
+453,453,1353,1353,1353,Some College,Retail Trade,89922660,15972,2009,Female,Arkansas,5630.02
+454,454,1354,1354,1354,Advanced Degree,Retail Trade,66157364,6757,2009,Female,Arkansas,9790.94
+455,455,1355,1355,1355,Unavalble,Retail Trade,43679318,16990,2009,Female,Arkansas,2570.88
+456,456,1380,1380,1380,All Education Categories,Finance and Insurance,246240829,10513,2009,Male,Arkansas,23422.51
+457,457,1381,1381,1381,Less Than High School,Finance and Insurance,4608671,453,2009,Male,Arkansas,10173.67
+458,458,1382,1382,1382,High School Graduate,Finance and Insurance,23047227,1610,2009,Male,Arkansas,14315.05
+459,459,1383,1383,1383,Some College,Finance and Insurance,48803775,2523,2009,Male,Arkansas,19343.55
+460,460,1384,1384,1384,Advanced Degree,Finance and Insurance,164743336,5032,2009,Male,Arkansas,32739.14
+461,461,1385,1385,1385,Unavalble,Finance and Insurance,5037820,895,2009,Male,Arkansas,5628.85
+462,462,1386,1386,1386,All Education Categories,Finance and Insurance,213916079,24185,2009,Female,Arkansas,8844.99
+463,463,1387,1387,1387,Less Than High School,Finance and Insurance,5863154,908,2009,Female,Arkansas,6457.22
+464,464,1388,1388,1388,High School Graduate,Finance and Insurance,40963372,5542,2009,Female,Arkansas,7391.44
+465,465,1389,1389,1389,Some College,Finance and Insurance,62778379,7427,2009,Female,Arkansas,8452.72
+466,466,1390,1390,1390,Advanced Degree,Finance and Insurance,90848409,7446,2009,Female,Arkansas,12200.97
+467,467,1391,1391,1391,Unavalble,Finance and Insurance,13462765,2863,2009,Female,Arkansas,4702.33
+468,468,1440,1440,1440,All Education Categories,Educational Services,283279959,29216,2009,Male,Arkansas,9696.06
+469,469,1441,1441,1441,Less Than High School,Educational Services,13329524,2119,2009,Male,Arkansas,6290.48
+470,470,1442,1442,1442,High School Graduate,Educational Services,48536193,6266,2009,Male,Arkansas,7745.96
+471,471,1443,1443,1443,Some College,Educational Services,71708791,7822,2009,Male,Arkansas,9167.58
+472,472,1444,1444,1444,Advanced Degree,Educational Services,144208268,11268,2009,Male,Arkansas,12798.04
+473,473,1445,1445,1445,Unavalble,Educational Services,5497183,1740,2009,Male,Arkansas,3159.3
+474,474,1446,1446,1446,All Education Categories,Educational Services,582287773,80768,2009,Female,Arkansas,7209.39
+475,475,1447,1447,1447,Less Than High School,Educational Services,17635287,4165,2009,Female,Arkansas,4234.16
+476,476,1448,1448,1448,High School Graduate,Educational Services,100047616,18209,2009,Female,Arkansas,5494.4
+477,477,1449,1449,1449,Some College,Educational Services,162115804,23771,2009,Female,Arkansas,6819.9
+478,478,1450,1450,1450,Advanced Degree,Educational Services,289036822,30750,2009,Female,Arkansas,9399.57
+479,479,1451,1451,1451,Unavalble,Educational Services,13452244,3872,2009,Female,Arkansas,3474.24
+480,480,1452,1452,1452,All Education Categories,Health Care and Social Assistance,487730601,32585,2009,Male,Arkansas,14967.95
+481,481,1453,1453,1453,Less Than High School,Health Care and Social Assistance,19690665,2804,2009,Male,Arkansas,7022.35
+482,482,1454,1454,1454,High School Graduate,Health Care and Social Assistance,64351558,7032,2009,Male,Arkansas,9151.25
+483,483,1455,1455,1455,Some College,Health Care and Social Assistance,116678962,9217,2009,Male,Arkansas,12659.1
+484,484,1456,1456,1456,Advanced Degree,Health Care and Social Assistance,273798253,10489,2009,Male,Arkansas,26103.37
+485,485,1457,1457,1457,Unavalble,Health Care and Social Assistance,13211163,3043,2009,Male,Arkansas,4341.49
+486,486,1458,1458,1458,All Education Categories,Health Care and Social Assistance,1016537361,139224,2009,Female,Arkansas,7301.45
+487,487,1459,1459,1459,Less Than High School,Health Care and Social Assistance,54829057,11158,2009,Female,Arkansas,4913.88
+488,488,1460,1460,1460,High School Graduate,Health Care and Social Assistance,195478965,33102,2009,Female,Arkansas,5905.35
+489,489,1461,1461,1461,Some College,Health Care and Social Assistance,375544195,50343,2009,Female,Arkansas,7459.71
+490,490,1462,1462,1462,Advanced Degree,Health Care and Social Assistance,333038194,30790,2009,Female,Arkansas,10816.44
+491,491,1463,1463,1463,Unavalble,Health Care and Social Assistance,57646950,13831,2009,Female,Arkansas,4167.95
+492,492,1476,1476,1476,All Education Categories,Accommodation and Food Services,131530285,35602,2009,Male,Arkansas,3694.46
+493,493,1477,1477,1477,Less Than High School,Accommodation and Food Services,19869018,4916,2009,Male,Arkansas,4041.7
+494,494,1478,1478,1478,High School Graduate,Accommodation and Food Services,33233346,7427,2009,Male,Arkansas,4474.67
+495,495,1479,1479,1479,Some College,Accommodation and Food Services,27381128,5662,2009,Male,Arkansas,4835.95
+496,496,1480,1480,1480,Advanced Degree,Accommodation and Food Services,13495374,2405,2009,Male,Arkansas,5611.38
+497,497,1481,1481,1481,Unavalble,Accommodation and Food Services,37551420,15192,2009,Male,Arkansas,2471.79
+498,498,1482,1482,1482,All Education Categories,Accommodation and Food Services,143754150,48302,2009,Female,Arkansas,2976.15
+499,499,1483,1483,1483,Less Than High School,Accommodation and Food Services,19009030,6049,2009,Female,Arkansas,3142.51
+500,500,1484,1484,1484,High School Graduate,Accommodation and Food Services,34521244,10226,2009,Female,Arkansas,3375.83
+501,501,1485,1485,1485,Some College,Accommodation and Food Services,31049468,8559,2009,Female,Arkansas,3627.7
+502,502,1486,1486,1486,Advanced Degree,Accommodation and Food Services,14168678,3399,2009,Female,Arkansas,4168.48
+503,503,1487,1487,1487,Unavalble,Accommodation and Food Services,45005728,20069,2009,Female,Arkansas,2242.55
+504,504,1512,1512,1512,All Education Categories,00,5735580478,533364,2010,Male,Arkansas,10753.6
+505,505,1513,1513,1513,Less Than High School,00,507913374,68467,2010,Male,Arkansas,7418.37
+506,506,1514,1514,1514,High School Graduate,00,1438944248,156024,2010,Male,Arkansas,9222.58
+507,507,1515,1515,1515,Some College,00,1598068200,142453,2010,Male,Arkansas,11218.21
+508,508,1516,1516,1516,Advanced Degree,00,1908639278,100255,2010,Male,Arkansas,19037.85
+509,509,1517,1517,1517,Unavalble,00,282015377,66166,2010,Male,Arkansas,4262.24
+510,510,1518,1518,1518,All Education Categories,00,3782283855,554279,2010,Female,Arkansas,6823.79
+511,511,1519,1519,1519,Less Than High School,00,251739342,51725,2010,Female,Arkansas,4866.88
+512,512,1520,1520,1520,High School Graduate,00,845313288,144253,2010,Female,Arkansas,5859.94
+513,513,1521,1521,1521,Some College,00,1196435944,167616,2010,Female,Arkansas,7137.96
+514,514,1522,1522,1522,Advanced Degree,00,1249210710,117485,2010,Female,Arkansas,10632.94
+515,515,1523,1523,1523,Unavalble,00,239584571,73199,2010,Female,Arkansas,3273.06
+516,516,1572,1572,1572,All Education Categories,Manufacturing,1129863945,108882,2010,Male,Arkansas,10376.96
+517,517,1573,1573,1573,Less Than High School,Manufacturing,140819475,17912,2010,Male,Arkansas,7861.74
+518,518,1574,1574,1574,High School Graduate,Manufacturing,372811024,38426,2010,Male,Arkansas,9702.05
+519,519,1575,1575,1575,Some College,Manufacturing,345028025,31018,2010,Male,Arkansas,11123.48
+520,520,1576,1576,1576,Advanced Degree,Manufacturing,223931653,13830,2010,Male,Arkansas,16191.73
+521,521,1577,1577,1577,Unavalble,Manufacturing,47273768,7695,2010,Male,Arkansas,6143.44
+522,522,1578,1578,1578,All Education Categories,Manufacturing,347597069,49944,2010,Female,Arkansas,6959.74
+523,523,1579,1579,1579,Less Than High School,Manufacturing,51504738,9033,2010,Female,Arkansas,5701.84
+524,524,1580,1580,1580,High School Graduate,Manufacturing,115892354,17466,2010,Female,Arkansas,6635.31
+525,525,1581,1581,1581,Some College,Manufacturing,107938569,14505,2010,Female,Arkansas,7441.47
+526,526,1582,1582,1582,Advanced Degree,Manufacturing,57347067,5856,2010,Female,Arkansas,9792.87
+527,527,1583,1583,1583,Unavalble,Manufacturing,14914341,3085,2010,Female,Arkansas,4834.47
+528,528,1596,1596,1596,All Education Categories,Retail Trade,466130835,56981,2010,Male,Arkansas,8180.46
+529,529,1597,1597,1597,Less Than High School,Retail Trade,43714272,6773,2010,Male,Arkansas,6454.2
+530,530,1598,1598,1598,High School Graduate,Retail Trade,131304537,16431,2010,Male,Arkansas,7991.27
+531,531,1599,1599,1599,Some College,Retail Trade,132592312,13552,2010,Male,Arkansas,9783.97
+532,532,1600,1600,1600,Advanced Degree,Retail Trade,115200611,6788,2010,Male,Arkansas,16971.22
+533,533,1601,1601,1601,Unavalble,Retail Trade,43319103,13438,2010,Male,Arkansas,3223.63
+534,534,1602,1602,1602,All Education Categories,Retail Trade,308832671,63835,2010,Female,Arkansas,4837.98
+535,535,1603,1603,1603,Less Than High School,Retail Trade,28887328,6902,2010,Female,Arkansas,4185.36
+536,536,1604,1604,1604,High School Graduate,Retail Trade,91990249,19121,2010,Female,Arkansas,4810.95
+537,537,1605,1605,1605,Some College,Retail Trade,86205508,15434,2010,Female,Arkansas,5585.43
+538,538,1606,1606,1606,Advanced Degree,Retail Trade,61618921,6620,2010,Female,Arkansas,9307.99
+539,539,1607,1607,1607,Unavalble,Retail Trade,40130663,15758,2010,Female,Arkansas,2546.69
+540,540,1632,1632,1632,All Education Categories,Finance and Insurance,249590193,10412,2010,Male,Arkansas,23971.4
+541,541,1633,1633,1633,Less Than High School,Finance and Insurance,5002642,482,2010,Male,Arkansas,10378.93
+542,542,1634,1634,1634,High School Graduate,Finance and Insurance,23537445,1673,2010,Male,Arkansas,14069.0
+543,543,1635,1635,1635,Some College,Finance and Insurance,48994231,2524,2010,Male,Arkansas,19411.34
+544,544,1636,1636,1636,Advanced Degree,Finance and Insurance,167499364,4901,2010,Male,Arkansas,34176.57
+545,545,1637,1637,1637,Unavalble,Finance and Insurance,4556511,832,2010,Male,Arkansas,5476.58
+546,546,1638,1638,1638,All Education Categories,Finance and Insurance,214087083,23958,2010,Female,Arkansas,8935.93
+547,547,1639,1639,1639,Less Than High School,Finance and Insurance,6371185,992,2010,Female,Arkansas,6422.57
+548,548,1640,1640,1640,High School Graduate,Finance and Insurance,41258937,5575,2010,Female,Arkansas,7400.71
+549,549,1641,1641,1641,Some College,Finance and Insurance,63841462,7524,2010,Female,Arkansas,8485.04
+550,550,1642,1642,1642,Advanced Degree,Finance and Insurance,91517532,7443,2010,Female,Arkansas,12295.79
+551,551,1643,1643,1643,Unavalble,Finance and Insurance,11097967,2423,2010,Female,Arkansas,4580.26
+552,552,1692,1692,1692,All Education Categories,Educational Services,293051298,30384,2010,Male,Arkansas,9644.92
+553,553,1693,1693,1693,Less Than High School,Educational Services,14596342,2289,2010,Male,Arkansas,6376.73
+554,554,1694,1694,1694,High School Graduate,Educational Services,51497318,6621,2010,Male,Arkansas,7777.88
+555,555,1695,1695,1695,Some College,Educational Services,74680623,8135,2010,Male,Arkansas,9180.16
+556,556,1696,1696,1696,Advanced Degree,Educational Services,146437905,11368,2010,Male,Arkansas,12881.59
+557,557,1697,1697,1697,Unavalble,Educational Services,5839109,1972,2010,Male,Arkansas,2961.01
+558,558,1698,1698,1698,All Education Categories,Educational Services,597152720,82080,2010,Female,Arkansas,7275.25
+559,559,1699,1699,1699,Less Than High School,Educational Services,19510222,4448,2010,Female,Arkansas,4386.29
+560,560,1700,1700,1700,High School Graduate,Educational Services,104604551,18649,2010,Female,Arkansas,5609.12
+561,561,1701,1701,1701,Some College,Educational Services,168185652,24337,2010,Female,Arkansas,6910.7
+562,562,1702,1702,1702,Advanced Degree,Educational Services,292201587,30794,2010,Female,Arkansas,9488.91
+563,563,1703,1703,1703,Unavalble,Educational Services,12650708,3852,2010,Female,Arkansas,3284.19
+564,564,1704,1704,1704,All Education Categories,Health Care and Social Assistance,482206348,34001,2010,Male,Arkansas,14182.12
+565,565,1705,1705,1705,Less Than High School,Health Care and Social Assistance,20794067,3060,2010,Male,Arkansas,6795.45
+566,566,1706,1706,1706,High School Graduate,Health Care and Social Assistance,66200408,7580,2010,Male,Arkansas,8733.56
+567,567,1707,1707,1707,Some College,Health Care and Social Assistance,115488418,9583,2010,Male,Arkansas,12051.38
+568,568,1708,1708,1708,Advanced Degree,Health Care and Social Assistance,266587292,10516,2010,Male,Arkansas,25350.64
+569,569,1709,1709,1709,Unavalble,Health Care and Social Assistance,13136163,3262,2010,Male,Arkansas,4027.03
+570,570,1710,1710,1710,All Education Categories,Health Care and Social Assistance,1002841126,142859,2010,Female,Arkansas,7019.8
+571,571,1711,1711,1711,Less Than High School,Health Care and Social Assistance,57748176,11839,2010,Female,Arkansas,4877.79
+572,572,1712,1712,1712,High School Graduate,Health Care and Social Assistance,198382298,34348,2010,Female,Arkansas,5775.66
+573,573,1713,1713,1713,Some College,Health Care and Social Assistance,367569836,51139,2010,Female,Arkansas,7187.66
+574,574,1714,1714,1714,Advanced Degree,Health Care and Social Assistance,322658785,31382,2010,Female,Arkansas,10281.65
+575,575,1715,1715,1715,Unavalble,Health Care and Social Assistance,56482031,14150,2010,Female,Arkansas,3991.66
+576,576,1728,1728,1728,All Education Categories,Accommodation and Food Services,130845219,35725,2010,Male,Arkansas,3662.57
+577,577,1729,1729,1729,Less Than High School,Accommodation and Food Services,19922247,4984,2010,Male,Arkansas,3997.24
+578,578,1730,1730,1730,High School Graduate,Accommodation and Food Services,33197361,7590,2010,Male,Arkansas,4373.83
+579,579,1731,1731,1731,Some College,Accommodation and Food Services,27669649,5920,2010,Male,Arkansas,4673.93
+580,580,1732,1732,1732,Advanced Degree,Accommodation and Food Services,13829911,2627,2010,Male,Arkansas,5264.53
+581,581,1733,1733,1733,Unavalble,Accommodation and Food Services,36226051,14604,2010,Male,Arkansas,2480.56
+582,582,1734,1734,1734,All Education Categories,Accommodation and Food Services,140642136,47069,2010,Female,Arkansas,2988.0
+583,583,1735,1735,1735,Less Than High School,Accommodation and Food Services,18367045,5843,2010,Female,Arkansas,3143.43
+584,584,1736,1736,1736,High School Graduate,Accommodation and Food Services,33459783,9929,2010,Female,Arkansas,3369.9
+585,585,1737,1737,1737,Some College,Accommodation and Food Services,30555027,8526,2010,Female,Arkansas,3583.75
+586,586,1738,1738,1738,Advanced Degree,Accommodation and Food Services,14328056,3570,2010,Female,Arkansas,4013.46
+587,587,1739,1739,1739,Unavalble,Accommodation and Food Services,43932224,19201,2010,Female,Arkansas,2288.02
+588,588,1764,1764,1764,All Education Categories,00,6190273242,542203,2011,Male,Arkansas,11416.89
+589,589,1765,1765,1765,Less Than High School,00,548638397,70392,2011,Male,Arkansas,7794.04
+590,590,1766,1766,1766,High School Graduate,00,1546341908,158924,2011,Male,Arkansas,9730.07
+591,591,1767,1767,1767,Some College,00,1727600070,145053,2011,Male,Arkansas,11910.13
+592,592,1768,1768,1768,Advanced Degree,00,2071165832,100709,2011,Male,Arkansas,20565.85
+593,593,1769,1769,1769,Unavalble,00,296527035,67124,2011,Male,Arkansas,4417.6
+594,594,1770,1770,1770,All Education Categories,00,3962243388,553108,2011,Female,Arkansas,7163.6
+595,595,1771,1771,1771,Less Than High School,00,271263000,52598,2011,Female,Arkansas,5157.29
+596,596,1772,1772,1772,High School Graduate,00,890595324,143873,2011,Female,Arkansas,6190.15
+597,597,1773,1773,1773,Some College,00,1252434672,167330,2011,Female,Arkansas,7484.82
+598,598,1774,1774,1774,Advanced Degree,00,1304953358,116375,2011,Female,Arkansas,11213.35
+599,599,1775,1775,1775,Unavalble,00,242997034,72933,2011,Female,Arkansas,3331.78
+600,600,1824,1824,1824,All Education Categories,Manufacturing,1239346459,110489,2011,Male,Arkansas,11216.92
+601,601,1825,1825,1825,Less Than High School,Manufacturing,153144608,18173,2011,Male,Arkansas,8427.04
+602,602,1826,1826,1826,High School Graduate,Manufacturing,405880483,38583,2011,Male,Arkansas,10519.67
+603,603,1827,1827,1827,Some College,Manufacturing,379447763,31339,2011,Male,Arkansas,12107.85
+604,604,1828,1828,1828,Advanced Degree,Manufacturing,245487564,13901,2011,Male,Arkansas,17659.71
+605,605,1829,1829,1829,Unavalble,Manufacturing,55386041,8492,2011,Male,Arkansas,6522.14
+606,606,1830,1830,1830,All Education Categories,Manufacturing,360445134,49062,2011,Female,Arkansas,7346.73
+607,607,1831,1831,1831,Less Than High School,Manufacturing,52952764,8894,2011,Female,Arkansas,5953.76
+608,608,1832,1832,1832,High School Graduate,Manufacturing,118870323,16984,2011,Female,Arkansas,6998.96
+609,609,1833,1833,1833,Some College,Manufacturing,111435444,14241,2011,Female,Arkansas,7824.97
+610,610,1834,1834,1834,Advanced Degree,Manufacturing,61557839,5851,2011,Female,Arkansas,10520.91
+611,611,1835,1835,1835,Unavalble,Manufacturing,15628764,3092,2011,Female,Arkansas,5054.58
+612,612,1848,1848,1848,All Education Categories,Retail Trade,497148297,58432,2011,Male,Arkansas,8508.15
+613,613,1849,1849,1849,Less Than High School,Retail Trade,47155265,7008,2011,Male,Arkansas,6728.78
+614,614,1850,1850,1850,High School Graduate,Retail Trade,139264352,16709,2011,Male,Arkansas,8334.69
+615,615,1851,1851,1851,Some College,Retail Trade,140278315,13840,2011,Male,Arkansas,10135.72
+616,616,1852,1852,1852,Advanced Degree,Retail Trade,124587519,7046,2011,Male,Arkansas,17682.02
+617,617,1853,1853,1853,Unavalble,Retail Trade,45862846,13829,2011,Male,Arkansas,3316.43
+618,618,1854,1854,1854,All Education Categories,Retail Trade,325279130,64997,2011,Female,Arkansas,5004.53
+619,619,1855,1855,1855,Less Than High School,Retail Trade,30769927,6971,2011,Female,Arkansas,4413.99
+620,620,1856,1856,1856,High School Graduate,Retail Trade,95931763,18942,2011,Female,Arkansas,5064.5
+621,621,1857,1857,1857,Some College,Retail Trade,90507594,15694,2011,Female,Arkansas,5767.02
+622,622,1858,1858,1858,Advanced Degree,Retail Trade,65801643,6859,2011,Female,Arkansas,9593.47
+623,623,1859,1859,1859,Unavalble,Retail Trade,42268203,16532,2011,Female,Arkansas,2556.75
+624,624,1884,1884,1884,All Education Categories,Finance and Insurance,285090188,10483,2011,Male,Arkansas,27195.48
+625,625,1885,1885,1885,Less Than High School,Finance and Insurance,5924864,525,2011,Male,Arkansas,11285.46
+626,626,1886,1886,1886,High School Graduate,Finance and Insurance,26727450,1740,2011,Male,Arkansas,15360.6
+627,627,1887,1887,1887,Some College,Finance and Insurance,55338374,2558,2011,Male,Arkansas,21633.45
+628,628,1888,1888,1888,Advanced Degree,Finance and Insurance,192645548,4862,2011,Male,Arkansas,39622.7
+629,629,1889,1889,1889,Unavalble,Finance and Insurance,4453952,798,2011,Male,Arkansas,5581.39
+630,630,1890,1890,1890,All Education Categories,Finance and Insurance,226146983,23859,2011,Female,Arkansas,9478.48
+631,631,1891,1891,1891,Less Than High School,Finance and Insurance,7249051,1072,2011,Female,Arkansas,6762.17
+632,632,1892,1892,1892,High School Graduate,Finance and Insurance,43550819,5595,2011,Female,Arkansas,7783.88
+633,633,1893,1893,1893,Some College,Finance and Insurance,67377942,7543,2011,Female,Arkansas,8932.51
+634,634,1894,1894,1894,Advanced Degree,Finance and Insurance,97245408,7356,2011,Female,Arkansas,13219.88
+635,635,1895,1895,1895,Unavalble,Finance and Insurance,10723763,2292,2011,Female,Arkansas,4678.78
+636,636,1944,1944,1944,All Education Categories,Educational Services,300960339,30322,2011,Male,Arkansas,9925.48
+637,637,1945,1945,1945,Less Than High School,Educational Services,16280611,2400,2011,Male,Arkansas,6783.59
+638,638,1946,1946,1946,High School Graduate,Educational Services,54935141,6820,2011,Male,Arkansas,8055.01
+639,639,1947,1947,1947,Some College,Educational Services,77813760,8179,2011,Male,Arkansas,9513.85
+640,640,1948,1948,1948,Advanced Degree,Educational Services,145920056,10976,2011,Male,Arkansas,13294.47
+641,641,1949,1949,1949,Unavalble,Educational Services,6010771,1947,2011,Male,Arkansas,3087.2
+642,642,1950,1950,1950,All Education Categories,Educational Services,627010632,81540,2011,Female,Arkansas,7689.61
+643,643,1951,1951,1951,Less Than High School,Educational Services,22455568,4676,2011,Female,Arkansas,4802.3
+644,644,1952,1952,1952,High School Graduate,Educational Services,112747144,18719,2011,Female,Arkansas,6023.14
+645,645,1953,1953,1953,Some College,Educational Services,179267617,24377,2011,Female,Arkansas,7353.97
+646,646,1954,1954,1954,Advanced Degree,Educational Services,299307759,29899,2011,Female,Arkansas,10010.63
+647,647,1955,1955,1955,Unavalble,Educational Services,13232544,3869,2011,Female,Arkansas,3420.15
+648,648,1956,1956,1956,All Education Categories,Health Care and Social Assistance,509214144,34141,2011,Male,Arkansas,14915.03
+649,649,1957,1957,1957,Less Than High School,Health Care and Social Assistance,23236479,3226,2011,Male,Arkansas,7202.88
+650,650,1958,1958,1958,High School Graduate,Health Care and Social Assistance,72152933,7816,2011,Male,Arkansas,9231.44
+651,651,1959,1959,1959,Some College,Health Care and Social Assistance,122540863,9602,2011,Male,Arkansas,12762.01
+652,652,1960,1960,1960,Advanced Degree,Health Care and Social Assistance,277990289,10312,2011,Male,Arkansas,26957.94
+653,653,1961,1961,1961,Unavalble,Health Care and Social Assistance,13293580,3186,2011,Male,Arkansas,4172.5
+654,654,1962,1962,1962,All Education Categories,Health Care and Social Assistance,1028330115,141644,2011,Female,Arkansas,7259.96
+655,655,1963,1963,1963,Less Than High School,Health Care and Social Assistance,62182513,12153,2011,Female,Arkansas,5116.64
+656,656,1964,1964,1964,High School Graduate,Health Care and Social Assistance,206700018,34513,2011,Female,Arkansas,5989.05
+657,657,1965,1965,1965,Some College,Health Care and Social Assistance,375327385,50424,2011,Female,Arkansas,7443.43
+658,658,1966,1966,1966,Advanced Degree,Health Care and Social Assistance,327755779,30779,2011,Female,Arkansas,10648.68
+659,659,1967,1967,1967,Unavalble,Health Care and Social Assistance,56364420,13775,2011,Female,Arkansas,4091.79
+660,660,1980,1980,1980,All Education Categories,Accommodation and Food Services,137240233,36475,2011,Male,Arkansas,3762.58
+661,661,1981,1981,1981,Less Than High School,Accommodation and Food Services,20881827,5190,2011,Male,Arkansas,4023.47
+662,662,1982,1982,1982,High School Graduate,Accommodation and Food Services,34997186,7902,2011,Male,Arkansas,4428.9
+663,663,1983,1983,1983,Some College,Accommodation and Food Services,30111141,6223,2011,Male,Arkansas,4838.69
+664,664,1984,1984,1984,Advanced Degree,Accommodation and Food Services,15250919,2823,2011,Male,Arkansas,5402.38
+665,665,1985,1985,1985,Unavalble,Accommodation and Food Services,35999160,14337,2011,Male,Arkansas,2510.93
+666,666,1986,1986,1986,All Education Categories,Accommodation and Food Services,147130542,47334,2011,Female,Arkansas,3108.35
+667,667,1987,1987,1987,Less Than High School,Accommodation and Food Services,19023525,5865,2011,Female,Arkansas,3243.57
+668,668,1988,1988,1988,High School Graduate,Accommodation and Food Services,34805101,9925,2011,Female,Arkansas,3506.81
+669,669,1989,1989,1989,Some College,Accommodation and Food Services,32179720,8690,2011,Female,Arkansas,3703.07
+670,670,1990,1990,1990,Advanced Degree,Accommodation and Food Services,16701442,3790,2011,Female,Arkansas,4406.71
+671,671,1991,1991,1991,Unavalble,Accommodation and Food Services,44420754,19064,2011,Female,Arkansas,2330.09
+672,672,2016,2016,2016,All Education Categories,00,6588566829,551831,2012,Male,Arkansas,11939.46
+673,673,2017,2017,2017,Less Than High School,00,611503242,72753,2012,Male,Arkansas,8405.2
+674,674,2018,2018,2018,High School Graduate,00,1674415196,162069,2012,Male,Arkansas,10331.5
+675,675,2019,2019,2019,Some College,00,1845105006,147605,2012,Male,Arkansas,12500.29
+676,676,2020,2020,2020,Advanced Degree,00,2131936145,101583,2012,Male,Arkansas,20987.14
+677,677,2021,2021,2021,Unavalble,00,325607241,67822,2012,Male,Arkansas,4800.91
+678,678,2022,2022,2022,All Education Categories,00,4215650867,557469,2012,Female,Arkansas,7562.13
+679,679,2023,2023,2023,Less Than High School,00,301470101,54202,2012,Female,Arkansas,5561.97
+680,680,2024,2024,2024,High School Graduate,00,956013828,145163,2012,Female,Arkansas,6585.8
+681,681,2025,2025,2025,Some College,00,1337390636,168882,2012,Female,Arkansas,7919.08
+682,682,2026,2026,2026,Advanced Degree,00,1360558712,116524,2012,Female,Arkansas,11676.21
+683,683,2027,2027,2027,Unavalble,00,260217590,72698,2012,Female,Arkansas,3579.43
+684,684,2076,2076,2076,All Education Categories,Manufacturing,1290105528,110273,2012,Male,Arkansas,11699.2
+685,685,2077,2077,2077,Less Than High School,Manufacturing,165606368,18327,2012,Male,Arkansas,9036.2
+686,686,2078,2078,2078,High School Graduate,Manufacturing,426179833,38424,2012,Male,Arkansas,11091.5
+687,687,2079,2079,2079,Some College,Manufacturing,393974351,31263,2012,Male,Arkansas,12601.94
+688,688,2080,2080,2080,Advanced Degree,Manufacturing,243929861,13887,2012,Male,Arkansas,17565.34
+689,689,2081,2081,2081,Unavalble,Manufacturing,60415114,8371,2012,Male,Arkansas,7217.19
+690,690,2082,2082,2082,All Education Categories,Manufacturing,370545208,47014,2012,Female,Arkansas,7881.59
+691,691,2083,2083,2083,Less Than High School,Manufacturing,54712297,8576,2012,Female,Arkansas,6379.7
+692,692,2084,2084,2084,High School Graduate,Manufacturing,121457200,16080,2012,Female,Arkansas,7553.31
+693,693,2085,2085,2085,Some College,Manufacturing,115371907,13675,2012,Female,Arkansas,8436.7
+694,694,2086,2086,2086,Advanced Degree,Manufacturing,62981836,5754,2012,Female,Arkansas,10945.75
+695,695,2087,2087,2087,Unavalble,Manufacturing,16021968,2929,2012,Female,Arkansas,5470.12
+696,696,2100,2100,2100,All Education Categories,Retail Trade,532776077,59056,2012,Male,Arkansas,9021.54
+697,697,2101,2101,2101,Less Than High School,Retail Trade,51685991,7214,2012,Male,Arkansas,7164.68
+698,698,2102,2102,2102,High School Graduate,Retail Trade,149527056,16879,2012,Male,Arkansas,8858.76
+699,699,2103,2103,2103,Some College,Retail Trade,154090168,14007,2012,Male,Arkansas,11000.94
+700,700,2104,2104,2104,Advanced Degree,Retail Trade,128919005,7162,2012,Male,Arkansas,18000.42
+701,701,2105,2105,2105,Unavalble,Retail Trade,48553858,13794,2012,Male,Arkansas,3519.93
+702,702,2106,2106,2106,All Education Categories,Retail Trade,351029427,65592,2012,Female,Arkansas,5351.71
+703,703,2107,2107,2107,Less Than High School,Retail Trade,33840435,7135,2012,Female,Arkansas,4742.88
+704,704,2108,2108,2108,High School Graduate,Retail Trade,102463601,18881,2012,Female,Arkansas,5426.81
+705,705,2109,2109,2109,Some College,Retail Trade,98079760,15922,2012,Female,Arkansas,6160.02
+706,706,2110,2110,2110,Advanced Degree,Retail Trade,71445352,7095,2012,Female,Arkansas,10069.82
+707,707,2111,2111,2111,Unavalble,Retail Trade,45200279,16559,2012,Female,Arkansas,2729.65
+708,708,2136,2136,2136,All Education Categories,Finance and Insurance,293061774,10770,2012,Male,Arkansas,27210.94
+709,709,2137,2137,2137,Less Than High School,Finance and Insurance,7074727,601,2012,Male,Arkansas,11771.59
+710,710,2138,2138,2138,High School Graduate,Finance and Insurance,29513008,1856,2012,Male,Arkansas,15901.41
+711,711,2139,2139,2139,Some College,Finance and Insurance,57819694,2668,2012,Male,Arkansas,21671.55
+712,712,2140,2140,2140,Advanced Degree,Finance and Insurance,193960551,4806,2012,Male,Arkansas,40358.0
+713,713,2141,2141,2141,Unavalble,Finance and Insurance,4693794,839,2012,Male,Arkansas,5594.51
+714,714,2142,2142,2142,All Education Categories,Finance and Insurance,237478791,23909,2012,Female,Arkansas,9932.61
+715,715,2143,2143,2143,Less Than High School,Finance and Insurance,8504590,1188,2012,Female,Arkansas,7158.75
+716,716,2144,2144,2144,High School Graduate,Finance and Insurance,46807838,5700,2012,Female,Arkansas,8211.9
+717,717,2145,2145,2145,Some College,Finance and Insurance,71584323,7610,2012,Female,Arkansas,9406.61
+718,718,2146,2146,2146,Advanced Degree,Finance and Insurance,100148606,7264,2012,Female,Arkansas,13786.98
+719,719,2147,2147,2147,Unavalble,Finance and Insurance,10433435,2148,2012,Female,Arkansas,4857.28
+720,720,2196,2196,2196,All Education Categories,Educational Services,305857787,30397,2012,Male,Arkansas,10062.1
+721,721,2197,2197,2197,Less Than High School,Educational Services,17584834,2527,2012,Male,Arkansas,6958.78
+722,722,2198,2198,2198,High School Graduate,Educational Services,57474481,7002,2012,Male,Arkansas,8208.29
+723,723,2199,2199,2199,Some College,Educational Services,79645047,8245,2012,Male,Arkansas,9659.8
+724,724,2200,2200,2200,Advanced Degree,Educational Services,145040554,10795,2012,Male,Arkansas,13435.9
+725,725,2201,2201,2201,Unavalble,Educational Services,6112870,1829,2012,Male,Arkansas,3342.19
+726,726,2202,2202,2202,All Education Categories,Educational Services,629360957,81000,2012,Female,Arkansas,7769.89
+727,727,2203,2203,2203,Less Than High School,Educational Services,24679768,4914,2012,Female,Arkansas,5022.34
+728,728,2204,2204,2204,High School Graduate,Educational Services,115005116,18783,2012,Female,Arkansas,6122.83
+729,729,2205,2205,2205,Some College,Educational Services,181796414,24413,2012,Female,Arkansas,7446.71
+730,730,2206,2206,2206,Advanced Degree,Educational Services,294205583,29146,2012,Female,Arkansas,10094.2
+731,731,2207,2207,2207,Unavalble,Educational Services,13674076,3743,2012,Female,Arkansas,3653.24
+732,732,2208,2208,2208,All Education Categories,Health Care and Social Assistance,552820949,35395,2012,Male,Arkansas,15618.62
+733,733,2209,2209,2209,Less Than High School,Health Care and Social Assistance,27557942,3513,2012,Male,Arkansas,7844.56
+734,734,2210,2210,2210,High School Graduate,Health Care and Social Assistance,81098115,8252,2012,Male,Arkansas,9827.69
+735,735,2211,2211,2211,Some College,Health Care and Social Assistance,134250447,9918,2012,Male,Arkansas,13536.04
+736,736,2212,2212,2212,Advanced Degree,Health Care and Social Assistance,295318244,10429,2012,Male,Arkansas,28317.02
+737,737,2213,2213,2213,Unavalble,Health Care and Social Assistance,14596202,3283,2012,Male,Arkansas,4446.0
+738,738,2214,2214,2214,All Education Categories,Health Care and Social Assistance,1124896207,145309,2012,Female,Arkansas,7741.41
+739,739,2215,2215,2215,Less Than High School,Health Care and Social Assistance,71741482,12887,2012,Female,Arkansas,5566.97
+740,740,2216,2216,2216,High School Graduate,Health Care and Social Assistance,229826820,35823,2012,Female,Arkansas,6415.62
+741,741,2217,2217,2217,Some College,Health Care and Social Assistance,407755523,51371,2012,Female,Arkansas,7937.47
+742,742,2218,2218,2218,Advanced Degree,Health Care and Social Assistance,353147505,31236,2012,Female,Arkansas,11305.79
+743,743,2219,2219,2219,Unavalble,Health Care and Social Assistance,62424877,13992,2012,Female,Arkansas,4461.47
+744,744,2232,2232,2232,All Education Categories,Accommodation and Food Services,149637057,38045,2012,Male,Arkansas,3933.16
+745,745,2233,2233,2233,Less Than High School,Accommodation and Food Services,23059829,5437,2012,Male,Arkansas,4241.28
+746,746,2234,2234,2234,High School Graduate,Accommodation and Food Services,38374450,8316,2012,Male,Arkansas,4614.53
+747,747,2235,2235,2235,Some College,Accommodation and Food Services,32166145,6579,2012,Male,Arkansas,4889.21
+748,748,2236,2236,2236,Advanced Degree,Accommodation and Food Services,16248997,3060,2012,Male,Arkansas,5310.13
+749,749,2237,2237,2237,Unavalble,Accommodation and Food Services,39787635,14653,2012,Male,Arkansas,2715.32
+750,750,2238,2238,2238,All Education Categories,Accommodation and Food Services,159760870,48361,2012,Female,Arkansas,3303.51
+751,751,2239,2239,2239,Less Than High School,Accommodation and Food Services,21050165,6055,2012,Female,Arkansas,3476.49
+752,752,2240,2240,2240,High School Graduate,Accommodation and Food Services,37437080,10081,2012,Female,Arkansas,3713.63
+753,753,2241,2241,2241,Some College,Accommodation and Food Services,34877585,8937,2012,Female,Arkansas,3902.61
+754,754,2242,2242,2242,Advanced Degree,Accommodation and Food Services,17135786,3999,2012,Female,Arkansas,4285.02
+755,755,2243,2243,2243,Unavalble,Accommodation and Food Services,49260254,19289,2012,Female,Arkansas,2553.8
+756,756,3204,3204,3204,All Education Categories,Educational Services,223979268,27435,2004,Male,Arkansas,8164.0
+757,757,3205,3205,3205,Less Than High School,Educational Services,9798729,1903,2004,Male,Arkansas,5149.1
+758,758,3206,3206,3206,High School Graduate,Educational Services,35998080,5496,2004,Male,Arkansas,6549.87
+759,759,3207,3207,3207,Some College,Educational Services,53136565,6815,2004,Male,Arkansas,7797.0
+760,760,3208,3208,3208,Advanced Degree,Educational Services,119899772,11127,2004,Male,Arkansas,10775.57
+761,761,3209,3209,3209,Unavalble,Educational Services,5146122,2094,2004,Male,Arkansas,2457.56
+762,762,3210,3210,3210,All Education Categories,Educational Services,456381914,75822,2004,Female,Arkansas,6019.12
+763,763,3211,3211,3211,Less Than High School,Educational Services,12265168,3700,2004,Female,Arkansas,3314.91
+764,764,3212,3212,3212,High School Graduate,Educational Services,76770079,17091,2004,Female,Arkansas,4491.84
+765,765,3213,3213,3213,Some College,Educational Services,118748131,21074,2004,Female,Arkansas,5634.82
+766,766,3214,3214,3214,Advanced Degree,Educational Services,236631073,29515,2004,Female,Arkansas,8017.32
+767,767,3215,3215,3215,Unavalble,Educational Services,11967463,4442,2004,Female,Arkansas,2694.16
+768,768,3300,3300,3300,All Education Categories,Accommodation,14409380,3420,2004,Male,Arkansas,4213.27
+769,769,3301,3301,3301,Less Than High School,Accommodation,2540121,639,2004,Male,Arkansas,3975.15
+770,770,3302,3302,3302,High School Graduate,Accommodation,4200607,973,2004,Male,Arkansas,4317.17
+771,771,3303,3303,3303,Some College,Accommodation,3577971,739,2004,Male,Arkansas,4841.64
+772,772,3304,3304,3304,Advanced Degree,Accommodation,2105903,363,2004,Male,Arkansas,5801.39
+773,773,3305,3305,3305,Unavalble,Accommodation,1984779,706,2004,Male,Arkansas,2811.3
+774,774,3306,3306,3306,All Education Categories,Accommodation,19535648,6397,2004,Female,Arkansas,3053.88
+775,775,3307,3307,3307,Less Than High School,Accommodation,3284668,1196,2004,Female,Arkansas,2746.38
+776,776,3308,3308,3308,High School Graduate,Accommodation,6059498,1943,2004,Female,Arkansas,3118.63
+777,777,3309,3309,3309,Some College,Accommodation,4945729,1484,2004,Female,Arkansas,3332.7
+778,778,3310,3310,3310,Advanced Degree,Accommodation,2286082,566,2004,Female,Arkansas,4039.01
+779,779,3311,3311,3311,Unavalble,Accommodation,2959673,1208,2004,Female,Arkansas,2450.06
+780,780,4392,4392,4392,All Education Categories,Educational Services,243232611,27987,2005,Male,Arkansas,8690.91
+781,781,4393,4393,4393,Less Than High School,Educational Services,10426349,1900,2005,Male,Arkansas,5487.55
+782,782,4394,4394,4394,High School Graduate,Educational Services,39204847,5609,2005,Male,Arkansas,6989.63
+783,783,4395,4395,4395,Some College,Educational Services,58567249,7065,2005,Male,Arkansas,8289.77
+784,784,4396,4396,4396,Advanced Degree,Educational Services,129358011,11343,2005,Male,Arkansas,11404.22
+785,785,4397,4397,4397,Unavalble,Educational Services,5676156,2070,2005,Male,Arkansas,2742.1
+786,786,4398,4398,4398,All Education Categories,Educational Services,509636682,77830,2005,Female,Arkansas,6548.08
+787,787,4399,4399,4399,Less Than High School,Educational Services,13497731,3767,2005,Female,Arkansas,3583.15
+788,788,4400,4400,4400,High School Graduate,Educational Services,84909855,17504,2005,Female,Arkansas,4850.88
+789,789,4401,4401,4401,Some College,Educational Services,134001803,21873,2005,Female,Arkansas,6126.36
+790,790,4402,4402,4402,Advanced Degree,Educational Services,263631952,30265,2005,Female,Arkansas,8710.79
+791,791,4403,4403,4403,Unavalble,Educational Services,13595341,4420,2005,Female,Arkansas,3075.87
+792,792,4488,4488,4488,All Education Categories,Accommodation,14487535,3415,2005,Male,Arkansas,4242.32
+793,793,4489,4489,4489,Less Than High School,Accommodation,2486875,643,2005,Male,Arkansas,3867.61
+794,794,4490,4490,4490,High School Graduate,Accommodation,4277872,974,2005,Male,Arkansas,4392.07
+795,795,4491,4491,4491,Some College,Accommodation,3646562,734,2005,Male,Arkansas,4968.07
+796,796,4492,4492,4492,Advanced Degree,Accommodation,2190895,356,2005,Male,Arkansas,6154.2
+797,797,4493,4493,4493,Unavalble,Accommodation,1885332,706,2005,Male,Arkansas,2670.44
+798,798,4494,4494,4494,All Education Categories,Accommodation,19581834,6291,2005,Female,Arkansas,3112.67
+799,799,4495,4495,4495,Less Than High School,Accommodation,3352609,1187,2005,Female,Arkansas,2824.44
+800,800,4496,4496,4496,High School Graduate,Accommodation,6018239,1898,2005,Female,Arkansas,3170.83
+801,801,4497,4497,4497,Some College,Accommodation,4969413,1480,2005,Female,Arkansas,3357.71
+802,802,4498,4498,4498,Advanced Degree,Accommodation,2244850,554,2005,Female,Arkansas,4052.08
+803,803,4499,4499,4499,Unavalble,Accommodation,2996722,1172,2005,Female,Arkansas,2556.93
+804,804,5580,5580,5580,All Education Categories,Educational Services,261561019,28718,2006,Male,Arkansas,9107.91
+805,805,5581,5581,5581,Less Than High School,Educational Services,11145450,1918,2006,Male,Arkansas,5810.97
+806,806,5582,5582,5582,High School Graduate,Educational Services,42436021,5810,2006,Male,Arkansas,7303.96
+807,807,5583,5583,5583,Some College,Educational Services,63878154,7343,2006,Male,Arkansas,8699.19
+808,808,5584,5584,5584,Advanced Degree,Educational Services,138108020,11579,2006,Male,Arkansas,11927.46
+809,809,5585,5585,5585,Unavalble,Educational Services,5993373,2068,2006,Male,Arkansas,2898.15
+810,810,5586,5586,5586,All Education Categories,Educational Services,557022790,80991,2006,Female,Arkansas,6877.59
+811,811,5587,5587,5587,Less Than High School,Educational Services,14836505,3902,2006,Female,Arkansas,3802.28
+812,812,5588,5588,5588,High School Graduate,Educational Services,92763201,18183,2006,Female,Arkansas,5101.64
+813,813,5589,5589,5589,Some College,Educational Services,148509164,23049,2006,Female,Arkansas,6443.19
+814,814,5590,5590,5590,Advanced Degree,Educational Services,285787950,31354,2006,Female,Arkansas,9114.88
+815,815,5591,5591,5591,Unavalble,Educational Services,15125969,4503,2006,Female,Arkansas,3359.09
+816,816,5676,5676,5676,All Education Categories,Accommodation,16228332,3419,2006,Male,Arkansas,4746.51
+817,817,5677,5677,5677,Less Than High School,Accommodation,2826873,648,2006,Male,Arkansas,4362.46
+818,818,5678,5678,5678,High School Graduate,Accommodation,4844599,985,2006,Male,Arkansas,4918.37
+819,819,5679,5679,5679,Some College,Accommodation,4220613,747,2006,Male,Arkansas,5650.08
+820,820,5680,5680,5680,Advanced Degree,Accommodation,2361628,359,2006,Male,Arkansas,6578.35
+821,821,5681,5681,5681,Unavalble,Accommodation,1974619,681,2006,Male,Arkansas,2899.59
+822,822,5682,5682,5682,All Education Categories,Accommodation,22174553,6625,2006,Female,Arkansas,3347.1
+823,823,5683,5683,5683,Less Than High School,Accommodation,3767309,1258,2006,Female,Arkansas,2994.68
+824,824,5684,5684,5684,High School Graduate,Accommodation,6758569,2009,2006,Female,Arkansas,3364.15
+825,825,5685,5685,5685,Some College,Accommodation,5732923,1563,2006,Female,Arkansas,3667.9
+826,826,5686,5686,5686,Advanced Degree,Accommodation,2581994,597,2006,Female,Arkansas,4324.95
+827,827,5687,5687,5687,Unavalble,Accommodation,3333757,1197,2006,Female,Arkansas,2785.09
+828,828,6768,6768,6768,All Education Categories,Educational Services,262921979,28289,2007,Male,Arkansas,9294.14
+829,829,6769,6769,6769,Less Than High School,Educational Services,11383801,1900,2007,Male,Arkansas,5991.47
+830,830,6770,6770,6770,High School Graduate,Educational Services,42986618,5734,2007,Male,Arkansas,7496.79
+831,831,6771,6771,6771,Some College,Educational Services,65196235,7333,2007,Male,Arkansas,8890.8
+832,832,6772,6772,6772,Advanced Degree,Educational Services,137487019,11219,2007,Male,Arkansas,12254.84
+833,833,6773,6773,6773,Unavalble,Educational Services,5868306,2103,2007,Male,Arkansas,2790.45
+834,834,6774,6774,6774,All Education Categories,Educational Services,549644265,79128,2007,Female,Arkansas,6946.27
+835,835,6775,6775,6775,Less Than High School,Educational Services,15074118,3867,2007,Female,Arkansas,3898.14
+836,836,6776,6776,6776,High School Graduate,Educational Services,92234104,17731,2007,Female,Arkansas,5201.86
+837,837,6777,6777,6777,Some College,Educational Services,148750137,22786,2007,Female,Arkansas,6528.14
+838,838,6778,6778,6778,Advanced Degree,Educational Services,278801485,30358,2007,Female,Arkansas,9183.79
+839,839,6779,6779,6779,Unavalble,Educational Services,14784420,4385,2007,Female,Arkansas,3371.59
+840,840,6864,6864,6864,All Education Categories,Accommodation,16925181,3445,2007,Male,Arkansas,4912.97
+841,841,6865,6865,6865,Less Than High School,Accommodation,2806726,655,2007,Male,Arkansas,4285.08
+842,842,6866,6866,6866,High School Graduate,Accommodation,5063251,1009,2007,Male,Arkansas,5018.09
+843,843,6867,6867,6867,Some College,Accommodation,4439562,753,2007,Male,Arkansas,5895.83
+844,844,6868,6868,6868,Advanced Degree,Accommodation,2610155,372,2007,Male,Arkansas,7016.55
+845,845,6869,6869,6869,Unavalble,Accommodation,2005488,655,2007,Male,Arkansas,3061.81
+846,846,6870,6870,6870,All Education Categories,Accommodation,22476756,6560,2007,Female,Arkansas,3426.33
+847,847,6871,6871,6871,Less Than High School,Accommodation,3896602,1267,2007,Female,Arkansas,3075.46
+848,848,6872,6872,6872,High School Graduate,Accommodation,6781340,1972,2007,Female,Arkansas,3438.81
+849,849,6873,6873,6873,Some College,Accommodation,5951958,1594,2007,Female,Arkansas,3733.98
+850,850,6874,6874,6874,Advanced Degree,Accommodation,2679916,603,2007,Female,Arkansas,4444.31
+851,851,6875,6875,6875,Unavalble,Accommodation,3166941,1123,2007,Female,Arkansas,2820.07
+852,852,7956,7956,7956,All Education Categories,Educational Services,282009508,29059,2008,Male,Arkansas,9704.72
+853,853,7957,7957,7957,Less Than High School,Educational Services,12773113,2047,2008,Male,Arkansas,6239.92
+854,854,7958,7958,7958,High School Graduate,Educational Services,47124930,6061,2008,Male,Arkansas,7775.11
+855,855,7959,7959,7959,Some College,Educational Services,70461347,7681,2008,Male,Arkansas,9173.46
+856,856,7960,7960,7960,Advanced Degree,Educational Services,145667927,11452,2008,Male,Arkansas,12719.87
+857,857,7961,7961,7961,Unavalble,Educational Services,5982190,1818,2008,Male,Arkansas,3290.53
+858,858,7962,7962,7962,All Education Categories,Educational Services,584175593,80425,2008,Female,Arkansas,7263.61
+859,859,7963,7963,7963,Less Than High School,Educational Services,16655231,4018,2008,Female,Arkansas,4145.15
+860,860,7964,7964,7964,High School Graduate,Educational Services,98782865,18137,2008,Female,Arkansas,5446.48
+861,861,7965,7965,7965,Some College,Educational Services,160035187,23422,2008,Female,Arkansas,6832.69
+862,862,7966,7966,7966,Advanced Degree,Educational Services,293854671,30803,2008,Female,Arkansas,9539.81
+863,863,7967,7967,7967,Unavalble,Educational Services,14847640,4045,2008,Female,Arkansas,3670.62
+864,864,8052,8052,8052,All Education Categories,Accommodation,18406844,3832,2008,Male,Arkansas,4803.46
+865,865,8053,8053,8053,Less Than High School,Accommodation,3162323,730,2008,Male,Arkansas,4331.95
+866,866,8054,8054,8054,High School Graduate,Accommodation,5516045,1111,2008,Male,Arkansas,4964.94
+867,867,8055,8055,8055,Some College,Accommodation,4751506,865,2008,Male,Arkansas,5493.07
+868,868,8056,8056,8056,Advanced Degree,Accommodation,2715767,410,2008,Male,Arkansas,6623.82
+869,869,8057,8057,8057,Unavalble,Accommodation,2261203,715,2008,Male,Arkansas,3162.52
+870,870,8058,8058,8058,All Education Categories,Accommodation,24732079,7035,2008,Female,Arkansas,3515.58
+871,871,8059,8059,8059,Less Than High School,Accommodation,4214903,1365,2008,Female,Arkansas,3087.84
+872,872,8060,8060,8060,High School Graduate,Accommodation,7338266,2100,2008,Female,Arkansas,3494.41
+873,873,8061,8061,8061,Some College,Accommodation,6623604,1708,2008,Female,Arkansas,3877.99
+874,874,8062,8062,8062,Advanced Degree,Accommodation,3198874,678,2008,Female,Arkansas,4718.1
+875,875,8063,8063,8063,Unavalble,Accommodation,3356433,1184,2008,Female,Arkansas,2834.83
+876,876,9132,9132,9132,All Education Categories,Educational Services,283279959,29216,2009,Male,Arkansas,9696.06
+877,877,9133,9133,9133,Less Than High School,Educational Services,13329524,2119,2009,Male,Arkansas,6290.48
+878,878,9134,9134,9134,High School Graduate,Educational Services,48536193,6266,2009,Male,Arkansas,7745.96
+879,879,9135,9135,9135,Some College,Educational Services,71708791,7822,2009,Male,Arkansas,9167.58
+880,880,9136,9136,9136,Advanced Degree,Educational Services,144208268,11268,2009,Male,Arkansas,12798.04
+881,881,9137,9137,9137,Unavalble,Educational Services,5497183,1740,2009,Male,Arkansas,3159.3
+882,882,9138,9138,9138,All Education Categories,Educational Services,582287773,80768,2009,Female,Arkansas,7209.39
+883,883,9139,9139,9139,Less Than High School,Educational Services,17635287,4165,2009,Female,Arkansas,4234.16
+884,884,9140,9140,9140,High School Graduate,Educational Services,100047616,18209,2009,Female,Arkansas,5494.4
+885,885,9141,9141,9141,Some College,Educational Services,162115804,23771,2009,Female,Arkansas,6819.9
+886,886,9142,9142,9142,Advanced Degree,Educational Services,289036822,30750,2009,Female,Arkansas,9399.57
+887,887,9143,9143,9143,Unavalble,Educational Services,13452244,3872,2009,Female,Arkansas,3474.24
+888,888,9228,9228,9228,All Education Categories,Accommodation,17135906,3701,2009,Male,Arkansas,4630.07
+889,889,9229,9229,9229,Less Than High School,Accommodation,2965359,691,2009,Male,Arkansas,4291.4
+890,890,9230,9230,9230,High School Graduate,Accommodation,5154143,1061,2009,Male,Arkansas,4857.82
+891,891,9231,9231,9231,Some College,Accommodation,4419380,838,2009,Male,Arkansas,5273.72
+892,892,9232,9232,9232,Advanced Degree,Accommodation,2530453,417,2009,Male,Arkansas,6068.23
+893,893,9233,9233,9233,Unavalble,Accommodation,2066571,694,2009,Male,Arkansas,2977.77
+894,894,9234,9234,9234,All Education Categories,Accommodation,23424424,6740,2009,Female,Arkansas,3475.43
+895,895,9235,9235,9235,Less Than High School,Accommodation,4052500,1306,2009,Female,Arkansas,3102.99
+896,896,9236,9236,9236,High School Graduate,Accommodation,6954049,2015,2009,Female,Arkansas,3451.14
+897,897,9237,9237,9237,Some College,Accommodation,6326345,1685,2009,Female,Arkansas,3754.51
+898,898,9238,9238,9238,Advanced Degree,Accommodation,3093342,687,2009,Female,Arkansas,4502.68
+899,899,9239,9239,9239,Unavalble,Accommodation,2998188,1048,2009,Female,Arkansas,2860.87
+900,900,10308,10308,10308,All Education Categories,Educational Services,293051298,30384,2010,Male,Arkansas,9644.92
+901,901,10309,10309,10309,Less Than High School,Educational Services,14596342,2289,2010,Male,Arkansas,6376.73
+902,902,10310,10310,10310,High School Graduate,Educational Services,51497318,6621,2010,Male,Arkansas,7777.88
+903,903,10311,10311,10311,Some College,Educational Services,74680623,8135,2010,Male,Arkansas,9180.16
+904,904,10312,10312,10312,Advanced Degree,Educational Services,146437905,11368,2010,Male,Arkansas,12881.59
+905,905,10313,10313,10313,Unavalble,Educational Services,5839109,1972,2010,Male,Arkansas,2961.01
+906,906,10314,10314,10314,All Education Categories,Educational Services,597152720,82080,2010,Female,Arkansas,7275.25
+907,907,10315,10315,10315,Less Than High School,Educational Services,19510222,4448,2010,Female,Arkansas,4386.29
+908,908,10316,10316,10316,High School Graduate,Educational Services,104604551,18649,2010,Female,Arkansas,5609.12
+909,909,10317,10317,10317,Some College,Educational Services,168185652,24337,2010,Female,Arkansas,6910.7
+910,910,10318,10318,10318,Advanced Degree,Educational Services,292201587,30794,2010,Female,Arkansas,9488.91
+911,911,10319,10319,10319,Unavalble,Educational Services,12650708,3852,2010,Female,Arkansas,3284.19
+912,912,10404,10404,10404,All Education Categories,Accommodation,16211614,3649,2010,Male,Arkansas,4442.76
+913,913,10405,10405,10405,Less Than High School,Accommodation,2794322,682,2010,Male,Arkansas,4097.25
+914,914,10406,10406,10406,High School Graduate,Accommodation,4931882,1062,2010,Male,Arkansas,4643.96
+915,915,10407,10407,10407,Some College,Accommodation,4220209,846,2010,Male,Arkansas,4988.43
+916,916,10408,10408,10408,Advanced Degree,Accommodation,2447247,445,2010,Male,Arkansas,5499.43
+917,917,10409,10409,10409,Unavalble,Accommodation,1817954,614,2010,Male,Arkansas,2960.84
+918,918,10410,10410,10410,All Education Categories,Accommodation,21648472,6478,2010,Female,Arkansas,3341.85
+919,919,10411,10411,10411,Less Than High School,Accommodation,3714476,1237,2010,Female,Arkansas,3002.81
+920,920,10412,10412,10412,High School Graduate,Accommodation,6393046,1910,2010,Female,Arkansas,3347.14
+921,921,10413,10413,10413,Some College,Accommodation,5858180,1624,2010,Female,Arkansas,3607.25
+922,922,10414,10414,10414,Advanced Degree,Accommodation,2987563,705,2010,Female,Arkansas,4237.68
+923,923,10415,10415,10415,Unavalble,Accommodation,2695207,1002,2010,Female,Arkansas,2689.83
+924,924,11484,11484,11484,All Education Categories,Educational Services,300960339,30322,2011,Male,Arkansas,9925.48
+925,925,11485,11485,11485,Less Than High School,Educational Services,16280611,2400,2011,Male,Arkansas,6783.59
+926,926,11486,11486,11486,High School Graduate,Educational Services,54935141,6820,2011,Male,Arkansas,8055.01
+927,927,11487,11487,11487,Some College,Educational Services,77813760,8179,2011,Male,Arkansas,9513.85
+928,928,11488,11488,11488,Advanced Degree,Educational Services,145920056,10976,2011,Male,Arkansas,13294.47
+929,929,11489,11489,11489,Unavalble,Educational Services,6010771,1947,2011,Male,Arkansas,3087.2
+930,930,11490,11490,11490,All Education Categories,Educational Services,627010632,81540,2011,Female,Arkansas,7689.61
+931,931,11491,11491,11491,Less Than High School,Educational Services,22455568,4676,2011,Female,Arkansas,4802.3
+932,932,11492,11492,11492,High School Graduate,Educational Services,112747144,18719,2011,Female,Arkansas,6023.14
+933,933,11493,11493,11493,Some College,Educational Services,179267617,24377,2011,Female,Arkansas,7353.97
+934,934,11494,11494,11494,Advanced Degree,Educational Services,299307759,29899,2011,Female,Arkansas,10010.63
+935,935,11495,11495,11495,Unavalble,Educational Services,13232544,3869,2011,Female,Arkansas,3420.15
+936,936,11580,11580,11580,All Education Categories,Accommodation,16946770,3690,2011,Male,Arkansas,4592.62
+937,937,11581,11581,11581,Less Than High School,Accommodation,2901144,690,2011,Male,Arkansas,4204.56
+938,938,11582,11582,11582,High School Graduate,Accommodation,5192872,1080,2011,Male,Arkansas,4808.21
+939,939,11583,11583,11583,Some College,Accommodation,4489112,870,2011,Male,Arkansas,5159.9
+940,940,11584,11584,11584,Advanced Degree,Accommodation,2605939,474,2011,Male,Arkansas,5497.76
+941,941,11585,11585,11585,Unavalble,Accommodation,1757702,576,2011,Male,Arkansas,3051.57
+942,942,11586,11586,11586,All Education Categories,Accommodation,22218991,6428,2011,Female,Arkansas,3456.59
+943,943,11587,11587,11587,Less Than High School,Accommodation,3802407,1230,2011,Female,Arkansas,3091.39
+944,944,11588,11588,11588,High School Graduate,Accommodation,6524954,1873,2011,Female,Arkansas,3483.69
+945,945,11589,11589,11589,Some College,Accommodation,6016774,1634,2011,Female,Arkansas,3682.24
+946,946,11590,11590,11590,Advanced Degree,Accommodation,3145563,742,2011,Female,Arkansas,4239.3
+947,947,11591,11591,11591,Unavalble,Accommodation,2729292,949,2011,Female,Arkansas,2875.97
+948,948,12660,12660,12660,All Education Categories,Educational Services,305857787,30397,2012,Male,Arkansas,10062.1
+949,949,12661,12661,12661,Less Than High School,Educational Services,17584834,2527,2012,Male,Arkansas,6958.78
+950,950,12662,12662,12662,High School Graduate,Educational Services,57474481,7002,2012,Male,Arkansas,8208.29
+951,951,12663,12663,12663,Some College,Educational Services,79645047,8245,2012,Male,Arkansas,9659.8
+952,952,12664,12664,12664,Advanced Degree,Educational Services,145040554,10795,2012,Male,Arkansas,13435.9
+953,953,12665,12665,12665,Unavalble,Educational Services,6112870,1829,2012,Male,Arkansas,3342.19
+954,954,12666,12666,12666,All Education Categories,Educational Services,629360957,81000,2012,Female,Arkansas,7769.89
+955,955,12667,12667,12667,Less Than High School,Educational Services,24679768,4914,2012,Female,Arkansas,5022.34
+956,956,12668,12668,12668,High School Graduate,Educational Services,115005116,18783,2012,Female,Arkansas,6122.83
+957,957,12669,12669,12669,Some College,Educational Services,181796414,24413,2012,Female,Arkansas,7446.71
+958,958,12670,12670,12670,Advanced Degree,Educational Services,294205583,29146,2012,Female,Arkansas,10094.2
+959,959,12671,12671,12671,Unavalble,Educational Services,13674076,3743,2012,Female,Arkansas,3653.24
+960,960,12756,12756,12756,All Education Categories,Accommodation,18012110,3712,2012,Male,Arkansas,4852.4
+961,961,12757,12757,12757,Less Than High School,Accommodation,3137700,683,2012,Male,Arkansas,4594.0
+962,962,12758,12758,12758,High School Graduate,Accommodation,5416043,1083,2012,Male,Arkansas,5000.96
+963,963,12759,12759,12759,Some College,Accommodation,4718323,876,2012,Male,Arkansas,5386.21
+964,964,12760,12760,12760,Advanced Degree,Accommodation,2891158,495,2012,Male,Arkansas,5840.72
+965,965,12761,12761,12761,Unavalble,Accommodation,1848886,574,2012,Male,Arkansas,3221.06
+966,966,12762,12762,12762,All Education Categories,Accommodation,23755796,6313,2012,Female,Arkansas,3763.0
+967,967,12763,12763,12763,Less Than High School,Accommodation,4107172,1211,2012,Female,Arkansas,3391.55
+968,968,12764,12764,12764,High School Graduate,Accommodation,6953323,1834,2012,Female,Arkansas,3791.34
+969,969,12765,12765,12765,Some College,Accommodation,6519395,1615,2012,Female,Arkansas,4036.78
+970,970,12766,12766,12766,Advanced Degree,Accommodation,3450587,760,2012,Female,Arkansas,4540.25
+971,971,12767,12767,12767,Unavalble,Accommodation,2725319,894,2012,Female,Arkansas,3048.46
+972,972,15852,15852,15852,All Education Categories,"Colleges, Universities, and Professional Schools",80460078,7834,2004,Male,Arkansas,10270.63
+973,973,15853,15853,15853,Less Than High School,"Colleges, Universities, and Professional Schools",2448819,382,2004,Male,Arkansas,6410.52
+974,974,15854,15854,15854,High School Graduate,"Colleges, Universities, and Professional Schools",10001874,1279,2004,Male,Arkansas,7820.07
+975,975,15855,15855,15855,Some College,"Colleges, Universities, and Professional Schools",16898515,1763,2004,Male,Arkansas,9585.09
+976,976,15856,15856,15856,Advanced Degree,"Colleges, Universities, and Professional Schools",49354705,3594,2004,Male,Arkansas,13732.53
+977,977,15857,15857,15857,Unavalble,"Colleges, Universities, and Professional Schools",1756165,817,2004,Male,Arkansas,2149.53
+978,978,15858,15858,15858,All Education Categories,"Colleges, Universities, and Professional Schools",60488055,8811,2004,Female,Arkansas,6865.06
+979,979,15859,15859,15859,Less Than High School,"Colleges, Universities, and Professional Schools",1412294,318,2004,Female,Arkansas,4441.18
+980,980,15860,15860,15860,High School Graduate,"Colleges, Universities, and Professional Schools",9257589,1663,2004,Female,Arkansas,5566.8
+981,981,15861,15861,15861,Some College,"Colleges, Universities, and Professional Schools",15455070,2354,2004,Female,Arkansas,6565.45
+982,982,15862,15862,15862,Advanced Degree,"Colleges, Universities, and Professional Schools",32421596,3432,2004,Female,Arkansas,9446.85
+983,983,15863,15863,15863,Unavalble,"Colleges, Universities, and Professional Schools",1941506,1045,2004,Female,Arkansas,1857.9
+984,984,19500,19500,19500,All Education Categories,"Colleges, Universities, and Professional Schools",85367661,7912,2005,Male,Arkansas,10789.64
+985,985,19501,19501,19501,Less Than High School,"Colleges, Universities, and Professional Schools",2553136,379,2005,Male,Arkansas,6736.51
+986,986,19502,19502,19502,High School Graduate,"Colleges, Universities, and Professional Schools",10554837,1289,2005,Male,Arkansas,8188.39
+987,987,19503,19503,19503,Some College,"Colleges, Universities, and Professional Schools",18256713,1824,2005,Male,Arkansas,10009.16
+988,988,19504,19504,19504,Advanced Degree,"Colleges, Universities, and Professional Schools",52381498,3673,2005,Male,Arkansas,14261.23
+989,989,19505,19505,19505,Unavalble,"Colleges, Universities, and Professional Schools",1621477,746,2005,Male,Arkansas,2173.56
+990,990,19506,19506,19506,All Education Categories,"Colleges, Universities, and Professional Schools",66325063,8957,2005,Female,Arkansas,7404.83
+991,991,19507,19507,19507,Less Than High School,"Colleges, Universities, and Professional Schools",1485105,317,2005,Female,Arkansas,4684.87
+992,992,19508,19508,19508,High School Graduate,"Colleges, Universities, and Professional Schools",9791043,1674,2005,Female,Arkansas,5848.89
+993,993,19509,19509,19509,Some College,"Colleges, Universities, and Professional Schools",16965391,2434,2005,Female,Arkansas,6970.17
+994,994,19510,19510,19510,Advanced Degree,"Colleges, Universities, and Professional Schools",36152567,3594,2005,Female,Arkansas,10059.14
+995,995,19511,19511,19511,Unavalble,"Colleges, Universities, and Professional Schools",1930957,938,2005,Female,Arkansas,2058.59
+996,996,23160,23160,23160,All Education Categories,"Colleges, Universities, and Professional Schools",87655025,7902,2006,Male,Arkansas,11092.76
+997,997,23161,23161,23161,Less Than High School,"Colleges, Universities, and Professional Schools",2614833,375,2006,Male,Arkansas,6972.89
+998,998,23162,23162,23162,High School Graduate,"Colleges, Universities, and Professional Schools",10798337,1279,2006,Male,Arkansas,8442.8
+999,999,23163,23163,23163,Some College,"Colleges, Universities, and Professional Schools",18991826,1845,2006,Male,Arkansas,10293.67
+1000,1000,23164,23164,23164,Advanced Degree,"Colleges, Universities, and Professional Schools",53554960,3618,2006,Male,Arkansas,14802.37
+1001,1001,23165,23165,23165,Unavalble,"Colleges, Universities, and Professional Schools",1695069,785,2006,Male,Arkansas,2159.32
+1002,1002,23166,23166,23166,All Education Categories,"Colleges, Universities, and Professional Schools",68208016,9046,2006,Female,Arkansas,7540.13
+1003,1003,23167,23167,23167,Less Than High School,"Colleges, Universities, and Professional Schools",1537196,318,2006,Female,Arkansas,4833.95
+1004,1004,23168,23168,23168,High School Graduate,"Colleges, Universities, and Professional Schools",10201196,1700,2006,Female,Arkansas,6000.7
+1005,1005,23169,23169,23169,Some College,"Colleges, Universities, and Professional Schools",17641377,2480,2006,Female,Arkansas,7113.46
+1006,1006,23170,23170,23170,Advanced Degree,"Colleges, Universities, and Professional Schools",36904941,3582,2006,Female,Arkansas,10302.89
+1007,1007,23171,23171,23171,Unavalble,"Colleges, Universities, and Professional Schools",1923305,966,2006,Female,Arkansas,1991.0
+1008,1008,26820,26820,26820,All Education Categories,"Colleges, Universities, and Professional Schools",91621080,8077,2007,Male,Arkansas,11343.45
+1009,1009,26821,26821,26821,Less Than High School,"Colleges, Universities, and Professional Schools",2780889,391,2007,Male,Arkansas,7112.25
+1010,1010,26822,26822,26822,High School Graduate,"Colleges, Universities, and Professional Schools",11359134,1309,2007,Male,Arkansas,8677.72
+1011,1011,26823,26823,26823,Some College,"Colleges, Universities, and Professional Schools",20091451,1899,2007,Male,Arkansas,10580.02
+1012,1012,26824,26824,26824,Advanced Degree,"Colleges, Universities, and Professional Schools",55566661,3620,2007,Male,Arkansas,15349.91
+1013,1013,26825,26825,26825,Unavalble,"Colleges, Universities, and Professional Schools",1822945,858,2007,Male,Arkansas,2124.64
+1014,1014,26826,26826,26826,All Education Categories,"Colleges, Universities, and Professional Schools",71548714,9157,2007,Female,Arkansas,7813.55
+1015,1015,26827,26827,26827,Less Than High School,"Colleges, Universities, and Professional Schools",1644504,326,2007,Female,Arkansas,5044.49
+1016,1016,26828,26828,26828,High School Graduate,"Colleges, Universities, and Professional Schools",10717575,1727,2007,Female,Arkansas,6205.89
+1017,1017,26829,26829,26829,Some College,"Colleges, Universities, and Professional Schools",18617124,2509,2007,Female,Arkansas,7420.14
+1018,1018,26830,26830,26830,Advanced Degree,"Colleges, Universities, and Professional Schools",38515776,3595,2007,Female,Arkansas,10713.71
+1019,1019,26831,26831,26831,Unavalble,"Colleges, Universities, and Professional Schools",2053735,1000,2007,Female,Arkansas,2053.74
+1020,1020,30504,30504,30504,All Education Categories,"Colleges, Universities, and Professional Schools",101169675,8237,2008,Male,Arkansas,12282.34
+1021,1021,30505,30505,30505,Less Than High School,"Colleges, Universities, and Professional Schools",3388917,437,2008,Male,Arkansas,7754.96
+1022,1022,30506,30506,30506,High School Graduate,"Colleges, Universities, and Professional Schools",12859223,1396,2008,Male,Arkansas,9211.48
+1023,1023,30507,30507,30507,Some College,"Colleges, Universities, and Professional Schools",22310821,1994,2008,Male,Arkansas,11188.98
+1024,1024,30508,30508,30508,Advanced Degree,"Colleges, Universities, and Professional Schools",60819079,3763,2008,Male,Arkansas,16162.39
+1025,1025,30509,30509,30509,Unavalble,"Colleges, Universities, and Professional Schools",1791636,647,2008,Male,Arkansas,2769.14
+1026,1026,30510,30510,30510,All Education Categories,"Colleges, Universities, and Professional Schools",80664351,9423,2008,Female,Arkansas,8560.37
+1027,1027,30511,30511,30511,Less Than High School,"Colleges, Universities, and Professional Schools",2001233,365,2008,Female,Arkansas,5482.83
+1028,1028,30512,30512,30512,High School Graduate,"Colleges, Universities, and Professional Schools",12292366,1828,2008,Female,Arkansas,6724.49
+1029,1029,30513,30513,30513,Some College,"Colleges, Universities, and Professional Schools",21468963,2677,2008,Female,Arkansas,8019.78
+1030,1030,30514,30514,30514,Advanced Degree,"Colleges, Universities, and Professional Schools",42815083,3780,2008,Female,Arkansas,11326.74
+1031,1031,30515,30515,30515,Unavalble,"Colleges, Universities, and Professional Schools",2086706,773,2008,Female,Arkansas,2699.49
+1032,1032,34176,34176,34176,All Education Categories,"Colleges, Universities, and Professional Schools",102837330,8326,2009,Male,Arkansas,12351.35
+1033,1033,34177,34177,34177,Less Than High School,"Colleges, Universities, and Professional Schools",3689017,477,2009,Male,Arkansas,7733.79
+1034,1034,34178,34178,34178,High School Graduate,"Colleges, Universities, and Professional Schools",13364423,1463,2009,Male,Arkansas,9134.94
+1035,1035,34179,34179,34179,Some College,"Colleges, Universities, and Professional Schools",22844757,2045,2009,Male,Arkansas,11171.03
+1036,1036,34180,34180,34180,Advanced Degree,"Colleges, Universities, and Professional Schools",61205160,3694,2009,Male,Arkansas,16568.8
+1037,1037,34181,34181,34181,Unavalble,"Colleges, Universities, and Professional Schools",1733974,647,2009,Male,Arkansas,2680.02
+1038,1038,34182,34182,34182,All Education Categories,"Colleges, Universities, and Professional Schools",81493066,9462,2009,Female,Arkansas,8612.67
+1039,1039,34183,34183,34183,Less Than High School,"Colleges, Universities, and Professional Schools",2195170,396,2009,Female,Arkansas,5543.36
+1040,1040,34184,34184,34184,High School Graduate,"Colleges, Universities, and Professional Schools",12519017,1845,2009,Female,Arkansas,6785.38
+1041,1041,34185,34185,34185,Some College,"Colleges, Universities, and Professional Schools",21890014,2704,2009,Female,Arkansas,8095.42
+1042,1042,34186,34186,34186,Advanced Degree,"Colleges, Universities, and Professional Schools",42721500,3727,2009,Female,Arkansas,11462.7
+1043,1043,34187,34187,34187,Unavalble,"Colleges, Universities, and Professional Schools",2167365,790,2009,Female,Arkansas,2743.5
+1044,1044,37836,37836,37836,All Education Categories,"Colleges, Universities, and Professional Schools",107614835,8816,2010,Male,Arkansas,12206.76
+1045,1045,37837,37837,37837,Less Than High School,"Colleges, Universities, and Professional Schools",4130176,528,2010,Male,Arkansas,7822.3
+1046,1046,37838,37838,37838,High School Graduate,"Colleges, Universities, and Professional Schools",14401424,1563,2010,Male,Arkansas,9213.96
+1047,1047,37839,37839,37839,Some College,"Colleges, Universities, and Professional Schools",24051348,2148,2010,Male,Arkansas,11197.09
+1048,1048,37840,37840,37840,Advanced Degree,"Colleges, Universities, and Professional Schools",63219377,3808,2010,Male,Arkansas,16601.73
+1049,1049,37841,37841,37841,Unavalble,"Colleges, Universities, and Professional Schools",1812510,768,2010,Male,Arkansas,2360.04
+1050,1050,37842,37842,37842,All Education Categories,"Colleges, Universities, and Professional Schools",85330089,9939,2010,Female,Arkansas,8585.38
+1051,1051,37843,37843,37843,Less Than High School,"Colleges, Universities, and Professional Schools",2608514,432,2010,Female,Arkansas,6038.23
+1052,1052,37844,37844,37844,High School Graduate,"Colleges, Universities, and Professional Schools",13387766,1922,2010,Female,Arkansas,6965.54
+1053,1053,37845,37845,37845,Some College,"Colleges, Universities, and Professional Schools",23094411,2818,2010,Female,Arkansas,8195.32
+1054,1054,37846,37846,37846,Advanced Degree,"Colleges, Universities, and Professional Schools",44231516,3827,2010,Female,Arkansas,11557.75
+1055,1055,37847,37847,37847,Unavalble,"Colleges, Universities, and Professional Schools",2007882,940,2010,Female,Arkansas,2136.04
+1056,1056,41496,41496,41496,All Education Categories,"Colleges, Universities, and Professional Schools",106105118,8583,2011,Male,Arkansas,12362.24
+1057,1057,41497,41497,41497,Less Than High School,"Colleges, Universities, and Professional Schools",4431477,545,2011,Male,Arkansas,8131.15
+1058,1058,41498,41498,41498,High School Graduate,"Colleges, Universities, and Professional Schools",14616080,1568,2011,Male,Arkansas,9321.48
+1059,1059,41499,41499,41499,Some College,"Colleges, Universities, and Professional Schools",23961290,2098,2011,Male,Arkansas,11421.02
+1060,1060,41500,41500,41500,Advanced Degree,"Colleges, Universities, and Professional Schools",61293937,3605,2011,Male,Arkansas,17002.48
+1061,1061,41501,41501,41501,Unavalble,"Colleges, Universities, and Professional Schools",1802334,768,2011,Male,Arkansas,2346.79
+1062,1062,41502,41502,41502,All Education Categories,"Colleges, Universities, and Professional Schools",85232400,9787,2011,Female,Arkansas,8708.74
+1063,1063,41503,41503,41503,Less Than High School,"Colleges, Universities, and Professional Schools",2929439,477,2011,Female,Arkansas,6141.38
+1064,1064,41504,41504,41504,High School Graduate,"Colleges, Universities, and Professional Schools",13690312,1913,2011,Female,Arkansas,7156.46
+1065,1065,41505,41505,41505,Some College,"Colleges, Universities, and Professional Schools",23493540,2796,2011,Female,Arkansas,8402.55
+1066,1066,41506,41506,41506,Advanced Degree,"Colleges, Universities, and Professional Schools",43207146,3680,2011,Female,Arkansas,11741.07
+1067,1067,41507,41507,41507,Unavalble,"Colleges, Universities, and Professional Schools",1911962,922,2011,Female,Arkansas,2073.71
+1068,1068,45168,45168,45168,All Education Categories,"Colleges, Universities, and Professional Schools",108435380,8538,2012,Male,Arkansas,12700.33
+1069,1069,45169,45169,45169,Less Than High School,"Colleges, Universities, and Professional Schools",4932724,592,2012,Male,Arkansas,8332.3
+1070,1070,45170,45170,45170,High School Graduate,"Colleges, Universities, and Professional Schools",15613684,1608,2012,Male,Arkansas,9710.0
+1071,1071,45171,45171,45171,Some College,"Colleges, Universities, and Professional Schools",24757651,2122,2012,Male,Arkansas,11667.13
+1072,1072,45172,45172,45172,Advanced Degree,"Colleges, Universities, and Professional Schools",61353253,3542,2012,Male,Arkansas,17321.64
+1073,1073,45173,45173,45173,Unavalble,"Colleges, Universities, and Professional Schools",1778068,673,2012,Male,Arkansas,2642.0
+1074,1074,45174,45174,45174,All Education Categories,"Colleges, Universities, and Professional Schools",88810971,9697,2012,Female,Arkansas,9158.6
+1075,1075,45175,45175,45175,Less Than High School,"Colleges, Universities, and Professional Schools",3420761,514,2012,Female,Arkansas,6655.18
+1076,1076,45176,45176,45176,High School Graduate,"Colleges, Universities, and Professional Schools",14703269,1967,2012,Female,Arkansas,7474.97
+1077,1077,45177,45177,45177,Some College,"Colleges, Universities, and Professional Schools",24860081,2828,2012,Female,Arkansas,8790.69
+1078,1078,45178,45178,45178,Advanced Degree,"Colleges, Universities, and Professional Schools",43929468,3603,2012,Female,Arkansas,12192.47
+1079,1079,45179,45179,45179,Unavalble,"Colleges, Universities, and Professional Schools",1897393,786,2012,Female,Arkansas,2413.99

@@ -1,0 +1,1081 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1,education,industry,Payroll,Emp,year,sex,state,Average_pay
+0,0,2868,2868,All Education Categories,"Colleges, Universities, and Professional Schools",48130237,5064,2004,Male,Idaho,9504.39
+1,1,2869,2869,Less Than High School,"Colleges, Universities, and Professional Schools",1060915,183,2004,Male,Idaho,5797.35
+2,2,2870,2870,High School Graduate,"Colleges, Universities, and Professional Schools",5906845,818,2004,Male,Idaho,7221.08
+3,3,2871,2871,Some College,"Colleges, Universities, and Professional Schools",10804963,1271,2004,Male,Idaho,8501.15
+4,4,2872,2872,Advanced Degree,"Colleges, Universities, and Professional Schools",29615939,2502,2004,Male,Idaho,11836.91
+5,5,2873,2873,Unavalble,"Colleges, Universities, and Professional Schools",741576,290,2004,Male,Idaho,2557.16
+6,6,2874,2874,All Education Categories,"Colleges, Universities, and Professional Schools",37765783,5549,2004,Female,Idaho,6805.87
+7,7,2875,2875,Less Than High School,"Colleges, Universities, and Professional Schools",682130,160,2004,Female,Idaho,4263.31
+8,8,2876,2876,High School Graduate,"Colleges, Universities, and Professional Schools",6154002,1119,2004,Female,Idaho,5499.55
+9,9,2877,2877,Some College,"Colleges, Universities, and Professional Schools",10951567,1695,2004,Female,Idaho,6461.1
+10,10,2878,2878,Advanced Degree,"Colleges, Universities, and Professional Schools",18866583,2151,2004,Female,Idaho,8771.08
+11,11,2879,2879,Unavalble,"Colleges, Universities, and Professional Schools",1111502,424,2004,Female,Idaho,2621.47
+12,12,6528,6528,All Education Categories,"Colleges, Universities, and Professional Schools",44790386,5125,2005,Male,Idaho,8739.59
+13,13,6529,6529,Less Than High School,"Colleges, Universities, and Professional Schools",1033012,196,2005,Male,Idaho,5270.47
+14,14,6530,6530,High School Graduate,"Colleges, Universities, and Professional Schools",5531906,830,2005,Male,Idaho,6664.95
+15,15,6531,6531,Some College,"Colleges, Universities, and Professional Schools",10299421,1326,2005,Male,Idaho,7767.29
+16,16,6532,6532,Advanced Degree,"Colleges, Universities, and Professional Schools",27330469,2533,2005,Male,Idaho,10789.76
+17,17,6533,6533,Unavalble,"Colleges, Universities, and Professional Schools",595577,240,2005,Male,Idaho,2481.57
+18,18,6534,6534,All Education Categories,"Colleges, Universities, and Professional Schools",36022077,5677,2005,Female,Idaho,6345.27
+19,19,6535,6535,Less Than High School,"Colleges, Universities, and Professional Schools",662648,173,2005,Female,Idaho,3830.34
+20,20,6536,6536,High School Graduate,"Colleges, Universities, and Professional Schools",5863517,1157,2005,Female,Idaho,5067.86
+21,21,6537,6537,Some College,"Colleges, Universities, and Professional Schools",10601857,1772,2005,Female,Idaho,5982.99
+22,22,6538,6538,Advanced Degree,"Colleges, Universities, and Professional Schools",17891733,2233,2005,Female,Idaho,8012.42
+23,23,6539,6539,Unavalble,"Colleges, Universities, and Professional Schools",1002322,342,2005,Female,Idaho,2930.77
+24,24,10200,10200,All Education Categories,"Colleges, Universities, and Professional Schools",58195994,5984,2006,Male,Idaho,9725.27
+25,25,10201,10201,Less Than High School,"Colleges, Universities, and Professional Schools",1352053,220,2006,Male,Idaho,6145.7
+26,26,10202,10202,High School Graduate,"Colleges, Universities, and Professional Schools",7277001,964,2006,Male,Idaho,7548.76
+27,27,10203,10203,Some College,"Colleges, Universities, and Professional Schools",13871787,1595,2006,Male,Idaho,8697.05
+28,28,10204,10204,Advanced Degree,"Colleges, Universities, and Professional Schools",35110573,2995,2006,Male,Idaho,11723.06
+29,29,10205,10205,Unavalble,"Colleges, Universities, and Professional Schools",584580,209,2006,Male,Idaho,2797.03
+30,30,10206,10206,All Education Categories,"Colleges, Universities, and Professional Schools",41210282,6206,2006,Female,Idaho,6640.39
+31,31,10207,10207,Less Than High School,"Colleges, Universities, and Professional Schools",824477,196,2006,Female,Idaho,4206.52
+32,32,10208,10208,High School Graduate,"Colleges, Universities, and Professional Schools",6780583,1273,2006,Female,Idaho,5326.46
+33,33,10209,10209,Some College,"Colleges, Universities, and Professional Schools",12366141,1998,2006,Female,Idaho,6189.26
+34,34,10210,10210,Advanced Degree,"Colleges, Universities, and Professional Schools",20224413,2421,2006,Female,Idaho,8353.74
+35,35,10211,10211,Unavalble,"Colleges, Universities, and Professional Schools",1014668,318,2006,Female,Idaho,3190.78
+36,36,13884,13884,All Education Categories,"Colleges, Universities, and Professional Schools",62664048,6186,2007,Male,Idaho,10129.98
+37,37,13885,13885,Less Than High School,"Colleges, Universities, and Professional Schools",1500218,240,2007,Male,Idaho,6250.91
+38,38,13886,13886,High School Graduate,"Colleges, Universities, and Professional Schools",7931933,1024,2007,Male,Idaho,7746.03
+39,39,13887,13887,Some College,"Colleges, Universities, and Professional Schools",14966165,1657,2007,Male,Idaho,9032.09
+40,40,13888,13888,Advanced Degree,"Colleges, Universities, and Professional Schools",37670684,3075,2007,Male,Idaho,12250.63
+41,41,13889,13889,Unavalble,"Colleges, Universities, and Professional Schools",595048,190,2007,Male,Idaho,3131.83
+42,42,13890,13890,All Education Categories,"Colleges, Universities, and Professional Schools",44311407,6394,2007,Female,Idaho,6930.15
+43,43,13891,13891,Less Than High School,"Colleges, Universities, and Professional Schools",943067,209,2007,Female,Idaho,4512.28
+44,44,13892,13892,High School Graduate,"Colleges, Universities, and Professional Schools",7385624,1327,2007,Female,Idaho,5565.65
+45,45,13893,13893,Some College,"Colleges, Universities, and Professional Schools",13385836,2062,2007,Female,Idaho,6491.68
+46,46,13894,13894,Advanced Degree,"Colleges, Universities, and Professional Schools",21530535,2466,2007,Female,Idaho,8730.95
+47,47,13895,13895,Unavalble,"Colleges, Universities, and Professional Schools",1066345,330,2007,Female,Idaho,3231.35
+48,48,17556,17556,All Education Categories,"Colleges, Universities, and Professional Schools",66989862,6442,2008,Male,Idaho,10398.92
+49,49,17557,17557,Less Than High School,"Colleges, Universities, and Professional Schools",1731674,264,2008,Male,Idaho,6559.37
+50,50,17558,17558,High School Graduate,"Colleges, Universities, and Professional Schools",8660201,1083,2008,Male,Idaho,7996.49
+51,51,17559,17559,Some College,"Colleges, Universities, and Professional Schools",16291112,1763,2008,Male,Idaho,9240.56
+52,52,17560,17560,Advanced Degree,"Colleges, Universities, and Professional Schools",39631577,3126,2008,Male,Idaho,12678.05
+53,53,17561,17561,Unavalble,"Colleges, Universities, and Professional Schools",675298,206,2008,Male,Idaho,3278.15
+54,54,17562,17562,All Education Categories,"Colleges, Universities, and Professional Schools",48356557,6612,2008,Female,Idaho,7313.45
+55,55,17563,17563,Less Than High School,"Colleges, Universities, and Professional Schools",1100884,226,2008,Female,Idaho,4871.17
+56,56,17564,17564,High School Graduate,"Colleges, Universities, and Professional Schools",7996143,1351,2008,Female,Idaho,5918.68
+57,57,17565,17565,Some College,"Colleges, Universities, and Professional Schools",14707491,2134,2008,Female,Idaho,6891.98
+58,58,17566,17566,Advanced Degree,"Colleges, Universities, and Professional Schools",23434401,2553,2008,Female,Idaho,9179.16
+59,59,17567,17567,Unavalble,"Colleges, Universities, and Professional Schools",1117638,348,2008,Female,Idaho,3211.6
+60,60,21228,21228,All Education Categories,"Colleges, Universities, and Professional Schools",68146885,6379,2009,Male,Idaho,10683.0
+61,61,21229,21229,Less Than High School,"Colleges, Universities, and Professional Schools",1904849,273,2009,Male,Idaho,6977.47
+62,62,21230,21230,High School Graduate,"Colleges, Universities, and Professional Schools",9047169,1104,2009,Male,Idaho,8194.9
+63,63,21231,21231,Some College,"Colleges, Universities, and Professional Schools",16741747,1744,2009,Male,Idaho,9599.63
+64,64,21232,21232,Advanced Degree,"Colleges, Universities, and Professional Schools",39725080,3038,2009,Male,Idaho,13076.06
+65,65,21233,21233,Unavalble,"Colleges, Universities, and Professional Schools",728040,221,2009,Male,Idaho,3294.3
+66,66,21234,21234,All Education Categories,"Colleges, Universities, and Professional Schools",49400919,6619,2009,Female,Idaho,7463.5
+67,67,21235,21235,Less Than High School,"Colleges, Universities, and Professional Schools",1236712,242,2009,Female,Idaho,5110.38
+68,68,21236,21236,High School Graduate,"Colleges, Universities, and Professional Schools",8216848,1341,2009,Female,Idaho,6127.4
+69,69,21237,21237,Some College,"Colleges, Universities, and Professional Schools",15280062,2164,2009,Female,Idaho,7061.03
+70,70,21238,21238,Advanced Degree,"Colleges, Universities, and Professional Schools",23608766,2550,2009,Female,Idaho,9258.34
+71,71,21239,21239,Unavalble,"Colleges, Universities, and Professional Schools",1058532,323,2009,Female,Idaho,3277.19
+72,72,24912,24912,All Education Categories,"Colleges, Universities, and Professional Schools",67910707,6144,2010,Male,Idaho,11053.17
+73,73,24913,24913,Less Than High School,"Colleges, Universities, and Professional Schools",2040256,281,2010,Male,Idaho,7260.7
+74,74,24914,24914,High School Graduate,"Colleges, Universities, and Professional Schools",9217600,1077,2010,Male,Idaho,8558.59
+75,75,24915,24915,Some College,"Colleges, Universities, and Professional Schools",16727239,1679,2010,Male,Idaho,9962.62
+76,76,24916,24916,Advanced Degree,"Colleges, Universities, and Professional Schools",39134138,2901,2010,Male,Idaho,13489.88
+77,77,24917,24917,Unavalble,"Colleges, Universities, and Professional Schools",791474,207,2010,Male,Idaho,3823.55
+78,78,24918,24918,All Education Categories,"Colleges, Universities, and Professional Schools",49421193,6407,2010,Female,Idaho,7713.62
+79,79,24919,24919,Less Than High School,"Colleges, Universities, and Professional Schools",1374496,257,2010,Female,Idaho,5348.23
+80,80,24920,24920,High School Graduate,"Colleges, Universities, and Professional Schools",8389411,1311,2010,Female,Idaho,6399.25
+81,81,24921,24921,Some College,"Colleges, Universities, and Professional Schools",15387634,2105,2010,Female,Idaho,7310.04
+82,82,24922,24922,Advanced Degree,"Colleges, Universities, and Professional Schools",23366974,2443,2010,Female,Idaho,9564.87
+83,83,24923,24923,Unavalble,"Colleges, Universities, and Professional Schools",902678,290,2010,Female,Idaho,3112.68
+84,84,28584,28584,All Education Categories,"Colleges, Universities, and Professional Schools",70376042,6293,2011,Male,Idaho,11183.23
+85,85,28585,28585,Less Than High School,"Colleges, Universities, and Professional Schools",2323485,316,2011,Male,Idaho,7352.8
+86,86,28586,28586,High School Graduate,"Colleges, Universities, and Professional Schools",9843504,1132,2011,Male,Idaho,8695.67
+87,87,28587,28587,Some College,"Colleges, Universities, and Professional Schools",17584009,1738,2011,Male,Idaho,10117.38
+88,88,28588,28588,Advanced Degree,"Colleges, Universities, and Professional Schools",39967273,2924,2011,Male,Idaho,13668.7
+89,89,28589,28589,Unavalble,"Colleges, Universities, and Professional Schools",657771,183,2011,Male,Idaho,3594.38
+90,90,28590,28590,All Education Categories,"Colleges, Universities, and Professional Schools",50851721,6406,2011,Female,Idaho,7938.14
+91,91,28591,28591,Less Than High School,"Colleges, Universities, and Professional Schools",1553305,267,2011,Female,Idaho,5817.62
+92,92,28592,28592,High School Graduate,"Colleges, Universities, and Professional Schools",8901975,1334,2011,Female,Idaho,6673.14
+93,93,28593,28593,Some College,"Colleges, Universities, and Professional Schools",15932351,2121,2011,Female,Idaho,7511.72
+94,94,28594,28594,Advanced Degree,"Colleges, Universities, and Professional Schools",23651921,2455,2011,Female,Idaho,9634.18
+95,95,28595,28595,Unavalble,"Colleges, Universities, and Professional Schools",812170,229,2011,Female,Idaho,3546.59
+96,96,32256,32256,All Education Categories,"Colleges, Universities, and Professional Schools",83328800,6620,2012,Male,Idaho,12587.43
+97,97,32257,32257,Less Than High School,"Colleges, Universities, and Professional Schools",3105944,370,2012,Male,Idaho,8394.44
+98,98,32258,32258,High School Graduate,"Colleges, Universities, and Professional Schools",12034089,1235,2012,Male,Idaho,9744.2
+99,99,32259,32259,Some College,"Colleges, Universities, and Professional Schools",20952054,1835,2012,Male,Idaho,11418.01
+100,100,32260,32260,Advanced Degree,"Colleges, Universities, and Professional Schools",46387451,2979,2012,Male,Idaho,15571.48
+101,101,32261,32261,Unavalble,"Colleges, Universities, and Professional Schools",849262,201,2012,Male,Idaho,4225.18
+102,102,32262,32262,All Education Categories,"Colleges, Universities, and Professional Schools",63148972,6993,2012,Female,Idaho,9030.31
+103,103,32263,32263,Less Than High School,"Colleges, Universities, and Professional Schools",2113621,323,2012,Female,Idaho,6543.72
+104,104,32264,32264,High School Graduate,"Colleges, Universities, and Professional Schools",10985113,1471,2012,Female,Idaho,7467.79
+105,105,32265,32265,Some College,"Colleges, Universities, and Professional Schools",19756572,2318,2012,Female,Idaho,8523.11
+106,106,32266,32266,Advanced Degree,"Colleges, Universities, and Professional Schools",29212749,2628,2012,Female,Idaho,11115.96
+107,107,32267,32267,Unavalble,"Colleges, Universities, and Professional Schools",1080917,252,2012,Female,Idaho,4289.35
+108,108,32964,32964,All Education Categories,00,2497647135,280598,2004,Male,Idaho,8901.16
+109,109,32965,32965,Less Than High School,00,173686522,28072,2004,Male,Idaho,6187.18
+110,110,32966,32966,High School Graduate,00,604224127,76412,2004,Male,Idaho,7907.45
+111,111,32967,32967,Some College,00,721399501,75850,2004,Male,Idaho,9510.87
+112,112,32968,32968,Advanced Degree,00,844796509,56855,2004,Male,Idaho,14858.79
+113,113,32969,32969,Unavalble,00,153540477,43409,2004,Male,Idaho,3537.07
+114,114,32970,32970,All Education Categories,00,1449509498,264083,2004,Female,Idaho,5488.84
+115,115,32971,32971,Less Than High School,00,73603839,18603,2004,Female,Idaho,3956.56
+116,116,32972,32972,High School Graduate,00,332915561,68050,2004,Female,Idaho,4892.22
+117,117,32973,32973,Some College,00,474979648,80020,2004,Female,Idaho,5935.76
+118,118,32974,32974,Advanced Degree,00,438086762,51290,2004,Female,Idaho,8541.37
+119,119,32975,32975,Unavalble,00,129923688,46120,2004,Female,Idaho,2817.08
+120,120,33024,33024,All Education Categories,Manufacturing,481393202,44308,2004,Male,Idaho,10864.7
+121,121,33025,33025,Less Than High School,Manufacturing,38110691,5189,2004,Male,Idaho,7344.52
+122,122,33026,33026,High School Graduate,Manufacturing,131172605,13787,2004,Male,Idaho,9514.22
+123,123,33027,33027,Some College,Manufacturing,152238939,13345,2004,Male,Idaho,11407.94
+124,124,33028,33028,Advanced Degree,Manufacturing,139570263,8202,2004,Male,Idaho,17016.61
+125,125,33029,33029,Unavalble,Manufacturing,20300704,3785,2004,Male,Idaho,5363.46
+126,126,33030,33030,All Education Categories,Manufacturing,129622628,17733,2004,Female,Idaho,7309.68
+127,127,33031,33031,Less Than High School,Manufacturing,11798958,2352,2004,Female,Idaho,5016.56
+128,128,33032,33032,High School Graduate,Manufacturing,36331285,5592,2004,Female,Idaho,6497.01
+129,129,33033,33033,Some College,Manufacturing,42070518,5440,2004,Female,Idaho,7733.55
+130,130,33034,33034,Advanced Degree,Manufacturing,33165394,2822,2004,Female,Idaho,11752.44
+131,131,33035,33035,Unavalble,Manufacturing,6256474,1526,2004,Female,Idaho,4099.92
+132,132,33048,33048,All Education Categories,Retail Trade,251544409,35722,2004,Male,Idaho,7041.72
+133,133,33049,33049,Less Than High School,Retail Trade,19815670,3271,2004,Male,Idaho,6057.99
+134,134,33050,33050,High School Graduate,Retail Trade,77201357,10388,2004,Male,Idaho,7431.78
+135,135,33051,33051,Some College,Retail Trade,76024515,8963,2004,Male,Idaho,8482.04
+136,136,33052,33052,Advanced Degree,Retail Trade,50119475,4131,2004,Male,Idaho,12132.53
+137,137,33053,33053,Unavalble,Retail Trade,28383391,8970,2004,Male,Idaho,3164.26
+138,138,33054,33054,All Education Categories,Retail Trade,143753949,36398,2004,Female,Idaho,3949.5
+139,139,33055,33055,Less Than High School,Retail Trade,10911786,2969,2004,Female,Idaho,3675.24
+140,140,33056,33056,High School Graduate,Retail Trade,47579321,11276,2004,Female,Idaho,4219.52
+141,141,33057,33057,Some College,Retail Trade,42389784,9219,2004,Female,Idaho,4598.09
+142,142,33058,33058,Advanced Degree,Retail Trade,20446145,3462,2004,Female,Idaho,5905.88
+143,143,33059,33059,Unavalble,Retail Trade,22426913,9471,2004,Female,Idaho,2367.96
+144,144,33084,33084,All Education Categories,Finance and Insurance,93108790,5241,2004,Male,Idaho,17765.46
+145,145,33085,33085,Less Than High School,Finance and Insurance,1550071,172,2004,Male,Idaho,9012.04
+146,146,33086,33086,High School Graduate,Finance and Insurance,9038021,776,2004,Male,Idaho,11646.93
+147,147,33087,33087,Some College,Finance and Insurance,20424012,1345,2004,Male,Idaho,15185.14
+148,148,33088,33088,Advanced Degree,Finance and Insurance,59854698,2528,2004,Male,Idaho,23676.7
+149,149,33089,33089,Unavalble,Finance and Insurance,2241987,421,2004,Male,Idaho,5325.38
+150,150,33090,33090,All Education Categories,Finance and Insurance,102708706,12982,2004,Female,Idaho,7911.62
+151,151,33091,33091,Less Than High School,Finance and Insurance,2272892,402,2004,Female,Idaho,5653.96
+152,152,33092,33092,High School Graduate,Finance and Insurance,19489290,2955,2004,Female,Idaho,6595.36
+153,153,33093,33093,Some College,Finance and Insurance,32363696,4211,2004,Female,Idaho,7685.51
+154,154,33094,33094,Advanced Degree,Finance and Insurance,41353222,3826,2004,Female,Idaho,10808.47
+155,155,33095,33095,Unavalble,Finance and Insurance,7229607,1588,2004,Female,Idaho,4552.65
+156,156,33144,33144,All Education Categories,Educational Services,138026407,16086,2004,Male,Idaho,8580.53
+157,157,33145,33145,Less Than High School,Educational Services,4190641,772,2004,Male,Idaho,5428.29
+158,158,33146,33146,High School Graduate,Educational Services,22448885,3186,2004,Male,Idaho,7046.1
+159,159,33147,33147,Some College,Educational Services,35321906,4386,2004,Male,Idaho,8053.33
+160,160,33148,33148,Advanced Degree,Educational Services,74188862,6880,2004,Male,Idaho,10783.26
+161,161,33149,33149,Unavalble,Educational Services,1876114,862,2004,Male,Idaho,2176.47
+162,162,33150,33150,All Education Categories,Educational Services,202790672,34664,2004,Female,Idaho,5850.18
+163,163,33151,33151,Less Than High School,Educational Services,4826177,1419,2004,Female,Idaho,3401.11
+164,164,33152,33152,High School Graduate,Educational Services,38024886,8491,2004,Female,Idaho,4478.26
+165,165,33153,33153,Some College,Educational Services,59767791,11015,2004,Female,Idaho,5426.04
+166,166,33154,33154,Advanced Degree,Educational Services,95352923,11903,2004,Female,Idaho,8010.83
+167,167,33155,33155,Unavalble,Educational Services,4818895,1837,2004,Female,Idaho,2623.24
+168,168,33156,33156,All Education Categories,Health Care and Social Assistance,160012118,12769,2004,Male,Idaho,12531.3
+169,169,33157,33157,Less Than High School,Health Care and Social Assistance,4868601,781,2004,Male,Idaho,6233.8
+170,170,33158,33158,High School Graduate,Health Care and Social Assistance,21410337,2622,2004,Male,Idaho,8165.65
+171,171,33159,33159,Some College,Health Care and Social Assistance,40174133,3577,2004,Male,Idaho,11231.24
+172,172,33160,33160,Advanced Degree,Health Care and Social Assistance,88412951,4253,2004,Male,Idaho,20788.37
+173,173,33161,33161,Unavalble,Health Care and Social Assistance,5146095,1536,2004,Male,Idaho,3350.32
+174,174,33162,33162,All Education Categories,Health Care and Social Assistance,306487873,50948,2004,Female,Idaho,6015.7
+175,175,33163,33163,Less Than High School,Health Care and Social Assistance,11931119,2850,2004,Female,Idaho,4186.36
+176,176,33164,33164,High School Graduate,Health Care and Social Assistance,60660755,11946,2004,Female,Idaho,5077.91
+177,177,33165,33165,Some College,Health Care and Social Assistance,116727189,18410,2004,Female,Idaho,6340.42
+178,178,33166,33166,Advanced Degree,Health Care and Social Assistance,91536964,10472,2004,Female,Idaho,8741.12
+179,179,33167,33167,Unavalble,Health Care and Social Assistance,25631845,7269,2004,Female,Idaho,3526.19
+180,180,33180,33180,All Education Categories,Accommodation and Food Services,64597362,19303,2004,Male,Idaho,3346.49
+181,181,33181,33181,Less Than High School,Accommodation and Food Services,7600514,2045,2004,Male,Idaho,3716.63
+182,182,33182,33182,High School Graduate,Accommodation and Food Services,16400017,4013,2004,Male,Idaho,4086.72
+183,183,33183,33183,Some College,Accommodation and Food Services,14041904,3195,2004,Male,Idaho,4394.96
+184,184,33184,33184,Advanced Degree,Accommodation and Food Services,7443290,1464,2004,Male,Idaho,5084.21
+185,185,33185,33185,Unavalble,Accommodation and Food Services,19111638,8587,2004,Male,Idaho,2225.65
+186,186,33186,33186,All Education Categories,Accommodation and Food Services,65544186,25743,2004,Female,Idaho,2546.1
+187,187,33187,33187,Less Than High School,Accommodation and Food Services,6564873,2402,2004,Female,Idaho,2733.09
+188,188,33188,33188,High School Graduate,Accommodation and Food Services,15874505,5443,2004,Female,Idaho,2916.5
+189,189,33189,33189,Some College,Accommodation and Food Services,14352042,4583,2004,Female,Idaho,3131.58
+190,190,33190,33190,Advanced Degree,Accommodation and Food Services,6531497,1820,2004,Female,Idaho,3588.73
+191,191,33191,33191,Unavalble,Accommodation and Food Services,22221269,11495,2004,Female,Idaho,1933.12
+192,192,33216,33216,All Education Categories,00,2699020821,293039,2005,Male,Idaho,9210.45
+193,193,33217,33217,Less Than High School,00,190994932,30072,2005,Male,Idaho,6351.25
+194,194,33218,33218,High School Graduate,00,648055548,80148,2005,Male,Idaho,8085.74
+195,195,33219,33219,Some College,00,775420029,79339,2005,Male,Idaho,9773.5
+196,196,33220,33220,Advanced Degree,00,915572861,58210,2005,Male,Idaho,15728.79
+197,197,33221,33221,Unavalble,00,168977450,45270,2005,Male,Idaho,3732.66
+198,198,33222,33222,All Education Categories,00,1539143051,276541,2005,Female,Idaho,5565.7
+199,199,33223,33223,Less Than High School,00,80092054,19891,2005,Female,Idaho,4026.55
+200,200,33224,33224,High School Graduate,00,351465419,70785,2005,Female,Idaho,4965.25
+201,201,33225,33225,Some College,00,505526474,83944,2005,Female,Idaho,6022.19
+202,202,33226,33226,Advanced Degree,00,462833919,53670,2005,Female,Idaho,8623.7
+203,203,33227,33227,Unavalble,00,139225185,48251,2005,Female,Idaho,2885.44
+204,204,33276,33276,All Education Categories,Manufacturing,509579198,45925,2005,Male,Idaho,11095.9
+205,205,33277,33277,Less Than High School,Manufacturing,40974172,5408,2005,Male,Idaho,7576.59
+206,206,33278,33278,High School Graduate,Manufacturing,138877392,14243,2005,Male,Idaho,9750.57
+207,207,33279,33279,Some College,Manufacturing,160248628,13757,2005,Male,Idaho,11648.52
+208,208,33280,33280,Advanced Degree,Manufacturing,146966494,8515,2005,Male,Idaho,17259.72
+209,209,33281,33281,Unavalble,Manufacturing,22512510,4002,2005,Male,Idaho,5625.31
+210,210,33282,33282,All Education Categories,Manufacturing,136949891,18193,2005,Female,Idaho,7527.61
+211,211,33283,33283,Less Than High School,Manufacturing,12566158,2423,2005,Female,Idaho,5186.2
+212,212,33284,33284,High School Graduate,Manufacturing,37825607,5671,2005,Female,Idaho,6670.01
+213,213,33285,33285,Some College,Manufacturing,44532117,5561,2005,Female,Idaho,8007.93
+214,214,33286,33286,Advanced Degree,Manufacturing,35148243,2925,2005,Female,Idaho,12016.49
+215,215,33287,33287,Unavalble,Manufacturing,6877766,1613,2005,Female,Idaho,4263.96
+216,216,33300,33300,All Education Categories,Retail Trade,290876217,36597,2005,Male,Idaho,7948.09
+217,217,33301,33301,Less Than High School,Retail Trade,21681803,3427,2005,Male,Idaho,6326.76
+218,218,33302,33302,High School Graduate,Retail Trade,82632657,10715,2005,Male,Idaho,7711.87
+219,219,33303,33303,Some College,Retail Trade,84798658,9323,2005,Male,Idaho,9095.64
+220,220,33304,33304,Advanced Degree,Retail Trade,72210478,4284,2005,Male,Idaho,16855.85
+221,221,33305,33305,Unavalble,Retail Trade,29552620,8848,2005,Male,Idaho,3340.03
+222,222,33306,33306,All Education Categories,Retail Trade,150735709,36886,2005,Female,Idaho,4086.53
+223,223,33307,33307,Less Than High School,Retail Trade,11545557,3072,2005,Female,Idaho,3758.32
+224,224,33308,33308,High School Graduate,Retail Trade,48828901,11264,2005,Female,Idaho,4334.95
+225,225,33309,33309,Some College,Retail Trade,44707896,9379,2005,Female,Idaho,4766.81
+226,226,33310,33310,Advanced Degree,Retail Trade,22576080,3555,2005,Female,Idaho,6350.51
+227,227,33311,33311,Unavalble,Retail Trade,23077275,9617,2005,Female,Idaho,2399.63
+228,228,33336,33336,All Education Categories,Finance and Insurance,101784606,5606,2005,Male,Idaho,18156.37
+229,229,33337,33337,Less Than High School,Finance and Insurance,1661876,190,2005,Male,Idaho,8746.72
+230,230,33338,33338,High School Graduate,Finance and Insurance,9932684,853,2005,Male,Idaho,11644.41
+231,231,33339,33339,Some College,Finance and Insurance,23123292,1454,2005,Male,Idaho,15903.23
+232,232,33340,33340,Advanced Degree,Finance and Insurance,64659612,2664,2005,Male,Idaho,24271.63
+233,233,33341,33341,Unavalble,Finance and Insurance,2407143,444,2005,Male,Idaho,5421.49
+234,234,33342,33342,All Education Categories,Finance and Insurance,113895557,13739,2005,Female,Idaho,8289.95
+235,235,33343,33343,Less Than High School,Finance and Insurance,2597719,445,2005,Female,Idaho,5837.57
+236,236,33344,33344,High School Graduate,Finance and Insurance,21652947,3137,2005,Female,Idaho,6902.44
+237,237,33345,33345,Some College,Finance and Insurance,36531484,4504,2005,Female,Idaho,8110.9
+238,238,33346,33346,Advanced Degree,Finance and Insurance,45379080,4009,2005,Female,Idaho,11319.3
+239,239,33347,33347,Unavalble,Finance and Insurance,7734328,1644,2005,Female,Idaho,4704.58
+240,240,33396,33396,All Education Categories,Educational Services,139817151,16575,2005,Male,Idaho,8435.42
+241,241,33397,33397,Less Than High School,Educational Services,4381357,813,2005,Male,Idaho,5389.12
+242,242,33398,33398,High School Graduate,Educational Services,22966503,3297,2005,Male,Idaho,6965.88
+243,243,33399,33399,Some College,Educational Services,36488244,4567,2005,Male,Idaho,7989.54
+244,244,33400,33400,Advanced Degree,Educational Services,74199182,7081,2005,Male,Idaho,10478.63
+245,245,33401,33401,Unavalble,Educational Services,1781865,816,2005,Male,Idaho,2183.66
+246,246,33402,33402,All Education Categories,Educational Services,211536669,36289,2005,Female,Idaho,5829.22
+247,247,33403,33403,Less Than High School,Educational Services,5233975,1533,2005,Female,Idaho,3414.2
+248,248,33404,33404,High School Graduate,Educational Services,39949927,8891,2005,Female,Idaho,4493.3
+249,249,33405,33405,Some College,Educational Services,63088118,11592,2005,Female,Idaho,5442.38
+250,250,33406,33406,Advanced Degree,Educational Services,98101626,12411,2005,Female,Idaho,7904.41
+251,251,33407,33407,Unavalble,Educational Services,5163024,1862,2005,Female,Idaho,2772.84
+252,252,33408,33408,All Education Categories,Health Care and Social Assistance,171438627,13600,2005,Male,Idaho,12605.78
+253,253,33409,33409,Less Than High School,Health Care and Social Assistance,5376312,864,2005,Male,Idaho,6222.58
+254,254,33410,33410,High School Graduate,Health Care and Social Assistance,23023821,2818,2005,Male,Idaho,8170.27
+255,255,33411,33411,Some College,Health Care and Social Assistance,43159215,3846,2005,Male,Idaho,11221.84
+256,256,33412,33412,Advanced Degree,Health Care and Social Assistance,94641145,4516,2005,Male,Idaho,20956.85
+257,257,33413,33413,Unavalble,Health Care and Social Assistance,5238134,1557,2005,Male,Idaho,3364.25
+258,258,33414,33414,All Education Categories,Health Care and Social Assistance,323831337,54311,2005,Female,Idaho,5962.54
+259,259,33415,33415,Less Than High School,Health Care and Social Assistance,13052012,3142,2005,Female,Idaho,4154.05
+260,260,33416,33416,High School Graduate,Health Care and Social Assistance,64764988,12778,2005,Female,Idaho,5068.48
+261,261,33417,33417,Some College,Health Care and Social Assistance,124086871,19665,2005,Female,Idaho,6310.04
+262,262,33418,33418,Advanced Degree,Health Care and Social Assistance,95905713,11180,2005,Female,Idaho,8578.33
+263,263,33419,33419,Unavalble,Health Care and Social Assistance,26021753,7546,2005,Female,Idaho,3448.42
+264,264,33432,33432,All Education Categories,Accommodation and Food Services,68331374,20155,2005,Male,Idaho,3390.29
+265,265,33433,33433,Less Than High School,Accommodation and Food Services,8358200,2199,2005,Male,Idaho,3800.91
+266,266,33434,33434,High School Graduate,Accommodation and Food Services,17497398,4198,2005,Male,Idaho,4168.03
+267,267,33435,33435,Some College,Accommodation and Food Services,15102422,3380,2005,Male,Idaho,4468.17
+268,268,33436,33436,Advanced Degree,Accommodation and Food Services,7983248,1535,2005,Male,Idaho,5200.81
+269,269,33437,33437,Unavalble,Accommodation and Food Services,19390106,8842,2005,Male,Idaho,2192.95
+270,270,33438,33438,All Education Categories,Accommodation and Food Services,69960511,26944,2005,Female,Idaho,2596.52
+271,271,33439,33439,Less Than High School,Accommodation and Food Services,7127493,2536,2005,Female,Idaho,2810.53
+272,272,33440,33440,High School Graduate,Accommodation and Food Services,16599613,5506,2005,Female,Idaho,3014.82
+273,273,33441,33441,Some College,Accommodation and Food Services,15335746,4773,2005,Female,Idaho,3213.02
+274,274,33442,33442,Advanced Degree,Accommodation and Food Services,7208376,1935,2005,Female,Idaho,3725.26
+275,275,33443,33443,Unavalble,Accommodation and Food Services,23689284,12192,2005,Female,Idaho,1943.02
+276,276,33468,33468,All Education Categories,00,3073952516,308051,2006,Male,Idaho,9978.71
+277,277,33469,33469,Less Than High School,00,223556660,32038,2006,Male,Idaho,6977.86
+278,278,33470,33470,High School Graduate,00,743412312,83865,2006,Male,Idaho,8864.39
+279,279,33471,33471,Some College,00,886747799,83258,2006,Male,Idaho,10650.6
+280,280,33472,33472,Advanced Degree,00,1023430882,61062,2006,Male,Idaho,16760.52
+281,281,33473,33473,Unavalble,00,196804863,47828,2006,Male,Idaho,4114.85
+282,282,33474,33474,All Education Categories,00,1732670068,289518,2006,Female,Idaho,5984.67
+283,283,33475,33475,Less Than High School,00,94021192,21278,2006,Female,Idaho,4418.7
+284,284,33476,33476,High School Graduate,00,395314415,73747,2006,Female,Idaho,5360.41
+285,285,33477,33477,Some College,00,568186415,87914,2006,Female,Idaho,6462.98
+286,286,33478,33478,Advanced Degree,00,517857403,56113,2006,Female,Idaho,9228.83
+287,287,33479,33479,Unavalble,00,157290643,50466,2006,Female,Idaho,3116.76
+288,288,33528,33528,All Education Categories,Manufacturing,593410117,47655,2006,Male,Idaho,12452.21
+289,289,33529,33529,Less Than High School,Manufacturing,47935016,5663,2006,Male,Idaho,8464.6
+290,290,33530,33530,High School Graduate,Manufacturing,159113954,14663,2006,Male,Idaho,10851.39
+291,291,33531,33531,Some College,Manufacturing,185260845,14185,2006,Male,Idaho,13060.33
+292,292,33532,33532,Advanced Degree,Manufacturing,173280137,8699,2006,Male,Idaho,19919.55
+293,293,33533,33533,Unavalble,Manufacturing,27820165,4445,2006,Male,Idaho,6258.75
+294,294,33534,33534,All Education Categories,Manufacturing,156838190,18732,2006,Female,Idaho,8372.74
+295,295,33535,33535,Less Than High School,Manufacturing,14735502,2496,2006,Female,Idaho,5903.65
+296,296,33536,33536,High School Graduate,Manufacturing,42390402,5815,2006,Female,Idaho,7289.84
+297,297,33537,33537,Some College,Manufacturing,50379901,5719,2006,Female,Idaho,8809.22
+298,298,33538,33538,Advanced Degree,Manufacturing,41109644,3003,2006,Female,Idaho,13689.53
+299,299,33539,33539,Unavalble,Manufacturing,8222741,1700,2006,Female,Idaho,4836.91
+300,300,33552,33552,All Education Categories,Retail Trade,321115337,38514,2006,Male,Idaho,8337.63
+301,301,33553,33553,Less Than High School,Retail Trade,25181495,3634,2006,Male,Idaho,6929.42
+302,302,33554,33554,High School Graduate,Retail Trade,95848895,11233,2006,Male,Idaho,8532.8
+303,303,33555,33555,Some College,Retail Trade,97615667,9845,2006,Male,Idaho,9915.25
+304,304,33556,33556,Advanced Degree,Retail Trade,68977442,4575,2006,Male,Idaho,15077.04
+305,305,33557,33557,Unavalble,Retail Trade,33491838,9227,2006,Male,Idaho,3629.76
+306,306,33558,33558,All Education Categories,Retail Trade,175171651,39389,2006,Female,Idaho,4447.22
+307,307,33559,33559,Less Than High School,Retail Trade,13533073,3344,2006,Female,Idaho,4046.97
+308,308,33560,33560,High School Graduate,Retail Trade,55912121,11900,2006,Female,Idaho,4698.5
+309,309,33561,33561,Some College,Retail Trade,52627331,10149,2006,Female,Idaho,5185.47
+310,310,33562,33562,Advanced Degree,Retail Trade,27197735,3913,2006,Female,Idaho,6950.61
+311,311,33563,33563,Unavalble,Retail Trade,25901391,10084,2006,Female,Idaho,2568.56
+312,312,33588,33588,All Education Categories,Finance and Insurance,125184057,6095,2006,Male,Idaho,20538.81
+313,313,33589,33589,Less Than High School,Finance and Insurance,2199933,228,2006,Male,Idaho,9648.83
+314,314,33590,33590,High School Graduate,Finance and Insurance,12480618,970,2006,Male,Idaho,12866.62
+315,315,33591,33591,Some College,Finance and Insurance,28275717,1607,2006,Male,Idaho,17595.34
+316,316,33592,33592,Advanced Degree,Finance and Insurance,79377122,2801,2006,Male,Idaho,28338.85
+317,317,33593,33593,Unavalble,Finance and Insurance,2850668,489,2006,Male,Idaho,5829.59
+318,318,33594,33594,All Education Categories,Finance and Insurance,133198396,14783,2006,Female,Idaho,9010.24
+319,319,33595,33595,Less Than High School,Finance and Insurance,3208243,520,2006,Female,Idaho,6169.7
+320,320,33596,33596,High School Graduate,Finance and Insurance,25183852,3402,2006,Female,Idaho,7402.66
+321,321,33597,33597,Some College,Finance and Insurance,42288649,4791,2006,Female,Idaho,8826.69
+322,322,33598,33598,Advanced Degree,Finance and Insurance,53261113,4245,2006,Female,Idaho,12546.79
+323,323,33599,33599,Unavalble,Finance and Insurance,9256538,1825,2006,Female,Idaho,5072.08
+324,324,33648,33648,All Education Categories,Educational Services,144847214,16645,2006,Male,Idaho,8702.15
+325,325,33649,33649,Less Than High School,Educational Services,4708287,815,2006,Male,Idaho,5777.04
+326,326,33650,33650,High School Graduate,Educational Services,24166803,3332,2006,Male,Idaho,7252.94
+327,327,33651,33651,Some College,Educational Services,38167243,4634,2006,Male,Idaho,8236.35
+328,328,33652,33652,Advanced Degree,Educational Services,75864150,7038,2006,Male,Idaho,10779.22
+329,329,33653,33653,Unavalble,Educational Services,1940731,825,2006,Male,Idaho,2352.4
+330,330,33654,33654,All Education Categories,Educational Services,221489293,37027,2006,Female,Idaho,5981.83
+331,331,33655,33655,Less Than High School,Educational Services,5742235,1594,2006,Female,Idaho,3602.41
+332,332,33656,33656,High School Graduate,Educational Services,41875194,8995,2006,Female,Idaho,4655.39
+333,333,33657,33657,Some College,Educational Services,66707949,11940,2006,Female,Idaho,5586.93
+334,334,33658,33658,Advanced Degree,Educational Services,101717779,12618,2006,Female,Idaho,8061.32
+335,335,33659,33659,Unavalble,Educational Services,5446136,1879,2006,Female,Idaho,2898.42
+336,336,33660,33660,All Education Categories,Health Care and Social Assistance,183026837,13672,2006,Male,Idaho,13386.98
+337,337,33661,33661,Less Than High School,Health Care and Social Assistance,5815772,890,2006,Male,Idaho,6534.58
+338,338,33662,33662,High School Graduate,Health Care and Social Assistance,25047592,2862,2006,Male,Idaho,8751.78
+339,339,33663,33663,Some College,Health Care and Social Assistance,46011172,3879,2006,Male,Idaho,11861.61
+340,340,33664,33664,Advanced Degree,Health Care and Social Assistance,100857539,4511,2006,Male,Idaho,22358.13
+341,341,33665,33665,Unavalble,Health Care and Social Assistance,5294762,1530,2006,Male,Idaho,3460.63
+342,342,33666,33666,All Education Categories,Health Care and Social Assistance,354370252,55316,2006,Female,Idaho,6406.29
+343,343,33667,33667,Less Than High School,Health Care and Social Assistance,14716882,3249,2006,Female,Idaho,4529.67
+344,344,33668,33668,High School Graduate,Health Care and Social Assistance,71160100,13014,2006,Female,Idaho,5467.97
+345,345,33669,33669,Some College,Health Care and Social Assistance,135778359,20015,2006,Female,Idaho,6783.83
+346,346,33670,33670,Advanced Degree,Health Care and Social Assistance,104740654,11364,2006,Female,Idaho,9216.88
+347,347,33671,33671,Unavalble,Health Care and Social Assistance,27974257,7673,2006,Female,Idaho,3645.8
+348,348,33684,33684,All Education Categories,Accommodation and Food Services,73647282,20252,2006,Male,Idaho,3636.54
+349,349,33685,33685,Less Than High School,Accommodation and Food Services,9137915,2281,2006,Male,Idaho,4006.1
+350,350,33686,33686,High School Graduate,Accommodation and Food Services,18802155,4257,2006,Male,Idaho,4416.76
+351,351,33687,33687,Some College,Accommodation and Food Services,16137145,3411,2006,Male,Idaho,4730.91
+352,352,33688,33688,Advanced Degree,Accommodation and Food Services,8478906,1514,2006,Male,Idaho,5600.33
+353,353,33689,33689,Unavalble,Accommodation and Food Services,21091160,8789,2006,Male,Idaho,2399.72
+354,354,33690,33690,All Education Categories,Accommodation and Food Services,78674485,28019,2006,Female,Idaho,2807.9
+355,355,33691,33691,Less Than High School,Accommodation and Food Services,8156695,2679,2006,Female,Idaho,3044.68
+356,356,33692,33692,High School Graduate,Accommodation and Food Services,18550498,5711,2006,Female,Idaho,3248.2
+357,357,33693,33693,Some College,Accommodation and Food Services,17292813,5053,2006,Female,Idaho,3422.29
+358,358,33694,33694,Advanced Degree,Accommodation and Food Services,8097730,2026,2006,Female,Idaho,3996.91
+359,359,33695,33695,Unavalble,Accommodation and Food Services,26576749,12550,2006,Female,Idaho,2117.67
+360,360,33720,33720,All Education Categories,00,3273197938,319389,2007,Male,Idaho,10248.31
+361,361,33721,33721,Less Than High School,00,244231444,34002,2007,Male,Idaho,7182.86
+362,362,33722,33722,High School Graduate,00,798741269,87425,2007,Male,Idaho,9136.3
+363,363,33723,33723,Some College,00,952568731,86716,2007,Male,Idaho,10984.92
+364,364,33724,33724,Advanced Degree,00,1072702624,62628,2007,Male,Idaho,17128.16
+365,365,33725,33725,Unavalble,00,204953870,48619,2007,Male,Idaho,4215.51
+366,366,33726,33726,All Education Categories,00,1843956322,298963,2007,Female,Idaho,6167.84
+367,367,33727,33727,Less Than High School,00,103815836,22628,2007,Female,Idaho,4587.94
+368,368,33728,33728,High School Graduate,00,420997184,76090,2007,Female,Idaho,5532.88
+369,369,33729,33729,Some College,00,604196269,90865,2007,Female,Idaho,6649.38
+370,370,33730,33730,Advanced Degree,00,550604558,57550,2007,Female,Idaho,9567.41
+371,371,33731,33731,Unavalble,00,164342476,51830,2007,Female,Idaho,3170.8
+372,372,33780,33780,All Education Categories,Manufacturing,629096101,48572,2007,Male,Idaho,12951.83
+373,373,33781,33781,Less Than High School,Manufacturing,51866259,5871,2007,Male,Idaho,8834.31
+374,374,33782,33782,High School Graduate,Manufacturing,167507818,14908,2007,Male,Idaho,11236.1
+375,375,33783,33783,Some College,Manufacturing,197088791,14503,2007,Male,Idaho,13589.52
+376,376,33784,33784,Advanced Degree,Manufacturing,183297060,8904,2007,Male,Idaho,20585.92
+377,377,33785,33785,Unavalble,Manufacturing,29336174,4386,2007,Male,Idaho,6688.59
+378,378,33786,33786,All Education Categories,Manufacturing,164176472,19130,2007,Female,Idaho,8582.15
+379,379,33787,33787,Less Than High School,Manufacturing,15810960,2548,2007,Female,Idaho,6205.24
+380,380,33788,33788,High School Graduate,Manufacturing,43982061,5855,2007,Female,Idaho,7511.88
+381,381,33789,33789,Some College,Manufacturing,52765776,5860,2007,Female,Idaho,9004.4
+382,382,33790,33790,Advanced Degree,Manufacturing,42840402,3102,2007,Female,Idaho,13810.57
+383,383,33791,33791,Unavalble,Manufacturing,8777274,1765,2007,Female,Idaho,4972.96
+384,384,33804,33804,All Education Categories,Retail Trade,340839564,40239,2007,Male,Idaho,8470.38
+385,385,33805,33805,Less Than High School,Retail Trade,27373568,3912,2007,Male,Idaho,6997.33
+386,386,33806,33806,High School Graduate,Retail Trade,100446713,11666,2007,Male,Idaho,8610.21
+387,387,33807,33807,Some College,Retail Trade,103816840,10232,2007,Male,Idaho,10146.29
+388,388,33808,33808,Advanced Degree,Retail Trade,74297034,4853,2007,Male,Idaho,15309.51
+389,389,33809,33809,Unavalble,Retail Trade,34905409,9576,2007,Male,Idaho,3645.09
+390,390,33810,33810,All Education Categories,Retail Trade,196070743,42222,2007,Female,Idaho,4643.81
+391,391,33811,33811,Less Than High School,Retail Trade,15272549,3663,2007,Female,Idaho,4169.41
+392,392,33812,33812,High School Graduate,Retail Trade,60803492,12588,2007,Female,Idaho,4830.27
+393,393,33813,33813,Some College,Retail Trade,58817162,10943,2007,Female,Idaho,5374.87
+394,394,33814,33814,Advanced Degree,Retail Trade,33237982,4310,2007,Female,Idaho,7711.83
+395,395,33815,33815,Unavalble,Retail Trade,27939558,10717,2007,Female,Idaho,2607.03
+396,396,33840,33840,All Education Categories,Finance and Insurance,132913986,6464,2007,Male,Idaho,20562.19
+397,397,33841,33841,Less Than High School,Finance and Insurance,2721227,264,2007,Male,Idaho,10307.68
+398,398,33842,33842,High School Graduate,Finance and Insurance,14132932,1083,2007,Male,Idaho,13049.8
+399,399,33843,33843,Some College,Finance and Insurance,30631710,1740,2007,Male,Idaho,17604.43
+400,400,33844,33844,Advanced Degree,Finance and Insurance,82545633,2908,2007,Male,Idaho,28385.71
+401,401,33845,33845,Unavalble,Finance and Insurance,2882483,469,2007,Male,Idaho,6146.02
+402,402,33846,33846,All Education Categories,Finance and Insurance,144304482,15361,2007,Female,Idaho,9394.21
+403,403,33847,33847,Less Than High School,Finance and Insurance,3792637,575,2007,Female,Idaho,6595.89
+404,404,33848,33848,High School Graduate,Finance and Insurance,27663340,3542,2007,Female,Idaho,7810.09
+405,405,33849,33849,Some College,Finance and Insurance,45807950,5025,2007,Female,Idaho,9116.01
+406,406,33850,33850,Advanced Degree,Finance and Insurance,56924983,4303,2007,Female,Idaho,13229.14
+407,407,33851,33851,Unavalble,Finance and Insurance,10115571,1916,2007,Female,Idaho,5279.53
+408,408,33900,33900,All Education Categories,Educational Services,151996452,16920,2007,Male,Idaho,8983.24
+409,409,33901,33901,Less Than High School,Educational Services,5153159,871,2007,Male,Idaho,5916.37
+410,410,33902,33902,High School Graduate,Educational Services,25526055,3428,2007,Male,Idaho,7446.34
+411,411,33903,33903,Some College,Educational Services,40400576,4741,2007,Male,Idaho,8521.53
+412,412,33904,33904,Advanced Degree,Educational Services,78927617,7055,2007,Male,Idaho,11187.47
+413,413,33905,33905,Unavalble,Educational Services,1989046,825,2007,Male,Idaho,2410.96
+414,414,33906,33906,All Education Categories,Educational Services,229779042,37422,2007,Female,Idaho,6140.21
+415,415,33907,33907,Less Than High School,Educational Services,6311782,1672,2007,Female,Idaho,3774.99
+416,416,33908,33908,High School Graduate,Educational Services,43679831,9033,2007,Female,Idaho,4835.58
+417,417,33909,33909,Some College,Educational Services,69765585,12086,2007,Female,Idaho,5772.43
+418,418,33910,33910,Advanced Degree,Educational Services,104007551,12577,2007,Female,Idaho,8269.66
+419,419,33911,33911,Unavalble,Educational Services,6014294,2055,2007,Female,Idaho,2926.66
+420,420,33912,33912,All Education Categories,Health Care and Social Assistance,195748109,14016,2007,Male,Idaho,13966.05
+421,421,33913,33913,Less Than High School,Health Care and Social Assistance,6532742,934,2007,Male,Idaho,6994.37
+422,422,33914,33914,High School Graduate,Health Care and Social Assistance,26952460,2983,2007,Male,Idaho,9035.35
+423,423,33915,33915,Some College,Health Care and Social Assistance,49362522,4008,2007,Male,Idaho,12316.0
+424,424,33916,33916,Advanced Degree,Health Care and Social Assistance,107290714,4580,2007,Male,Idaho,23425.92
+425,425,33917,33917,Unavalble,Health Care and Social Assistance,5609669,1511,2007,Male,Idaho,3712.55
+426,426,33918,33918,All Education Categories,Health Care and Social Assistance,370435876,56262,2007,Female,Idaho,6584.12
+427,427,33919,33919,Less Than High School,Health Care and Social Assistance,16075551,3407,2007,Female,Idaho,4718.39
+428,428,33920,33920,High School Graduate,Health Care and Social Assistance,74637833,13241,2007,Female,Idaho,5636.87
+429,429,33921,33921,Some College,Health Care and Social Assistance,141535583,20329,2007,Female,Idaho,6962.25
+430,430,33922,33922,Advanced Degree,Health Care and Social Assistance,109078603,11510,2007,Female,Idaho,9476.86
+431,431,33923,33923,Unavalble,Health Care and Social Assistance,29108306,7774,2007,Female,Idaho,3744.32
+432,432,33936,33936,All Education Categories,Accommodation and Food Services,80037731,21319,2007,Male,Idaho,3754.29
+433,433,33937,33937,Less Than High School,Accommodation and Food Services,10385490,2469,2007,Male,Idaho,4206.35
+434,434,33938,33938,High School Graduate,Accommodation and Food Services,20476274,4488,2007,Male,Idaho,4562.45
+435,435,33939,33939,Some College,Accommodation and Food Services,17672958,3614,2007,Male,Idaho,4890.14
+436,436,33940,33940,Advanced Degree,Accommodation and Food Services,9066065,1620,2007,Male,Idaho,5596.34
+437,437,33941,33941,Unavalble,Accommodation and Food Services,22436943,9128,2007,Male,Idaho,2458.03
+438,438,33942,33942,All Education Categories,Accommodation and Food Services,84057515,28942,2007,Female,Idaho,2904.34
+439,439,33943,33943,Less Than High School,Accommodation and Food Services,9254931,2889,2007,Female,Idaho,3203.51
+440,440,33944,33944,High School Graduate,Accommodation and Food Services,19730797,5920,2007,Female,Idaho,3332.9
+441,441,33945,33945,Some College,Accommodation and Food Services,18671141,5222,2007,Female,Idaho,3575.48
+442,442,33946,33946,Advanced Degree,Accommodation and Food Services,8708896,2142,2007,Female,Idaho,4065.78
+443,443,33947,33947,Unavalble,Accommodation and Food Services,27691750,12769,2007,Female,Idaho,2168.67
+444,444,33972,33972,All Education Categories,00,3270534074,319531,2008,Male,Idaho,10235.42
+445,445,33973,33973,Less Than High School,00,251411831,34784,2008,Male,Idaho,7227.8
+446,446,33974,33974,High School Graduate,00,805101974,87895,2008,Male,Idaho,9159.82
+447,447,33975,33975,Some College,00,955346797,87352,2008,Male,Idaho,10936.75
+448,448,33976,33976,Advanced Degree,00,1063686982,62607,2008,Male,Idaho,16989.9
+449,449,33977,33977,Unavalble,00,194986489,46893,2008,Male,Idaho,4158.12
+450,450,33978,33978,All Education Categories,00,1897989613,303037,2008,Female,Idaho,6263.23
+451,451,33979,33979,Less Than High School,00,111450337,23774,2008,Female,Idaho,4687.91
+452,452,33980,33980,High School Graduate,00,436537221,77324,2008,Female,Idaho,5645.56
+453,453,33981,33981,Some College,00,627619983,92648,2008,Female,Idaho,6774.24
+454,454,33982,33982,Advanced Degree,00,560497698,58656,2008,Female,Idaho,9555.68
+455,455,33983,33983,Unavalble,00,161884374,50636,2008,Female,Idaho,3197.02
+456,456,34032,34032,All Education Categories,Manufacturing,599072906,47103,2008,Male,Idaho,12718.36
+457,457,34033,34033,Less Than High School,Manufacturing,52013173,6004,2008,Male,Idaho,8663.09
+458,458,34034,34034,High School Graduate,Manufacturing,160549338,14471,2008,Male,Idaho,11094.56
+459,459,34035,34035,Some College,Manufacturing,187076622,13992,2008,Male,Idaho,13370.26
+460,460,34036,34036,Advanced Degree,Manufacturing,173267495,8464,2008,Male,Idaho,20471.11
+461,461,34037,34037,Unavalble,Manufacturing,26166278,4172,2008,Male,Idaho,6271.88
+462,462,34038,34038,All Education Categories,Manufacturing,160798540,18783,2008,Female,Idaho,8560.86
+463,463,34039,34039,Less Than High School,Manufacturing,16437599,2698,2008,Female,Idaho,6092.51
+464,464,34040,34040,High School Graduate,Manufacturing,43392672,5720,2008,Female,Idaho,7586.13
+465,465,34041,34041,Some College,Manufacturing,51713697,5685,2008,Female,Idaho,9096.52
+466,466,34042,34042,Advanced Degree,Manufacturing,41437241,3001,2008,Female,Idaho,13807.81
+467,467,34043,34043,Unavalble,Manufacturing,7817331,1679,2008,Female,Idaho,4655.94
+468,468,34056,34056,All Education Categories,Retail Trade,326084515,40852,2008,Male,Idaho,7982.09
+469,469,34057,34057,Less Than High School,Retail Trade,27749669,4063,2008,Male,Idaho,6829.85
+470,470,34058,34058,High School Graduate,Retail Trade,99446800,11895,2008,Male,Idaho,8360.39
+471,471,34059,34059,Some College,Retail Trade,99464910,10483,2008,Male,Idaho,9488.21
+472,472,34060,34060,Advanced Degree,Retail Trade,65459902,4964,2008,Male,Idaho,13186.93
+473,473,34061,34061,Unavalble,Retail Trade,33963234,9447,2008,Male,Idaho,3595.13
+474,474,34062,34062,All Education Categories,Retail Trade,192707073,42831,2008,Female,Idaho,4499.24
+475,475,34063,34063,Less Than High School,Retail Trade,15840623,3816,2008,Female,Idaho,4151.11
+476,476,34064,34064,High School Graduate,Retail Trade,60852002,12807,2008,Female,Idaho,4751.46
+477,477,34065,34065,Some College,Retail Trade,58162912,11258,2008,Female,Idaho,5166.36
+478,478,34066,34066,Advanced Degree,Retail Trade,30860219,4487,2008,Female,Idaho,6877.7
+479,479,34067,34067,Unavalble,Retail Trade,26991318,10462,2008,Female,Idaho,2579.94
+480,480,34092,34092,All Education Categories,Finance and Insurance,131388147,6389,2008,Male,Idaho,20564.74
+481,481,34093,34093,Less Than High School,Finance and Insurance,2906465,274,2008,Male,Idaho,10607.54
+482,482,34094,34094,High School Graduate,Finance and Insurance,14438846,1102,2008,Male,Idaho,13102.4
+483,483,34095,34095,Some College,Finance and Insurance,30595240,1733,2008,Male,Idaho,17654.5
+484,484,34096,34096,Advanced Degree,Finance and Insurance,80723591,2833,2008,Male,Idaho,28494.03
+485,485,34097,34097,Unavalble,Finance and Insurance,2724005,447,2008,Male,Idaho,6093.97
+486,486,34098,34098,All Education Categories,Finance and Insurance,144681176,15276,2008,Female,Idaho,9471.14
+487,487,34099,34099,Less Than High School,Finance and Insurance,4088858,614,2008,Female,Idaho,6659.38
+488,488,34100,34100,High School Graduate,Finance and Insurance,28087391,3574,2008,Female,Idaho,7858.81
+489,489,34101,34101,Some College,Finance and Insurance,46224437,5007,2008,Female,Idaho,9231.96
+490,490,34102,34102,Advanced Degree,Finance and Insurance,56791497,4274,2008,Female,Idaho,13287.67
+491,491,34103,34103,Unavalble,Finance and Insurance,9488993,1807,2008,Female,Idaho,5251.24
+492,492,34152,34152,All Education Categories,Educational Services,159665837,17353,2008,Male,Idaho,9201.05
+493,493,34153,34153,Less Than High School,Educational Services,5840398,939,2008,Male,Idaho,6219.81
+494,494,34154,34154,High School Graduate,Educational Services,27302838,3574,2008,Male,Idaho,7639.29
+495,495,34155,34155,Some College,Educational Services,43132054,4942,2008,Male,Idaho,8727.65
+496,496,34156,34156,Advanced Degree,Educational Services,81337051,7055,2008,Male,Idaho,11528.99
+497,497,34157,34157,Unavalble,Educational Services,2053495,842,2008,Male,Idaho,2438.83
+498,498,34158,34158,All Education Categories,Educational Services,241573283,38083,2008,Female,Idaho,6343.34
+499,499,34159,34159,Less Than High School,Educational Services,7085603,1792,2008,Female,Idaho,3954.02
+500,500,34160,34160,High School Graduate,Educational Services,46301073,9222,2008,Female,Idaho,5020.72
+501,501,34161,34161,Some College,Educational Services,74068457,12376,2008,Female,Idaho,5984.85
+502,502,34162,34162,Advanced Degree,Educational Services,108378465,12701,2008,Female,Idaho,8533.07
+503,503,34163,34163,Unavalble,Educational Services,5739687,1993,2008,Female,Idaho,2879.92
+504,504,34164,34164,All Education Categories,Health Care and Social Assistance,212603654,15023,2008,Male,Idaho,14151.88
+505,505,34165,34165,Less Than High School,Health Care and Social Assistance,7715111,1071,2008,Male,Idaho,7203.65
+506,506,34166,34166,High School Graduate,Health Care and Social Assistance,30330816,3262,2008,Male,Idaho,9298.23
+507,507,34167,34167,Some College,Health Care and Social Assistance,53503029,4304,2008,Male,Idaho,12431.0
+508,508,34168,34168,Advanced Degree,Health Care and Social Assistance,114968002,4814,2008,Male,Idaho,23882.01
+509,509,34169,34169,Unavalble,Health Care and Social Assistance,6086696,1572,2008,Male,Idaho,3871.94
+510,510,34170,34170,All Education Categories,Health Care and Social Assistance,402189236,58795,2008,Female,Idaho,6840.53
+511,511,34171,34171,Less Than High School,Health Care and Social Assistance,18300892,3741,2008,Female,Idaho,4891.98
+512,512,34172,34172,High School Graduate,Health Care and Social Assistance,81381624,13842,2008,Female,Idaho,5879.33
+513,513,34173,34173,Some College,Health Care and Social Assistance,152616431,21062,2008,Female,Idaho,7246.06
+514,514,34174,34174,Advanced Degree,Health Care and Social Assistance,118211115,12042,2008,Female,Idaho,9816.57
+515,515,34175,34175,Unavalble,Health Care and Social Assistance,31679174,8107,2008,Female,Idaho,3907.63
+516,516,34188,34188,All Education Categories,Accommodation and Food Services,83841698,22032,2008,Male,Idaho,3805.45
+517,517,34189,34189,Less Than High School,Accommodation and Food Services,11208961,2665,2008,Male,Idaho,4205.99
+518,518,34190,34190,High School Graduate,Accommodation and Food Services,21958348,4767,2008,Male,Idaho,4606.32
+519,519,34191,34191,Some College,Accommodation and Food Services,18799650,3832,2008,Male,Idaho,4905.96
+520,520,34192,34192,Advanced Degree,Accommodation and Food Services,9687626,1729,2008,Male,Idaho,5603.02
+521,521,34193,34193,Unavalble,Accommodation and Food Services,22187113,9040,2008,Male,Idaho,2454.33
+522,522,34194,34194,All Education Categories,Accommodation and Food Services,86851933,29722,2008,Female,Idaho,2922.14
+523,523,34195,34195,Less Than High School,Accommodation and Food Services,9965933,3084,2008,Female,Idaho,3231.5
+524,524,34196,34196,High School Graduate,Accommodation and Food Services,20739943,6109,2008,Female,Idaho,3394.98
+525,525,34197,34197,Some College,Accommodation and Food Services,19674997,5509,2008,Female,Idaho,3571.43
+526,526,34198,34198,Advanced Degree,Accommodation and Food Services,9242238,2315,2008,Female,Idaho,3992.33
+527,527,34199,34199,Unavalble,Accommodation and Food Services,27228821,12705,2008,Female,Idaho,2143.16
+528,528,34224,34224,All Education Categories,00,2981934744,299417,2009,Male,Idaho,9959.14
+529,529,34225,34225,Less Than High School,00,228349302,33016,2009,Male,Idaho,6916.32
+530,530,34226,34226,High School Graduate,00,735258429,83399,2009,Male,Idaho,8816.15
+531,531,34227,34227,Some College,00,878745163,83286,2009,Male,Idaho,10550.93
+532,532,34228,34228,Advanced Degree,00,988625515,59858,2009,Male,Idaho,16516.18
+533,533,34229,34229,Unavalble,00,150956336,39859,2009,Male,Idaho,3787.26
+534,534,34230,34230,All Education Categories,00,1828694819,292872,2009,Female,Idaho,6244.01
+535,535,34231,34231,Less Than High School,00,109525118,23509,2009,Female,Idaho,4658.86
+536,536,34232,34232,High School Graduate,00,423404588,75306,2009,Female,Idaho,5622.45
+537,537,34233,34233,Some College,00,611613418,90974,2009,Female,Idaho,6722.95
+538,538,34234,34234,Advanced Degree,00,543685265,57657,2009,Female,Idaho,9429.65
+539,539,34235,34235,Unavalble,00,140466430,45427,2009,Female,Idaho,3092.14
+540,540,34284,34284,All Education Categories,Manufacturing,518339606,41965,2009,Male,Idaho,12351.71
+541,541,34285,34285,Less Than High School,Manufacturing,44714822,5449,2009,Male,Idaho,8206.06
+542,542,34286,34286,High School Graduate,Manufacturing,140327070,13089,2009,Male,Idaho,10720.99
+543,543,34287,34287,Some College,Manufacturing,164500083,12688,2009,Male,Idaho,12965.01
+544,544,34288,34288,Advanced Degree,Manufacturing,151536113,7653,2009,Male,Idaho,19800.88
+545,545,34289,34289,Unavalble,Manufacturing,17261518,3086,2009,Male,Idaho,5593.49
+546,546,34290,34290,All Education Categories,Manufacturing,139395951,16688,2009,Female,Idaho,8353.07
+547,547,34291,34291,Less Than High School,Manufacturing,14351783,2485,2009,Female,Idaho,5775.37
+548,548,34292,34292,High School Graduate,Manufacturing,37311347,5095,2009,Female,Idaho,7323.13
+549,549,34293,34293,Some College,Manufacturing,45010245,5104,2009,Female,Idaho,8818.62
+550,550,34294,34294,Advanced Degree,Manufacturing,37291955,2732,2009,Female,Idaho,13650.06
+551,551,34295,34295,Unavalble,Manufacturing,5430622,1272,2009,Female,Idaho,4269.36
+552,552,34308,34308,All Education Categories,Retail Trade,282463771,37795,2009,Male,Idaho,7473.58
+553,553,34309,34309,Less Than High School,Retail Trade,24698141,3886,2009,Male,Idaho,6355.67
+554,554,34310,34310,High School Graduate,Retail Trade,87665693,11254,2009,Male,Idaho,7789.74
+555,555,34311,34311,Some College,Retail Trade,86828098,9873,2009,Male,Idaho,8794.5
+556,556,34312,34312,Advanced Degree,Retail Trade,56646066,4680,2009,Male,Idaho,12103.86
+557,557,34313,34313,Unavalble,Retail Trade,26625774,8103,2009,Male,Idaho,3285.92
+558,558,34314,34314,All Education Categories,Retail Trade,177680272,40255,2009,Female,Idaho,4413.87
+559,559,34315,34315,Less Than High School,Retail Trade,15062162,3677,2009,Female,Idaho,4096.32
+560,560,34316,34316,High School Graduate,Retail Trade,56791382,12231,2009,Female,Idaho,4643.23
+561,561,34317,34317,Some College,Retail Trade,54535819,10848,2009,Female,Idaho,5027.27
+562,562,34318,34318,Advanced Degree,Retail Trade,28720033,4384,2009,Female,Idaho,6551.1
+563,563,34319,34319,Unavalble,Retail Trade,22570877,9116,2009,Female,Idaho,2475.96
+564,564,34344,34344,All Education Categories,Finance and Insurance,115922267,6384,2009,Male,Idaho,18158.25
+565,565,34345,34345,Less Than High School,Finance and Insurance,3032959,303,2009,Male,Idaho,10009.77
+566,566,34346,34346,High School Graduate,Finance and Insurance,14288515,1147,2009,Male,Idaho,12457.29
+567,567,34347,34347,Some College,Finance and Insurance,27628678,1752,2009,Male,Idaho,15769.79
+568,568,34348,34348,Advanced Degree,Finance and Insurance,68556722,2768,2009,Male,Idaho,24767.6
+569,569,34349,34349,Unavalble,Finance and Insurance,2415393,414,2009,Male,Idaho,5834.28
+570,570,34350,34350,All Education Categories,Finance and Insurance,136698904,14624,2009,Female,Idaho,9347.57
+571,571,34351,34351,Less Than High School,Finance and Insurance,4277635,631,2009,Female,Idaho,6779.14
+572,572,34352,34352,High School Graduate,Finance and Insurance,27305276,3454,2009,Female,Idaho,7905.41
+573,573,34353,34353,Some College,Finance and Insurance,44507210,4857,2009,Female,Idaho,9163.52
+574,574,34354,34354,Advanced Degree,Finance and Insurance,52467307,4119,2009,Female,Idaho,12737.87
+575,575,34355,34355,Unavalble,Finance and Insurance,8141477,1564,2009,Female,Idaho,5205.55
+576,576,34404,34404,All Education Categories,Educational Services,162250619,17445,2009,Male,Idaho,9300.69
+577,577,34405,34405,Less Than High School,Educational Services,6392759,1002,2009,Male,Idaho,6380.0
+578,578,34406,34406,High School Graduate,Educational Services,28499561,3677,2009,Male,Idaho,7750.76
+579,579,34407,34407,Some College,Educational Services,44131127,4987,2009,Male,Idaho,8849.23
+580,580,34408,34408,Advanced Degree,Educational Services,81134794,6920,2009,Male,Idaho,11724.68
+581,581,34409,34409,Unavalble,Educational Services,2092379,859,2009,Male,Idaho,2435.83
+582,582,34410,34410,All Education Categories,Educational Services,246178945,38114,2009,Female,Idaho,6459.02
+583,583,34411,34411,Less Than High School,Educational Services,7754751,1895,2009,Female,Idaho,4092.22
+584,584,34412,34412,High School Graduate,Educational Services,47793765,9244,2009,Female,Idaho,5170.25
+585,585,34413,34413,Some College,Educational Services,76496922,12500,2009,Female,Idaho,6119.75
+586,586,34414,34414,Advanced Degree,Educational Services,108902799,12605,2009,Female,Idaho,8639.65
+587,587,34415,34415,Unavalble,Educational Services,5230709,1870,2009,Female,Idaho,2797.17
+588,588,34416,34416,All Education Categories,Health Care and Social Assistance,222152803,15726,2009,Male,Idaho,14126.47
+589,589,34417,34417,Less Than High School,Health Care and Social Assistance,8532640,1177,2009,Male,Idaho,7249.48
+590,590,34418,34418,High School Graduate,Health Care and Social Assistance,32143781,3480,2009,Male,Idaho,9236.72
+591,591,34419,34419,Some College,Health Care and Social Assistance,55847847,4478,2009,Male,Idaho,12471.6
+592,592,34420,34420,Advanced Degree,Health Care and Social Assistance,119391478,4921,2009,Male,Idaho,24261.63
+593,593,34421,34421,Unavalble,Health Care and Social Assistance,6237057,1670,2009,Male,Idaho,3734.76
+594,594,34422,34422,All Education Categories,Health Care and Social Assistance,412831972,60659,2009,Female,Idaho,6805.78
+595,595,34423,34423,Less Than High School,Health Care and Social Assistance,20188301,4040,2009,Female,Idaho,4997.1
+596,596,34424,34424,High School Graduate,Health Care and Social Assistance,85656978,14508,2009,Female,Idaho,5904.12
+597,597,34425,34425,Some College,Health Care and Social Assistance,156189547,21683,2009,Female,Idaho,7203.32
+598,598,34426,34426,Advanced Degree,Health Care and Social Assistance,120598476,12408,2009,Female,Idaho,9719.41
+599,599,34427,34427,Unavalble,Health Care and Social Assistance,30198671,8019,2009,Female,Idaho,3765.89
+600,600,34440,34440,All Education Categories,Accommodation and Food Services,77237445,20724,2009,Male,Idaho,3726.96
+601,601,34441,34441,Less Than High School,Accommodation and Food Services,10700882,2615,2009,Male,Idaho,4092.12
+602,602,34442,34442,High School Graduate,Accommodation and Food Services,20708331,4626,2009,Male,Idaho,4476.51
+603,603,34443,34443,Some College,Accommodation and Food Services,17762329,3751,2009,Male,Idaho,4735.36
+604,604,34444,34444,Advanced Degree,Accommodation and Food Services,9055715,1698,2009,Male,Idaho,5333.17
+605,605,34445,34445,Unavalble,Accommodation and Food Services,19010189,8034,2009,Male,Idaho,2366.22
+606,606,34446,34446,All Education Categories,Accommodation and Food Services,79415822,27450,2009,Female,Idaho,2893.11
+607,607,34447,34447,Less Than High School,Accommodation and Food Services,9369786,2965,2009,Female,Idaho,3160.13
+608,608,34448,34448,High School Graduate,Accommodation and Food Services,19297062,5801,2009,Female,Idaho,3326.51
+609,609,34449,34449,Some College,Accommodation and Food Services,18490253,5237,2009,Female,Idaho,3530.7
+610,610,34450,34450,Advanced Degree,Accommodation and Food Services,8692527,2216,2009,Female,Idaho,3922.62
+611,611,34451,34451,Unavalble,Accommodation and Food Services,23566194,11232,2009,Female,Idaho,2098.13
+612,612,34476,34476,All Education Categories,00,2858764141,286325,2010,Male,Idaho,9984.33
+613,613,34477,34477,Less Than High School,00,222999478,32081,2010,Male,Idaho,6951.14
+614,614,34478,34478,High School Graduate,00,703626927,80464,2010,Male,Idaho,8744.62
+615,615,34479,34479,Some College,00,840978846,80576,2010,Male,Idaho,10437.09
+616,616,34480,34480,Advanced Degree,00,961968536,58404,2010,Male,Idaho,16470.94
+617,617,34481,34481,Unavalble,00,129190354,34801,2010,Male,Idaho,3712.26
+618,618,34482,34482,All Education Categories,00,1780452753,283238,2010,Female,Idaho,6286.07
+619,619,34483,34483,Less Than High School,00,109198825,23180,2010,Female,Idaho,4710.91
+620,620,34484,34484,High School Graduate,00,412837342,73312,2010,Female,Idaho,5631.24
+621,621,34485,34485,Some College,00,599997126,89248,2010,Female,Idaho,6722.81
+622,622,34486,34486,Advanced Degree,00,535003728,56992,2010,Female,Idaho,9387.35
+623,623,34487,34487,Unavalble,00,123415732,40506,2010,Female,Idaho,3046.85
+624,624,34536,34536,All Education Categories,Manufacturing,478127681,38357,2010,Male,Idaho,12465.2
+625,625,34537,34537,Less Than High School,Manufacturing,42072705,5088,2010,Male,Idaho,8269.01
+626,626,34538,34538,High School Graduate,Manufacturing,127960928,12008,2010,Male,Idaho,10656.31
+627,627,34539,34539,Some College,Manufacturing,149399380,11612,2010,Male,Idaho,12865.95
+628,628,34540,34540,Advanced Degree,Manufacturing,144377634,7143,2010,Male,Idaho,20212.46
+629,629,34541,34541,Unavalble,Manufacturing,14317033,2506,2010,Male,Idaho,5713.1
+630,630,34542,34542,All Education Categories,Manufacturing,125535458,15001,2010,Female,Idaho,8368.47
+631,631,34543,34543,Less Than High School,Manufacturing,13133600,2309,2010,Female,Idaho,5688.0
+632,632,34544,34544,High School Graduate,Manufacturing,33346200,4549,2010,Female,Idaho,7330.45
+633,633,34545,34545,Some College,Manufacturing,40639391,4625,2010,Female,Idaho,8786.9
+634,634,34546,34546,Advanced Degree,Manufacturing,34331575,2515,2010,Female,Idaho,13650.73
+635,635,34547,34547,Unavalble,Manufacturing,4084692,1004,2010,Female,Idaho,4068.42
+636,636,34560,34560,All Education Categories,Retail Trade,269739474,36417,2010,Male,Idaho,7406.97
+637,637,34561,34561,Less Than High School,Retail Trade,24185869,3839,2010,Male,Idaho,6300.04
+638,638,34562,34562,High School Graduate,Retail Trade,83815985,10967,2010,Male,Idaho,7642.56
+639,639,34563,34563,Some College,Retail Trade,82887789,9684,2010,Male,Idaho,8559.25
+640,640,34564,34564,Advanced Degree,Retail Trade,55648139,4664,2010,Male,Idaho,11931.42
+641,641,34565,34565,Unavalble,Retail Trade,23201694,7262,2010,Male,Idaho,3194.95
+642,642,34566,34566,All Education Categories,Retail Trade,168593178,37675,2010,Female,Idaho,4474.94
+643,643,34567,34567,Less Than High School,Retail Trade,14675852,3512,2010,Female,Idaho,4178.77
+644,644,34568,34568,High School Graduate,Retail Trade,54130941,11528,2010,Female,Idaho,4695.61
+645,645,34569,34569,Some College,Retail Trade,52414671,10313,2010,Female,Idaho,5082.39
+646,646,34570,34570,Advanced Degree,Retail Trade,27388498,4272,2010,Female,Idaho,6411.17
+647,647,34571,34571,Unavalble,Retail Trade,19983216,8050,2010,Female,Idaho,2482.39
+648,648,34596,34596,All Education Categories,Finance and Insurance,117862727,6233,2010,Male,Idaho,18909.47
+649,649,34597,34597,Less Than High School,Finance and Insurance,3225286,321,2010,Male,Idaho,10047.62
+650,650,34598,34598,High School Graduate,Finance and Insurance,14420129,1142,2010,Male,Idaho,12627.08
+651,651,34599,34599,Some College,Finance and Insurance,27713887,1718,2010,Male,Idaho,16131.48
+652,652,34600,34600,Advanced Degree,Finance and Insurance,70498762,2702,2010,Male,Idaho,26091.33
+653,653,34601,34601,Unavalble,Finance and Insurance,2004663,349,2010,Male,Idaho,5744.02
+654,654,34602,34602,All Education Categories,Finance and Insurance,130889331,14057,2010,Female,Idaho,9311.33
+655,655,34603,34603,Less Than High School,Finance and Insurance,4294960,643,2010,Female,Idaho,6679.56
+656,656,34604,34604,High School Graduate,Finance and Insurance,26190803,3396,2010,Female,Idaho,7712.25
+657,657,34605,34605,Some College,Finance and Insurance,42913369,4761,2010,Female,Idaho,9013.52
+658,658,34606,34606,Advanced Degree,Finance and Insurance,51193062,4007,2010,Female,Idaho,12775.91
+659,659,34607,34607,Unavalble,Finance and Insurance,6297136,1251,2010,Female,Idaho,5033.68
+660,660,34656,34656,All Education Categories,Educational Services,162582426,17702,2010,Male,Idaho,9184.41
+661,661,34657,34657,Less Than High School,Educational Services,6862428,1094,2010,Male,Idaho,6272.79
+662,662,34658,34658,High School Graduate,Educational Services,29439930,3840,2010,Male,Idaho,7666.65
+663,663,34659,34659,Some College,Educational Services,44543985,5094,2010,Male,Idaho,8744.4
+664,664,34660,34660,Advanced Degree,Educational Services,79690602,6866,2010,Male,Idaho,11606.55
+665,665,34661,34661,Unavalble,Educational Services,2045481,807,2010,Male,Idaho,2534.67
+666,666,34662,34662,All Education Categories,Educational Services,246849976,38468,2010,Female,Idaho,6417.02
+667,667,34663,34663,Less Than High School,Educational Services,8392056,2008,2010,Female,Idaho,4179.31
+668,668,34664,34664,High School Graduate,Educational Services,48793648,9375,2010,Female,Idaho,5204.66
+669,669,34665,34665,Some College,Educational Services,77614047,12727,2010,Female,Idaho,6098.38
+670,670,34666,34666,Advanced Degree,Educational Services,107188676,12551,2010,Female,Idaho,8540.25
+671,671,34667,34667,Unavalble,Educational Services,4861549,1808,2010,Female,Idaho,2688.91
+672,672,34668,34668,All Education Categories,Health Care and Social Assistance,236494763,16981,2010,Male,Idaho,13927.02
+673,673,34669,34669,Less Than High School,Health Care and Social Assistance,9983840,1366,2010,Male,Idaho,7308.81
+674,674,34670,34670,High School Graduate,Health Care and Social Assistance,35382495,3840,2010,Male,Idaho,9214.19
+675,675,34671,34671,Some College,Health Care and Social Assistance,60095214,4826,2010,Male,Idaho,12452.39
+676,676,34672,34672,Advanced Degree,Health Care and Social Assistance,124351589,5096,2010,Male,Idaho,24401.8
+677,677,34673,34673,Unavalble,Health Care and Social Assistance,6681626,1853,2010,Male,Idaho,3605.84
+678,678,34674,34674,All Education Categories,Health Care and Social Assistance,433844181,62495,2010,Female,Idaho,6942.06
+679,679,34675,34675,Less Than High School,Health Care and Social Assistance,22223339,4347,2010,Female,Idaho,5112.34
+680,680,34676,34676,High School Graduate,Health Care and Social Assistance,90706519,15073,2010,Female,Idaho,6017.81
+681,681,34677,34677,Some College,Health Care and Social Assistance,164337855,22397,2010,Female,Idaho,7337.49
+682,682,34678,34678,Advanced Degree,Health Care and Social Assistance,128213592,12936,2010,Female,Idaho,9911.38
+683,683,34679,34679,Unavalble,Health Care and Social Assistance,28362876,7740,2010,Female,Idaho,3664.45
+684,684,34692,34692,All Education Categories,Accommodation and Food Services,74179960,20042,2010,Male,Idaho,3701.23
+685,685,34693,34693,Less Than High School,Accommodation and Food Services,10465540,2611,2010,Male,Idaho,4008.25
+686,686,34694,34694,High School Graduate,Accommodation and Food Services,20024385,4633,2010,Male,Idaho,4322.12
+687,687,34695,34695,Some College,Accommodation and Food Services,17343426,3788,2010,Male,Idaho,4578.52
+688,688,34696,34696,Advanced Degree,Accommodation and Food Services,8882112,1768,2010,Male,Idaho,5023.82
+689,689,34697,34697,Unavalble,Accommodation and Food Services,17464497,7243,2010,Male,Idaho,2411.22
+690,690,34698,34698,All Education Categories,Accommodation and Food Services,76378975,25909,2010,Female,Idaho,2947.97
+691,691,34699,34699,Less Than High School,Accommodation and Food Services,9002695,2838,2010,Female,Idaho,3172.2
+692,692,34700,34700,High School Graduate,Accommodation and Food Services,18631177,5608,2010,Female,Idaho,3322.25
+693,693,34701,34701,Some College,Accommodation and Food Services,17978638,5128,2010,Female,Idaho,3505.97
+694,694,34702,34702,Advanced Degree,Accommodation and Food Services,8616087,2263,2010,Female,Idaho,3807.37
+695,695,34703,34703,Unavalble,Accommodation and Food Services,22150378,10072,2010,Female,Idaho,2199.2
+696,696,34728,34728,All Education Categories,00,3008092819,288780,2011,Male,Idaho,10416.56
+697,697,34729,34729,Less Than High School,00,238710364,33019,2011,Male,Idaho,7229.48
+698,698,34730,34730,High School Graduate,00,741101576,81579,2011,Male,Idaho,9084.47
+699,699,34731,34731,Some College,00,886055034,81486,2011,Male,Idaho,10873.71
+700,700,34732,34732,Advanced Degree,00,1012069317,58678,2011,Male,Idaho,17247.85
+701,701,34733,34733,Unavalble,00,130156530,34018,2011,Male,Idaho,3826.11
+702,702,34734,34734,All Education Categories,00,1828021428,282655,2011,Female,Idaho,6467.32
+703,703,34735,34735,Less Than High School,00,116635377,23770,2011,Female,Idaho,4906.83
+704,704,34736,34736,High School Graduate,00,426816953,73391,2011,Female,Idaho,5815.66
+705,705,34737,34737,Some College,00,615818349,89173,2011,Female,Idaho,6905.88
+706,706,34738,34738,Advanced Degree,00,548214142,56909,2011,Female,Idaho,9633.17
+707,707,34739,34739,Unavalble,00,120536607,39411,2011,Female,Idaho,3058.45
+708,708,34788,34788,All Education Categories,Manufacturing,526631548,39225,2011,Male,Idaho,13425.92
+709,709,34789,34789,Less Than High School,Manufacturing,46138562,5274,2011,Male,Idaho,8748.31
+710,710,34790,34790,High School Graduate,Manufacturing,139996788,12266,2011,Male,Idaho,11413.4
+711,711,34791,34791,Some College,Manufacturing,164175181,11823,2011,Male,Idaho,13886.08
+712,712,34792,34792,Advanced Degree,Manufacturing,160244119,7249,2011,Male,Idaho,22105.69
+713,713,34793,34793,Unavalble,Manufacturing,16076898,2613,2011,Male,Idaho,6152.66
+714,714,34794,34794,All Education Categories,Manufacturing,135829701,14932,2011,Female,Idaho,9096.55
+715,715,34795,34795,Less Than High School,Manufacturing,14191548,2327,2011,Female,Idaho,6098.65
+716,716,34796,34796,High School Graduate,Manufacturing,35488439,4506,2011,Female,Idaho,7875.82
+717,717,34797,34797,Some College,Manufacturing,43414592,4567,2011,Female,Idaho,9506.15
+718,718,34798,34798,Advanced Degree,Manufacturing,38336342,2535,2011,Female,Idaho,15122.82
+719,719,34799,34799,Unavalble,Manufacturing,4398780,997,2011,Female,Idaho,4412.02
+720,720,34812,34812,All Education Categories,Retail Trade,279758682,36412,2011,Male,Idaho,7683.15
+721,721,34813,34813,Less Than High School,Retail Trade,25501896,3881,2011,Male,Idaho,6570.96
+722,722,34814,34814,High School Graduate,Retail Trade,87197203,10929,2011,Male,Idaho,7978.52
+723,723,34815,34815,Some College,Retail Trade,86759094,9782,2011,Male,Idaho,8869.26
+724,724,34816,34816,Advanced Degree,Retail Trade,56923201,4727,2011,Male,Idaho,12042.14
+725,725,34817,34817,Unavalble,Retail Trade,23377287,7093,2011,Male,Idaho,3295.83
+726,726,34818,34818,All Education Categories,Retail Trade,173201943,37380,2011,Female,Idaho,4633.55
+727,727,34819,34819,Less Than High School,Retail Trade,15364475,3508,2011,Female,Idaho,4379.84
+728,728,34820,34820,High School Graduate,Retail Trade,55078072,11248,2011,Female,Idaho,4896.7
+729,729,34821,34821,Some College,Retail Trade,53933600,10271,2011,Female,Idaho,5251.06
+730,730,34822,34822,Advanced Degree,Retail Trade,28686708,4288,2011,Female,Idaho,6690.0
+731,731,34823,34823,Unavalble,Retail Trade,20139088,8065,2011,Female,Idaho,2497.1
+732,732,34848,34848,All Education Categories,Finance and Insurance,125682358,6341,2011,Male,Idaho,19820.59
+733,733,34849,34849,Less Than High School,Finance and Insurance,3709437,361,2011,Male,Idaho,10275.45
+734,734,34850,34850,High School Graduate,Finance and Insurance,15631267,1210,2011,Male,Idaho,12918.4
+735,735,34851,34851,Some College,Finance and Insurance,29738464,1756,2011,Male,Idaho,16935.34
+736,736,34852,34852,Advanced Degree,Finance and Insurance,74559589,2640,2011,Male,Idaho,28242.27
+737,737,34853,34853,Unavalble,Finance and Insurance,2043600,374,2011,Male,Idaho,5464.17
+738,738,34854,34854,All Education Categories,Finance and Insurance,135157901,14106,2011,Female,Idaho,9581.59
+739,739,34855,34855,Less Than High School,Finance and Insurance,4928592,702,2011,Female,Idaho,7020.79
+740,740,34856,34856,High School Graduate,Finance and Insurance,27522345,3457,2011,Female,Idaho,7961.34
+741,741,34857,34857,Some College,Finance and Insurance,44831792,4819,2011,Female,Idaho,9303.13
+742,742,34858,34858,Advanced Degree,Finance and Insurance,52012354,3996,2011,Female,Idaho,13016.1
+743,743,34859,34859,Unavalble,Finance and Insurance,5862817,1132,2011,Female,Idaho,5179.17
+744,744,34908,34908,All Education Categories,Educational Services,162732204,17714,2011,Male,Idaho,9186.64
+745,745,34909,34909,Less Than High School,Educational Services,7211508,1132,2011,Male,Idaho,6370.59
+746,746,34910,34910,High School Graduate,Educational Services,29791009,3907,2011,Male,Idaho,7625.03
+747,747,34911,34911,Some College,Educational Services,44873280,5135,2011,Male,Idaho,8738.71
+748,748,34912,34912,Advanced Degree,Educational Services,78895494,6792,2011,Male,Idaho,11615.94
+749,749,34913,34913,Unavalble,Educational Services,1960913,749,2011,Male,Idaho,2618.04
+750,750,34914,34914,All Education Categories,Educational Services,243051408,37948,2011,Female,Idaho,6404.85
+751,751,34915,34915,Less Than High School,Educational Services,8869151,2062,2011,Female,Idaho,4301.24
+752,752,34916,34916,High School Graduate,Educational Services,48882959,9365,2011,Female,Idaho,5219.75
+753,753,34917,34917,Some College,Educational Services,77205765,12653,2011,Female,Idaho,6101.78
+754,754,34918,34918,Advanced Degree,Educational Services,103629079,12308,2011,Female,Idaho,8419.65
+755,755,34919,34919,Unavalble,Educational Services,4464454,1559,2011,Female,Idaho,2863.67
+756,756,34920,34920,All Education Categories,Health Care and Social Assistance,253305560,17739,2011,Male,Idaho,14279.59
+757,757,34921,34921,Less Than High School,Health Care and Social Assistance,11401026,1503,2011,Male,Idaho,7585.51
+758,758,34922,34922,High School Graduate,Health Care and Social Assistance,38932445,4096,2011,Male,Idaho,9504.99
+759,759,34923,34923,Some College,Health Care and Social Assistance,64658713,5016,2011,Male,Idaho,12890.49
+760,760,34924,34924,Advanced Degree,Health Care and Social Assistance,131698385,5247,2011,Male,Idaho,25099.75
+761,761,34925,34925,Unavalble,Health Care and Social Assistance,6614991,1876,2011,Male,Idaho,3526.11
+762,762,34926,34926,All Education Categories,Health Care and Social Assistance,452492773,63360,2011,Female,Idaho,7141.62
+763,763,34927,34927,Less Than High School,Health Care and Social Assistance,24278528,4580,2011,Female,Idaho,5300.99
+764,764,34928,34928,High School Graduate,Health Care and Social Assistance,95859374,15486,2011,Female,Idaho,6190.07
+765,765,34929,34929,Some College,Health Care and Social Assistance,170669502,22590,2011,Female,Idaho,7555.09
+766,766,34930,34930,Advanced Degree,Health Care and Social Assistance,134066125,13162,2011,Female,Idaho,10185.85
+767,767,34931,34931,Unavalble,Health Care and Social Assistance,27619244,7543,2011,Female,Idaho,3661.57
+768,768,34944,34944,All Education Categories,Accommodation and Food Services,76268727,20242,2011,Male,Idaho,3767.85
+769,769,34945,34945,Less Than High School,Accommodation and Food Services,10912215,2666,2011,Male,Idaho,4093.1
+770,770,34946,34946,High School Graduate,Accommodation and Food Services,20662210,4743,2011,Male,Idaho,4356.36
+771,771,34947,34947,Some College,Accommodation and Food Services,17960187,3899,2011,Male,Idaho,4606.36
+772,772,34948,34948,Advanced Degree,Accommodation and Food Services,9459885,1842,2011,Male,Idaho,5135.66
+773,773,34949,34949,Unavalble,Accommodation and Food Services,17274231,7091,2011,Male,Idaho,2436.08
+774,774,34950,34950,All Education Categories,Accommodation and Food Services,78742071,26162,2011,Female,Idaho,3009.79
+775,775,34951,34951,Less Than High School,Accommodation and Food Services,9301402,2868,2011,Female,Idaho,3243.17
+776,776,34952,34952,High School Graduate,Accommodation and Food Services,19195974,5677,2011,Female,Idaho,3381.36
+777,777,34953,34953,Some College,Accommodation and Food Services,18695684,5207,2011,Female,Idaho,3590.49
+778,778,34954,34954,Advanced Degree,Accommodation and Food Services,8886491,2323,2011,Female,Idaho,3825.44
+779,779,34955,34955,Unavalble,Accommodation and Food Services,22662520,10086,2011,Female,Idaho,2246.93
+780,780,34980,34980,All Education Categories,00,3185492938,291308,2012,Male,Idaho,10935.14
+781,781,34981,34981,Less Than High School,00,265765233,34239,2012,Male,Idaho,7762.06
+782,782,34982,34982,High School Graduate,00,796318315,82603,2012,Male,Idaho,9640.31
+783,783,34983,34983,Some College,00,939618407,81934,2012,Male,Idaho,11467.99
+784,784,34984,34984,Advanced Degree,00,1042531365,57675,2012,Male,Idaho,18075.97
+785,785,34985,34985,Unavalble,00,141259617,34858,2012,Male,Idaho,4052.43
+786,786,34986,34986,All Education Categories,00,1948709876,283733,2012,Female,Idaho,6868.11
+787,787,34987,34987,Less Than High School,00,129773047,24549,2012,Female,Idaho,5286.29
+788,788,34988,34988,High School Graduate,00,458072227,73537,2012,Female,Idaho,6229.14
+789,789,34989,34989,Some College,00,658642212,89414,2012,Female,Idaho,7366.21
+790,790,34990,34990,Advanced Degree,00,576264835,56857,2012,Female,Idaho,10135.34
+791,791,34991,34991,Unavalble,00,125957555,39375,2012,Female,Idaho,3198.92
+792,792,35040,35040,All Education Categories,Manufacturing,567926929,40840,2012,Male,Idaho,13906.14
+793,793,35041,35041,Less Than High School,Manufacturing,52001639,5469,2012,Male,Idaho,9508.44
+794,794,35042,35042,High School Graduate,Manufacturing,152558840,12737,2012,Male,Idaho,11977.61
+795,795,35043,35043,Some College,Manufacturing,175829678,12264,2012,Male,Idaho,14337.06
+796,796,35044,35044,Advanced Degree,Manufacturing,168413104,7522,2012,Male,Idaho,22389.4
+797,797,35045,35045,Unavalble,Manufacturing,19123668,2849,2012,Male,Idaho,6712.41
+798,798,35046,35046,All Education Categories,Manufacturing,144386507,15224,2012,Female,Idaho,9484.14
+799,799,35047,35047,Less Than High School,Manufacturing,15562399,2324,2012,Female,Idaho,6696.39
+800,800,35048,35048,High School Graduate,Manufacturing,38174765,4570,2012,Female,Idaho,8353.34
+801,801,35049,35049,Some College,Manufacturing,46385528,4702,2012,Female,Idaho,9865.06
+802,802,35050,35050,Advanced Degree,Manufacturing,39284492,2659,2012,Female,Idaho,14774.16
+803,803,35051,35051,Unavalble,Manufacturing,4979324,969,2012,Female,Idaho,5138.62
+804,804,35064,35064,All Education Categories,Retail Trade,305558190,36971,2012,Male,Idaho,8264.81
+805,805,35065,35065,Less Than High School,Retail Trade,28373405,4005,2012,Male,Idaho,7084.5
+806,806,35066,35066,High School Graduate,Retail Trade,94295655,10988,2012,Male,Idaho,8581.69
+807,807,35067,35067,Some College,Retail Trade,94484722,9872,2012,Male,Idaho,9570.98
+808,808,35068,35068,Advanced Degree,Retail Trade,62743912,4751,2012,Male,Idaho,13206.46
+809,809,35069,35069,Unavalble,Retail Trade,25660496,7355,2012,Male,Idaho,3488.85
+810,810,35070,35070,All Education Categories,Retail Trade,189066616,38007,2012,Female,Idaho,4974.52
+811,811,35071,35071,Less Than High School,Retail Trade,16947000,3606,2012,Female,Idaho,4699.67
+812,812,35072,35072,High School Graduate,Retail Trade,59330038,11213,2012,Female,Idaho,5291.18
+813,813,35073,35073,Some College,Retail Trade,59185893,10451,2012,Female,Idaho,5663.18
+814,814,35074,35074,Advanced Degree,Retail Trade,31987526,4468,2012,Female,Idaho,7159.25
+815,815,35075,35075,Unavalble,Retail Trade,21616158,8269,2012,Female,Idaho,2614.12
+816,816,35100,35100,All Education Categories,Finance and Insurance,129019136,6201,2012,Male,Idaho,20806.18
+817,817,35101,35101,Less Than High School,Finance and Insurance,4159691,375,2012,Male,Idaho,11092.51
+818,818,35102,35102,High School Graduate,Finance and Insurance,16894899,1222,2012,Male,Idaho,13825.61
+819,819,35103,35103,Some College,Finance and Insurance,31431394,1733,2012,Male,Idaho,18136.98
+820,820,35104,35104,Advanced Degree,Finance and Insurance,74218991,2500,2012,Male,Idaho,29687.6
+821,821,35105,35105,Unavalble,Finance and Insurance,2314160,371,2012,Male,Idaho,6237.63
+822,822,35106,35106,All Education Categories,Finance and Insurance,142084258,13805,2012,Female,Idaho,10292.23
+823,823,35107,35107,Less Than High School,Finance and Insurance,5468364,742,2012,Female,Idaho,7369.76
+824,824,35108,35108,High School Graduate,Finance and Insurance,29259484,3426,2012,Female,Idaho,8540.42
+825,825,35109,35109,Some College,Finance and Insurance,47495262,4727,2012,Female,Idaho,10047.65
+826,826,35110,35110,Advanced Degree,Finance and Insurance,54148811,3849,2012,Female,Idaho,14068.28
+827,827,35111,35111,Unavalble,Finance and Insurance,5712337,1061,2012,Female,Idaho,5383.92
+828,828,35160,35160,All Education Categories,Educational Services,174486552,18147,2012,Male,Idaho,9615.17
+829,829,35161,35161,Less Than High School,Educational Services,8328973,1248,2012,Male,Idaho,6673.86
+830,830,35162,35162,High School Graduate,Educational Services,32217568,4096,2012,Male,Idaho,7865.62
+831,831,35163,35163,Some College,Educational Services,47970659,5253,2012,Male,Idaho,9132.05
+832,832,35164,35164,Advanced Degree,Educational Services,83846242,6791,2012,Male,Idaho,12346.67
+833,833,35165,35165,Unavalble,Educational Services,2123110,760,2012,Male,Idaho,2793.57
+834,834,35166,35166,All Education Categories,Educational Services,252564646,38553,2012,Female,Idaho,6551.1
+835,835,35167,35167,Less Than High School,Educational Services,9934551,2223,2012,Female,Idaho,4468.98
+836,836,35168,35168,High School Graduate,Educational Services,51164169,9550,2012,Female,Idaho,5357.5
+837,837,35169,35169,Some College,Educational Services,80683004,12861,2012,Female,Idaho,6273.46
+838,838,35170,35170,Advanced Degree,Educational Services,105952025,12305,2012,Female,Idaho,8610.49
+839,839,35171,35171,Unavalble,Educational Services,4830896,1614,2012,Female,Idaho,2993.12
+840,840,35172,35172,All Education Categories,Health Care and Social Assistance,264689610,17763,2012,Male,Idaho,14901.18
+841,841,35173,35173,Less Than High School,Health Care and Social Assistance,13283206,1603,2012,Male,Idaho,8286.47
+842,842,35174,35174,High School Graduate,Health Care and Social Assistance,44089673,4271,2012,Male,Idaho,10323.03
+843,843,35175,35175,Some College,Health Care and Social Assistance,69229637,5092,2012,Male,Idaho,13595.77
+844,844,35176,35176,Advanced Degree,Health Care and Social Assistance,131198343,4992,2012,Male,Idaho,26281.72
+845,845,35177,35177,Unavalble,Health Care and Social Assistance,6888751,1805,2012,Male,Idaho,3816.48
+846,846,35178,35178,All Education Categories,Health Care and Social Assistance,490511389,63631,2012,Female,Idaho,7708.69
+847,847,35179,35179,Less Than High School,Health Care and Social Assistance,27753874,4771,2012,Female,Idaho,5817.2
+848,848,35180,35180,High School Graduate,Health Care and Social Assistance,105374735,15709,2012,Female,Idaho,6707.92
+849,849,35181,35181,Some College,Health Care and Social Assistance,185066370,22676,2012,Female,Idaho,8161.33
+850,850,35182,35182,Advanced Degree,Health Care and Social Assistance,143901797,13133,2012,Female,Idaho,10957.27
+851,851,35183,35183,Unavalble,Health Care and Social Assistance,28414613,7342,2012,Female,Idaho,3870.15
+852,852,35196,35196,All Education Categories,Accommodation and Food Services,83698115,21099,2012,Male,Idaho,3966.92
+853,853,35197,35197,Less Than High School,Accommodation and Food Services,11902580,2769,2012,Male,Idaho,4298.51
+854,854,35198,35198,High School Graduate,Accommodation and Food Services,22356909,4887,2012,Male,Idaho,4574.77
+855,855,35199,35199,Some College,Accommodation and Food Services,19413956,4038,2012,Male,Idaho,4807.81
+856,856,35200,35200,Advanced Degree,Accommodation and Food Services,10111247,1882,2012,Male,Idaho,5372.61
+857,857,35201,35201,Unavalble,Accommodation and Food Services,19913423,7523,2012,Male,Idaho,2647.01
+858,858,35202,35202,All Education Categories,Accommodation and Food Services,85335186,26958,2012,Female,Idaho,3165.49
+859,859,35203,35203,Less Than High School,Accommodation and Food Services,10172515,2961,2012,Female,Idaho,3435.5
+860,860,35204,35204,High School Graduate,Accommodation and Food Services,20512255,5712,2012,Female,Idaho,3591.08
+861,861,35205,35205,Some College,Accommodation and Food Services,20164619,5333,2012,Female,Idaho,3781.1
+862,862,35206,35206,Advanced Degree,Accommodation and Food Services,9606422,2400,2012,Female,Idaho,4002.68
+863,863,35207,35207,Unavalble,Accommodation and Food Services,24879374,10552,2012,Female,Idaho,2357.79
+864,864,36132,36132,All Education Categories,Educational Services,138026407,16086,2004,Male,Idaho,8580.53
+865,865,36133,36133,Less Than High School,Educational Services,4190641,772,2004,Male,Idaho,5428.29
+866,866,36134,36134,High School Graduate,Educational Services,22448885,3186,2004,Male,Idaho,7046.1
+867,867,36135,36135,Some College,Educational Services,35321906,4386,2004,Male,Idaho,8053.33
+868,868,36136,36136,Advanced Degree,Educational Services,74188862,6880,2004,Male,Idaho,10783.26
+869,869,36137,36137,Unavalble,Educational Services,1876114,862,2004,Male,Idaho,2176.47
+870,870,36138,36138,All Education Categories,Educational Services,202790672,34664,2004,Female,Idaho,5850.18
+871,871,36139,36139,Less Than High School,Educational Services,4826177,1419,2004,Female,Idaho,3401.11
+872,872,36140,36140,High School Graduate,Educational Services,38024886,8491,2004,Female,Idaho,4478.26
+873,873,36141,36141,Some College,Educational Services,59767791,11015,2004,Female,Idaho,5426.04
+874,874,36142,36142,Advanced Degree,Educational Services,95352923,11903,2004,Female,Idaho,8010.83
+875,875,36143,36143,Unavalble,Educational Services,4818895,1837,2004,Female,Idaho,2623.24
+876,876,36228,36228,All Education Categories,Accommodation,14397020,3220,2004,Male,Idaho,4471.12
+877,877,36229,36229,Less Than High School,Accommodation,1718302,409,2004,Male,Idaho,4201.23
+878,878,36230,36230,High School Graduate,Accommodation,4084143,857,2004,Male,Idaho,4765.63
+879,879,36231,36231,Some College,Accommodation,3807600,702,2004,Male,Idaho,5423.93
+880,880,36232,36232,Advanced Degree,Accommodation,2436458,390,2004,Male,Idaho,6247.33
+881,881,36233,36233,Unavalble,Accommodation,2350517,863,2004,Male,Idaho,2723.66
+882,882,36234,36234,All Education Categories,Accommodation,14253472,4576,2004,Female,Idaho,3114.83
+883,883,36235,36235,Less Than High School,Accommodation,1687061,593,2004,Female,Idaho,2844.96
+884,884,36236,36236,High School Graduate,Accommodation,4100276,1257,2004,Female,Idaho,3261.95
+885,885,36237,36237,Some College,Accommodation,3734552,1050,2004,Female,Idaho,3556.72
+886,886,36238,36238,Advanced Degree,Accommodation,1839943,428,2004,Female,Idaho,4298.93
+887,887,36239,36239,Unavalble,Accommodation,2891640,1249,2004,Female,Idaho,2315.16
+888,888,37308,37308,All Education Categories,Educational Services,139817151,16575,2005,Male,Idaho,8435.42
+889,889,37309,37309,Less Than High School,Educational Services,4381357,813,2005,Male,Idaho,5389.12
+890,890,37310,37310,High School Graduate,Educational Services,22966503,3297,2005,Male,Idaho,6965.88
+891,891,37311,37311,Some College,Educational Services,36488244,4567,2005,Male,Idaho,7989.54
+892,892,37312,37312,Advanced Degree,Educational Services,74199182,7081,2005,Male,Idaho,10478.63
+893,893,37313,37313,Unavalble,Educational Services,1781865,816,2005,Male,Idaho,2183.66
+894,894,37314,37314,All Education Categories,Educational Services,211536669,36289,2005,Female,Idaho,5829.22
+895,895,37315,37315,Less Than High School,Educational Services,5233975,1533,2005,Female,Idaho,3414.2
+896,896,37316,37316,High School Graduate,Educational Services,39949927,8891,2005,Female,Idaho,4493.3
+897,897,37317,37317,Some College,Educational Services,63088118,11592,2005,Female,Idaho,5442.38
+898,898,37318,37318,Advanced Degree,Educational Services,98101626,12411,2005,Female,Idaho,7904.41
+899,899,37319,37319,Unavalble,Educational Services,5163024,1862,2005,Female,Idaho,2772.84
+900,900,37404,37404,All Education Categories,Accommodation,15642466,3283,2005,Male,Idaho,4764.69
+901,901,37405,37405,Less Than High School,Accommodation,1961791,425,2005,Male,Idaho,4615.98
+902,902,37406,37406,High School Graduate,Accommodation,4483769,872,2005,Male,Idaho,5141.94
+903,903,37407,37407,Some College,Accommodation,4210282,741,2005,Male,Idaho,5681.89
+904,904,37408,37408,Advanced Degree,Accommodation,2622001,407,2005,Male,Idaho,6442.26
+905,905,37409,37409,Unavalble,Accommodation,2364622,838,2005,Male,Idaho,2821.74
+906,906,37410,37410,All Education Categories,Accommodation,15121619,4535,2005,Female,Idaho,3334.43
+907,907,37411,37411,Less Than High School,Accommodation,1834804,593,2005,Female,Idaho,3094.1
+908,908,37412,37412,High School Graduate,Accommodation,4299596,1237,2005,Female,Idaho,3475.83
+909,909,37413,37413,Some College,Accommodation,3994057,1045,2005,Female,Idaho,3822.06
+910,910,37414,37414,Advanced Degree,Accommodation,2086668,452,2005,Female,Idaho,4616.52
+911,911,37415,37415,Unavalble,Accommodation,2906493,1207,2005,Female,Idaho,2408.03
+912,912,38496,38496,All Education Categories,Educational Services,144847214,16645,2006,Male,Idaho,8702.15
+913,913,38497,38497,Less Than High School,Educational Services,4708287,815,2006,Male,Idaho,5777.04
+914,914,38498,38498,High School Graduate,Educational Services,24166803,3332,2006,Male,Idaho,7252.94
+915,915,38499,38499,Some College,Educational Services,38167243,4634,2006,Male,Idaho,8236.35
+916,916,38500,38500,Advanced Degree,Educational Services,75864150,7038,2006,Male,Idaho,10779.22
+917,917,38501,38501,Unavalble,Educational Services,1940731,825,2006,Male,Idaho,2352.4
+918,918,38502,38502,All Education Categories,Educational Services,221489293,37027,2006,Female,Idaho,5981.83
+919,919,38503,38503,Less Than High School,Educational Services,5742235,1594,2006,Female,Idaho,3602.41
+920,920,38504,38504,High School Graduate,Educational Services,41875194,8995,2006,Female,Idaho,4655.39
+921,921,38505,38505,Some College,Educational Services,66707949,11940,2006,Female,Idaho,5586.93
+922,922,38506,38506,Advanced Degree,Educational Services,101717779,12618,2006,Female,Idaho,8061.32
+923,923,38507,38507,Unavalble,Educational Services,5446136,1879,2006,Female,Idaho,2898.42
+924,924,38592,38592,All Education Categories,Accommodation,16251064,3081,2006,Male,Idaho,5274.61
+925,925,38593,38593,Less Than High School,Accommodation,2056432,407,2006,Male,Idaho,5052.66
+926,926,38594,38594,High School Graduate,Accommodation,4730536,834,2006,Male,Idaho,5672.11
+927,927,38595,38595,Some College,Accommodation,4315865,698,2006,Male,Idaho,6183.19
+928,928,38596,38596,Advanced Degree,Accommodation,2725757,371,2006,Male,Idaho,7347.05
+929,929,38597,38597,Unavalble,Accommodation,2422475,772,2006,Male,Idaho,3137.92
+930,930,38598,38598,All Education Categories,Accommodation,16856018,4572,2006,Female,Idaho,3686.79
+931,931,38599,38599,Less Than High School,Accommodation,2063914,609,2006,Female,Idaho,3389.02
+932,932,38600,38600,High School Graduate,Accommodation,4774006,1242,2006,Female,Idaho,3843.81
+933,933,38601,38601,Some College,Accommodation,4484972,1096,2006,Female,Idaho,4092.13
+934,934,38602,38602,Advanced Degree,Accommodation,2227923,444,2006,Female,Idaho,5017.84
+935,935,38603,38603,Unavalble,Accommodation,3305203,1181,2006,Female,Idaho,2798.65
+936,936,39684,39684,All Education Categories,Educational Services,151996452,16920,2007,Male,Idaho,8983.24
+937,937,39685,39685,Less Than High School,Educational Services,5153159,871,2007,Male,Idaho,5916.37
+938,938,39686,39686,High School Graduate,Educational Services,25526055,3428,2007,Male,Idaho,7446.34
+939,939,39687,39687,Some College,Educational Services,40400576,4741,2007,Male,Idaho,8521.53
+940,940,39688,39688,Advanced Degree,Educational Services,78927617,7055,2007,Male,Idaho,11187.47
+941,941,39689,39689,Unavalble,Educational Services,1989046,825,2007,Male,Idaho,2410.96
+942,942,39690,39690,All Education Categories,Educational Services,229779042,37422,2007,Female,Idaho,6140.21
+943,943,39691,39691,Less Than High School,Educational Services,6311782,1672,2007,Female,Idaho,3774.99
+944,944,39692,39692,High School Graduate,Educational Services,43679831,9033,2007,Female,Idaho,4835.58
+945,945,39693,39693,Some College,Educational Services,69765585,12086,2007,Female,Idaho,5772.43
+946,946,39694,39694,Advanced Degree,Educational Services,104007551,12577,2007,Female,Idaho,8269.66
+947,947,39695,39695,Unavalble,Educational Services,6014294,2055,2007,Female,Idaho,2926.66
+948,948,39780,39780,All Education Categories,Accommodation,18126729,3261,2007,Male,Idaho,5558.64
+949,949,39781,39781,Less Than High School,Accommodation,2425220,456,2007,Male,Idaho,5318.46
+950,950,39782,39782,High School Graduate,Accommodation,5321345,905,2007,Male,Idaho,5879.94
+951,951,39783,39783,Some College,Accommodation,4814011,759,2007,Male,Idaho,6342.57
+952,952,39784,39784,Advanced Degree,Accommodation,2894027,389,2007,Male,Idaho,7439.66
+953,953,39785,39785,Unavalble,Accommodation,2672127,753,2007,Male,Idaho,3548.64
+954,954,39786,39786,All Education Categories,Accommodation,18867051,4765,2007,Female,Idaho,3959.51
+955,955,39787,39787,Less Than High School,Accommodation,2430534,653,2007,Female,Idaho,3722.1
+956,956,39788,39788,High School Graduate,Accommodation,5181688,1285,2007,Female,Idaho,4032.44
+957,957,39789,39789,Some College,Accommodation,5037453,1145,2007,Female,Idaho,4399.52
+958,958,39790,39790,Advanced Degree,Accommodation,2535149,474,2007,Female,Idaho,5348.42
+959,959,39791,39791,Unavalble,Accommodation,3682227,1208,2007,Female,Idaho,3048.2
+960,960,40872,40872,All Education Categories,Educational Services,159665837,17353,2008,Male,Idaho,9201.05
+961,961,40873,40873,Less Than High School,Educational Services,5840398,939,2008,Male,Idaho,6219.81
+962,962,40874,40874,High School Graduate,Educational Services,27302838,3574,2008,Male,Idaho,7639.29
+963,963,40875,40875,Some College,Educational Services,43132054,4942,2008,Male,Idaho,8727.65
+964,964,40876,40876,Advanced Degree,Educational Services,81337051,7055,2008,Male,Idaho,11528.99
+965,965,40877,40877,Unavalble,Educational Services,2053495,842,2008,Male,Idaho,2438.83
+966,966,40878,40878,All Education Categories,Educational Services,241573283,38083,2008,Female,Idaho,6343.34
+967,967,40879,40879,Less Than High School,Educational Services,7085603,1792,2008,Female,Idaho,3954.02
+968,968,40880,40880,High School Graduate,Educational Services,46301073,9222,2008,Female,Idaho,5020.72
+969,969,40881,40881,Some College,Educational Services,74068457,12376,2008,Female,Idaho,5984.85
+970,970,40882,40882,Advanced Degree,Educational Services,108378465,12701,2008,Female,Idaho,8533.07
+971,971,40883,40883,Unavalble,Educational Services,5739687,1993,2008,Female,Idaho,2879.92
+972,972,40968,40968,All Education Categories,Accommodation,19027962,3395,2008,Male,Idaho,5604.7
+973,973,40969,40969,Less Than High School,Accommodation,2560434,480,2008,Male,Idaho,5334.24
+974,974,40970,40970,High School Graduate,Accommodation,5604767,940,2008,Male,Idaho,5962.52
+975,975,40971,40971,Some College,Accommodation,4996452,786,2008,Male,Idaho,6356.81
+976,976,40972,40972,Advanced Degree,Accommodation,3078537,399,2008,Male,Idaho,7715.63
+977,977,40973,40973,Unavalble,Accommodation,2787771,789,2008,Male,Idaho,3533.3
+978,978,40974,40974,All Education Categories,Accommodation,19098569,4910,2008,Female,Idaho,3889.73
+979,979,40975,40975,Less Than High School,Accommodation,2553429,708,2008,Female,Idaho,3606.54
+980,980,40976,40976,High School Graduate,Accommodation,5335396,1303,2008,Female,Idaho,4094.7
+981,981,40977,40977,Some College,Accommodation,5144716,1211,2008,Female,Idaho,4248.32
+982,982,40978,40978,Advanced Degree,Accommodation,2581832,524,2008,Female,Idaho,4927.16
+983,983,40979,40979,Unavalble,Accommodation,3483196,1165,2008,Female,Idaho,2989.87
+984,984,42060,42060,All Education Categories,Educational Services,162250619,17445,2009,Male,Idaho,9300.69
+985,985,42061,42061,Less Than High School,Educational Services,6392759,1002,2009,Male,Idaho,6380.0
+986,986,42062,42062,High School Graduate,Educational Services,28499561,3677,2009,Male,Idaho,7750.76
+987,987,42063,42063,Some College,Educational Services,44131127,4987,2009,Male,Idaho,8849.23
+988,988,42064,42064,Advanced Degree,Educational Services,81134794,6920,2009,Male,Idaho,11724.68
+989,989,42065,42065,Unavalble,Educational Services,2092379,859,2009,Male,Idaho,2435.83
+990,990,42066,42066,All Education Categories,Educational Services,246178945,38114,2009,Female,Idaho,6459.02
+991,991,42067,42067,Less Than High School,Educational Services,7754751,1895,2009,Female,Idaho,4092.22
+992,992,42068,42068,High School Graduate,Educational Services,47793765,9244,2009,Female,Idaho,5170.25
+993,993,42069,42069,Some College,Educational Services,76496922,12500,2009,Female,Idaho,6119.75
+994,994,42070,42070,Advanced Degree,Educational Services,108902799,12605,2009,Female,Idaho,8639.65
+995,995,42071,42071,Unavalble,Educational Services,5230709,1870,2009,Female,Idaho,2797.17
+996,996,42156,42156,All Education Categories,Accommodation,16669502,3092,2009,Male,Idaho,5391.17
+997,997,42157,42157,Less Than High School,Accommodation,2325833,463,2009,Male,Idaho,5023.4
+998,998,42158,42158,High School Graduate,Accommodation,5025849,878,2009,Male,Idaho,5724.2
+999,999,42159,42159,Some College,Accommodation,4430660,725,2009,Male,Idaho,6111.26
+1000,1000,42160,42160,Advanced Degree,Accommodation,2736873,379,2009,Male,Idaho,7221.3
+1001,1001,42161,42161,Unavalble,Accommodation,2150288,647,2009,Male,Idaho,3323.47
+1002,1002,42162,42162,All Education Categories,Accommodation,16004783,4344,2009,Female,Idaho,3684.34
+1003,1003,42163,42163,Less Than High School,Accommodation,2232401,659,2009,Female,Idaho,3387.56
+1004,1004,42164,42164,High School Graduate,Accommodation,4527097,1198,2009,Female,Idaho,3778.88
+1005,1005,42165,42165,Some College,Accommodation,4420458,1077,2009,Female,Idaho,4104.42
+1006,1006,42166,42166,Advanced Degree,Accommodation,2294739,461,2009,Female,Idaho,4977.74
+1007,1007,42167,42167,Unavalble,Accommodation,2530089,949,2009,Female,Idaho,2666.06
+1008,1008,43248,43248,All Education Categories,Educational Services,162582426,17702,2010,Male,Idaho,9184.41
+1009,1009,43249,43249,Less Than High School,Educational Services,6862428,1094,2010,Male,Idaho,6272.79
+1010,1010,43250,43250,High School Graduate,Educational Services,29439930,3840,2010,Male,Idaho,7666.65
+1011,1011,43251,43251,Some College,Educational Services,44543985,5094,2010,Male,Idaho,8744.4
+1012,1012,43252,43252,Advanced Degree,Educational Services,79690602,6866,2010,Male,Idaho,11606.55
+1013,1013,43253,43253,Unavalble,Educational Services,2045481,807,2010,Male,Idaho,2534.67
+1014,1014,43254,43254,All Education Categories,Educational Services,246849976,38468,2010,Female,Idaho,6417.02
+1015,1015,43255,43255,Less Than High School,Educational Services,8392056,2008,2010,Female,Idaho,4179.31
+1016,1016,43256,43256,High School Graduate,Educational Services,48793648,9375,2010,Female,Idaho,5204.66
+1017,1017,43257,43257,Some College,Educational Services,77614047,12727,2010,Female,Idaho,6098.38
+1018,1018,43258,43258,Advanced Degree,Educational Services,107188676,12551,2010,Female,Idaho,8540.25
+1019,1019,43259,43259,Unavalble,Educational Services,4861549,1808,2010,Female,Idaho,2688.91
+1020,1020,43344,43344,All Education Categories,Accommodation,13799198,3026,2010,Male,Idaho,4560.21
+1021,1021,43345,43345,Less Than High School,Accommodation,1913172,424,2010,Male,Idaho,4512.2
+1022,1022,43346,43346,High School Graduate,Accommodation,4236340,850,2010,Male,Idaho,4983.93
+1023,1023,43347,43347,Some College,Accommodation,3766545,723,2010,Male,Idaho,5209.61
+1024,1024,43348,43348,Advanced Degree,Accommodation,2260124,394,2010,Male,Idaho,5736.36
+1025,1025,43349,43349,Unavalble,Accommodation,1623016,636,2010,Male,Idaho,2551.91
+1026,1026,43350,43350,All Education Categories,Accommodation,14843586,4304,2010,Female,Idaho,3448.79
+1027,1027,43351,43351,Less Than High School,Accommodation,2063304,639,2010,Female,Idaho,3228.96
+1028,1028,43352,43352,High School Graduate,Accommodation,4291101,1195,2010,Female,Idaho,3590.88
+1029,1029,43353,43353,Some College,Accommodation,4220887,1101,2010,Female,Idaho,3833.68
+1030,1030,43354,43354,Advanced Degree,Accommodation,2203736,507,2010,Female,Idaho,4346.62
+1031,1031,43355,43355,Unavalble,Accommodation,2064558,862,2010,Female,Idaho,2395.08
+1032,1032,44424,44424,All Education Categories,Educational Services,162732204,17714,2011,Male,Idaho,9186.64
+1033,1033,44425,44425,Less Than High School,Educational Services,7211508,1132,2011,Male,Idaho,6370.59
+1034,1034,44426,44426,High School Graduate,Educational Services,29791009,3907,2011,Male,Idaho,7625.03
+1035,1035,44427,44427,Some College,Educational Services,44873280,5135,2011,Male,Idaho,8738.71
+1036,1036,44428,44428,Advanced Degree,Educational Services,78895494,6792,2011,Male,Idaho,11615.94
+1037,1037,44429,44429,Unavalble,Educational Services,1960913,749,2011,Male,Idaho,2618.04
+1038,1038,44430,44430,All Education Categories,Educational Services,243051408,37948,2011,Female,Idaho,6404.85
+1039,1039,44431,44431,Less Than High School,Educational Services,8869151,2062,2011,Female,Idaho,4301.24
+1040,1040,44432,44432,High School Graduate,Educational Services,48882959,9365,2011,Female,Idaho,5219.75
+1041,1041,44433,44433,Some College,Educational Services,77205765,12653,2011,Female,Idaho,6101.78
+1042,1042,44434,44434,Advanced Degree,Educational Services,103629079,12308,2011,Female,Idaho,8419.65
+1043,1043,44435,44435,Unavalble,Educational Services,4464454,1559,2011,Female,Idaho,2863.67
+1044,1044,44520,44520,All Education Categories,Accommodation,14302854,3031,2011,Male,Idaho,4718.86
+1045,1045,44521,44521,Less Than High School,Accommodation,2018905,444,2011,Male,Idaho,4547.08
+1046,1046,44522,44522,High School Graduate,Accommodation,4339612,845,2011,Male,Idaho,5135.64
+1047,1047,44523,44523,Some College,Accommodation,3857862,720,2011,Male,Idaho,5358.14
+1048,1048,44524,44524,Advanced Degree,Accommodation,2506168,404,2011,Male,Idaho,6203.39
+1049,1049,44525,44525,Unavalble,Accommodation,1580307,620,2011,Male,Idaho,2548.88
+1050,1050,44526,44526,All Education Categories,Accommodation,15390239,4327,2011,Female,Idaho,3556.79
+1051,1051,44527,44527,Less Than High School,Accommodation,2093275,640,2011,Female,Idaho,3270.74
+1052,1052,44528,44528,High School Graduate,Accommodation,4380242,1192,2011,Female,Idaho,3674.7
+1053,1053,44529,44529,Some College,Accommodation,4502757,1110,2011,Female,Idaho,4056.54
+1054,1054,44530,44530,Advanced Degree,Accommodation,2305894,524,2011,Female,Idaho,4400.56
+1055,1055,44531,44531,Unavalble,Accommodation,2108072,862,2011,Female,Idaho,2445.56
+1056,1056,45600,45600,All Education Categories,Educational Services,174486552,18147,2012,Male,Idaho,9615.17
+1057,1057,45601,45601,Less Than High School,Educational Services,8328973,1248,2012,Male,Idaho,6673.86
+1058,1058,45602,45602,High School Graduate,Educational Services,32217568,4096,2012,Male,Idaho,7865.62
+1059,1059,45603,45603,Some College,Educational Services,47970659,5253,2012,Male,Idaho,9132.05
+1060,1060,45604,45604,Advanced Degree,Educational Services,83846242,6791,2012,Male,Idaho,12346.67
+1061,1061,45605,45605,Unavalble,Educational Services,2123110,760,2012,Male,Idaho,2793.57
+1062,1062,45606,45606,All Education Categories,Educational Services,252564646,38553,2012,Female,Idaho,6551.1
+1063,1063,45607,45607,Less Than High School,Educational Services,9934551,2223,2012,Female,Idaho,4468.98
+1064,1064,45608,45608,High School Graduate,Educational Services,51164169,9550,2012,Female,Idaho,5357.5
+1065,1065,45609,45609,Some College,Educational Services,80683004,12861,2012,Female,Idaho,6273.46
+1066,1066,45610,45610,Advanced Degree,Educational Services,105952025,12305,2012,Female,Idaho,8610.49
+1067,1067,45611,45611,Unavalble,Educational Services,4830896,1614,2012,Female,Idaho,2993.12
+1068,1068,45696,45696,All Education Categories,Accommodation,15905814,3184,2012,Male,Idaho,4995.54
+1069,1069,45697,45697,Less Than High School,Accommodation,2253604,473,2012,Male,Idaho,4764.49
+1070,1070,45698,45698,High School Graduate,Accommodation,4821961,904,2012,Male,Idaho,5334.03
+1071,1071,45699,45699,Some College,Accommodation,4336164,754,2012,Male,Idaho,5750.88
+1072,1072,45700,45700,Advanced Degree,Accommodation,2779587,410,2012,Male,Idaho,6779.48
+1073,1073,45701,45701,Unavalble,Accommodation,1714497,643,2012,Male,Idaho,2666.4
+1074,1074,45702,45702,All Education Categories,Accommodation,17005283,4480,2012,Female,Idaho,3795.82
+1075,1075,45703,45703,Less Than High School,Accommodation,2307968,665,2012,Female,Idaho,3470.63
+1076,1076,45704,45704,High School Graduate,Accommodation,4775556,1213,2012,Female,Idaho,3936.98
+1077,1077,45705,45705,Some College,Accommodation,4992282,1154,2012,Female,Idaho,4326.07
+1078,1078,45706,45706,Advanced Degree,Accommodation,2558913,545,2012,Female,Idaho,4695.25
+1079,1079,45707,45707,Unavalble,Accommodation,2370563,903,2012,Female,Idaho,2625.21
