@@ -5,7 +5,7 @@ var make_inds_map_with_counties = function(industry) {
 //    d3.select("svg").remove();
     d3.selectAll("svg > *").remove()
     document.getElementById('my_p').innerHTML = "Displaying US "+industry+" Data From 2012"
-    d3.selectAll(".header").remove()
+    d3.selectAll("#header").remove()
     document.getElementById('tooltip').style.visibility = "hidden";
 //    document.getElementById('header').style.visibility = "hidden";
     
