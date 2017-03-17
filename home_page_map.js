@@ -60,7 +60,7 @@ d3.csv("/Census-Data-Explorer/data_for_US/US_State_pop_00-09.csv", function(data
     }
     
 // Make colorScaler
-var colorScaler = d3.scale.linear()
+var colorScaler = d3.scaleLinear()
                         .domain([-.02,.04])
                         .range(["red","black"]);
     

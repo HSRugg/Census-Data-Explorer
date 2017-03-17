@@ -30,7 +30,7 @@ var make_pie_for_state = function(state) {
             radius = width/3;
 
 //         color range
-        var color = d3.scale.ordinal()
+        var color = d3.scaleOrdinal()
             .range(["#BBDEFB", "#90CAF9", "#64B5F6", "#42A5F5", "#2196F3", "#1E88E5", "#1976D2"]);
 
          
