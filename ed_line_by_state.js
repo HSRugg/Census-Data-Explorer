@@ -55,8 +55,8 @@ var make_line_for_state = function(state) {
         },
         xScale = d3.scaleLinear().range([MARGINS.left, WIDTH - MARGINS.right]).domain([2004,2012]),
         yScale = d3.scaleLinear().range([HEIGHT - MARGINS.top, MARGINS.bottom]).domain([0,maxpay*1.2]),
-        xAxis = d3.axisLeft().scale(xScale).tickFormat(d3.format("d")),
-        yAxis = d3.axisBottom().scale(yScale);
+        xAxis = d3.axisBottom().scale(xScale).tickFormat(d3.format("d")),
+        yAxis = d3.axisLeft().scale(yScale);
 
     vis.append("svg:g")
         .attr("class", "axis")
