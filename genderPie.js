@@ -3,7 +3,8 @@ console.log('im here two')
 var make_pie_for_state = function(state) {
     var year = "2012";
     var path_to_data = path_to_folder+state+"_small_all_eds.csv";
-        d3.csv(path_to_data, function(data) {
+        d3.csv(path_to_data, function(error, data) {
+  if (error) throw error;
 
         var filtered_Women = data.filter(function(d) { 
             if( d["education"] != "All Education Categories" &&
