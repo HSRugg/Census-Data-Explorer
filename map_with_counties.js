@@ -31,6 +31,20 @@ var make_inds_map_with_counties = function(industry) {
     function ready(error, us) {
         console.log(error);
       if (error) throw error;
+        
+    rivers = topojson.feature(fra, fra.objects.rivers),
+
+    //Append rivers
+    svg.append("path")
+        .datum(rivers)
+        .attr("d", path)
+
+    svg.selectAll(".rivers")
+        .data(topojson.feature(fra, fra.objects.rivers).features)
+      .enter().append("path")
+        .attr("class", function(d) { return "rivers"; })
+        .attr("data-name-en", function(d) { return d.properties.name; })
+        .attr("d", path);
 
       svg.append("g")
           .attr("class", "counties")

@@ -15,7 +15,12 @@ body {
 	border-radius: 8px;           
 	pointer-events: none; 
     }
-    
+    .rivers { 
+      fill: none;
+      fill-opacity: .1;
+      stroke-width:1px;
+      stroke: #C6ECFF;
+     }
     .axis {
       fill: #333;
       stroke: #333;
@@ -113,7 +118,6 @@ body {
         padding-left: 1px;
         padding-right: 5px;
         width: 700px;
-        
         
     }
     #pie_container { 
