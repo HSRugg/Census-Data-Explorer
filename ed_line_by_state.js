@@ -79,7 +79,7 @@ var make_line_for_state = function(state) {
             return xScale(d.year)})
         .y(function(d) {
             return yScale(d.Average_pay)})
-        .interpolate("basis");
+        .curve(d3.curveBasis);
 
     vis.append('svg:path')
         .attr('d', lineGen(data.filter(filter_for_male).filter(filter_for_no_high)))
