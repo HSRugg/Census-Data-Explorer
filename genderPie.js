@@ -48,7 +48,7 @@ var make_pie_for_state = function(state) {
             .outerRadius(radius - 120)
             .innerRadius(radius - 120);
             
-        var labelArc2 = d3.svgArc()
+        var labelArc2 = d3.arc()
             .outerRadius(radius+40)
             .innerRadius(radius+40);
 
