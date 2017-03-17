@@ -16,11 +16,17 @@ var make_inds_map_with_counties = function(industry) {
     var my_map = d3.map();
 
     var path = d3.geoPath();
-    console.log(path_to_data);
+    console.log("path to data: " + path_to_data);
     var color = d3.scaleLinear()
         .domain([0, 30115])
         .range(["#BBDEFB", "darkblue"]);
 
+    
+    
+    document.getElementById('my_p').innerHTML = "Displaying US "+industry+" Data From 2012"
+
+    document.getElementById('tooltip').style.visibility = "hidden";
+    document.getElementById('header').style.visibility = "hidden";
 
     d3.queue()
         .defer(d3.json, "https://d3js.org/us-10m.v1.json")
