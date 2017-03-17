@@ -16,15 +16,15 @@ var make_inds_map_with_counties = function(industry) {
     var my_map = d3.map();
 
     var path = d3.geoPath();
-    console.log(path_to_data)
+    console.log(path_to_data);
     var color = d3.scaleLinear()
-        .domain([0, 100115])
+        .domain([0, 5115])
         .range(["#BBDEFB", "darkblue"]);
 
 
     d3.queue()
         .defer(d3.json, "https://d3js.org/us-10m.v1.json")
-        .defer(d3.csv, path_to_folder, function(d) { my_map.set(d.id, +d.rate); })
+        .defer(d3.csv, path_to_data, function(d) { my_map.set(d.id, +d.rate); })
         .await(ready);
                 
     function ready(error, us) {
