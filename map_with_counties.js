@@ -32,7 +32,7 @@ var make_inds_map_with_counties = function(industry) {
         console.log(error);
       if (error) throw error;
         
-    rivers = topojson.feature(fra, fra.objects.rivers),
+    rivers = topojson.feature(us, us.objects.rivers),
 
     //Append rivers
     svg.append("path")
