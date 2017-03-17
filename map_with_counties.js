@@ -25,6 +25,7 @@ var make_inds_map_with_counties = function(industry) {
     console.log(my_map)
     
     function ready(error, us) {
+        console.log(error)
       if (error) throw error;
 
       svg.append("g")
