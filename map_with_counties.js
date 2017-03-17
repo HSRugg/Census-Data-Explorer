@@ -19,7 +19,7 @@ var make_inds_map_with_counties = function(industry) {
     var new_svg = d3.select("center").append("svg");
     var svg = d3.select("svg"),
          width = 960,
-        height = 600;
+        height = 800;
 
 //        width = +svg.attr("width"),
 //        height = +svg.attr("height");

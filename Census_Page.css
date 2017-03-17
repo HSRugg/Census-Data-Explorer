@@ -16,14 +16,14 @@ body {
 	pointer-events: none; 
     }
     .counties {
-  fill: none;
-}
+      fill: none;
+    }
 
-.states {
-  fill: none;
-  stroke: #fff;
-  stroke-linejoin: round;
-}
+    .states {
+      fill: none;
+      stroke: #fff;
+      stroke-linejoin: round;
+    }
     .axis {
       fill: #333;
       stroke: #333;
