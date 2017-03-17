@@ -1,9 +1,10 @@
-
+local_path = ""
+console.log("hello")
 local_path = "/censues_page"
 var make_inds_map_with_counties = function(industry) {
-    d3.select("svg").remove();
+//    d3.select("svg").remove();
 
-    var path_to_folder = "/Census-Data-Explorer/data_for_US/"
+    var path_to_folder = local_path+"/Census-Data-Explorer/data_for_US/"
 //    var year = "2012";
     var path_to_data = path_to_folder+industry+"_county_emp.csv";
                         
@@ -28,7 +29,7 @@ var make_inds_map_with_counties = function(industry) {
     console.log(my_map)
     
     function ready(error, us) {
-        console.log(error)
+        console.log(error);
       if (error) throw error;
 
       svg.append("g")
@@ -50,3 +51,4 @@ var make_inds_map_with_counties = function(industry) {
             
 };
 }
+make_inds_map_with_counties("Construction")

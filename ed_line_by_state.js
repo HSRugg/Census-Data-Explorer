@@ -52,8 +52,8 @@ var make_line_for_state = function(state) {
             bottom: 30,
             left: 80
         },
-        xScale = d3.scale.linear().range([MARGINS.left, WIDTH - MARGINS.right]).domain([2004,2012]),
-        yScale = d3.scale.linear().range([HEIGHT - MARGINS.top, MARGINS.bottom]).domain([0,maxpay*1.2]),
+        xScale = d3.scaleLinear().range([MARGINS.left, WIDTH - MARGINS.right]).domain([2004,2012]),
+        yScale = d3.scaleLinear().range([HEIGHT - MARGINS.top, MARGINS.bottom]).domain([0,maxpay*1.2]),
         xAxis = d3.svg.axis().scale(xScale).tickFormat(d3.format("d")),
         yAxis = d3.svg.axis().scale(yScale).orient("left");
 
