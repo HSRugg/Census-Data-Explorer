@@ -1,7 +1,8 @@
 var make_line_for_state = function(state) {
     d3.select("svg").remove();
     var path_to_data = "/Census-Data-Explorer/data_by_state/"+state+"_small_all_eds.csv"
-    d3.csv(path_to_data, function(data) {
+    d3.csv(path_to_data, function(error, data) {
+    if (error) throw error;
     console.log(state);
 
 
