@@ -3,11 +3,12 @@ console.log("hello")
 //local_path = "/censues_page"
 var make_inds_map_with_counties = function(industry) {
 //    d3.select("svg").remove();
-
+    d3.selectAll("svg > *").remove()
     var path_to_folder = local_path+"/Census-Data-Explorer/data_for_US/"
 //    var year = "2012";
     var path_to_data = path_to_folder+industry+"_county_emp.csv";
-                        
+    
+    var new_svg = d3.select("body").append("svg");
     var svg = d3.select("svg"),
         width = +svg.attr("width"),
         height = +svg.attr("height");
