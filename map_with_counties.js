@@ -1,5 +1,8 @@
+
 local_path = "/censues_page"
 var make_inds_map_with_counties = function(industry) {
+    d3.select("svg").remove();
+
     var path_to_folder = "/Census-Data-Explorer/data_for_US/"
 //    var year = "2012";
     var path_to_data = path_to_folder+industry+"_county_emp.csv";
