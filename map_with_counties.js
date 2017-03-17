@@ -24,16 +24,13 @@ var make_inds_map_with_counties = function(industry) {
 
     d3.queue()
         .defer(d3.json, "https://d3js.org/us-10m.v1.json")
-        .defer(d3.csv, path_to_data, function(d) { my_map.set(d.id, +d.rate); })
+        .defer(d3.csv, "/Census-Data-Explorer/data_for_US/Construction_county_emp.csv", function(d) { my_map.set(d.id, +d.rate); })
         .await(ready);
-            
-    console.log(my_map)
-    
+                
     function ready(error, us) {
         console.log(error);
       if (error) throw error;
         
-
       svg.append("g")
           .attr("class", "counties")
         .selectAll("path")
