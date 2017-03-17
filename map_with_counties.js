@@ -4,14 +4,25 @@ console.log("hello")
 var make_inds_map_with_counties = function(industry) {
 //    d3.select("svg").remove();
     d3.selectAll("svg > *").remove()
+    document.getElementById('my_p').innerHTML = "Displaying US "+industry+" Data From 2012"
+    d3.selectAll(".header").remove()
+    document.getElementById('tooltip').style.visibility = "hidden";
+//    document.getElementById('header').style.visibility = "hidden";
+    
+    
     var path_to_folder = local_path+"/Census-Data-Explorer/data_for_US/"
 //    var year = "2012";
     var path_to_data = path_to_folder+industry+"_county_emp.csv";
     
+    
+    
     var new_svg = d3.select("center").append("svg");
     var svg = d3.select("svg"),
-        width = +svg.attr("width"),
-        height = +svg.attr("height");
+         width = 960,
+        height = 600;
+
+//        width = +svg.attr("width"),
+//        height = +svg.attr("height");
 
     var my_map = d3.map();
 
@@ -23,10 +34,6 @@ var make_inds_map_with_counties = function(industry) {
 
     
     
-    document.getElementById('my_p').innerHTML = "Displaying US "+industry+" Data From 2012"
-
-    document.getElementById('tooltip').style.visibility = "hidden";
-    document.getElementById('header').style.visibility = "hidden";
 
     d3.queue()
         .defer(d3.json, "https://d3js.org/us-10m.v1.json")
