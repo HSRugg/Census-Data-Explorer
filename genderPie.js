@@ -54,12 +54,12 @@ var make_pie_for_state = function(state) {
             .innerRadius(radius+40);
 
         // generate pie chart and donut chart
-        var pie = d3.layout.pie()
+        var pie = d3.pie()
             .sort(null)
             .value(function(d) { return d.Emp; });
         
         // generate pie chart and donut chart
-        var pie2 = d3.layout.pie()
+        var pie2 = d3.pie()
             .sort(null)
             .value(function(d) { return d.Emp; });
 
