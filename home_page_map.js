@@ -1,5 +1,5 @@
 var width = 1000;
-var height = 500;
+var height = 600;
 // D3 Projection
 var projection = d3.geoAlbersUsa()
 				   .translate([width/2, height/2])    // translate to center of screen
