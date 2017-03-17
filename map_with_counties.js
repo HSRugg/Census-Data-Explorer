@@ -22,7 +22,7 @@ var make_inds_map_with_counties = function(industry) {
 
     d3.queue()
         .defer(d3.json, "https://d3js.org/us-10m.v1.json")
-        .defer(d3.csv(path_to_data, function(data) { my_map.set(d.id, +d.rate); })
+        .defer(d3.csv(path_to_data, function(data) { my_map.set(d.id, +d.rate); }))
         .await(ready);
             
     console.log(my_map)
