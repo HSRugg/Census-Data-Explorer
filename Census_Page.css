@@ -15,12 +15,15 @@ body {
 	border-radius: 8px;           
 	pointer-events: none; 
     }
-    .rivers { 
-      fill: none;
-      fill-opacity: .1;
-      stroke-width:1px;
-      stroke: #C6ECFF;
-     }
+    .counties {
+  fill: none;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
     .axis {
       fill: #333;
       stroke: #333;

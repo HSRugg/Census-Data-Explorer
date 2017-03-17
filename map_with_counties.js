@@ -24,7 +24,7 @@ var make_inds_map_with_counties = function(industry) {
 
     d3.queue()
         .defer(d3.json, "https://d3js.org/us-10m.v1.json")
-        .defer(d3.csv, "/Census-Data-Explorer/data_for_US/Construction_county_emp.csv", function(d) { my_map.set(d.id, +d.rate); })
+        .defer(d3.csv, path_to_folder, function(d) { my_map.set(d.id, +d.rate); })
         .await(ready);
                 
     function ready(error, us) {
