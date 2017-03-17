@@ -1,4 +1,4 @@
-
+local_path = "/censues_page"
 var make_inds_map_with_counties = function(industry) {
     var path_to_folder = "/Census-Data-Explorer/data_for_US/"
 //    var year = "2012";
@@ -11,7 +11,7 @@ var make_inds_map_with_counties = function(industry) {
     var my_map = d3.map();
 
     var path = d3.geoPath();
-
+    console.log(path_to_data)
     var color = d3.scaleLinear()
         .domain([0, 5115])
         .range(["#BBDEFB", "darkblue"]);
