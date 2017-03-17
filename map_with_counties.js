@@ -1,6 +1,6 @@
 local_path = ""
 console.log("hello")
-local_path = "/censues_page"
+//local_path = "/censues_page"
 var make_inds_map_with_counties = function(industry) {
 //    d3.select("svg").remove();
 
@@ -51,4 +51,4 @@ var make_inds_map_with_counties = function(industry) {
             
 };
 }
-make_inds_map_with_counties("Construction")
+//make_inds_map_with_counties("Construction")
