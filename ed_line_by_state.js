@@ -74,7 +74,7 @@ var make_line_for_state = function(state) {
         .attr("transform", "translate(" + (MARGINS.left) + ",0)")
         .call(yAxis);
 
-    var lineGen = d3.svgLine()
+    var lineGen = d3.line()
         .x(function(d) {
             return xScale(d.year)})
         .y(function(d) {
