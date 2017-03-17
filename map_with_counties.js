@@ -18,7 +18,7 @@ var make_inds_map_with_counties = function(industry) {
     var path = d3.geoPath();
     console.log(path_to_data)
     var color = d3.scaleLinear()
-        .domain([0, 5115])
+        .domain([0, 100115])
         .range(["#BBDEFB", "darkblue"]);
 
 
