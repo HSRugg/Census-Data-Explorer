@@ -1,6 +1,7 @@
-var path_to_folder = "/Census-Data-Explorer/data_for_US/"
-industry = "Construction"
+
 var make_inds_map_with_counties = function(industry) {
+    var path_to_folder = "/Census-Data-Explorer/data_for_US/"
+
     var year = "2012";
     var path_to_data = path_to_folder+industry+"_county_emp.csv";
         d3.csv(path_to_data, function(data) {
@@ -15,6 +16,3 @@ var make_inds_map_with_counties = function(industry) {
 
 });
 }
-
-
-make_inds_map_with_counties()
