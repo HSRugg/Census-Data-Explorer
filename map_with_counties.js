@@ -8,7 +8,7 @@ var make_inds_map_with_counties = function(industry) {
 //    var year = "2012";
     var path_to_data = path_to_folder+industry+"_county_emp.csv";
     
-    var new_svg = d3.select("body").append("svg");
+    var new_svg = d3.select("center").append("svg");
     var svg = d3.select("svg"),
         width = +svg.attr("width"),
         height = +svg.attr("height");
@@ -18,7 +18,7 @@ var make_inds_map_with_counties = function(industry) {
     var path = d3.geoPath();
     console.log(path_to_data);
     var color = d3.scaleLinear()
-        .domain([0, 5115])
+        .domain([0, 30115])
         .range(["#BBDEFB", "darkblue"]);
 
 
@@ -39,7 +39,7 @@ var make_inds_map_with_counties = function(industry) {
           .attr("fill", function(d) { console.log(d.id); return color(my_map.get(d.id)); })
           .attr("d", path)
         .append("title")
-          .text(function(d) { return d.rate + "%"; });
+          .text(function(d) { return d.id + "%"; });
 
       svg.append("path")
           .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
