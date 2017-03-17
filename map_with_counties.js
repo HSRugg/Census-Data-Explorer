@@ -40,7 +40,7 @@ var make_inds_map_with_counties = function(industry) {
         .attr("d", path)
 
     svg.selectAll(".rivers")
-        .data(topojson.feature(fra, fra.objects.rivers).features)
+        .data(topojson.feature(us, us.objects.rivers).features)
       .enter().append("path")
         .attr("class", function(d) { return "rivers"; })
         .attr("data-name-en", function(d) { return d.properties.name; })
