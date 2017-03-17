@@ -34,21 +34,21 @@ var make_pie_for_state = function(state) {
             .range(["#BBDEFB", "#90CAF9", "#64B5F6", "#42A5F5", "#2196F3", "#1E88E5", "#1976D2"]);
 
          
-        var arc = d3.svg.arc()
+        var arc = d3.svgArc()
             .outerRadius(radius - 10)
             .innerRadius(0);
 
         // donut chart arc
-        var arc2 = d3.svg.arc()
+        var arc2 = d3.svgArc()
             .outerRadius(radius - 10)
             .innerRadius(radius - 70);
 
         // arc for the labels position
-        var labelArc1 = d3.svg.arc()
+        var labelArc1 = d3.svgArc()
             .outerRadius(radius - 120)
             .innerRadius(radius - 120);
             
-        var labelArc2 = d3.svg.arc()
+        var labelArc2 = d3.svgArc()
             .outerRadius(radius+40)
             .innerRadius(radius+40);
 
