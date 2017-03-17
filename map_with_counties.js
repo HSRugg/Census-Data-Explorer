@@ -47,5 +47,5 @@ var make_inds_map_with_counties = function(industry) {
             
             
             
-});
+};
 }
