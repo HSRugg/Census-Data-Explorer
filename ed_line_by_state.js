@@ -162,27 +162,22 @@ var make_line_for_state = function(state) {
       .attr('stroke-width', 1)
       .attr("opacity", .9)
       .attr("x", legenedX)
-      .attr("y", 4)
+      .attr("y", 4) 
+
+
    
-   legened_one.append("line")
-      .attr("classs", "legened_two_line")
-      .attr("x1", 20)
-      .attr("x2", 60)
-      .attr("y1", function (d, i) {return 20})
-      .attr("y2", function (d, i) {return 20})
-      .attr('stroke-width', 2)
-      .attr('fill', 'black')
-      .attr('stroke', 'black');  
-   
+var ed_list = ["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"]
+        
+for (i = 0; i < ed_list.length; i++) { 
+
     vis.append("line")
       .attr("x1", legenedX+ 90)
       .attr("x2", legenedX+ 105)
-      .attr("y1", 25)
-      .attr("y2", 25)
-      .style("stroke-dasharray", (3,3))
+      .attr("y1", 5+i*20)
+      .attr("y2", 5+i*20)
       .attr('stroke-width', 2)
       .style("stroke", 'black');  
-        
+   }     
         //Legend Male - Female
     var legend_two = vis.append("rect")
       .attr("width","100px")
