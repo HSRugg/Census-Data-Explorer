@@ -155,13 +155,13 @@ var make_line_for_state = function(state) {
 //        .call(d3.legend);
       
    var legened_one = vis.append("rect") 
-      .attr("width","100px")
+      .attr("width","140px")
       .attr("height","72px")
       .attr('fill', 'white')
       .attr('stroke', 'black')
       .attr('stroke-width', 1)
       .attr("opacity", .9)
-      .attr("x", legenedX)
+      .attr("x", legenedX-40)
       .attr("y", 4) 
 
 var ed_list = ["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"];
@@ -182,7 +182,7 @@ for (i = 0; i < ed_list.length; i++) {
       .attr("stroke", function () { return (color_scale(ed_list[i])); });
     
     vis.append("text")
-      .attr("x", legenedX+10)
+      .attr("x", legenedX+70)
       .attr("y", 15+i*12)
       .attr("dy", ".35em")
       .style("text-anchor", "end")
