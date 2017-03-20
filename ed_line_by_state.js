@@ -11,7 +11,11 @@ var make_line_for_state = function(state) {
         if(d["industry"]=="00")
         { return d; } 
     })
+    
+    var ed_list = ["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"]
+    
     var color_scale = d3.scaleOrdinal()
+            .domain(ed_list)
             .range(["green", "blue", "red", "orange", "black"]);
     // clean data types
     data.forEach(function(d) {
@@ -166,8 +170,6 @@ var make_line_for_state = function(state) {
       .attr("y", 4) 
 
 
-   
-var ed_list = ["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"]
         
 for (i = 0; i < ed_list.length; i++) { 
 
@@ -177,7 +179,7 @@ for (i = 0; i < ed_list.length; i++) {
       .attr("y1", 8+i*12)
       .attr("y2", 8+i*12)
       .attr('stroke-width', 2)
-      .style("stroke", function (i) { return color_scale(i)});  
+      .style("stroke", function (i) { return color_scale(ed_list[i])});  
    }     
         //Legend Male - Female
     var legend_two = vis.append("rect")
