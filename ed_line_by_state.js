@@ -11,7 +11,8 @@ var make_line_for_state = function(state) {
         if(d["industry"]=="00")
         { return d; } 
     })
-    
+    var color_scale = d3.scaleOrdinal()
+            .range(["green", "blue", "red", "orange", "black"]);
     // clean data types
     data.forEach(function(d) {
         d.Emp = +d.Emp;
@@ -173,10 +174,10 @@ for (i = 0; i < ed_list.length; i++) {
     vis.append("line")
       .attr("x1", legenedX+ 90)
       .attr("x2", legenedX+ 105)
-      .attr("y1", 5+i*20)
-      .attr("y2", 5+i*20)
+      .attr("y1", 8+i*12)
+      .attr("y2", 8+i*12)
       .attr('stroke-width', 2)
-      .style("stroke", 'black');  
+      .style("stroke", function (i) { return color_scale(i)});  
    }     
         //Legend Male - Female
     var legend_two = vis.append("rect")
