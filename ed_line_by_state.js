@@ -181,7 +181,7 @@ for (i = 0; i < ed_list.length; i++) {
       .attr('stroke-width', 2)
       .attr("stroke", function () { return (color_scale(ed_list[i])); });
     
-    vis.append("line")
+    vis.append("text")
       .attr("x", legenedX+10)
       .attr("y", 15+i*12)
       .attr("dy", ".35em")
