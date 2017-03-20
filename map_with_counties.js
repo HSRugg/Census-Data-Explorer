@@ -90,7 +90,7 @@ keyLaybels.attr("class", "value")
 		
 d3.queue()
     .defer(d3.json, "https://d3js.org/us-10m.v1.json")
-    .defer(d3.csv, "/Census-Data-Explorer/data_for_US/Construction_county_emp.csv", function(d) { my_map.set(d.id, +d.rate), name_map.set(d.id, d.name); } )
+    .defer(d3.csv, "/Census-Data-Explorer/data_for_US/"+industry+"_county_emp.csv", function(d) { my_map.set(d.id, +d.rate), name_map.set(d.id, d.name); } )
     .await(ready);
     
     function ready(error, us) {
