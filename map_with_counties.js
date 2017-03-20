@@ -4,7 +4,9 @@
 var make_inds_map_with_counties = function(industry) {
 
     try {
-        d3.select('svg').remove()    
+        d3.select('svg').remove()
+        document.getElementById('tooltip').style.visibility = "hidden";
+        document.getElementById('header').remove()
 }
 catch(err) {
    //pass
