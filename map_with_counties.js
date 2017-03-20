@@ -20,7 +20,7 @@ var color = d3.scaleLog()
     .domain([Math.exp(0), Math.exp(10)])
     .range(["#BBDEFB", "darkblue"]);
 
-var g = svg.append("g")
+var g = center.append("g")
     .attr("class", "key")
     .attr("transform", "translate(600,40)");
 
@@ -72,8 +72,6 @@ keyLaybels.attr("class", "value")
               .attr("text-anchor", "end")
               .text(function(d) { return ("e" + formatPower(Math.round(Math.log(d)))).replace(",",""); });
     
-defs = svg.append("defs")
-
 		defs.append("marker")
                 .data([Math.exp(0), Math.exp(2), Math.exp(4), Math.exp(6), Math.exp(8), Math.exp(10), Math.exp(12)])
                 .enter()
@@ -90,20 +88,7 @@ defs = svg.append("defs")
 					"orient":"auto"
 				});
 
-
-		d3.range(1).forEach(function(){ //I don't normally do loops like this, just a whim
-			svg.append('line')
-				.attr({
-					"class":"arrow",
-					"marker-end":"url(#arrow)",
-					"x1":width/2,
-					"y1":height/2,
-					"x2":width-10*2,
-					"y2":height/2
-				});
-		})
 				
-
 		
 d3.queue()
     .defer(d3.json, "https://d3js.org/us-10m.v1.json")
@@ -127,7 +112,7 @@ console.log(missing_arr);
 
            
   missing_fliter(topojson.feature(us, us.objects.counties).features);
-  svg.append("g")
+  center.append("g")
       .attr("class", "counties")
     .selectAll("path")
     .data(topojson.feature(us, us.objects.counties).features)
