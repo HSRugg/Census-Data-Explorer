@@ -167,13 +167,14 @@ var make_line_for_state = function(state) {
    legened_one.selectAll("line")
     .data(["Less Than High School","High School Graduate","Some College","Advanced DegreeUnavalble"])
     .enter()
-    .append("path")
+    .append("line")
       .attr("classs", "legened_two_line")
       .attr("x1", 20)
       .attr("x2", 60)
       .attr("y1", function (d, i) {return 20})
       .attr("y2", function (d, i) {return 20})
       .attr('stroke-width', 2)
+      .attr('fill', 'black')
       .attr('stroke', 'black');  
    
     legened_one.append("line")
