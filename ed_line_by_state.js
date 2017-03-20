@@ -176,10 +176,18 @@ for (i = 0; i < ed_list.length; i++) {
     vis.append("line")
       .attr("x1", legenedX+ 80)
       .attr("x2", legenedX+ 95)
-      .attr("y1", 14+i*12)
-      .attr("y2", 14+i*12)
+      .attr("y1", 15+i*12)
+      .attr("y2", 15+i*12)
       .attr('stroke-width', 2)
-      .attr("stroke", function () { return (color_scale(ed_list[i])); });  
+      .attr("stroke", function () { return (color_scale(ed_list[i])); });
+    
+    vis.append("line")
+      .attr("x", legenedX+10)
+      .attr("y", 15+i*12)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function () { return ed_list[i]; });
+    
    }     
         //Legend Male - Female
     var legend_two = vis.append("rect")
