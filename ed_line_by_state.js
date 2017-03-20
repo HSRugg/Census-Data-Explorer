@@ -173,9 +173,8 @@ var make_line_for_state = function(state) {
       .attr("x2", 60)
       .attr("y1", function (d, i) {return 20})
       .attr("y2", function (d, i) {return 20})
-      .style("fill", 'black')
       .attr('stroke-width', 2)
-      .style("stroke", 'black');  
+      .attr('stroke', 'black');  
    
     legened_one.append("line")
       .attr("x1", legenedX+ 190)
