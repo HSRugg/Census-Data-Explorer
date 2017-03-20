@@ -155,13 +155,13 @@ var make_line_for_state = function(state) {
 //        .call(d3.legend);
       
    var legened_one = vis.append("rect") 
-      .attr("width","140px")
+      .attr("width","180px")
       .attr("height","72px")
       .attr('fill', 'white')
       .attr('stroke', 'black')
       .attr('stroke-width', 1)
       .attr("opacity", .9)
-      .attr("x", legenedX-40)
+      .attr("x", legenedX-80)
       .attr("y", 4) 
 
 var ed_list = ["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"];
