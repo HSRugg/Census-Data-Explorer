@@ -179,7 +179,7 @@ for (i = 0; i < ed_list.length; i++) {
       .attr("y1", 14+i*12)
       .attr("y2", 14+i*12)
       .attr('stroke-width', 2)
-      .attr("stroke", function { return (color_scale(ed_list[i])); });  
+      .attr("stroke", function () { return (color_scale(ed_list[i])); });  
    }     
         //Legend Male - Female
     var legend_two = vis.append("rect")
