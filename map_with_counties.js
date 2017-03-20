@@ -13,8 +13,6 @@ catch(err) {
 }
 document.getElementById('my_p').innerHTML = "Displaying  "+industry+" Data From 2012"
 
-document.getElementById('tooltip').style.visibility = "hidden";
-document.getElementById('header').remove()
 
 
 var svg = d3.select("svg"),
