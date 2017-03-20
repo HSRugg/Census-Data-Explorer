@@ -13,7 +13,7 @@ var make_line_for_state = function(state) {
     })
     
     var ed_list = ["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"]
-    
+    console.log(ed_list)
     var color_scale = d3.scaleOrdinal()
             .domain(["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"])
             .range(["green", "blue", "red", "orange", "black"]);
