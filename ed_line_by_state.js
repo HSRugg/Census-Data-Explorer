@@ -153,7 +153,18 @@ var make_line_for_state = function(state) {
 //        .attr("transform","translate("+legenedX+",20)")
 //        .style("font-size","12px")
 //        .call(d3.legend);
-         
+      
+   var legened_one = legend_two.append("rect") 
+      .attr("width","100px")
+      .attr("height","72px")
+      .attr('fill', 'white')
+      .attr('stroke', 'black')
+      .attr('stroke-width', 1)
+      .attr("opacity", .9)
+      .attr("x", legenedX)
+      .attr("y", 4)
+        
+        //Legend Male Female
     var legend_two = vis.append("rect")
       .attr("width","100px")
       .attr("height","72px")
@@ -164,7 +175,6 @@ var make_line_for_state = function(state) {
       .attr("x", legenedX + 120)
       .attr("y", 4)
         
-    
     var line_types = [(3,3),(3,0)]
   
     vis.append("line")
@@ -174,8 +184,7 @@ var make_line_for_state = function(state) {
       .attr("y2", 25)
       .style("stroke-dasharray", (3,3))
       .attr('stroke-width', 2)
-      .style("stroke", 'black');
-        
+      .style("stroke", 'black');  
     vis.append("line")
       .attr("x1", legenedX+190)
       .attr("x2", legenedX+205)
@@ -184,7 +193,6 @@ var make_line_for_state = function(state) {
       .style("stroke-dasharray", (3,0))
       .attr('stroke-width', 2)
       .style("stroke", 'black');
-
     vis.append("text")
       .attr("x", legenedX+180)
       .attr("y", 25)
@@ -199,7 +207,7 @@ var make_line_for_state = function(state) {
       .text("Female");
     
 
-
+    // y axis lable 
     vis.append("text")      // text label for the x axis
         .attr("x", 70 )
         .attr("y", 12 )
