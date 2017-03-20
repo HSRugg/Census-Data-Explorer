@@ -163,8 +163,29 @@ var make_line_for_state = function(state) {
       .attr("opacity", .9)
       .attr("x", legenedX)
       .attr("y", 4)
+   
+   legened_one.selectAll("line")
+    .data(["Less Than High School","High School Graduate","Some College","Advanced DegreeUnavalble
+    .enter()
+    .append("line")
+      .attr("x1", legenedX+ 190)
+      .attr("x2", legenedX+ 205)
+      .attr("y1", function (d, i) {return i*10})
+      .attr("y2", function (d, i) {return i*10})
+      .style("stroke-dasharray", (3,3))
+      .attr('stroke-width', 2)
+      .style("stroke", 'black');  
+   
+    legened_one.append("line")
+      .attr("x1", legenedX+ 190)
+      .attr("x2", legenedX+ 205)
+      .attr("y1", 25)
+      .attr("y2", 25)
+      .style("stroke-dasharray", (3,3))
+      .attr('stroke-width', 2)
+      .style("stroke", 'black');  
         
-        //Legend Male Female
+        //Legend Male - Female
     var legend_two = vis.append("rect")
       .attr("width","100px")
       .attr("height","72px")
