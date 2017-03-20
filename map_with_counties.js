@@ -118,7 +118,7 @@ console.log(missing_arr);
       .attr("fill", function(d) { return color(my_map.get(d.id))})
       .attr("d", path)
     .append("title")
-      .text(function(d) { return name_map.get(d.id); });
+      .text(function(d) { return name_map.get(d.id) +"Emploied in" +industry+": "+my_map.get(d.id); });
 
   svg.append("path")
       .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
