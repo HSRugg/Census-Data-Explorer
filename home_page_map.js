@@ -16,6 +16,7 @@ var color = d3.scaleLinear()
 //Create SVG element and append map to the SVG
 var svg = d3.select("center")
 			.append("svg")
+            .attr("id", "home_page_map")
             .attr("margin", "auto")
 			.attr("width", width)
 			.attr("height", height);
