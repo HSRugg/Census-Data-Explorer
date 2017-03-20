@@ -174,10 +174,10 @@ for (i = 0; i < ed_list.length; i++) {
     console.log(ed_list[i]);
     console.log(color_scale(ed_list[i]));
     vis.append("line")
-      .attr("x1", legenedX+ 90)
-      .attr("x2", legenedX+ 105)
-      .attr("y1", 8+i*12)
-      .attr("y2", 8+i*12)
+      .attr("x1", legenedX+ 80)
+      .attr("x2", legenedX+ 95)
+      .attr("y1", 14+i*12)
+      .attr("y2", 14+i*12)
       .attr('stroke-width', 2)
       .style("stroke", function (i) { return color_scale(ed_list[i])});  
    }     
