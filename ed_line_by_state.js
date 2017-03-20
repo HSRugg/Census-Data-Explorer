@@ -167,11 +167,12 @@ var make_line_for_state = function(state) {
 var ed_list = ["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"];
     
 var color_scale = d3.scaleOrdinal()
-        .domain(["Less Than High School","High School Graduate","Some College","Advanced Degree","Unavalble"])
+        .domain(["Less Than High School", "High School Graduate", "Some College", "Advanced Degree", "Unavalble"])
         .range(["green", "blue", "red", "orange", "black"]);
 
 for (i = 0; i < ed_list.length; i++) { 
     console.log(ed_list[i]);
+    console.log(color_scale(ed_list[i]));
     vis.append("line")
       .attr("x1", legenedX+ 90)
       .attr("x2", legenedX+ 105)
