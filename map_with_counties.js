@@ -2,8 +2,13 @@
 
     
 var make_inds_map_with_counties = function(industry) {
-    
-d3.select('svg').remove()    
+
+    try {
+        d3.select('svg').remove()    
+}
+catch(err) {
+   //pass
+}
 document.getElementById('my_p').innerHTML = "Displaying  "+industry+" Data From 2012"
 
 document.getElementById('tooltip').style.visibility = "hidden";
