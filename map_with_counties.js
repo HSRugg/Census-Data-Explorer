@@ -8,6 +8,7 @@ document.getElementById('my_p').innerHTML = "Displaying  "+industry+" Data From 
 
 document.getElementById('tooltip').style.visibility = "hidden";
 document.getElementById('header').remove()
+document.getElementById('svg').remove()
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
