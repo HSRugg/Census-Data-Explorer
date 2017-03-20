@@ -174,9 +174,9 @@ var make_line_for_state = function(state) {
       .attr('fill', 'black')
       .attr('stroke', 'black');  
    
-    legened_one.append("line")
-      .attr("x1", legenedX+ 190)
-      .attr("x2", legenedX+ 205)
+    vis.append("line")
+      .attr("x1", legenedX+ 90)
+      .attr("x2", legenedX+ 105)
       .attr("y1", 25)
       .attr("y2", 25)
       .style("stroke-dasharray", (3,3))
