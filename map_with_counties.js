@@ -1,5 +1,13 @@
 
+
+    
 var make_inds_map_with_counties = function(industry) {
+    
+    
+document.getElementById('my_p').innerHTML = "Displaying  "+industry+" Data From 2012"
+
+document.getElementById('tooltip').style.visibility = "hidden";
+document.getElementById('header').remove()
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
