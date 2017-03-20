@@ -154,7 +154,7 @@ var make_line_for_state = function(state) {
 //        .style("font-size","12px")
 //        .call(d3.legend);
       
-   var legened_one = legend_two.append("rect") 
+   var legened_one = vis.append("rect") 
       .attr("width","100px")
       .attr("height","72px")
       .attr('fill', 'white')
