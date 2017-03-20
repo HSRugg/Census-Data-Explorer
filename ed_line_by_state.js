@@ -148,11 +148,11 @@ var make_line_for_state = function(state) {
 
     var legenedX = 450;
     // add legend
-    var legend = vis.append("g")
-        .attr("class","legend")
-        .attr("transform","translate("+legenedX+",20)")
-        .style("font-size","12px")
-        .call(d3.legend);
+//    var legend = vis.append("g")
+//        .attr("class","legend")
+//        .attr("transform","translate("+legenedX+",20)")
+//        .style("font-size","12px")
+//        .call(d3.legend);
          
     var legend_two = vis.append("rect")
       .attr("width","100px")
