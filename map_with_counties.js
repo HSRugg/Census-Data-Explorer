@@ -20,7 +20,7 @@ var color = d3.scaleLog()
     .domain([Math.exp(0), Math.exp(10)])
     .range(["#BBDEFB", "darkblue"]);
 
-var g = center.append("g")
+var g = svg.append("g")
     .attr("class", "key")
     .attr("transform", "translate(600,40)");
 
@@ -71,28 +71,13 @@ keyLaybels.attr("class", "value")
               .attr("dy", ".35em")
               .attr("text-anchor", "end")
               .text(function(d) { return ("e" + formatPower(Math.round(Math.log(d)))).replace(",",""); });
-    
-		defs.append("marker")
-                .data([Math.exp(0), Math.exp(2), Math.exp(4), Math.exp(6), Math.exp(8), Math.exp(10), Math.exp(12)])
-                .enter()
-				.append("path")
-					.attr("d", "M0,-5L10,0L0,5")
-					.attr("class","arrowHead")
-                    .attr({
-					"id":"arrow",
-					"viewBox":"0 -5 10 10",
-					"refX":5,
-					"refY":0,
-					"markerWidth":5,
-					"markerHeight":5,
-					"orient":"auto"
-				});
-
 				
+
 		
 d3.queue()
     .defer(d3.json, "https://d3js.org/us-10m.v1.json")
-    .defer(d3.csv, "/Census-Data-Explorer/data_for_US/Construction_county_emp.csv", function(d) { my_map.set(d.id, +d.rate), name_map.set(d.id, d.name); } )
+    .defer(d3.csv, "/censues_page/Census-Data-Explorer/data_for_US/Construction_county_emp.csv", function(d) { my_map.set(d.id, +d.rate), name_map.set(d.id, d.name); } )
+    .defer(d3.csv, "/censues_page/Census-Data-Explorer/data_for_US/Construction_2011_county_emp.csv", function(d) { map_2011.set(d.id, +d.rate); } )
     .await(ready);
     
     function ready(error, us) {
@@ -112,7 +97,7 @@ console.log(missing_arr);
 
            
   missing_fliter(topojson.feature(us, us.objects.counties).features);
-  center.append("g")
+  svg.append("g")
       .attr("class", "counties")
     .selectAll("path")
     .data(topojson.feature(us, us.objects.counties).features)
@@ -127,10 +112,6 @@ console.log(missing_arr);
       .attr("class", "states")
       .attr("d", path);
         
-//  svg.selectAll("path").transition()
-//        .duration(1500)
-//        .attr("fill", function(d) { return color(map_2011.get(d.id)); });
-
 }
 }
 //make_inds_map_with_counties("Construction")
