@@ -1,4 +1,4 @@
-var make_home_map function (type) {
+var make_home_map = function (type) {
     
     var width = 1000;
     var height = 600;
