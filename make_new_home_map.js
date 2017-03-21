@@ -81,7 +81,7 @@ var make_home_map = function (type) {
         .style("stroke", "#fff")
         .style("stroke-width", "1")
         .style("fill", function(d) { return "#aca3a3" })
-        .on('click', function(d) {make_state_frame(d.properties.name);})
+        .on('click', function(d) {make_state_frame(d.properties.name), d3.select("svg").remove();})
         .on("mouseover", function(d) {      
             div.transition()        
                .duration(200)      
