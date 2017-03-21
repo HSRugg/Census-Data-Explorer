@@ -1,7 +1,9 @@
 var make_home_map = function (type) {
-    document.getElementById("line_plot_one").remove()
+    d3.select("svg").remove();
     document.createElement("svg").setAttribute("id", "line_plot_one");
-    document.getElementById("line_plot_one")
+//    document.getElementById("line_plot_one")
+    document.getElementById('my_p').innerHTML = "Click A State To Explore It's Pay and Emploment by Industry"
+
 //    <svg id="line_plot_one" width="1000" height="700"></svg>
     var width = 1000;
     var height = 600;
