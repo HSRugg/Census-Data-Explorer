@@ -114,7 +114,7 @@ body {
         
         
     }
-    .chart {
+    #chart {
         height: 700px;
         position: relative;
         float: left;
