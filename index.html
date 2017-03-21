@@ -2,17 +2,25 @@
 <html>
 <head>
     <title>Census Data Explorer</title>
-
+<!--d3 utlitys-->
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
     <script src="/Census-Data-Explorer/d3.legend.js"></script>
+    
+    
     <script src = "/Census-Data-Explorer/map_with_counties.js"></script>
     
+<!--    industy state pages-->
     <script src= "make_iframe.js"></script>
     <script src = "/Census-Data-Explorer/make_new_home_map.js"></script>
     
+<!--    Gender diff state pages-->
     <script src="/Census-Data-Explorer/genderPie.js"></script>
+    <script src='/Census-Data-Explorer/ed_line_by_state.js'></script>
     <script src="/Census-Data-Explorer/change_title.js"></script>
+    
+<!--    Starting map-->
+    <script src="/Census-Data-Explorer/home_page_map.js"></script>
     
     <link rel="stylesheet" href="Census_Page.css">
 </head>
@@ -68,16 +76,10 @@ window.onclick = function(e) {
 </div>
 	
 <h2 id = "my_p">Click A State To Explore It's Gender Wage Equality</h2>
-
-<script src="/Census-Data-Explorer/home_page_map.js"></script>
-
-    
+ 
     <div id="map"></div>
 </center>
-    <script src='/Census-Data-Explorer/ed_line_by_state.js'></script>
-    <div class="chart">
-    <svg id="line_plot_one" width="1000" height="700"></svg>
-    </div>
+    
         
     
 </body>
