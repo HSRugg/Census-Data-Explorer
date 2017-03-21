@@ -93,8 +93,8 @@ var paths = svg.selectAll("path")
     
 	
 svg.selectAll("path").transition()
-    .duration(1000)
-    .on('click', function(d) {make_state_frame(d.properties.name);});
+    .duration(8000)
+    .style("fill", function(d) { return colorScaler(d.properties.incress_2009) });
         
 //var make_state_map function () {
 //    svg.selectAll("path").transition()
