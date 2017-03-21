@@ -5,7 +5,7 @@ var make_line_for_state = function(state) {
     chart.setAttribute("id","chart");
     document.body.appendChild(chart);
     
-    var svg = d3.select("chart")
+    var svg = d3.select("#chart")
 			.append("svg")
             .attr("id", "line_plot_one")
             .attr("margin", "auto")
