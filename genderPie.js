@@ -1,6 +1,12 @@
 var path_to_folder = "/Census-Data-Explorer/data_by_state/"
 console.log('im here two')
 var make_pie_for_state = function(state) {
+    
+    var pie_container = document.createElement("div").setAttribute("id","pie_container");
+    var my_pie1 = document.createElement("div").setAttribute("id","mypie1");
+    document.body.appendChild(pie_container);
+    pie_container.appendChild(my_pie1);
+
     var year = "2012";
     var path_to_data = path_to_folder+state+"_small_all_eds.csv";
         d3.csv(path_to_data, function(error, data) {
