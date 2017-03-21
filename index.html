@@ -7,6 +7,7 @@
     <script src="https://d3js.org/topojson.v2.min.js"></script>
     <script src="/Census-Data-Explorer/d3.legend.js"></script>
     <script src = "/Census-Data-Explorer/map_with_counties.js"></script>
+    <script src= "make_iframe.js"></script>
     <link rel="stylesheet" href="Census_Page.css">
 </head>
 <body>
@@ -16,13 +17,24 @@
   <div class="dropdown">
     <button class="dropbtn" onclick="dropDownFunction()">USA Industy Hot Spots</button>
     <div class="dropdown-content" id="myDropdown">
+      <a onClick="make_state_frame();">other thing</a>
+      <a onClick="make_inds_map_with_counties('Agriculture')">Agriculture</a>
+      <a onClick="make_inds_map_with_counties('Construction')">Construction</a>
+      <a onClick="make_inds_map_with_counties('Mining')">Mining</a>
+      
+    </div> 
+  </div> 
+  <div class="dropdown">
+    <button class="dropbtn" onclick="dropDownFunction2()">More To Come</button>
+    <div class="dropdown-content" id="myDropdown">
       <a href="/d3_testing/inds_gender_line_plot_ca.html">other thing</a>
       <a onClick="make_inds_map_with_counties('Agriculture')">Agriculture</a>
       <a onClick="make_inds_map_with_counties('Construction')">Construction</a>
       <a onClick="make_inds_map_with_counties('Mining')">Mining</a>
       
-    </div>
+    </div> 
   </div> 
+  
 </div>
 <script>
 /* When the user clicks on the button, 

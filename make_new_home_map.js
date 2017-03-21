@@ -11,7 +11,7 @@ var path = d3.geoPath()               // path generator that will convert GeoJSO
 		
 // Define linear scale for output
 var color = d3.scaleLinear()
-			  .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"]);
+.range(["rgb(213,222,217)","rgb(217,91,67)","rgb(69,173,168)"]);
 
 //Create SVG element and append map to the SVG
 var svg = d3.select("center")
@@ -63,7 +63,7 @@ d3.csv("/Census-Data-Explorer/data_for_US/US_State_pop_00-09.csv", function(data
 // Make colorScaler
 var colorScaler = d3.scaleLinear()
                         .domain([-.02,.04])
-                        .range(["red","black"]);
+                        .range(["blue","black"]);
     
 // Bind the data to the SVG and create one path per GeoJSON feature
 var paths = svg.selectAll("path")
@@ -73,8 +73,8 @@ var paths = svg.selectAll("path")
 	.attr("d", path)
 	.style("stroke", "#fff")
 	.style("stroke-width", "1")
-	.style("fill", function(d) { return colorScaler(d.properties.incress_2001) })
-    .on('click', function(d) {make_line_for_state(d.properties.name), make_pie_for_state(d.properties.name), changeTitle(d.properties.name);})
+	.style("fill", function(d) { return "#aca3a3" })
+    .on('click', function(d) {make_state_frame(d.properties.name);})
     .on("mouseover", function(d) {      
     	div.transition()        
       	   .duration(200)      
@@ -93,8 +93,8 @@ var paths = svg.selectAll("path")
     
 	
 svg.selectAll("path").transition()
-    .duration(1000)
-    .on('click', function(d) {make_state_frame(d.properties.name);});
+    .delay(1500)
+    .style("fill", function(d) { return colorScaler(d.properties.incress_2009) });
         
 //var make_state_map function () {
 //    svg.selectAll("path").transition()
