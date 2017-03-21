@@ -95,6 +95,11 @@ var paths = svg.selectAll("path")
 svg.selectAll("path").transition()
     .duration(8000)
     .style("fill", function(d) { return colorScaler(d.properties.incress_2009) });
+        
+//var make_state_map function () {
+//    svg.selectAll("path").transition()
+//    .duration(8000)
+//    .style("fill", function(d) { return colorScaler(d.properties.incress_2009) });}; 
     
 
 	});

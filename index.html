@@ -7,6 +7,8 @@
     <script src="https://d3js.org/topojson.v2.min.js"></script>
     <script src="/Census-Data-Explorer/d3.legend.js"></script>
     <script src = "/Census-Data-Explorer/map_with_counties.js"></script>
+    <script src = "/Census-Data-Explorer/new_maps.js"></script>
+
     <link rel="stylesheet" href="Census_Page.css">
 </head>
 <body>
@@ -23,6 +25,14 @@
       <a onClick="make_inds_map_with_counties('Public_Administration')">Public Administration</a>
         
       
+    </div>
+    <div class="dropdown">
+    <button class="dropbtn" onclick="dropDownFunction()">USA Industy Employment</button>
+    <div class="dropdown-content" id="myDropdown">
+      <a onClick="make_state_map('Industy')">By State</a>
+      <a onClick="make_county_map('Industy')">By County</a>
+      
+        
     </div>
   </div> 
 </div>
