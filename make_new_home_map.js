@@ -1,5 +1,8 @@
 var make_home_map = function (type) {
-    
+    document.getElementById("line_plot_one").remove()
+    document.createElement("svg").setAttribute("id", "line_plot_one");
+    document.getElementById("line_plot_one")
+//    <svg id="line_plot_one" width="1000" height="700"></svg>
     var width = 1000;
     var height = 600;
     // D3 Projection
