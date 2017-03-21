@@ -15,9 +15,9 @@
 <div class="container">
   <a href="/Census-Data-Explorer/">Home</a>
 <!--  <a href="#news">Maps</a>-->
-  <div class="dropdown">
-    <button class="dropbtn" onclick="dropDownFunction()">USA Industy Hot Spots</button>
-    <div class="dropdown-content" id="myDropdown">
+  <div class="dropdown1">
+    <button class="dropbtn1" onclick="dropDownFunction1()">USA Industy Hot Spots</button>
+    <div class="dropdown-content1" id="myDropdown1">
       <a href="/d3_testing/inds_gender_line_plot_ca.html">other thing</a>
       <a onClick="make_inds_map_with_counties('Agriculture')">Agriculture</a>
       <a onClick="make_inds_map_with_counties('Construction')">Construction</a>
@@ -26,9 +26,9 @@
         
       
     </div>
-    <div class="dropdown">
-    <button class="dropbtn" onclick="dropDownFunction()">USA Industy Employment</button>
-    <div class="dropdown-content" id="myDropdown">
+    <div class="dropdown2">
+    <button class="dropbtn2" onclick="dropDownFunction2()">USA Industy Employment</button>
+    <div class="dropdown-content2" id="myDropdown2">
       <a onClick="make_state_map('Industy')">By State</a>
       <a onClick="make_county_map('Industy')">By County</a>
       
@@ -39,14 +39,29 @@
 <script>
 /* When the user clicks on the button, 
 toggle between hiding and showing the dropdown content */
-function dropDownFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
+function dropDownFunction1() {
+    document.getElementById("myDropdown1").classList.toggle("show");
 }
 
 // Close the dropdown if the user clicks outside of it
 window.onclick = function(e) {
-  if (!e.target.matches('.dropbtn')) {
-    var myDropdown = document.getElementById("myDropdown");
+  if (!e.target.matches('.dropbtn1')) {
+    var myDropdown = document.getElementById("myDropdown1");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function dropDownFunction1() {
+    document.getElementById("myDropdown2").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn2')) {
+    var myDropdown = document.getElementById("myDropdown2");
       if (myDropdown.classList.contains('show')) {
         myDropdown.classList.remove('show');
       }
