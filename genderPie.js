@@ -2,8 +2,10 @@ var path_to_folder = "/Census-Data-Explorer/data_by_state/"
 console.log('im here two')
 var make_pie_for_state = function(state) {
     
-    var pie_container = document.createElement("div").setAttribute("id","pie_container");
-    var my_pie1 = document.createElement("div").setAttribute("id","mypie1");
+    var pie_container = document.createElement("div");
+    pie_container.setAttribute("id","pie_container");
+    var my_pie1 = document.createElement("div");
+    my_pie1.setAttribute("id","mypie1");
     document.body.appendChild(pie_container);
     pie_container.appendChild(my_pie1);
 
