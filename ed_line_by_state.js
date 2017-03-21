@@ -3,6 +3,7 @@ var make_line_for_state = function(state) {
     
     var chart = document.createElement("div");
     chart.setAttribute("id","chart");
+    document.body.appendChild(chart);
     
     var svg = d3.select("chart")
 			.append("svg")
@@ -183,8 +184,6 @@ var color_scale = d3.scaleOrdinal()
         .range(["green", "blue", "red", "orange", "black"]);
 
 for (i = 0; i < ed_list.length; i++) { 
-    console.log(ed_list[i]);
-    console.log(color_scale(ed_list[i]));
     vis.append("line")
       .attr("x1", legenedX+ 80)
       .attr("x2", legenedX+ 95)
