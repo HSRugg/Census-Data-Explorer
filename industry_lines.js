@@ -17,7 +17,7 @@ var make_inds_lines = function (state) {
     
     // make div for line plot
     var line_plot = document.createElement('div');
-        line_plot.id = "line_plot"
+        line_plot.id = "line_plot";
         line_plot.paddingLeft = 50;
         line_plot.position = "relative";
         line_plot.flot = "left";
