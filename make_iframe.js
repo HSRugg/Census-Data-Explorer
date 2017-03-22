@@ -8,10 +8,9 @@ var make_state_frame = function (state) {
         iframe.id = "inds_iframe";
         iframe.width = 1500;
         iframe.height = 1000;
-        iframe.padding = 50;
 
     // append the body
-    document.body.appendChild(iframe);
+    document.getElementById("page_center").appendChild(iframe);
 
     // create a string to use as a new document object
     var val = '<scr' + 'ipt type="text/javascript" src = "https://d3js.org/d3.v3.min.js" >  </scr' + 'ipt>';
@@ -32,7 +31,6 @@ var make_state_frame = function (state) {
     doc.write(val);
     doc.close();
     
-    window.frames['resultFrame']
     document.getElementById("inds_iframe").contentWindow.make_inds_lines(state);
     document.getElementById("inds_iframe").contentWindow.make_inds_bars(state);
 
