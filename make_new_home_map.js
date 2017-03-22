@@ -1,5 +1,6 @@
 var make_home_map = function (type) {
     d3.select("svg").remove();
+    d3.select("#tooltip").remove();
     document.createElement("svg").setAttribute("id", "line_plot_one");
 //    document.getElementById("line_plot_one")
     document.getElementById('my_p').innerHTML = "Click A State To Explore It's Pay and Emploment by Industry"

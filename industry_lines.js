@@ -1,5 +1,6 @@
 
-var make_inds_lines = function (state){
+var make_inds_lines = function (state) {
+    console.log('State:', state)
     var outerWidth = 800;
     var outerHeight = 800;
     var margin = { left: 120, top: 5, right: 20, bottom: 60 };
