@@ -1,0 +1,24 @@
+.chart-line {
+    fill: none;
+    stroke-width: 1px;
+    }
+
+.axis text {
+font-family: 'Open Sans', sans-serif;
+font-size: 12pt;
+    }
+
+.axis .label {
+font-size: 18pt;
+    }
+
+.axis path, .axis line {
+fill: none;
+stroke: #000;
+shape-rendering: crispEdges;
+    }
+
+.color-legend text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12pt;
+    }

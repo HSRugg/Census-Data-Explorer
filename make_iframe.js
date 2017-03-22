@@ -19,6 +19,7 @@ var make_state_frame = function (state) {
     
     val += '<scr' + 'ipt type="text/javascript" src = "indesty_rank_bars.js" > </scr' + 'ipt>';
     
+    val += '<li' + 'nk rel="stylesheet" href = "Census_Page.css" >';
 
     // get a handle on the <iframe>d document (in a cross-browser way)
     var doc = iframe.contentWindow || iframe.contentDocument;
