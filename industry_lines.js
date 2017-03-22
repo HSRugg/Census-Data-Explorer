@@ -58,7 +58,7 @@ var make_inds_lines = function (state) {
         .attr("class", "color-legend")
         .attr("transform", "translate("+(outerWidth-700) +", 20)");
     
-    // color scale
+    // color scale should be the same in inds_rank_bars
     var colorScale = d3.scale.ordinal()
         .domain(['Agriculture, Forestry, Fishing and Hunting',
     'Mining, Quarrying, and Oil and Gas Extraction', 'Utilities',
