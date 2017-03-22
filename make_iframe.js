@@ -23,7 +23,7 @@ var iframe = document.createElement('iframe');
 
       // create a string to use as a new document object
       var val = '<scr' + 'ipt type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></scr' + 'ipt>';
-      val += '<scr' + 'ipt type="text/javascript"> $(function() { $("body").append("<h1>It works!</h1>"); }); </scr' + 'ipt>';
+      val += '<scr' + 'ipt type="text/javascript" src = "https://d3js.org/d3.v3.min.js" >  </scr' + 'ipt>';
 
       // get a handle on the <iframe>d document (in a cross-browser way)
       var doc = iframe.contentWindow || iframe.contentDocument;
