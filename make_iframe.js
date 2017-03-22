@@ -5,6 +5,7 @@ var make_state_frame = function (state) {
     d3.select('#header').remove()
 
     var iframe = document.createElement('iframe');
+        iframe.id = "inds_iframe";
         iframe.width = 1500;
         iframe.height = 1000;
         iframe.padding = 50;
@@ -31,7 +32,7 @@ var make_state_frame = function (state) {
     doc.write(val);
     doc.close();
 
-    document.getElementById("iframe").contentWindow.make_inds_lines(state);
-    document.getElementById("iframe").contentWindow.make_inds_bars(state);
+    document.getElementById("inds_iframe").contentWindow.make_inds_lines(state);
+    document.getElementById("inds_iframe").contentWindow.make_inds_bars(state);
 
 };
