@@ -52,7 +52,7 @@ var make_inds_bars = function(state) {
         console.log(max);
         console.log(data[0].industry);   
 
-        var width = 400;
+        var width = 500;
         var height = 800;
         var widthScaler = d3.scale.linear()
                         .domain([0,max])

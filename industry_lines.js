@@ -19,10 +19,13 @@ var make_inds_lines = function (state) {
     var line_plot = document.createElement('div');
         line_plot.id = "line_plot"
         line_plot.paddingLeft = 50;
+        line_plot.position = "relative";
+        line_plot.flot = "left";
+        line_plot.padding = 40;
     
     // append the body
     document.body.appendChild(line_plot);
-    
+
     //append svg to div got line plot
     var svg = d3.select("#line_plot").append("svg")
         .attr("width", outerWidth)
