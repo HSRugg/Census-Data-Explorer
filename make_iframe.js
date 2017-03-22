@@ -11,11 +11,10 @@ var iframe = document.createElement('iframe');
         document.getElementById('tooltip').style.visibility = "hidden";
         document.getElementById('header').style.visibility = "hidden";
     
-    var inds_plot_iframe = document.getElementById("inds_plot_iframe");
-    var d3_script = inds_plot_iframe.contentWindow.document.createElement("script");
+    var d3_script = iframe.contentWindow.document.createElement("script");
     d3_script.type = "text/javascript";
     d3_script.src = "https://d3js.org/d3.v3.min.js";
-    inds_plot_iframe.contentWindow.document.body.appendChild(d3_script);
+    iframe.contentWindow.document.body.appendChild(d3_script);
     
     
     
@@ -32,7 +31,7 @@ var iframe = document.createElement('iframe');
         var innerWidth  = outerWidth   - margin.left - margin.right;
         var innerHeight = outerHeight - margin.top  - margin.bottom;
 
-        var svg = inds_plot_iframe.contentWindow.document.body.append("svg")
+        var svg = iframe.contentWindow.document.body.append("svg")
             .attr("width", outerWidth)
             .attr("height", outerHeight);
 
