@@ -1,6 +1,6 @@
 var make_state_frame = function (state) {
 
-    document.getElementById('my_p').innerHTML = "Displaying Data For "+state+"."
+    document.getElementById('my_p').innerHTML = "Displaying Data For The State Of "+state
     document.getElementById('tooltip').style.visibility = "hidden";
     d3.select('#header').remove()
 
