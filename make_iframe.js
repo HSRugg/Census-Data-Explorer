@@ -22,8 +22,8 @@ var iframe = document.createElement('iframe');
       document.body.appendChild(iframe);
 
       // create a string to use as a new document object
-      var val = '<scr' + 'ipt type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></scr' + 'ipt>';
-      val += '<scr' + 'ipt type="text/javascript" src = "https://d3js.org/d3.v3.min.js" >  </scr' + 'ipt>';
+      var val = '<scr' + 'ipt type="text/javascript" src = "https://d3js.org/d3.v3.min.js" >  </scr' + 'ipt>';
+      val += '<scr' + 'ipt type="text/javascript" src = "indesty_rank_bars.js" >  </scr' + 'ipt>';
 
       // get a handle on the <iframe>d document (in a cross-browser way)
       var doc = iframe.contentWindow || iframe.contentDocument;
