@@ -1,4 +1,4 @@
-    console.log('State:', state);
+console.log('here:');
 var make_inds_lines = function (state) {
     console.log('State:', state);
     
