@@ -31,7 +31,8 @@ var make_state_frame = function (state) {
     doc.open();
     doc.write(val);
     doc.close();
-
+    
+    window.frames['resultFrame']
     document.getElementById("inds_iframe").contentWindow.make_inds_lines(state);
     document.getElementById("inds_iframe").contentWindow.make_inds_bars(state);
 

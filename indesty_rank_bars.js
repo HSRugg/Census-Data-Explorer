@@ -1,6 +1,6 @@
 
 var make_inds_bars = function(state) {
-    d3.select("svg").remove();
+//    d3.select("svg").remove();
     
     var path_to_data = "./industry_data.csv";
     d3.csv(path_to_data, function(data) {
