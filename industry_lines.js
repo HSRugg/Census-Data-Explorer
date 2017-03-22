@@ -96,8 +96,7 @@ var make_inds_lines = function (state) {
     .x(function(d) { return xScale(d[xColumn]); })
     .y(function(d) { return yScale(d[yColumn]); });
 
-    // put the rendering in to a funtion
-    var make_inds_plots = function (state) {
+
         function render(data){
             
         data = data.filter(function(d) { 
@@ -131,6 +130,4 @@ var make_inds_lines = function (state) {
         return d;
     }
     d3.csv("industry_data.csv", type, render);
-    }
-    
     }
