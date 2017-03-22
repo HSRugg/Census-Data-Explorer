@@ -17,6 +17,8 @@ var iframe = document.createElement('iframe');
 //    iframe.contentWindow.document.body.appendChild(d3_script);
 //    
      var iframe = document.createElement('iframe');
+      iframe.width = 1500;
+      iframe.height = 1000;
 
       // append the body
       document.body.appendChild(iframe);
