@@ -1,6 +1,7 @@
 
 var make_inds_lines = function (state) {
-    console.log('State:', state)
+    console.log('State:', state);
+    
     var outerWidth = 800;
     var outerHeight = 800;
     var margin = { left: 120, top: 5, right: 20, bottom: 60 };
@@ -123,11 +124,13 @@ var make_inds_lines = function (state) {
         paths.attr("d", function (d){ return line(d.values); })
             .attr("stroke", function (d){ return colorScale(d.key); });
     //        colorLegendG.call(colorLegend);
+            
     }
     function type(d){
         d.year = new Date(d.year);
         d.avrage_pay = +d.avrage_pay;
         return d;
     }
+    
     d3.csv("industry_data.csv", type, render);
     }
