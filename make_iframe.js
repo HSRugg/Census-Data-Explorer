@@ -15,7 +15,7 @@ var make_state_frame = function (state) {
     // create a string to use as a new document object
     var val = '<scr' + 'ipt type="text/javascript" src = "https://d3js.org/d3.v3.min.js" >  </scr' + 'ipt>';
 
-    val += '<scr' + 'ipt type="text/javascript" src = "industry_lines.js" >  </scr' + 'ipt>';
+    val += '<scr' + 'ipt type="text/javascript" src = "industry_lines.js" >make_inds_lines('state')</scr' + 'ipt>';
     
     val += '<scr' + 'ipt type="text/javascript" src = "indesty_rank_bars.js" >  </scr' + 'ipt>';
     
