@@ -93,7 +93,8 @@ var make_inds_lines = function (state) {
     .ticks(6)
     .tickFormat(customTickFormat)
     .outerTickSize(0);
-
+    yAxis.attr("d", 'd="M-6,0H0V741H-6"');
+    
     // difine lines
     var line = d3.svg.line()
     .x(function(d) { return xScale(d[xColumn]); })
@@ -126,7 +127,6 @@ var make_inds_lines = function (state) {
         paths.attr("d", function (d){ return line(d.values); })
             .attr("stroke", function (d){ return colorScale(d.key); })
             .style("fill", "none");
-    //        colorLegendG.call(colorLegend);
             
     }
     function type(d){
