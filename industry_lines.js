@@ -93,7 +93,7 @@ var make_inds_lines = function (state) {
     .ticks(6)
     .tickFormat(customTickFormat)
     .outerTickSize(0);
-    yAxis.attr("d", 'd="M-6,0H0V741H-6"');
+    yAxis.setAttribute("d", 'd="M-6,0H0V741H-6"');
     
     // difine lines
     var line = d3.svg.line()
