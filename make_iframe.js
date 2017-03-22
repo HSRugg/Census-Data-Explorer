@@ -15,9 +15,9 @@ var make_state_frame = function (state) {
     // create a string to use as a new document object
     var val = '<scr' + 'ipt type="text/javascript" src = "https://d3js.org/d3.v3.min.js" >  </scr' + 'ipt>';
 
-    val += '<scr' + 'ipt type="text/javascript" src = "industry_lines.js" >make_inds_lines(' +"'"+state+"'"+ ')</scr' + 'ipt>';
+    val += '<scr' + 'ipt type="text/javascript" src = "industry_lines.js" >    </scr' + 'ipt>';
     
-    val += '<scr' + 'ipt type="text/javascript" src = "indesty_rank_bars.js" >make_inds_bars(' +"'"+state+"'"+ ')</scr' + 'ipt>';
+    val += '<scr' + 'ipt type="text/javascript" src = "indesty_rank_bars.js" > </scr' + 'ipt>';
     
 
     // get a handle on the <iframe>d document (in a cross-browser way)
@@ -26,9 +26,12 @@ var make_state_frame = function (state) {
         doc = doc.document;
     }
 
-// open, write content to, and close the document
-doc.open();
-doc.write(val);
-doc.close();
+    // open, write content to, and close the document
+    doc.open();
+    doc.write(val);
+    doc.close();
+
+    document.getElementById("iframe").contentWindow.make_inds_lines(state);
+    document.getElementById("iframe").contentWindow.make_inds_bars(state);
 
 };
