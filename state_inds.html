@@ -136,39 +136,41 @@ modified from: https://github.com/curran/screencasts/blob/gh-pages/splittingChar
 //        .shapeWidth(15*2.18)
 //        .shapeHeight(15*2.18)
 //        .labelOffset(8);
-    function render(data){
-        console.log(data[0])
-        data = data.filter(function(d) { 
-            if(d["industry"]!= "00" && d["state"] == "California")
-            { return d; } 
-            })
-        console.log(data[0])
+        
+        var make_inds_plots = function (state) {
+            function render(data){
+            console.log(data[0])
+            data = data.filter(function(d) { 
+                if(d["industry"]!= "00" && d["state"] == state)
+                { return d; } 
+                })
+            console.log(data[0])
 
-        xScale.domain(d3.extent(data, function (d){ return d[xColumn]; }));
-        yScale.domain([0, d3.max(data, function (d){ return d[yColumn]; })]);
-        xAxisG.call(xAxis);
-        yAxisG.call(yAxis);
-        var nested = d3.nest()
-          .key(function (d){ return d[lineColumn]; })
-          .entries(data);
-        colorScale.domain(nested.map(function (d){ return d.key; }));
-        var paths = g.selectAll(".chart-line")
-            .data(nested);
-        paths.enter().append("path")
-            .attr("class", "chart-line")
-            .attr("id", function (d){ return d.key.split(' ').join('').replace("(", "").replace(")","").split(',').join(''); });
-        paths.exit().remove();
+            xScale.domain(d3.extent(data, function (d){ return d[xColumn]; }));
+            yScale.domain([0, d3.max(data, function (d){ return d[yColumn]; })]);
+            xAxisG.call(xAxis);
+            yAxisG.call(yAxis);
+            var nested = d3.nest()
+              .key(function (d){ return d[lineColumn]; })
+              .entries(data);
+            colorScale.domain(nested.map(function (d){ return d.key; }));
+            var paths = g.selectAll(".chart-line")
+                .data(nested);
+            paths.enter().append("path")
+                .attr("class", "chart-line")
+                .attr("id", function (d){ return d.key.split(' ').join('').replace("(", "").replace(")","").split(',').join(''); });
+            paths.exit().remove();
 
-        paths.attr("d", function (d){ return line(d.values); })
-            .attr("stroke", function (d){ return colorScale(d.key); });
-//        colorLegendG.call(colorLegend);
-    }
-    function type(d){
-        d.year = new Date(d.year);
-        d.avrage_pay = +d.avrage_pay;
-        return d;
-    }
-    d3.csv("industry_data.csv", type, render);
+            paths.attr("d", function (d){ return line(d.values); })
+                .attr("stroke", function (d){ return colorScale(d.key); });
+    //        colorLegendG.call(colorLegend);
+        }
+        function type(d){
+            d.year = new Date(d.year);
+            d.avrage_pay = +d.avrage_pay;
+            return d;
+        }
+        d3.csv("industry_data.csv", type, render);}
     </script>
 
   </body>
