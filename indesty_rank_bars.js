@@ -1,9 +1,29 @@
 
-var make_circles_for_state = function(state) {
+var make_inds_bars = function(state) {
     d3.select("svg").remove();
     
     var path_to_data = "./industry_data.csv";
     d3.csv(path_to_data, function(data) {
+        
+         // color scale
+    var colorScale = d3.scale.ordinal()
+        .domain(['Agriculture, Forestry, Fishing and Hunting',
+    'Mining, Quarrying, and Oil and Gas Extraction', 'Utilities',
+    'Construction', 'Manufacturing', 'Wholesale Trade', 'Retail Trade',
+    'Transportation and Warehousing', 'Information',
+    'Finance and Insurance', 'Real Estate and Rental and Leasing',
+    'Professional, Scientific, and Technical Services',
+    'Management of Companies and Enterprises',
+    'Administrative, Support, Waste Management, and Remediation Services',
+    'Educational Services', 'Health Care and Social Assistance',
+    'Arts, Entertainment, and Recreation',
+    'Accommodation and Food Services',
+    'Other Services (except Public Administration)',
+    'Public Administration'])
+    .range(["#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#98df8a",
+                "#d62728","#ff9896","#9467bd","#c5b0d5","#8c564b","#c49c94",
+                "#e377c2","#f7b6d2","#7f7f7f","#c7c7c7","#bcbd22","#dbdb8d",
+                "#17becf", "#9edae5"]);  
         
         var year = "2004";
         var data = data.filter(function(d) { 
@@ -80,5 +100,3 @@ var make_circles_for_state = function(state) {
         
         }        
     )};
-
-make_circles_for_state("Utah")
