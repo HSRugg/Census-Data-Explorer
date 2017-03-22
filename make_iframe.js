@@ -31,7 +31,7 @@ var iframe = document.createElement('iframe');
         var innerWidth  = outerWidth   - margin.left - margin.right;
         var innerHeight = outerHeight - margin.top  - margin.bottom;
 
-        var svg = iframe.contentWindow.document.body.append("svg")
+        var svg = d3.select("body").append("svg")
             .attr("width", outerWidth)
             .attr("height", outerHeight);
 
