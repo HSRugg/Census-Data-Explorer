@@ -124,7 +124,8 @@ var make_inds_lines = function (state) {
         paths.exit().remove();
 
         paths.attr("d", function (d){ return line(d.values); })
-            .attr("stroke", function (d){ return colorScale(d.key); });
+            .attr("stroke", function (d){ return colorScale(d.key); })
+            .attr("fill", "none"; );
     //        colorLegendG.call(colorLegend);
             
     }
