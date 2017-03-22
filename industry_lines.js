@@ -12,13 +12,25 @@ var make_inds_lines = function (state){
     var yAxisLabelOffset = 60;
     var innerWidth  = outerWidth   - margin.left - margin.right;
     var innerHeight = outerHeight - margin.top  - margin.bottom;
-
-    var svg = d3.select("body").append("svg")
+    
+    // make div for line plot
+    var line_plot = document.createElement('div');
+        line_plot.id = "line_plot"
+        line_plot.paddingLeft = 50;
+    
+    // append the body
+    document.body.appendChild(line_plot);
+    
+    //append svg to div got line plot
+    var svg = d3.select("#line_plot").append("svg")
         .attr("width", outerWidth)
         .attr("height", outerHeight);
-
+    
+    // create a group to move things togeather with prior defined values
     var g = svg.append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    
+    // add axis to the group with prior defined values
     var xAxisG = g.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + innerHeight + ")")
@@ -34,14 +46,17 @@ var make_inds_lines = function (state){
         .attr("transform", "translate(-" + yAxisLabelOffset + "," + (innerHeight / 2) + ") rotate(-90)")
         .attr("class", "label")
         .text(yAxisLabelText);
-    var colorLegendG = g.append("g")
-        .attr("class", "color-legend")
-        .attr("transform", "translate("+(outerWidth-700) +", 20)");
-
+    
+    // scales for axis
     var xScale = d3.time.scale().range([0, innerWidth]);
     var yScale = d3.scale.linear().range([innerHeight, 0]);
 
-
+    //legend
+    var colorLegendG = g.append("g")
+        .attr("class", "color-legend")
+        .attr("transform", "translate("+(outerWidth-700) +", 20)");
+    
+    // color scale
     var colorScale = d3.scale.ordinal()
         .domain(['Agriculture, Forestry, Fishing and Hunting',
     'Mining, Quarrying, and Oil and Gas Extraction', 'Utilities',
@@ -61,11 +76,13 @@ var make_inds_lines = function (state){
                 "#e377c2","#f7b6d2","#7f7f7f","#c7c7c7","#bcbd22","#dbdb8d",
                 "#17becf", "#9edae5"]);
 
+    // formate ticks for axis
     var siFormat = d3.format("s");
     var customTickFormat = function (d){
     return siFormat(d).replace("G", "B");
     };
-
+    
+    // add axis
     var xAxis = d3.svg.axis().scale(xScale).orient("bottom")
     .ticks(8);
     var yAxis = d3.svg.axis().scale(yScale).orient("left")
@@ -73,19 +90,15 @@ var make_inds_lines = function (state){
     .tickFormat(customTickFormat)
     .outerTickSize(0);
 
+    // difine lines
     var line = d3.svg.line()
     .x(function(d) { return xScale(d[xColumn]); })
     .y(function(d) { return yScale(d[yColumn]); });
-    //      var colorLegend = d3.legend.color()
-    //        .scale(colorScale)
-    //        .shapePadding(3)
-    //        .shapeWidth(15*2.18)
-    //        .shapeHeight(15*2.18)
-    //        .labelOffset(8);
 
+    // put the rendering in to a funtion
     var make_inds_plots = function (state) {
         function render(data){
-        console.log(data[0])
+            
         data = data.filter(function(d) { 
             if(d["industry"]!= "00" && d["state"] == state)
             { return d; } 
@@ -118,4 +131,5 @@ var make_inds_lines = function (state){
     }
     d3.csv("industry_data.csv", type, render);
     }
+    
     }
