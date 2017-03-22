@@ -2,9 +2,9 @@ console.log('here:');
 var make_inds_lines = function (state) {
     console.log('State:', state);
     
-    var outerWidth = 800;
+    var outerWidth = 700;
     var outerHeight = 800;
-    var margin = { left: 120, top: 5, right: 20, bottom: 60 };
+    var margin = { left: 60, top: 5, right: 20, bottom: 60 };
     var xColumn = "year";
     var yColumn = "avrage_pay";
     var lineColumn = "industry";
