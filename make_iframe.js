@@ -8,6 +8,7 @@ var make_state_frame = function (state) {
         iframe.id = "inds_iframe";
         iframe.width = 1500;
         iframe.height = 1000;
+        iframe.setAttribute('frameborder', 0);
 
     // append the body
     document.getElementById("page_center").appendChild(iframe);
